@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Christian Kabasele,Watford,0.18,,Blocked,6.0,Head,,Will Hughes,Pass (Dead),,
+1,5,James Maddison,Leicester City,0.03,,Blocked,29.0,Right Foot,,Jamie Vardy,Pass (Live),Harvey Barnes,Pass (Live)
+2,11,Jamie Vardy,Leicester City,0.16,,Blocked,6.0,Right Foot,,Ben Chilwell,Pass (Live),Youri Tielemans,Pass (Live)
+3,12,Harvey Barnes,Leicester City,0.03,,Blocked,28.0,Right Foot,,Jamie Vardy,Pass (Live),Ben Chilwell,Pass (Live)
+4,12,Youri Tielemans,Leicester City,0.03,,Off Target,29.0,Right Foot,,Harvey Barnes,Shot,,
+5,16,Jamie Vardy,Leicester City,0.03,,Off Target,27.0,Right Foot,,,,,
+6,29,Wilfred Ndidi,Leicester City,0.03,,Off Target,28.0,Right Foot,,Youri Tielemans,Tackle,,
+7,34,Abdoulaye Doucouré,Watford,0.06,,Off Target,16.0,Right Foot,,Adam Masina,Pass (Live),Craig Dawson,Pass (Live)
+8,34,Abdoulaye Doucouré,Watford,0.27,0.1,Saved,14.0,Right Foot,,Troy Deeney,Pass (Live),,
+9,,,,,,,,,,,,,
+10,47,James Maddison,Leicester City,0.06,,Blocked,31.0,Right Foot,Free kick,Youri Tielemans,Fouled,Youri Tielemans,Take-On
+11,48,Ismaila Sarr,Watford,0.48,0.44,Saved,16.0,Left Foot,,Étienne Capoue,Pass (Live),,
+12,50,Troy Deeney,Watford,0.1,,Off Target,9.0,Head,,Ismaila Sarr,Pass (Live),Kiko Femenía,Pass (Live)
+13,53,James Maddison,Leicester City,0.05,,Blocked,25.0,Left Foot,,James Maddison,Take-On,James Justin,Pass (Live)
+14,54,Roberto Pereyra,Watford,0.03,0.03,Saved,21.0,Right Foot,,Roberto Pereyra,Take-On,Will Hughes,Pass (Dead)
+15,61,Çağlar Söyüncü,Leicester City,0.32,,Off Target,4.0,Head,,James Maddison,Pass (Dead),James Justin,Fouled
+16,68,Demarai Gray,Leicester City,0.03,,Off Target,20.0,Right Foot,,Ben Chilwell,Pass (Live),James Maddison,Pass (Live)
+17,75,Marc Albrighton,Leicester City,0.05,,Woodwork,17.0,Right Foot,,Demarai Gray,Pass (Live),Ben Chilwell,Pass (Live)
+18,75,James Maddison,Leicester City,0.05,0.43,Saved,22.0,Left Foot,,Demarai Gray,Pass (Live),Youri Tielemans,Pass (Live)
+19,75,James Maddison,Leicester City,0.03,,Off Target,26.0,Left Foot,,James Maddison,Take-On,James Justin,Pass (Live)
+20,78,Demarai Gray,Leicester City,0.03,,Blocked,29.0,Right Foot,,Ben Chilwell,Pass (Live),James Maddison,Pass (Live)
+21,85,Adam Masina,Watford,0.02,,Off Target,31.0,Left Foot,Volley,Christian Kabasele,Fouled,Troy Deeney,Fouled
+22,90,Ben Chilwell,Leicester City,0.04,0.8,Goal,19.0,Left Foot,,Demarai Gray,Pass (Live),Jonny Evans,Pass (Live)
+23,90+3,Craig Dawson,Watford,0.14,0.12,Goal,9.0,Right Foot,Volley,Danny Welbeck,Pass (Live),José Holebas,Pass (Dead)

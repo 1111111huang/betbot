@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Tammy Abraham,Chelsea,0.05,,Off Target,13.0,Right Foot,,Mason Mount,Pass (Live),Willian,Pass (Live)
+1,8,Tammy Abraham,Chelsea,0.07,,Blocked,10.0,Head,,N'Golo Kanté,Pass (Live),César Azpilicueta,Pass (Live)
+2,10,Antonio Rüdiger,Chelsea,0.02,,Off Target,33.0,Right Foot,,Willian,Pass (Live),Willian,Take-On
+3,12,Willian,Chelsea,0.03,0.51,Goal,16.0,Right Foot,,Mateo Kovačić,Pass (Live),Willian,Pass (Dead)
+4,20,Tammy Abraham,Chelsea,0.04,,Off Target,14.0,Head,,Marcos Alonso,Pass (Live),Fikayo Tomori,Pass (Live)
+5,24,Marcos Alonso,Chelsea,0.04,,Blocked,23.0,Left Foot,Volley,,,,
+6,25,Mason Mount,Chelsea,0.06,,Off Target,12.0,Right Foot,,Willian,Pass (Live),Mason Mount,Pass (Live)
+7,28,Harry Kane,Tottenham,0.08,,Off Target,14.0,Right Foot,,Moussa Sissoko,Pass (Live),Lucas Moura,Pass (Live)
+8,29,Son Heung-min,Tottenham,0.04,,Off Target,9.0,Left Foot,,Harry Kane,Pass (Live),Lucas Moura,Pass (Live)
+9,45+4,Willian (pen),Chelsea,0.79,0.99,Goal,13.0,Right Foot,,Marcos Alonso,Fouled,N'Golo Kanté,Pass (Live)
+10,,,,,,,,,,,,,
+11,55,Christian Eriksen,Tottenham,0.03,,Blocked,29.0,Left Foot,,Serge Aurier,Pass (Live),Christian Eriksen,Pass (Live)
+12,55,Marcos Alonso,Chelsea,0.03,0.02,Saved,23.0,Left Foot,,Willian,Pass (Live),Tammy Abraham,Pass (Live)
+13,59,Mason Mount,Chelsea,0.09,,Blocked,20.0,Right Foot,Free kick,Willian,Fouled,Marcos Alonso,Pass (Live)
+14,74,N'Golo Kanté,Chelsea,0.02,,Off Target,30.0,Right Foot,,Jorginho,Pass (Live),Mason Mount,Pass (Live)
+15,87,Christian Eriksen,Tottenham,0.07,,Blocked,25.0,Right Foot,Free kick,Dele Alli,Fouled,Danny Rose,Pass (Live)
+16,89,Reece James,Chelsea,0.07,,Blocked,11.0,Right Foot,Volley,Willian,Pass (Live),Marcos Alonso,Pass (Live)
+17,90+4,Michy Batshuayi,Chelsea,0.04,,Off Target,19.0,Left Foot,,Willian,Pass (Live),Marcos Alonso,Pass (Live)
+18,90+7,Harry Kane,Tottenham,0.06,0.12,Saved,16.0,Left Foot,Deflected,Tanguy Ndombele,Pass (Live),Dele Alli,Pass (Live)

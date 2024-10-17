@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Wesley Fofana,Leicester City,0.11,0.3,Saved,9.0,Left Foot,,Jamie Vardy,Pass (Live),Wesley Fofana,Tackle
+1,10.0,Gabriel Jesus,Arsenal,0.14,,Off Target,5.0,Head,,Gabriel Martinelli,Pass (Dead),Gabriel Jesus,Fouled
+2,16.0,Gabriel Magalhães,Arsenal,0.05,,Off Target,8.0,Head,,Martin Ødegaard,Pass (Dead),Gabriel Martinelli,Fouled
+3,20.0,Granit Xhaka,Arsenal,0.04,,Woodwork,7.0,Head,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+4,20.0,Oleksandr Zinchenko,Arsenal,0.06,,Off Target,15.0,Left Foot,Volley,Granit Xhaka,Shot,,
+5,23.0,Gabriel Jesus,Arsenal,0.07,0.56,Goal,14.0,Right Foot,Deflected,Granit Xhaka,Pass (Live),Gabriel Martinelli,Pass (Live)
+6,34.0,Gabriel Jesus,Arsenal,0.19,,Off Target,7.0,Head,,Bukayo Saka,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+7,34.0,Martin Ødegaard,Arsenal,0.03,,Blocked,25.0,Left Foot,,Gabriel Jesus,Pass (Live),Martin Ødegaard,Pass (Live)
+8,35.0,Gabriel Jesus,Arsenal,0.81,0.89,Goal,1.0,Head,,,,,
+9,39.0,Oleksandr Zinchenko,Arsenal,0.02,,Blocked,28.0,Left Foot,,Granit Xhaka,Pass (Live),Thomas Partey,Pass (Live)
+10,41.0,Gabriel Jesus,Arsenal,0.33,0.45,Saved,10.0,Right Foot,,Gabriel Martinelli,Pass (Live),Gabriel Jesus,Pass (Live)
+11,,,,,,,,,,,,,
+12,55.0,Granit Xhaka,Arsenal,0.34,0.42,Goal,10.0,Left Foot,,Bukayo Saka,Pass (Live),Ben White,Pass (Live)
+13,57.0,Thomas Partey,Arsenal,0.03,,Off Target,33.0,Right Foot,,Gabriel Martinelli,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+14,71.0,Kelechi Iheanacho,Leicester City,0.03,,Off Target,16.0,Left Foot,Volley,James Maddison,Pass (Live),Danny Ward,Pass (Live)
+15,71.0,Patson Daka,Leicester City,0.07,,Blocked,10.0,Left Foot,,Kelechi Iheanacho,Shot,,
+16,71.0,Gabriel Jesus,Arsenal,0.04,,Off Target,15.0,Right Foot,,Bukayo Saka,Pass (Live),Gabriel Jesus,Pass (Live)
+17,74.0,James Maddison,Leicester City,0.09,0.17,Goal,10.0,Right Foot,,Kelechi Iheanacho,Pass (Live),James Maddison,Pass (Live)
+18,75.0,Gabriel Martinelli,Arsenal,0.05,0.62,Goal,22.0,Left Foot,,Gabriel Jesus,Pass (Live),Martin Ødegaard,Pass (Live)
+19,79.0,Kiernan Dewsbury-Hall,Leicester City,0.03,,Off Target,24.0,Left Foot,,Dennis Praet,Pass (Live),Wilfred Ndidi,Pass (Live)
+20,80.0,Bukayo Saka,Arsenal,0.04,0.28,Saved,12.0,Left Foot,,Gabriel Martinelli,Pass (Live),Takehiro Tomiyasu,Pass (Dead)
+21,80.0,Gabriel Jesus,Arsenal,0.35,,Off Target,4.0,Left Foot,Volley,Bukayo Saka,Shot,,
+22,86.0,Thomas Partey,Arsenal,0.18,,Blocked,7.0,Head,,Emile Smith Rowe,Pass (Dead),William Saliba,Pass (Live)
+23,86.0,Thomas Partey,Arsenal,0.18,,Blocked,8.0,Right Foot,Volley,Thomas Partey,Take-On,Thomas Partey,Shot
+24,87.0,James Maddison,Leicester City,0.13,,Off Target,17.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Wilfred Ndidi,Pass (Live)
+25,90.0,Eddie Nketiah,Arsenal,0.04,0.15,Saved,17.0,Left Foot,,Martin Ødegaard,Pass (Live),Gabriel Magalhães,Pass (Live)

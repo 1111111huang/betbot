@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Jóhann Berg Guðmundsson,Burnley,0.03,0.02,Saved,24.0,Left Foot,,Ashley Westwood,Pass (Live),Matthew Lowton,Pass (Live)
+1,6.0,George Baldock,Sheffield Utd,0.04,,Off Target,12.0,Head,,Jack Robinson,Pass (Live),Ben Osborn,Pass (Live)
+2,9.0,Chris Wood,Burnley,0.12,,Blocked,5.0,Head,,Dwight McNeil,Pass (Dead),James Tarkowski,Pass (Live)
+3,9.0,Dwight McNeil,Burnley,0.03,0.07,Saved,22.0,Left Foot,,Chris Wood,Shot,,
+4,11.0,Jimmy Dunne,Burnley,0.05,,Off Target,14.0,Right Foot,Volley,Ashley Westwood,Pass (Dead),Dwight McNeil,Shot
+5,11.0,Jimmy Dunne,Burnley,0.02,,Blocked,23.0,Left Foot,,Jack Cork,Pass (Live),Jack Cork,Tackle
+6,15.0,David McGoldrick,Sheffield Utd,0.08,,Off Target,5.0,Left Foot,Volley,George Baldock,Pass (Live),Enda Stevens,Pass (Live)
+7,24.0,David McGoldrick,Sheffield Utd,0.03,0.31,Goal,30.0,Right Foot,,Enda Stevens,Pass (Live),Jack Robinson,Pass (Live)
+8,27.0,Ben Osborn,Sheffield Utd,0.03,0.03,Saved,31.0,Left Foot,,Aaron Ramsdale,Pass (Live),Oliver Norwood,Pass (Live)
+9,36.0,David McGoldrick,Sheffield Utd,0.03,,Blocked,19.0,Right Foot,,,,,
+10,36.0,Chris Basham,Sheffield Utd,0.05,,Woodwork,10.0,Right Foot,,Chris Basham,Take-On,David McGoldrick,Shot
+11,44.0,Dwight McNeil,Burnley,0.04,0.03,Saved,20.0,Left Foot,,Jack Cork,Pass (Live),James Tarkowski,Tackle
+12,,,,,,,,,,,,,
+13,48.0,Jimmy Dunne,Burnley,0.03,,Blocked,11.0,Head,,Ashley Westwood,Pass (Dead),Dwight McNeil,Pass (Live)
+14,52.0,David McGoldrick,Sheffield Utd,0.04,,Blocked,19.0,Right Foot,,David McGoldrick,Tackle,,
+15,52.0,David McGoldrick,Sheffield Utd,0.04,,Off Target,10.0,Head,,Oliver Norwood,Pass (Dead),David McGoldrick,Shot
+16,57.0,John Egan,Sheffield Utd,0.05,,Off Target,11.0,Head,,Oliver Norwood,Pass (Dead),George Baldock,Pass (Live)
+17,58.0,Jimmy Dunne,Burnley,0.09,,Off Target,5.0,Head,,Ashley Westwood,Pass (Dead),Charlie Taylor,Pass (Live)
+18,60.0,Jack Robinson,Sheffield Utd,0.03,,Off Target,27.0,Left Foot,,Oliver Norwood,Pass (Live),John Fleck,Pass (Live)
+19,62.0,James Tarkowski,Burnley,0.31,,Off Target,5.0,Head,,Ashley Westwood,Pass (Dead),Matthew Lowton,Fouled
+20,78.0,Jay Rodriguez,Burnley,0.35,,Blocked,4.0,Head,,Jack Cork,Pass (Live),Jóhann Berg Guðmundsson,Pass (Live)
+21,86.0,Rhian Brewster,Sheffield Utd,0.04,0.15,Saved,22.0,Right Foot,,David McGoldrick,Pass (Live),John Fleck,Pass (Live)
+22,89.0,David McGoldrick,Sheffield Utd,0.04,,Off Target,13.0,Head,,Oliver Norwood,Pass (Dead),Rhian Brewster,Fouled

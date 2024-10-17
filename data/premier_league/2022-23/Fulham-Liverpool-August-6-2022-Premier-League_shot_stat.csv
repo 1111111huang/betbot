@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Aleksandar Mitrović,Fulham,0.09,,Off Target,15.0,Right Foot,,,,,
+1,22,Mohamed Salah,Liverpool,0.02,,Off Target,10.0,Head,,Trent Alexander-Arnold,Pass (Live),Fabinho,Pass (Live)
+2,24,João Palhinha,Fulham,0.04,,Blocked,17.0,Right Foot,,Tim Ream,Pass (Live),Andreas Pereira,Pass (Dead)
+3,24,João Palhinha,Fulham,0.07,,Blocked,19.0,Left Foot,,João Palhinha,Shot,,
+4,29,Jordan Henderson,Liverpool,0.03,,Blocked,25.0,Right Foot,Volley,Mohamed Salah,Pass (Live),Luis Díaz,Fouled
+5,31,Harrison Reed,Fulham,0.06,,Blocked,18.0,Right Foot,Volley,Bobby Reid,Pass (Live),Aleksandar Mitrović,Pass (Live)
+6,32,Aleksandar Mitrović,Fulham,0.07,0.2,Goal,5.0,Head,Deflected,Kenny Tete,Pass (Live),Neeskens Kebano,Pass (Live)
+7,39,Luis Díaz,Liverpool,0.06,,Woodwork,11.0,Left Foot,,Thiago Alcántara,Pass (Live),Jordan Henderson,Pass (Live)
+8,,,,,,,,,,,,,
+9,56,Andreas Pereira,Fulham,0.05,,Blocked,21.0,Right Foot,,Aleksandar Mitrović,Pass (Live),Aleksandar Mitrović,Take-On
+10,57,Neeskens Kebano,Fulham,0.05,,Woodwork,18.0,Right Foot,,Harrison Reed,Pass (Live),Tim Ream,Pass (Live)
+11,58,Bobby Reid,Fulham,0.04,0.04,Saved,21.0,Left Foot,,Andreas Pereira,Pass (Live),,
+12,61,Darwin Núñez,Liverpool,0.06,0.22,Saved,6.0,Right Foot,,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+13,64,Darwin Núñez,Liverpool,0.29,0.96,Goal,5.0,Right Foot,,Harvey Elliott,Pass (Live),James Milner,Pass (Live)
+14,67,Darwin Núñez,Liverpool,0.17,,Blocked,6.0,Left Foot,,Jordan Henderson,Pass (Live),Virgil van Dijk,Pass (Live)
+15,69,Luis Díaz,Liverpool,0.12,,Blocked,8.0,Right Foot,Volley,Darwin Núñez,Pass (Live),James Milner,Pass (Live)
+16,72,Aleksandar Mitrović (pen),Fulham,0.79,1.0,Goal,13.0,Right Foot,,Aleksandar Mitrović,Fouled,Manor Solomon,Pass (Live)
+17,76,Darwin Núñez,Liverpool,0.04,,Off Target,14.0,Right Foot,Volley,Jordan Henderson,Pass (Live),Trent Alexander-Arnold,Pass (Dead)
+18,80,Fabio Carvalho,Liverpool,0.05,,Off Target,14.0,Right Foot,Volley,,,,
+19,81,Mohamed Salah,Liverpool,0.36,0.73,Goal,9.0,Left Foot,,Harvey Elliott,Pass (Live),Fabio Carvalho,Pass (Live)
+20,90+4,Jordan Henderson,Liverpool,0.03,,Woodwork,28.0,Right Foot,,Harvey Elliott,Pass (Live),Harvey Elliott,Pass (Live)

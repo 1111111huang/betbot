@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Odsonne Édouard,Crystal Palace,0.2,0.88,Goal,8.0,Left Foot,Volley,Jordan Ayew,Pass (Live),Odsonne Édouard,Pass (Live)
+1,10,Eberechi Eze,Crystal Palace,0.03,0.27,Saved,31.0,Right Foot,,Michael Olise,Pass (Live),Nathaniel Clyne,Pass (Live)
+2,11,Eberechi Eze,Crystal Palace,0.03,,Off Target,20.0,Right Foot,,Wilfried Zaha,Pass (Live),Eberechi Eze,Pass (Dead)
+3,19,Mason Mount,Chelsea,0.09,,Off Target,10.0,Head,,Kai Havertz,Pass (Live),Mateo Kovačić,Pass (Live)
+4,24,Raheem Sterling,Chelsea,0.06,,Blocked,12.0,Right Foot,,Reece James,Pass (Live),Kai Havertz,Pass (Live)
+5,24,Raheem Sterling,Chelsea,0.33,,Woodwork,4.0,Right Foot,,Raheem Sterling,Shot,,
+6,26,Eberechi Eze,Crystal Palace,0.04,,Off Target,20.0,Right Foot,,Odsonne Édouard,Pass (Live),Jordan Ayew,Pass (Live)
+7,38,Pierre-Emerick Aubameyang,Chelsea,0.04,,Off Target,14.0,Right Foot,,Mason Mount,Pass (Dead),Thiago Silva,Pass (Live)
+8,38,Thiago Silva,Chelsea,0.16,,Blocked,11.0,Left Foot,,Pierre-Emerick Aubameyang,Shot,,
+9,38,Pierre-Emerick Aubameyang,Chelsea,0.06,0.3,Goal,15.0,Right Foot,Volley,Thiago Silva,Pass (Live),Reece James,Pass (Live)
+10,45+2,Mason Mount,Chelsea,0.05,,Off Target,12.0,Right Foot,,Reece James,Pass (Live),Kai Havertz,Pass (Dead)
+11,45+3,Eberechi Eze,Crystal Palace,0.01,,Off Target,36.0,Right Foot,,Eberechi Eze,Take-On,Cheick Doucouré,Pass (Live)
+12,45+5,Kai Havertz,Chelsea,0.04,,Off Target,26.0,Left Foot,,Raheem Sterling,Pass (Live),,
+13,,,,,,,,,,,,,
+14,56,Ben Chilwell,Chelsea,0.04,,Off Target,22.0,Left Foot,,Raheem Sterling,Pass (Live),Kai Havertz,Pass (Live)
+15,59,Kai Havertz,Chelsea,0.08,,Blocked,13.0,Left Foot,,Mason Mount,Pass (Live),Reece James,Pass (Live)
+16,71,Wilfried Zaha,Crystal Palace,0.06,0.09,Saved,16.0,Right Foot,,Michael Olise,Pass (Live),Wilfried Zaha,Pass (Live)
+17,75,Mason Mount,Chelsea,0.06,,Off Target,16.0,Right Foot,,Raheem Sterling,Pass (Live),Pierre-Emerick Aubameyang,Pass (Live)
+18,79,Raheem Sterling,Chelsea,0.08,0.23,Saved,13.0,Right Foot,,Thiago Silva,Pass (Live),Ben Chilwell,Pass (Live)
+19,86,Jean-Philippe Mateta,Crystal Palace,0.06,,Off Target,10.0,Head,,Michael Olise,Pass (Dead),Jordan Ayew,Pass (Live)
+20,90,Conor Gallagher,Chelsea,0.04,0.5,Goal,25.0,Right Foot,,Conor Gallagher,Take-On,Christian Pulisic,Pass (Live)

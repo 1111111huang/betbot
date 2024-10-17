@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,13,Diego Costa,Wolves,0.06,,Off Target,13.0,Head,,Daniel Podence,Pass (Live),Max Kilman,Pass (Live)
+1,15,Yoane Wissa,Brentford,0.04,,Off Target,16.0,Right Foot,Volley,Vitaly Janelt,Pass (Live),Kristoffer Ajer,Pass (Live)
+2,17,Ivan Toney,Brentford,0.13,,Off Target,12.0,Right Foot,,Bryan Mbeumo,Pass (Live),Bryan Mbeumo,Take-On
+3,18,Rúben Neves,Wolves,0.03,,Off Target,29.0,Right Foot,Volley,,,,
+4,20,Josh Dasilva,Brentford,0.05,,Off Target,27.0,Left Foot,,Mathias Jensen,Pass (Live),Bryan Mbeumo,Pass (Live)
+5,40,Daniel Podence,Wolves,0.04,,Blocked,19.0,Right Foot,,Rúben Neves,Pass (Live),Boubacar Traoré,Pass (Live)
+6,42,João Moutinho,Wolves,0.05,,Blocked,22.0,Right Foot,Volley,Daniel Podence,Pass (Dead),Daniel Podence,Shot
+7,43,Boubacar Traoré,Wolves,0.0,,Off Target,33.0,Right Foot,Volley,Rúben Neves,Pass (Live),João Moutinho,Shot
+8,45+6,Boubacar Traoré,Wolves,0.03,,Off Target,30.0,Right Foot,,Rúben Neves,Pass (Live),Adama Traoré,Pass (Live)
+9,,,,,,,,,,,,,
+10,47,Ben Mee,Brentford,0.07,,Off Target,8.0,Head,,Ethan Pinnock,Pass (Dead),,
+11,47,Josh Dasilva,Brentford,0.02,,Blocked,29.0,Left Foot,,Yoane Wissa,Pass (Live),Ben Mee,Shot
+12,47,Bryan Mbeumo,Brentford,0.34,0.2,Saved,9.0,Head,,Josh Dasilva,Shot,,
+13,49,Ivan Toney,Brentford,0.05,0.17,Saved,4.0,Left Foot,,Ben Mee,Pass (Live),Mikkel Damsgaard,Pass (Dead)
+14,50,Ben Mee,Brentford,0.12,0.09,Goal,9.0,Left Foot,Volley,Bryan Mbeumo,Pass (Live),Mikkel Damsgaard,Pass (Live)
+15,52,Rúben Neves,Wolves,0.04,0.34,Goal,23.0,Right Foot,,Nélson Semedo,Pass (Live),Adama Traoré,Pass (Live)
+16,55,Daniel Podence,Wolves,0.08,0.2,Saved,4.0,Right Foot,,,,,
+17,55,Diego Costa,Wolves,0.05,,Off Target,11.0,Head,,Hugo Bueno,Pass (Dead),Daniel Podence,Shot
+18,57,Rúben Neves,Wolves,0.01,,Off Target,25.0,Right Foot,Volley,Nélson Semedo,Pass (Live),Boubacar Traoré,Pass (Live)
+19,63,Diego Costa,Wolves,0.04,0.08,Saved,19.0,Left Foot,,,,,
+20,74,Josh Dasilva,Brentford,0.06,,Blocked,21.0,Left Foot,,Mikkel Damsgaard,Pass (Live),Vitaly Janelt,Pass (Live)
+21,76,Diego Costa,Wolves,0.13,0.08,Saved,13.0,Left Foot,,Diego Costa,Take-On,João Moutinho,Pass (Live)
+22,82,Ivan Toney,Brentford,0.43,,Off Target,7.0,Head,,Keane Lewis-Potter,Shot,,
+23,82,Keane Lewis-Potter,Brentford,0.06,,Off Target,11.0,Head,,Ethan Pinnock,Pass (Dead),,
+24,85,Rico Henry,Brentford,0.06,,Blocked,29.0,Left Foot,,Sergi Canós,Fouled,Vitaly Janelt,Pass (Live)
+25,90+4,Gonçalo Guedes,Wolves,0.06,,Blocked,24.0,Right Foot,,João Moutinho,Pass (Live),Daniel Podence,Pass (Live)

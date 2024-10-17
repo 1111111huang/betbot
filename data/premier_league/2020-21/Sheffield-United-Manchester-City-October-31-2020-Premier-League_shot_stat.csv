@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Ferrán Torres,Manchester City,0.05,0.03,Saved,12.0,Head,,João Cancelo,Pass (Live),Rodri,Pass (Live)
+1,8,Raheem Sterling,Manchester City,0.03,,Blocked,21.0,Right Foot,,João Cancelo,Pass (Live),Riyad Mahrez,Pass (Live)
+2,13,Aymeric Laporte,Manchester City,0.17,,Off Target,8.0,Left Foot,Volley,Kevin De Bruyne,Pass (Live),Raheem Sterling,Pass (Live)
+3,19,Rodri,Manchester City,0.02,0.03,Saved,35.0,Right Foot,,,,,
+4,23,Ferrán Torres,Manchester City,0.71,0.98,Saved,4.0,Right Foot,,Raheem Sterling,Pass (Live),João Cancelo,Pass (Live)
+5,24,Riyad Mahrez,Manchester City,0.05,,Off Target,15.0,Left Foot,,João Cancelo,Pass (Live),Kevin De Bruyne,Pass (Live)
+6,27,Sander Berge,Sheffield Utd,0.04,,Blocked,17.0,Right Foot,,Rhian Brewster,Pass (Live),,
+7,28,Kyle Walker,Manchester City,0.03,0.45,Goal,26.0,Right Foot,,Kevin De Bruyne,Pass (Live),João Cancelo,Pass (Live)
+8,34,Kevin De Bruyne,Manchester City,0.08,0.15,Saved,24.0,Right Foot,Free kick,Ferrán Torres,Fouled,,
+9,37,Ferrán Torres,Manchester City,0.06,,Blocked,13.0,Head,,Kevin De Bruyne,Pass (Dead),Bernardo Silva,Fouled
+10,41,Ferrán Torres,Manchester City,0.08,,Off Target,9.0,Right Foot,Volley,João Cancelo,Pass (Live),,
+11,,,,,,,,,,,,,
+12,49,Raheem Sterling,Manchester City,0.04,,Blocked,18.0,Right Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+13,52,Ferrán Torres,Manchester City,0.1,0.14,Saved,30.0,Right Foot,,Aymeric Laporte,Pass (Live),Rodri,Pass (Live)
+14,55,Kevin De Bruyne,Manchester City,0.05,,Off Target,15.0,Right Foot,,Kyle Walker,Take-On,Rodri,Pass (Live)
+15,58,Riyad Mahrez,Manchester City,0.06,0.24,Saved,30.0,Left Foot,Free kick,Kevin De Bruyne,Fouled,Riyad Mahrez,Pass (Live)
+16,70,John Lundstram,Sheffield Utd,0.09,,Off Target,16.0,Right Foot,,Sander Berge,Pass (Live),Sander Berge,Take-On
+17,71,Rhian Brewster,Sheffield Utd,0.36,0.27,Saved,21.0,Right Foot,,John Lundstram,Pass (Live),Oliver McBurnie,Pass (Live)
+18,84,Bernardo Silva,Manchester City,0.06,0.16,Saved,13.0,Left Foot,,Riyad Mahrez,Pass (Live),Bernardo Silva,Pass (Live)
+19,90+2,Kevin De Bruyne,Manchester City,0.03,,Blocked,22.0,Right Foot,Deflected,Phil Foden,Pass (Live),Phil Foden,Take-On

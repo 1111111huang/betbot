@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8.0,Oleksandr Zinchenko,Manchester City,0.04,,Off Target,25.0,Left Foot,,Raheem Sterling,Pass (Live),Rodri,Pass (Live)
+1,24.0,Sadio Mané,Liverpool,0.08,,Off Target,9.0,Head,,Trent Alexander-Arnold,Pass (Live),Trent Alexander-Arnold,Take-On
+2,29.0,Roberto Firmino,Liverpool,0.04,0.19,Saved,18.0,Right Foot,Volley,Jordan Henderson,Interception,,
+3,37.0,İlkay Gündoğan (pen),Manchester City,0.79,,Off Target,13.0,Right Foot,,Raheem Sterling,Fouled,İlkay Gündoğan,Pass (Live)
+4,41.0,Mohamed Salah,Liverpool,0.06,,Blocked,21.0,Left Foot,Deflected,Sadio Mané,Pass (Live),Mohamed Salah,Pass (Live)
+5,45.0,Thiago Alcántara,Liverpool,0.1,,Blocked,22.0,Right Foot,Free kick,Sadio Mané,Fouled,Roberto Firmino,Pass (Live)
+6,45.0,Sadio Mané,Liverpool,0.05,0.01,Saved,9.0,Head,,Trent Alexander-Arnold,Pass (Dead),Thiago Alcántara,Shot
+7,,,,,,,,,,,,,
+8,49.0,Phil Foden,Manchester City,0.36,0.22,Saved,8.0,Left Foot,,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+9,49.0,İlkay Gündoğan,Manchester City,0.75,0.97,Goal,5.0,Right Foot,,Phil Foden,Shot,,
+10,55.0,Curtis Jones,Liverpool,0.03,,Off Target,29.0,Left Foot,,Roberto Firmino,Pass (Live),Sadio Mané,Pass (Live)
+11,58.0,Curtis Jones,Liverpool,0.05,,Blocked,14.0,Right Foot,,Curtis Jones,Tackle,,
+12,63.0,Mohamed Salah (pen),Liverpool,0.79,0.98,Goal,13.0,Left Foot,,Mohamed Salah,Fouled,Fabinho,Pass (Live)
+13,69.0,Bernardo Silva,Manchester City,0.03,,Off Target,25.0,Left Foot,,İlkay Gündoğan,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+14,73.0,İlkay Gündoğan,Manchester City,0.83,0.95,Goal,3.0,Right Foot,,Phil Foden,Take-On,,
+15,76.0,Raheem Sterling,Manchester City,0.88,0.99,Goal,1.0,Head,,Bernardo Silva,Pass (Live),,
+16,83.0,Phil Foden,Manchester City,0.06,0.04,Goal,13.0,Left Foot,,Gabriel Jesus,Pass (Live),Rodri,Pass (Live)

@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Tomáš Souček,West Ham,0.12,0.64,Saved,11.0,Head,,Lucas Paquetá,Pass (Live),Edson Álvarez,Pass (Live)
+1,8,Michail Antonio,West Ham,0.12,,Off Target,9.0,Head,,Tomáš Souček,Pass (Live),Jarrod Bowen,Pass (Live)
+2,13,Dominik Szoboszlai,Liverpool,0.03,,Blocked,37.0,Right Foot,Free kick,Luis Díaz,Fouled,Alexis Mac Allister,Pass (Live)
+3,16,Mohamed Salah (pen),Liverpool,0.79,0.94,Goal,13.0,Left Foot,,Mohamed Salah,Fouled,Luis Díaz,Pass (Live)
+4,20,Virgil van Dijk,Liverpool,0.17,,Off Target,9.0,Right Foot,,Andrew Robertson,Pass (Dead),Mohamed Salah,Pass (Live)
+5,21,Emerson Palmieri,West Ham,0.01,,Off Target,27.0,Left Foot,Volley,Jarrod Bowen,Pass (Live),Tomáš Souček,Pass (Live)
+6,25,Tomáš Souček,West Ham,0.05,,Off Target,10.0,Head,,James Ward-Prowse,Pass (Dead),Vladimír Coufal,Fouled
+7,26,Virgil van Dijk,Liverpool,0.07,,Off Target,10.0,Head,,Andrew Robertson,Pass (Dead),Mohamed Salah,Fouled
+8,28,Alexis Mac Allister,Liverpool,0.03,,Off Target,27.0,Right Foot,,Dominik Szoboszlai,Pass (Live),Luis Díaz,Pass (Live)
+9,32,Mohamed Salah,Liverpool,0.05,,Off Target,17.0,Left Foot,,Joe Gomez,Pass (Live),Virgil van Dijk,Pass (Live)
+10,35,Mohamed Salah,Liverpool,0.02,,Blocked,19.0,Left Foot,,Dominik Szoboszlai,Pass (Live),Joe Gomez,Pass (Live)
+11,37,Dominik Szoboszlai,Liverpool,0.03,,Blocked,31.0,Right Foot,Free kick,Luis Díaz,Fouled,Luis Díaz,Take-On
+12,38,Mohamed Salah,Liverpool,0.15,,Off Target,17.0,Left Foot,,Luis Díaz,Pass (Live),Dominik Szoboszlai,Pass (Live)
+13,40,Tomáš Souček,West Ham,0.16,,Blocked,14.0,Right Foot,,Lucas Paquetá,Pass (Live),Edson Álvarez,Pass (Live)
+14,42,Nayef Aguerd,West Ham,0.04,,Blocked,11.0,Head,,James Ward-Prowse,Pass (Dead),Tomáš Souček,Shot
+15,42,Jarrod Bowen,West Ham,0.09,0.39,Goal,10.0,Head,,Vladimír Coufal,Pass (Live),Michail Antonio,Pass (Live)
+16,45+2,Darwin Núñez,Liverpool,0.33,0.48,Saved,11.0,Right Foot,,Mohamed Salah,Pass (Live),Dominik Szoboszlai,Pass (Live)
+17,45+4,Virgil van Dijk,Liverpool,0.04,,Blocked,11.0,Head,,Dominik Szoboszlai,Pass (Dead),Dominik Szoboszlai,Pass (Live)
+18,,,,,,,,,,,,,
+19,51,Luis Díaz,Liverpool,0.01,,Off Target,34.0,Right Foot,,Andrew Robertson,Pass (Live),Virgil van Dijk,Pass (Live)
+20,53,Darwin Núñez,Liverpool,0.29,,Woodwork,12.0,Right Foot,,Mohamed Salah,Pass (Live),Dominik Szoboszlai,Pass (Live)
+21,55,Jarrod Bowen,West Ham,0.41,0.21,Saved,6.0,Head,,James Ward-Prowse,Pass (Dead),Vladimír Coufal,Fouled
+22,60,Darwin Núñez,Liverpool,0.25,0.85,Goal,11.0,Right Foot,Volley,Alexis Mac Allister,Pass (Live),Joël Matip,Pass (Live)
+23,62,Curtis Jones,Liverpool,0.02,0.04,Saved,28.0,Right Foot,Deflected,Curtis Jones,Take-On,Andrew Robertson,Pass (Live)
+24,70,Mohamed Salah,Liverpool,0.02,0.02,Saved,23.0,Left Foot,,Luis Díaz,Pass (Live),Alexis Mac Allister,Pass (Live)
+25,71,Curtis Jones,Liverpool,0.03,,Blocked,26.0,Right Foot,,Alexis Mac Allister,Pass (Live),Joe Gomez,Pass (Live)
+26,72,Jarrod Bowen,West Ham,0.06,,Blocked,13.0,Right Foot,,Vladimír Coufal,Pass (Live),Tomáš Souček,Pass (Live)
+27,78,Pablo Fornals,West Ham,0.02,0.19,Saved,24.0,Right Foot,,Lucas Paquetá,Pass (Live),Pablo Fornals,Pass (Live)
+28,85,Diogo Jota,Liverpool,0.47,0.95,Goal,2.0,Right Foot,,Andrew Robertson,Pass (Dead),,
+29,88,Cody Gakpo,Liverpool,0.02,,Blocked,12.0,Right Foot,,Dominik Szoboszlai,Pass (Live),,
+30,90,Diogo Jota,Liverpool,0.08,,Blocked,15.0,Right Foot,,Andrew Robertson,Pass (Live),Virgil van Dijk,Pass (Live)
+31,90,Dominik Szoboszlai,Liverpool,0.04,,Off Target,28.0,Left Foot,,Diogo Jota,Shot,,
+32,90+3,Cody Gakpo,Liverpool,0.1,0.06,Saved,11.0,Head,,Virgil van Dijk,Pass (Live),Andrew Robertson,Pass (Dead)
+33,90+5,Pablo Fornals,West Ham,0.02,,Off Target,15.0,Right Foot,,,,,

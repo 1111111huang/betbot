@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Tom Davies,Everton,0.02,,Off Target,34.0,Right Foot,,Mason Holgate,Pass (Live),Ben Godfrey,Pass (Live)
+1,10,Jarrod Bowen,West Ham,0.03,,Blocked,30.0,Left Foot,,Pablo Fornals,Pass (Live),Tomáš Souček,Pass (Live)
+2,22,Dominic Calvert-Lewin,Everton,0.07,,Off Target,10.0,Head,,Gylfi Sigurðsson,Pass (Dead),Richarlison,Pass (Live)
+3,24,Sébastien Haller,West Ham,0.26,,Off Target,5.0,Head,,Saïd Benrahma,Pass (Live),Vladimír Coufal,Pass (Live)
+4,30,Aaron Cresswell,West Ham,0.05,,Off Target,17.0,Left Foot,,Saïd Benrahma,Pass (Live),Sébastien Haller,Pass (Live)
+5,32,Dominic Calvert-Lewin,Everton,0.05,,Off Target,14.0,Head,,Richarlison,Pass (Live),Ben Godfrey,Pass (Live)
+6,45,Bernard,Everton,0.02,0.14,Saved,27.0,Right Foot,Volley,,,,
+7,45+1,Abdoulaye Doucouré,Everton,0.02,,Off Target,24.0,Right Foot,Volley,Bernard,Shot,,
+8,,,,,,,,,,,,,
+9,52,Richarlison,Everton,0.03,,Blocked,18.0,Left Foot,,Séamus Coleman,Pass (Live),Yerry Mina,Pass (Live)
+10,61,Aaron Cresswell,West Ham,0.06,0.13,Saved,26.0,Left Foot,Free kick,Vladimír Coufal,Fouled,Tomáš Souček,Pass (Live)
+11,62,Pablo Fornals,West Ham,0.02,0.06,Saved,24.0,Left Foot,Volley,Pablo Fornals,Pass (Live),,
+12,63,Séamus Coleman,Everton,0.06,0.03,Saved,15.0,Right Foot,,Bernard,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+13,64,Pablo Fornals,West Ham,0.24,,Off Target,11.0,Head,,Jarrod Bowen,Pass (Live),Pablo Fornals,Pass (Live)
+14,65,Michail Antonio,West Ham,0.04,0.54,Saved,19.0,Right Foot,,,,,
+15,66,André Gomes,Everton,0.02,,Blocked,35.0,Right Foot,,,,,
+16,73,Abdoulaye Doucouré,Everton,0.03,,Blocked,23.0,Left Foot,,Richarlison,Fouled,Mason Holgate,Pass (Live)
+17,81,Yerry Mina,Everton,0.09,,Off Target,11.0,Head,,Mason Holgate,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+18,86,Tomáš Souček,West Ham,0.08,0.02,Saved,11.0,Right Foot,,Andriy Yarmolenko,Pass (Live),Declan Rice,Pass (Live)
+19,86,Aaron Cresswell,West Ham,0.03,,Off Target,26.0,Left Foot,,Tomáš Souček,Shot,,
+20,86,Tomáš Souček,West Ham,0.53,0.61,Goal,8.0,Right Foot,,Aaron Cresswell,Shot,,
+21,90+2,Manuel Lanzini,West Ham,0.06,,Off Target,9.0,Left Foot,,Saïd Benrahma,Pass (Live),Declan Rice,Interception

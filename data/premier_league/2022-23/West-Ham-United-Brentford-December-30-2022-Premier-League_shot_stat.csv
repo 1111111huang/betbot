@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Declan Rice,West Ham,0.02,,Woodwork,29.0,Right Foot,,Saïd Benrahma,Pass (Live),Declan Rice,Pass (Live)
+1,11,Craig Dawson,West Ham,0.14,,Off Target,7.0,Head,,Jarrod Bowen,Pass (Dead),Craig Dawson,Pass (Live)
+2,13,Jarrod Bowen,West Ham,0.06,,Blocked,10.0,Right Foot,,Jarrod Bowen,Take-On,Vladimír Coufal,Pass (Dead)
+3,14,Emerson Palmieri,West Ham,0.06,,Blocked,12.0,Left Foot,,Jarrod Bowen,Shot,,
+4,15,Bryan Mbeumo,Brentford,0.02,0.03,Saved,28.0,Left Foot,,Ivan Toney,Pass (Live),,
+5,18,Christian Nørgaard,Brentford,0.24,0.17,Saved,8.0,Left Foot,Volley,Ethan Pinnock,Pass (Live),Mathias Jensen,Pass (Dead)
+6,18,Ivan Toney,Brentford,0.38,0.44,Goal,5.0,Right Foot,,Christian Nørgaard,Shot,,
+7,22,Jarrod Bowen,West Ham,0.07,,Blocked,15.0,Left Foot,,Saïd Benrahma,Pass (Live),Declan Rice,Pass (Live)
+8,28,Gianluca Scamacca,West Ham,0.1,0.05,Saved,10.0,Head,,Vladimír Coufal,Pass (Live),Jarrod Bowen,Pass (Live)
+9,34,Emerson Palmieri,West Ham,0.06,0.37,Saved,11.0,Left Foot,,Angelo Ogbonna,Pass (Live),Declan Rice,Pass (Live)
+10,35,Angelo Ogbonna,West Ham,0.14,,Off Target,11.0,Head,,Vladimír Coufal,Pass (Live),Craig Dawson,Pass (Live)
+11,43,Josh Dasilva,Brentford,0.38,0.95,Goal,13.0,Left Foot,,Ivan Toney,Pass (Live),Mathias Jørgensen,Pass (Dead)
+12,45+3,Lucas Paquetá,West Ham,0.07,,Off Target,16.0,Left Foot,,Emerson Palmieri,Pass (Live),Craig Dawson,Pass (Live)
+13,,,,,,,,,,,,,
+14,50,Jarrod Bowen,West Ham,0.04,,Blocked,22.0,Left Foot,Free kick,Jarrod Bowen,Fouled,Declan Rice,Pass (Live)
+15,54,Aaron Cresswell,West Ham,0.03,,Off Target,32.0,Left Foot,Free kick,Jarrod Bowen,Fouled,Declan Rice,Pass (Live)
+16,57,Emerson Palmieri,West Ham,0.03,,Blocked,27.0,Right Foot,,Lucas Paquetá,Pass (Live),Jarrod Bowen,Pass (Live)
+17,57,Jarrod Bowen,West Ham,0.03,0.13,Saved,24.0,Left Foot,,Jarrod Bowen,Pass (Live),Declan Rice,Pass (Live)
+18,66,Craig Dawson,West Ham,0.02,,Off Target,32.0,Right Foot,,Lucas Paquetá,Pass (Live),Declan Rice,Pass (Live)
+19,71,Ivan Toney,Brentford,0.07,,Blocked,24.0,Right Foot,Free kick,Yoane Wissa,Fouled,,
+20,71,Saman Ghoddos,Brentford,0.05,0.4,Saved,19.0,Left Foot,Volley,Ivan Toney,Shot,,
+21,72,Ethan Pinnock,Brentford,0.22,,Off Target,6.0,Head,,Saman Ghoddos,Pass (Dead),Saman Ghoddos,Shot
+22,72,Ivan Toney,Brentford,0.27,,Off Target,5.0,Right Foot,Volley,Ethan Pinnock,Shot,,
+23,74,Michail Antonio,West Ham,0.07,,Off Target,11.0,Head,,Saïd Benrahma,Pass (Live),Aaron Cresswell,Pass (Live)
+24,75,Gianluca Scamacca,West Ham,0.03,0.06,Saved,28.0,Right Foot,,Lucas Paquetá,Pass (Live),Declan Rice,Pass (Live)
+25,76,Gianluca Scamacca,West Ham,0.02,,Off Target,34.0,Right Foot,,Vladimír Coufal,Pass (Live),Michail Antonio,Pass (Live)
+26,78,Yoane Wissa,Brentford,0.16,0.04,Saved,13.0,Right Foot,,Mads Roerslev,Pass (Live),Vitaly Janelt,Pass (Live)
+27,82,Craig Dawson,West Ham,0.1,0.11,Saved,7.0,Head,,Jarrod Bowen,Pass (Dead),Jarrod Bowen,Pass (Live)
+28,82,Craig Dawson,West Ham,0.13,,Off Target,6.0,Head,,Jarrod Bowen,Pass (Dead),Craig Dawson,Shot
+29,90+8,Michail Antonio,West Ham,0.05,,Blocked,19.0,Right Foot,,Jarrod Bowen,Pass (Live),,

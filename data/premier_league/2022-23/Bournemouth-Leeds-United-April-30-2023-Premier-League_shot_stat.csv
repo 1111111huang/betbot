@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Patrick Bamford,Leeds United,0.03,,Off Target,26.0,Left Foot,Volley,Crysencio Summerville,Pass (Live),,
+1,6,Marc Roca,Leeds United,0.12,0.43,Saved,21.0,Left Foot,Free kick,,Fouled,Patrick Bamford,Shot
+2,12,Jack Harrison,Leeds United,0.13,,Blocked,14.0,Left Foot,Volley,Weston McKennie,Pass (Live),Luke Ayling,Pass (Live)
+3,17,Dango Ouattara,Bournemouth,0.03,,Blocked,16.0,Left Foot,,Dango Ouattara,Take-On,Jefferson Lerma,Pass (Live)
+4,17,Matías Viña,Bournemouth,0.05,,Off Target,9.0,Right Foot,Volley,Dango Ouattara,Shot,,
+5,20,Patrick Bamford,Leeds United,0.02,0.42,Saved,24.0,Left Foot,,Crysencio Summerville,Pass (Live),Patrick Bamford,Pass (Live)
+6,20,Philip Billing,Bournemouth,0.28,,Blocked,11.0,Right Foot,,Dominic Solanke,Pass (Live),Dominic Solanke,Take-On
+7,20,Jefferson Lerma,Bournemouth,0.1,0.46,Goal,18.0,Right Foot,,Philip Billing,Shot,,
+8,23,Matías Viña,Bournemouth,0.03,0.04,Saved,25.0,Left Foot,,Philip Billing,Pass (Live),Dango Ouattara,Pass (Live)
+9,24,Jefferson Lerma,Bournemouth,0.12,0.27,Goal,10.0,Right Foot,Volley,Matías Viña,Pass (Live),Marcos Senesi,Pass (Live)
+10,32,Patrick Bamford,Leeds United,0.51,0.91,Goal,5.0,Head,,Wilfried Gnonto,Pass (Live),Jack Harrison,Pass (Live)
+11,37,Marc Roca,Leeds United,0.02,,Blocked,30.0,Left Foot,,Wilfried Gnonto,Pass (Live),Wilfried Gnonto,Interception
+12,45+4,Luke Ayling,Leeds United,0.03,,Off Target,14.0,Right Foot,Volley,Luke Ayling,Fouled,Weston McKennie,Pass (Live)
+13,,,,,,,,,,,,,
+14,46,Wilfried Gnonto,Leeds United,0.14,,Off Target,10.0,Head,,Luke Ayling,Pass (Live),Crysencio Summerville,Pass (Live)
+15,48,Ryan Christie,Bournemouth,0.06,,Blocked,16.0,Right Foot,Volley,Joe Rothwell,Pass (Live),Ryan Christie,Pass (Live)
+16,51,Crysencio Summerville,Leeds United,0.08,,Off Target,11.0,Right Foot,,Jack Harrison,Pass (Dead),Luke Ayling,Pass (Live)
+17,59,Philip Billing,Bournemouth,0.5,0.64,Saved,5.0,Left Foot,Volley,Ryan Christie,Pass (Live),Dango Ouattara,Pass (Live)
+18,60,Wilfried Gnonto,Leeds United,0.13,,Off Target,5.0,Head,,Luke Ayling,Pass (Live),Jack Harrison,Pass (Live)
+19,63,Dominic Solanke,Bournemouth,0.39,0.97,Goal,6.0,Right Foot,,Neto,Pass (Live),Ryan Christie,Pass (Live)
+20,70,Marc Roca,Leeds United,0.06,0.26,Saved,26.0,Left Foot,,Crysencio Summerville,Pass (Live),Weston McKennie,Pass (Live)
+21,72,Robin Koch,Leeds United,0.16,0.07,Saved,4.0,Head,,Jack Harrison,Pass (Dead),Luke Ayling,Pass (Live)
+22,72,Wilfried Gnonto,Leeds United,0.1,0.22,Saved,16.0,Right Foot,,Robin Koch,Shot,,
+23,72,Marc Roca,Leeds United,0.1,,Off Target,6.0,Head,,Jack Harrison,Pass (Dead),Wilfried Gnonto,Shot
+24,72,Wilfried Gnonto,Leeds United,0.05,,Off Target,13.0,Right Foot,,Marc Roca,Shot,,
+25,81,Kieffer Moore,Bournemouth,0.27,,Off Target,8.0,Head,,Lewis Cook,Pass (Live),Dango Ouattara,Pass (Live)
+26,90+1,Antoine Semenyo,Bournemouth,0.07,0.03,Goal,15.0,Left Foot,,Jaidon Anthony,Pass (Live),Jaidon Anthony,Take-On
+27,90+3,Jefferson Lerma,Bournemouth,0.05,0.03,Saved,10.0,Head,,Adam Smith,Pass (Live),Dango Ouattara,Pass (Dead)

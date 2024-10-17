@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Ivan Cavaleiro,Fulham,0.03,,Blocked,26.0,Left Foot,,Ademola Lookman,Pass (Live),,
+1,18.0,Yves Bissouma,Brighton,0.02,0.02,Saved,35.0,Right Foot,,Lewis Dunk,Pass (Live),Ben White,Pass (Dead)
+2,25.0,Ademola Lookman,Fulham,0.03,,Blocked,27.0,Right Foot,,Ademola Lookman,Take-On,Antonee Robinson,Pass (Live)
+3,35.0,Lewis Dunk,Brighton,0.01,0.29,Saved,68.0,Right Foot,Free kick,Danny Welbeck,Fouled,Robert Sánchez,Pass (Live)
+4,40.0,Lewis Dunk,Brighton,0.02,,Off Target,34.0,Right Foot,,Lewis Dunk,Pass (Live),Steven Alzate,Pass (Live)
+5,42.0,Ivan Cavaleiro,Fulham,0.04,0.19,Saved,19.0,Right Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Ola Aina,Pass (Live)
+6,43.0,Tosin Adarabioyo,Fulham,0.08,,Off Target,5.0,Head,,Ivan Cavaleiro,Pass (Dead),Ivan Cavaleiro,Shot
+7,,,,,,,,,,,,,
+8,47.0,Danny Welbeck,Brighton,0.05,,Blocked,13.0,Left Foot,,Adam Webster,Pass (Live),Adam Webster,Pass (Live)
+9,48.0,Lewis Dunk,Brighton,0.06,0.02,Saved,10.0,Head,,Solly March,Pass (Dead),Danny Welbeck,Shot
+10,48.0,Lewis Dunk,Brighton,0.1,0.03,Saved,11.0,Right Foot,,Lewis Dunk,Shot,,
+11,57.0,Lewis Dunk,Brighton,0.13,,Off Target,4.0,Head,,Leandro Trossard,Pass (Live),Steven Alzate,Pass (Live)
+12,60.0,Adam Webster,Brighton,0.07,,Woodwork,9.0,Head,,Leandro Trossard,Pass (Dead),,
+13,68.0,Ruben Loftus-Cheek,Fulham,0.08,0.03,Saved,16.0,Right Foot,,Antonee Robinson,Pass (Dead),,
+14,71.0,Tosin Adarabioyo,Fulham,0.02,,Off Target,17.0,Head,,Ivan Cavaleiro,Pass (Dead),Andre-Frank Zambo Anguissa,Fouled
+15,78.0,Leandro Trossard,Brighton,0.03,,Off Target,28.0,Left Foot,,Yves Bissouma,Pass (Live),Leandro Trossard,Interception
+16,79.0,Aleksandar Mitrović,Fulham,0.07,,Off Target,11.0,Head,,,,,
+17,84.0,Ademola Lookman,Fulham,0.06,0.14,Saved,8.0,Left Foot,Volley,Aleksandar Mitrović,Pass (Live),Ivan Cavaleiro,Pass (Live)
+18,84.0,Ademola Lookman,Fulham,0.64,0.72,Saved,3.0,Right Foot,,Ademola Lookman,Shot,,

@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Gabriel Martinelli,Arsenal,0.17,0.06,Saved,13.0,Right Foot,,Granit Xhaka,Pass (Live),Gabriel Martinelli,Pass (Live)
+1,5,Bryan Mbeumo,Brentford,0.04,0.14,Saved,8.0,Head,,Rico Henry,Pass (Live),David Raya,Pass (Live)
+2,17,William Saliba,Arsenal,0.16,0.4,Goal,5.0,Head,,Bukayo Saka,Pass (Dead),Ben White,Pass (Dead)
+3,28,Gabriel Jesus,Arsenal,0.2,0.9,Goal,9.0,Head,,Granit Xhaka,Pass (Live),Kieran Tierney,Pass (Live)
+4,29,Bukayo Saka,Arsenal,0.12,,Off Target,13.0,Right Foot,,Fabio Vieira,Pass (Live),Gabriel Martinelli,Interception
+5,35,Granit Xhaka,Arsenal,0.04,,Off Target,32.0,Right Foot,,Bukayo Saka,Pass (Live),,
+6,41,Bukayo Saka,Arsenal,0.02,,Blocked,27.0,Left Foot,,Ben White,Pass (Live),Bukayo Saka,Pass (Live)
+7,43,Kieran Tierney,Arsenal,0.02,,Off Target,29.0,Left Foot,,Gabriel Martinelli,Pass (Live),Granit Xhaka,Pass (Live)
+8,45+1,Bryan Mbeumo,Brentford,0.05,,Off Target,12.0,Head,,Ivan Toney,Pass (Live),Rico Henry,Pass (Live)
+9,,,,,,,,,,,,,
+10,47,Gabriel Jesus,Arsenal,0.19,,Blocked,10.0,Right Foot,,Gabriel Jesus,Take-On,Gabriel Martinelli,Pass (Live)
+11,49,Fabio Vieira,Arsenal,0.05,0.23,Goal,28.0,Left Foot,,Bukayo Saka,Pass (Live),Fabio Vieira,Pass (Live)
+12,53,Ivan Toney,Brentford,0.1,,Off Target,23.0,Right Foot,"Free kick, Volley",Mathias Jensen,Pass (Dead),Ben Mee,Fouled
+13,57,Gabriel Jesus,Arsenal,0.26,0.24,Saved,11.0,Left Foot,,Granit Xhaka,Pass (Live),Gabriel Jesus,Pass (Live)
+14,66,Bukayo Saka,Arsenal,0.09,0.24,Saved,18.0,Left Foot,,Kieran Tierney,Pass (Live),Gabriel Martinelli,Pass (Live)
+15,70,Gabriel Magalhães,Arsenal,0.02,,Off Target,30.0,Left Foot,,Ben White,Pass (Dead),,
+16,71,Mikkel Damsgaard,Brentford,0.3,0.23,Saved,10.0,Right Foot,,Shandon Baptiste,Pass (Live),Aaron Hickey,Pass (Live)
+17,87,Gabriel Jesus,Arsenal,0.17,0.54,Saved,12.0,Right Foot,,Gabriel Jesus,Tackle,,
+18,90+1,Ivan Toney,Brentford,0.04,,Off Target,17.0,Head,,Mikkel Damsgaard,Pass (Dead),Aaron Hickey,Fouled

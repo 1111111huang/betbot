@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Armando Broja,Southampton,0.24,0.33,Saved,14.0,Right Foot,,Che Adams,Pass (Live),James Ward-Prowse,Pass (Live)
+1,4,Che Adams,Southampton,0.21,0.08,Saved,17.0,Right Foot,,Armando Broja,Shot,,
+2,6,Armando Broja,Southampton,0.07,0.03,Saved,9.0,Right Foot,,Armando Broja,Take-On,Nathan Redmond,Pass (Live)
+3,7,Enock Mwepu,Brighton,0.28,,Blocked,15.0,Right Foot,,Marc Cucurella,Pass (Live),Neal Maupay,Pass (Live)
+4,8,Yves Bissouma,Brighton,0.02,,Off Target,24.0,Right Foot,Volley,Enock Mwepu,Shot,,
+5,12,Valentino Livramento,Southampton,0.07,,Blocked,17.0,Left Foot,,Lyanco,Pass (Live),Nathan Tella,Pass (Live)
+6,13,Lyanco,Southampton,0.05,,Blocked,20.0,Right Foot,,Mohammed Salisu,Pass (Live),Nathan Redmond,Pass (Live)
+7,14,Valentino Livramento,Southampton,0.07,,Off Target,13.0,Right Foot,,Oriol Romeu,Pass (Live),Lyanco,Shot
+8,16,Neal Maupay,Brighton,0.07,,Blocked,13.0,Right Foot,,Pascal Groß,Pass (Live),Joël Veltman,Pass (Dead)
+9,17,Enock Mwepu,Brighton,0.13,0.09,Saved,20.0,Right Foot,,Leandro Trossard,Pass (Live),Marc Cucurella,Pass (Live)
+10,18,Shane Duffy,Brighton,0.03,,Off Target,12.0,Head,,Pascal Groß,Pass (Dead),Enock Mwepu,Shot
+11,20,Che Adams,Southampton,0.01,,Off Target,18.0,Right Foot,,Lyanco,Pass (Live),Lyanco,Take-On
+12,21,Che Adams,Southampton,0.05,,Off Target,19.0,Right Foot,,James Ward-Prowse,Pass (Live),,
+13,25,Leandro Trossard,Brighton,0.05,0.22,Saved,22.0,Left Foot,Volley,Tariq Lamptey,Pass (Live),Enock Mwepu,Pass (Live)
+14,28,Joël Veltman,Brighton,0.04,,Blocked,12.0,Head,,Shane Duffy,Pass (Live),Pascal Groß,Pass (Dead)
+15,29,Armando Broja,Southampton,0.58,0.85,Goal,12.0,Right Foot,,Armando Broja,Take-On,Nathan Redmond,Pass (Live)
+16,37,Mohammed Salisu,Southampton,0.04,,Blocked,16.0,Left Foot,Volley,Lyanco,Pass (Live),Armando Broja,Pass (Live)
+17,41,Nathan Tella,Southampton,0.03,,Off Target,27.0,Right Foot,,Kyle Walker-Peters,Take-On,Nathan Tella,Pass (Live)
+18,,,,,,,,,,,,,
+19,50,Armando Broja,Southampton,0.15,,Off Target,12.0,Right Foot,,Valentino Livramento,Pass (Live),Nathan Redmond,Pass (Live)
+20,53,James Ward-Prowse,Southampton,0.03,,Off Target,29.0,Right Foot,Free kick,Nathan Tella,Fouled,Nathan Tella,Take-On
+21,56,Yves Bissouma,Brighton,0.01,,Off Target,29.0,Right Foot,,,,,
+22,56,Neal Maupay,Brighton,0.13,,Off Target,17.0,Left Foot,,Yves Bissouma,Shot,,
+23,76,Aaron Connolly,Brighton,0.02,,Blocked,21.0,Right Foot,,Marc Cucurella,Pass (Live),Leandro Trossard,Pass (Live)
+24,77,Neal Maupay,Brighton,0.1,0.14,Saved,13.0,Right Foot,,Aaron Connolly,Pass (Live),Solly March,Pass (Live)
+25,90+8,Jakub Moder,Brighton,0.12,,Blocked,27.0,Right Foot,Free kick,Enock Mwepu,Fouled,Yves Bissouma,Pass (Live)
+26,90+8,Jakub Moder,Brighton,0.01,,Blocked,29.0,Left Foot,Volley,Jakub Moder,Shot,,
+27,90+8,Neal Maupay,Brighton,0.68,0.57,Goal,9.0,Right Foot,,Jakub Moder,Shot,,
+28,90+10,James Ward-Prowse,Southampton,0.04,,Blocked,25.0,Right Foot,Deflected,Valentino Livramento,Pass (Live),Che Adams,Pass (Live)

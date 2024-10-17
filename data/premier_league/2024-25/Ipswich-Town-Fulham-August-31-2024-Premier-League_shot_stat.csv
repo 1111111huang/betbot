@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Jacob Greaves,Ipswich Town,0.02,0.07,Saved,11.0,Head,,Leif Davis,Pass (Dead),,
+1,6,Kenny Tete,Fulham,0.04,0.0,Blocked,14.0,Right Foot,,Adama Traoré,Take-On,Alex Iwobi,Pass (Live)
+2,10,Issa Diop,Fulham,0.17,0.0,Off Target,6.0,Head,,Andreas Pereira,Pass (Dead),Calvin Bassey,Pass (Live)
+3,10,Omari Hutchinson,Ipswich Town,0.04,0.0,Blocked,22.0,Left Foot,,Arijanet Muric,Pass (Dead),,
+4,15,Liam Delap,Ipswich Town,0.05,0.2,Goal,26.0,Right Foot,,Leif Davis,Pass (Live),Leif Davis,Take-On
+5,18,Liam Delap,Ipswich Town,0.13,0.0,Off Target,5.0,Head,,Leif Davis,Pass (Dead),Leif Davis,Take-On
+6,32,Adama Traoré,Fulham,0.15,0.49,Goal,10.0,Right Foot,,Antonee Robinson,Pass (Live),Alex Iwobi,Pass (Live)
+7,34,Rodrigo Muniz,Fulham,0.29,0.37,Saved,9.0,Head,,Adama Traoré,Pass (Live),Andreas Pereira,Pass (Live)
+8,37,Rodrigo Muniz,Fulham,0.06,0.0,Off Target,11.0,Right Foot,,Alex Iwobi,Pass (Live),Emile Smith Rowe,Pass (Live)
+9,,,,,,,,,,,,,
+10,55,Liam Delap,Ipswich Town,0.02,0.11,Saved,17.0,Right Foot,,Leif Davis,Pass (Live),Kalvin Phillips,Pass (Live)
+11,57,Liam Delap,Ipswich Town,0.02,0.0,Blocked,24.0,Right Foot,,Axel Tuanzebe,Pass (Live),Liam Delap,Pass (Live)
+12,59,Leif Davis,Ipswich Town,0.05,0.0,Blocked,26.0,Left Foot,Free kick,Chiedozie Ogbene,Fouled,Liam Delap,Tackle
+13,60,Luke Woolfenden,Ipswich Town,0.03,0.0,Off Target,13.0,Head,,Sam Morsy,Pass (Live),Chiedozie Ogbene,Pass (Live)
+14,65,Emile Smith Rowe,Fulham,0.14,0.0,Blocked,16.0,Left Foot,,Alex Iwobi,Pass (Live),Adama Traoré,Pass (Live)
+15,67,Emile Smith Rowe,Fulham,0.02,0.0,Blocked,16.0,Right Foot,,Andreas Pereira,Pass (Dead),Emile Smith Rowe,Shot
+16,76,Alex Iwobi,Fulham,0.03,0.21,Saved,21.0,Right Foot,,Alex Iwobi,Take-On,Alex Iwobi,Take-On
+17,86,Raúl Jiménez,Fulham,0.04,0.06,Saved,15.0,Left Foot,,Sander Berge,Pass (Live),,
+18,89,Jack Clarke,Ipswich Town,0.03,0.0,Off Target,23.0,Right Foot,,Jens Cajuste,Pass (Live),Jens Cajuste,Take-On
+19,90+2,Jack Clarke,Ipswich Town,0.05,0.0,Blocked,13.0,Left Foot,,Ali Al Hamadi,Pass (Live),Conor Chaplin,Pass (Live)
+20,90+3,Omari Hutchinson,Ipswich Town,0.02,0.03,Saved,17.0,Left Foot,,Sam Morsy,Pass (Live),Jens Cajuste,Pass (Live)

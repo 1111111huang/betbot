@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,14,Sean Longstaff,Newcastle Utd,0.02,0.14,Saved,26.0,Right Foot,"Deflected, Volley",Valentino Lazaro,Pass (Dead),Miguel Almirón,Fouled
+1,15,Joelinton,Newcastle Utd,0.19,,Off Target,7.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Allan Saint-Maximin,Take-On
+2,20,Sean Longstaff,Newcastle Utd,0.07,,Off Target,29.0,Right Foot,Free kick,Allan Saint-Maximin,Fouled,Danny Rose,Pass (Live)
+3,21,Bukayo Saka,Arsenal,0.03,,Off Target,23.0,Right Foot,,Dani Ceballos,Pass (Live),Bukayo Saka,Pass (Live)
+4,26,Bukayo Saka,Arsenal,0.02,,Off Target,27.0,Left Foot,,Dani Ceballos,Pass (Live),Pierre-Emerick Aubameyang,Pass (Live)
+5,29,Shkodran Mustafi,Arsenal,0.07,,Off Target,8.0,Head,,Nicolas Pépé,Pass (Dead),Pierre-Emerick Aubameyang,Pass (Live)
+6,32,Pierre-Emerick Aubameyang,Arsenal,0.04,0.14,Saved,17.0,Left Foot,,Mesut Özil,Pass (Live),Mesut Özil,Take-On
+7,37,Eddie Nketiah,Arsenal,0.06,0.09,Saved,16.0,Right Foot,,Mesut Özil,Pass (Live),Granit Xhaka,Pass (Live)
+8,37,Nicolas Pépé,Arsenal,0.03,,Off Target,27.0,Left Foot,,Mesut Özil,Pass (Live),Bukayo Saka,Pass (Live)
+9,39,Pierre-Emerick Aubameyang,Arsenal,0.02,,Blocked,33.0,Right Foot,,Mesut Özil,Pass (Live),Granit Xhaka,Pass (Live)
+10,41,Nicolas Pépé,Arsenal,0.05,0.08,Saved,31.0,Left Foot,Free kick,Dani Ceballos,Fouled,Pierre-Emerick Aubameyang,Shot
+11,41,Shkodran Mustafi,Arsenal,0.06,,Blocked,11.0,Right Foot,Volley,Nicolas Pépé,Shot,,
+12,43,Allan Saint-Maximin,Newcastle Utd,0.06,,Off Target,10.0,Left Foot,,Sean Longstaff,Pass (Live),Nabil Bentaleb,Pass (Live)
+13,,,,,,,,,,,,,
+14,47,Pierre-Emerick Aubameyang,Arsenal,0.1,,Off Target,16.0,Right Foot,Volley,Dani Ceballos,Pass (Live),Héctor Bellerín,Pass (Live)
+15,50,Eddie Nketiah,Arsenal,0.54,,Woodwork,8.0,Right Foot,Volley,Nicolas Pépé,Pass (Live),Nicolas Pépé,Take-On
+16,54,Pierre-Emerick Aubameyang,Arsenal,0.25,0.78,Goal,8.0,Head,,Nicolas Pépé,Pass (Live),Dani Ceballos,Pass (Live)
+17,57,Nicolas Pépé,Arsenal,0.44,0.86,Goal,10.0,Left Foot,,Bukayo Saka,Pass (Live),Bukayo Saka,Take-On
+18,63,Ciaran Clark,Newcastle Utd,0.32,,Blocked,10.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Miguel Almirón,Pass (Live)
+19,72,Sean Longstaff,Newcastle Utd,0.03,,Blocked,26.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Nabil Bentaleb,Tackle
+20,75,Allan Saint-Maximin,Newcastle Utd,0.05,,Woodwork,22.0,Right Foot,,Allan Saint-Maximin,Take-On,Joelinton,Pass (Live)
+21,79,Joelinton,Newcastle Utd,0.06,,Blocked,19.0,Right Foot,,Miguel Almirón,Pass (Live),Allan Saint-Maximin,Pass (Live)
+22,84,Matt Ritchie,Newcastle Utd,0.02,,Off Target,32.0,Left Foot,,Nabil Bentaleb,Pass (Live),Danny Rose,Pass (Live)
+23,86,Jamaal Lascelles,Newcastle Utd,0.03,0.09,Saved,14.0,Head,,Matt Ritchie,Pass (Dead),Miguel Almirón,Pass (Live)
+24,90,Mesut Özil,Arsenal,0.51,0.78,Goal,8.0,Left Foot,Volley,Alexandre Lacazette,Pass (Live),Nicolas Pépé,Pass (Live)
+25,90+5,Alexandre Lacazette,Arsenal,0.37,0.79,Goal,12.0,Right Foot,,Nicolas Pépé,Pass (Live),Joe Willock,Pass (Live)

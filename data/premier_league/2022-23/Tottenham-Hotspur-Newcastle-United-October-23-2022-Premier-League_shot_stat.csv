@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Son Heung-min,Tottenham,0.05,0.09,Saved,23.0,Left Foot,,,,,
+1,3,Son Heung-min,Tottenham,0.06,,Off Target,24.0,Right Foot,,Oliver Skipp,Pass (Live),Emerson,Pass (Live)
+2,4,Miguel Almirón,Newcastle Utd,0.03,,Blocked,19.0,Left Foot,,Fabian Schär,Pass (Live),Bruno Guimarães,Pass (Live)
+3,8,Son Heung-min,Tottenham,0.04,,Off Target,30.0,Left Foot,,Emerson,Pass (Live),Harry Kane,Pass (Live)
+4,11,Son Heung-min,Tottenham,0.23,,Blocked,10.0,Right Foot,Deflected,Harry Kane,Pass (Live),Son Heung-min,Pass (Live)
+5,15,Harry Kane,Tottenham,0.09,,Blocked,10.0,Head,,Ryan Sessegnon,Pass (Live),Emerson,Pass (Live)
+6,15,Yves Bissouma,Tottenham,0.03,,Off Target,25.0,Right Foot,Volley,Harry Kane,Shot,,
+7,20,Miguel Almirón,Newcastle Utd,0.02,,Off Target,29.0,Left Foot,Volley,,,,
+8,23,Ryan Sessegnon,Tottenham,0.07,,Blocked,21.0,Left Foot,,Oliver Skipp,Pass (Live),Harry Kane,Pass (Live)
+9,23,Rodrigo Bentancur,Tottenham,0.12,,Blocked,17.0,Right Foot,,Oliver Skipp,Pass (Live),Ryan Sessegnon,Shot
+10,23,Eric Dier,Tottenham,0.05,,Blocked,18.0,Right Foot,,Rodrigo Bentancur,Shot,,
+11,25,Callum Wilson,Newcastle Utd,0.03,0.23,Saved,15.0,Left Foot,Volley,Sven Botman,Pass (Live),Kieran Trippier,Pass (Dead)
+12,28,Harry Kane,Tottenham,0.02,,Blocked,30.0,Left Foot,,Emerson,Pass (Live),Yves Bissouma,Pass (Live)
+13,29,Harry Kane,Tottenham,0.13,0.06,Saved,12.0,Left Foot,,Rodrigo Bentancur,Tackle,,
+14,29,Ryan Sessegnon,Tottenham,0.09,,Blocked,5.0,Head,,Davinson Sánchez,Pass (Live),Yves Bissouma,Pass (Live)
+15,31,Callum Wilson,Newcastle Utd,0.11,0.01,Goal,31.0,Left Foot,,Kieran Trippier,Pass (Live),Miguel Almirón,Pass (Live)
+16,40,Miguel Almirón,Newcastle Utd,0.39,0.4,Goal,7.0,Left Foot,,Miguel Almirón,Take-On,,
+17,45+3,Clément Lenglet,Tottenham,0.11,,Blocked,21.0,Left Foot,Deflected,Son Heung-min,Pass (Live),Ryan Sessegnon,Pass (Live)
+18,,,,,,,,,,,,,
+19,48,Miguel Almirón,Newcastle Utd,0.03,,Blocked,19.0,Left Foot,,Miguel Almirón,Pass (Live),Bruno Guimarães,Pass (Live)
+20,48,Miguel Almirón,Newcastle Utd,0.04,,Blocked,16.0,Left Foot,Volley,Miguel Almirón,Shot,,
+21,48,Miguel Almirón,Newcastle Utd,0.05,,Off Target,16.0,Left Foot,Volley,Dan Burn,Pass (Live),Sven Botman,Pass (Live)
+22,53,Fabian Schär,Newcastle Utd,0.03,0.04,Saved,14.0,Right Foot,Volley,Kieran Trippier,Pass (Dead),Sean Longstaff,Pass (Live)
+23,53,Callum Wilson,Newcastle Utd,0.09,,Blocked,12.0,Right Foot,,Callum Wilson,Take-On,Sean Longstaff,Pass (Live)
+24,54,Harry Kane,Tottenham,0.36,0.36,Goal,2.0,Head,,Clément Lenglet,Pass (Live),Son Heung-min,Pass (Dead)
+25,57,Joe Willock,Newcastle Utd,0.05,,Blocked,25.0,Right Foot,,Callum Wilson,Pass (Live),Kieran Trippier,Pass (Live)
+26,57,Callum Wilson,Newcastle Utd,0.3,,Off Target,10.0,Left Foot,Volley,Joe Willock,Shot,,
+27,67,Fabian Schär,Newcastle Utd,0.04,0.3,Saved,26.0,Right Foot,,Fabian Schär,Take-On,,
+28,69,Ivan Perišić,Tottenham,0.07,0.02,Saved,17.0,Right Foot,,Harry Kane,Pass (Live),Yves Bissouma,Pass (Live)
+29,77,Son Heung-min,Tottenham,0.11,,Blocked,9.0,Right Foot,,Harry Kane,Pass (Live),Emerson,Pass (Live)
+30,87,Harry Kane,Tottenham,0.03,,Off Target,14.0,Head,,Ivan Perišić,Pass (Live),Yves Bissouma,Pass (Live)

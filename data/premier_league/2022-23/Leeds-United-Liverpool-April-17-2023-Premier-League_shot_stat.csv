@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Rodrigo,Leeds United,0.23,0.06,Saved,9.0,Head,,Jack Harrison,Pass (Dead),Rodrigo,Fouled
+1,9,Rodrigo,Leeds United,0.02,,Off Target,31.0,Left Foot,,Marc Roca,Pass (Live),,
+2,15,Cody Gakpo,Liverpool,0.08,,Off Target,10.0,Head,,Jordan Henderson,Pass (Live),Mohamed Salah,Pass (Live)
+3,17,Rodrigo,Leeds United,0.07,,Blocked,9.0,Head,,Brenden Aaronson,Pass (Dead),,
+4,22,Luis Sinisterra,Leeds United,0.06,,Off Target,12.0,Left Foot,,Brenden Aaronson,Pass (Live),Marc Roca,Pass (Live)
+5,25,Diogo Jota,Liverpool,0.07,,Blocked,16.0,Right Foot,,Cody Gakpo,Pass (Live),Curtis Jones,Pass (Live)
+6,25,Mohamed Salah,Liverpool,0.09,,Off Target,11.0,Head,,Jordan Henderson,Pass (Live),Curtis Jones,Pass (Live)
+7,30,Brenden Aaronson,Leeds United,0.03,,Off Target,17.0,Left Foot,,Weston McKennie,Pass (Live),Jack Harrison,Pass (Live)
+8,30,Marc Roca,Leeds United,0.04,,Off Target,23.0,Left Foot,,Luis Sinisterra,Pass (Live),Brenden Aaronson,Shot
+9,35,Cody Gakpo,Liverpool,0.72,0.96,Goal,3.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Mohamed Salah,Pass (Live)
+10,39,Mohamed Salah,Liverpool,0.06,0.21,Goal,14.0,Left Foot,,Diogo Jota,Pass (Live),Diogo Jota,Take-On
+11,43,Luis Sinisterra,Leeds United,0.01,,Off Target,24.0,Right Foot,Volley,Brenden Aaronson,Fouled,Rodrigo,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Luis Sinisterra,Leeds United,0.54,0.86,Goal,16.0,Right Foot,,Luis Sinisterra,Tackle,,
+14,51,Diogo Jota,Liverpool,0.06,,Off Target,13.0,Left Foot,,Jordan Henderson,Pass (Live),Trent Alexander-Arnold,Pass (Dead)
+15,52,Diogo Jota,Liverpool,0.38,0.51,Goal,21.0,Right Foot,,Curtis Jones,Pass (Live),Curtis Jones,Take-On
+16,58,Brenden Aaronson,Leeds United,0.03,,Woodwork,27.0,Right Foot,,Luis Sinisterra,Pass (Live),Brenden Aaronson,Pass (Live)
+17,64,Mohamed Salah,Liverpool,0.51,0.9,Goal,12.0,Left Foot,,Cody Gakpo,Pass (Live),Andrew Robertson,Pass (Live)
+18,68,Robin Koch,Leeds United,0.16,,Blocked,6.0,Head,,Marc Roca,Pass (Dead),,
+19,72,Diogo Jota,Liverpool,0.03,,Off Target,13.0,Left Foot,,Cody Gakpo,Pass (Live),Jordan Henderson,Pass (Live)
+20,73,Diogo Jota,Liverpool,0.1,0.52,Goal,20.0,Right Foot,,Jordan Henderson,Pass (Live),Curtis Jones,Pass (Live)
+21,75,Jack Harrison,Leeds United,0.09,,Blocked,8.0,Left Foot,,Crysencio Summerville,Pass (Live),Crysencio Summerville,Take-On
+22,76,Luis Sinisterra,Leeds United,0.08,,Off Target,20.0,Right Foot,,Georginio Rutter,Pass (Live),Weston McKennie,Pass (Live)
+23,83,Marc Roca,Leeds United,0.02,0.01,Saved,28.0,Right Foot,,Marc Roca,Pass (Live),Pascal Struijk,Pass (Live)
+24,90,Darwin Núñez,Liverpool,0.39,0.91,Goal,14.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Ibrahima Konaté,Pass (Live)
+25,90+4,Roberto Firmino,Liverpool,0.17,0.11,Saved,6.0,Right Foot,,Curtis Jones,Pass (Live),Luis Díaz,Pass (Live)
+26,90+4,Curtis Jones,Liverpool,0.06,,Blocked,15.0,Right Foot,,Luis Díaz,Pass (Live),,

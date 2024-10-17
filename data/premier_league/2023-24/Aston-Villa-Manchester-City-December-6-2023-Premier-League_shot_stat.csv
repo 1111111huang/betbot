@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Lucas Digne,Aston Villa,0.02,,Off Target,18.0,Left Foot,,John McGinn,Pass (Live),Pau Torres,Pass (Live)
+1,6.0,Leon Bailey,Aston Villa,0.09,0.11,Saved,17.0,Right Foot,,John McGinn,Pass (Live),Pau Torres,Pass (Live)
+2,7.0,Pau Torres,Aston Villa,0.05,0.18,Saved,16.0,Left Foot,,John McGinn,Pass (Live),Leon Bailey,Shot
+3,11.0,Erling Haaland,Manchester City,0.17,0.55,Saved,12.0,Left Foot,,Phil Foden,Pass (Live),Joško Gvardiol,Pass (Live)
+4,11.0,Erling Haaland,Manchester City,0.58,0.26,Saved,3.0,Head,,Bernardo Silva,Pass (Live),Erling Haaland,Shot
+5,22.0,Leon Bailey,Aston Villa,0.03,0.13,Saved,30.0,Left Foot,,Ezri Konsa,Pass (Live),Boubacar Kamara,Pass (Live)
+6,23.0,John McGinn,Aston Villa,0.01,,Blocked,28.0,Left Foot,,Leon Bailey,Shot,,
+7,23.0,Douglas Luiz,Aston Villa,0.01,,Blocked,31.0,Right Foot,Volley,John McGinn,Shot,,
+8,24.0,John McGinn,Aston Villa,0.02,0.05,Saved,25.0,Right Foot,,Douglas Luiz,Pass (Dead),Douglas Luiz,Shot
+9,26.0,Ollie Watkins,Aston Villa,0.02,,Blocked,20.0,Right Foot,,Ollie Watkins,Take-On,Ollie Watkins,Take-On
+10,29.0,Ezri Konsa,Aston Villa,0.74,,Off Target,5.0,Head,,Douglas Luiz,Pass (Dead),Lucas Digne,Fouled
+11,31.0,Leon Bailey,Aston Villa,0.06,,Off Target,15.0,Left Foot,Volley,Lucas Digne,Pass (Live),John McGinn,Pass (Live)
+12,32.0,Youri Tielemans,Aston Villa,0.04,,Blocked,22.0,Left Foot,,,,,
+13,41.0,Douglas Luiz,Aston Villa,0.02,,Off Target,33.0,Right Foot,,Douglas Luiz,Interception,,
+14,45.0,Ollie Watkins,Aston Villa,0.05,0.02,Saved,12.0,Left Foot,,John McGinn,Pass (Live),Boubacar Kamara,Pass (Live)
+15,,,,,,,,,,,,,
+16,57.0,Douglas Luiz,Aston Villa,0.03,,Blocked,26.0,Left Foot,,,,,
+17,62.0,Ollie Watkins,Aston Villa,0.07,,Blocked,10.0,Left Foot,Volley,Douglas Luiz,Pass (Dead),,
+18,64.0,John McGinn,Aston Villa,0.2,,Off Target,14.0,Right Foot,,John McGinn,Take-On,Leon Bailey,Pass (Live)
+19,66.0,Leon Bailey,Aston Villa,0.06,,Blocked,17.0,Left Foot,,,,,
+20,74.0,Leon Bailey,Aston Villa,0.16,0.3,Goal,20.0,Right Foot,Deflected,Youri Tielemans,Pass (Live),Diego Carlos,Pass (Live)
+21,78.0,John McGinn,Aston Villa,0.02,,Blocked,21.0,Right Foot,,Douglas Luiz,Pass (Live),Youri Tielemans,Pass (Live)
+22,78.0,Ollie Watkins,Aston Villa,0.12,,Blocked,11.0,Left Foot,,Boubacar Kamara,Pass (Live),Ezri Konsa,Pass (Live)
+23,78.0,Douglas Luiz,Aston Villa,0.5,0.98,Saved,4.0,Right Foot,Volley,Ollie Watkins,Shot,,
+24,86.0,Douglas Luiz,Aston Villa,0.06,,Woodwork,22.0,Right Foot,,Ollie Watkins,Pass (Live),Lucas Digne,Pass (Live)

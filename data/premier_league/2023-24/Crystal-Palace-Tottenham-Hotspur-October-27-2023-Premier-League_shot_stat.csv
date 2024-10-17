@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Jordan Ayew,Crystal Palace,0.03,0.13,Saved,18.0,Right Foot,,Will Hughes,Pass (Live),Odsonne Édouard,Pass (Live)
+1,7,Odsonne Édouard,Crystal Palace,0.04,0.17,Saved,17.0,Right Foot,,Joel Ward,Pass (Live),Marc Guéhi,Pass (Live)
+2,16,Yves Bissouma,Tottenham,0.03,,Off Target,33.0,Right Foot,Free kick,James Maddison,Fouled,Pape Matar Sarr,Pass (Live)
+3,17,James Maddison,Tottenham,0.06,,Off Target,10.0,Right Foot,Volley,Richarlison,Pass (Live),Dejan Kulusevski,Pass (Live)
+4,20,Richarlison,Tottenham,0.02,,Off Target,23.0,Right Foot,,James Maddison,Pass (Live),Richarlison,Pass (Live)
+5,39,Joachim Andersen,Crystal Palace,0.03,,Blocked,12.0,Head,,Will Hughes,Pass (Dead),,
+6,39,Cheick Doucouré,Crystal Palace,0.05,,Blocked,22.0,Right Foot,,Joachim Andersen,Shot,,
+7,40,Joel Ward,Crystal Palace,0.02,,Off Target,24.0,Right Foot,Volley,Jordan Ayew,Pass (Live),Jefferson Lerma,Pass (Live)
+8,40,Will Hughes,Crystal Palace,0.03,,Blocked,10.0,Head,,Odsonne Édouard,Pass (Live),Odsonne Édouard,Take-On
+9,41,Joel Ward,Crystal Palace,0.03,,Blocked,27.0,Left Foot,,Cheick Doucouré,Pass (Live),,
+10,42,Joachim Andersen,Crystal Palace,0.04,,Off Target,12.0,Head,,Will Hughes,Pass (Dead),Joel Ward,Shot
+11,,,,,,,,,,,,,
+12,53,James Maddison,Tottenham,0.03,,Off Target,10.0,Right Foot,Volley,Pedro Porro,Pass (Live),Cristian Romero,Pass (Live)
+13,55,Odsonne Édouard,Crystal Palace,0.03,,Blocked,24.0,Right Foot,,Cheick Doucouré,Tackle,,
+14,55,Marc Guéhi,Crystal Palace,0.16,,Off Target,8.0,Head,,Will Hughes,Pass (Dead),Odsonne Édouard,Shot
+15,66,Son Heung-min,Tottenham,0.72,0.78,Goal,8.0,Left Foot,,Brennan Johnson,Pass (Live),Brennan Johnson,Pass (Live)
+16,75,Emerson,Tottenham,0.02,,Blocked,26.0,Right Foot,,James Maddison,Pass (Live),Brennan Johnson,Pass (Live)
+17,75,Pedro Porro,Tottenham,0.03,,Blocked,23.0,Right Foot,,Emerson,Shot,,
+18,80,Dejan Kulusevski,Tottenham,0.03,,Blocked,30.0,Left Foot,,Son Heung-min,Pass (Live),Emerson,Pass (Live)
+19,87,Jesurun Rak Sakyi,Crystal Palace,0.02,,Blocked,25.0,Left Foot,,Matheus França,Pass (Dead),Nathaniel Clyne,Pass (Live)
+20,90+1,Son Heung-min,Tottenham,0.11,,Blocked,10.0,Right Foot,,Brennan Johnson,Pass (Live),Pape Matar Sarr,Pass (Live)
+21,90+1,Rodrigo Bentancur,Tottenham,0.07,,Blocked,22.0,Right Foot,,Son Heung-min,Shot,,
+22,90+4,Jordan Ayew,Crystal Palace,0.06,0.07,Goal,16.0,Right Foot,Volley,Joachim Andersen,Pass (Live),Joel Ward,Pass (Dead)
+23,90+12,Matheus França,Crystal Palace,0.06,,Off Target,9.0,Left Foot,Volley,Jean-Philippe Mateta,Pass (Live),Cheick Doucouré,Pass (Live)

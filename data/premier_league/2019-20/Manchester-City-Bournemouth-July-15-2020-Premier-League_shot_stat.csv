@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Dan Gosling,Bournemouth,0.04,0.03,Saved,17.0,Head,,Lloyd Kelly,Pass (Live),,
+1,6,David Silva,Manchester City,0.08,0.43,Goal,24.0,Left Foot,Free kick,David Silva,Fouled,Fernandinho,Pass (Live)
+2,8,Fernandinho,Manchester City,0.03,,Off Target,32.0,Right Foot,,Bernardo Silva,Pass (Live),Kyle Walker,Pass (Live)
+3,19,Dominic Solanke,Bournemouth,0.1,,Blocked,18.0,Right Foot,,Dominic Solanke,Take-On,Junior Stanislas,Pass (Live)
+4,22,Joshua King,Bournemouth,0.09,,Off Target,16.0,Right Foot,,Dan Gosling,Pass (Live),Philip Billing,Pass (Live)
+5,31,Phil Foden,Manchester City,0.06,,Off Target,16.0,Left Foot,Volley,Benjamin Mendy,Pass (Live),Kyle Walker,Pass (Live)
+6,32,Diego Rico,Bournemouth,0.04,,Blocked,18.0,Left Foot,,Junior Stanislas,Pass (Live),Joshua King,Pass (Live)
+7,33,Junior Stanislas,Bournemouth,0.07,0.34,Saved,27.0,Right Foot,Free kick,Dominic Solanke,Fouled,,
+8,34,Joshua King,Bournemouth,0.07,,Off Target,11.0,Head,,Dan Gosling,Pass (Live),Jefferson Lerma,Pass (Live)
+9,36,Bernardo Silva,Manchester City,0.05,,Off Target,15.0,Left Foot,,David Silva,Pass (Live),Benjamin Mendy,Pass (Live)
+10,37,Dominic Solanke,Bournemouth,0.46,,Blocked,7.0,Right Foot,,Dan Gosling,Pass (Live),Joshua King,Pass (Live)
+11,38,Philip Billing,Bournemouth,0.11,,Off Target,8.0,Head,,Diego Rico,Pass (Dead),Dominic Solanke,Shot
+12,39,Gabriel Jesus,Manchester City,0.13,0.35,Goal,11.0,Right Foot,,Gabriel Jesus,Take-On,David Silva,Pass (Live)
+13,43,Gabriel Jesus,Manchester City,0.09,0.09,Saved,11.0,Other,,Bernardo Silva,Pass (Live),Fernandinho,Pass (Live)
+14,,,,,,,,,,,,,
+15,59,Junior Stanislas,Bournemouth,0.06,,Blocked,10.0,Left Foot,,Jack Stacey,Pass (Live),Junior Stanislas,Pass (Live)
+16,64,Dan Gosling,Bournemouth,0.05,,Blocked,18.0,Right Foot,Volley,Dominic Solanke,Pass (Live),Jefferson Lerma,Pass (Live)
+17,76,Gabriel Jesus,Manchester City,0.06,,Off Target,13.0,Right Foot,,Phil Foden,Pass (Live),David Silva,Pass (Live)
+18,81,Callum Wilson,Bournemouth,0.1,,Off Target,13.0,Right Foot,,David Brooks,Pass (Live),Jack Stacey,Pass (Live)
+19,84,Phil Foden,Manchester City,0.16,0.08,Saved,4.0,Left Foot,,Phil Foden,Take-On,Eric García,Pass (Live)
+20,88,David Brooks,Bournemouth,0.29,0.74,Goal,14.0,Left Foot,,Callum Wilson,Pass (Live),Diego Rico,Pass (Live)
+21,90,Callum Wilson,Bournemouth,0.06,,Off Target,17.0,Left Foot,,Callum Wilson,Pass (Live),David Brooks,Pass (Live)
+22,90+1,Jefferson Lerma,Bournemouth,0.04,,Blocked,21.0,Right Foot,,,,,
+23,90+4,Callum Wilson,Bournemouth,0.04,,Off Target,15.0,Head,,Diego Rico,Pass (Live),Lewis Cook,Pass (Live)

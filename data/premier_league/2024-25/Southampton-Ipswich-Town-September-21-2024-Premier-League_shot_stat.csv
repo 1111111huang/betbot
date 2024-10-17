@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Sammie Szmodics,Ipswich Town,0.09,0.0,Off Target,6.0,Left Foot,,Wes Burns,Pass (Live),Omari Hutchinson,Interception
+1,5,Tyler Dibling,Southampton,0.72,0.67,Goal,10.0,Left Foot,,Tyler Dibling,Take-On,Adam Lallana,Pass (Live)
+2,12,Sammie Szmodics,Ipswich Town,0.53,0.75,Saved,7.0,Other,,Wes Burns,Pass (Live),Sam Morsy,Pass (Live)
+3,18,Jacob Greaves,Ipswich Town,0.03,0.0,Blocked,12.0,Left Foot,Deflected,Sam Morsy,Pass (Dead),Omari Hutchinson,Fouled
+4,20,Jens Cajuste,Ipswich Town,0.02,0.0,Off Target,20.0,Right Foot,,,,,
+5,27,Cameron Archer,Southampton,0.46,0.0,Woodwork,6.0,Left Foot,,Cameron Archer,Take-On,Tyler Dibling,Pass (Live)
+6,40,Adam Lallana,Southampton,0.03,0.0,Off Target,21.0,Right Foot,,Mateus Fernandes,Pass (Live),Mateus Fernandes,Take-On
+7,44,Dara O'Shea,Ipswich Town,0.06,0.08,Saved,10.0,Head,,Leif Davis,Pass (Dead),Jens Cajuste,Pass (Live)
+8,44,Liam Delap,Ipswich Town,0.05,0.0,Blocked,23.0,Left Foot,,Dara O'Shea,Interception,,
+9,45,Leif Davis,Ipswich Town,0.19,0.45,Saved,9.0,Left Foot,,Omari Hutchinson,Pass (Live),Axel Tuanzebe,Pass (Live)
+10,45+1,Omari Hutchinson,Ipswich Town,0.03,0.37,Saved,24.0,Left Foot,,Leif Davis,Pass (Dead),Leif Davis,Shot
+11,,,,,,,,,,,,,
+12,49,Cameron Archer,Southampton,0.37,0.21,Saved,9.0,Right Foot,,Cameron Archer,Take-On,Flynn Downes,Pass (Live)
+13,53,Sammie Szmodics,Ipswich Town,0.08,0.0,Off Target,12.0,Right Foot,,Omari Hutchinson,Pass (Live),Axel Tuanzebe,Pass (Dead)
+14,55,Mateus Fernandes,Southampton,0.1,0.0,Off Target,12.0,Left Foot,,Yukinari Sugawara,Pass (Live),,
+15,55,Cameron Archer,Southampton,0.43,0.0,Off Target,8.0,Right Foot,,Mateus Fernandes,Shot,,
+16,71,Flynn Downes,Southampton,0.02,0.0,Blocked,31.0,Right Foot,,Tyler Dibling,Pass (Live),Yukinari Sugawara,Pass (Live)
+17,77,Ben Brereton,Southampton,0.11,0.0,Blocked,12.0,Left Foot,,Mateus Fernandes,Pass (Live),Ben Brereton,Pass (Live)
+18,80,Ben Brereton,Southampton,0.15,0.0,Off Target,17.0,Right Foot,,Mateus Fernandes,Pass (Live),Yukinari Sugawara,Pass (Live)
+19,81,George Hirst,Ipswich Town,0.06,0.0,Off Target,11.0,Head,,Omari Hutchinson,Pass (Live),Axel Tuanzebe,Pass (Live)
+20,87,Ross Stewart,Southampton,0.04,0.0,Blocked,13.0,Right Foot,Volley,Ben Brereton,Fouled,Ross Stewart,Pass (Live)
+21,87,Taylor Harwood-Bellis,Southampton,0.07,0.35,Saved,11.0,Right Foot,Volley,Ross Stewart,Shot,,
+22,90+3,Sam Morsy,Ipswich Town,0.07,0.0,Blocked,22.0,Right Foot,,Leif Davis,Pass (Dead),Ben Johnson,Fouled
+23,90+4,George Hirst,Ipswich Town,0.44,0.82,Saved,5.0,Head,,Jack Clarke,Pass (Live),Jack Taylor,Pass (Live)
+24,90+5,Sam Morsy,Ipswich Town,0.04,0.58,Goal,22.0,Right Foot,Deflected,George Hirst,Shot,,

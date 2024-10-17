@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Bruno Fernandes (pen),Manchester Utd,0.79,0.99,Goal,13.0,Right Foot,,Anthony Martial,Fouled,,
+1,4,Luke Shaw,Manchester Utd,0.08,0.03,Saved,13.0,Right Foot,,,,,
+2,9,İlkay Gündoğan,Manchester City,0.04,0.12,Saved,22.0,Right Foot,,Riyad Mahrez,Pass (Live),Rodri,Pass (Live)
+3,16,Marcus Rashford,Manchester Utd,0.03,0.25,Saved,31.0,Right Foot,,Fred,Pass (Live),Fred,Interception
+4,19,Gabriel Jesus,Manchester City,0.05,,Blocked,19.0,Right Foot,,João Cancelo,Pass (Live),Rúben Dias,Pass (Live)
+5,19,İlkay Gündoğan,Manchester City,0.04,,Off Target,20.0,Right Foot,,Raheem Sterling,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+6,22,Rodri,Manchester City,0.03,,Blocked,27.0,Right Foot,,Rodri,Take-On,İlkay Gündoğan,Pass (Live)
+7,24,Oleksandr Zinchenko,Manchester City,0.05,0.04,Saved,27.0,Left Foot,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Pass (Live)
+8,25,Riyad Mahrez,Manchester City,0.03,,Off Target,27.0,Left Foot,,Rodri,Pass (Live),,
+9,28,Kevin De Bruyne,Manchester City,0.04,,Blocked,17.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),Raheem Sterling,Pass (Live)
+10,28,João Cancelo,Manchester City,0.03,,Blocked,28.0,Right Foot,,Rodri,Tackle,,
+11,29,John Stones,Manchester City,0.05,,Blocked,9.0,Head,,Kevin De Bruyne,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+12,38,İlkay Gündoğan,Manchester City,0.06,0.02,Saved,18.0,Right Foot,,İlkay Gündoğan,Take-On,Riyad Mahrez,Pass (Live)
+13,39,Gabriel Jesus,Manchester City,0.03,,Blocked,21.0,Right Foot,,Kevin De Bruyne,Pass (Live),Gabriel Jesus,Pass (Live)
+14,43,Kevin De Bruyne,Manchester City,0.06,0.13,Saved,30.0,Right Foot,Free kick,Rodri,Fouled,Oleksandr Zinchenko,Pass (Live)
+15,45+1,Riyad Mahrez,Manchester City,0.05,,Off Target,13.0,Right Foot,,Kevin De Bruyne,Pass (Live),Gabriel Jesus,Pass (Live)
+16,45+2,Anthony Martial,Manchester Utd,0.04,,Blocked,18.0,Right Foot,,Bruno Fernandes,Pass (Live),Anthony Martial,Pass (Live)
+17,,,,,,,,,,,,,
+18,48,Rodri,Manchester City,0.07,,Woodwork,18.0,Right Foot,,Gabriel Jesus,Pass (Live),Riyad Mahrez,Pass (Live)
+19,50,Luke Shaw,Manchester Utd,0.06,0.46,Goal,15.0,Left Foot,,Marcus Rashford,Pass (Live),Luke Shaw,Pass (Live)
+20,52,Raheem Sterling,Manchester City,0.04,0.05,Saved,19.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),Rúben Dias,Pass (Live)
+21,55,Daniel James,Manchester Utd,0.06,,Blocked,14.0,Right Foot,,Anthony Martial,Pass (Live),Anthony Martial,Take-On
+22,58,Anthony Martial,Manchester Utd,0.36,0.18,Saved,5.0,Head,,Luke Shaw,Pass (Live),,
+23,60,Riyad Mahrez,Manchester City,0.04,,Off Target,16.0,Left Foot,Volley,Kevin De Bruyne,Pass (Dead),,
+24,68,Anthony Martial,Manchester Utd,0.34,0.35,Saved,13.0,Right Foot,,Fred,Pass (Live),Marcus Rashford,Pass (Live)
+25,75,Phil Foden,Manchester City,0.09,,Off Target,11.0,Left Foot,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+26,83,John Stones,Manchester City,0.04,,Off Target,13.0,Head,,Rúben Dias,Pass (Live),Kyle Walker,Pass (Live)
+27,85,Raheem Sterling,Manchester City,0.25,,Off Target,8.0,Head,,Kevin De Bruyne,Pass (Live),Kyle Walker,Pass (Live)
+28,87,İlkay Gündoğan,Manchester City,0.07,,Off Target,7.0,Head,,Kevin De Bruyne,Pass (Dead),Phil Foden,Fouled
+29,89,Kevin De Bruyne,Manchester City,0.04,,Off Target,20.0,Right Foot,,İlkay Gündoğan,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+30,90+6,Riyad Mahrez,Manchester City,0.03,0.02,Saved,25.0,Left Foot,,İlkay Gündoğan,Pass (Live),Phil Foden,Pass (Live)
+31,90+6,Kevin De Bruyne,Manchester City,0.06,,Blocked,15.0,Left Foot,,Riyad Mahrez,Shot,,

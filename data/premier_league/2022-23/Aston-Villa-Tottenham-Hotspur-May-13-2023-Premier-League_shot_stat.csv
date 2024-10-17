@@ -1,0 +1,15 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Jacob Ramsey,Aston Villa,0.15,0.91,Goal,9.0,Right Foot,,Leon Bailey,Pass (Live),Jacob Ramsey,Pass (Live)
+1,32,Leon Bailey,Aston Villa,0.21,0.25,Saved,11.0,Left Foot,,Ollie Watkins,Pass (Live),Emi Buendía,Pass (Live)
+2,41,Ollie Watkins,Aston Villa,0.47,,Off Target,6.0,Head,,Álex Moreno,Pass (Live),Douglas Luiz,Pass (Live)
+3,43,Emi Buendía,Aston Villa,0.08,,Woodwork,17.0,Left Foot,,Jacob Ramsey,Pass (Live),Emi Buendía,Pass (Live)
+4,,,,,,,,,,,,,
+5,47,Ashley Young,Aston Villa,0.09,,Off Target,11.0,Right Foot,Volley,Douglas Luiz,Pass (Dead),,
+6,49,John McGinn,Aston Villa,0.03,,Off Target,25.0,Left Foot,,Leon Bailey,Pass (Live),Leon Bailey,Take-On
+7,51,Emi Buendía,Aston Villa,0.06,0.06,Saved,17.0,Left Foot,,Leon Bailey,Pass (Live),Ollie Watkins,Pass (Live)
+8,52,Harry Kane,Tottenham,0.3,0.34,Saved,17.0,Right Foot,,Pierre Højbjerg,Tackle,,
+9,65,Dejan Kulusevski,Tottenham,0.14,,Off Target,10.0,Left Foot,,Dejan Kulusevski,Take-On,Pedro Porro,Pass (Live)
+10,72,Douglas Luiz,Aston Villa,0.08,0.31,Goal,27.0,Right Foot,Free kick,Ollie Watkins,Fouled,Douglas Luiz,Pass (Live)
+11,90,Harry Kane (pen),Tottenham,0.79,0.99,Goal,13.0,Right Foot,,Harry Kane,Fouled,Dejan Kulusevski,Pass (Live)
+12,90+3,Arnaut Danjuma,Tottenham,0.05,,Blocked,19.0,Right Foot,Volley,Arnaut Danjuma,Pass (Live),Ivan Perišić,Pass (Live)
+13,90+4,Dejan Kulusevski,Tottenham,0.08,,Off Target,22.0,Left Foot,,Ivan Perišić,Pass (Live),Clément Lenglet,Pass (Live)

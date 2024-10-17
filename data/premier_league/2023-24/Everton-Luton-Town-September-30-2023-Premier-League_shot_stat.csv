@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Dwight McNeil,Everton,0.07,,Off Target,20.0,Left Foot,Volley,,,,
+1,5,Dominic Calvert-Lewin,Everton,0.18,0.3,Saved,7.0,Head,,Vitaliy Mykolenko,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+2,6,Marvelous Nakamba,Luton Town,0.04,,Off Target,18.0,Left Foot,,Carlton Morris,Pass (Live),Marvelous Nakamba,Pass (Live)
+3,10,James Garner,Everton,0.08,,Off Target,17.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Dwight McNeil,Pass (Live)
+4,12,Idrissa Gana Gueye,Everton,0.09,,Off Target,20.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Amadou Onana,Pass (Live)
+5,15,Amadou Onana,Everton,0.04,,Off Target,20.0,Right Foot,,Vitaliy Mykolenko,Pass (Live),Dwight McNeil,Pass (Live)
+6,20,Tom Lockyer,Luton Town,0.12,,Off Target,10.0,Head,,Alfie Doughty,Pass (Dead),Amari'i Bell,Pass (Live)
+7,23,Carlton Morris,Luton Town,0.01,,Blocked,14.0,Head,,Alfie Doughty,Pass (Dead),,
+8,24,Carlton Morris,Luton Town,0.09,,Woodwork,8.0,Head,,Alfie Doughty,Pass (Dead),Carlton Morris,Shot
+9,24,Tom Lockyer,Luton Town,0.36,0.89,Goal,3.0,Left Foot,,Carlton Morris,Shot,,
+10,29,Dominic Calvert-Lewin,Everton,0.1,,Off Target,9.0,Head,,Dwight McNeil,Pass (Live),Amadou Onana,Pass (Live)
+11,32,Carlton Morris,Luton Town,0.19,0.48,Goal,10.0,Right Foot,,Alfie Doughty,Pass (Dead),Carlton Morris,Fouled
+12,34,Jacob Brown,Luton Town,0.03,,Blocked,30.0,Right Foot,,Marvelous Nakamba,Pass (Live),Pelly Ruddock Mpanzu,Pass (Live)
+13,37,James Garner,Everton,0.56,,Woodwork,5.0,Head,,Dwight McNeil,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+14,40,James Garner,Everton,0.03,,Off Target,13.0,Head,,Abdoulaye Doucouré,Pass (Live),Ashley Young,Pass (Live)
+15,40,Amadou Onana,Everton,0.03,,Off Target,28.0,Left Foot,,Ashley Young,Pass (Live),James Garner,Shot
+16,41,Amadou Onana,Everton,0.4,0.33,Saved,5.0,Right Foot,Volley,James Garner,Pass (Live),Amadou Onana,Fouled
+17,41,Abdoulaye Doucouré,Everton,0.37,0.86,Saved,5.0,Left Foot,,Amadou Onana,Shot,,
+18,41,Dominic Calvert-Lewin,Everton,0.97,0.96,Goal,3.0,Left Foot,,Abdoulaye Doucouré,Shot,,
+19,45+1,James Garner,Everton,0.08,,Blocked,16.0,Left Foot,Volley,Dwight McNeil,Fouled,Vitaliy Mykolenko,Pass (Live)
+20,,,,,,,,,,,,,
+21,51,Dominic Calvert-Lewin,Everton,0.05,,Blocked,28.0,Right Foot,,Amadou Onana,Pass (Live),Jarrad Branthwaite,Pass (Live)
+22,51,Chiedozie Ogbene,Luton Town,0.04,,Blocked,17.0,Right Foot,,Alfie Doughty,Pass (Live),Chiedozie Ogbene,Pass (Live)
+23,52,Mads Juel Andersen,Luton Town,0.05,,Off Target,11.0,Right Foot,Volley,Alfie Doughty,Pass (Dead),Chiedozie Ogbene,Shot
+24,60,Dwight McNeil,Everton,0.03,,Blocked,24.0,Left Foot,,Vitaliy Mykolenko,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+25,62,Dominic Calvert-Lewin,Everton,0.07,,Off Target,14.0,Left Foot,Volley,James Tarkowski,Pass (Live),James Garner,Pass (Live)
+26,69,Beto,Everton,0.1,,Off Target,4.0,Left Foot,Volley,Jack Harrison,Pass (Live),Ashley Young,Pass (Live)
+27,72,Ashley Young,Everton,0.01,,Blocked,32.0,Right Foot,Volley,James Garner,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+28,72,Dwight McNeil,Everton,0.02,,Blocked,15.0,Left Foot,,Jack Harrison,Pass (Live),Ashley Young,Shot
+29,75,Beto,Everton,0.13,,Off Target,8.0,Head,,Amadou Onana,Pass (Live),Dwight McNeil,Pass (Live)
+30,77,Beto,Everton,0.11,,Off Target,11.0,Left Foot,,James Garner,Pass (Live),Dwight McNeil,Pass (Live)
+31,86,Beto,Everton,0.1,,Off Target,9.0,Head,,James Garner,Pass (Live),Nathan Patterson,Pass (Live)
+32,90+2,Dominic Calvert-Lewin,Everton,0.03,,Off Target,15.0,Right Foot,Volley,James Tarkowski,Pass (Live),Nathan Patterson,Pass (Dead)

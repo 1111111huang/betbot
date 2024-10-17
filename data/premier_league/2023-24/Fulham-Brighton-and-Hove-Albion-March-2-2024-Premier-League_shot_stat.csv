@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Julio Enciso,Brighton,0.02,0.02,Saved,26.0,Right Foot,,Pervis Estupiñán,Pass (Live),Julio Enciso,Take-On
+1,10,Harrison Reed,Fulham,0.07,0.48,Saved,21.0,Left Foot,Deflected,Harry Wilson,Pass (Live),Andreas Pereira,Pass (Dead)
+2,12,Andreas Pereira,Fulham,0.02,,Blocked,28.0,Right Foot,,Alex Iwobi,Pass (Live),Andreas Pereira,Pass (Live)
+3,21,Harry Wilson,Fulham,0.08,0.44,Goal,17.0,Left Foot,,,,,
+4,26,Adam Lallana,Brighton,0.04,,Off Target,26.0,Right Foot,,Jan Paul van Hecke,Pass (Live),Lewis Dunk,Pass (Live)
+5,28,Julio Enciso,Brighton,0.05,,Off Target,24.0,Left Foot,,Julio Enciso,Take-On,Jan Paul van Hecke,Pass (Live)
+6,32,Rodrigo Muniz,Fulham,0.08,0.37,Goal,10.0,Head,,Harry Wilson,Pass (Live),Harrison Reed,Pass (Live)
+7,34,Julio Enciso,Brighton,0.05,,Off Target,16.0,Right Foot,Volley,Adam Lallana,Pass (Live),Pervis Estupiñán,Pass (Dead)
+8,,,,,,,,,,,,,
+9,47,Lewis Dunk,Brighton,0.03,0.1,Saved,12.0,Head,,Pervis Estupiñán,Pass (Dead),Jan Paul van Hecke,Pass (Live)
+10,49,Harry Wilson,Fulham,0.08,,Off Target,17.0,Right Foot,,Saša Lukić,Pass (Live),Andreas Pereira,Pass (Live)
+11,51,Harry Wilson,Fulham,0.11,,Blocked,6.0,Right Foot,,Rodrigo Muniz,Pass (Live),Saša Lukić,Pass (Live)
+12,52,Tosin Adarabioyo,Fulham,0.03,,Off Target,9.0,Head,,Andreas Pereira,Pass (Dead),Harry Wilson,Shot
+13,53,Andreas Pereira,Fulham,0.13,,Off Target,16.0,Right Foot,,Alex Iwobi,Pass (Live),,
+14,58,Carlos Baleba,Brighton,0.02,,Blocked,33.0,Left Foot,,Joël Veltman,Pass (Live),Evan Ferguson,Pass (Live)
+15,59,Evan Ferguson,Brighton,0.55,,Off Target,12.0,Right Foot,,Adam Lallana,Pass (Live),Pervis Estupiñán,Pass (Live)
+16,61,Rodrigo Muniz,Fulham,0.06,,Off Target,9.0,Right Foot,,Timothy Castagne,Pass (Live),Antonee Robinson,Pass (Live)
+17,61,Andreas Pereira,Fulham,0.06,0.07,Saved,26.0,Right Foot,,Harry Wilson,Interception,,
+18,62,Evan Ferguson,Brighton,0.16,0.05,Saved,13.0,Right Foot,,Joël Veltman,Pass (Dead),Jan Paul van Hecke,Pass (Live)
+19,66,Adam Webster,Brighton,0.04,,Blocked,14.0,Left Foot,Volley,Pervis Estupiñán,Pass (Live),Joël Veltman,Pass (Live)
+20,67,Evan Ferguson,Brighton,0.06,,Blocked,18.0,Left Foot,,Simon Adingra,Pass (Live),Simon Adingra,Take-On
+21,67,Harry Wilson,Fulham,0.12,,Blocked,6.0,Left Foot,,Alex Iwobi,Pass (Live),Antonee Robinson,Pass (Live)
+22,75,Carlos Baleba,Brighton,0.04,,Off Target,11.0,Head,,Pervis Estupiñán,Pass (Live),Ansu Fati,Pass (Live)
+23,78,Ansu Fati,Brighton,0.03,,Off Target,12.0,Right Foot,Volley,Adam Webster,Pass (Live),Pascal Groß,Pass (Dead)
+24,79,Facundo Buonanotte,Brighton,0.18,,Woodwork,14.0,Left Foot,,Jan Paul van Hecke,Pass (Live),Pascal Groß,Pass (Live)
+25,80,Ansu Fati,Brighton,0.03,0.08,Saved,14.0,Right Foot,,Pervis Estupiñán,Pass (Live),Pascal Groß,Pass (Dead)
+26,87,Pervis Estupiñán,Brighton,0.04,0.06,Saved,20.0,Right Foot,,Simon Adingra,Pass (Live),Joël Veltman,Pass (Live)
+27,90+1,Adama Traoré,Fulham,0.45,0.79,Goal,12.0,Right Foot,,Bobby Reid,Pass (Live),Bobby Reid,Tackle

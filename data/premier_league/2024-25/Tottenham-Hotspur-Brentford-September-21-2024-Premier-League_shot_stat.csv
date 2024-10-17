@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Bryan Mbeumo,Brentford,0.1,0.54,Goal,12.0,Left Foot,Volley,Keane Lewis-Potter,Pass (Live),Yehor Yarmoliuk,Pass (Live)
+1,5,Rodrigo Bentancur,Tottenham,0.08,0.0,Blocked,25.0,Right Foot,,Son Heung-min,Pass (Live),Pedro Porro,Pass (Live)
+2,5,Cristian Romero,Tottenham,0.07,0.06,Saved,6.0,Head,,Dejan Kulusevski,Pass (Dead),Rodrigo Bentancur,Shot
+3,7,James Maddison,Tottenham,0.11,0.0,Blocked,6.0,Right Foot,,Son Heung-min,Pass (Live),Dominic Solanke,Pass (Live)
+4,8,James Maddison,Tottenham,0.3,0.1,Saved,13.0,Right Foot,,James Maddison,Take-On,,
+5,8,Dominic Solanke,Tottenham,0.71,0.74,Goal,9.0,Right Foot,,James Maddison,Shot,,
+6,10,Son Heung-min,Tottenham,0.07,0.05,Saved,22.0,Right Foot,,Destiny Udogie,Pass (Live),James Maddison,Pass (Live)
+7,11,Brennan Johnson,Tottenham,0.03,0.0,Off Target,18.0,Right Foot,,Dejan Kulusevski,Pass (Live),James Maddison,Pass (Live)
+8,16,Brennan Johnson,Tottenham,0.06,0.0,Blocked,17.0,Left Foot,,,,,
+9,18,Destiny Udogie,Tottenham,0.05,0.0,Blocked,15.0,Right Foot,Deflected,Son Heung-min,Pass (Live),,
+10,18,Dejan Kulusevski,Tottenham,0.08,0.0,Blocked,11.0,Left Foot,,Destiny Udogie,Shot,,
+11,25,Keane Lewis-Potter,Brentford,0.02,0.01,Saved,26.0,Right Foot,,Keane Lewis-Potter,Take-On,Mikkel Damsgaard,Pass (Live)
+12,26,Dejan Kulusevski,Tottenham,0.15,0.0,Blocked,17.0,Left Foot,,Son Heung-min,Pass (Live),Son Heung-min,Take-On
+13,26,Pedro Porro,Tottenham,0.02,0.0,Off Target,41.0,Right Foot,,James Maddison,Pass (Live),Destiny Udogie,Pass (Live)
+14,28,Brennan Johnson,Tottenham,0.07,0.2,Goal,14.0,Right Foot,,Son Heung-min,Pass (Live),James Maddison,Pass (Live)
+15,32,Dominic Solanke,Tottenham,0.36,0.0,Blocked,3.0,Left Foot,,James Maddison,Pass (Live),Dejan Kulusevski,Pass (Live)
+16,36,Dejan Kulusevski,Tottenham,0.1,0.0,Blocked,12.0,Right Foot,,Brennan Johnson,Pass (Live),Pedro Porro,Pass (Live)
+17,41,Bryan Mbeumo,Brentford,0.32,0.34,Saved,8.0,Left Foot,,Fabio Carvalho,Pass (Live),,
+18,42,Mikkel Damsgaard,Brentford,0.09,0.06,Saved,17.0,Left Foot,,Fabio Carvalho,Pass (Live),,
+19,45,Pedro Porro,Tottenham,0.04,0.0,Blocked,21.0,Right Foot,Volley,Cristian Romero,Pass (Live),James Maddison,Pass (Live)
+20,45+1,Brennan Johnson,Tottenham,0.15,0.0,Blocked,11.0,Right Foot,,Dejan Kulusevski,Pass (Live),Brennan Johnson,Pass (Live)
+21,,,,,,,,,,,,,
+22,51,Dejan Kulusevski,Tottenham,0.07,0.05,Saved,13.0,Left Foot,,James Maddison,Pass (Live),Destiny Udogie,Pass (Live)
+23,53,Dominic Solanke,Tottenham,0.47,0.27,Saved,9.0,Right Foot,,Rodrigo Bentancur,Take-On,,
+24,53,Dominic Solanke,Tottenham,0.14,0.0,Blocked,10.0,Left Foot,Volley,Dominic Solanke,Shot,,
+25,60,Brennan Johnson,Tottenham,0.07,0.05,Saved,15.0,Right Foot,,Dejan Kulusevski,Pass (Live),Son Heung-min,Pass (Live)
+26,62,Bryan Mbeumo,Brentford,0.22,0.13,Saved,13.0,Left Foot,,Kristoffer Ajer,Pass (Live),,
+27,63,Brennan Johnson,Tottenham,0.11,0.0,Off Target,12.0,Right Foot,,Son Heung-min,Pass (Live),James Maddison,Pass (Live)
+28,68,Kevin Schade,Brentford,0.06,0.47,Saved,11.0,Head,,Sepp van den Berg,Pass (Live),Keane Lewis-Potter,Pass (Live)
+29,85,James Maddison,Tottenham,0.51,0.45,Goal,13.0,Left Foot,,Son Heung-min,Pass (Live),Cristian Romero,Pass (Live)

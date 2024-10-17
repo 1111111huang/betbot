@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,James Maddison,Tottenham,0.14,,Blocked,15.0,Left Foot,,Yves Bissouma,Pass (Live),Dejan Kulusevski,Pass (Live)
+1,15,James Maddison,Tottenham,0.24,0.58,Saved,12.0,Right Foot,,Son Heung-min,Pass (Live),James Maddison,Interception
+2,15,Richarlison,Tottenham,0.21,0.15,Saved,9.0,Head,,James Maddison,Shot,,
+3,17,James Maddison,Tottenham,0.6,0.92,Goal,9.0,Right Foot,,Pape Matar Sarr,Pass (Live),Yves Bissouma,Pass (Live)
+4,19,Philip Billing,Bournemouth,0.02,,Blocked,12.0,Head,,Illia Zabarnyi,Pass (Live),Joe Rothwell,Pass (Dead)
+5,22,Pape Matar Sarr,Tottenham,0.07,0.15,Saved,16.0,Left Foot,,Son Heung-min,Pass (Live),James Maddison,Pass (Live)
+6,23,Dejan Kulusevski,Tottenham,0.02,,Blocked,19.0,Left Foot,,Pape Matar Sarr,Pass (Live),Son Heung-min,Pass (Live)
+7,26,Son Heung-min,Tottenham,0.02,,Off Target,24.0,Left Foot,Volley,Dejan Kulusevski,Take-On,Richarlison,Pass (Live)
+8,29,Antoine Semenyo,Bournemouth,0.13,,Blocked,11.0,Left Foot,,Philip Billing,Pass (Live),Justin Kluivert,Pass (Live)
+9,35,Philip Billing,Bournemouth,0.1,0.08,Saved,7.0,Head,,Ryan Christie,Pass (Dead),Max Aarons,Fouled
+10,40,Richarlison,Tottenham,0.05,,Off Target,4.0,Head,,James Maddison,Pass (Dead),James Maddison,Fouled
+11,41,Ryan Christie,Bournemouth,0.02,0.16,Saved,23.0,Left Foot,,Philip Billing,Pass (Live),,
+12,45+2,Yves Bissouma,Tottenham,0.05,0.09,Saved,17.0,Right Foot,Volley,Richarlison,Fouled,Yves Bissouma,Pass (Live)
+13,45+5,Justin Kluivert,Bournemouth,0.03,,Blocked,18.0,Right Foot,,Philip Billing,Pass (Live),Dominic Solanke,Interception
+14,45+5,Philip Billing,Bournemouth,0.16,,Off Target,15.0,Left Foot,,Justin Kluivert,Shot,,
+15,,,,,,,,,,,,,
+16,57,Antoine Semenyo,Bournemouth,0.04,,Off Target,25.0,Left Foot,,Philip Billing,Pass (Live),Milos Kerkez,Pass (Live)
+17,63,Dejan Kulusevski,Tottenham,0.33,0.97,Goal,4.0,Left Foot,,Destiny Udogie,Pass (Live),Son Heung-min,Pass (Live)
+18,67,Jaidon Anthony,Bournemouth,0.04,0.03,Saved,21.0,Right Foot,,Jaidon Anthony,Take-On,Hamed Junior Traorè,Pass (Live)
+19,70,James Maddison,Tottenham,0.11,,Off Target,16.0,Right Foot,,Dejan Kulusevski,Pass (Live),Pedro Porro,Pass (Live)
+20,84,Pedro Porro,Tottenham,0.02,,Blocked,22.0,Right Foot,,Dejan Kulusevski,Pass (Live),Son Heung-min,Pass (Live)
+21,85,Lewis Cook,Bournemouth,0.03,,Off Target,23.0,Right Foot,Volley,Jaidon Anthony,Pass (Live),Milos Kerkez,Pass (Live)
+22,86,Son Heung-min,Tottenham,0.03,,Off Target,24.0,Left Foot,,Giovani Lo Celso,Pass (Live),Dejan Kulusevski,Pass (Live)
+23,87,Dominic Solanke,Bournemouth,0.07,,Off Target,12.0,Head,,Max Aarons,Pass (Live),Jaidon Anthony,Pass (Live)
+24,90+1,Pedro Porro,Tottenham,0.05,,Blocked,30.0,Right Foot,Free kick,Son Heung-min,Fouled,Ben Davies,Pass (Live)
+25,90+1,Pedro Porro,Tottenham,0.01,,Off Target,30.0,Right Foot,,Pedro Porro,Shot,,
+26,90+5,Ben Davies,Tottenham,0.13,,Off Target,17.0,Left Foot,,Son Heung-min,Pass (Live),Dejan Kulusevski,Pass (Live)
+27,90+6,Ivan Perišić,Tottenham,0.04,,Off Target,14.0,Left Foot,,Ivan Perišić,Take-On,Son Heung-min,Pass (Live)
+28,90+7,Jaidon Anthony,Bournemouth,0.03,,Off Target,28.0,Right Foot,,Dominic Solanke,Pass (Live),Kieffer Moore,Pass (Live)

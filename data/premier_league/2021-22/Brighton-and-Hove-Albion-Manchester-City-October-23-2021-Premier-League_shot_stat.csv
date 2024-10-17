@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,João Cancelo,Manchester City,0.02,0.19,Saved,23.0,Right Foot,Deflected,Jack Grealish,Pass (Live),João Cancelo,Pass (Live)
+1,8,Rodri,Manchester City,0.01,,Off Target,10.0,Head,,İlkay Gündoğan,Pass (Dead),João Cancelo,Shot
+2,11,Gabriel Jesus,Manchester City,0.12,,Blocked,12.0,Right Foot,Deflected,İlkay Gündoğan,Pass (Live),Jack Grealish,Pass (Live)
+3,13,Phil Foden,Manchester City,0.14,,Blocked,16.0,Left Foot,,Bernardo Silva,Pass (Live),Kyle Walker,Pass (Live)
+4,13,Bernardo Silva,Manchester City,0.26,,Blocked,6.0,Left Foot,Volley,Phil Foden,Shot,,
+5,13,İlkay Gündoğan,Manchester City,0.99,0.99,Goal,1.0,Right Foot,,Bernardo Silva,Shot,,
+6,17,Leandro Trossard,Brighton,0.06,,Off Target,17.0,Left Foot,,Pascal Groß,Pass (Live),Solly March,Pass (Live)
+7,18,Jakub Moder,Brighton,0.04,,Off Target,12.0,Head,,Leandro Trossard,Pass (Live),Solly March,Tackle
+8,19,Jack Grealish,Manchester City,0.06,,Blocked,17.0,Right Foot,,Phil Foden,Pass (Live),Phil Foden,Take-On
+9,20,Gabriel Jesus,Manchester City,0.13,0.14,Saved,16.0,Left Foot,,Jack Grealish,Shot,,
+10,28,Phil Foden,Manchester City,0.75,0.87,Goal,12.0,Left Foot,,Jack Grealish,Pass (Live),Bernardo Silva,Pass (Live)
+11,31,Jack Grealish,Manchester City,0.05,0.11,Saved,12.0,Right Foot,,Gabriel Jesus,Pass (Live),Gabriel Jesus,Take-On
+12,31,Gabriel Jesus,Manchester City,0.09,,Blocked,14.0,Left Foot,,Jack Grealish,Shot,,
+13,31,Phil Foden,Manchester City,0.16,0.12,Goal,10.0,Left Foot,,Gabriel Jesus,Shot,,
+14,43,Solly March,Brighton,0.03,0.05,Saved,25.0,Right Foot,,Jakub Moder,Pass (Live),Dan Burn,Pass (Live)
+15,45+1,Phil Foden,Manchester City,0.14,0.08,Saved,19.0,Left Foot,,İlkay Gündoğan,Pass (Live),,
+16,45+2,Jack Grealish,Manchester City,0.03,0.08,Saved,21.0,Right Foot,,Bernardo Silva,Pass (Live),Bernardo Silva,Take-On
+17,,,,,,,,,,,,,
+18,46,João Cancelo,Manchester City,0.02,,Blocked,23.0,Left Foot,,Jack Grealish,Pass (Live),João Cancelo,Pass (Live)
+19,47,João Cancelo,Manchester City,0.02,0.05,Saved,54.0,Right Foot,Free kick,Jack Grealish,Fouled,Gabriel Jesus,Pass (Live)
+20,49,Phil Foden,Manchester City,0.14,,Off Target,16.0,Right Foot,,İlkay Gündoğan,Pass (Live),Jack Grealish,Pass (Live)
+21,53,Rúben Dias,Manchester City,0.09,,Off Target,9.0,Right Foot,Volley,İlkay Gündoğan,Pass (Dead),João Cancelo,Pass (Live)
+22,55,Pascal Groß,Brighton,0.25,0.07,Saved,10.0,Left Foot,,Leandro Trossard,Pass (Live),Solly March,Pass (Live)
+23,58,Leandro Trossard,Brighton,0.02,0.04,Saved,25.0,Right Foot,,Jakub Moder,Pass (Live),Leandro Trossard,Pass (Live)
+24,61,Leandro Trossard,Brighton,0.04,0.04,Saved,12.0,Left Foot,,Jakub Moder,Pass (Live),Enock Mwepu,Pass (Live)
+25,64,Jakub Moder,Brighton,0.03,,Blocked,15.0,Right Foot,,Jakub Moder,Take-On,Marc Cucurella,Pass (Live)
+26,74,Solly March,Brighton,0.02,,Off Target,28.0,Left Foot,,,,,
+27,81,Alexis Mac Allister (pen),Brighton,0.79,0.99,Goal,13.0,Right Foot,,Enock Mwepu,Fouled,Leandro Trossard,Pass (Live)
+28,86,Tariq Lamptey,Brighton,0.03,,Off Target,14.0,Right Foot,,,,,
+29,89,Phil Foden,Manchester City,0.33,0.61,Saved,6.0,Left Foot,,Kevin De Bruyne,Pass (Live),João Cancelo,Pass (Live)
+30,90+1,Phil Foden,Manchester City,0.04,,Blocked,17.0,Left Foot,,Kevin De Bruyne,Pass (Live),Fernandinho,Pass (Live)
+31,90+3,Phil Foden,Manchester City,0.07,,Blocked,14.0,Left Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+32,90+4,João Cancelo,Manchester City,0.06,0.08,Saved,24.0,Right Foot,,Kevin De Bruyne,Pass (Live),Aymeric Laporte,Pass (Live)
+33,90+5,Riyad Mahrez,Manchester City,0.55,0.53,Goal,14.0,Left Foot,,Phil Foden,Pass (Live),Fernandinho,Pass (Live)

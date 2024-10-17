@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7.0,Jordan Ayew,Crystal Palace,0.02,,Off Target,16.0,Head,,Tyrick Mitchell,Pass (Live),Tyrick Mitchell,Take-On
+1,11.0,Jeffrey Schlupp,Crystal Palace,0.04,,Off Target,22.0,Left Foot,Volley,Wilfried Zaha,Pass (Live),Eberechi Eze,Pass (Dead)
+2,16.0,Richarlison,Everton,0.1,,Woodwork,27.0,Right Foot,Free kick,Richarlison,Fouled,Dominic Calvert-Lewin,Pass (Live)
+3,21.0,Jean-Philippe Mateta,Crystal Palace,0.38,0.17,Goal,7.0,Head,,Eberechi Eze,Pass (Dead),Jeffrey Schlupp,Fouled
+4,27.0,Vitaliy Mykolenko,Everton,0.08,,Off Target,10.0,Left Foot,Volley,Séamus Coleman,Pass (Live),Alex Iwobi,Pass (Live)
+5,31.0,Richarlison,Everton,0.04,0.02,Saved,17.0,Right Foot,,Anthony Gordon,Pass (Live),,
+6,36.0,Wilfried Zaha,Crystal Palace,0.09,0.06,Saved,17.0,Left Foot,,Jean-Philippe Mateta,Tackle,,
+7,36.0,Jordan Ayew,Crystal Palace,0.39,0.77,Goal,5.0,Head,,Wilfried Zaha,Shot,,
+8,40.0,André Gomes,Everton,0.03,0.52,Saved,32.0,Left Foot,,Anthony Gordon,Interception,,
+9,44.0,Richarlison,Everton,0.08,,Off Target,10.0,Head,,Vitaliy Mykolenko,Pass (Live),Alex Iwobi,Pass (Live)
+10,,,,,,,,,,,,,
+11,51.0,Richarlison,Everton,0.02,,Blocked,27.0,Right Foot,,Dele Alli,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+12,54.0,Michael Keane,Everton,0.05,0.22,Goal,11.0,Left Foot,Volley,Mason Holgate,Pass (Live),Vitaliy Mykolenko,Pass (Dead)
+13,60.0,Alex Iwobi,Everton,0.01,,Blocked,33.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Anthony Gordon,Pass (Live)
+14,64.0,Jean-Philippe Mateta,Crystal Palace,0.18,0.07,Saved,13.0,Left Foot,,Eberechi Eze,Pass (Live),Jordan Ayew,Pass (Live)
+15,65.0,Jeffrey Schlupp,Crystal Palace,0.05,0.02,Saved,19.0,Left Foot,,,,,
+16,70.0,Abdoulaye Doucouré,Everton,0.02,0.29,Saved,27.0,Left Foot,,Vitaliy Mykolenko,Pass (Live),,
+17,72.0,Dominic Calvert-Lewin,Everton,0.12,,Off Target,9.0,Head,,Vitaliy Mykolenko,Pass (Live),Alex Iwobi,Pass (Live)
+18,75.0,Richarlison,Everton,0.08,0.52,Goal,10.0,Left Foot,Deflected,Séamus Coleman,Pass (Live),Demarai Gray,Pass (Live)
+19,85.0,Dominic Calvert-Lewin,Everton,0.15,0.32,Goal,10.0,Head,,Demarai Gray,Pass (Dead),Séamus Coleman,Fouled

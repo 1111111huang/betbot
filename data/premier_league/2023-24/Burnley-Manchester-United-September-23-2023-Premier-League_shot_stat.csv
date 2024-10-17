@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Marcus Rashford,Manchester Utd,0.05,,Off Target,8.0,Left Foot,,Hannibal Mejbri,Pass (Live),,
+1,7,Bruno Fernandes,Manchester Utd,0.14,0.04,Saved,11.0,Left Foot,,Marcus Rashford,Pass (Live),Hannibal Mejbri,Pass (Live)
+2,10,Zeki Amdouni,Burnley,0.06,0.09,Saved,12.0,Head,,Jóhann Berg Guðmundsson,Pass (Live),Connor Roberts,Pass (Live)
+3,14,Josh Brownhill,Burnley,0.09,,Off Target,21.0,Right Foot,,Luca Koleosho,Fouled,Josh Cullen,Pass (Live)
+4,17,Zeki Amdouni,Burnley,0.4,,Woodwork,9.0,Left Foot,,Aaron Ramsey,Pass (Live),Josh Cullen,Pass (Live)
+5,30,Rasmus Højlund,Manchester Utd,0.06,,Off Target,11.0,Left Foot,,Marcus Rashford,Pass (Live),Sergio Reguilón,Pass (Live)
+6,32,Aaron Ramsey,Burnley,0.02,,Blocked,19.0,Right Foot,,Josh Brownhill,Pass (Live),Charlie Taylor,Pass (Live)
+7,35,Bruno Fernandes,Manchester Utd,0.04,,Blocked,26.0,Left Foot,,Casemiro,Pass (Live),,
+8,38,Luca Koleosho,Burnley,0.03,,Off Target,17.0,Right Foot,,,,,
+9,42,Aaron Ramsey,Burnley,0.03,0.29,Saved,21.0,Right Foot,,Zeki Amdouni,Pass (Live),Ameen Al-Dakhil,Pass (Live)
+10,45,Bruno Fernandes,Manchester Utd,0.11,0.13,Goal,11.0,Right Foot,Volley,Jonny Evans,Pass (Live),Victor Lindelöf,Pass (Live)
+11,,,,,,,,,,,,,
+12,54,Luca Koleosho,Burnley,0.02,,Blocked,25.0,Right Foot,,Josh Brownhill,Tackle,,
+13,63,Scott McTominay,Manchester Utd,0.04,0.12,Saved,25.0,Left Foot,,Rasmus Højlund,Pass (Live),Marcus Rashford,Pass (Live)
+14,70,Marcus Rashford,Manchester Utd,0.03,,Blocked,24.0,Right Foot,,Casemiro,Pass (Live),,
+15,75,Jacob Bruun Larsen,Burnley,0.13,0.21,Saved,6.0,Right Foot,,Ameen Al-Dakhil,Pass (Live),Josh Cullen,Pass (Live)
+16,82,Sander Berge,Burnley,0.21,,Off Target,4.0,Head,,Josh Brownhill,Pass (Dead),Mike Trésor,Pass (Live)
+17,84,Jay Rodriguez,Burnley,0.08,,Blocked,8.0,Right Foot,Volley,Josh Cullen,Pass (Live),Sander Berge,Pass (Live)
+18,85,Marcus Rashford,Manchester Utd,0.32,,Blocked,17.0,Right Foot,,Marcus Rashford,Take-On,Hannibal Mejbri,Pass (Live)
+19,86,Casemiro,Manchester Utd,0.06,,Blocked,10.0,Head,,Bruno Fernandes,Pass (Dead),Marcus Rashford,Shot
+20,88,Benson Manuel,Burnley,0.02,,Off Target,25.0,Left Foot,,Benson Manuel,Take-On,Josh Cullen,Pass (Live)
+21,90,Rasmus Højlund,Manchester Utd,0.06,,Blocked,13.0,Left Foot,,Bruno Fernandes,Pass (Live),Hannibal Mejbri,Pass (Live)
+22,90+2,Bruno Fernandes,Manchester Utd,0.07,0.52,Saved,9.0,Right Foot,Volley,Diogo Dalot,Pass (Live),Hannibal Mejbri,Pass (Live)
+23,90+5,Benson Manuel,Burnley,0.01,0.05,Saved,19.0,Left Foot,,Mike Trésor,Pass (Dead),Benson Manuel,Fouled

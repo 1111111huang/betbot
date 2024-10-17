@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Todd Cantwell,Norwich City,0.52,0.9,Saved,3.0,Left Foot,,Teemu Pukki,Pass (Live),Teemu Pukki,Take-On
+1,8,Teemu Pukki,Norwich City,0.12,,Off Target,10.0,Right Foot,,Marco Stiepermann,Pass (Live),Max Aarons,Pass (Live)
+2,9,Emil Krafth,Newcastle Utd,0.16,,Off Target,11.0,Right Foot,Volley,Matt Ritchie,Pass (Live),Miguel Almirón,Pass (Live)
+3,15,Teemu Pukki,Norwich City,0.21,0.22,Saved,9.0,Right Foot,,Max Aarons,Pass (Live),,
+4,16,Tom Trybull,Norwich City,0.06,,Off Target,10.0,Head,,Emi Buendía,Pass (Dead),Teemu Pukki,Shot
+5,17,Matt Ritchie,Newcastle Utd,0.03,0.36,Saved,30.0,Right Foot,,Joelinton,Pass (Live),Matt Ritchie,Pass (Dead)
+6,25,Teemu Pukki,Norwich City,0.05,0.05,Saved,14.0,Left Foot,,Todd Cantwell,Pass (Live),Teemu Pukki,Pass (Live)
+7,26,Joelinton,Newcastle Utd,0.24,,Off Target,10.0,Head,,Isaac Hayden,Pass (Live),Fabian Schär,Pass (Live)
+8,27,Marco Stiepermann,Norwich City,0.03,,Blocked,28.0,Left Foot,,Todd Cantwell,Pass (Live),Moritz Leitner,Pass (Live)
+9,32,Teemu Pukki,Norwich City,0.04,0.3,Goal,15.0,Right Foot,Volley,Marco Stiepermann,Pass (Live),Moritz Leitner,Pass (Live)
+10,35,Matt Ritchie,Newcastle Utd,0.02,,Off Target,35.0,Left Foot,,Jonjo Shelvey,Pass (Live),Ki Sung-yueng,Pass (Live)
+11,38,Fabian Schär,Newcastle Utd,0.06,0.07,Saved,9.0,Head,,Jonjo Shelvey,Pass (Live),Matt Ritchie,Pass (Dead)
+12,,,,,,,,,,,,,
+13,46,Matt Ritchie,Newcastle Utd,0.04,,Off Target,17.0,Left Foot,Volley,Fabian Schär,Pass (Live),Joelinton,Pass (Live)
+14,46,Isaac Hayden,Newcastle Utd,0.05,,Off Target,16.0,Right Foot,Volley,Matt Ritchie,Shot,,
+15,49,Joelinton,Newcastle Utd,0.04,,Off Target,10.0,Head,,Matt Ritchie,Pass (Dead),Ki Sung-yueng,Pass (Live)
+16,61,Paul Dummett,Newcastle Utd,0.05,0.31,Saved,7.0,Head,,Ki Sung-yueng,Pass (Dead),Jonjo Shelvey,Pass (Live)
+17,61,Jamaal Lascelles,Newcastle Utd,0.08,,Blocked,12.0,Right Foot,Volley,Jonjo Shelvey,Pass (Live),Joelinton,Pass (Live)
+18,62,Max Aarons,Norwich City,0.06,,Blocked,11.0,Right Foot,,Emi Buendía,Pass (Live),Moritz Leitner,Pass (Live)
+19,63,Teemu Pukki,Norwich City,0.06,0.18,Goal,17.0,Right Foot,,Todd Cantwell,Pass (Live),Jamal Lewis,Pass (Live)
+20,71,Emi Buendía,Norwich City,0.05,,Blocked,21.0,Left Foot,,Todd Cantwell,Pass (Live),Emi Buendía,Pass (Live)
+21,75,Teemu Pukki,Norwich City,0.31,0.42,Goal,14.0,Left Foot,,Marco Stiepermann,Pass (Live),Emi Buendía,Pass (Live)
+22,78,Marco Stiepermann,Norwich City,0.03,0.07,Saved,24.0,Left Foot,,Tom Trybull,Pass (Live),Todd Cantwell,Pass (Live)
+23,79,Miguel Almirón,Newcastle Utd,0.05,,Off Target,20.0,Left Foot,,Miguel Almirón,Take-On,Jonjo Shelvey,Pass (Live)
+24,85,Mario Vrančić,Norwich City,0.06,,Blocked,16.0,Right Foot,,Emi Buendía,Pass (Live),Ben Godfrey,Pass (Live)
+25,86,Grant Hanley,Norwich City,0.06,,Off Target,10.0,Head,,Emi Buendía,Pass (Dead),Mario Vrančić,Shot
+26,87,Teemu Pukki,Norwich City,0.05,0.08,Saved,14.0,Right Foot,Deflected,Mario Vrančić,Pass (Live),Todd Cantwell,Pass (Live)
+27,90+3,Jonjo Shelvey,Newcastle Utd,0.13,0.75,Goal,9.0,Right Foot,,Jonjo Shelvey,Take-On,Sean Longstaff,Pass (Live)

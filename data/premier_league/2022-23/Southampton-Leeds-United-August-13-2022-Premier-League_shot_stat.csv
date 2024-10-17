@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,12,Patrick Bamford,Leeds United,0.1,,Blocked,7.0,Left Foot,,Rodrigo,Pass (Live),Jack Harrison,Pass (Live)
+1,17,Patrick Bamford,Leeds United,0.13,,Off Target,6.0,Left Foot,,Rodrigo,Pass (Live),Jack Harrison,Pass (Live)
+2,18,Stuart Armstrong,Southampton,0.08,,Blocked,14.0,Right Foot,,Kyle Walker-Peters,Pass (Live),Mohamed Elyounoussi,Pass (Live)
+3,20,Mohamed Elyounoussi,Southampton,0.02,,Off Target,18.0,Right Foot,Volley,,,,
+4,20,Che Adams,Southampton,0.12,,Off Target,21.0,Right Foot,,,,,
+5,20,Mohamed Elyounoussi,Southampton,0.02,,Off Target,14.0,Head,,Moussa Djenepo,Pass (Live),James Ward-Prowse,Pass (Live)
+6,27,Armel Bella Kotchap,Southampton,0.04,,Off Target,30.0,Left Foot,,,,,
+7,34,Daniel James,Leeds United,0.12,0.33,Saved,14.0,Left Foot,,Jack Harrison,Pass (Live),Diego Llorente,Pass (Live)
+8,35,Rasmus Kristensen,Leeds United,0.1,0.02,Saved,5.0,Head,,Rodrigo,Pass (Live),Brenden Aaronson,Pass (Dead)
+9,45+1,Jan Bednarek,Southampton,0.06,,Off Target,13.0,Head,,Stuart Armstrong,Pass (Live),Mohamed Elyounoussi,Pass (Live)
+10,45+2,Brenden Aaronson,Leeds United,0.02,,Off Target,28.0,Right Foot,,Jack Harrison,Pass (Live),Tyler Adams,Pass (Live)
+11,,,,,,,,,,,,,
+12,46,Brenden Aaronson,Leeds United,0.06,,Blocked,16.0,Right Foot,,Jack Harrison,Pass (Live),Pascal Struijk,Pass (Live)
+13,46,Rodrigo,Leeds United,0.29,0.55,Goal,4.0,Left Foot,,Jack Harrison,Pass (Live),,
+14,47,Stuart Armstrong,Southampton,0.12,,Off Target,29.0,Right Foot,,Roméo Lavia,Pass (Live),,
+15,57,Rodrigo,Leeds United,0.03,,Off Target,8.0,Head,,Jack Harrison,Pass (Dead),,
+16,60,Rodrigo,Leeds United,0.04,,Blocked,17.0,Right Foot,Volley,Marc Roca,Pass (Live),Brenden Aaronson,Pass (Live)
+17,60,Pascal Struijk,Leeds United,0.08,,Blocked,10.0,Other,,Brenden Aaronson,Pass (Dead),Rodrigo,Shot
+18,60,Rodrigo,Leeds United,0.9,0.96,Goal,1.0,Head,,Pascal Struijk,Shot,,
+19,62,Joe Aribo,Southampton,0.04,0.02,Saved,13.0,Head,,Moussa Djenepo,Pass (Live),Mohammed Salisu,Pass (Live)
+20,66,Joe Aribo,Southampton,0.15,,Blocked,10.0,Left Foot,,Mohammed Salisu,Pass (Live),James Ward-Prowse,Pass (Live)
+21,67,Kyle Walker-Peters,Southampton,0.06,,Blocked,15.0,Left Foot,,Kyle Walker-Peters,Take-On,,
+22,72,Joe Aribo,Southampton,0.11,0.9,Goal,8.0,Right Foot,Deflected,Joe Aribo,Take-On,Adam Armstrong,Pass (Live)
+23,81,Kyle Walker-Peters,Southampton,0.35,0.96,Goal,7.0,Right Foot,,Sekou Mara,Pass (Live),Sekou Mara,Take-On
+24,87,James Ward-Prowse,Southampton,0.03,,Off Target,34.0,Right Foot,Free kick,Che Adams,Fouled,Roméo Lavia,Pass (Live)
+25,90,Sekou Mara,Southampton,0.03,0.28,Saved,25.0,Right Foot,,Sekou Mara,Take-On,Che Adams,Pass (Live)
+26,90+4,Rodrigo,Leeds United,0.04,0.03,Saved,14.0,Left Foot,,Mateusz Klich,Pass (Live),Luis Sinisterra,Pass (Live)
+27,90+5,Diego Llorente,Leeds United,0.02,,Off Target,24.0,Right Foot,,Mateusz Klich,Pass (Live),Brenden Aaronson,Pass (Live)

@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Elijah Adebayo,Luton Town,0.05,,Blocked,12.0,Right Foot,,Elijah Adebayo,Take-On,Ross Barkley,Pass (Live)
+1,6,Albert Sambi Lokonga,Luton Town,0.23,0.58,Goal,8.0,Head,,Alfie Doughty,Pass (Live),Elijah Adebayo,Shot
+2,8,Mohammed Kudus,West Ham,0.16,,Off Target,12.0,Left Foot,,,,,
+3,11,James Ward-Prowse,West Ham,0.05,,Blocked,25.0,Right Foot,Free kick,Michail Antonio,Fouled,Mohammed Kudus,Tackle
+4,12,Jarrod Bowen,West Ham,0.09,,Woodwork,9.0,Left Foot,Volley,Lucas Paquetá,Pass (Live),Emerson Palmieri,Pass (Live)
+5,13,Fred Onyedinma,Luton Town,0.03,,Blocked,15.0,Right Foot,,Thomas Kaminski,Pass (Dead),,
+6,18,Mohammed Kudus,West Ham,0.04,,Blocked,17.0,Left Foot,,Jarrod Bowen,Pass (Live),James Ward-Prowse,Pass (Live)
+7,24,Jarrod Bowen,West Ham,0.03,,Off Target,15.0,Left Foot,,Tomáš Souček,Pass (Live),Vladimír Coufal,Pass (Live)
+8,28,Jarrod Bowen,West Ham,0.03,,Blocked,21.0,Left Foot,,Vladimír Coufal,Pass (Live),Lucas Paquetá,Pass (Live)
+9,28,Lucas Paquetá,West Ham,0.01,,Blocked,26.0,Right Foot,Volley,Lucas Paquetá,Pass (Live),Mohammed Kudus,Pass (Live)
+10,31,Mohammed Kudus,West Ham,0.05,,Off Target,21.0,Left Foot,,Vladimír Coufal,Pass (Live),Kurt Zouma,Pass (Live)
+11,38,Tomáš Souček,West Ham,0.04,0.04,Saved,29.0,Right Foot,,Mohammed Kudus,Pass (Live),Lucas Paquetá,Pass (Live)
+12,45+3,Michail Antonio,West Ham,0.04,,Off Target,23.0,Right Foot,,Vladimír Coufal,Pass (Dead),Michail Antonio,Pass (Dead)
+13,,,,,,,,,,,,,
+14,54,James Ward-Prowse,West Ham,0.1,0.38,Goal,16.0,Right Foot,,Vladimír Coufal,Pass (Live),,
+15,59,Jarrod Bowen,West Ham,0.25,0.21,Saved,10.0,Head,,,,,
+16,60,Michail Antonio,West Ham,0.09,0.14,Saved,10.0,Head,,Tomáš Souček,Pass (Live),Vladimír Coufal,Pass (Dead)
+17,61,Michail Antonio,West Ham,0.13,0.32,Saved,8.0,Head,,Mohammed Kudus,Pass (Live),Emerson Palmieri,Pass (Live)
+18,61,Jarrod Bowen,West Ham,0.37,,Off Target,4.0,Left Foot,,Michail Antonio,Shot,,
+19,63,Fred Onyedinma,Luton Town,0.02,,Off Target,15.0,Right Foot,Volley,Alfie Doughty,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+20,63,Emerson Palmieri,West Ham,0.14,,Blocked,9.0,Left Foot,,James Ward-Prowse,Pass (Live),Michail Antonio,Pass (Live)
+21,65,Tomáš Souček,West Ham,0.03,0.36,Goal,21.0,Left Foot,Volley,Emerson Palmieri,Pass (Live),Emerson Palmieri,Shot
+22,70,Jarrod Bowen,West Ham,0.02,,Blocked,30.0,Left Foot,,Tomáš Souček,Pass (Live),Mohammed Kudus,Pass (Live)
+23,70,Mohammed Kudus,West Ham,0.43,,Woodwork,13.0,Left Foot,,Jarrod Bowen,Pass (Live),Mohammed Kudus,Pass (Live)
+24,73,Vladimír Coufal,West Ham,0.01,,Off Target,32.0,Right Foot,Volley,Emerson Palmieri,Pass (Live),Emerson Palmieri,Pass (Live)
+25,76,George Earthy,West Ham,0.31,0.79,Goal,4.0,Right Foot,,Mohammed Kudus,Pass (Live),Vladimír Coufal,Pass (Live)
+26,86,Tomáš Souček,West Ham,0.14,,Off Target,5.0,Head,,,,,
+27,90+4,Mohammed Kudus,West Ham,0.01,,Blocked,26.0,Left Foot,,Mohammed Kudus,Take-On,George Earthy,Pass (Live)
+28,90+6,Jarrod Bowen,West Ham,0.64,0.85,Saved,10.0,Left Foot,,Vladimír Coufal,Pass (Live),Vladimír Coufal,Interception

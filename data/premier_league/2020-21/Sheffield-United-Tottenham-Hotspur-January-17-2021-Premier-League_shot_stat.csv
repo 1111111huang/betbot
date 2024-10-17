@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Pierre Højbjerg,Tottenham,0.06,,Blocked,24.0,Left Foot,,Son Heung-min,Pass (Live),Harry Kane,Pass (Live)
+1,1,Harry Kane,Tottenham,0.03,,Blocked,26.0,Right Foot,,Harry Kane,Take-On,Pierre Højbjerg,Shot
+2,4,Steven Bergwijn,Tottenham,0.03,0.17,Saved,27.0,Right Foot,,Harry Kane,Pass (Live),Steven Bergwijn,Pass (Live)
+3,5,Serge Aurier,Tottenham,0.18,0.17,Goal,5.0,Head,,Son Heung-min,Pass (Dead),Steven Bergwijn,Shot
+4,8,Son Heung-min,Tottenham,0.31,,Woodwork,19.0,Right Foot,,Harry Kane,Pass (Live),Tanguy Ndombele,Pass (Live)
+5,10,Oliver Burke,Sheffield Utd,0.05,,Blocked,14.0,Left Foot,,David McGoldrick,Pass (Live),Oliver Burke,Tackle
+6,22,Oliver Norwood,Sheffield Utd,0.02,,Blocked,33.0,Right Foot,,Oliver Burke,Pass (Live),John Fleck,Pass (Live)
+7,29,Oliver Burke,Sheffield Utd,0.03,0.08,Saved,25.0,Right Foot,,John Fleck,Pass (Live),John Egan,Tackle
+8,35,Oliver Burke,Sheffield Utd,0.03,,Blocked,26.0,Right Foot,,,,,
+9,35,David McGoldrick,Sheffield Utd,0.07,,Blocked,17.0,Right Foot,,Oliver Norwood,Pass (Live),Oliver Burke,Shot
+10,36,John Fleck,Sheffield Utd,0.03,0.03,Saved,30.0,Right Foot,,Oliver Norwood,Pass (Live),John Lundstram,Pass (Live)
+11,40,Harry Kane,Tottenham,0.04,0.27,Goal,24.0,Right Foot,,Harry Kane,Take-On,Pierre Højbjerg,Pass (Live)
+12,43,Jayden Bogle,Sheffield Utd,0.05,,Blocked,15.0,Right Foot,,David McGoldrick,Pass (Live),John Lundstram,Pass (Live)
+13,,,,,,,,,,,,,
+14,47,Jayden Bogle,Sheffield Utd,0.04,,Off Target,12.0,Head,,Enda Stevens,Pass (Live),David McGoldrick,Pass (Live)
+15,49,Enda Stevens,Sheffield Utd,0.09,,Blocked,16.0,Left Foot,,Chris Basham,Pass (Live),David McGoldrick,Pass (Live)
+16,49,David McGoldrick,Sheffield Utd,0.02,,Blocked,32.0,Right Foot,,John Fleck,Pass (Live),Ethan Ampadu,Pass (Live)
+17,50,Harry Kane,Tottenham,0.02,0.06,Saved,29.0,Left Foot,,Pierre Højbjerg,Pass (Dead),Steven Bergwijn,Fouled
+18,55,Harry Kane,Tottenham,0.04,,Off Target,21.0,Left Foot,,Harry Kane,Pass (Live),Son Heung-min,Pass (Live)
+19,57,John Lundstram,Sheffield Utd,0.02,,Off Target,27.0,Right Foot,,Oliver Norwood,Pass (Live),John Lundstram,Pass (Live)
+20,59,David McGoldrick,Sheffield Utd,0.28,0.53,Goal,9.0,Head,,John Fleck,Pass (Live),John Lundstram,Pass (Live)
+21,62,Tanguy Ndombele,Tottenham,0.06,0.58,Goal,12.0,Right Foot,Volley,Steven Bergwijn,Pass (Live),Tanguy Ndombele,Pass (Live)
+22,64,Ethan Ampadu,Sheffield Utd,0.05,0.1,Saved,13.0,Head,,John Lundstram,Fouled,Ethan Ampadu,Pass (Live)
+23,69,Harry Kane,Tottenham,0.02,,Blocked,35.0,Right Foot,,Harry Kane,Take-On,Ben Davies,Pass (Live)
+24,70,David McGoldrick,Sheffield Utd,0.03,0.02,Saved,27.0,Right Foot,,Ethan Ampadu,Pass (Live),Enda Stevens,Pass (Live)
+25,72,Steven Bergwijn,Tottenham,0.04,,Off Target,22.0,Right Foot,,Harry Kane,Pass (Live),Sergio Reguilón,Pass (Live)
+26,77,Son Heung-min,Tottenham,0.04,,Blocked,18.0,Right Foot,,Harry Kane,Pass (Live),Harry Kane,Take-On
+27,78,Tanguy Ndombele,Tottenham,0.02,,Blocked,30.0,Right Foot,,Son Heung-min,Shot,,
+28,82,Billy Sharp,Sheffield Utd,0.04,,Off Target,22.0,Right Foot,Volley,Kean Bryan,Pass (Live),John Lundstram,Pass (Live)
+29,90+1,Harry Kane,Tottenham,0.07,,Off Target,17.0,Left Foot,,Son Heung-min,Pass (Live),Lucas Moura,Pass (Live)

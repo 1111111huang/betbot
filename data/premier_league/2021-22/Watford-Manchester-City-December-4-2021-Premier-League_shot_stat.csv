@@ -1,0 +1,39 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Aymeric Laporte,Manchester City,0.06,,Blocked,9.0,Head,,Phil Foden,Pass (Dead),,
+1,4,Raheem Sterling,Manchester City,0.49,0.87,Goal,5.0,Head,,Phil Foden,Pass (Live),Bernardo Silva,Pass (Live)
+2,8,Raheem Sterling,Manchester City,0.08,0.1,Saved,14.0,Left Foot,,Kyle Walker,Pass (Live),Bernardo Silva,Pass (Live)
+3,9,Aymeric Laporte,Manchester City,0.19,,Off Target,7.0,Left Foot,Volley,Rúben Dias,Pass (Live),Raheem Sterling,Shot
+4,9,Jack Grealish,Manchester City,0.13,0.04,Saved,10.0,Head,,Phil Foden,Pass (Dead),Aymeric Laporte,Shot
+5,11,Jack Grealish,Manchester City,0.21,0.56,Saved,8.0,Right Foot,,Phil Foden,Pass (Live),İlkay Gündoğan,Pass (Live)
+6,17,Emmanuel Dennis,Watford,0.03,0.36,Saved,17.0,Left Foot,,Emmanuel Dennis,Take-On,Tom Cleverley,Pass (Live)
+7,21,Jack Grealish,Manchester City,0.09,0.03,Saved,17.0,Right Foot,Deflected,Aymeric Laporte,Pass (Live),Rodri,Pass (Live)
+8,23,Jack Grealish,Manchester City,0.07,,Off Target,15.0,Right Foot,,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+9,26,João Cancelo,Manchester City,0.02,,Off Target,26.0,Right Foot,,Rodri,Pass (Live),Aymeric Laporte,Pass (Live)
+10,28,İlkay Gündoğan,Manchester City,0.09,,Blocked,19.0,Left Foot,,Jack Grealish,Pass (Live),Aymeric Laporte,Pass (Live)
+11,30,Emmanuel Dennis,Watford,0.03,0.39,Saved,31.0,Right Foot,"Free kick, Deflected",Imran Louza,Pass (Dead),Joshua King,Fouled
+12,30,Moussa Sissoko,Watford,0.03,,Off Target,26.0,Right Foot,,Joshua King,Pass (Live),,
+13,31,İlkay Gündoğan,Manchester City,0.28,0.42,Saved,13.0,Right Foot,,Bernardo Silva,Pass (Live),İlkay Gündoğan,Pass (Live)
+14,31,Bernardo Silva,Manchester City,0.07,0.03,Goal,8.0,Right Foot,,İlkay Gündoğan,Shot,,
+15,34,Phil Foden,Manchester City,0.43,,Off Target,11.0,Left Foot,,İlkay Gündoğan,Pass (Live),Rúben Dias,Pass (Live)
+16,,,,,,,,,,,,,
+17,48,João Pedro,Watford,0.12,,Blocked,16.0,Right Foot,,Joshua King,Pass (Live),Emmanuel Dennis,Pass (Live)
+18,48,João Pedro,Watford,0.06,,Off Target,10.0,Head,,Cucho,Pass (Dead),João Pedro,Shot
+19,50,Raheem Sterling,Manchester City,0.05,,Blocked,18.0,Left Foot,Volley,İlkay Gündoğan,Pass (Live),Jack Grealish,Pass (Live)
+20,52,Raheem Sterling,Manchester City,0.08,0.04,Saved,12.0,Right Foot,,Bernardo Silva,Pass (Live),Aymeric Laporte,Pass (Live)
+21,58,Moussa Sissoko,Watford,0.03,,Off Target,26.0,Right Foot,,Cucho,Pass (Live),Moussa Sissoko,Pass (Live)
+22,59,Phil Foden,Manchester City,0.02,0.25,Saved,16.0,Left Foot,,İlkay Gündoğan,Pass (Live),Raheem Sterling,Pass (Live)
+23,60,Aymeric Laporte,Manchester City,0.1,,Off Target,11.0,Left Foot,Volley,İlkay Gündoğan,Pass (Dead),Phil Foden,Shot
+24,62,İlkay Gündoğan,Manchester City,0.16,,Off Target,18.0,Right Foot,,Raheem Sterling,Pass (Live),İlkay Gündoğan,Pass (Live)
+25,63,Bernardo Silva,Manchester City,0.05,0.49,Goal,15.0,Left Foot,,Kyle Walker,Pass (Live),Phil Foden,Pass (Live)
+26,67,Jack Grealish,Manchester City,0.13,,Blocked,16.0,Right Foot,,Raheem Sterling,Pass (Live),,
+27,70,Aymeric Laporte,Manchester City,0.12,0.04,Saved,11.0,Right Foot,,Aymeric Laporte,Take-On,,
+28,73,Juraj Kucka,Watford,0.04,0.35,Saved,29.0,Left Foot,,Emmanuel Dennis,Pass (Live),João Pedro,Pass (Live)
+29,74,Cucho,Watford,0.05,,Woodwork,14.0,Right Foot,,Kiko Femenía,Pass (Live),Cucho,Pass (Live)
+30,74,Cucho,Watford,0.14,0.49,Goal,6.0,Right Foot,Volley,Cucho,Shot,,
+31,78,Joshua King,Watford,0.2,,Off Target,14.0,Right Foot,,Cucho,Pass (Live),João Pedro,Pass (Live)
+32,79,Raheem Sterling,Manchester City,0.02,,Off Target,22.0,Right Foot,,Bernardo Silva,Pass (Live),João Cancelo,Pass (Live)
+33,81,Raheem Sterling,Manchester City,0.07,,Blocked,14.0,Right Foot,,Bernardo Silva,Pass (Live),João Cancelo,Pass (Live)
+34,82,Bernardo Silva,Manchester City,0.07,,Blocked,9.0,Right Foot,,Rodri,Pass (Live),Kevin De Bruyne,Pass (Dead)
+35,89,Kevin De Bruyne,Manchester City,0.06,,Off Target,23.0,Right Foot,,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+36,90+3,João Cancelo,Manchester City,0.04,0.04,Saved,27.0,Right Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+37,90+4,Jeremy Ngakia,Watford,0.02,,Off Target,27.0,Right Foot,,Cucho,Pass (Dead),Cucho,Take-On

@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Andrew Robertson,Liverpool,0.02,,Off Target,22.0,Left Foot,,Mohamed Salah,Pass (Live),Fabinho,Pass (Live)
+1,9,Roberto Firmino,Liverpool,0.05,,Blocked,15.0,Right Foot,,,,,
+2,9,Georginio Wijnaldum,Liverpool,0.07,0.25,Goal,10.0,Head,,Trent Alexander-Arnold,Pass (Live),Roberto Firmino,Shot
+3,12,Issa Diop,West Ham,0.06,0.2,Goal,8.0,Head,,Robert Snodgrass,Pass (Dead),Mark Noble,Pass (Live)
+4,16,Fabinho,Liverpool,0.06,,Off Target,13.0,Head,,Andrew Robertson,Pass (Live),Trent Alexander-Arnold,Pass (Dead)
+5,16,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,31.0,Right Foot,,Fabinho,Shot,,
+6,16,Mohamed Salah,Liverpool,0.04,0.13,Saved,18.0,Left Foot,,Andrew Robertson,Pass (Live),Joe Gomez,Pass (Live)
+7,21,Felipe Anderson,West Ham,0.04,,Off Target,14.0,Left Foot,Volley,Felipe Anderson,Pass (Live),Tomáš Souček,Pass (Live)
+8,25,Sadio Mané,Liverpool,0.05,,Blocked,14.0,Right Foot,,Sadio Mané,Take-On,Andrew Robertson,Pass (Live)
+9,26,Roberto Firmino,Liverpool,0.03,,Off Target,26.0,Right Foot,,Naby Keïta,Pass (Live),Naby Keïta,Tackle
+10,31,Trent Alexander-Arnold,Liverpool,0.05,,Off Target,16.0,Right Foot,,Roberto Firmino,Pass (Live),Andrew Robertson,Pass (Live)
+11,35,Mohamed Salah,Liverpool,0.08,,Off Target,7.0,Head,,Trent Alexander-Arnold,Pass (Dead),Trent Alexander-Arnold,Fouled
+12,39,Trent Alexander-Arnold,Liverpool,0.07,,Blocked,28.0,Right Foot,Free kick,Sadio Mané,Fouled,Mohamed Salah,Pass (Live)
+13,39,Virgil van Dijk,Liverpool,0.18,,Woodwork,6.0,Head,,Trent Alexander-Arnold,Pass (Dead),Trent Alexander-Arnold,Shot
+14,,,,,,,,,,,,,
+15,46,Roberto Firmino,Liverpool,0.06,,Off Target,15.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Fabinho,Pass (Live)
+16,49,Mohamed Salah,Liverpool,0.06,,Blocked,18.0,Left Foot,,Mohamed Salah,Take-On,Mohamed Salah,Take-On
+17,54,Pablo Fornals,West Ham,0.08,0.35,Goal,13.0,Right Foot,,Declan Rice,Pass (Live),Mark Noble,Pass (Live)
+18,58,Alex Oxlade-Chamberlain,Liverpool,0.03,,Off Target,30.0,Right Foot,,Georginio Wijnaldum,Pass (Live),Sadio Mané,Pass (Live)
+19,59,Virgil van Dijk,Liverpool,0.03,0.34,Saved,12.0,Head,,Alex Oxlade-Chamberlain,Pass (Live),Trent Alexander-Arnold,Pass (Dead)
+20,60,Sadio Mané,Liverpool,0.04,,Blocked,15.0,Left Foot,,Andrew Robertson,Pass (Live),Virgil van Dijk,Pass (Live)
+21,61,Trent Alexander-Arnold,Liverpool,0.01,0.06,Saved,28.0,Right Foot,,Alex Oxlade-Chamberlain,Pass (Live),Andrew Robertson,Pass (Dead)
+22,63,Roberto Firmino,Liverpool,0.07,,Off Target,10.0,Head,,Trent Alexander-Arnold,Pass (Dead),,
+23,68,Mohamed Salah,Liverpool,0.1,0.07,Goal,15.0,Left Foot,,Andrew Robertson,Pass (Live),Alex Oxlade-Chamberlain,Pass (Live)
+24,73,Virgil van Dijk,Liverpool,0.04,,Blocked,15.0,Right Foot,,Fabinho,Pass (Live),Alex Oxlade-Chamberlain,Pass (Live)
+25,74,Mohamed Salah,Liverpool,0.11,0.04,Saved,6.0,Right Foot,,Andrew Robertson,Pass (Live),Virgil van Dijk,Shot
+26,74,Roberto Firmino,Liverpool,0.45,,Woodwork,1.0,Head,,Mohamed Salah,Shot,,
+27,75,Sébastien Haller,West Ham,0.09,0.05,Saved,16.0,Right Foot,,Michail Antonio,Pass (Live),,
+28,81,Joe Gomez,Liverpool,0.03,,Blocked,30.0,Left Foot,,,,,
+29,81,Sadio Mané,Liverpool,0.79,0.86,Goal,4.0,Right Foot,,Joe Gomez,Shot,,
+30,88,Jarrod Bowen,West Ham,0.33,0.13,Saved,15.0,Left Foot,,Michail Antonio,Pass (Live),Angelo Ogbonna,Pass (Live)
+31,89,Aaron Cresswell,West Ham,0.08,,Off Target,10.0,Left Foot,,Pablo Fornals,Pass (Dead),Jarrod Bowen,Shot
+32,90+6,Mark Noble,West Ham,0.03,,Blocked,25.0,Right Foot,,Michail Antonio,Fouled,Aaron Cresswell,Pass (Live)

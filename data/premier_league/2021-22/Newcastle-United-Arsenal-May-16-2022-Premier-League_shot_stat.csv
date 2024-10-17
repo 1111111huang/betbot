@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Eddie Nketiah,Arsenal,0.03,,Blocked,18.0,Right Foot,,,,,
+1,6,Mohamed Elneny,Arsenal,0.01,,Blocked,32.0,Right Foot,,Eddie Nketiah,Shot,,
+2,18,Joelinton,Newcastle Utd,0.05,,Blocked,16.0,Left Foot,,Allan Saint-Maximin,Take-On,,
+3,21,Bukayo Saka,Arsenal,0.07,,Blocked,13.0,Left Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+4,21,Takehiro Tomiyasu,Arsenal,0.12,,Off Target,8.0,Head,,Bukayo Saka,Pass (Dead),Bukayo Saka,Shot
+5,24,Bukayo Saka,Arsenal,0.04,0.12,Saved,21.0,Left Foot,,Martin Ødegaard,Pass (Live),Granit Xhaka,Pass (Live)
+6,27,Granit Xhaka,Arsenal,0.04,,Off Target,14.0,Right Foot,Volley,,,,
+7,35,Fabian Schär,Newcastle Utd,0.02,,Off Target,19.0,Right Foot,Volley,Emil Krafth,Pass (Live),Miguel Almirón,Pass (Live)
+8,36,Allan Saint-Maximin,Newcastle Utd,0.06,0.18,Saved,19.0,Right Foot,,Allan Saint-Maximin,Take-On,Joelinton,Pass (Live)
+9,43,Emil Krafth,Newcastle Utd,0.01,,Off Target,27.0,Right Foot,,Miguel Almirón,Pass (Live),Sean Longstaff,Pass (Live)
+10,,,,,,,,,,,,,
+11,52,Sean Longstaff,Newcastle Utd,0.01,,Blocked,29.0,Right Foot,,Bruno Guimarães,Pass (Live),Joelinton,Pass (Live)
+12,59,Miguel Almirón,Newcastle Utd,0.01,,Blocked,30.0,Left Foot,,Sean Longstaff,Pass (Live),Callum Wilson,Pass (Live)
+13,60,Bukayo Saka,Arsenal,0.03,,Off Target,26.0,Left Foot,,Granit Xhaka,Pass (Live),Nuno Tavares,Pass (Live)
+14,63,Callum Wilson,Newcastle Utd,0.15,,Off Target,12.0,Right Foot,Volley,Bruno Guimarães,Pass (Live),Emil Krafth,Pass (Dead)
+15,64,Joelinton,Newcastle Utd,0.04,,Off Target,23.0,Right Foot,Volley,,,,
+16,72,Mohamed Elneny,Arsenal,0.02,0.02,Saved,30.0,Right Foot,,Martin Ødegaard,Pass (Live),Cédric Soares,Pass (Dead)
+17,72,Callum Wilson,Newcastle Utd,0.08,,Blocked,9.0,Right Foot,,Emil Krafth,Pass (Live),Miguel Almirón,Pass (Live)
+18,73,Jamaal Lascelles,Newcastle Utd,0.11,,Off Target,8.0,Head,,Matt Targett,Pass (Dead),Callum Wilson,Shot
+19,80,Jacob Murphy,Newcastle Utd,0.13,0.64,Saved,18.0,Right Foot,,Ryan Fraser,Pass (Live),Jacob Murphy,Pass (Live)
+20,82,Callum Wilson,Newcastle Utd,0.01,,Off Target,42.0,Right Foot,Volley,Martin Dúbravka,Pass (Dead),,
+21,83,Martin Ødegaard,Arsenal,0.14,,Blocked,12.0,Left Foot,,Martin Ødegaard,Take-On,Eddie Nketiah,Pass (Live)
+22,84,Bruno Guimarães,Newcastle Utd,0.07,,Blocked,21.0,Right Foot,,Callum Wilson,Pass (Live),Matt Targett,Pass (Live)
+23,85,Bruno Guimarães,Newcastle Utd,0.24,0.81,Goal,12.0,Right Foot,Deflected,Bruno Guimarães,Shot,,
+24,90,Bukayo Saka,Arsenal,0.04,,Blocked,22.0,Right Foot,,Ben White,Pass (Live),Mohamed Elneny,Pass (Live)
+25,90+2,Cédric Soares,Arsenal,0.01,,Off Target,35.0,Right Foot,,Mohamed Elneny,Pass (Live),Martin Ødegaard,Pass (Live)
+26,90+6,Ryan Fraser,Newcastle Utd,0.28,0.73,Saved,16.0,Right Foot,,Dwight Gayle,Pass (Live),Emil Krafth,Pass (Dead)
+27,90+6,Dwight Gayle,Newcastle Utd,0.48,,Off Target,4.0,Right Foot,Volley,Sean Longstaff,Pass (Live),Ryan Fraser,Shot

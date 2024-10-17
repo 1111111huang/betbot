@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Gabriel Martinelli,Arsenal,0.06,0.14,Saved,13.0,Right Foot,Volley,Bukayo Saka,Pass (Live),Ben White,Pass (Live)
+1,4,Granit Xhaka,Arsenal,0.17,,Off Target,5.0,Left Foot,Volley,Bukayo Saka,Pass (Live),,
+2,13,Richarlison,Tottenham,0.45,0.12,Saved,10.0,Right Foot,,Son Heung-min,Pass (Dead),Harry Kane,Fouled
+3,14,Martin Ødegaard,Arsenal,0.02,0.06,Saved,25.0,Left Foot,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+4,16,Ben White,Arsenal,0.02,,Off Target,26.0,Right Foot,,Thomas Partey,Pass (Live),Gabriel Martinelli,Pass (Live)
+5,17,Granit Xhaka,Arsenal,0.02,,Off Target,31.0,Left Foot,,Thomas Partey,Pass (Live),,
+6,20,Thomas Partey,Arsenal,0.04,0.36,Goal,27.0,Right Foot,,Ben White,Pass (Live),Bukayo Saka,Pass (Live)
+7,28,Ivan Perišić,Tottenham,0.09,,Off Target,16.0,Left Foot,,Son Heung-min,Pass (Live),Rodrigo Bentancur,Pass (Live)
+8,31,Harry Kane (pen),Tottenham,0.79,0.91,Goal,13.0,Right Foot,,Richarlison,Fouled,Son Heung-min,Pass (Live)
+9,38,Harry Kane,Tottenham,0.11,0.08,Saved,9.0,Head,,Ivan Perišić,Pass (Live),Richarlison,Pass (Live)
+10,39,Gabriel Martinelli,Arsenal,0.03,,Blocked,18.0,Right Foot,,Bukayo Saka,Pass (Live),Gabriel Martinelli,Pass (Live)
+11,43,Gabriel Jesus,Arsenal,0.14,0.1,Saved,8.0,Right Foot,,Gabriel Jesus,Take-On,Martin Ødegaard,Pass (Live)
+12,45,Bukayo Saka,Arsenal,0.15,,Off Target,11.0,Left Foot,Volley,Oleksandr Zinchenko,Pass (Live),Granit Xhaka,Pass (Live)
+13,,,,,,,,,,,,,
+14,47,Martin Ødegaard,Arsenal,0.04,,Blocked,22.0,Left Foot,,Gabriel Martinelli,Pass (Live),Thomas Partey,Pass (Live)
+15,48,Thomas Partey,Arsenal,0.03,,Blocked,26.0,Right Foot,,Bukayo Saka,Pass (Live),Ben White,Pass (Live)
+16,49,Bukayo Saka,Arsenal,0.08,0.14,Saved,16.0,Left Foot,,Thomas Partey,Pass (Live),William Saliba,Pass (Live)
+17,49,Gabriel Jesus,Arsenal,0.95,0.99,Goal,1.0,Left Foot,,Bukayo Saka,Shot,,
+18,51,Pierre Højbjerg,Tottenham,0.05,,Blocked,22.0,Right Foot,Deflected,Rodrigo Bentancur,Pass (Live),,
+19,53,Gabriel Jesus,Arsenal,0.21,,Off Target,9.0,Head,,Ben White,Pass (Live),Bukayo Saka,Pass (Live)
+20,59,Pierre Højbjerg,Tottenham,0.07,,Off Target,23.0,Right Foot,,Richarlison,Pass (Live),Emerson,Pass (Live)
+21,60,Gabriel Jesus,Arsenal,0.12,0.02,Saved,12.0,Head,,Granit Xhaka,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+22,65,Oleksandr Zinchenko,Arsenal,0.01,,Off Target,26.0,Left Foot,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+23,66,Bukayo Saka,Arsenal,0.04,,Off Target,21.0,Left Foot,,Martin Ødegaard,Pass (Live),Granit Xhaka,Pass (Live)
+24,67,Granit Xhaka,Arsenal,0.14,0.07,Goal,14.0,Left Foot,,Thomas Partey,Pass (Live),Granit Xhaka,Pass (Live)
+25,72,Martin Ødegaard,Arsenal,0.05,,Off Target,24.0,Left Foot,,Thomas Partey,Pass (Live),Granit Xhaka,Pass (Live)
+26,78,Harry Kane,Tottenham,0.01,,Blocked,26.0,Right Foot,,Eric Dier,Pass (Dead),Rodrigo Bentancur,Fouled
+27,90,Kieran Tierney,Arsenal,0.02,0.17,Saved,31.0,Left Foot,,Fabio Vieira,Pass (Live),Gabriel Martinelli,Pass (Live)
+28,90+2,Fabio Vieira,Arsenal,0.08,,Blocked,18.0,Left Foot,,,,,
+29,90+4,Gabriel Martinelli,Arsenal,0.03,,Off Target,26.0,Right Foot,Free kick,Eddie Nketiah,Fouled,Granit Xhaka,Pass (Live)

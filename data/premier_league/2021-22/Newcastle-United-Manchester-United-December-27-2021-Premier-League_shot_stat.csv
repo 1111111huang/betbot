@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Allan Saint-Maximin,Newcastle Utd,0.08,0.41,Goal,16.0,Right Foot,,Allan Saint-Maximin,Take-On,Sean Longstaff,Pass (Live)
+1,11,Scott McTominay,Manchester Utd,0.01,,Blocked,36.0,Right Foot,,Fred,Pass (Live),Bruno Fernandes,Pass (Live)
+2,12,Joelinton,Newcastle Utd,0.03,,Off Target,30.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Pass (Live)
+3,21,Cristiano Ronaldo,Manchester Utd,0.18,,Blocked,4.0,Head,,Alex Telles,Pass (Dead),Raphaël Varane,Pass (Live)
+4,23,Jonjo Shelvey,Newcastle Utd,0.03,0.09,Saved,32.0,Right Foot,,Jonjo Shelvey,Take-On,,
+5,30,Mason Greenwood,Manchester Utd,0.02,,Blocked,26.0,Left Foot,,Fred,Pass (Live),Scott McTominay,Pass (Live)
+6,41,Mason Greenwood,Manchester Utd,0.14,0.05,Saved,12.0,Left Foot,Volley,Bruno Fernandes,Pass (Dead),Marcus Rashford,Fouled
+7,45+2,Allan Saint-Maximin,Newcastle Utd,0.03,,Blocked,19.0,Right Foot,,Joelinton,Pass (Live),Joelinton,Take-On
+8,,,,,,,,,,,,,
+9,47,Allan Saint-Maximin,Newcastle Utd,0.8,0.94,Saved,4.0,Left Foot,,Emil Krafth,Pass (Live),Emil Krafth,Take-On
+10,49,Marcus Rashford,Manchester Utd,0.02,0.05,Saved,33.0,Right Foot,,Harry Maguire,Pass (Live),Marcus Rashford,Pass (Live)
+11,50,Raphaël Varane,Manchester Utd,0.01,,Blocked,14.0,Head,,Alex Telles,Pass (Dead),Marcus Rashford,Shot
+12,52,Cristiano Ronaldo,Manchester Utd,0.01,,Off Target,25.0,Right Foot,Volley,Alex Telles,Pass (Dead),Scott McTominay,Fouled
+13,55,Edinson Cavani,Manchester Utd,0.17,,Off Target,16.0,Right Foot,,Jadon Sancho,Pass (Live),Bruno Fernandes,Pass (Live)
+14,63,Ryan Fraser,Newcastle Utd,0.07,0.11,Saved,14.0,Right Foot,,Joelinton,Pass (Live),Jonjo Shelvey,Pass (Live)
+15,63,Marcus Rashford,Manchester Utd,0.11,,Blocked,15.0,Right Foot,,Marcus Rashford,Take-On,Marcus Rashford,Take-On
+16,65,Allan Saint-Maximin,Newcastle Utd,0.02,0.1,Saved,31.0,Left Foot,,Joelinton,Pass (Live),Jacob Murphy,Pass (Live)
+17,67,Jacob Murphy,Newcastle Utd,0.01,,Off Target,29.0,Right Foot,,Javier Manquillo,Pass (Live),Jacob Murphy,Pass (Live)
+18,71,Edinson Cavani,Manchester Utd,0.2,,Blocked,14.0,Right Foot,,Diogo Dalot,Pass (Live),Bruno Fernandes,Pass (Live)
+19,71,Edinson Cavani,Manchester Utd,0.41,0.58,Goal,10.0,Right Foot,"Deflected, Volley",Edinson Cavani,Shot,,
+20,72,Allan Saint-Maximin,Newcastle Utd,0.05,0.24,Saved,20.0,Left Foot,,Joelinton,Pass (Live),Javier Manquillo,Pass (Live)
+21,75,Edinson Cavani,Manchester Utd,0.3,,Blocked,5.0,Left Foot,,Alex Telles,Pass (Live),Marcus Rashford,Pass (Live)
+22,84,Jonjo Shelvey,Newcastle Utd,0.02,0.08,Saved,36.0,Right Foot,,Dwight Gayle,Pass (Live),Sean Longstaff,Pass (Live)
+23,88,Jacob Murphy,Newcastle Utd,0.05,,Woodwork,16.0,Right Foot,,Sean Longstaff,Pass (Live),Dwight Gayle,Pass (Live)
+24,88,Miguel Almirón,Newcastle Utd,0.07,0.33,Saved,21.0,Left Foot,,Jacob Murphy,Shot,,
+25,90+1,Joelinton,Newcastle Utd,0.03,,Blocked,28.0,Right Foot,,Jacob Murphy,Pass (Live),Sean Longstaff,Pass (Live)
+26,90+3,Edinson Cavani,Manchester Utd,0.12,,Off Target,24.0,Right Foot,,Jadon Sancho,Pass (Live),Harry Maguire,Pass (Live)

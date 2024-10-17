@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,14,Tosin Adarabioyo,Fulham,0.05,0.35,Saved,9.0,Head,Deflected,Ademola Lookman,Pass (Dead),Ademola Lookman,Pass (Live)
+1,23,Ashley Barnes,Burnley,0.06,,Off Target,14.0,Right Foot,Volley,Ashley Westwood,Pass (Live),Matthew Lowton,Pass (Live)
+2,25,Kevin Long,Burnley,0.33,,Off Target,4.0,Head,,Dwight McNeil,Pass (Dead),,
+3,27,Ashley Westwood,Burnley,0.02,0.03,Saved,29.0,Right Foot,Volley,Dwight McNeil,Pass (Dead),Dwight McNeil,Fouled
+4,41,Mario Lemina,Fulham,0.02,,Off Target,30.0,Right Foot,Volley,Ademola Lookman,Pass (Dead),,
+5,,,,,,,,,,,,,
+6,49,Ola Aina,Fulham,0.2,0.11,Goal,7.0,Other,Deflected,Joachim Andersen,Pass (Live),Ademola Lookman,Pass (Dead)
+7,53,Ashley Barnes,Burnley,0.16,0.35,Goal,12.0,Left Foot,,Jay Rodriguez,Pass (Live),Ashley Westwood,Pass (Live)
+8,59,Jay Rodriguez,Burnley,0.05,0.11,Saved,12.0,Right Foot,,Ashley Westwood,Pass (Live),Matthew Lowton,Pass (Dead)
+9,60,Robbie Brady,Burnley,0.05,,Off Target,9.0,Head,,Charlie Taylor,Pass (Live),Dwight McNeil,Pass (Live)
+10,71,Josh Maja,Fulham,0.03,0.39,Saved,27.0,Left Foot,,Ivan Cavaleiro,Pass (Live),Joachim Andersen,Pass (Live)
+11,74,Ashley Barnes,Burnley,0.04,,Off Target,16.0,Head,,Ashley Westwood,Pass (Dead),Jay Rodriguez,Fouled
+12,76,Harrison Reed,Fulham,0.03,,Blocked,28.0,Right Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Harrison Reed,Pass (Live)
+13,77,Ruben Loftus-Cheek,Fulham,0.09,,Off Target,8.0,Head,,Ivan Cavaleiro,Pass (Live),Kenny Tete,Pass (Live)
+14,86,Josh Maja,Fulham,0.08,,Off Target,12.0,Right Foot,Volley,Ruben Loftus-Cheek,Pass (Live),Ivan Cavaleiro,Pass (Live)
+15,90,Ademola Lookman,Fulham,0.05,,Off Target,16.0,Right Foot,,Josh Maja,Pass (Live),Josh Maja,Take-On
+16,90+2,Ashley Barnes,Burnley,0.23,,Off Target,5.0,Head,,Jay Rodriguez,Fouled,Nick Pope,Pass (Live)

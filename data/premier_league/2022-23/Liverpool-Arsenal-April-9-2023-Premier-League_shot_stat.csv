@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Granit Xhaka,Arsenal,0.04,,Blocked,17.0,Left Foot,Volley,Gabriel Martinelli,Take-On,Oleksandr Zinchenko,Pass (Dead)
+1,6,Cody Gakpo,Liverpool,0.04,,Off Target,20.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),,
+2,8,Gabriel Martinelli,Arsenal,0.15,0.94,Goal,10.0,Right Foot,,Gabriel Martinelli,Take-On,Bukayo Saka,Pass (Live)
+3,12,Oleksandr Zinchenko,Arsenal,0.04,0.45,Saved,23.0,Left Foot,,Gabriel Martinelli,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+4,17,Gabriel Jesus,Arsenal,0.61,,Off Target,3.0,Left Foot,Volley,Bukayo Saka,Pass (Live),Gabriel Jesus,Pass (Live)
+5,20,Andrew Robertson,Liverpool,0.14,,Off Target,13.0,Left Foot,,Fabinho,Pass (Live),Curtis Jones,Pass (Live)
+6,26,Ibrahima Konaté,Liverpool,0.03,,Blocked,12.0,Head,,Cody Gakpo,Pass (Live),Curtis Jones,Pass (Live)
+7,28,Gabriel Jesus,Arsenal,0.34,0.77,Goal,7.0,Head,,Gabriel Martinelli,Pass (Live),Granit Xhaka,Pass (Live)
+8,34,Mohamed Salah,Liverpool,0.21,,Off Target,12.0,Left Foot,,Jordan Henderson,Pass (Live),Jordan Henderson,Interception
+9,42,Jordan Henderson,Liverpool,0.23,,Off Target,10.0,Right Foot,,Diogo Jota,Pass (Live),Curtis Jones,Pass (Live)
+10,42,Mohamed Salah,Liverpool,0.3,0.94,Goal,3.0,Right Foot,,Jordan Henderson,Shot,,
+11,45+3,Jordan Henderson,Liverpool,0.08,,Off Target,14.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Mohamed Salah,Pass (Live)
+12,45+5,Mohamed Salah,Liverpool,0.04,,Blocked,15.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),,
+13,,,,,,,,,,,,,
+14,46,Oleksandr Zinchenko,Arsenal,0.02,,Blocked,26.0,Left Foot,,Gabriel Magalhães,Pass (Live),Rob Holding,Pass (Live)
+15,48,Mohamed Salah,Liverpool,0.05,,Blocked,19.0,Left Foot,,Cody Gakpo,Pass (Live),Jordan Henderson,Pass (Live)
+16,49,Mohamed Salah,Liverpool,0.03,,Off Target,9.0,Left Foot,,Cody Gakpo,Pass (Live),Ibrahima Konaté,Tackle
+17,54,Mohamed Salah (pen),Liverpool,0.79,,Off Target,13.0,Left Foot,,Diogo Jota,Fouled,Curtis Jones,Pass (Live)
+18,55,Diogo Jota,Liverpool,0.05,,Blocked,15.0,Right Foot,Volley,Jordan Henderson,Pass (Live),Cody Gakpo,Pass (Live)
+19,57,Mohamed Salah,Liverpool,0.1,0.09,Saved,12.0,Left Foot,,Virgil van Dijk,Interception,,
+20,57,Fabinho,Liverpool,0.03,,Blocked,29.0,Right Foot,,Curtis Jones,Pass (Live),Andrew Robertson,Pass (Live)
+21,74,Martin Ødegaard,Arsenal,0.05,0.4,Saved,26.0,Left Foot,,Bukayo Saka,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+22,81,Darwin Núñez,Liverpool,0.41,0.28,Saved,14.0,Right Foot,,Mohamed Salah,Pass (Live),Virgil van Dijk,Pass (Live)
+23,81,Mohamed Salah,Liverpool,0.02,,Off Target,13.0,Right Foot,Volley,Andrew Robertson,Tackle,,
+24,85,Gabriel Magalhães,Arsenal,0.11,0.02,Saved,8.0,Head,,Bukayo Saka,Pass (Dead),Bukayo Saka,Pass (Live)
+25,87,Roberto Firmino,Liverpool,0.22,0.47,Goal,4.0,Head,,Trent Alexander-Arnold,Pass (Live),Trent Alexander-Arnold,Take-On
+26,90,Kieran Tierney,Arsenal,0.04,,Off Target,21.0,Left Foot,Volley,,,,
+27,90+2,Trent Alexander-Arnold,Liverpool,0.02,,Off Target,30.0,Right Foot,,Mohamed Salah,Pass (Live),Jordan Henderson,Pass (Live)
+28,90+4,Mohamed Salah,Liverpool,0.54,,Off Target,3.0,Right Foot,Volley,Andrew Robertson,Pass (Live),Roberto Firmino,Pass (Live)
+29,90+5,Mohamed Salah,Liverpool,0.05,0.5,Saved,17.0,Left Foot,Deflected,Trent Alexander-Arnold,Pass (Live),Thiago Alcántara,Pass (Live)
+30,90+6,Ibrahima Konaté,Liverpool,0.56,0.79,Saved,4.0,Other,,Darwin Núñez,Pass (Live),Trent Alexander-Arnold,Pass (Live)

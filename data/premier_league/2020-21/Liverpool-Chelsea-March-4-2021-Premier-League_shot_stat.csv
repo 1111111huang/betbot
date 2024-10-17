@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7.0,Andrew Robertson,Liverpool,0.03,,Off Target,24.0,Left Foot,,Mohamed Salah,Pass (Live),Andrew Robertson,Pass (Live)
+1,11.0,Timo Werner,Chelsea,0.05,,Off Target,22.0,Right Foot,,Ben Chilwell,Pass (Live),Mason Mount,Pass (Live)
+2,16.0,Timo Werner,Chelsea,0.47,0.47,Saved,10.0,Right Foot,Volley,César Azpilicueta,Pass (Live),Hakim Ziyech,Pass (Live)
+3,17.0,César Azpilicueta,Chelsea,0.03,,Off Target,23.0,Right Foot,,Reece James,Pass (Live),Hakim Ziyech,Pass (Live)
+4,30.0,Curtis Jones,Liverpool,0.03,,Off Target,20.0,Right Foot,,Thiago Alcántara,Pass (Live),Andrew Robertson,Pass (Live)
+5,37.0,Mason Mount,Chelsea,0.06,,Off Target,16.0,Right Foot,Volley,César Azpilicueta,Pass (Live),N'Golo Kanté,Pass (Live)
+6,38.0,Hakim Ziyech,Chelsea,0.08,,Blocked,15.0,Left Foot,,Mason Mount,Pass (Live),Jorginho,Pass (Live)
+7,42.0,Mason Mount,Chelsea,0.05,0.43,Goal,18.0,Right Foot,,N'Golo Kanté,Pass (Live),César Azpilicueta,Pass (Live)
+8,,,,,,,,,,,,,
+9,49.0,Mason Mount,Chelsea,0.02,,Off Target,34.0,Right Foot,Volley,Timo Werner,Pass (Live),Ben Chilwell,Pass (Live)
+10,50.0,Fabinho,Liverpool,0.06,,Off Target,11.0,Head,,Trent Alexander-Arnold,Pass (Dead),Georginio Wijnaldum,Pass (Live)
+11,53.0,N'Golo Kanté,Chelsea,0.04,,Off Target,21.0,Right Foot,,Ben Chilwell,Pass (Live),Mason Mount,Pass (Live)
+12,54.0,Ben Chilwell,Chelsea,0.05,0.07,Saved,12.0,Left Foot,,Mason Mount,Pass (Live),Ben Chilwell,Pass (Live)
+13,54.0,Hakim Ziyech,Chelsea,0.07,,Blocked,13.0,Left Foot,,Ben Chilwell,Shot,,
+14,59.0,Mohamed Salah,Liverpool,0.03,,Blocked,28.0,Left Foot,,Andrew Robertson,Pass (Live),Ozan Kabak,Pass (Live)
+15,61.0,Trent Alexander-Arnold,Liverpool,0.02,,Blocked,31.0,Right Foot,,Curtis Jones,Pass (Live),Roberto Firmino,Pass (Live)
+16,63.0,Roberto Firmino,Liverpool,0.05,,Off Target,12.0,Head,,Andrew Robertson,Pass (Live),Alex Oxlade-Chamberlain,Pass (Live)
+17,77.0,Timo Werner,Chelsea,0.05,0.06,Saved,11.0,Left Foot,,Mason Mount,Pass (Live),Jorginho,Pass (Live)
+18,85.0,Georginio Wijnaldum,Liverpool,0.06,0.11,Saved,12.0,Head,,Trent Alexander-Arnold,Pass (Live),,

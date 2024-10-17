@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,George Baldock,Sheffield Utd,0.03,0.12,Saved,28.0,Left Foot,,Oliver McBurnie,Pass (Live),Oliver Norwood,Pass (Live)
+1,6,Eric Dier,Tottenham,0.05,,Off Target,7.0,Head,,Son Heung-min,Pass (Dead),Steven Bergwijn,Pass (Live)
+2,6,Moussa Sissoko,Tottenham,0.13,,Off Target,3.0,Right Foot,Volley,Eric Dier,Shot,,
+3,7,David McGoldrick,Sheffield Utd,0.04,0.01,Saved,21.0,Left Foot,"Deflected, Volley",Dean Henderson,Pass (Dead),,
+4,23,Harry Kane,Tottenham,0.05,,Off Target,17.0,Right Foot,,Steven Bergwijn,Pass (Live),Son Heung-min,Pass (Live)
+5,28,Moussa Sissoko,Tottenham,0.03,0.2,Saved,24.0,Right Foot,Deflected,Steven Bergwijn,Pass (Live),Steven Bergwijn,Take-On
+6,30,Harry Kane,Tottenham,0.05,,Off Target,32.0,Right Foot,Free kick,Lucas Moura,Fouled,Moussa Sissoko,Pass (Live)
+7,31,Sander Berge,Sheffield Utd,0.08,0.66,Goal,12.0,Right Foot,,Chris Basham,Pass (Live),George Baldock,Pass (Live)
+8,36,Oliver McBurnie,Sheffield Utd,0.05,,Off Target,11.0,Head,,Ben Osborn,Pass (Live),Jack Robinson,Pass (Live)
+9,40,Giovani Lo Celso,Tottenham,0.05,,Blocked,30.0,Left Foot,Free kick,Lucas Moura,Fouled,Davinson Sánchez,Pass (Live)
+10,45,Giovani Lo Celso,Tottenham,0.09,,Blocked,15.0,Left Foot,,Ben Davies,Pass (Live),Moussa Sissoko,Pass (Live)
+11,45+1,Lucas Moura,Tottenham,0.04,,Off Target,7.0,Head,,Giovani Lo Celso,Pass (Dead),,
+12,,,,,,,,,,,,,
+13,61,David McGoldrick,Sheffield Utd,0.07,,Off Target,11.0,Left Foot,,Ben Osborn,Pass (Live),,
+14,69,Lys Mousset,Sheffield Utd,0.77,0.94,Goal,4.0,Left Foot,,Enda Stevens,Pass (Live),Ben Osborn,Pass (Live)
+15,84,Oliver McBurnie,Sheffield Utd,0.56,0.94,Goal,5.0,Right Foot,,Sander Berge,Pass (Live),Sander Berge,Take-On
+16,90,Harry Kane,Tottenham,0.6,0.85,Goal,6.0,Right Foot,,Son Heung-min,Pass (Live),Érik Lamela,Pass (Live)

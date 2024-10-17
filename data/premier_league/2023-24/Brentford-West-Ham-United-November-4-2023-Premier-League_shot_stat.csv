@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Bryan Mbeumo,Brentford,0.04,0.14,Saved,25.0,Left Foot,Free kick,Bryan Mbeumo,Fouled,Kristoffer Ajer,Pass (Live)
+1,10,Yoane Wissa,Brentford,0.15,,Blocked,7.0,Left Foot,,Frank Onyeka,Pass (Live),Christian Nørgaard,Pass (Live)
+2,11,Neal Maupay,Brentford,0.36,0.89,Goal,4.0,Head,,Frank Onyeka,Shot,,
+3,11,Frank Onyeka,Brentford,0.15,,Blocked,10.0,Right Foot,Volley,Mathias Jensen,Pass (Live),Yoane Wissa,Shot
+4,14,Konstantinos Mavropanos,West Ham,0.03,,Off Target,11.0,Head,,Vladimír Coufal,Pass (Dead),Emerson Palmieri,Pass (Live)
+5,17,Jarrod Bowen,West Ham,0.03,,Off Target,13.0,Left Foot,,Mohammed Kudus,Pass (Live),Michail Antonio,Pass (Live)
+6,19,Mohammed Kudus,West Ham,0.06,0.37,Goal,15.0,Left Foot,"Deflected, Volley",Michail Antonio,Pass (Live),Emerson Palmieri,Pass (Dead)
+7,26,Mohammed Kudus,West Ham,0.45,,Woodwork,6.0,Left Foot,Volley,Saïd Benrahma,Pass (Live),James Ward-Prowse,Pass (Live)
+8,26,Jarrod Bowen,West Ham,0.51,0.84,Goal,2.0,Left Foot,,Mohammed Kudus,Shot,,
+9,36,Yoane Wissa,Brentford,0.03,,Blocked,11.0,Right Foot,Volley,Bryan Mbeumo,Fouled,Christian Nørgaard,Pass (Live)
+10,36,Christian Nørgaard,Brentford,0.08,,Off Target,10.0,Head,,Mathias Jensen,Pass (Dead),Yoane Wissa,Shot
+11,41,Michail Antonio,West Ham,0.75,,Off Target,4.0,Left Foot,,Jarrod Bowen,Pass (Live),Mohammed Kudus,Pass (Live)
+12,45+3,Bryan Mbeumo,Brentford,0.01,,Off Target,24.0,Left Foot,,Vitaly Janelt,Pass (Live),Bryan Mbeumo,Pass (Dead)
+13,45+3,Bryan Mbeumo,Brentford,0.03,,Off Target,26.0,Left Foot,,Frank Onyeka,Pass (Live),Mathias Jensen,Pass (Live)
+14,45+5,Frank Onyeka,Brentford,0.08,,Blocked,11.0,Right Foot,,Christian Nørgaard,Pass (Live),Bryan Mbeumo,Pass (Live)
+15,45+7,Bryan Mbeumo,Brentford,0.23,,Off Target,12.0,Left Foot,,Vitaly Janelt,Pass (Live),Mathias Jensen,Pass (Live)
+16,,,,,,,,,,,,,
+17,49,Christian Nørgaard,Brentford,0.02,,Off Target,22.0,Right Foot,,Mathias Jensen,Pass (Live),Kristoffer Ajer,Pass (Live)
+18,61,Mohammed Kudus,West Ham,0.02,,Off Target,28.0,Left Foot,,Michail Antonio,Pass (Live),Emerson Palmieri,Pass (Dead)
+19,66,Neal Maupay,Brentford,0.12,,Blocked,11.0,Right Foot,Volley,Mathias Jensen,Pass (Dead),,
+20,67,Vitaly Janelt,Brentford,0.01,,Blocked,25.0,Left Foot,Volley,Neal Maupay,Shot,,
+21,69,Nathan Collins,Brentford,0.16,0.68,Goal,7.0,Head,,Mathias Jensen,Pass (Live),Bryan Mbeumo,Pass (Live)
+22,79,James Ward-Prowse,West Ham,0.05,,Blocked,19.0,Right Foot,,Jarrod Bowen,Pass (Live),James Ward-Prowse,Tackle
+23,80,Vladimír Coufal,West Ham,0.02,,Blocked,30.0,Left Foot,,James Ward-Prowse,Pass (Live),Pablo Fornals,Pass (Live)
+24,80,Pablo Fornals,West Ham,0.05,,Off Target,19.0,Right Foot,,Mohammed Kudus,Pass (Live),Vladimír Coufal,Shot
+25,86,Mohammed Kudus,West Ham,0.06,,Off Target,11.0,Head,,Emerson Palmieri,Pass (Live),Nayef Aguerd,Pass (Live)
+26,87,Neal Maupay,Brentford,0.13,,Off Target,15.0,Right Foot,,Neal Maupay,Pass (Live),Bryan Mbeumo,Pass (Live)
+27,90,Frank Onyeka,Brentford,0.01,0.02,Saved,31.0,Right Foot,,Neal Maupay,Pass (Live),Saman Ghoddos,Pass (Live)
+28,90+3,Emerson Palmieri,West Ham,0.02,,Off Target,26.0,Left Foot,,Pablo Fornals,Pass (Live),Nayef Aguerd,Pass (Live)

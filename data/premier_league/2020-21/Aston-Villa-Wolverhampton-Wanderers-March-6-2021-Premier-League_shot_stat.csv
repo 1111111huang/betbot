@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Ollie Watkins,Aston Villa,0.02,,Woodwork,33.0,Right Foot,,John McGinn,Pass (Live),Morgan Sanson,Pass (Live)
+1,7,Willian José,Wolves,0.03,,Blocked,26.0,Right Foot,,Willian José,Take-On,João Moutinho,Pass (Live)
+2,10,Rúben Neves,Wolves,0.02,,Blocked,29.0,Right Foot,,Adama Traoré,Pass (Live),Jonny Castro,Pass (Live)
+3,15,Ezri Konsa,Aston Villa,0.22,,Woodwork,8.0,Right Foot,,Bertrand Traoré,Pass (Live),Matt Targett,Pass (Dead)
+4,17,Ollie Watkins,Aston Villa,0.03,,Blocked,30.0,Right Foot,,John McGinn,Pass (Live),,
+5,28,Romain Saïss,Wolves,0.06,,Off Target,13.0,Head,,João Moutinho,Pass (Dead),João Moutinho,Fouled
+6,36,Ollie Watkins,Aston Villa,0.04,,Blocked,19.0,Right Foot,,Ollie Watkins,Tackle,,
+7,44,Ollie Watkins,Aston Villa,0.05,,Off Target,18.0,Right Foot,,Trézéguet,Pass (Live),Ahmed Elmohamady,Pass (Live)
+8,,,,,,,,,,,,,
+9,49,Ollie Watkins,Aston Villa,0.04,,Blocked,22.0,Right Foot,,Trézéguet,Pass (Live),Matt Targett,Pass (Live)
+10,50,Pedro Neto,Wolves,0.08,0.03,Saved,13.0,Right Foot,,,,,
+11,53,Rúben Neves,Wolves,0.04,,Off Target,24.0,Right Foot,Volley,Rúben Neves,Pass (Live),João Moutinho,Pass (Live)
+12,57,Conor Coady,Wolves,0.12,,Woodwork,4.0,Head,,Pedro Neto,Pass (Live),João Moutinho,Pass (Dead)
+13,57,Romain Saïss,Wolves,0.66,,Off Target,3.0,Right Foot,,Conor Coady,Shot,,
+14,68,Rúben Neves,Wolves,0.05,,Off Target,34.0,Right Foot,Free kick,Pedro Neto,Pass (Live),João Moutinho,Pass (Live)
+15,71,Ahmed Elmohamady,Aston Villa,0.04,,Off Target,9.0,Head,,Ross Barkley,Pass (Dead),,
+16,76,Willian José,Wolves,0.03,,Off Target,23.0,Right Foot,,Leander Dendoncker,Pass (Live),,
+17,76,Conor Coady,Wolves,0.66,0.86,Saved,4.0,Left Foot,,Willian José,Shot,,
+18,90+3,Ollie Watkins,Aston Villa,0.05,0.08,Saved,12.0,Left Foot,,Matt Targett,Pass (Dead),,
+19,90+3,Ezri Konsa,Aston Villa,0.1,,Off Target,11.0,Right Foot,,Ollie Watkins,Shot,,

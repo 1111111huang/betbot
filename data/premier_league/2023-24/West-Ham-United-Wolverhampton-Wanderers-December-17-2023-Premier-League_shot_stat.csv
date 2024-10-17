@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Kurt Zouma,West Ham,0.19,,Blocked,6.0,Head,,Mohammed Kudus,Pass (Live),,
+1,8,Mohammed Kudus,West Ham,0.09,,Blocked,17.0,Left Foot,,Emerson Palmieri,Pass (Live),James Ward-Prowse,Pass (Dead)
+2,12,Matheus Cunha,Wolves,0.03,0.04,Saved,17.0,Right Foot,,Nélson Semedo,Pass (Live),,
+3,16,Lucas Paquetá,West Ham,0.06,,Off Target,14.0,Left Foot,,Vladimír Coufal,Pass (Live),Mohammed Kudus,Pass (Live)
+4,19,James Ward-Prowse,West Ham,0.03,0.19,Saved,35.0,Right Foot,Free kick,Jarrod Bowen,Fouled,James Ward-Prowse,Pass (Live)
+5,22,Craig Dawson,Wolves,0.07,,Off Target,9.0,Head,,Pablo Sarabia,Pass (Dead),Mario Lemina,Pass (Live)
+6,23,Mohammed Kudus,West Ham,0.05,0.12,Goal,25.0,Left Foot,,Lucas Paquetá,Pass (Live),Lucas Paquetá,Take-On
+7,28,Matheus Cunha,Wolves,0.04,0.28,Saved,29.0,Right Foot,,João Gomes,Pass (Live),,
+8,31,Jean-Ricner Bellegarde,Wolves,0.07,,Blocked,15.0,Right Foot,,Matheus Cunha,Pass (Live),Toti Gomes,Pass (Live)
+9,32,Mohammed Kudus,West Ham,0.37,0.73,Goal,14.0,Right Foot,,Lucas Paquetá,Pass (Live),Kurt Zouma,Pass (Live)
+10,38,Vladimír Coufal,West Ham,0.02,,Blocked,29.0,Right Foot,,Lucas Paquetá,Pass (Live),Lucas Paquetá,Take-On
+11,41,Matheus Cunha,Wolves,0.07,,Blocked,19.0,Right Foot,,Matheus Cunha,Pass (Live),Toti Gomes,Pass (Live)
+12,41,Hwang Hee-chan,Wolves,0.05,,Blocked,21.0,Left Foot,,Matheus Cunha,Pass (Live),Matheus Cunha,Shot
+13,45,Jarrod Bowen,West Ham,0.05,,Woodwork,21.0,Left Foot,,Lucas Paquetá,Pass (Live),Edson Álvarez,Tackle
+14,45+5,Toti Gomes,Wolves,0.15,,Blocked,11.0,Left Foot,,Pablo Sarabia,Pass (Dead),Matheus Cunha,Fouled
+15,,,,,,,,,,,,,
+16,48,Nayef Aguerd,West Ham,0.07,,Off Target,10.0,Head,,James Ward-Prowse,Pass (Dead),Mohammed Kudus,Pass (Live)
+17,55,Hwang Hee-chan,Wolves,0.04,,Blocked,17.0,Left Foot,,Jean-Ricner Bellegarde,Pass (Live),Nélson Semedo,Pass (Live)
+18,55,Jean-Ricner Bellegarde,Wolves,0.02,,Off Target,22.0,Left Foot,Volley,Hwang Hee-chan,Shot,,
+19,64,Matheus Cunha,Wolves,0.03,,Off Target,18.0,Right Foot,,Max Kilman,Pass (Live),Max Kilman,Pass (Live)
+20,66,Mario Lemina,Wolves,0.02,0.13,Saved,26.0,Right Foot,,Matheus Cunha,Pass (Live),Toti Gomes,Pass (Live)
+21,66,Lucas Paquetá,West Ham,0.03,,Off Target,26.0,Left Foot,Volley,Emerson Palmieri,Pass (Live),Lucas Paquetá,Pass (Live)
+22,69,Hwang Hee-chan,Wolves,0.03,,Blocked,29.0,Left Foot,,Nélson Semedo,Pass (Live),João Gomes,Pass (Live)
+23,70,Mario Lemina,Wolves,0.02,,Off Target,29.0,Right Foot,,Pablo Sarabia,Pass (Live),João Gomes,Pass (Live)
+24,74,Jarrod Bowen,West Ham,0.06,0.51,Goal,15.0,Right Foot,,Jarrod Bowen,Pass (Live),Lucas Paquetá,Pass (Live)
+25,78,Jarrod Bowen,West Ham,0.03,,Blocked,21.0,Left Foot,,Lucas Paquetá,Pass (Live),,
+26,80,James Ward-Prowse,West Ham,0.09,,Off Target,26.0,Right Foot,Free kick,Lucas Paquetá,Fouled,Mohammed Kudus,Pass (Live)
+27,90+2,Jean-Ricner Bellegarde,Wolves,0.02,,Blocked,24.0,Right Foot,,Max Kilman,Pass (Live),Max Kilman,Take-On

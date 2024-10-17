@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7.0,Christian Benteke,Crystal Palace,0.07,,Off Target,13.0,Right Foot,Volley,Andros Townsend,Pass (Live),Jordan Ayew,Pass (Live)
+1,8.0,Andros Townsend,Crystal Palace,0.03,,Blocked,28.0,Left Foot,,Christian Benteke,Pass (Live),Luka Milivojević,Pass (Live)
+2,13.0,Nemanja Matić,Manchester Utd,0.04,0.5,Saved,26.0,Left Foot,Deflected,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)
+3,13.0,Harry Maguire,Manchester Utd,0.05,,Blocked,11.0,Head,,Bruno Fernandes,Pass (Dead),Nemanja Matić,Shot
+4,13.0,Edinson Cavani,Manchester Utd,0.46,,Off Target,5.0,Right Foot,Volley,Harry Maguire,Shot,,
+5,14.0,Andros Townsend,Crystal Palace,0.04,,Blocked,21.0,Left Foot,,Andros Townsend,Interception,,
+6,16.0,Marcus Rashford,Manchester Utd,0.07,,Off Target,15.0,Right Foot,,Luke Shaw,Pass (Live),Bruno Fernandes,Pass (Live)
+7,18.0,Fred,Manchester Utd,0.03,,Blocked,31.0,Left Foot,,Bruno Fernandes,Pass (Live),Edinson Cavani,Pass (Live)
+8,23.0,Mason Greenwood,Manchester Utd,0.06,,Blocked,21.0,Left Foot,,Edinson Cavani,Pass (Live),Nemanja Matić,Pass (Live)
+9,27.0,Edinson Cavani,Manchester Utd,0.04,,Off Target,14.0,Head,,Marcus Rashford,Pass (Live),Fred,Pass (Live)
+10,,,,,,,,,,,,,
+11,50.0,Christian Benteke,Crystal Palace,0.11,,Off Target,10.0,Right Foot,Volley,James McCarthy,Pass (Live),Eberechi Eze,Pass (Dead)
+12,51.0,Jordan Ayew,Crystal Palace,0.05,0.05,Saved,20.0,Right Foot,,Christian Benteke,Pass (Live),Joel Ward,Pass (Live)
+13,59.0,Luka Milivojević,Crystal Palace,0.08,,Blocked,27.0,Right Foot,Free kick,Eberechi Eze,Fouled,,
+14,59.0,Andros Townsend,Crystal Palace,0.05,,Off Target,18.0,Left Foot,Volley,Luka Milivojević,Shot,,
+15,69.0,Nemanja Matić,Manchester Utd,0.03,,Blocked,27.0,Left Foot,,Fred,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+16,78.0,Daniel James,Manchester Utd,0.05,,Off Target,13.0,Head,,Luke Shaw,Pass (Live),Bruno Fernandes,Pass (Live)
+17,81.0,Mason Greenwood,Manchester Utd,0.04,,Off Target,21.0,Left Foot,,Bruno Fernandes,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+18,88.0,Luke Shaw,Manchester Utd,0.06,,Off Target,18.0,Right Foot,,Bruno Fernandes,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+19,90.0,Patrick van Aanholt,Crystal Palace,0.45,0.43,Saved,10.0,Right Foot,,Luka Milivojević,Pass (Live),Jaïro Riedewald,Pass (Live)

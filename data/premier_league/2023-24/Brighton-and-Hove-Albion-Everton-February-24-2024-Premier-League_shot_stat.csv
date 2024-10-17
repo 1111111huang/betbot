@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Tariq Lamptey,Brighton,0.03,,Blocked,23.0,Left Foot,,Pascal Groß,Pass (Live),Igor,Pass (Dead)
+1,7,Danny Welbeck,Brighton,0.1,,Blocked,17.0,Right Foot,,Tariq Lamptey,Pass (Live),Danny Welbeck,Pass (Live)
+2,12,Danny Welbeck,Brighton,0.18,,Off Target,26.0,Right Foot,,Facundo Buonanotte,Pass (Live),Billy Gilmour,Pass (Live)
+3,18,Danny Welbeck,Brighton,0.12,,Blocked,11.0,Right Foot,,Facundo Buonanotte,Pass (Live),Danny Welbeck,Pass (Live)
+4,19,Lewis Dunk,Brighton,0.05,0.02,Saved,11.0,Head,,Pascal Groß,Pass (Dead),Danny Welbeck,Shot
+5,24,Simon Adingra,Brighton,0.03,,Off Target,18.0,Left Foot,,Simon Adingra,Take-On,Evan Ferguson,Pass (Live)
+6,26,Simon Adingra,Brighton,0.03,,Blocked,20.0,Right Foot,,Danny Welbeck,Pass (Live),Pascal Groß,Pass (Live)
+7,27,Jan Paul van Hecke,Brighton,0.04,0.02,Saved,12.0,Head,,Pascal Groß,Pass (Dead),Simon Adingra,Shot
+8,39,Jan Paul van Hecke,Brighton,0.05,0.02,Saved,11.0,Head,,Pascal Groß,Pass (Dead),Billy Gilmour,Pass (Live)
+9,43,Danny Welbeck,Brighton,0.06,,Off Target,24.0,Right Foot,Free kick,Pascal Groß,Fouled,Billy Gilmour,Pass (Live)
+10,,,,,,,,,,,,,
+11,57,Simon Adingra,Brighton,0.02,,Off Target,14.0,Left Foot,,Pascal Groß,Pass (Dead),Simon Adingra,Pass (Live)
+12,57,Abdoulaye Doucouré,Everton,0.05,,Blocked,14.0,Right Foot,Volley,Dwight McNeil,Pass (Live),Dwight McNeil,Take-On
+13,59,Simon Adingra,Brighton,0.08,,Blocked,13.0,Right Foot,,Simon Adingra,Take-On,Facundo Buonanotte,Pass (Live)
+14,66,Ansu Fati,Brighton,0.04,,Blocked,16.0,Right Foot,,Facundo Buonanotte,Pass (Live),Lewis Dunk,Pass (Live)
+15,68,Beto,Everton,0.04,0.03,Saved,11.0,Head,,Jack Harrison,Pass (Live),Beto,Pass (Live)
+16,69,Evan Ferguson,Brighton,0.02,0.12,Saved,26.0,Right Foot,,Evan Ferguson,Take-On,Pascal Groß,Pass (Live)
+17,70,Pascal Groß,Brighton,0.05,,Blocked,19.0,Right Foot,,Billy Gilmour,Pass (Live),Lewis Dunk,Pass (Live)
+18,70,Ansu Fati,Brighton,0.17,,Blocked,10.0,Left Foot,,Pervis Estupiñán,Pass (Live),Pascal Groß,Shot
+19,70,Billy Gilmour,Brighton,0.03,,Blocked,26.0,Right Foot,,Facundo Buonanotte,Pass (Live),Ansu Fati,Shot
+20,73,Jarrad Branthwaite,Everton,0.07,0.35,Goal,15.0,Left Foot,,Jack Harrison,Fouled,Ben Godfrey,Interception
+21,78,Simon Adingra,Brighton,0.04,,Off Target,11.0,Head,,Pervis Estupiñán,Pass (Live),Ansu Fati,Pass (Live)
+22,86,Julio Enciso,Brighton,0.04,0.37,Saved,16.0,Right Foot,,Lewis Dunk,Pass (Live),Pascal Groß,Pass (Live)
+23,86,Beto,Everton,0.05,,Off Target,16.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),James Garner,Pass (Live)
+24,88,Ansu Fati,Brighton,0.04,0.29,Saved,22.0,Right Foot,,Julio Enciso,Pass (Live),Lewis Dunk,Pass (Live)
+25,90,Julio Enciso,Brighton,0.07,,Blocked,13.0,Right Foot,,Joël Veltman,Fouled,Pascal Groß,Pass (Live)
+26,90,Lewis Dunk,Brighton,0.1,,Blocked,9.0,Right Foot,,Julio Enciso,Shot,,
+27,90+5,Lewis Dunk,Brighton,0.04,0.48,Goal,9.0,Head,,Pascal Groß,Pass (Live),Pascal Groß,Take-On
+28,90+8,Jack Harrison,Everton,0.06,,Off Target,15.0,Left Foot,,James Tarkowski,Pass (Live),James Tarkowski,Take-On
+29,90+10,Vitaliy Mykolenko,Everton,0.01,,Blocked,25.0,Left Foot,,Vitaliy Mykolenko,Pass (Live),Amadou Onana,Pass (Live)

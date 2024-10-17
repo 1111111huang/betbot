@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Julián Álvarez,Manchester City,0.02,,Off Target,28.0,Right Foot,,Nathan Aké,Pass (Live),Julián Álvarez,Pass (Live)
+1,11,Bernardo Silva,Manchester City,0.03,,Off Target,24.0,Left Foot,,Julián Álvarez,Pass (Dead),Jeremy Doku,Pass (Live)
+2,14,Rodri,Manchester City,0.04,0.19,Saved,24.0,Right Foot,,Julián Álvarez,Pass (Live),Bernardo Silva,Pass (Live)
+3,18,Rodri,Manchester City,0.02,,Off Target,28.0,Right Foot,,Jeremy Doku,Pass (Live),Rodri,Pass (Live)
+4,19,Jeremy Doku,Manchester City,0.04,,Blocked,9.0,Right Foot,,Jeremy Doku,Take-On,Nathan Aké,Pass (Live)
+5,22,Erling Haaland,Manchester City,0.18,,Blocked,4.0,Head,,Julián Álvarez,Pass (Live),Bernardo Silva,Pass (Live)
+6,25,Erling Haaland,Manchester City,0.08,,Blocked,10.0,Right Foot,,Erling Haaland,Take-On,,
+7,27,Julián Álvarez,Manchester City,0.05,,Blocked,24.0,Right Foot,,Bernardo Silva,Pass (Live),Erling Haaland,Pass (Live)
+8,28,Bernardo Silva,Manchester City,0.02,,Off Target,26.0,Left Foot,,Mateo Kovačić,Pass (Live),Julián Álvarez,Pass (Dead)
+9,30,Jeremy Doku,Manchester City,0.06,0.09,Goal,17.0,Right Foot,Deflected,Rodri,Pass (Live),Jeremy Doku,Pass (Live)
+10,33,Bernardo Silva,Manchester City,0.16,0.32,Goal,12.0,Left Foot,,Jeremy Doku,Pass (Live),Kyle Walker,Pass (Live)
+11,37,Jeremy Doku,Manchester City,0.02,,Off Target,23.0,Left Foot,,Bernardo Silva,Pass (Live),Mateo Kovačić,Pass (Live)
+12,37,Manuel Akanji,Manchester City,0.01,0.38,Goal,13.0,Other,,Jeremy Doku,Shot,,
+13,41,Alex Scott,Bournemouth,0.04,,Blocked,16.0,Right Foot,,,,,
+14,41,Dominic Solanke,Bournemouth,0.29,,Off Target,9.0,Head,,Max Aarons,Pass (Live),Alex Scott,Shot
+15,45+3,Erling Haaland,Manchester City,0.17,,Blocked,10.0,Left Foot,,Julián Álvarez,Pass (Live),Jeremy Doku,Pass (Live)
+16,45+3,Kyle Walker,Manchester City,0.03,,Blocked,27.0,Right Foot,,Bernardo Silva,Pass (Live),Jeremy Doku,Pass (Live)
+17,,,,,,,,,,,,,
+18,58,Mateo Kovačić,Manchester City,0.06,,Off Target,12.0,Right Foot,,Manuel Akanji,Pass (Live),Jeremy Doku,Pass (Live)
+19,59,Phil Foden,Manchester City,0.03,,Blocked,22.0,Left Foot,,Rodri,Pass (Live),Bernardo Silva,Pass (Live)
+20,61,Dominic Solanke,Bournemouth,0.13,,Woodwork,17.0,Left Foot,,Philip Billing,Pass (Live),Ryan Christie,Pass (Live)
+21,64,Phil Foden,Manchester City,0.13,0.05,Goal,10.0,Left Foot,,Jeremy Doku,Pass (Live),Phil Foden,Pass (Live)
+22,74,Luis Sinisterra,Bournemouth,0.28,0.48,Goal,10.0,Right Foot,,Max Aarons,Pass (Live),Lloyd Kelly,Pass (Live)
+23,81,Dominic Solanke,Bournemouth,0.17,,Off Target,5.0,Head,,Joe Rothwell,Pass (Dead),Dominic Solanke,Pass (Live)
+24,83,Bernardo Silva,Manchester City,0.26,0.22,Goal,6.0,Left Foot,,Bernardo Silva,Take-On,Jeremy Doku,Pass (Live)
+25,88,Nathan Aké,Manchester City,0.28,0.84,Goal,4.0,Head,,Oscar Bobb,Pass (Live),Matheus Nunes,Pass (Live)
+26,90+8,Mateo Kovačić,Manchester City,0.27,0.55,Saved,13.0,Right Foot,,Mateo Kovačić,Take-On,Oscar Bobb,Pass (Live)

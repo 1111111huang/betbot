@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Ruben Loftus-Cheek,Chelsea,0.41,0.54,Saved,9.0,Right Foot,,Raheem Sterling,Pass (Live),Conor Gallagher,Pass (Live)
+1,40,James Justin,Leicester City,0.03,,Blocked,28.0,Right Foot,,Timothy Castagne,Pass (Live),Dennis Praet,Pass (Live)
+2,41,Thiago Silva,Chelsea,0.1,,Blocked,11.0,Head,,Reece James,Pass (Dead),Raheem Sterling,Fouled
+3,43,Reece James,Chelsea,0.05,,Woodwork,16.0,Right Foot,Volley,Raheem Sterling,Pass (Live),Reece James,Pass (Live)
+4,44,Jamie Vardy,Leicester City,0.26,,Off Target,16.0,Right Foot,,Youri Tielemans,Pass (Live),Daniel Amartey,Pass (Live)
+5,45+4,Timothy Castagne,Leicester City,0.26,0.39,Saved,10.0,Right Foot,,Youri Tielemans,Pass (Live),Harvey Barnes,Pass (Live)
+6,,,,,,,,,,,,,
+7,47,Raheem Sterling,Chelsea,0.03,0.27,Goal,21.0,Right Foot,Deflected,Marc Cucurella,Pass (Live),Jorginho,Pass (Live)
+8,51,Raheem Sterling,Chelsea,0.32,0.56,Saved,16.0,Right Foot,,Kai Havertz,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+9,52,Youri Tielemans,Leicester City,0.05,,Blocked,19.0,Right Foot,,Daniel Amartey,Pass (Live),Youri Tielemans,Pass (Live)
+10,52,Timothy Castagne,Leicester City,0.18,,Off Target,4.0,Head,,Youri Tielemans,Pass (Live),Youri Tielemans,Shot
+11,57,Kelechi Iheanacho,Leicester City,0.06,,Blocked,32.0,Left Foot,,Youri Tielemans,Pass (Live),Kelechi Iheanacho,Pass (Live)
+12,58,Harvey Barnes,Leicester City,0.07,0.02,Saved,16.0,Head,,James Justin,Pass (Live),Youri Tielemans,Pass (Live)
+13,61,Harvey Barnes,Leicester City,0.04,,Off Target,25.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Kelechi Iheanacho,Take-On
+14,63,Raheem Sterling,Chelsea,0.82,0.98,Goal,3.0,Right Foot,,Reece James,Pass (Live),Kai Havertz,Pass (Live)
+15,66,Harvey Barnes,Leicester City,0.13,0.15,Goal,13.0,Left Foot,,Jamie Vardy,Pass (Live),Harvey Barnes,Pass (Live)
+16,69,Kelechi Iheanacho,Leicester City,0.05,,Off Target,26.0,Left Foot,,James Justin,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+17,70,Youri Tielemans,Leicester City,0.03,,Blocked,28.0,Right Foot,,Harvey Barnes,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+18,72,Reece James,Chelsea,0.03,,Blocked,26.0,Right Foot,,Marc Cucurella,Pass (Live),Jorginho,Pass (Live)
+19,72,Jamie Vardy,Leicester City,0.02,,Blocked,14.0,Head,,Timothy Castagne,Pass (Live),Youri Tielemans,Pass (Live)
+20,73,Harvey Barnes,Leicester City,0.05,0.27,Saved,18.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),James Justin,Pass (Live)
+21,73,Kelechi Iheanacho,Leicester City,0.14,,Off Target,19.0,Left Foot,,Youri Tielemans,Pass (Live),,
+22,78,Jamie Vardy,Leicester City,0.31,0.42,Saved,13.0,Right Foot,,Youri Tielemans,Pass (Live),Timothy Castagne,Pass (Live)
+23,83,Jamie Vardy,Leicester City,0.58,,Off Target,11.0,Right Foot,,Jamie Vardy,Take-On,Ayoze Pérez,Pass (Live)
+24,87,Ayoze Pérez,Leicester City,0.24,,Woodwork,15.0,Right Foot,,Daniel Amartey,Pass (Live),Jonny Evans,Pass (Live)

@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,18,Dwight Gayle,Newcastle Utd,0.06,,Blocked,13.0,Right Foot,,Javier Manquillo,Pass (Live),Miguel Almirón,Pass (Live)
+1,20,Jay Rodriguez,Burnley,0.16,,Blocked,6.0,Right Foot,,James Tarkowski,Pass (Live),Nick Pope,Pass (Dead)
+2,25,Jonjo Shelvey,Newcastle Utd,0.03,,Blocked,26.0,Right Foot,,Miguel Almirón,Pass (Live),Miguel Almirón,Take-On
+3,27,Jonjo Shelvey,Newcastle Utd,0.03,,Blocked,30.0,Right Foot,,Miguel Almirón,Pass (Live),Federico Fernández,Pass (Live)
+4,27,Miguel Almirón,Newcastle Utd,0.07,0.31,Saved,15.0,Left Foot,,Matt Ritchie,Pass (Live),Javier Manquillo,Pass (Live)
+5,32,Matt Ritchie,Newcastle Utd,0.03,,Off Target,11.0,Head,,Dwight Gayle,Pass (Live),Miguel Almirón,Pass (Live)
+6,34,Jay Rodriguez,Burnley,0.03,,Blocked,29.0,Right Foot,,Matěj Vydra,Pass (Live),Matěj Vydra,Take-On
+7,36,Ben Mee,Burnley,0.11,,Off Target,5.0,Head,,Ashley Westwood,Pass (Dead),Jeff Hendrick,Fouled
+8,42,Jonjo Shelvey,Newcastle Utd,0.02,,Blocked,24.0,Right Foot,Volley,Matt Ritchie,Pass (Dead),Joelinton,Pass (Live)
+9,42,Miguel Almirón,Newcastle Utd,0.13,,Blocked,8.0,Left Foot,,Jonjo Shelvey,Shot,,
+10,42,Matt Ritchie,Newcastle Utd,0.03,,Blocked,15.0,Left Foot,,Miguel Almirón,Shot,,
+11,42,Dwight Gayle,Newcastle Utd,0.04,,Off Target,11.0,Head,,Matt Ritchie,Pass (Dead),Matt Ritchie,Shot
+12,44,Dwight Gayle,Newcastle Utd,0.09,0.07,Saved,15.0,Right Foot,,Miguel Almirón,Pass (Live),Miguel Almirón,Take-On
+13,,,,,,,,,,,,,
+14,50,Jonjo Shelvey,Newcastle Utd,0.05,,Off Target,32.0,Right Foot,Free kick,Dwight Gayle,Fouled,Joelinton,Pass (Live)
+15,55,Jonjo Shelvey,Newcastle Utd,0.02,0.26,Saved,28.0,Right Foot,,Danny Rose,Pass (Live),Matt Ritchie,Pass (Dead)
+16,61,Chris Wood,Burnley,0.04,,Off Target,27.0,Right Foot,Volley,Chris Wood,Take-On,Jeff Hendrick,Pass (Live)
+17,62,Jay Rodriguez,Burnley,0.23,,Off Target,16.0,Right Foot,,,,,
+18,64,Chris Wood,Burnley,0.1,,Off Target,7.0,Head,,Dwight McNeil,Pass (Live),Jack Cork,Pass (Live)
+19,65,Dwight Gayle,Newcastle Utd,0.09,,Off Target,11.0,Right Foot,Volley,Miguel Almirón,Pass (Live),Javier Manquillo,Pass (Live)
+20,75,Phil Bardsley,Burnley,0.04,,Blocked,17.0,Right Foot,,Jeff Hendrick,Pass (Live),Chris Wood,Pass (Live)
+21,81,Matt Ritchie,Newcastle Utd,0.02,,Off Target,32.0,Left Foot,,Isaac Hayden,Pass (Live),Miguel Almirón,Pass (Live)
+22,85,Matt Ritchie,Newcastle Utd,0.04,,Blocked,17.0,Left Foot,,Miguel Almirón,Pass (Live),Matt Ritchie,Pass (Live)
+23,85,Isaac Hayden,Newcastle Utd,0.05,,Blocked,23.0,Right Foot,,Miguel Almirón,Pass (Live),Allan Saint-Maximin,Pass (Live)
+24,85,Matt Ritchie,Newcastle Utd,0.06,,Blocked,17.0,Right Foot,Volley,Isaac Hayden,Shot,,
+25,85,Allan Saint-Maximin,Newcastle Utd,0.02,0.04,Saved,25.0,Right Foot,,Danny Rose,Pass (Live),Matt Ritchie,Pass (Dead)
+26,87,Miguel Almirón,Newcastle Utd,0.06,,Blocked,10.0,Left Foot,,Isaac Hayden,Pass (Live),Isaac Hayden,Take-On
+27,90+2,Matt Ritchie,Newcastle Utd,0.11,,Blocked,14.0,Left Foot,,Jonjo Shelvey,Pass (Live),Jonjo Shelvey,Take-On
+28,90+4,Matt Ritchie,Newcastle Utd,0.02,,Off Target,27.0,Right Foot,Volley,Dwight Gayle,Fouled,,

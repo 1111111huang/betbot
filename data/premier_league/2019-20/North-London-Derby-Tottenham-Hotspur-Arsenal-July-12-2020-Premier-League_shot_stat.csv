@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Lucas Moura,Tottenham,0.03,0.12,Saved,28.0,Right Foot,,Harry Kane,Tackle,,
+1,2,Harry Kane,Tottenham,0.03,,Blocked,30.0,Right Foot,,Ben Davies,Pass (Live),Giovani Lo Celso,Pass (Live)
+2,9,Shkodran Mustafi,Arsenal,0.08,,Off Target,7.0,Head,,Dani Ceballos,Pass (Live),Héctor Bellerín,Pass (Live)
+3,10,Harry Kane,Tottenham,0.45,0.48,Saved,13.0,Right Foot,,Lucas Moura,Pass (Live),,
+4,13,Kieran Tierney,Arsenal,0.04,,Off Target,17.0,Left Foot,,Pierre-Emerick Aubameyang,Pass (Live),Héctor Bellerín,Pass (Live)
+5,16,Alexandre Lacazette,Arsenal,0.03,0.47,Goal,25.0,Right Foot,,,,,
+6,19,Son Heung-min,Tottenham,0.34,0.3,Goal,14.0,Left Foot,,,,,
+7,31,Ben Davies,Tottenham,0.01,0.31,Saved,30.0,Left Foot,,Serge Aurier,Pass (Live),Harry Winks,Pass (Live)
+8,32,Nicolas Pépé,Arsenal,0.03,,Off Target,29.0,Left Foot,,Dani Ceballos,Pass (Live),Granit Xhaka,Pass (Live)
+9,40,Pierre-Emerick Aubameyang,Arsenal,0.06,,Off Target,29.0,Right Foot,Free kick,Nicolas Pépé,Fouled,Nicolas Pépé,Take-On
+10,42,Nicolas Pépé,Arsenal,0.04,0.06,Saved,18.0,Left Foot,,,,,
+11,43,Lucas Moura,Tottenham,0.03,,Blocked,25.0,Right Foot,,Son Heung-min,Pass (Live),,
+12,,,,,,,,,,,,,
+13,50,Lucas Moura,Tottenham,0.06,,Blocked,11.0,Left Foot,,Giovani Lo Celso,Pass (Live),,
+14,52,Sead Kolašinac,Arsenal,0.06,,Off Target,15.0,Left Foot,Volley,Dani Ceballos,Fouled,Héctor Bellerín,Pass (Live)
+15,55,Shkodran Mustafi,Arsenal,0.03,0.17,Saved,16.0,Right Foot,Volley,Dani Ceballos,Pass (Live),Dani Ceballos,Take-On
+16,57,Serge Aurier,Tottenham,0.03,,Blocked,20.0,Right Foot,,Harry Kane,Pass (Live),Lucas Moura,Fouled
+17,59,Pierre-Emerick Aubameyang,Arsenal,0.08,,Woodwork,11.0,Left Foot,,Alexandre Lacazette,Pass (Live),Granit Xhaka,Pass (Live)
+18,61,Nicolas Pépé,Arsenal,0.07,,Blocked,24.0,Left Foot,Free kick,Nicolas Pépé,Fouled,Héctor Bellerín,Pass (Live)
+19,70,Son Heung-min,Tottenham,0.46,0.79,Saved,8.0,Right Foot,,Harry Kane,Pass (Live),Harry Kane,Take-On
+20,71,Bukayo Saka,Arsenal,0.04,,Blocked,19.0,Left Foot,,Héctor Bellerín,Pass (Live),Alexandre Lacazette,Pass (Live)
+21,79,Héctor Bellerín,Arsenal,0.04,,Blocked,22.0,Left Foot,,Dani Ceballos,Pass (Live),Héctor Bellerín,Pass (Live)
+22,79,Pierre-Emerick Aubameyang,Arsenal,0.04,0.2,Saved,18.0,Right Foot,,Héctor Bellerín,Shot,,
+23,81,Harry Kane,Tottenham,0.23,0.44,Saved,12.0,Left Foot,,Lucas Moura,Pass (Live),Harry Winks,Pass (Live)
+24,81,Toby Alderweireld,Tottenham,0.09,0.22,Goal,8.0,Head,,Son Heung-min,Pass (Dead),Harry Kane,Shot
+25,83,Harry Kane,Tottenham,0.05,0.06,Saved,13.0,Right Foot,,Son Heung-min,Pass (Live),,
+26,83,Giovani Lo Celso,Tottenham,0.05,,Off Target,29.0,Left Foot,,Steven Bergwijn,Pass (Live),Harry Kane,Shot
+27,87,Son Heung-min,Tottenham,0.14,,Blocked,12.0,Right Foot,,Son Heung-min,Take-On,Harry Kane,Tackle
+28,90+2,Harry Kane,Tottenham,0.04,0.48,Saved,24.0,Right Foot,,Harry Kane,Take-On,Steven Bergwijn,Pass (Live)

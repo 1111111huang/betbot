@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Ryan Christie,Bournemouth,0.09,0.06,Saved,17.0,Left Foot,,Marcus Tavernier,Pass (Live),Justin Kluivert,Pass (Live)
+1,2,Antoine Semenyo,Bournemouth,0.07,0.1,Saved,22.0,Left Foot,,Ryan Christie,Pass (Live),,
+2,3,Antoine Semenyo,Bournemouth,0.04,,Off Target,9.0,Head,,Dominic Solanke,Pass (Live),Lloyd Kelly,Pass (Dead)
+3,8,Sean Longstaff,Newcastle Utd,0.04,0.12,Saved,26.0,Right Foot,,Joelinton,Pass (Live),,
+4,11,Dominic Solanke,Bournemouth,0.09,,Blocked,8.0,Right Foot,,Antoine Semenyo,Pass (Live),Neto,Pass (Live)
+5,18,Lewis Hall,Newcastle Utd,0.02,0.07,Saved,20.0,Left Foot,,Lewis Hall,Take-On,Joe Willock,Pass (Live)
+6,29,Justin Kluivert,Bournemouth,0.03,0.16,Saved,30.0,Right Foot,,Justin Kluivert,Take-On,Lewis Cook,Pass (Live)
+7,31,Ryan Christie,Bournemouth,0.04,0.1,Saved,17.0,Left Foot,Volley,Justin Kluivert,Shot,,
+8,37,Antoine Semenyo,Bournemouth,0.05,,Off Target,14.0,Right Foot,,Max Aarons,Pass (Live),Illia Zabarnyi,Pass (Live)
+9,40,Matt Ritchie,Newcastle Utd,0.02,,Off Target,18.0,Right Foot,Volley,,,,
+10,,,,,,,,,,,,,
+11,51,Antoine Semenyo,Bournemouth,0.06,,Blocked,16.0,Right Foot,,,,,
+12,59,Joe Willock,Newcastle Utd,0.13,0.52,Saved,2.0,Left Foot,,Anthony Gordon,Fouled,Joe Willock,Pass (Live)
+13,60,Dominic Solanke,Bournemouth,0.27,0.57,Goal,10.0,Right Foot,,Ryan Christie,Pass (Live),Marcos Senesi,Pass (Live)
+14,63,Anthony Gordon,Newcastle Utd,0.07,0.02,Saved,26.0,Right Foot,,Anthony Gordon,Take-On,Valentino Livramento,Pass (Live)
+15,72,Marcus Tavernier,Bournemouth,0.04,0.26,Saved,21.0,Left Foot,,Luis Sinisterra,Pass (Live),Marcos Senesi,Pass (Live)
+16,73,Luis Sinisterra,Bournemouth,0.08,,Woodwork,6.0,Head,,Lewis Cook,Pass (Dead),Marcus Tavernier,Shot
+17,73,Dominic Solanke,Bournemouth,0.73,0.95,Goal,3.0,Right Foot,Volley,Luis Sinisterra,Shot,,
+18,77,Sean Longstaff,Newcastle Utd,0.13,,Off Target,13.0,Left Foot,,Jamaal Lascelles,Pass (Live),Joelinton,Pass (Live)
+19,80,Luis Sinisterra,Bournemouth,0.02,,Off Target,21.0,Right Foot,,Marcus Tavernier,Pass (Live),Ryan Christie,Pass (Live)
+20,81,Luis Sinisterra,Bournemouth,0.23,,Blocked,10.0,Left Foot,,Dominic Solanke,Pass (Live),Marcus Tavernier,Pass (Live)
+21,89,Dominic Solanke,Bournemouth,0.06,,Off Target,11.0,Left Foot,,Ryan Christie,Pass (Live),,
+22,90,Luis Sinisterra,Bournemouth,0.11,0.35,Saved,22.0,Right Foot,,Dango Ouattara,Pass (Live),Lloyd Kelly,Pass (Live)
+23,90,Dango Ouattara,Bournemouth,0.16,0.13,Saved,18.0,Right Foot,,,,,
+24,90+1,Matt Ritchie,Newcastle Utd,0.05,0.02,Saved,21.0,Left Foot,,Joelinton,Pass (Live),Anthony Gordon,Pass (Live)
+25,90+2,Marcus Tavernier,Bournemouth,0.18,,Off Target,14.0,Left Foot,,Ryan Christie,Pass (Live),Luis Sinisterra,Pass (Live)
+26,90+4,Fabian Schär,Newcastle Utd,0.03,,Off Target,29.0,Right Foot,,Kieran Trippier,Pass (Live),Anthony Gordon,Pass (Live)
+27,90+7,Luis Sinisterra,Bournemouth,0.18,0.18,Saved,13.0,Right Foot,Deflected,Ryan Christie,Pass (Live),Illia Zabarnyi,Pass (Live)

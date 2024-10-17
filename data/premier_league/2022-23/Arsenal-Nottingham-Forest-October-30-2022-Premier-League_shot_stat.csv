@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Gabriel Martinelli,Arsenal,0.1,0.31,Goal,11.0,Head,,Bukayo Saka,Pass (Live),Gabriel Martinelli,Pass (Live)
+1,8,Gabriel Jesus,Arsenal,0.04,,Off Target,12.0,Left Foot,,Bukayo Saka,Pass (Live),,
+2,8,Remo Freuler,Nott'ham Forest,0.04,0.1,Saved,27.0,Left Foot,,,,,
+3,10,Thomas Partey,Arsenal,0.07,,Blocked,24.0,Right Foot,,Gabriel Jesus,Pass (Live),Bukayo Saka,Pass (Live)
+4,11,Takehiro Tomiyasu,Arsenal,0.08,,Blocked,11.0,Right Foot,Volley,Bukayo Saka,Pass (Live),Gabriel Martinelli,Pass (Live)
+5,15,Gabriel Jesus,Arsenal,0.12,,Blocked,13.0,Right Foot,,Bukayo Saka,Pass (Live),Thomas Partey,Pass (Live)
+6,20,Gabriel Martinelli,Arsenal,0.17,,Blocked,14.0,Left Foot,,Granit Xhaka,Pass (Live),Thomas Partey,Pass (Live)
+7,20,Bukayo Saka,Arsenal,0.16,,Off Target,15.0,Left Foot,Volley,Gabriel Martinelli,Shot,,
+8,30,Martin Ødegaard,Arsenal,0.04,,Blocked,32.0,Left Foot,Free kick,Reiss Nelson,Fouled,Martin Ødegaard,Pass (Live)
+9,32,Jesse Lingard,Nott'ham Forest,0.03,,Off Target,26.0,Right Foot,,,,,
+10,36,Gabriel Jesus,Arsenal,0.04,,Off Target,19.0,Right Foot,,Martin Ødegaard,Pass (Live),Granit Xhaka,Pass (Live)
+11,40,Steve Cook,Nott'ham Forest,0.09,,Off Target,10.0,Head,,Morgan Gibbs-White,Pass (Dead),,
+12,43,Jesse Lingard,Nott'ham Forest,0.23,,Blocked,16.0,Right Foot,,,,,
+13,45+3,Thomas Partey,Arsenal,0.03,,Blocked,10.0,Head,,Martin Ødegaard,Pass (Dead),Gabriel Jesus,Fouled
+14,,,,,,,,,,,,,
+15,49,Gabriel Jesus,Arsenal,0.04,0.23,Saved,12.0,Head,,Takehiro Tomiyasu,Pass (Live),Gabriel Martinelli,Pass (Live)
+16,49,Reiss Nelson,Arsenal,0.16,0.45,Saved,14.0,Left Foot,,Gabriel Jesus,Pass (Live),Granit Xhaka,Pass (Live)
+17,49,Reiss Nelson,Arsenal,0.21,0.96,Goal,10.0,Right Foot,,Reiss Nelson,Shot,,
+18,52,Reiss Nelson,Arsenal,0.29,0.96,Goal,5.0,Right Foot,Volley,Gabriel Jesus,Pass (Live),Martin Ødegaard,Pass (Live)
+19,57,Thomas Partey,Arsenal,0.04,0.28,Goal,28.0,Right Foot,,Reiss Nelson,Pass (Live),Thomas Partey,Pass (Live)
+20,59,Gabriel Jesus,Arsenal,0.27,0.18,Saved,11.0,Right Foot,,Martin Ødegaard,Pass (Live),,
+21,60,Martin Ødegaard,Arsenal,0.03,,Blocked,19.0,Left Foot,,Gabriel Martinelli,Pass (Live),Martin Ødegaard,Pass (Dead)
+22,60,Granit Xhaka,Arsenal,0.04,,Blocked,25.0,Left Foot,,William Saliba,Pass (Live),Martin Ødegaard,Shot
+23,67,Gabriel Jesus,Arsenal,0.13,0.03,Saved,9.0,Left Foot,,Thomas Partey,Pass (Live),Aaron Ramsdale,Pass (Live)
+24,78,Martin Ødegaard,Arsenal,0.1,0.28,Goal,13.0,Left Foot,,Gabriel Jesus,Pass (Live),Thomas Partey,Pass (Live)
+25,85,Ben White,Arsenal,0.11,,Off Target,8.0,Head,,Martin Ødegaard,Pass (Dead),Thomas Partey,Pass (Live)
+26,88,Fabio Vieira,Arsenal,0.04,,Blocked,16.0,Left Foot,,Reiss Nelson,Pass (Live),Cédric Soares,Pass (Live)
+27,88,Gabriel Jesus,Arsenal,0.04,,Blocked,21.0,Right Foot,,Eddie Nketiah,Pass (Live),Eddie Nketiah,Pass (Live)
+28,88,Thomas Partey,Arsenal,0.03,,Off Target,33.0,Right Foot,,Gabriel Jesus,Shot,,
+29,90+3,Neco Williams,Nott'ham Forest,0.04,0.03,Saved,23.0,Right Foot,,Neco Williams,Take-On,Scott McKenna,Pass (Live)

@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Jamie Vardy,Leicester City,0.08,,Off Target,12.0,Right Foot,,James Maddison,Pass (Live),Luke Thomas,Pass (Live)
+1,12,Wilfried Zaha,Crystal Palace,0.54,0.82,Goal,17.0,Right Foot,,Eberechi Eze,Pass (Live),Christian Benteke,Tackle
+2,19,Youri Tielemans,Leicester City,0.05,0.08,Saved,29.0,Right Foot,Free kick,Youri Tielemans,Fouled,,
+3,20,James Maddison,Leicester City,0.04,,Blocked,22.0,Right Foot,,Youri Tielemans,Pass (Live),Timothy Castagne,Pass (Live)
+4,26,Christian Benteke,Crystal Palace,0.04,,Blocked,24.0,Right Foot,,Wilfried Zaha,Pass (Live),Scott Dann,Pass (Live)
+5,34,Çağlar Söyüncü,Leicester City,0.05,,Off Target,15.0,Right Foot,Volley,Jonny Evans,Pass (Live),Wesley Fofana,Pass (Live)
+6,38,Wilfred Ndidi,Leicester City,0.05,,Blocked,26.0,Right Foot,,Kelechi Iheanacho,Pass (Live),James Maddison,Pass (Live)
+7,45+1,James Maddison,Leicester City,0.04,,Off Target,14.0,Left Foot,Volley,Jonny Evans,Pass (Live),Çağlar Söyüncü,Pass (Live)
+8,,,,,,,,,,,,,
+9,50,Timothy Castagne,Leicester City,0.28,0.71,Goal,11.0,Left Foot,,Kelechi Iheanacho,Pass (Live),Youri Tielemans,Pass (Live)
+10,60,James Maddison,Leicester City,0.03,0.06,Saved,29.0,Right Foot,,Youri Tielemans,Pass (Live),Wilfred Ndidi,Pass (Live)
+11,64,Jamie Vardy,Leicester City,0.07,0.14,Saved,15.0,Right Foot,Deflected,Jamie Vardy,Take-On,Luke Thomas,Pass (Live)
+12,68,Christian Benteke,Crystal Palace,0.11,0.05,Saved,7.0,Head,,Eberechi Eze,Pass (Dead),,
+13,69,Kelechi Iheanacho,Leicester City,0.09,,Off Target,11.0,Left Foot,,James Maddison,Pass (Live),Luke Thomas,Pass (Live)
+14,78,Jamie Vardy,Leicester City,0.62,,Off Target,4.0,Left Foot,,Jamie Vardy,Take-On,Kelechi Iheanacho,Pass (Live)
+15,79,Youri Tielemans,Leicester City,0.05,,Off Target,19.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Marc Albrighton,Pass (Live)
+16,80,Kelechi Iheanacho,Leicester City,0.05,0.32,Goal,13.0,Left Foot,,Jonny Evans,Pass (Live),Wilfred Ndidi,Pass (Live)
+17,87,Christian Benteke,Crystal Palace,0.07,,Off Target,10.0,Head,,Eberechi Eze,Pass (Dead),Wilfried Zaha,Fouled

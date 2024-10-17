@@ -1,0 +1,15 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Pablo Fornals,West Ham,0.06,0.48,Goal,17.0,Right Foot,,Pablo Fornals,Pass (Live),Jarrod Bowen,Pass (Live)
+1,25,Jordan Henderson,Liverpool,0.05,,Off Target,27.0,Right Foot,,Mohamed Salah,Pass (Live),Mohamed Salah,Pass (Live)
+2,37,Andrew Robertson,Liverpool,0.06,,Off Target,15.0,Left Foot,Volley,Sadio Mané,Pass (Live),Roberto Firmino,Pass (Live)
+3,40,Trent Alexander-Arnold,Liverpool,0.09,,Blocked,25.0,Right Foot,Free kick,Georginio Wijnaldum,Fouled,Georginio Wijnaldum,Take-On
+4,42,Mohamed Salah (pen),Liverpool,0.79,0.89,Goal,13.0,Left Foot,,Mohamed Salah,Fouled,Curtis Jones,Pass (Live)
+5,,,,,,,,,,,,,
+6,48,Curtis Jones,Liverpool,0.03,0.47,Saved,27.0,Left Foot,,Nathaniel Phillips,Pass (Live),Joe Gomez,Pass (Live)
+7,49,Mohamed Salah,Liverpool,0.12,0.45,Saved,12.0,Other,,Trent Alexander-Arnold,Pass (Dead),Georginio Wijnaldum,Fouled
+8,50,Pablo Fornals,West Ham,0.08,0.09,Saved,12.0,Right Foot,,Pablo Fornals,Pass (Live),Sébastien Haller,Pass (Live)
+9,66,Pablo Fornals,West Ham,0.06,,Blocked,16.0,Left Foot,,Sébastien Haller,Pass (Live),Łukasz Fabiański,Pass (Dead)
+10,74,Mohamed Salah,Liverpool,0.05,,Off Target,14.0,Left Foot,,Sadio Mané,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+11,77,Sadio Mané,Liverpool,0.07,0.03,Saved,15.0,Right Foot,,Xherdan Shaqiri,Pass (Live),,
+12,85,Diogo Jota,Liverpool,0.4,0.52,Goal,11.0,Right Foot,,Xherdan Shaqiri,Pass (Live),Jordan Henderson,Pass (Live)
+13,90+3,Tomáš Souček,West Ham,0.05,0.02,Saved,11.0,Head,,Manuel Lanzini,Pass (Dead),Andriy Yarmolenko,Fouled

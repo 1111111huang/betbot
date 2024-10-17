@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Pape Matar Sarr,Tottenham,0.05,0.07,Saved,22.0,Right Foot,Volley,Dejan Kulusevski,Pass (Live),Ben Davies,Pass (Live)
+1,4,Vitaliy Mykolenko,Everton,0.05,0.13,Saved,17.0,Right Foot,"Deflected, Volley",,,,
+2,7,Dominic Calvert-Lewin,Everton,0.11,,Blocked,10.0,Left Foot,,Dwight McNeil,Pass (Live),,
+3,9,Richarlison,Tottenham,0.34,0.82,Goal,9.0,Right Foot,,Brennan Johnson,Pass (Live),Pape Matar Sarr,Pass (Live)
+4,12,Brennan Johnson,Tottenham,0.37,,Off Target,8.0,Right Foot,,Emerson,Pass (Live),Son Heung-min,Pass (Live)
+5,15,Dwight McNeil,Everton,0.03,,Off Target,18.0,Left Foot,,Amadou Onana,Pass (Live),Amadou Onana,Take-On
+6,16,Dominic Calvert-Lewin,Everton,0.17,0.4,Saved,10.0,Head,,Vitaliy Mykolenko,Pass (Live),Jarrad Branthwaite,Pass (Live)
+7,18,Brennan Johnson,Tottenham,0.03,0.02,Saved,13.0,Right Foot,,Dejan Kulusevski,Pass (Live),Brennan Johnson,Pass (Live)
+8,18,Son Heung-min,Tottenham,0.13,0.27,Goal,14.0,Right Foot,,Brennan Johnson,Shot,,
+9,35,James Garner,Everton,0.02,0.1,Saved,30.0,Right Foot,"Deflected, Volley",Nathan Patterson,Pass (Live),,
+10,39,Dominic Calvert-Lewin,Everton,0.28,,Off Target,15.0,Right Foot,,Dwight McNeil,Pass (Live),Jarrad Branthwaite,Pass (Live)
+11,40,Amadou Onana,Everton,0.06,,Off Target,19.0,Right Foot,,Dominic Calvert-Lewin,Pass (Live),André Gomes,Pass (Live)
+12,42,James Garner,Everton,0.13,0.29,Saved,18.0,Left Foot,,Jack Harrison,Pass (Live),Amadou Onana,Pass (Live)
+13,45+1,Jack Harrison,Everton,0.21,0.21,Saved,13.0,Left Foot,,André Gomes,Pass (Live),Dwight McNeil,Pass (Live)
+14,,,,,,,,,,,,,
+15,55,Pedro Porro,Tottenham,0.07,,Blocked,17.0,Right Foot,,Brennan Johnson,Pass (Live),Dejan Kulusevski,Pass (Live)
+16,56,Pape Matar Sarr,Tottenham,0.12,0.09,Saved,23.0,Right Foot,,Brennan Johnson,Pass (Live),Pedro Porro,Shot
+17,58,Pedro Porro,Tottenham,0.01,,Off Target,24.0,Left Foot,,Brennan Johnson,Pass (Live),Oliver Skipp,Pass (Live)
+18,60,Brennan Johnson,Tottenham,0.11,,Off Target,6.0,Head,,Dejan Kulusevski,Pass (Live),Emerson,Pass (Live)
+19,62,James Garner,Everton,0.11,,Woodwork,11.0,Right Foot,,Jack Harrison,Pass (Live),Nathan Patterson,Pass (Live)
+20,62,Brennan Johnson,Tottenham,0.02,,Off Target,23.0,Left Foot,,Pedro Porro,Pass (Live),Oliver Skipp,Pass (Live)
+21,65,Pape Matar Sarr,Tottenham,0.06,,Blocked,14.0,Right Foot,,Son Heung-min,Pass (Live),Son Heung-min,Take-On
+22,67,Vitaliy Mykolenko,Everton,0.05,,Blocked,16.0,Left Foot,,,,,
+23,75,Dejan Kulusevski,Tottenham,0.06,0.11,Saved,13.0,Left Foot,,Emerson,Pass (Live),,
+24,77,André Gomes,Everton,0.05,,Off Target,14.0,Left Foot,,James Garner,Pass (Live),Dwight McNeil,Pass (Live)
+25,81,Arnaut Danjuma,Everton,0.07,,Blocked,15.0,Left Foot,,James Garner,Pass (Live),James Garner,Take-On
+26,82,André Gomes,Everton,0.02,0.42,Goal,16.0,Right Foot,,Arnaut Danjuma,Shot,,
+27,84,Arnaut Danjuma,Everton,0.09,0.28,Saved,18.0,Left Foot,Deflected,Dwight McNeil,Pass (Live),Dwight McNeil,Interception
+28,86,Jarrad Branthwaite,Everton,0.04,,Blocked,25.0,Left Foot,Volley,James Garner,Pass (Live),Jordan Pickford,Pass (Dead)
+29,89,Son Heung-min,Tottenham,0.1,,Off Target,10.0,Left Foot,Volley,Brennan Johnson,Pass (Live),Pierre Højbjerg,Pass (Live)
+30,90+4,Arnaut Danjuma,Everton,0.15,,Off Target,12.0,Left Foot,,André Gomes,Pass (Live),Nathan Patterson,Pass (Live)
+31,90+6,Arnaut Danjuma,Everton,0.16,0.39,Saved,7.0,Left Foot,Volley,Dwight McNeil,Pass (Live),Dominic Calvert-Lewin,Pass (Live)

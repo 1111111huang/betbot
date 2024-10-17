@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Manuel Akanji,Manchester City,0.02,,Off Target,33.0,Right Foot,,Julián Álvarez,Pass (Live),Matheus Nunes,Pass (Live)
+1,6,Jeremy Doku,Manchester City,0.01,,Blocked,21.0,Right Foot,,Kyle Walker,Fouled,Rúben Dias,Pass (Live)
+2,6,Jeremy Doku,Manchester City,0.02,,Blocked,18.0,Right Foot,Volley,Jeremy Doku,Shot,,
+3,6,Manuel Akanji,Manchester City,0.03,,Blocked,13.0,Left Foot,,Jeremy Doku,Pass (Live),Jeremy Doku,Shot
+4,21,Jeremy Doku,Manchester City,0.04,,Off Target,17.0,Right Foot,,Kyle Walker,Pass (Live),Manuel Akanji,Pass (Live)
+5,22,Rúben Dias,Manchester City,0.09,,Blocked,15.0,Right Foot,,Erling Haaland,Pass (Live),Phil Foden,Pass (Live)
+6,27,Nathan Aké,Manchester City,0.02,,Blocked,11.0,Head,,Julián Álvarez,Pass (Dead),Matheus Nunes,Fouled
+7,27,Nathan Aké,Manchester City,0.06,0.1,Saved,6.0,Left Foot,Volley,Nathan Aké,Shot,,
+8,31,Mateo Kovačić,Manchester City,0.03,,Blocked,25.0,Right Foot,,Manuel Akanji,Pass (Live),Matheus Nunes,Pass (Live)
+9,31,Phil Foden,Manchester City,0.07,,Blocked,16.0,Left Foot,Volley,Mateo Kovačić,Shot,,
+10,40,Jeremy Doku,Manchester City,0.03,,Blocked,18.0,Right Foot,,Julián Álvarez,Pass (Live),Mateo Kovačić,Pass (Live)
+11,40,Jeremy Doku,Manchester City,0.04,,Off Target,22.0,Right Foot,,,,,
+12,45+2,Hwang Hee-chan,Wolves,0.11,,Blocked,12.0,Right Foot,,Matheus Cunha,Pass (Live),João Gomes,Pass (Live)
+13,45+4,Rúben Dias,Manchester City,0.05,0.09,Saved,11.0,Head,,Phil Foden,Pass (Dead),Matheus Nunes,Fouled
+14,,,,,,,,,,,,,
+15,49,Rúben Dias,Manchester City,0.02,,Off Target,32.0,Right Foot,,Mateo Kovačić,Pass (Live),Jeremy Doku,Pass (Live)
+16,51,Erling Haaland,Manchester City,0.06,0.07,Saved,11.0,Left Foot,,Oscar Bobb,Pass (Live),Phil Foden,Pass (Live)
+17,55,Julián Álvarez,Manchester City,0.04,0.2,Saved,20.0,Right Foot,,Jeremy Doku,Pass (Live),Julián Álvarez,Pass (Live)
+18,58,Julián Álvarez,Manchester City,0.05,0.56,Goal,22.0,Right Foot,Free kick,Oscar Bobb,Fouled,Nathan Aké,Pass (Live)
+19,66,Manuel Akanji,Manchester City,0.03,0.28,Saved,27.0,Right Foot,,Jeremy Doku,Pass (Live),Oscar Bobb,Pass (Live)
+20,66,Hwang Hee-chan,Wolves,0.08,,Blocked,15.0,Right Foot,,Max Kilman,Pass (Live),José Sá,Pass (Live)
+21,66,Hwang Hee-chan,Wolves,0.28,0.79,Goal,8.0,Right Foot,Deflected,Matheus Cunha,Pass (Live),Hwang Hee-chan,Shot
+22,75,Kalvin Phillips,Manchester City,0.03,,Off Target,25.0,Right Foot,,Jeremy Doku,Pass (Live),Julián Álvarez,Pass (Live)
+23,79,Nathan Aké,Manchester City,0.03,,Blocked,8.0,Head,,Phil Foden,Pass (Dead),Phil Foden,Fouled
+24,83,Kyle Walker,Manchester City,0.02,0.02,Saved,32.0,Right Foot,,Rúben Dias,Pass (Live),Manuel Akanji,Pass (Live)
+25,90+4,Kalvin Phillips,Manchester City,0.05,,Blocked,18.0,Left Foot,,Jack Grealish,Pass (Live),Kyle Walker,Pass (Live)
+26,90+4,Jeremy Doku,Manchester City,0.02,0.09,Saved,22.0,Left Foot,Deflected,Phil Foden,Pass (Dead),Kalvin Phillips,Shot

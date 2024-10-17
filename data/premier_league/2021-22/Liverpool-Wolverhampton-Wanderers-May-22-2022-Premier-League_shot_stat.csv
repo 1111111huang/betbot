@@ -1,0 +1,38 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Pedro Neto,Wolves,0.43,0.42,Goal,8.0,Left Foot,,Raúl Jiménez,Pass (Live),José Sá,Pass (Dead)
+1,5,Joël Matip,Liverpool,0.03,,Off Target,14.0,Head,,Luis Díaz,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+2,10,Luis Díaz,Liverpool,0.14,,Off Target,10.0,Right Foot,,Joël Matip,Pass (Live),Jordan Henderson,Pass (Live)
+3,13,Naby Keïta,Liverpool,0.16,,Blocked,9.0,Right Foot,,Diogo Jota,Pass (Live),Diogo Jota,Take-On
+4,14,Joël Matip,Liverpool,0.1,,Off Target,6.0,Head,,Trent Alexander-Arnold,Pass (Dead),Naby Keïta,Shot
+5,15,Diogo Jota,Liverpool,0.1,,Blocked,15.0,Right Foot,,Naby Keïta,Pass (Live),Luis Díaz,Pass (Live)
+6,18,Leander Dendoncker,Wolves,0.09,,Off Target,10.0,Left Foot,,Pedro Neto,Pass (Live),Rúben Neves,Pass (Live)
+7,24,Sadio Mané,Liverpool,0.39,0.6,Goal,13.0,Left Foot,,Thiago Alcántara,Pass (Live),Ibrahima Konaté,Pass (Live)
+8,28,Trent Alexander-Arnold,Liverpool,0.06,,Off Target,19.0,Right Foot,,Andrew Robertson,Pass (Live),Jordan Henderson,Pass (Live)
+9,28,Andrew Robertson,Liverpool,0.05,,Off Target,11.0,Left Foot,Volley,Jordan Henderson,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+10,32,Thiago Alcántara,Liverpool,0.04,,Blocked,26.0,Right Foot,,Luis Díaz,Pass (Live),Andrew Robertson,Pass (Live)
+11,32,Thiago Alcántara,Liverpool,0.03,,Off Target,27.0,Right Foot,,Thiago Alcántara,Pass (Live),Jordan Henderson,Pass (Live)
+12,33,Sadio Mané,Liverpool,0.06,,Blocked,27.0,Right Foot,,Sadio Mané,Take-On,Luis Díaz,Pass (Live)
+13,38,Sadio Mané,Liverpool,0.04,0.11,Saved,14.0,Head,,Trent Alexander-Arnold,Pass (Live),,
+14,39,Hwang Hee-chan,Wolves,0.51,0.65,Saved,13.0,Right Foot,,Jonny Castro,Pass (Live),Rúben Neves,Pass (Live)
+15,,,,,,,,,,,,,
+16,50,Diogo Jota,Liverpool,0.02,,Blocked,21.0,Right Foot,,Jordan Henderson,Pass (Live),,
+17,52,Diogo Jota,Liverpool,0.1,,Blocked,13.0,Right Foot,Deflected,Trent Alexander-Arnold,Pass (Live),Trent Alexander-Arnold,Take-On
+18,57,Luis Díaz,Liverpool,0.05,,Blocked,28.0,Right Foot,,Luis Díaz,Take-On,Luis Díaz,Take-On
+19,64,Trent Alexander-Arnold,Liverpool,0.02,0.06,Saved,30.0,Right Foot,,Sadio Mané,Pass (Live),James Milner,Pass (Live)
+20,64,Mohamed Salah,Liverpool,0.01,,Off Target,15.0,Left Foot,,Trent Alexander-Arnold,Shot,,
+21,68,Mohamed Salah,Liverpool,0.07,,Blocked,20.0,Left Foot,,Sadio Mané,Pass (Live),,
+22,70,Trent Alexander-Arnold,Liverpool,0.07,,Blocked,14.0,Left Foot,,Mohamed Salah,Pass (Live),James Milner,Pass (Live)
+23,71,Hwang Hee-chan,Wolves,0.04,0.11,Saved,19.0,Right Foot,,Rúben Neves,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+24,74,Hwang Hee-chan,Wolves,0.03,,Off Target,14.0,Head,,Rúben Neves,Pass (Live),Hwang Hee-chan,Pass (Live)
+25,78,Mohamed Salah,Liverpool,0.04,0.14,Saved,16.0,Left Foot,,Roberto Firmino,Pass (Live),Mohamed Salah,Pass (Live)
+26,79,Mohamed Salah,Liverpool,0.05,,Blocked,18.0,Left Foot,,Sadio Mané,Pass (Live),Jordan Henderson,Pass (Live)
+27,80,Leander Dendoncker,Wolves,0.13,0.14,Saved,15.0,Left Foot,,Raúl Jiménez,Pass (Live),,
+28,80,Roberto Firmino,Liverpool,0.05,,Blocked,13.0,Right Foot,,Luis Díaz,Pass (Live),Roberto Firmino,Pass (Live)
+29,82,Rayan Aït-Nouri,Wolves,0.05,0.21,Saved,25.0,Right Foot,,João Moutinho,Pass (Live),Jonny Castro,Pass (Live)
+30,83,Luis Díaz,Liverpool,0.18,,Blocked,17.0,Right Foot,,Luis Díaz,Take-On,Trent Alexander-Arnold,Pass (Live)
+31,84,Joël Matip,Liverpool,0.02,,Blocked,11.0,Head,,Trent Alexander-Arnold,Pass (Dead),Luis Díaz,Shot
+32,84,Mohamed Salah,Liverpool,0.53,0.91,Goal,3.0,Left Foot,"Deflected, Volley",Joël Matip,Pass (Live),Joël Matip,Shot
+33,89,Mohamed Salah,Liverpool,0.1,,Blocked,11.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Sadio Mané,Pass (Live)
+34,89,Andrew Robertson,Liverpool,0.13,0.92,Goal,6.0,Left Foot,,Roberto Firmino,Pass (Live),Andrew Robertson,Pass (Live)
+35,90+2,Mohamed Salah,Liverpool,0.14,0.03,Saved,8.0,Head,,James Milner,Pass (Live),Luis Díaz,Pass (Live)
+36,90+3,Mohamed Salah,Liverpool,0.04,,Blocked,18.0,Left Foot,,,,,

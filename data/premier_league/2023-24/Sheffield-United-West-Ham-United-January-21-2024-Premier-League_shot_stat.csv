@@ -1,0 +1,39 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Gustavo Hamer,Sheffield Utd,0.02,,Off Target,31.0,Right Foot,,Jayden Bogle,Pass (Live),James Mcatee,Pass (Live)
+1,11,Vinicius Souza,Sheffield Utd,0.03,0.05,Saved,30.0,Right Foot,,Ben Brereton,Pass (Live),Auston Trusty,Pass (Live)
+2,12,Danny Ings,West Ham,0.07,0.07,Saved,9.0,Right Foot,Volley,Tomáš Souček,Pass (Live),Vladimír Coufal,Pass (Dead)
+3,13,Kurt Zouma,West Ham,0.02,0.24,Saved,17.0,Head,,James Ward-Prowse,Pass (Dead),Pablo Fornals,Fouled
+4,14,Jarrod Bowen,West Ham,0.07,,Off Target,14.0,Left Foot,,Danny Ings,Pass (Live),Danny Ings,Take-On
+5,17,Gustavo Hamer,Sheffield Utd,0.09,,Blocked,21.0,Right Foot,Free kick,William Osula,Fouled,Gustavo Hamer,Pass (Live)
+6,17,Gustavo Hamer,Sheffield Utd,0.04,,Blocked,26.0,Right Foot,Volley,Gustavo Hamer,Shot,,
+7,18,Andre Brooks,Sheffield Utd,0.03,,Off Target,15.0,Left Foot,,Gustavo Hamer,Shot,,
+8,23,Ben Brereton,Sheffield Utd,0.04,0.06,Saved,18.0,Right Foot,Deflected,Andre Brooks,Pass (Live),Andre Brooks,Take-On
+9,27,James Mcatee,Sheffield Utd,0.04,,Blocked,22.0,Left Foot,,Gustavo Hamer,Pass (Live),Vinicius Souza,Pass (Live)
+10,27,Auston Trusty,Sheffield Utd,0.06,0.03,Saved,11.0,Head,,Gustavo Hamer,Pass (Dead),James Mcatee,Shot
+11,28,Danny Ings,West Ham,0.17,,Blocked,15.0,Right Foot,,Danny Ings,Take-On,Vladimír Coufal,Pass (Live)
+12,28,Maxwel Cornet,West Ham,0.21,0.83,Goal,6.0,Left Foot,Volley,Danny Ings,Shot,,
+13,37,William Osula,Sheffield Utd,0.02,,Off Target,13.0,Right Foot,,James Mcatee,Pass (Live),Ben Brereton,Pass (Live)
+14,40,Danny Ings,West Ham,0.09,,Blocked,9.0,Right Foot,,Emerson Palmieri,Pass (Live),Maxwel Cornet,Pass (Live)
+15,41,Jarrod Bowen,West Ham,0.2,,Off Target,6.0,Left Foot,Volley,James Ward-Prowse,Pass (Dead),Danny Ings,Shot
+16,44,William Osula,Sheffield Utd,0.37,0.22,Saved,7.0,Head,,Auston Trusty,Pass (Live),James Mcatee,Pass (Live)
+17,44,Ben Brereton,Sheffield Utd,0.45,0.87,Goal,7.0,Right Foot,,Ben Brereton,Take-On,William Osula,Shot
+18,45+2,William Osula,Sheffield Utd,0.03,,Blocked,22.0,Right Foot,,Anel Ahmedhodžić,Pass (Live),Jayden Bogle,Pass (Live)
+19,,,,,,,,,,,,,
+20,51,Ben Brereton,Sheffield Utd,0.02,,Blocked,23.0,Right Foot,,James Mcatee,Pass (Live),Gustavo Hamer,Pass (Live)
+21,52,Auston Trusty,Sheffield Utd,0.04,,Off Target,12.0,Head,,Gustavo Hamer,Pass (Live),James Mcatee,Pass (Live)
+22,57,Oliver McBurnie,Sheffield Utd,0.03,,Off Target,6.0,Right Foot,Volley,Gustavo Hamer,Pass (Dead),,Fouled
+23,58,Ben Brereton,Sheffield Utd,0.4,,Off Target,11.0,Right Foot,,James Mcatee,Pass (Live),,
+24,60,Maxwel Cornet,West Ham,0.08,,Blocked,13.0,Left Foot,,Danny Ings,Pass (Live),Danny Ings,Tackle
+25,61,Andre Brooks,Sheffield Utd,0.07,,Blocked,21.0,Left Foot,,Jayden Bogle,Pass (Live),James Mcatee,Pass (Live)
+26,64,Jarrod Bowen,West Ham,0.03,,Blocked,16.0,Left Foot,,Danny Ings,Pass (Live),James Ward-Prowse,Pass (Live)
+27,69,Konstantinos Mavropanos,West Ham,0.03,,Off Target,14.0,Head,,James Ward-Prowse,Pass (Dead),Emerson Palmieri,Fouled
+28,70,James Mcatee,Sheffield Utd,0.04,,Off Target,21.0,Left Foot,,Gustavo Hamer,Pass (Live),Jayden Bogle,Pass (Live)
+29,73,Danny Ings,West Ham,0.09,0.34,Saved,25.0,Right Foot,,Pablo Fornals,Pass (Live),James Ward-Prowse,Pass (Live)
+30,74,Cameron Archer,Sheffield Utd,0.04,,Blocked,26.0,Right Foot,,Cameron Archer,Take-On,Andre Brooks,Pass (Live)
+31,79,James Ward-Prowse (pen),West Ham,0.79,0.94,Goal,13.0,Right Foot,,Danny Ings,Fouled,Danny Ings,Take-On
+32,84,Jarrod Bowen,West Ham,0.05,,Off Target,15.0,Left Foot,,Danny Ings,Pass (Live),Pablo Fornals,Pass (Live)
+33,86,James Mcatee,Sheffield Utd,0.04,,Blocked,13.0,Left Foot,,Anel Ahmedhodžić,Pass (Live),Vinicius Souza,Pass (Live)
+34,89,Ben Johnson,West Ham,0.05,,Off Target,28.0,Left Foot,,James Ward-Prowse,Pass (Live),Jarrod Bowen,Pass (Live)
+35,90+5,Danny Ings,West Ham,0.25,,Blocked,11.0,Left Foot,,James Ward-Prowse,Pass (Live),Pablo Fornals,Pass (Live)
+36,90+5,Danny Ings,West Ham,0.15,,Blocked,11.0,Left Foot,,Danny Ings,Shot,,
+37,90+13,Oliver McBurnie (pen),Sheffield Utd,0.79,0.99,Goal,13.0,Right Foot,,Oliver McBurnie,Fouled,Gustavo Hamer,Pass (Live)

@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Jamie Vardy,Leicester City,0.09,,Blocked,10.0,Left Foot,Volley,Harvey Barnes,Pass (Live),Boubakary Soumaré,Pass (Live)
+1,10,Youri Tielemans,Leicester City,0.02,,Off Target,32.0,Right Foot,,Jamie Vardy,Pass (Live),Harvey Barnes,Pass (Live)
+2,12,James Maddison,Leicester City,0.03,,Blocked,30.0,Right Foot,,Harvey Barnes,Pass (Live),Jamie Vardy,Pass (Live)
+3,14,Neal Maupay,Brighton,0.27,,Blocked,14.0,Left Foot,,Marc Cucurella,Pass (Live),Marc Cucurella,Take-On
+4,15,Shane Duffy,Brighton,0.05,,Off Target,9.0,Head,,Leandro Trossard,Pass (Dead),Neal Maupay,Shot
+5,20,Solly March,Brighton,0.06,0.03,Saved,14.0,Left Foot,,Joël Veltman,Pass (Live),Joël Veltman,Interception
+6,27,Adam Lallana,Brighton,0.15,,Off Target,16.0,Left Foot,,Marc Cucurella,Pass (Live),Lewis Dunk,Pass (Live)
+7,29,Leandro Trossard,Brighton,0.03,0.03,Saved,16.0,Right Foot,,Shane Duffy,Pass (Live),Lewis Dunk,Pass (Live)
+8,33,Shane Duffy,Brighton,0.04,,Blocked,11.0,Head,,Leandro Trossard,Pass (Dead),Leandro Trossard,Take-On
+9,35,Neal Maupay (pen),Brighton,0.79,0.98,Goal,13.0,Right Foot,,,Fouled,Shane Duffy,Shot
+10,42,Danny Welbeck,Brighton,0.01,0.21,Saved,24.0,Right Foot,Deflected,Leandro Trossard,Pass (Live),Neal Maupay,Pass (Live)
+11,45,Leandro Trossard,Brighton,0.03,,Off Target,29.0,Right Foot,Free kick,Danny Welbeck,Fouled,Leandro Trossard,Pass (Live)
+12,,,,,,,,,,,,,
+13,48,Jamie Vardy,Leicester City,0.04,,Off Target,12.0,Left Foot,,,,,
+14,50,Danny Welbeck,Brighton,0.06,0.25,Goal,8.0,Head,,Leandro Trossard,Pass (Dead),Solly March,Fouled
+15,52,Youri Tielemans,Leicester City,0.02,,Blocked,32.0,Right Foot,,Youri Tielemans,Take-On,Harvey Barnes,Pass (Live)
+16,53,Youri Tielemans,Leicester City,0.03,,Off Target,31.0,Right Foot,,Harvey Barnes,Pass (Live),Wilfred Ndidi,Pass (Live)
+17,55,Adam Lallana,Brighton,0.03,,Off Target,12.0,Head,,Solly March,Pass (Dead),Leandro Trossard,Fouled
+18,58,Boubakary Soumaré,Leicester City,0.05,0.03,Saved,21.0,Right Foot,,Boubakary Soumaré,Take-On,Ademola Lookman,Pass (Live)
+19,61,Jamie Vardy,Leicester City,0.96,0.97,Goal,3.0,Left Foot,Volley,Youri Tielemans,Pass (Live),Ricardo Pereira,Pass (Live)
+20,64,Yves Bissouma,Brighton,0.2,,Blocked,20.0,Right Foot,Free kick,Danny Welbeck,Fouled,Enock Mwepu,Pass (Live)
+21,70,Ademola Lookman,Leicester City,0.05,,Blocked,19.0,Left Foot,,Ricardo Pereira,Pass (Live),Youri Tielemans,Pass (Live)
+22,78,Çağlar Söyüncü,Leicester City,0.15,,Off Target,7.0,Head,,Youri Tielemans,Pass (Dead),,
+23,82,Harvey Barnes,Leicester City,0.03,0.09,Saved,24.0,Right Foot,Deflected,Ademola Lookman,Pass (Live),Ricardo Pereira,Pass (Live)
+24,84,Youri Tielemans,Leicester City,0.03,,Blocked,21.0,Right Foot,,Kelechi Iheanacho,Pass (Dead),Ademola Lookman,Fouled
+25,90+3,Ademola Lookman,Leicester City,0.04,,Blocked,16.0,Right Foot,Volley,Jamie Vardy,Pass (Live),Jamie Vardy,Pass (Live)
+26,90+3,Youri Tielemans,Leicester City,0.03,,Off Target,20.0,Right Foot,,Ricardo Pereira,Pass (Live),Ademola Lookman,Pass (Live)

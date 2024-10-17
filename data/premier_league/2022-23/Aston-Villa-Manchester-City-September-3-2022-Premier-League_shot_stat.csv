@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Kyle Walker,Manchester City,0.32,,Off Target,10.0,Right Foot,,İlkay Gündoğan,Pass (Live),Bernardo Silva,Pass (Live)
+1,9,Kevin De Bruyne,Manchester City,0.05,,Off Target,26.0,Right Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+2,20,João Cancelo,Manchester City,0.03,,Blocked,23.0,Right Foot,,Kevin De Bruyne,Pass (Live),João Cancelo,Pass (Live)
+3,20,João Cancelo,Manchester City,0.03,,Blocked,18.0,Right Foot,Volley,Kevin De Bruyne,Pass (Dead),João Cancelo,Shot
+4,38,Ollie Watkins,Aston Villa,0.18,,Blocked,14.0,Left Foot,,Douglas Luiz,Pass (Live),Ashley Young,Pass (Live)
+5,,,,,,,,,,,,,
+6,50,Erling Haaland,Manchester City,0.58,0.77,Goal,2.0,Left Foot,Volley,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+7,59,Leon Bailey,Aston Villa,0.08,,Off Target,21.0,Left Foot,,Leon Bailey,Pass (Live),Ollie Watkins,Pass (Live)
+8,62,Rodri,Manchester City,0.04,,Blocked,11.0,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Pass (Live)
+9,64,Erling Haaland,Manchester City,0.14,0.05,Saved,11.0,Left Foot,,Erling Haaland,Pass (Live),Phil Foden,Pass (Live)
+10,67,Kevin De Bruyne,Manchester City,0.17,,Woodwork,23.0,Right Foot,Free kick,Erling Haaland,Fouled,İlkay Gündoğan,Pass (Live)
+11,68,Erling Haaland,Manchester City,0.13,0.11,Saved,16.0,Right Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+12,70,Kevin De Bruyne,Manchester City,0.03,,Blocked,30.0,Right Foot,,Kyle Walker,Pass (Live),Rúben Dias,Pass (Live)
+13,71,Kevin De Bruyne,Manchester City,0.36,,Off Target,10.0,Right Foot,,Erling Haaland,Pass (Live),Kevin De Bruyne,Pass (Live)
+14,74,Leon Bailey,Aston Villa,0.09,0.6,Goal,16.0,Left Foot,,Jacob Ramsey,Pass (Live),,
+15,87,Rodri,Manchester City,0.06,,Off Target,28.0,Right Foot,,,,,
+16,90+1,Phil Foden,Manchester City,0.16,0.12,Saved,11.0,Left Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)

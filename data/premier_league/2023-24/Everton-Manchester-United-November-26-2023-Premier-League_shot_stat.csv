@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Alejandro Garnacho,Manchester Utd,0.08,0.44,Goal,15.0,Right Foot,Volley,Diogo Dalot,Pass (Live),Marcus Rashford,Pass (Live)
+1,10,Dominic Calvert-Lewin,Everton,0.09,0.15,Saved,12.0,Left Foot,,Ashley Young,Pass (Live),Jack Harrison,Pass (Live)
+2,13,Luke Shaw,Manchester Utd,0.02,,Off Target,26.0,Left Foot,Volley,Bruno Fernandes,Pass (Dead),Victor Lindelöf,Pass (Live)
+3,25,Vitaliy Mykolenko,Everton,0.02,,Off Target,30.0,Left Foot,,,,,
+4,31,Dominic Calvert-Lewin,Everton,0.1,0.07,Saved,9.0,Head,,James Garner,Pass (Dead),Jack Harrison,Fouled
+5,32,Dominic Calvert-Lewin,Everton,0.12,0.37,Saved,17.0,Right Foot,,Ashley Young,Pass (Live),Jack Harrison,Pass (Dead)
+6,32,Dwight McNeil,Everton,0.37,0.42,Saved,5.0,Right Foot,,Dominic Calvert-Lewin,Shot,,
+7,33,Abdoulaye Doucouré,Everton,0.18,,Off Target,15.0,Right Foot,,Dwight McNeil,Pass (Live),,
+8,34,Dwight McNeil,Everton,0.05,,Blocked,15.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),,
+9,40,Dominic Calvert-Lewin,Everton,0.03,,Blocked,25.0,Right Foot,,,,,
+10,41,Dominic Calvert-Lewin,Everton,0.25,,Off Target,8.0,Head,,Ashley Young,Pass (Live),James Garner,Pass (Live)
+11,41,Idrissa Gana Gueye,Everton,0.28,,Off Target,14.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Scott McTominay,Manchester Utd,0.05,,Off Target,28.0,Right Foot,,Bruno Fernandes,Pass (Live),Diogo Dalot,Tackle
+14,56,Marcus Rashford (pen),Manchester Utd,0.79,0.99,Goal,13.0,Right Foot,,Anthony Martial,Fouled,Bruno Fernandes,Pass (Live)
+15,57,Idrissa Gana Gueye,Everton,0.03,0.27,Saved,24.0,Right Foot,,,,,
+16,61,Vitaliy Mykolenko,Everton,0.02,,Off Target,24.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Ashley Young,Pass (Live)
+17,65,Alejandro Garnacho,Manchester Utd,0.04,,Off Target,14.0,Right Foot,Volley,Diogo Dalot,Pass (Live),Marcus Rashford,Pass (Live)
+18,69,Abdoulaye Doucouré,Everton,0.06,,Blocked,12.0,Right Foot,Volley,Jordan Pickford,Pass (Live),James Tarkowski,Pass (Live)
+19,71,Alejandro Garnacho,Manchester Utd,0.27,,Off Target,4.0,Right Foot,Volley,Marcus Rashford,Pass (Live),,
+20,75,Anthony Martial,Manchester Utd,0.79,0.96,Goal,11.0,Right Foot,,Bruno Fernandes,Pass (Live),Facundo Pellistri,Pass (Live)
+21,77,Vitaliy Mykolenko,Everton,0.06,,Woodwork,14.0,Left Foot,,Arnaut Danjuma,Pass (Live),James Garner,Pass (Live)
+22,81,James Garner,Everton,0.02,,Off Target,30.0,Right Foot,,Idrissa Gana Gueye,Pass (Live),James Tarkowski,Pass (Live)
+23,85,Facundo Pellistri,Manchester Utd,0.11,0.06,Saved,17.0,Left Foot,,Diogo Dalot,Pass (Live),Victor Lindelöf,Pass (Live)
+24,88,James Garner,Everton,0.06,,Blocked,25.0,Right Foot,,Idrissa Gana Gueye,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+25,89,Harry Maguire,Manchester Utd,0.06,,Off Target,11.0,Head,,Marcus Rashford,Pass (Live),Bruno Fernandes,Pass (Live)
+26,90+1,Youssef Chermiti,Everton,0.05,,Off Target,27.0,Right Foot,,Arnaut Danjuma,Pass (Live),,
+27,90+3,Jack Harrison,Everton,0.02,,Blocked,24.0,Left Foot,,James Garner,Pass (Live),Nathan Patterson,Pass (Dead)
+28,90+4,James Tarkowski,Everton,0.09,,Off Target,5.0,Head,,James Garner,Pass (Dead),Idrissa Gana Gueye,Pass (Live)
+29,90+4,Youssef Chermiti,Everton,0.12,,Off Target,5.0,Head,,James Tarkowski,Shot,,
+30,90+4,Jack Harrison,Everton,0.41,0.45,Saved,4.0,Right Foot,Volley,Youssef Chermiti,Shot,,
+31,90+4,Vitaliy Mykolenko,Everton,0.03,,Off Target,24.0,Left Foot,Volley,Jack Harrison,Shot,,
+32,90+6,Idrissa Gana Gueye,Everton,0.05,,Blocked,16.0,Left Foot,,Jack Harrison,Pass (Live),Youssef Chermiti,Pass (Live)
+33,90+6,Lewis Dobbin,Everton,0.03,,Off Target,22.0,Right Foot,,James Garner,Pass (Live),Vitaliy Mykolenko,Pass (Live)

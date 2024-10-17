@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Wilfried Zaha,Crystal Palace,0.08,,Off Target,19.0,Right Foot,,Cheick Doucouré,Pass (Live),Eberechi Eze,Pass (Dead)
+1,11,Eberechi Eze,Crystal Palace,0.03,,Off Target,20.0,Left Foot,,Jeffrey Schlupp,Pass (Live),Eberechi Eze,Pass (Live)
+2,17,Harvey Barnes,Leicester City,0.1,0.47,Saved,8.0,Right Foot,,Patson Daka,Pass (Live),Harvey Barnes,Pass (Live)
+3,20,Harvey Barnes,Leicester City,0.05,,Blocked,13.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Harvey Barnes,Pass (Live)
+4,22,Patson Daka,Leicester City,0.1,0.03,Saved,19.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Youri Tielemans,Pass (Live)
+5,30,Marc Guéhi,Crystal Palace,0.06,,Off Target,10.0,Head,,Eberechi Eze,Pass (Dead),Jordan Ayew,Fouled
+6,38,Cheick Doucouré,Crystal Palace,0.03,,Blocked,30.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Wilfried Zaha,Pass (Live)
+7,43,Eberechi Eze,Crystal Palace,0.03,,Off Target,29.0,Right Foot,,Wilfried Zaha,Pass (Live),Jeffrey Schlupp,Pass (Live)
+8,45+2,Harvey Barnes,Leicester City,0.02,,Blocked,28.0,Right Foot,,Youri Tielemans,Pass (Live),Kiernan Dewsbury-Hall,Fouled
+9,,,,,,,,,,,,,
+10,47,James Maddison,Leicester City,0.18,,Off Target,11.0,Left Foot,,Harvey Barnes,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+11,51,James Justin,Leicester City,0.02,,Off Target,29.0,Right Foot,Volley,James Justin,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+12,58,Timothy Castagne,Leicester City,0.05,0.05,Saved,18.0,Right Foot,,Boubakary Soumaré,Pass (Live),Harvey Barnes,Pass (Live)
+13,59,James Maddison,Leicester City,0.1,,Off Target,26.0,Right Foot,,Youri Tielemans,Pass (Live),,
+14,60,Boubakary Soumaré,Leicester City,0.03,,Off Target,28.0,Left Foot,,Harvey Barnes,Pass (Live),James Maddison,Pass (Live)
+15,63,Wilfried Zaha,Crystal Palace,0.05,,Blocked,23.0,Right Foot,,Wilfried Zaha,Take-On,Jeffrey Schlupp,Pass (Live)
+16,64,Odsonne Édouard,Crystal Palace,0.07,0.25,Saved,19.0,Right Foot,,Eberechi Eze,Pass (Live),Odsonne Édouard,Pass (Live)
+17,64,Luka Milivojević,Crystal Palace,0.05,,Off Target,20.0,Right Foot,,Odsonne Édouard,Shot,,
+18,71,James Maddison,Leicester City,0.06,0.24,Saved,16.0,Right Foot,,Youri Tielemans,Pass (Live),James Maddison,Pass (Live)
+19,79,James Maddison,Leicester City,0.04,,Blocked,31.0,Right Foot,Free kick,James Maddison,Fouled,Daniel Amartey,Pass (Live)
+20,79,Timothy Castagne,Leicester City,0.19,,Off Target,5.0,Head,,James Maddison,Pass (Dead),James Maddison,Shot
+21,90,Kelechi Iheanacho,Leicester City,0.03,0.03,Saved,19.0,Left Foot,,James Maddison,Pass (Live),Kelechi Iheanacho,Pass (Dead)
+22,90,Kiernan Dewsbury-Hall,Leicester City,0.07,,Blocked,21.0,Left Foot,,Kelechi Iheanacho,Pass (Live),Dennis Praet,Pass (Live)

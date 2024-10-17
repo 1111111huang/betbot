@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Oliver McBurnie,Sheffield Utd,0.09,0.2,Saved,15.0,Left Foot,,David McGoldrick,Pass (Live),George Baldock,Pass (Dead)
+1,9,Matěj Vydra,Burnley,0.39,,Off Target,14.0,Left Foot,,Erik Pieters,Pass (Live),Jay Rodriguez,Pass (Live)
+2,10,Sander Berge,Sheffield Utd,0.36,,Blocked,11.0,Right Foot,,Oliver McBurnie,Pass (Live),Oliver McBurnie,Take-On
+3,11,John Egan,Sheffield Utd,0.15,,Blocked,5.0,Right Foot,,Sander Berge,Shot,,
+4,19,James Tarkowski,Burnley,0.12,0.02,Saved,11.0,Right Foot,,Ashley Westwood,Pass (Dead),Dwight McNeil,Fouled
+5,22,Enda Stevens,Sheffield Utd,0.03,,Blocked,24.0,Left Foot,,David McGoldrick,Pass (Live),Oliver Norwood,Pass (Live)
+6,33,Sander Berge,Sheffield Utd,0.05,,Off Target,11.0,Head,,Oliver Norwood,Pass (Live),George Baldock,Pass (Live)
+7,35,John Egan,Sheffield Utd,0.24,,Off Target,5.0,Head,,Oliver Norwood,Pass (Dead),Enda Stevens,Pass (Live)
+8,38,Phil Bardsley,Burnley,0.02,0.28,Saved,31.0,Right Foot,,Ashley Westwood,Pass (Live),Josh Brownhill,Pass (Live)
+9,40,Oliver McBurnie,Sheffield Utd,0.09,,Off Target,11.0,Right Foot,,Jack Robinson,Pass (Live),Enda Stevens,Pass (Live)
+10,43,James Tarkowski,Burnley,0.35,0.68,Goal,6.0,Right Foot,,Jay Rodriguez,Pass (Live),Dwight McNeil,Pass (Dead)
+11,,,,,,,,,,,,,
+12,46,David McGoldrick,Sheffield Utd,0.02,,Blocked,31.0,Right Foot,,Enda Stevens,Pass (Live),David McGoldrick,Pass (Live)
+13,54,Erik Pieters,Burnley,0.04,,Off Target,20.0,Left Foot,,Matěj Vydra,Pass (Live),Phil Bardsley,Pass (Dead)
+14,71,Jay Rodriguez,Burnley,0.04,,Off Target,23.0,Right Foot,,Erik Pieters,Pass (Live),,
+15,77,Jay Rodriguez,Burnley,0.02,0.03,Saved,35.0,Right Foot,Volley,Ashley Westwood,Pass (Live),Dwight McNeil,Pass (Live)
+16,77,Dwight McNeil,Burnley,0.31,,Off Target,13.0,Left Foot,,Jay Rodriguez,Shot,,
+17,80,John Egan,Sheffield Utd,0.09,0.21,Goal,8.0,Right Foot,,Billy Sharp,Pass (Live),Ben Osborn,Pass (Live)
+18,89,Sander Berge,Sheffield Utd,0.02,0.1,Saved,25.0,Right Foot,,David McGoldrick,Pass (Dead),Lys Mousset,Fouled
+19,90+2,Erik Pieters,Burnley,0.02,,Saved off Target,32.0,Left Foot,,,,,

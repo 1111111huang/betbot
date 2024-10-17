@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Bruno Guimarães,Newcastle Utd,0.03,,Off Target,26.0,Left Foot,,Sean Longstaff,Pass (Live),Miguel Almirón,Pass (Live)
+1,8,Jacob Murphy,Newcastle Utd,0.04,,Off Target,24.0,Right Foot,,Jacob Murphy,Take-On,Sven Botman,Pass (Live)
+2,16,Callum Wilson,Newcastle Utd,0.04,0.17,Saved,17.0,Head,,Bruno Guimarães,Pass (Live),Kieran Trippier,Pass (Dead)
+3,26,Dominic Calvert-Lewin,Everton,0.17,,Off Target,7.0,Head,,Demarai Gray,Pass (Dead),,
+4,31,Miguel Almirón,Newcastle Utd,0.06,0.32,Goal,20.0,Left Foot,,Bruno Guimarães,Pass (Live),Joelinton,Pass (Live)
+5,33,Bruno Guimarães,Newcastle Utd,0.25,,Off Target,12.0,Right Foot,,Kieran Trippier,Pass (Live),Bruno Guimarães,Pass (Live)
+6,35,Fabian Schär,Newcastle Utd,0.07,0.08,Saved,4.0,Head,,Jacob Murphy,Pass (Live),Miguel Almirón,Pass (Live)
+7,37,Bruno Guimarães,Newcastle Utd,0.03,,Off Target,21.0,Left Foot,,Miguel Almirón,Pass (Live),Callum Wilson,Pass (Live)
+8,42,Dan Burn,Newcastle Utd,0.05,,Off Target,9.0,Head,,Kieran Trippier,Pass (Dead),,
+9,,,,,,,,,,,,,
+10,51,Callum Wilson,Newcastle Utd,0.16,,Blocked,7.0,Right Foot,Volley,Fabian Schär,Pass (Live),Fabian Schär,Interception
+11,54,Miguel Almirón,Newcastle Utd,0.05,,Off Target,20.0,Left Foot,,Callum Wilson,Pass (Live),,
+12,69,Miguel Almirón,Newcastle Utd,0.09,,Blocked,14.0,Left Foot,,Kieran Trippier,Pass (Live),Callum Wilson,Pass (Live)
+13,77,Joe Willock,Newcastle Utd,0.06,,Off Target,10.0,Head,,Kieran Trippier,Pass (Dead),Elliot Anderson,Fouled
+14,82,Fabian Schär,Newcastle Utd,0.12,0.09,Saved,6.0,Head,,Sven Botman,Pass (Live),Kieran Trippier,Pass (Dead)
+15,84,Joe Willock,Newcastle Utd,0.13,,Off Target,15.0,Right Foot,,Elliot Anderson,Pass (Live),Sven Botman,Pass (Live)
+16,86,Joe Willock,Newcastle Utd,0.13,,Off Target,8.0,Head,,Elliot Anderson,Pass (Live),Joe Willock,Pass (Live)
+17,90+2,Elliot Anderson,Newcastle Utd,0.13,,Blocked,15.0,Right Foot,,Sean Longstaff,Pass (Live),Bruno Guimarães,Pass (Live)

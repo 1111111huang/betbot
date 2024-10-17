@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Jan Bednarek,Southampton,0.21,0.07,Saved,7.0,Right Foot,,Mohammed Salisu,Pass (Live),Oriol Romeu,Pass (Live)
+1,14,Leander Dendoncker,Wolves,0.02,,Off Target,34.0,Right Foot,,João Moutinho,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+2,19,Romain Perraud,Southampton,0.03,0.23,Saved,19.0,Right Foot,,Oriol Romeu,Pass (Live),Nathan Tella,Pass (Live)
+3,26,Daniel Podence,Wolves,0.02,0.21,Saved,15.0,Left Foot,,Leander Dendoncker,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+4,33,Raúl Jiménez,Wolves,0.11,,Blocked,13.0,Left Foot,,Daniel Podence,Pass (Live),Francisco Trincão,Tackle
+5,37,Raúl Jiménez (pen),Wolves,0.79,0.98,Goal,13.0,Right Foot,,Rayan Aït-Nouri,Fouled,Raúl Jiménez,Shot
+6,40,Mohammed Salisu,Southampton,0.15,0.17,Saved,9.0,Head,,Oriol Romeu,Pass (Live),Nathan Redmond,Pass (Live)
+7,45+1,Oriol Romeu,Southampton,0.02,0.08,Saved,36.0,Right Foot,,Ibrahima Diallo,Pass (Live),Ibrahima Diallo,Take-On
+8,45+3,Mohammed Salisu,Southampton,0.04,0.05,Saved,11.0,Head,,James Ward-Prowse,Pass (Dead),,
+9,,,,,,,,,,,,,
+10,48,James Ward-Prowse,Southampton,0.04,0.14,Saved,32.0,Right Foot,,Mohammed Salisu,Pass (Live),James Ward-Prowse,Pass (Live)
+11,52,Lyanco,Southampton,0.01,,Off Target,28.0,Right Foot,Volley,Armando Broja,Pass (Live),Jan Bednarek,Pass (Dead)
+12,59,Max Kilman,Wolves,0.05,,Woodwork,13.0,Head,,Rayan Aït-Nouri,Pass (Dead),Daniel Podence,Fouled
+13,59,Conor Coady,Wolves,0.88,0.49,Goal,3.0,Head,,Max Kilman,Shot,,
+14,70,Armando Broja,Southampton,0.03,0.18,Saved,14.0,Head,,Oriol Romeu,Pass (Live),James Ward-Prowse,Pass (Live)
+15,71,James Ward-Prowse,Southampton,0.06,,Off Target,37.0,Right Foot,Free kick,Romain Perraud,Fouled,Nathan Redmond,Pass (Live)
+16,74,Che Adams,Southampton,0.04,0.13,Saved,15.0,Left Foot,,Nathan Redmond,Pass (Live),Che Adams,Pass (Live)
+17,84,James Ward-Prowse,Southampton,0.03,0.59,Goal,34.0,Right Foot,Free kick,Nathan Redmond,Fouled,,
+18,89,Romain Perraud,Southampton,0.05,,Woodwork,10.0,Head,,Jan Bednarek,Pass (Live),Stuart Armstrong,Pass (Live)
+19,89,Stuart Armstrong,Southampton,0.06,0.03,Saved,14.0,Right Foot,Volley,Romain Perraud,Shot,,
+20,90,Fábio Silva,Wolves,0.06,0.26,Saved,14.0,Right Foot,,Fábio Silva,Take-On,José Sá,Pass (Live)
+21,90,Adama Traoré,Wolves,0.33,,Woodwork,9.0,Left Foot,,Fábio Silva,Shot,,
+22,90+1,Adama Traoré,Wolves,0.42,0.85,Goal,8.0,Left Foot,,Rayan Aït-Nouri,Pass (Live),Leander Dendoncker,Pass (Live)

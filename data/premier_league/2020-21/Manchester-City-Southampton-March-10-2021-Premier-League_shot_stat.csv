@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,15,Phil Foden,Manchester City,0.11,0.12,Saved,9.0,Left Foot,,Oleksandr Zinchenko,Pass (Live),Rúben Dias,Pass (Live)
+1,15,Kevin De Bruyne,Manchester City,0.72,0.88,Goal,5.0,Left Foot,Volley,Phil Foden,Shot,,
+2,23,Nathan Redmond,Southampton,0.04,0.65,Saved,18.0,Right Foot,,Mohammed Salisu,Pass (Live),Jack Stephens,Pass (Live)
+3,24,Jannik Vestergaard,Southampton,0.04,0.08,Saved,12.0,Head,,James Ward-Prowse,Pass (Dead),Nathan Redmond,Shot
+4,25,James Ward-Prowse (pen),Southampton,0.79,0.85,Goal,13.0,Right Foot,,Jannik Vestergaard,Fouled,Jannik Vestergaard,Shot
+5,28,Oleksandr Zinchenko,Manchester City,0.03,,Blocked,21.0,Left Foot,,Kyle Walker,Pass (Live),Ederson,Pass (Live)
+6,28,Fernandinho,Manchester City,0.02,,Off Target,33.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),Kevin De Bruyne,Pass (Live)
+7,33,James Ward-Prowse,Southampton,0.02,0.04,Saved,33.0,Right Foot,,Che Adams,Pass (Live),Nathan Redmond,Pass (Live)
+8,36,James Ward-Prowse,Southampton,0.06,,Off Target,32.0,Right Foot,Free kick,Che Adams,Fouled,,
+9,37,Moussa Djenepo,Southampton,0.08,,Off Target,15.0,Right Foot,,Che Adams,Pass (Live),Nathan Redmond,Interception
+10,40,Riyad Mahrez,Manchester City,0.04,0.3,Goal,22.0,Left Foot,,,,,
+11,45+3,Riyad Mahrez,Manchester City,0.08,,Woodwork,10.0,Right Foot,,Riyad Mahrez,Take-On,Kevin De Bruyne,Pass (Live)
+12,45+3,İlkay Gündoğan,Manchester City,0.69,0.88,Goal,6.0,Right Foot,Volley,Riyad Mahrez,Shot,,
+13,,,,,,,,,,,,,
+14,50,Phil Foden,Manchester City,0.01,0.02,Saved,27.0,Left Foot,,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Dead)
+15,51,Kevin De Bruyne,Manchester City,0.04,0.03,Saved,16.0,Right Foot,,,,,
+16,55,Riyad Mahrez,Manchester City,0.07,0.28,Goal,15.0,Left Foot,Deflected,Riyad Mahrez,Take-On,Phil Foden,Pass (Live)
+17,56,Stuart Armstrong,Southampton,0.06,,Blocked,15.0,Left Foot,,Nathan Redmond,Pass (Live),,
+18,56,Che Adams,Southampton,0.51,0.84,Goal,7.0,Right Foot,,Stuart Armstrong,Shot,,
+19,58,Phil Foden,Manchester City,0.06,0.1,Saved,21.0,Left Foot,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Pass (Live)
+20,59,Kevin De Bruyne,Manchester City,0.28,0.58,Goal,16.0,Right Foot,,Kevin De Bruyne,Take-On,Phil Foden,Pass (Live)
+21,60,Jack Stephens,Southampton,0.06,,Off Target,10.0,Head,,James Ward-Prowse,Pass (Dead),Che Adams,Pass (Live)
+22,65,Stuart Armstrong,Southampton,0.02,,Blocked,26.0,Left Foot,,James Ward-Prowse,Fouled,Ryan Bertrand,Pass (Live)
+23,72,Phil Foden,Manchester City,0.06,,Off Target,20.0,Left Foot,,İlkay Gündoğan,Pass (Live),Phil Foden,Pass (Live)
+24,78,Ferrán Torres,Manchester City,0.28,,Off Target,11.0,Right Foot,,Fernandinho,Pass (Live),Kyle Walker,Pass (Live)
+25,83,James Ward-Prowse,Southampton,0.05,0.07,Saved,32.0,Right Foot,Free kick,Nathan Tella,Fouled,Jan Bednarek,Pass (Live)
+26,88,Bernardo Silva,Manchester City,0.05,,Off Target,14.0,Left Foot,,İlkay Gündoğan,Pass (Live),,
+27,90+1,Sergio Agüero,Manchester City,0.04,0.17,Saved,17.0,Right Foot,,Phil Foden,Pass (Live),Bernardo Silva,Pass (Live)
+28,90+2,Ferrán Torres,Manchester City,0.15,,Blocked,9.0,Left Foot,,Bernardo Silva,Pass (Live),Benjamin Mendy,Pass (Live)

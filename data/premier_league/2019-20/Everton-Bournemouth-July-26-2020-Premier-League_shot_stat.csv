@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Joshua King,Bournemouth,0.04,0.02,Saved,14.0,Right Foot,,Diego Rico,Pass (Live),David Brooks,Pass (Live)
+1,7,Séamus Coleman,Everton,0.07,0.03,Saved,16.0,Left Foot,,Séamus Coleman,Take-On,Theo Walcott,Pass (Live)
+2,9,Callum Wilson,Bournemouth,0.24,0.1,Saved,17.0,Right Foot,,Joshua King,Pass (Live),Dominic Solanke,Pass (Live)
+3,12,David Brooks,Bournemouth,0.05,,Blocked,31.0,Left Foot,Free kick,Joshua King,Fouled,Joshua King,Take-On
+4,13,Joshua King (pen),Bournemouth,0.79,0.99,Goal,13.0,Right Foot,,,Fouled,David Brooks,Shot
+5,16,Jefferson Lerma,Bournemouth,0.08,,Blocked,9.0,Head,,Diego Rico,Pass (Dead),Dan Gosling,Pass (Live)
+6,16,David Brooks,Bournemouth,0.05,,Blocked,15.0,Right Foot,,Diego Rico,Pass (Dead),Jefferson Lerma,Shot
+7,18,Richarlison,Everton,0.04,,Blocked,24.0,Right Foot,,Moise Kean,Pass (Live),Richarlison,Pass (Live)
+8,19,Theo Walcott,Everton,0.3,0.23,Saved,11.0,Right Foot,,Moise Kean,Pass (Live),Moise Kean,Take-On
+9,21,Callum Wilson,Bournemouth,0.05,0.03,Saved,11.0,Head,,Diego Rico,Pass (Live),,
+10,33,Richarlison,Everton,0.06,,Off Target,11.0,Head,,Theo Walcott,Pass (Live),Moise Kean,Pass (Live)
+11,35,Gylfi Sigurðsson,Everton,0.03,,Off Target,27.0,Right Foot,,Theo Walcott,Pass (Live),Theo Walcott,Take-On
+12,41,Moise Kean,Everton,0.79,0.96,Goal,3.0,Right Foot,,Theo Walcott,Pass (Live),Séamus Coleman,Pass (Live)
+13,43,Moise Kean,Everton,0.08,0.04,Saved,9.0,Head,,Lucas Digne,Pass (Live),Tom Davies,Pass (Live)
+14,45+1,Dominic Solanke,Bournemouth,0.07,0.29,Goal,12.0,Head,,Diego Rico,Pass (Dead),Dominic Solanke,Fouled
+15,45+2,Dominic Solanke,Bournemouth,0.05,,Blocked,23.0,Right Foot,,David Brooks,Pass (Live),Joshua King,Pass (Live)
+16,,,,,,,,,,,,,
+17,47,Richarlison,Everton,0.04,,Off Target,15.0,Head,,Moise Kean,Pass (Live),André Gomes,Pass (Live)
+18,48,Callum Wilson,Bournemouth,0.04,0.11,Saved,20.0,Left Foot,Volley,Aaron Ramsdale,Pass (Live),,
+19,60,Moise Kean,Everton,0.06,,Blocked,18.0,Right Foot,,Gylfi Sigurðsson,Pass (Live),Michael Keane,Pass (Live)
+20,62,Moise Kean,Everton,0.06,0.02,Saved,10.0,Head,,Lucas Digne,Pass (Live),Richarlison,Pass (Live)
+21,68,Dan Gosling,Bournemouth,0.03,,Off Target,30.0,Right Foot,,Junior Stanislas,Pass (Live),Philip Billing,Pass (Live)
+22,75,Anthony Gordon,Everton,0.11,,Off Target,11.0,Left Foot,,Djibril Sidibé,Pass (Live),André Gomes,Pass (Live)
+23,80,Junior Stanislas,Bournemouth,0.05,0.13,Goal,14.0,Right Foot,,Joshua King,Pass (Live),Junior Stanislas,Pass (Live)
+24,86,Richarlison,Everton,0.06,,Blocked,11.0,Left Foot,,Bernard,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+25,87,Michael Keane,Everton,0.06,,Off Target,10.0,Head,,Leighton Baines,Pass (Dead),Richarlison,Shot
+26,90+2,Harry Wilson,Bournemouth,0.04,,Off Target,23.0,Left Foot,,Callum Wilson,Pass (Live),Diego Rico,Pass (Live)

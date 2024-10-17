@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Lyanco,Southampton,0.02,0.07,Saved,28.0,Right Foot,,Stuart Armstrong,Pass (Live),Adam Armstrong,Pass (Live)
+1,7,Granit Xhaka,Arsenal,0.18,0.24,Saved,15.0,Left Foot,,Gabriel Martinelli,Pass (Live),Thomas Partey,Pass (Live)
+2,9,Martin Ødegaard,Arsenal,0.09,,Off Target,21.0,Left Foot,,Granit Xhaka,Pass (Live),Gabriel Martinelli,Pass (Live)
+3,11,Granit Xhaka,Arsenal,0.12,0.24,Goal,13.0,Right Foot,,Ben White,Pass (Live),Ben White,Pass (Live)
+4,24,Romain Perraud,Southampton,0.03,,Blocked,29.0,Left Foot,,Stuart Armstrong,Pass (Live),,
+5,25,Gabriel Jesus,Arsenal,0.07,,Off Target,13.0,Left Foot,,Martin Ødegaard,Pass (Live),Thomas Partey,Interception
+6,28,Adam Armstrong,Southampton,0.03,,Blocked,22.0,Left Foot,,Mohamed Elyounoussi,Pass (Live),James Ward-Prowse,Pass (Live)
+7,36,Joe Aribo,Southampton,0.08,,Blocked,7.0,Head,,James Ward-Prowse,Pass (Dead),James Ward-Prowse,Pass (Live)
+8,39,Gabriel Martinelli,Arsenal,0.04,,Blocked,22.0,Right Foot,,Gabriel Martinelli,Take-On,Granit Xhaka,Pass (Live)
+9,42,Bukayo Saka,Arsenal,0.02,,Blocked,22.0,Left Foot,,Ben White,Pass (Live),William Saliba,Pass (Live)
+10,44,Gabriel Jesus,Arsenal,0.04,,Blocked,27.0,Right Foot,,Granit Xhaka,Pass (Live),Bukayo Saka,Pass (Live)
+11,44,Gabriel Jesus,Arsenal,0.08,0.15,Saved,13.0,Right Foot,Volley,Martin Ødegaard,Pass (Live),Gabriel Jesus,Pass (Live)
+12,45+2,Stuart Armstrong,Southampton,0.05,,Blocked,15.0,Right Foot,,Romain Perraud,Pass (Live),Joe Aribo,Pass (Live)
+13,,,,,,,,,,,,,
+14,46,Romain Perraud,Southampton,0.04,,Off Target,24.0,Left Foot,,,,,
+15,60,Gabriel Jesus,Arsenal,0.16,,Blocked,18.0,Left Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+16,60,Bukayo Saka,Arsenal,0.05,,Off Target,21.0,Left Foot,Volley,Gabriel Jesus,Shot,,
+17,65,Stuart Armstrong,Southampton,0.3,0.55,Goal,12.0,Right Foot,,Mohamed Elyounoussi,Pass (Live),Romain Perraud,Pass (Live)
+18,67,Romain Perraud,Southampton,0.02,,Off Target,19.0,Left Foot,Volley,Romain Perraud,Take-On,Mohamed Elyounoussi,Pass (Live)
+19,70,Lyanco,Southampton,0.02,,Off Target,25.0,Right Foot,Volley,Stuart Armstrong,Pass (Live),Stuart Armstrong,Pass (Live)
+20,70,Joe Aribo,Southampton,0.09,0.06,Saved,13.0,Left Foot,,Romain Perraud,Pass (Live),Stuart Armstrong,Pass (Live)
+21,82,Eddie Nketiah,Arsenal,0.09,,Blocked,15.0,Right Foot,,Martin Ødegaard,Pass (Live),Thomas Partey,Pass (Live)
+22,90+6,Gabriel Magalhães,Arsenal,0.06,,Off Target,9.0,Head,,Thomas Partey,Pass (Dead),Gabriel Jesus,Pass (Dead)

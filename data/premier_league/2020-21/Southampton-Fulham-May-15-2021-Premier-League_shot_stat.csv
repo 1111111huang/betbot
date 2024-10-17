@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7.0,Josh Onomah,Fulham,0.04,,Off Target,17.0,Left Foot,,Ola Aina,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+1,9.0,Joachim Andersen,Fulham,0.1,,Off Target,5.0,Head,,Ivan Cavaleiro,Pass (Dead),Ivan Cavaleiro,Pass (Dead)
+2,12.0,Nathan Redmond,Southampton,0.05,,Off Target,12.0,Left Foot,,Takumi Minamino,Pass (Live),Stuart Armstrong,Pass (Live)
+3,16.0,Takumi Minamino,Southampton,0.06,,Blocked,11.0,Right Foot,Deflected,Che Adams,Pass (Live),,
+4,25.0,Joachim Andersen,Fulham,0.07,,Off Target,9.0,Head,,Ivan Cavaleiro,Pass (Dead),Fabio Carvalho,Pass (Live)
+5,27.0,Che Adams,Southampton,0.59,0.85,Goal,4.0,Right Foot,,James Ward-Prowse,Pass (Dead),Stuart Armstrong,Fouled
+6,30.0,Fabio Carvalho,Fulham,0.15,0.13,Saved,13.0,Right Foot,,Fabio Carvalho,Take-On,Ivan Cavaleiro,Pass (Live)
+7,36.0,James Ward-Prowse,Southampton,0.14,0.27,Saved,22.0,Right Foot,Free kick,Takumi Minamino,Fouled,,
+8,39.0,Joachim Andersen,Fulham,0.02,,Blocked,34.0,Right Foot,,Josh Onomah,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+9,,,,,,,,,,,,,
+10,51.0,Danny Ings,Southampton,0.05,,Off Target,11.0,Head,,James Ward-Prowse,Pass (Dead),James Ward-Prowse,Fouled
+11,56.0,Nathan Redmond,Southampton,0.05,,Blocked,21.0,Right Foot,,Danny Ings,Pass (Live),Stuart Armstrong,Pass (Live)
+12,59.0,Nathan Redmond,Southampton,0.06,0.06,Saved,12.0,Left Foot,,Che Adams,Pass (Live),,
+13,60.0,Nathan Tella,Southampton,0.41,0.53,Goal,8.0,Right Foot,,Kyle Walker-Peters,Pass (Live),Stuart Armstrong,Pass (Live)
+14,67.0,Joe Bryan,Fulham,0.05,,Off Target,25.0,Left Foot,,Ivan Cavaleiro,Pass (Live),Fabio Carvalho,Pass (Live)
+15,70.0,Stuart Armstrong,Southampton,0.04,,Blocked,22.0,Right Foot,,Nathan Redmond,Pass (Live),James Ward-Prowse,Pass (Live)
+16,72.0,Ademola Lookman,Fulham,0.07,,Blocked,16.0,Left Foot,,Fabio Carvalho,Pass (Live),Bobby Reid,Pass (Live)
+17,73.0,Bobby Reid,Fulham,0.09,,Blocked,15.0,Left Foot,,Joe Bryan,Pass (Live),Joe Bryan,Take-On
+18,75.0,Fabio Carvalho,Fulham,0.23,0.27,Goal,12.0,Right Foot,,Bobby Reid,Pass (Live),Kenny Tete,Pass (Live)
+19,82.0,Theo Walcott,Southampton,0.06,0.12,Goal,18.0,Right Foot,Deflected,Nathan Tella,Pass (Live),Che Adams,Pass (Live)
+20,84.0,Nathan Tella,Southampton,0.08,0.36,Saved,14.0,Right Foot,Deflected,Nathan Tella,Take-On,Che Adams,Pass (Live)
+21,88.0,Fabio Carvalho,Fulham,0.03,0.48,Saved,22.0,Left Foot,Deflected,Harrison Reed,Pass (Live),Josh Maja,Pass (Live)

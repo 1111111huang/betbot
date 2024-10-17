@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Andreas Pereira,Fulham,0.16,,Off Target,11.0,Right Foot,,Antonee Robinson,Pass (Live),Willian,Pass (Live)
+1,3,Willian,Fulham,0.06,,Off Target,15.0,Right Foot,,Andreas Pereira,Shot,,
+2,5,Willian,Fulham,0.04,,Off Target,19.0,Right Foot,,Kenny Tete,Pass (Live),João Palhinha,Pass (Live)
+3,9,Wilfred Ndidi,Leicester City,0.02,0.27,Saved,26.0,Right Foot,Deflected,Marc Albrighton,Pass (Live),Timothy Castagne,Pass (Dead)
+4,14,Aleksandar Mitrović,Fulham,0.1,,Blocked,9.0,Head,,Harrison Reed,Pass (Live),Bobby Reid,Pass (Live)
+5,17,Aleksandar Mitrović,Fulham,0.52,0.87,Goal,10.0,Left Foot,Volley,Willian,Pass (Live),,
+6,21,Aleksandar Mitrović,Fulham,0.13,,Off Target,18.0,Right Foot,,Bobby Reid,Pass (Live),Tosin Adarabioyo,Pass (Live)
+7,21,João Palhinha,Fulham,0.03,,Off Target,25.0,Right Foot,,João Palhinha,Interception,,
+8,24,Ayoze Pérez,Leicester City,0.46,,Off Target,7.0,Right Foot,,Youri Tielemans,Pass (Live),Marc Albrighton,Pass (Live)
+9,28,Harvey Barnes,Leicester City,0.04,,Blocked,19.0,Right Foot,,Ayoze Pérez,Pass (Live),Youri Tielemans,Pass (Live)
+10,28,Jamie Vardy,Leicester City,0.11,0.1,Saved,5.0,Head,Deflected,Harvey Barnes,Shot,,
+11,29,Youri Tielemans,Leicester City,0.02,,Blocked,30.0,Right Foot,Volley,Jamie Vardy,Shot,,
+12,42,Timothy Castagne,Leicester City,0.13,,Off Target,11.0,Head,,Marc Albrighton,Pass (Live),Ayoze Pérez,Pass (Live)
+13,45+1,Harrison Reed,Fulham,0.02,,Off Target,24.0,Right Foot,,Andreas Pereira,Fouled,Antonee Robinson,Pass (Live)
+14,45+3,Tosin Adarabioyo,Fulham,0.02,0.05,Saved,32.0,Right Foot,Deflected,Aleksandar Mitrović,Take-On,Harrison Reed,Pass (Live)
+15,,,,,,,,,,,,,
+16,47,Aleksandar Mitrović,Fulham,0.02,,Blocked,34.0,Right Foot,,Andreas Pereira,Pass (Live),Antonee Robinson,Pass (Live)
+17,51,Harvey Barnes,Leicester City,0.35,0.27,Saved,17.0,Right Foot,,Luke Thomas,Pass (Live),Jamie Vardy,Pass (Live)
+18,56,Jamie Vardy,Leicester City,0.19,0.37,Saved,13.0,Right Foot,,Ayoze Pérez,Pass (Live),Youri Tielemans,Pass (Live)
+19,59,Youri Tielemans,Leicester City,0.02,,Off Target,26.0,Left Foot,,Timothy Castagne,Pass (Live),Timothy Castagne,Take-On
+20,77,Ayoze Pérez,Leicester City,0.07,0.32,Saved,21.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Youri Tielemans,Pass (Live)
+21,80,Youri Tielemans,Leicester City,0.06,,Blocked,27.0,Right Foot,Free kick,Harvey Barnes,Fouled,Ayoze Pérez,Pass (Live)
+22,80,Youri Tielemans,Leicester City,0.03,,Woodwork,20.0,Right Foot,Volley,Youri Tielemans,Shot,,
+23,80,Ayoze Pérez,Leicester City,0.05,0.11,Saved,17.0,Right Foot,,Marc Albrighton,Pass (Live),Ayoze Pérez,Pass (Live)
+24,84,Youri Tielemans,Leicester City,0.02,,Off Target,29.0,Left Foot,,Youri Tielemans,Take-On,Daniel Amartey,Pass (Live)
+25,90+1,Harry Wilson,Fulham,0.58,,Off Target,15.0,Left Foot,,Tom Cairney,Pass (Live),Tim Ream,Pass (Live)
+26,90+6,Ayoze Pérez,Leicester City,0.14,,Off Target,16.0,Left Foot,,Timothy Castagne,Pass (Live),Youri Tielemans,Pass (Live)

@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Allan,Everton,0.04,0.13,Saved,22.0,Right Foot,,Demarai Gray,Pass (Live),Allan,Pass (Live)
+1,5.0,Adam Armstrong,Southampton,0.02,,Off Target,12.0,Head,,James Ward-Prowse,Pass (Dead),Che Adams,Fouled
+2,10.0,Dominic Calvert-Lewin,Everton,0.2,,Off Target,6.0,Head,,Demarai Gray,Pass (Live),Séamus Coleman,Pass (Live)
+3,22.0,Adam Armstrong,Southampton,0.57,0.96,Goal,15.0,Right Foot,,Che Adams,Pass (Live),Che Adams,Tackle
+4,34.0,Lucas Digne,Everton,0.09,,Blocked,25.0,Left Foot,Free kick,Dominic Calvert-Lewin,Fouled,Demarai Gray,Pass (Live)
+5,35.0,Dominic Calvert-Lewin,Everton,0.3,,Off Target,7.0,Head,,Andros Townsend,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+6,41.0,Adam Armstrong,Southampton,0.01,0.07,Saved,16.0,Left Foot,Volley,,,,
+7,44.0,Lucas Digne,Everton,0.01,,Off Target,26.0,Left Foot,Volley,Mason Holgate,Pass (Live),Demarai Gray,Pass (Live)
+8,,,,,,,,,,,,,
+9,47.0,Richarlison,Everton,0.62,0.38,Goal,5.0,Left Foot,Volley,Andros Townsend,Pass (Live),,
+10,51.0,Michael Keane,Everton,0.08,,Blocked,9.0,Left Foot,,Lucas Digne,Pass (Live),Séamus Coleman,Pass (Live)
+11,51.0,Dominic Calvert-Lewin,Everton,0.21,0.4,Saved,3.0,Right Foot,Volley,Michael Keane,Shot,,
+12,54.0,Abdoulaye Doucouré,Everton,0.04,,Blocked,10.0,Head,,Andros Townsend,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+13,72.0,Mohammed Salisu,Southampton,0.05,0.05,Saved,17.0,Left Foot,Volley,Romain Perraud,Pass (Live),Moussa Djenepo,Pass (Live)
+14,74.0,Alex Iwobi,Everton,0.08,,Off Target,11.0,Right Foot,Volley,Séamus Coleman,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+15,76.0,Abdoulaye Doucouré,Everton,0.04,0.56,Goal,16.0,Right Foot,,Alex Iwobi,Pass (Live),Séamus Coleman,Pass (Live)
+16,78.0,Oriol Romeu,Southampton,0.01,,Blocked,26.0,Right Foot,Volley,Moussa Djenepo,Pass (Live),Mohammed Salisu,Pass (Live)
+17,81.0,Dominic Calvert-Lewin,Everton,0.37,0.65,Goal,6.0,Head,,Richarlison,Pass (Live),Alex Iwobi,Pass (Live)
+18,85.0,Dominic Calvert-Lewin,Everton,0.07,,Off Target,15.0,Right Foot,,Lucas Digne,Pass (Live),Richarlison,Pass (Live)
+19,87.0,Ibrahima Diallo,Southampton,0.19,,Blocked,7.0,Head,,James Ward-Prowse,Pass (Dead),Che Adams,Fouled
+20,88.0,Alex Iwobi,Everton,0.27,0.85,Saved,14.0,Left Foot,,Richarlison,Pass (Live),Lucas Digne,Pass (Live)

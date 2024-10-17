@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,17,Romelu Lukaku,Chelsea,0.05,,Off Target,28.0,Left Foot,Free kick,Mateo Kovačić,Fouled,Ruben Loftus-Cheek,Pass (Live)
+1,21,Ivan Toney,Brentford,0.08,,Blocked,10.0,Head,,Mathias Jørgensen,Pass (Live),Mathias Jensen,Pass (Live)
+2,22,Bryan Mbeumo,Brentford,0.09,,Woodwork,8.0,Left Foot,Volley,Christian Nørgaard,Pass (Live),Ethan Pinnock,Pass (Live)
+3,27,Mateo Kovačić,Chelsea,0.05,,Blocked,30.0,Right Foot,Free kick,Mateo Kovačić,Fouled,,
+4,37,Timo Werner,Chelsea,0.08,,Off Target,21.0,Right Foot,,Romelu Lukaku,Pass (Live),Ben Chilwell,Pass (Live)
+5,45,Ben Chilwell,Chelsea,0.14,0.24,Goal,17.0,Left Foot,,N'Golo Kanté,Pass (Live),César Azpilicueta,Pass (Live)
+6,,,,,,,,,,,,,
+7,48,Mateo Kovačić,Chelsea,0.02,,Off Target,28.0,Right Foot,,N'Golo Kanté,Pass (Live),Trevoh Chalobah,Pass (Live)
+8,73,Ivan Toney,Brentford,0.07,0.21,Saved,14.0,Right Foot,Volley,Ethan Pinnock,Pass (Live),Mathias Jørgensen,Pass (Dead)
+9,75,Bryan Mbeumo,Brentford,0.19,,Woodwork,18.0,Left Foot,,Christian Nørgaard,Pass (Live),Bryan Mbeumo,Take-On
+10,75,Marcus Forss,Brentford,0.07,,Blocked,16.0,Left Foot,,Bryan Mbeumo,Shot,,
+11,79,Marcus Forss,Brentford,0.03,,Blocked,22.0,Left Foot,,,,,
+12,80,Saman Ghoddos,Brentford,0.02,0.05,Saved,21.0,Right Foot,Volley,,,,
+13,83,Saman Ghoddos,Brentford,0.14,0.14,Saved,11.0,Right Foot,,,,,
+14,84,Christian Nørgaard,Brentford,0.09,,Blocked,9.0,Left Foot,,Christian Nørgaard,Take-On,Saman Ghoddos,Shot
+15,84,Ethan Pinnock,Brentford,0.21,0.05,Saved,7.0,Head,,Rico Henry,Pass (Live),Mathias Jørgensen,Pass (Dead)
+16,85,Christian Nørgaard,Brentford,0.07,,Blocked,14.0,Right Foot,,Rico Henry,Pass (Live),Christian Nørgaard,Pass (Live)
+17,86,Pontus Jansson,Brentford,0.23,0.47,Saved,5.0,Right Foot,Volley,Ethan Pinnock,Pass (Live),Saman Ghoddos,Pass (Live)
+18,87,Christian Nørgaard,Brentford,0.02,,Off Target,25.0,Right Foot,Volley,Ethan Pinnock,Pass (Live),Christian Nørgaard,Pass (Live)
+19,90+3,Christian Nørgaard,Brentford,0.17,0.13,Saved,12.0,Right Foot,Volley,Mathias Jørgensen,Pass (Live),Ethan Pinnock,Pass (Live)
+20,90+3,Christian Nørgaard,Brentford,0.03,,Blocked,12.0,Head,,Mathias Jensen,Pass (Live),Saman Ghoddos,Pass (Live)
+21,90+3,Saman Ghoddos,Brentford,0.01,,Blocked,29.0,Right Foot,Volley,Christian Nørgaard,Shot,,
+22,90+6,Christian Nørgaard,Brentford,0.03,,Blocked,14.0,Head,,Saman Ghoddos,Shot,,

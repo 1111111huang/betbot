@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Ashley Barnes,Burnley,0.03,,Off Target,26.0,Left Foot,,Ashley Westwood,Pass (Live),Chris Wood,Pass (Live)
+1,15,Dwight McNeil,Burnley,0.03,,Off Target,17.0,Left Foot,,Ashley Westwood,Pass (Live),Dwight McNeil,Pass (Dead)
+2,17,Jack Cork,Burnley,0.07,,Off Target,10.0,Left Foot,,James Tarkowski,Pass (Live),Dwight McNeil,Pass (Live)
+3,18,Pascal Groß,Brighton,0.06,,Off Target,13.0,Left Foot,,Solly March,Pass (Live),,
+4,37,Aaron Lennon,Burnley,0.04,,Off Target,15.0,Right Foot,Volley,Erik Pieters,Pass (Live),Dwight McNeil,Pass (Live)
+5,38,Solly March,Brighton,0.05,0.16,Saved,12.0,Left Foot,Deflected,Pascal Groß,Pass (Live),Davy Pröpper,Pass (Live)
+6,41,Glenn Murray,Brighton,0.34,,Off Target,7.0,Head,,Solly March,Pass (Live),Neal Maupay,Pass (Live)
+7,45,Glenn Murray,Brighton,0.06,0.49,Saved,20.0,Right Foot,,Pascal Groß,Pass (Live),Dale Stephens,Pass (Live)
+8,45+1,Davy Pröpper,Brighton,0.03,,Blocked,19.0,Left Foot,,Glenn Murray,Shot,,
+9,,,,,,,,,,,,,
+10,48,Dale Stephens,Brighton,0.04,,Blocked,18.0,Right Foot,,Pascal Groß,Pass (Dead),Adam Webster,Pass (Dead)
+11,48,Davy Pröpper,Brighton,0.02,,Off Target,23.0,Right Foot,Volley,Dale Stephens,Shot,,
+12,49,Neal Maupay,Brighton,0.07,0.19,Saved,15.0,Right Foot,,Dan Burn,Pass (Live),Lewis Dunk,Pass (Live)
+13,51,Neal Maupay,Brighton,0.1,0.42,Goal,12.0,Right Foot,Volley,Solly March,Pass (Live),Davy Pröpper,Pass (Live)
+14,57,Pascal Groß,Brighton,0.03,,Off Target,30.0,Right Foot,,Davy Pröpper,Pass (Live),Glenn Murray,Pass (Live)
+15,58,Davy Pröpper,Brighton,0.42,,Off Target,7.0,Head,,Pascal Groß,Pass (Live),Davy Pröpper,Pass (Live)
+16,62,Ashley Westwood,Burnley,0.06,,Off Target,16.0,Right Foot,Volley,Matthew Lowton,Pass (Live),Jeff Hendrick,Pass (Live)
+17,62,Chris Wood,Burnley,0.13,,Off Target,9.0,Right Foot,Volley,Ashley Westwood,Shot,,
+18,77,Glenn Murray,Brighton,0.05,,Off Target,23.0,Right Foot,,Pascal Groß,Pass (Live),Dale Stephens,Pass (Live)
+19,90,Aaron Connolly,Brighton,0.08,,Off Target,12.0,Left Foot,,Pascal Groß,Pass (Live),Shane Duffy,Pass (Live)
+20,90+1,Jeff Hendrick,Burnley,0.03,0.41,Goal,30.0,Right Foot,,Matěj Vydra,Pass (Live),Dwight McNeil,Pass (Live)
+21,90+4,Aaron Connolly,Brighton,0.05,0.03,Saved,15.0,Head,,Pascal Groß,Pass (Live),Pascal Groß,Pass (Live)

@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,17,Jarrod Bowen,West Ham,0.05,0.57,Goal,16.0,Left Foot,,Pablo Fornals,Pass (Dead),Michail Antonio,Fouled
+1,19,Michail Antonio,West Ham,0.04,0.18,Saved,17.0,Right Foot,,Michail Antonio,Take-On,Aaron Cresswell,Pass (Live)
+2,23,Raúl Jiménez,Wolves,0.08,,Blocked,13.0,Left Foot,Volley,Pedro Neto,Pass (Live),Pedro Neto,Take-On
+3,25,Tomáš Souček,West Ham,0.06,0.04,Saved,12.0,Right Foot,,Arthur Masuaku,Pass (Live),Michail Antonio,Pass (Live)
+4,28,Pedro Neto,Wolves,0.03,,Off Target,26.0,Left Foot,,João Moutinho,Pass (Live),Willy Boly,Pass (Live)
+5,29,Tomáš Souček,West Ham,0.09,0.02,Saved,8.0,Head,,Arthur Masuaku,Pass (Dead),,
+6,36,João Moutinho,Wolves,0.03,,Blocked,28.0,Right Foot,Volley,Rúben Neves,Pass (Live),Nélson Semedo,Pass (Live)
+7,37,Raúl Jiménez,Wolves,0.04,0.18,Saved,11.0,Head,,Pedro Neto,Pass (Dead),João Moutinho,Shot
+8,37,Tomáš Souček,West Ham,0.06,,Blocked,12.0,Head,,Ryan Fredericks,Pass (Live),Ryan Fredericks,Tackle
+9,38,Michail Antonio,West Ham,0.07,,Off Target,13.0,Right Foot,,Aaron Cresswell,Pass (Live),Arthur Masuaku,Pass (Live)
+10,43,Michail Antonio,West Ham,0.05,0.08,Saved,14.0,Right Foot,,Ryan Fredericks,Pass (Live),,
+11,43,Pablo Fornals,West Ham,0.39,,Off Target,11.0,Right Foot,,Michail Antonio,Shot,,
+12,45,Rúben Neves,Wolves,0.06,0.15,Saved,21.0,Right Foot,,Pedro Neto,Pass (Live),João Moutinho,Pass (Live)
+13,,,,,,,,,,,,,
+14,52,Angelo Ogbonna,West Ham,0.17,,Off Target,8.0,Head,,Aaron Cresswell,Pass (Dead),Michail Antonio,Fouled
+15,56,João Moutinho,Wolves,0.04,,Off Target,25.0,Right Foot,Volley,Nélson Semedo,Pass (Live),João Moutinho,Pass (Live)
+16,57,Pablo Fornals,West Ham,0.03,,Woodwork,23.0,Right Foot,,Michail Antonio,Pass (Live),Aaron Cresswell,Pass (Live)
+17,57,Jarrod Bowen,West Ham,0.59,0.61,Goal,7.0,Left Foot,,Pablo Fornals,Shot,,
+18,64,Jarrod Bowen,West Ham,0.58,,Off Target,4.0,Left Foot,Volley,Arthur Masuaku,Pass (Live),Aaron Cresswell,Pass (Dead)
+19,66,Tomáš Souček,West Ham,0.07,,Off Target,5.0,Head,,Aaron Cresswell,Pass (Dead),,
+20,73,Tomáš Souček,West Ham,0.04,,Off Target,29.0,Right Foot,,Arthur Masuaku,Pass (Live),Arthur Masuaku,Take-On
+21,78,Fábio Silva,Wolves,0.05,,Blocked,11.0,Head,,Rúben Vinagre,Pass (Live),Rúben Neves,Pass (Dead)
+22,79,Rúben Neves,Wolves,0.03,,Off Target,30.0,Right Foot,,Vitinha,Pass (Live),Vitinha,Take-On
+23,80,Fábio Silva,Wolves,0.06,,Blocked,13.0,Right Foot,Volley,Ki-Jana Hoever,Pass (Live),Pedro Neto,Pass (Live)
+24,81,Rúben Neves,Wolves,0.02,,Blocked,31.0,Right Foot,,Fábio Silva,Shot,,
+25,87,Pedro Neto,Wolves,0.03,,Off Target,23.0,Right Foot,,Fábio Silva,Pass (Live),Pedro Neto,Pass (Live)
+26,90+3,Sébastien Haller,West Ham,0.08,0.2,Goal,9.0,Head,,Arthur Masuaku,Pass (Live),Declan Rice,Pass (Live)

@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8.0,João Moutinho,Wolves,0.03,,Blocked,24.0,Right Foot,,Diogo Jota,Pass (Live),Rúben Neves,Tackle
+1,13.0,Raúl Jiménez,Wolves,0.06,0.18,Saved,9.0,Head,,Jonny Castro,Pass (Live),Matt Doherty,Pass (Live)
+2,14.0,Pablo Fornals,West Ham,0.25,,Off Target,13.0,Right Foot,Volley,Mark Noble,Pass (Live),Issa Diop,Pass (Live)
+3,20.0,Tomáš Souček,West Ham,0.03,,Blocked,29.0,Right Foot,,,,,
+4,31.0,Diogo Jota,Wolves,0.05,0.23,Saved,11.0,Left Foot,,Raúl Jiménez,Pass (Live),Raúl Jiménez,Take-On
+5,33.0,Raúl Jiménez,Wolves,0.05,,Blocked,15.0,Right Foot,,Diogo Jota,Pass (Live),Diogo Jota,Take-On
+6,34.0,Diogo Jota,Wolves,0.04,0.16,Saved,20.0,Right Foot,,João Moutinho,Pass (Live),Rúben Neves,Pass (Live)
+7,36.0,Raúl Jiménez,Wolves,0.06,,Blocked,22.0,Right Foot,Volley,Matt Doherty,Pass (Live),Leander Dendoncker,Pass (Live)
+8,40.0,Romain Saïss,Wolves,0.02,0.07,Saved,37.0,Left Foot,,Jonny Castro,Pass (Live),Diogo Jota,Pass (Live)
+9,,,,,,,,,,,,,
+10,49.0,Jeremy Ngakia,West Ham,0.02,0.06,Saved,33.0,Left Foot,,Mark Noble,Pass (Live),Michail Antonio,Pass (Live)
+11,63.0,João Moutinho,Wolves,0.06,,Off Target,28.0,Right Foot,Volley,Raúl Jiménez,Pass (Live),João Moutinho,Pass (Live)
+12,73.0,Raúl Jiménez,Wolves,0.6,0.92,Goal,4.0,Head,,Adama Traoré,Pass (Live),Matt Doherty,Pass (Live)
+13,75.0,Declan Rice,West Ham,0.12,0.24,Saved,3.0,Head,,Jarrod Bowen,Pass (Dead),Michail Antonio,Pass (Live)
+14,78.0,Pablo Fornals,West Ham,0.04,,Blocked,18.0,Right Foot,,Mark Noble,Pass (Live),,
+15,83.0,Michail Antonio,West Ham,0.04,,Off Target,27.0,Right Foot,,Michail Antonio,Take-On,Michail Antonio,Take-On
+16,84.0,Pedro Neto,Wolves,0.05,0.32,Goal,11.0,Left Foot,Volley,Matt Doherty,Pass (Live),Adama Traoré,Pass (Live)
+17,87.0,Manuel Lanzini,West Ham,0.02,,Blocked,30.0,Right Foot,,Andriy Yarmolenko,Pass (Live),,

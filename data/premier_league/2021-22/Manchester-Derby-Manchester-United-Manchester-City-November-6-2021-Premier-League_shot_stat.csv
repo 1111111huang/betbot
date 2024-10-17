@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Bernardo Silva,Manchester City,0.06,,Off Target,16.0,Left Foot,,Bernardo Silva,Take-On,Kevin De Bruyne,Pass (Live)
+1,6.0,Harry Maguire,Manchester Utd,0.08,,Off Target,10.0,Head,,Luke Shaw,Pass (Dead),Cristiano Ronaldo,Fouled
+2,7.0,Kevin De Bruyne,Manchester City,0.02,,Blocked,24.0,Left Foot,,Gabriel Jesus,Pass (Live),Bernardo Silva,Pass (Live)
+3,7.0,İlkay Gündoğan,Manchester City,0.27,,Off Target,4.0,Left Foot,,Kyle Walker,Pass (Live),Gabriel Jesus,Pass (Live)
+4,26.0,Cristiano Ronaldo,Manchester Utd,0.13,0.02,Saved,14.0,Left Foot,Volley,Luke Shaw,Pass (Live),Bruno Fernandes,Pass (Live)
+5,26.0,Mason Greenwood,Manchester Utd,0.73,,Off Target,8.0,Right Foot,,Cristiano Ronaldo,Shot,,
+6,29.0,Kevin De Bruyne,Manchester City,0.13,,Blocked,14.0,Left Foot,,Phil Foden,Pass (Live),İlkay Gündoğan,Pass (Live)
+7,29.0,Gabriel Jesus,Manchester City,0.21,0.17,Saved,9.0,Right Foot,,Kevin De Bruyne,Shot,,
+8,29.0,João Cancelo,Manchester City,0.02,0.06,Saved,28.0,Left Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+9,30.0,João Cancelo,Manchester City,0.03,,Off Target,22.0,Right Foot,Volley,Kevin De Bruyne,Pass (Dead),João Cancelo,Shot
+10,34.0,Kevin De Bruyne,Manchester City,0.11,0.09,Saved,12.0,Right Foot,,Gabriel Jesus,Pass (Live),Kyle Walker,Pass (Live)
+11,35.0,João Cancelo,Manchester City,0.03,0.02,Saved,20.0,Right Foot,,Gabriel Jesus,Pass (Live),Kevin De Bruyne,Shot
+12,45.0,Bernardo Silva,Manchester City,0.22,0.19,Goal,3.0,Left Foot,Volley,João Cancelo,Pass (Live),Bernardo Silva,Pass (Live)
+13,,,,,,,,,,,,,
+14,59.0,Mason Greenwood,Manchester Utd,0.03,,Off Target,31.0,Left Foot,,Fred,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+15,66.0,İlkay Gündoğan,Manchester City,0.13,,Woodwork,12.0,Left Foot,,Rodri,Pass (Live),Kyle Walker,Pass (Live)
+16,76.0,João Cancelo,Manchester City,0.02,,Blocked,25.0,Right Foot,Deflected,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+17,76.0,Kevin De Bruyne,Manchester City,0.07,,Off Target,12.0,Right Foot,Volley,João Cancelo,Shot,,
+18,79.0,Bruno Fernandes,Manchester Utd,0.03,,Blocked,23.0,Right Foot,,,,,
+19,81.0,Phil Foden,Manchester City,0.16,,Woodwork,15.0,Left Foot,,Kevin De Bruyne,Pass (Live),Gabriel Jesus,Pass (Live)
+20,86.0,Rodri,Manchester City,0.07,,Blocked,10.0,Head,,Phil Foden,Pass (Dead),Phil Foden,Pass (Live)
+21,86.0,John Stones,Manchester City,0.12,,Off Target,9.0,Left Foot,,Rodri,Shot,,

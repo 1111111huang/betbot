@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Kelechi Iheanacho,Leicester City,0.2,,Off Target,10.0,Head,,Marc Albrighton,Pass (Live),Jonny Evans,Pass (Live)
+1,11,Youri Tielemans,Leicester City,0.03,,Blocked,31.0,Right Foot,,Wilfred Ndidi,Pass (Live),Kelechi Iheanacho,Pass (Live)
+2,14,James Justin,Leicester City,0.04,,Woodwork,18.0,Right Foot,,Youri Tielemans,Pass (Live),Ben Chilwell,Pass (Live)
+3,14,James Justin,Leicester City,0.02,,Off Target,32.0,Right Foot,,Ayoze Pérez,Pass (Live),Jamie Vardy,Pass (Live)
+4,17,Kelechi Iheanacho,Leicester City,0.68,0.93,Saved,3.0,Left Foot,Volley,Wilfred Ndidi,Shot,,
+5,17,Wilfred Ndidi,Leicester City,0.03,,Blocked,11.0,Head,,Marc Albrighton,Pass (Dead),,
+6,17,Ayoze Pérez,Leicester City,0.08,,Blocked,12.0,Right Foot,,Jonny Evans,Pass (Live),,
+7,19,Kelechi Iheanacho,Leicester City,0.04,,Blocked,24.0,Right Foot,,Kelechi Iheanacho,Take-On,Çağlar Söyüncü,Pass (Live)
+8,32,Luka Milivojević,Crystal Palace,0.07,,Off Target,26.0,Right Foot,Free kick,Patrick van Aanholt,Fouled,Wilfried Zaha,Pass (Live)
+9,38,Christian Benteke,Crystal Palace,0.05,,Off Target,13.0,Head,,Wilfried Zaha,Pass (Live),Luka Milivojević,Pass (Dead)
+10,,,,,,,,,,,,,
+11,48,Jamie Vardy,Leicester City,0.04,,Off Target,15.0,Head,,Marc Albrighton,Pass (Live),Youri Tielemans,Pass (Live)
+12,49,Kelechi Iheanacho,Leicester City,0.57,0.97,Goal,6.0,Right Foot,,Youri Tielemans,Pass (Live),Ayoze Pérez,Pass (Live)
+13,55,Christian Benteke,Crystal Palace,0.03,,Off Target,27.0,Right Foot,,Patrick van Aanholt,Pass (Live),Christian Benteke,Pass (Live)
+14,55,Jamie Vardy,Leicester City,0.06,,Off Target,11.0,Left Foot,,Ayoze Pérez,Pass (Live),Youri Tielemans,Pass (Live)
+15,60,Gary Cahill,Crystal Palace,0.05,0.12,Saved,11.0,Head,,James McArthur,Pass (Live),Wilfried Zaha,Pass (Live)
+16,72,Jamie Vardy,Leicester City,0.06,,Blocked,21.0,Left Foot,,Jamie Vardy,Take-On,Youri Tielemans,Pass (Live)
+17,77,Jamie Vardy,Leicester City,0.2,,Off Target,14.0,Left Foot,,Kasper Schmeichel,Pass (Dead),,
+18,77,Jamie Vardy,Leicester City,0.35,0.35,Goal,11.0,Right Foot,,Harvey Barnes,Pass (Live),,
+19,87,Jordan Ayew,Crystal Palace,0.06,,Blocked,11.0,Right Foot,,Andros Townsend,Pass (Live),Andros Townsend,Take-On
+20,89,Wilfried Zaha,Crystal Palace,0.47,,Off Target,5.0,Right Foot,,Andros Townsend,Pass (Live),Gary Cahill,Pass (Live)
+21,90+1,James McCarthy,Crystal Palace,0.03,,Off Target,16.0,Right Foot,,Mamadou Sakho,Pass (Live),James McCarthy,Pass (Live)
+22,90+4,Jamie Vardy,Leicester City,0.45,0.81,Goal,12.0,Right Foot,,Harvey Barnes,Pass (Live),Christian Fuchs,Pass (Live)

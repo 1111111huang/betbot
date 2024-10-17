@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Eberechi Eze,Crystal Palace,0.04,,Off Target,25.0,Right Foot,Free kick,Michael Olise,Fouled,Michael Olise,Take-On
+1,7,Joachim Andersen,Crystal Palace,0.01,0.04,Saved,38.0,Right Foot,,Chris Richards,Pass (Live),Jordan Ayew,Pass (Live)
+2,8,Michael Olise,Crystal Palace,0.01,,Blocked,19.0,Left Foot,,Eberechi Eze,Pass (Live),,
+3,9,Ian Maatsen,Chelsea,0.36,,Blocked,18.0,Right Foot,Deflected,Mykhailo Mudryk,Pass (Live),Christopher Nkunku,Pass (Live)
+4,13,Mykhailo Mudryk,Chelsea,0.29,0.56,Goal,8.0,Right Foot,,Malo Gusto,Pass (Live),Christopher Nkunku,Pass (Live)
+5,16,Christopher Nkunku,Chelsea,0.05,,Off Target,12.0,Head,,Conor Gallagher,Pass (Dead),Nicolas Jackson,Fouled
+6,22,Mykhailo Mudryk,Chelsea,0.11,0.32,Saved,10.0,Left Foot,,Nicolas Jackson,Pass (Live),Moisés Caicedo,Pass (Live)
+7,29,Eberechi Eze,Crystal Palace,0.05,,Blocked,16.0,Right Foot,,Jean-Philippe Mateta,Pass (Live),Jean-Philippe Mateta,Take-On
+8,34,Ian Maatsen,Chelsea,0.03,,Blocked,19.0,Left Foot,,Malo Gusto,Pass (Live),Christopher Nkunku,Pass (Live)
+9,43,Mykhailo Mudryk,Chelsea,0.09,,Blocked,18.0,Right Foot,Volley,Christopher Nkunku,Pass (Live),Ian Maatsen,Pass (Live)
+10,45+1,Michael Olise,Crystal Palace,0.53,0.69,Goal,8.0,Left Foot,,Jordan Ayew,Pass (Live),,
+11,,,,,,,,,,,,,
+12,53,Eberechi Eze,Crystal Palace,0.04,,Off Target,35.0,Right Foot,Free kick,Michael Olise,Fouled,Michael Olise,Take-On
+13,55,Jean-Philippe Mateta,Crystal Palace,0.09,0.15,Saved,15.0,Right Foot,,Jean-Philippe Mateta,Take-On,Michael Olise,Pass (Live)
+14,56,Michael Olise,Crystal Palace,0.03,,Off Target,15.0,Left Foot,Volley,Eberechi Eze,Pass (Dead),Jean-Philippe Mateta,Shot
+15,60,Eberechi Eze,Crystal Palace,0.07,,Blocked,17.0,Left Foot,,Jean-Philippe Mateta,Pass (Live),Jean-Philippe Mateta,Tackle
+16,74,Nicolas Jackson,Chelsea,0.64,,Off Target,12.0,Right Foot,,Conor Gallagher,Pass (Live),Moisés Caicedo,Pass (Live)
+17,81,Michael Olise,Crystal Palace,0.06,,Blocked,16.0,Left Foot,,Jeffrey Schlupp,Pass (Live),Eberechi Eze,Pass (Live)
+18,81,Michael Olise,Crystal Palace,0.1,0.21,Saved,14.0,Right Foot,,Michael Olise,Shot,,
+19,83,Armando Broja,Chelsea,0.21,,Off Target,12.0,Left Foot,,Thiago Silva,Pass (Live),Đorđe Petrović,Pass (Live)
+20,89,Noni Madueke (pen),Chelsea,0.79,0.98,Goal,13.0,Left Foot,,Noni Madueke,Fouled,Moisés Caicedo,Pass (Live)
+21,90+4,Michael Olise,Crystal Palace,0.03,0.22,Saved,16.0,Left Foot,,Eberechi Eze,Pass (Live),Michael Olise,Pass (Live)
+22,90+7,Matheus França,Crystal Palace,0.05,,Blocked,21.0,Right Foot,,Michael Olise,Pass (Live),Joachim Andersen,Pass (Live)

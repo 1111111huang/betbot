@@ -1,0 +1,17 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,15.0,Jean-Philippe Mateta,Crystal Palace,0.1,0.02,Goal,17.0,Left Foot,Deflected,Michael Olise,Pass (Live),Joachim Andersen,Pass (Live)
+1,17.0,Emmanuel Dennis,Watford,0.03,,Blocked,19.0,Right Foot,,Tom Cleverley,Pass (Live),Imran Louza,Pass (Live)
+2,18.0,Moussa Sissoko,Watford,0.44,0.88,Goal,2.0,Head,,Kiko Femenía,Pass (Dead),Emmanuel Dennis,Shot
+3,21.0,Emmanuel Dennis,Watford,0.11,,Off Target,9.0,Head,,Moussa Sissoko,Pass (Live),Joshua King,Pass (Live)
+4,28.0,Ismaila Sarr,Watford,0.03,,Blocked,23.0,Left Foot,,Emmanuel Dennis,Pass (Live),Ismaila Sarr,Pass (Live)
+5,34.0,Tyrick Mitchell,Crystal Palace,0.03,,Off Target,24.0,Left Foot,,Wilfried Zaha,Pass (Live),Michael Olise,Pass (Live)
+6,38.0,Michael Olise,Crystal Palace,0.13,0.15,Saved,14.0,Left Foot,,Wilfried Zaha,Pass (Live),Tyrick Mitchell,Pass (Live)
+7,42.0,Conor Gallagher,Crystal Palace,0.52,0.89,Goal,11.0,Right Foot,,Tyrick Mitchell,Pass (Live),Tyrick Mitchell,Pass (Live)
+8,,,,,,,,,,,,,
+9,52.0,Jean-Philippe Mateta,Crystal Palace,0.15,,Off Target,13.0,Left Foot,,Wilfried Zaha,Pass (Live),Jean-Philippe Mateta,Pass (Live)
+10,66.0,Emmanuel Dennis,Watford,0.44,,Off Target,4.0,Right Foot,,Craig Cathcart,Pass (Live),Imran Louza,Pass (Dead)
+11,72.0,Samir Santos,Watford,0.02,,Blocked,12.0,Head,,Kiko Femenía,Pass (Dead),Kiko Femenía,Pass (Live)
+12,72.0,Emmanuel Dennis,Watford,0.28,,Off Target,11.0,Right Foot,,Hassane Kamara,Pass (Live),Samir Santos,Shot
+13,81.0,Cucho,Watford,0.02,,Off Target,27.0,Right Foot,,Hassane Kamara,Pass (Live),Samir Santos,Pass (Live)
+14,85.0,Wilfried Zaha,Crystal Palace,0.09,0.04,Goal,10.0,Left Foot,Deflected,Jordan Ayew,Pass (Live),Conor Gallagher,Pass (Live)
+15,90.0,Wilfried Zaha,Crystal Palace,0.1,0.65,Goal,17.0,Right Foot,,Wilfried Zaha,Take-On,James McArthur,Pass (Live)

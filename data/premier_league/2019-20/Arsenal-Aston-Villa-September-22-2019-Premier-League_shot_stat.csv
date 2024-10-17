@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Ainsley Maitland-Niles,Arsenal,0.33,,Off Target,10.0,Left Foot,,Bukayo Saka,Pass (Live),Sead Kolašinac,Pass (Live)
+1,4,John McGinn,Aston Villa,0.05,0.05,Saved,20.0,Right Foot,,Trézéguet,Pass (Live),Trézéguet,Take-On
+2,5,Trézéguet,Aston Villa,0.03,,Blocked,20.0,Right Foot,,Jack Grealish,Pass (Live),John McGinn,Pass (Live)
+3,11,John McGinn,Aston Villa,0.02,0.03,Saved,29.0,Left Foot,,,,,
+4,12,Anwar El Ghazi,Aston Villa,0.06,0.04,Saved,26.0,Right Foot,Free kick,Anwar El Ghazi,Fouled,Wesley Moraes,Pass (Live)
+5,16,Nicolas Pépé,Arsenal,0.03,,Blocked,22.0,Left Foot,,Mattéo Guendouzi,Pass (Live),Dani Ceballos,Pass (Live)
+6,18,Nicolas Pépé,Arsenal,0.1,,Blocked,12.0,Right Foot,,Nicolas Pépé,Take-On,Mattéo Guendouzi,Pass (Live)
+7,19,Pierre-Emerick Aubameyang,Arsenal,0.02,0.17,Saved,20.0,Left Foot,,Ainsley Maitland-Niles,Pass (Live),Granit Xhaka,Pass (Live)
+8,20,John McGinn,Aston Villa,0.38,0.49,Goal,9.0,Left Foot,,Anwar El Ghazi,Pass (Live),Neil Taylor,Pass (Live)
+9,23,Nicolas Pépé,Arsenal,0.04,0.29,Saved,15.0,Right Foot,,Granit Xhaka,Pass (Live),Mattéo Guendouzi,Pass (Live)
+10,26,Bukayo Saka,Arsenal,0.03,,Off Target,25.0,Right Foot,,Nicolas Pépé,Pass (Live),Ainsley Maitland-Niles,Pass (Live)
+11,33,Wesley Moraes,Aston Villa,0.05,0.07,Saved,25.0,Right Foot,,Trézéguet,Pass (Live),Björn Engels,Pass (Live)
+12,38,Tyrone Mings,Aston Villa,0.05,,Off Target,12.0,Head,,John McGinn,Pass (Live),Marvelous Nakamba,Pass (Live)
+13,,,,,,,,,,,,,
+14,47,John McGinn,Aston Villa,0.08,,Off Target,22.0,Left Foot,Free kick,Anwar El Ghazi,Pass (Live),Trézéguet,Pass (Dead)
+15,53,John McGinn,Aston Villa,0.04,0.05,Saved,20.0,Left Foot,,Jack Grealish,Pass (Live),Frederic Guilbert,Pass (Live)
+16,59,Nicolas Pépé (pen),Arsenal,0.79,0.94,Goal,13.0,Left Foot,,Mattéo Guendouzi,Fouled,,
+17,60,John McGinn,Aston Villa,0.09,,Off Target,17.0,Left Foot,,John McGinn,Take-On,Anwar El Ghazi,Pass (Live)
+18,61,Wesley Moraes,Aston Villa,0.47,0.53,Goal,5.0,Right Foot,,Jack Grealish,Pass (Live),Neil Taylor,Pass (Live)
+19,64,Trézéguet,Aston Villa,0.09,0.07,Saved,14.0,Right Foot,,Jack Grealish,Pass (Live),John McGinn,Pass (Live)
+20,66,David Luiz,Arsenal,0.06,0.21,Saved,29.0,Right Foot,Free kick,Granit Xhaka,Fouled,Nicolas Pépé,Pass (Live)
+21,69,Mattéo Guendouzi,Arsenal,0.03,,Woodwork,27.0,Right Foot,,Dani Ceballos,Pass (Live),Calum Chambers,Pass (Live)
+22,70,Dani Ceballos,Arsenal,0.04,,Off Target,16.0,Right Foot,Volley,Nicolas Pépé,Pass (Dead),Mattéo Guendouzi,Shot
+23,71,Sokratis Papastathopoulos,Arsenal,0.07,,Off Target,9.0,Head,,Nicolas Pépé,Pass (Dead),,
+24,71,Pierre-Emerick Aubameyang,Arsenal,0.17,,Off Target,4.0,Right Foot,,Sokratis Papastathopoulos,Shot,,
+25,72,Joe Willock,Arsenal,0.05,,Blocked,23.0,Right Foot,,Joe Willock,Take-On,Mattéo Guendouzi,Pass (Live)
+26,72,Lucas Torreira,Arsenal,0.12,,Off Target,9.0,Right Foot,Volley,Pierre-Emerick Aubameyang,Pass (Live),Sead Kolašinac,Pass (Live)
+27,75,Pierre-Emerick Aubameyang,Arsenal,0.09,,Blocked,14.0,Right Foot,,Nicolas Pépé,Pass (Live),David Luiz,Take-On
+28,78,Nicolas Pépé,Arsenal,0.11,,Off Target,11.0,Left Foot,Volley,Sead Kolašinac,Pass (Live),Joe Willock,Pass (Live)
+29,78,Calum Chambers,Arsenal,0.04,,Blocked,22.0,Left Foot,,Joe Willock,Pass (Live),Nicolas Pépé,Shot
+30,79,David Luiz,Arsenal,0.04,,Off Target,9.0,Head,,Lucas Torreira,Pass (Dead),Calum Chambers,Shot
+31,81,Calum Chambers,Arsenal,0.13,0.21,Goal,7.0,Right Foot,,Calum Chambers,Interception,,
+32,82,Marvelous Nakamba,Aston Villa,0.03,0.23,Saved,32.0,Left Foot,,Ahmed Elmohamady,Pass (Live),Frederic Guilbert,Pass (Live)
+33,84,Pierre-Emerick Aubameyang,Arsenal,0.12,0.25,Goal,23.0,Right Foot,Free kick,Pierre-Emerick Aubameyang,Fouled,Joe Willock,Pass (Live)
+34,89,Conor Hourihane,Aston Villa,0.06,,Blocked,14.0,Left Foot,,Ahmed Elmohamady,Pass (Live),Frederic Guilbert,Pass (Live)
+35,90+3,Lucas Torreira,Arsenal,0.05,,Off Target,17.0,Left Foot,Volley,Calum Chambers,Pass (Dead),,

@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Harvey Elliott,Liverpool,0.08,,Blocked,16.0,Left Foot,,Mohamed Salah,Pass (Live),Harvey Elliott,Pass (Live)
+1,9.0,Antony,Manchester Utd,0.03,0.35,Saved,24.0,Left Foot,,Diogo Dalot,Pass (Live),Wout Weghorst,Pass (Live)
+2,14.0,Mohamed Salah,Liverpool,0.05,,Off Target,21.0,Left Foot,,Fabinho,Pass (Live),Fabinho,Interception
+3,16.0,Harvey Elliott,Liverpool,0.04,,Off Target,15.0,Left Foot,Volley,Jordan Henderson,Pass (Live),,Fouled
+4,19.0,Jordan Henderson,Liverpool,0.05,,Blocked,17.0,Right Foot,Volley,Mohamed Salah,Pass (Live),Darwin Núñez,Pass (Live)
+5,19.0,Darwin Núñez,Liverpool,0.1,,Off Target,11.0,Left Foot,,Jordan Henderson,Shot,,
+6,22.0,Andrew Robertson,Liverpool,0.06,,Blocked,15.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Mohamed Salah,Pass (Live)
+7,23.0,Darwin Núñez,Liverpool,0.2,,Blocked,7.0,Right Foot,Volley,Andrew Robertson,Pass (Live),Harvey Elliott,Pass (Live)
+8,26.0,Bruno Fernandes,Manchester Utd,0.1,,Off Target,9.0,Head,,Diogo Dalot,Pass (Live),Fred,Pass (Live)
+9,27.0,Marcus Rashford,Manchester Utd,0.32,0.43,Saved,17.0,Right Foot,Volley,Luke Shaw,Pass (Live),David de Gea,Pass (Live)
+10,33.0,Diogo Dalot,Manchester Utd,0.04,0.05,Saved,12.0,Head,,Luke Shaw,Pass (Dead),Luke Shaw,Fouled
+11,43.0,Cody Gakpo,Liverpool,0.07,0.55,Goal,14.0,Right Foot,,Andrew Robertson,Pass (Live),Alisson,Pass (Live)
+12,,,,,,,,,,,,,
+13,47.0,Darwin Núñez,Liverpool,0.48,0.73,Goal,4.0,Head,Deflected,Harvey Elliott,Pass (Live),Fabinho,Pass (Live)
+14,49.0,Antony,Manchester Utd,0.03,0.23,Saved,25.0,Left Foot,,Fred,Pass (Live),Luke Shaw,Pass (Live)
+15,50.0,Cody Gakpo,Liverpool,0.21,0.96,Goal,5.0,Right Foot,,Mohamed Salah,Pass (Live),Cody Gakpo,Pass (Live)
+16,54.0,Bruno Fernandes,Manchester Utd,0.04,,Off Target,11.0,Head,,Casemiro,Pass (Live),Antony,Pass (Live)
+17,56.0,Andrew Robertson,Liverpool,0.1,,Off Target,14.0,Right Foot,,Cody Gakpo,Pass (Live),Harvey Elliott,Pass (Live)
+18,57.0,Cody Gakpo,Liverpool,0.03,,Blocked,25.0,Right Foot,,Andrew Robertson,Pass (Live),Andrew Robertson,Tackle
+19,58.0,Ibrahima Konaté,Liverpool,0.22,,Off Target,6.0,Head,,Trent Alexander-Arnold,Pass (Dead),Cody Gakpo,Shot
+20,65.0,Alejandro Garnacho,Manchester Utd,0.04,,Blocked,16.0,Left Foot,,Antony,Pass (Live),Raphaël Varane,Pass (Live)
+21,66.0,Mohamed Salah,Liverpool,0.3,0.27,Goal,15.0,Right Foot,Volley,,,,
+22,73.0,Marcus Rashford,Manchester Utd,0.21,,Woodwork,9.0,Left Foot,,Marcus Rashford,Take-On,Bruno Fernandes,Pass (Live)
+23,75.0,Darwin Núñez,Liverpool,0.14,0.26,Goal,7.0,Head,,Jordan Henderson,Pass (Live),Mohamed Salah,Fouled
+24,82.0,Harvey Elliott,Liverpool,0.05,0.03,Saved,26.0,Left Foot,,,,,
+25,83.0,Mohamed Salah,Liverpool,0.32,0.67,Goal,8.0,Right Foot,,Harvey Elliott,Pass (Live),James Milner,Pass (Live)
+26,88.0,Roberto Firmino,Liverpool,0.27,0.45,Goal,4.0,Right Foot,,Mohamed Salah,Pass (Live),Curtis Jones,Pass (Live)

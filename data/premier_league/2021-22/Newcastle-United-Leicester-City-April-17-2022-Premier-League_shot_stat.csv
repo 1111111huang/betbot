@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Jonjo Shelvey,Newcastle Utd,0.03,0.07,Saved,33.0,Right Foot,Free kick,Miguel Almirón,Fouled,,
+1,12,Dan Burn,Newcastle Utd,0.04,,Off Target,15.0,Left Foot,Volley,Jonjo Shelvey,Fouled,,
+2,14,Joelinton,Newcastle Utd,0.06,,Off Target,9.0,Left Foot,Volley,Fabian Schär,Pass (Live),Emil Krafth,Pass (Live)
+3,19,Ademola Lookman,Leicester City,0.14,0.14,Goal,10.0,Right Foot,,Ayoze Pérez,Pass (Live),Kiernan Dewsbury-Hall,Pass (Dead)
+4,25,Youri Tielemans,Leicester City,0.07,,Off Target,21.0,Right Foot,,Youri Tielemans,Take-On,Daniel Amartey,Pass (Live)
+5,26,Ayoze Pérez,Leicester City,0.02,,Blocked,21.0,Right Foot,,Youri Tielemans,Pass (Live),,
+6,30,Joelinton,Newcastle Utd,0.01,,Blocked,26.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Matt Targett,Pass (Live)
+7,30,Bruno Guimarães,Newcastle Utd,0.23,0.41,Saved,3.0,Right Foot,,Jonjo Shelvey,Pass (Dead),Bruno Guimarães,Pass (Live)
+8,30,Bruno Guimarães,Newcastle Utd,0.47,0.32,Saved,4.0,Right Foot,,Bruno Guimarães,Shot,,
+9,30,Bruno Guimarães,Newcastle Utd,0.52,0.66,Goal,3.0,Right Foot,,Bruno Guimarães,Shot,,
+10,37,Matt Targett,Newcastle Utd,0.02,0.04,Saved,10.0,Head,,Bruno Guimarães,Pass (Live),Allan Saint-Maximin,Pass (Live)
+11,41,Chris Wood,Newcastle Utd,0.14,,Off Target,7.0,Head,,Joelinton,Pass (Live),Allan Saint-Maximin,Pass (Live)
+12,45,Kiernan Dewsbury-Hall,Leicester City,0.03,0.03,Saved,30.0,Left Foot,,Ademola Lookman,Pass (Live),Youri Tielemans,Pass (Dead)
+13,45+2,Miguel Almirón,Newcastle Utd,0.14,,Off Target,15.0,Left Foot,,Matt Targett,Pass (Live),Allan Saint-Maximin,Pass (Live)
+14,,,,,,,,,,,,,
+15,47,Allan Saint-Maximin,Newcastle Utd,0.04,,Off Target,27.0,Right Foot,,Allan Saint-Maximin,Take-On,Miguel Almirón,Pass (Live)
+16,49,Allan Saint-Maximin,Newcastle Utd,0.02,,Off Target,27.0,Right Foot,,Joelinton,Pass (Live),,
+17,53,Kiernan Dewsbury-Hall,Leicester City,0.03,,Off Target,23.0,Right Foot,,Luke Thomas,Pass (Live),Luke Thomas,Take-On
+18,56,Kiernan Dewsbury-Hall,Leicester City,0.03,,Blocked,12.0,Left Foot,,Ayoze Pérez,Pass (Live),Daniel Amartey,Pass (Live)
+19,57,James Justin,Leicester City,0.05,,Blocked,10.0,Head,,Ademola Lookman,Pass (Dead),Kiernan Dewsbury-Hall,Shot
+20,58,Joelinton,Newcastle Utd,0.02,,Off Target,28.0,Right Foot,,Allan Saint-Maximin,Pass (Live),,
+21,62,Allan Saint-Maximin,Newcastle Utd,0.03,0.04,Saved,22.0,Right Foot,,Joelinton,Pass (Live),Jonjo Shelvey,Pass (Live)
+22,80,Dan Burn,Newcastle Utd,0.04,,Off Target,10.0,Head,,Matt Targett,Pass (Dead),Bruno Guimarães,Pass (Live)
+23,85,Kelechi Iheanacho,Leicester City,0.28,,Blocked,5.0,Left Foot,,Kiernan Dewsbury-Hall,Pass (Live),Harvey Barnes,Pass (Live)
+24,90+5,Bruno Guimarães,Newcastle Utd,0.41,0.97,Goal,9.0,Head,,Joe Willock,Take-On,Matt Targett,Pass (Live)

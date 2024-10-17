@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,16,João Cancelo,Manchester City,0.02,,Off Target,35.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),David Silva,Pass (Live)
+1,17,Bernardo Silva,Manchester City,0.32,,Off Target,10.0,Right Foot,,David Silva,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+2,22,Phil Foden,Manchester City,0.02,0.17,Goal,25.0,Left Foot,,Bernardo Silva,Pass (Live),Riyad Mahrez,Pass (Dead)
+3,35,Sergio Agüero,Manchester City,0.06,,Blocked,18.0,Left Foot,,Bernardo Silva,Pass (Live),Riyad Mahrez,Pass (Live)
+4,40,Oleksandr Zinchenko,Manchester City,0.03,0.02,Saved,29.0,Left Foot,,Rodri,Pass (Live),Bernardo Silva,Pass (Live)
+5,43,Riyad Mahrez,Manchester City,0.05,0.48,Goal,14.0,Right Foot,,Fernandinho,Pass (Live),Phil Foden,Pass (Live)
+6,45+3,Riyad Mahrez (pen),Manchester City,0.79,1.0,Goal,13.0,Left Foot,,Sergio Agüero,Fouled,Phil Foden,Pass (Live)
+7,,,,,,,,,,,,,
+8,46,Gabriel Jesus,Manchester City,0.07,,Off Target,10.0,Head,,David Silva,Pass (Live),Nicolás Otamendi,Pass (Live)
+9,48,Oleksandr Zinchenko,Manchester City,0.03,,Blocked,25.0,Right Foot,Deflected,Gabriel Jesus,Pass (Live),Gabriel Jesus,Take-On
+10,51,Phil Foden,Manchester City,0.06,,Blocked,17.0,Right Foot,,David Silva,Pass (Live),Rodri,Pass (Live)
+11,51,David Silva,Manchester City,0.32,0.39,Goal,5.0,Left Foot,,Bernardo Silva,Pass (Live),Phil Foden,Pass (Live)
+12,63,Dwight McNeil,Burnley,0.04,,Off Target,35.0,Left Foot,Free kick,Matěj Vydra,Fouled,Matěj Vydra,Take-On
+13,63,Gabriel Jesus,Manchester City,0.08,,Off Target,15.0,Right Foot,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+14,63,Phil Foden,Manchester City,0.29,0.48,Goal,10.0,Left Foot,,Gabriel Jesus,Shot,,
+15,66,Gabriel Jesus,Manchester City,0.06,,Off Target,15.0,Right Foot,,Phil Foden,Pass (Live),Phil Foden,Take-On
+16,68,Kevin De Bruyne,Manchester City,0.03,,Off Target,27.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),Aymeric Laporte,Pass (Live)
+17,79,Rodri,Manchester City,0.03,0.03,Saved,22.0,Right Foot,,David Silva,Pass (Live),Phil Foden,Pass (Live)
+18,85,Leroy Sané,Manchester City,0.06,,Blocked,28.0,Left Foot,Free kick,Gabriel Jesus,Fouled,Kevin De Bruyne,Pass (Live)
+19,88,Bernardo Silva,Manchester City,0.07,,Blocked,10.0,Left Foot,Volley,Kevin De Bruyne,Pass (Live),Leroy Sané,Pass (Live)
+20,88,Leroy Sané,Manchester City,0.06,,Off Target,25.0,Left Foot,,Gabriel Jesus,Pass (Live),David Silva,Pass (Live)

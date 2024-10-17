@@ -1,0 +1,15 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,20,Theo Walcott,Everton,0.05,,Off Target,12.0,Right Foot,,Gylfi Sigurðsson,Pass (Live),Theo Walcott,Pass (Live)
+1,35,Enda Stevens,Sheffield Utd,0.02,,Off Target,26.0,Left Foot,Volley,Chris Basham,Pass (Live),George Baldock,Pass (Live)
+2,43,Dominic Calvert-Lewin,Everton,0.2,,Woodwork,4.0,Head,,Theo Walcott,Pass (Live),André Gomes,Pass (Live)
+3,45+1,Ben Osborn,Sheffield Utd,0.11,,Blocked,12.0,Right Foot,,Jack O'Connell,Fouled,,
+4,,,,,,,,,,,,,
+5,46,Richarlison,Everton,0.05,0.18,Goal,14.0,Head,,Gylfi Sigurðsson,Pass (Dead),André Gomes,Fouled
+6,48,Enda Stevens,Sheffield Utd,0.05,,Blocked,12.0,Left Foot,,George Baldock,Pass (Live),Chris Basham,Pass (Live)
+7,49,David McGoldrick,Sheffield Utd,0.08,,Blocked,14.0,Right Foot,,Chris Basham,Pass (Live),George Baldock,Pass (Live)
+8,58,Dominic Calvert-Lewin,Everton,0.06,0.09,Saved,14.0,Left Foot,Deflected,Jordan Pickford,Pass (Live),Michael Keane,Pass (Live)
+9,59,Oliver McBurnie,Sheffield Utd,0.09,,Blocked,9.0,Right Foot,,Sander Berge,Pass (Live),George Baldock,Pass (Live)
+10,81,André Gomes,Everton,0.03,,Off Target,31.0,Right Foot,,Gylfi Sigurðsson,Pass (Live),Lucas Digne,Pass (Live)
+11,85,George Baldock,Sheffield Utd,0.07,,Off Target,11.0,Head,,Enda Stevens,Pass (Live),John Fleck,Pass (Live)
+12,90+2,John Egan,Sheffield Utd,0.05,,Blocked,10.0,Head,,John Fleck,Pass (Live),Enda Stevens,Pass (Live)
+13,90+6,David McGoldrick,Sheffield Utd,0.07,,Off Target,13.0,Right Foot,,George Baldock,Pass (Live),Enda Stevens,Pass (Dead)

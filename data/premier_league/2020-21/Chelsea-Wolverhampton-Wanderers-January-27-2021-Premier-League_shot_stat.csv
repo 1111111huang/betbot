@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Hakim Ziyech,Chelsea,0.03,,Blocked,22.0,Left Foot,,Callum Hudson-Odoi,Pass (Live),Hakim Ziyech,Pass (Live)
+1,15,Kai Havertz,Chelsea,0.06,,Off Target,11.0,Left Foot,,Jorginho,Tackle,,
+2,20,Hakim Ziyech,Chelsea,0.03,0.26,Saved,22.0,Left Foot,,Hakim Ziyech,Pass (Live),Jorginho,Pass (Live)
+3,22,Rúben Neves,Wolves,0.1,,Off Target,25.0,Right Foot,Free kick,Daniel Podence,Fouled,,
+4,31,Ben Chilwell,Chelsea,0.04,,Off Target,9.0,Left Foot,Volley,Callum Hudson-Odoi,Pass (Live),Hakim Ziyech,Pass (Live)
+5,39,Antonio Rüdiger,Chelsea,0.07,0.2,Saved,9.0,Head,,Hakim Ziyech,Pass (Dead),Ben Chilwell,Fouled
+6,40,Leander Dendoncker,Wolves,0.05,,Off Target,13.0,Head,,Pedro Neto,Pass (Live),Daniel Podence,Pass (Live)
+7,,,,,,,,,,,,,
+8,59,Olivier Giroud,Chelsea,0.04,0.2,Saved,12.0,Left Foot,,César Azpilicueta,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+9,61,Ben Chilwell,Chelsea,0.07,,Off Target,14.0,Left Foot,,Kai Havertz,Pass (Live),Mateo Kovačić,Pass (Live)
+10,64,Olivier Giroud,Chelsea,0.1,0.21,Saved,6.0,Right Foot,,Hakim Ziyech,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+11,71,Pedro Neto,Wolves,0.36,,Woodwork,14.0,Left Foot,,Pedro Neto,Pass (Live),Nélson Semedo,Pass (Live)
+12,76,Pedro Neto,Wolves,0.02,,Off Target,29.0,Left Foot,,Adama Traoré,Pass (Live),Willian José,Pass (Live)
+13,78,Callum Hudson-Odoi,Chelsea,0.03,,Blocked,26.0,Right Foot,,Mateo Kovačić,Pass (Live),Jorginho,Pass (Live)
+14,80,Hakim Ziyech,Chelsea,0.03,,Blocked,30.0,Left Foot,,César Azpilicueta,Pass (Live),Tammy Abraham,Pass (Live)
+15,81,Kai Havertz,Chelsea,0.07,,Off Target,14.0,Left Foot,Volley,Hakim Ziyech,Pass (Dead),Hakim Ziyech,Shot
+16,82,Mateo Kovačić,Chelsea,0.03,,Off Target,26.0,Right Foot,,Hakim Ziyech,Pass (Live),Christian Pulisic,Pass (Live)
+17,86,Callum Hudson-Odoi,Chelsea,0.04,0.18,Saved,18.0,Right Foot,Deflected,Mateo Kovačić,Pass (Live),Jorginho,Pass (Live)
+18,90+3,Kai Havertz,Chelsea,0.04,,Blocked,12.0,Head,,Mason Mount,Pass (Dead),Mason Mount,Pass (Live)

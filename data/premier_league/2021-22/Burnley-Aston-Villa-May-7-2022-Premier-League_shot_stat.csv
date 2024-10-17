@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Nathan Collins,Burnley,0.1,,Off Target,5.0,Head,,Dwight McNeil,Pass (Dead),Dwight McNeil,Pass (Dead)
+1,7,Danny Ings,Aston Villa,0.39,0.86,Goal,14.0,Left Foot,,Emi Buendía,Pass (Live),Douglas Luiz,Pass (Live)
+2,9,Ashley Barnes,Burnley,0.05,,Off Target,24.0,Right Foot,,Wout Weghorst,Pass (Live),Dwight McNeil,Pass (Live)
+3,16,Douglas Luiz,Aston Villa,0.04,,Blocked,32.0,Right Foot,Free kick,Emi Buendía,Fouled,Lucas Digne,Pass (Live)
+4,24,Emi Buendía,Aston Villa,0.4,,Off Target,32.0,Left Foot,Volley,,,,
+5,25,Dwight McNeil,Burnley,0.03,,Blocked,24.0,Left Foot,,Ashley Barnes,Pass (Live),,
+6,25,Wout Weghorst,Burnley,0.18,,Off Target,17.0,Right Foot,,Dwight McNeil,Pass (Live),Dwight McNeil,Take-On
+7,28,Nathan Collins,Burnley,0.02,0.06,Saved,16.0,Head,,Dwight McNeil,Pass (Dead),Ashley Barnes,Fouled
+8,29,Wout Weghorst,Burnley,0.06,,Off Target,11.0,Head,,Dwight McNeil,Pass (Live),Nathan Collins,Pass (Live)
+9,31,Emi Buendía,Aston Villa,0.28,0.09,Goal,14.0,Right Foot,Deflected,Lucas Digne,Pass (Live),Ollie Watkins,Pass (Live)
+10,34,Ashley Barnes,Burnley,0.05,0.39,Saved,20.0,Left Foot,Deflected,Josh Brownhill,Pass (Live),Connor Roberts,Pass (Live)
+11,37,Dwight McNeil,Burnley,0.03,0.03,Saved,26.0,Left Foot,Deflected,Jack Cork,Pass (Live),Aaron Lennon,Pass (Live)
+12,40,John McGinn,Aston Villa,0.02,0.03,Saved,34.0,Left Foot,,Matty Cash,Pass (Live),Matty Cash,Take-On
+13,42,Dwight McNeil,Burnley,0.18,0.08,Saved,11.0,Left Foot,,Dwight McNeil,Tackle,,
+14,44,Connor Roberts,Burnley,0.02,0.03,Saved,30.0,Left Foot,Deflected,Charlie Taylor,Pass (Live),,
+15,45+2,Nathan Collins,Burnley,0.11,,Off Target,8.0,Head,,Josh Brownhill,Pass (Dead),Nick Pope,Pass (Dead)
+16,,,,,,,,,,,,,
+17,48,Ollie Watkins,Aston Villa,0.04,,Blocked,18.0,Right Foot,,Danny Ings,Pass (Live),Matty Cash,Pass (Live)
+18,49,Emi Buendía,Aston Villa,0.01,,Off Target,11.0,Head,,Lucas Digne,Pass (Dead),Ollie Watkins,Shot
+19,51,Aaron Lennon,Burnley,0.04,,Off Target,17.0,Right Foot,,Connor Roberts,Pass (Live),Josh Brownhill,Pass (Live)
+20,52,Ollie Watkins,Aston Villa,0.63,0.45,Goal,7.0,Head,,John McGinn,Pass (Live),Lucas Digne,Pass (Live)
+21,54,Matty Cash,Aston Villa,0.06,0.22,Saved,13.0,Right Foot,,Matty Cash,Take-On,John McGinn,Pass (Live)
+22,67,Ollie Watkins,Aston Villa,0.11,0.21,Saved,10.0,Head,,Lucas Digne,Pass (Live),Danny Ings,Pass (Live)
+23,75,Carney Chukwuemeka,Aston Villa,0.06,,Blocked,12.0,Left Foot,,Ollie Watkins,Pass (Live),Emi Buendía,Pass (Live)
+24,78,John McGinn,Aston Villa,0.03,0.02,Saved,22.0,Left Foot,,Matty Cash,Pass (Live),Carney Chukwuemeka,Pass (Live)
+25,85,Wout Weghorst,Burnley,0.03,,Off Target,11.0,Head,,Josh Brownhill,Pass (Dead),Wout Weghorst,Fouled
+26,90+1,Maxwel Cornet,Burnley,0.99,0.99,Goal,9.0,Left Foot,,Maxwel Cornet,Take-On,Erik Pieters,Pass (Live)

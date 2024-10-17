@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Djibril Sidibé,Everton,0.03,,Off Target,21.0,Right Foot,,Lucas Digne,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+1,10,Ayoze Pérez,Leicester City,0.06,0.51,Saved,15.0,Right Foot,,Ricardo Pereira,Pass (Live),Jonny Evans,Pass (Live)
+2,13,Ayoze Pérez,Leicester City,0.05,,Off Target,15.0,Right Foot,,Ricardo Pereira,Pass (Live),Wilfred Ndidi,Pass (Live)
+3,23,Richarlison,Everton,0.27,0.41,Goal,10.0,Head,,Djibril Sidibé,Pass (Live),Alex Iwobi,Pass (Live)
+4,25,Ayoze Pérez,Leicester City,0.12,,Off Target,9.0,Right Foot,,Çağlar Söyüncü,Pass (Live),Jonny Evans,Pass (Live)
+5,28,James Maddison,Leicester City,0.03,,Blocked,23.0,Right Foot,Volley,James Maddison,Fouled,Ricardo Pereira,Pass (Live)
+6,31,Jamie Vardy,Leicester City,0.05,,Off Target,18.0,Left Foot,Volley,Ben Chilwell,Pass (Live),Wilfred Ndidi,Pass (Live)
+7,45+1,Dominic Calvert-Lewin,Everton,0.07,,Blocked,16.0,Left Foot,,Dominic Calvert-Lewin,Take-On,Yerry Mina,Pass (Live)
+8,45+3,Jamie Vardy,Leicester City,0.09,,Blocked,14.0,Left Foot,,Ben Chilwell,Pass (Live),James Maddison,Pass (Dead)
+9,,,,,,,,,,,,,
+10,50,Gylfi Sigurðsson,Everton,0.08,,Blocked,18.0,Left Foot,,Richarlison,Pass (Live),Richarlison,Take-On
+11,50,Michael Keane,Everton,0.06,0.09,Saved,10.0,Head,,Lucas Digne,Pass (Dead),Gylfi Sigurðsson,Shot
+12,51,Richarlison,Everton,0.05,,Off Target,8.0,Head,,Lucas Digne,Pass (Dead),Gylfi Sigurðsson,Pass (Live)
+13,54,Ricardo Pereira,Leicester City,0.05,0.07,Saved,16.0,Right Foot,,Wilfred Ndidi,Pass (Live),Wilfred Ndidi,Take-On
+14,58,Youri Tielemans,Leicester City,0.04,,Off Target,21.0,Right Foot,Volley,James Maddison,Pass (Live),Jonny Evans,Pass (Live)
+15,62,Mason Holgate,Everton,0.08,,Blocked,10.0,Right Foot,,Mason Holgate,Take-On,Lucas Digne,Pass (Dead)
+16,63,Mason Holgate,Everton,0.08,,Off Target,10.0,Head,,Gylfi Sigurðsson,Pass (Dead),Mason Holgate,Fouled
+17,63,Richarlison,Everton,0.25,,Off Target,8.0,Other,Volley,Alex Iwobi,Pass (Live),Mason Holgate,Shot
+18,65,Kelechi Iheanacho,Leicester City,0.05,0.05,Saved,18.0,Left Foot,,Wilfred Ndidi,Pass (Live),Kelechi Iheanacho,Pass (Live)
+19,68,Kelechi Iheanacho,Leicester City,0.04,,Off Target,15.0,Right Foot,,Wilfred Ndidi,Pass (Live),Wilfred Ndidi,Pass (Live)
+20,68,Jamie Vardy,Leicester City,0.59,0.78,Goal,3.0,Left Foot,,Kelechi Iheanacho,Shot,,
+21,73,James Maddison,Leicester City,0.29,0.1,Saved,10.0,Right Foot,,Jamie Vardy,Pass (Live),Harvey Barnes,Pass (Live)
+22,75,Jamie Vardy,Leicester City,0.27,,Off Target,9.0,Head,,Youri Tielemans,Pass (Live),Ricardo Pereira,Pass (Live)
+23,80,Moise Kean,Everton,0.03,,Off Target,25.0,Right Foot,,Richarlison,Pass (Live),Tom Davies,Take-On
+24,83,Youri Tielemans,Leicester City,0.02,,Off Target,32.0,Right Foot,,Wilfred Ndidi,Pass (Live),Marc Albrighton,Pass (Live)
+25,86,Moise Kean,Everton,0.11,0.07,Saved,15.0,Right Foot,Deflected,Moise Kean,Take-On,Richarlison,Pass (Live)
+26,87,Wilfred Ndidi,Leicester City,0.04,,Blocked,10.0,Head,,James Maddison,Pass (Dead),Ricardo Pereira,Take-On
+27,90+4,Kelechi Iheanacho,Leicester City,0.36,0.84,Goal,17.0,Left Foot,,Ricardo Pereira,Pass (Live),Youri Tielemans,Pass (Live)

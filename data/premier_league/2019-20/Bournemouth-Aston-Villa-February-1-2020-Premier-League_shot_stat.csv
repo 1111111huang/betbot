@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Harry Wilson,Bournemouth,0.04,,Off Target,23.0,Left Foot,Volley,Philip Billing,Pass (Dead),,
+1,6,Callum Wilson,Bournemouth,0.08,,Blocked,9.0,Head,,Ryan Fraser,Pass (Dead),Philip Billing,Fouled
+2,8,Philip Billing,Bournemouth,0.02,0.03,Saved,30.0,Left Foot,Volley,Ryan Fraser,Pass (Live),Dan Gosling,Pass (Live)
+3,13,Jefferson Lerma,Bournemouth,0.03,,Blocked,30.0,Right Foot,,Adam Smith,Pass (Live),Jefferson Lerma,Pass (Live)
+4,13,Ryan Fraser,Bournemouth,0.04,0.02,Saved,18.0,Right Foot,,Ryan Fraser,Pass (Live),Jefferson Lerma,Shot
+5,21,Jack Grealish,Aston Villa,0.03,,Off Target,24.0,Right Foot,,Mbwana Samatta,Pass (Live),,
+6,22,Harry Wilson,Bournemouth,0.05,0.08,Saved,33.0,Left Foot,"Free kick, Deflected",Harry Wilson,Fouled,Philip Billing,Pass (Live)
+7,26,Frederic Guilbert,Aston Villa,0.07,,Off Target,13.0,Left Foot,Volley,Anwar El Ghazi,Pass (Live),Matt Targett,Pass (Live)
+8,28,Dan Gosling,Bournemouth,0.47,,Off Target,9.0,Right Foot,,Harry Wilson,Pass (Live),Philip Billing,Pass (Live)
+9,29,Jack Grealish,Aston Villa,0.03,,Woodwork,20.0,Right Foot,,Douglas Luiz,Pass (Live),Matt Targett,Pass (Live)
+10,32,Jack Grealish,Aston Villa,0.05,,Blocked,14.0,Right Foot,,,,,
+11,34,Mbwana Samatta,Aston Villa,0.12,,Blocked,6.0,Right Foot,,,,,
+12,37,Philip Billing,Bournemouth,0.13,0.55,Goal,11.0,Left Foot,,Dan Gosling,Pass (Live),Simon Francis,Pass (Live)
+13,44,Harry Wilson,Bournemouth,0.06,,Blocked,29.0,Left Foot,Free kick,Jefferson Lerma,Fouled,Harry Wilson,Pass (Live)
+14,44,Ryan Fraser,Bournemouth,0.02,0.04,Saved,25.0,Right Foot,,Harry Wilson,Shot,,
+15,44,Nathan Aké,Bournemouth,0.28,0.78,Goal,7.0,Left Foot,,Ryan Fraser,Shot,,
+16,45+1,Jack Grealish,Aston Villa,0.08,0.05,Saved,10.0,Right Foot,,Jack Grealish,Take-On,Jack Grealish,Take-On
+17,,,,,,,,,,,,,
+18,49,Jefferson Lerma,Bournemouth,0.03,,Woodwork,27.0,Right Foot,,Ryan Fraser,Pass (Live),Dan Gosling,Pass (Live)
+19,53,Björn Engels,Aston Villa,0.31,,Off Target,6.0,Head,,Jack Grealish,Fouled,Jack Grealish,Pass (Live)
+20,63,Callum Wilson,Bournemouth,0.19,,Off Target,8.0,Left Foot,,Philip Billing,Pass (Live),Ryan Fraser,Pass (Live)
+21,64,Matt Targett,Aston Villa,0.08,,Blocked,11.0,Left Foot,,Jack Grealish,Pass (Live),Frederic Guilbert,Pass (Live)
+22,64,Marvelous Nakamba,Aston Villa,0.03,,Off Target,21.0,Left Foot,,Jack Grealish,Pass (Live),Matt Targett,Pass (Dead)
+23,68,Marvelous Nakamba,Aston Villa,0.03,,Off Target,27.0,Left Foot,,Jack Grealish,Pass (Live),Marvelous Nakamba,Pass (Live)
+24,70,Keinan Davis,Aston Villa,0.06,,Blocked,17.0,Right Foot,,Jack Grealish,Pass (Live),Matt Targett,Pass (Live)
+25,70,Mbwana Samatta,Aston Villa,0.45,0.43,Goal,7.0,Head,,Keinan Davis,Shot,,
+26,73,Jack Grealish,Aston Villa,0.1,,Off Target,13.0,Left Foot,,Jack Grealish,Take-On,Douglas Luiz,Pass (Live)
+27,74,Keinan Davis,Aston Villa,0.06,0.03,Saved,12.0,Left Foot,,,,,
+28,74,Mbwana Samatta,Aston Villa,0.05,0.04,Saved,11.0,Head,,Frederic Guilbert,Pass (Live),Björn Engels,Pass (Live)
+29,77,Keinan Davis,Aston Villa,0.08,,Off Target,9.0,Head,,Björn Engels,Pass (Live),Jack Grealish,Pass (Live)
+30,79,Tyrone Mings,Aston Villa,0.13,,Off Target,9.0,Head,,Matt Targett,Pass (Live),Jack Grealish,Pass (Live)
+31,81,Callum Wilson,Bournemouth,0.08,,Blocked,11.0,Head,,Ryan Fraser,Pass (Dead),Callum Wilson,Fouled
+32,81,Harry Wilson,Bournemouth,0.03,,Blocked,24.0,Left Foot,Volley,Philip Billing,Pass (Live),Callum Wilson,Shot
+33,90+4,Ryan Fraser,Bournemouth,0.63,,Off Target,7.0,Left Foot,,Callum Wilson,Pass (Live),Harry Wilson,Pass (Live)

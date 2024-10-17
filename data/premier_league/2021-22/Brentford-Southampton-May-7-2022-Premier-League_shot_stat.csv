@@ -1,0 +1,39 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Stuart Armstrong,Southampton,0.02,,Blocked,34.0,Right Foot,,Mohammed Salisu,Pass (Live),James Ward-Prowse,Pass (Live)
+1,4,Romain Perraud,Southampton,0.03,,Off Target,16.0,Right Foot,,Nathan Redmond,Pass (Live),Mohammed Salisu,Pass (Live)
+2,8,Mathias Jensen,Brentford,0.6,,Off Target,5.0,Left Foot,,Rico Henry,Pass (Live),Bryan Mbeumo,Pass (Live)
+3,10,Yoane Wissa,Brentford,0.07,0.19,Saved,14.0,Right Foot,,Yoane Wissa,Take-On,Ivan Toney,Pass (Live)
+4,10,Christian Eriksen,Brentford,0.02,,Off Target,26.0,Right Foot,,,,,
+5,13,Pontus Jansson,Brentford,0.19,0.09,Goal,5.0,Right Foot,,Ivan Toney,Pass (Live),Ivan Toney,Take-On
+6,14,Yoane Wissa,Brentford,0.13,0.17,Goal,22.0,Right Foot,,Yoane Wissa,Pass (Live),Kristoffer Ajer,Pass (Live)
+7,16,Armando Broja,Southampton,0.13,,Blocked,10.0,Left Foot,,Nathan Redmond,Pass (Live),Stuart Armstrong,Pass (Live)
+8,18,Yoane Wissa,Brentford,0.34,,Off Target,3.0,Right Foot,,Ivan Toney,Pass (Live),Christian Eriksen,Pass (Dead)
+9,22,Adam Armstrong,Southampton,0.16,,Off Target,12.0,Left Foot,,Nathan Redmond,Pass (Live),Ibrahima Diallo,Pass (Live)
+10,22,James Ward-Prowse,Southampton,0.04,0.28,Saved,27.0,Right Foot,,Adam Armstrong,Shot,,
+11,24,Armando Broja,Southampton,0.07,,Off Target,11.0,Head,,James Ward-Prowse,Pass (Live),Nathan Redmond,Pass (Live)
+12,27,Kyle Walker-Peters,Southampton,0.09,,Off Target,9.0,Head,,Stuart Armstrong,Pass (Live),Kyle Walker-Peters,Pass (Live)
+13,31,James Ward-Prowse,Southampton,0.18,,Blocked,21.0,Right Foot,Free kick,Adam Armstrong,Fouled,James Ward-Prowse,Pass (Live)
+14,31,Ivan Toney,Brentford,0.07,0.21,Saved,17.0,Right Foot,,Christian Eriksen,Pass (Live),,
+15,31,Bryan Mbeumo,Brentford,0.09,,Off Target,12.0,Right Foot,Volley,Ivan Toney,Shot,,
+16,36,Armando Broja,Southampton,0.17,,Off Target,14.0,Right Foot,,Romain Perraud,Pass (Live),Nathan Redmond,Pass (Live)
+17,42,Armando Broja,Southampton,0.1,0.24,Saved,17.0,Left Foot,,Ibrahima Diallo,Pass (Live),Mohammed Salisu,Pass (Live)
+18,43,Ivan Toney,Brentford,0.01,,Off Target,16.0,Right Foot,Volley,Christian Eriksen,Pass (Dead),Ivan Toney,Fouled
+19,,,,,,,,,,,,,
+20,48,Christian Eriksen,Brentford,0.06,,Off Target,31.0,Right Foot,Free kick,Ivan Toney,Fouled,Christian Eriksen,Pass (Live)
+21,52,Yoane Wissa,Brentford,0.04,,Blocked,14.0,Left Foot,Volley,Christian Eriksen,Pass (Dead),Kristoffer Ajer,Pass (Live)
+22,53,Nathan Redmond,Southampton,0.03,,Off Target,20.0,Right Foot,,Ibrahima Diallo,Tackle,,
+23,59,Armando Broja,Southampton,0.1,,Off Target,12.0,Head,,Stuart Armstrong,Pass (Live),James Ward-Prowse,Pass (Live)
+24,62,Ivan Toney,Brentford,0.14,,Blocked,17.0,Right Foot,,Christian Eriksen,Pass (Live),Rico Henry,Pass (Live)
+25,63,Christian Nørgaard,Brentford,0.1,,Off Target,6.0,Head,,Christian Eriksen,Pass (Dead),Ivan Toney,Shot
+26,73,Mohamed Elyounoussi,Southampton,0.08,0.24,Saved,22.0,Right Foot,Volley,Stuart Armstrong,Pass (Live),Romain Perraud,Pass (Live)
+27,75,James Ward-Prowse,Southampton,0.04,,Blocked,31.0,Right Foot,Free kick,Stuart Armstrong,Fouled,Mohamed Elyounoussi,Pass (Live)
+28,75,Mohammed Salisu,Southampton,0.04,,Off Target,12.0,Head,,James Ward-Prowse,Pass (Dead),James Ward-Prowse,Shot
+29,75,Stuart Armstrong,Southampton,0.01,0.09,Saved,28.0,Right Foot,,Romain Perraud,Pass (Live),Nathan Redmond,Pass (Live)
+30,77,Pontus Jansson,Brentford,0.18,,Blocked,11.0,Left Foot,,Kristoffer Ajer,Pass (Live),Mathias Jensen,Pass (Live)
+31,77,Bryan Mbeumo,Brentford,0.05,,Blocked,9.0,Left Foot,Volley,Christian Nørgaard,Pass (Live),Pontus Jansson,Shot
+32,77,Mathias Jensen,Brentford,0.03,,Off Target,25.0,Right Foot,,Rico Henry,Pass (Live),Josh Dasilva,Pass (Live)
+33,79,Josh Dasilva,Brentford,0.08,,Blocked,13.0,Left Foot,,Christian Nørgaard,Pass (Live),Mathias Jensen,Pass (Live)
+34,79,Kristoffer Ajer,Brentford,0.41,0.54,Goal,7.0,Right Foot,,Kristoffer Ajer,Take-On,Kristoffer Ajer,Take-On
+35,82,Kyle Walker-Peters,Southampton,0.03,,Blocked,19.0,Right Foot,,Stuart Armstrong,Pass (Live),James Ward-Prowse,Pass (Live)
+36,83,Mohammed Salisu,Southampton,0.04,,Off Target,11.0,Head,,James Ward-Prowse,Pass (Dead),Kyle Walker-Peters,Shot
+37,90+3,Romain Perraud,Southampton,0.02,,Off Target,31.0,Left Foot,,Oriol Romeu,Pass (Live),James Ward-Prowse,Pass (Dead)

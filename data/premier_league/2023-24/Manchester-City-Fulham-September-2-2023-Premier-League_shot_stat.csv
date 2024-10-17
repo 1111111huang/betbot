@@ -1,0 +1,15 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,30,Erling Haaland,Manchester City,0.07,,Off Target,13.0,Left Foot,,Mateo Kovačić,Pass (Live),Manuel Akanji,Pass (Live)
+1,31,Julián Álvarez,Manchester City,0.57,0.86,Goal,8.0,Right Foot,,Erling Haaland,Shot,,
+2,33,Bobby Reid,Fulham,0.41,0.3,Saved,5.0,Right Foot,Volley,Andreas Pereira,Pass (Dead),Bernd Leno,Pass (Live)
+3,33,Raúl Jiménez,Fulham,0.06,,Blocked,11.0,Right Foot,,Bobby Reid,Shot,,
+4,33,Tim Ream,Fulham,0.96,0.97,Goal,1.0,Left Foot,,Raúl Jiménez,Shot,,
+5,45+5,Nathan Aké,Manchester City,0.03,0.38,Goal,14.0,Head,,Phil Foden,Pass (Dead),Kyle Walker,Pass (Live)
+6,,,,,,,,,,,,,
+7,47,Bobby Reid,Fulham,0.01,,Off Target,31.0,Right Foot,,Raúl Jiménez,Pass (Live),Bobby Reid,Pass (Live)
+8,58,Erling Haaland,Manchester City,0.53,0.68,Goal,17.0,Left Foot,,Rodri,Pass (Live),Manuel Akanji,Pass (Live)
+9,60,Luke Harris,Fulham,0.28,0.28,Saved,11.0,Right Foot,,Raúl Jiménez,Pass (Live),Raúl Jiménez,Take-On
+10,64,Julián Álvarez,Manchester City,0.08,,Blocked,9.0,Left Foot,,Erling Haaland,Pass (Live),Rodri,Pass (Live)
+11,70,Erling Haaland (pen),Manchester City,0.79,1.0,Goal,13.0,Left Foot,,Julián Álvarez,Fouled,Manuel Akanji,Pass (Live)
+12,74,Raúl Jiménez,Fulham,0.13,0.42,Saved,9.0,Right Foot,Deflected,Timothy Castagne,Pass (Live),Harrison Reed,Pass (Live)
+13,90+5,Erling Haaland,Manchester City,0.19,0.46,Goal,15.0,Left Foot,,Sergio Gómez,Pass (Live),Sergio Gómez,Take-On

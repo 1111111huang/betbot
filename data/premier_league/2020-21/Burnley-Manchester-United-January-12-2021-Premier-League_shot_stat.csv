@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Robbie Brady,Burnley,0.03,,Off Target,20.0,Left Foot,Volley,Matthew Lowton,Pass (Live),James Tarkowski,Pass (Live)
+1,3,Jóhann Berg Guðmundsson,Burnley,0.03,,Blocked,26.0,Left Foot,,,,,
+2,10,Robbie Brady,Burnley,0.03,,Blocked,26.0,Right Foot,,Ashley Barnes,Pass (Live),Chris Wood,Pass (Live)
+3,13,Ben Mee,Burnley,0.03,,Off Target,31.0,Left Foot,Volley,,,,
+4,17,Bruno Fernandes,Manchester Utd,0.06,0.04,Saved,17.0,Right Foot,,Luke Shaw,Pass (Live),Nemanja Matić,Pass (Live)
+5,19,Anthony Martial,Manchester Utd,0.08,,Blocked,13.0,Right Foot,Volley,Bruno Fernandes,Pass (Live),Marcus Rashford,Pass (Live)
+6,22,Chris Wood,Burnley,0.08,,Blocked,17.0,Left Foot,,Ashley Barnes,Pass (Live),Ashley Westwood,Pass (Live)
+7,25,Anthony Martial,Manchester Utd,0.06,,Off Target,18.0,Left Foot,,Nemanja Matić,Pass (Live),Bruno Fernandes,Pass (Live)
+8,38,Edinson Cavani,Manchester Utd,0.14,,Blocked,10.0,Right Foot,Volley,Paul Pogba,Pass (Live),Bruno Fernandes,Pass (Live)
+9,45,Anthony Martial,Manchester Utd,0.03,0.34,Saved,27.0,Right Foot,,Edinson Cavani,Pass (Live),Luke Shaw,Pass (Live)
+10,,,,,,,,,,,,,
+11,49,Bruno Fernandes,Manchester Utd,0.02,,Blocked,30.0,Right Foot,,Luke Shaw,Pass (Live),Anthony Martial,Pass (Live)
+12,51,Ashley Barnes,Burnley,0.03,,Off Target,27.0,Left Foot,,Chris Wood,Pass (Live),Jóhann Berg Guðmundsson,Pass (Live)
+13,52,Edinson Cavani,Manchester Utd,0.12,0.13,Saved,10.0,Left Foot,,Bruno Fernandes,Pass (Live),Paul Pogba,Pass (Live)
+14,56,Bruno Fernandes,Manchester Utd,0.03,0.03,Saved,24.0,Left Foot,,Aaron Wan-Bissaka,Pass (Live),Marcus Rashford,Pass (Live)
+15,60,Bruno Fernandes,Manchester Utd,0.03,0.18,Saved,26.0,Right Foot,,Anthony Martial,Pass (Live),Luke Shaw,Pass (Live)
+16,67,Edinson Cavani,Manchester Utd,0.08,,Off Target,10.0,Left Foot,,Anthony Martial,Pass (Live),Nemanja Matić,Pass (Live)
+17,71,Paul Pogba,Manchester Utd,0.06,0.02,Goal,18.0,Right Foot,"Deflected, Volley",Marcus Rashford,Pass (Live),Bruno Fernandes,Pass (Live)
+18,82,Anthony Martial,Manchester Utd,0.09,,Blocked,10.0,Right Foot,,Paul Pogba,Pass (Live),Bruno Fernandes,Pass (Live)
+19,85,Josh Brownhill,Burnley,0.03,,Off Target,24.0,Right Foot,Volley,Matthew Lowton,Pass (Live),Dwight McNeil,Pass (Live)
+20,87,Matěj Vydra,Burnley,0.06,,Blocked,14.0,Right Foot,,Matthew Lowton,Pass (Live),Ashley Westwood,Pass (Live)
+21,88,Matěj Vydra,Burnley,0.07,,Off Target,11.0,Left Foot,Volley,James Tarkowski,Pass (Live),Matěj Vydra,Shot
+22,90+1,James Tarkowski,Burnley,0.46,,Blocked,10.0,Left Foot,Volley,Jóhann Berg Guðmundsson,Pass (Live),Jay Rodriguez,Pass (Live)
+23,90+4,Anthony Martial,Manchester Utd,0.36,0.37,Saved,15.0,Right Foot,,Edinson Cavani,Pass (Live),Scott McTominay,Pass (Live)
+24,90+5,Matěj Vydra,Burnley,0.05,,Off Target,15.0,Right Foot,Volley,Josh Brownhill,Pass (Live),Matthew Lowton,Pass (Dead)

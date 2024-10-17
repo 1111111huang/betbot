@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Kyle Walker,Manchester City,0.03,,Blocked,31.0,Right Foot,,Phil Foden,Pass (Live),Kevin De Bruyne,Pass (Live)
+1,2,Raheem Sterling,Manchester City,0.03,,Off Target,24.0,Right Foot,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+2,3,Kevin De Bruyne,Manchester City,0.03,,Woodwork,34.0,Right Foot,Free kick,Raheem Sterling,Fouled,Kevin De Bruyne,Pass (Live)
+3,11,Kevin De Bruyne,Manchester City,0.04,,Blocked,22.0,Right Foot,,Kevin De Bruyne,Take-On,,
+4,12,Rúben Dias,Manchester City,0.07,,Off Target,8.0,Head,,Riyad Mahrez,Pass (Dead),Kevin De Bruyne,Shot
+5,13,Ferrán Torres,Manchester City,0.04,,Blocked,18.0,Right Foot,,,,,
+6,14,Ezgjan Alioski,Leeds United,0.24,,Off Target,10.0,Head,,Luke Ayling,Pass (Live),Hélder Costa,Pass (Live)
+7,16,Ferrán Torres,Manchester City,0.14,,Blocked,10.0,Left Foot,,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+8,17,Raheem Sterling,Manchester City,0.05,0.26,Goal,17.0,Right Foot,,Raheem Sterling,Take-On,Ferrán Torres,Pass (Live)
+9,21,Kevin De Bruyne,Manchester City,0.06,,Blocked,11.0,Left Foot,,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+10,21,Aymeric Laporte,Manchester City,0.05,,Off Target,11.0,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Shot
+11,22,Phil Foden,Manchester City,0.06,,Off Target,17.0,Left Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Tackle
+12,24,Patrick Bamford,Leeds United,0.06,,Off Target,12.0,Left Foot,,Hélder Costa,Pass (Live),Mateusz Klich,Pass (Live)
+13,37,Stuart Dallas,Leeds United,0.44,0.66,Saved,4.0,Right Foot,,Stuart Dallas,Take-On,Tyler Roberts,Pass (Live)
+14,39,Phil Foden,Manchester City,0.04,,Woodwork,17.0,Left Foot,,Riyad Mahrez,Pass (Live),Rodri,Pass (Live)
+15,45+1,Luke Ayling,Leeds United,0.53,0.76,Saved,9.0,Left Foot,,Luke Ayling,Take-On,Tyler Roberts,Fouled
+16,,,,,,,,,,,,,
+17,46,Patrick Bamford,Leeds United,0.08,,Blocked,9.0,Left Foot,,Ian Poveda,Pass (Live),Kalvin Phillips,Pass (Live)
+18,55,Raheem Sterling,Manchester City,0.06,,Blocked,13.0,Right Foot,,Phil Foden,Pass (Live),Riyad Mahrez,Pass (Live)
+19,58,Rodrigo,Leeds United,0.06,,Blocked,11.0,Left Foot,,Mateusz Klich,Pass (Live),Hélder Costa,Pass (Live)
+20,59,Rodrigo,Leeds United,0.42,0.49,Goal,4.0,Right Foot,,Rodrigo,Shot,,
+21,64,Kalvin Phillips,Leeds United,0.03,0.18,Saved,27.0,Right Foot,,Mateusz Klich,Pass (Live),Stuart Dallas,Pass (Live)
+22,64,Kevin De Bruyne,Manchester City,0.03,,Off Target,22.0,Right Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)
+23,66,Riyad Mahrez,Manchester City,0.04,,Off Target,16.0,Right Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+24,67,Riyad Mahrez,Manchester City,0.04,,Off Target,22.0,Left Foot,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+25,69,Rodrigo,Leeds United,0.06,0.38,Saved,13.0,Head,,Mateusz Klich,Pass (Live),Ian Poveda,Pass (Live)
+26,73,Hélder Costa,Leeds United,0.06,,Blocked,19.0,Right Foot,,Hélder Costa,Take-On,Rodrigo,Pass (Live)
+27,73,Patrick Bamford,Leeds United,0.25,0.57,Saved,5.0,Left Foot,Deflected,Rodrigo,Pass (Live),Mateusz Klich,Pass (Live)
+28,74,Phil Foden,Manchester City,0.04,,Blocked,17.0,Left Foot,,Kyle Walker,Pass (Live),Aymeric Laporte,Pass (Live)
+29,80,Kevin De Bruyne,Manchester City,0.08,,Blocked,18.0,Right Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)
+30,81,Fernandinho,Manchester City,0.03,,Off Target,29.0,Right Foot,,Fernandinho,Take-On,Nathan Aké,Pass (Live)
+31,82,Bernardo Silva,Manchester City,0.04,,Off Target,18.0,Left Foot,,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Live)
+32,82,Bernardo Silva,Manchester City,0.11,,Off Target,11.0,Left Foot,,Rodri,Pass (Live),Bernardo Silva,Pass (Live)
+33,85,Raheem Sterling,Manchester City,0.04,,Off Target,23.0,Right Foot,,Bernardo Silva,Pass (Live),Bernardo Silva,Take-On
+34,86,Patrick Bamford,Leeds United,0.22,0.23,Saved,14.0,Left Foot,,Stuart Dallas,Pass (Live),Leif Davis,Pass (Live)
+35,88,Raheem Sterling,Manchester City,0.08,,Off Target,9.0,Head,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)

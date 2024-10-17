@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Marcos Alonso,Chelsea,0.04,0.12,Saved,18.0,Left Foot,,Mateo Kovačić,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+1,6,Marcos Alonso,Chelsea,0.03,,Blocked,12.0,Head,,Mason Mount,Pass (Dead),Timo Werner,Take-On
+2,7,César Azpilicueta,Chelsea,0.08,,Blocked,8.0,Head,,Mason Mount,Pass (Dead),Marcos Alonso,Shot
+3,7,Tammy Abraham,Chelsea,0.08,,Off Target,9.0,Head,,Mason Mount,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+4,13,Timo Werner,Chelsea,0.06,,Off Target,8.0,Head,,Mason Mount,Pass (Dead),Mason Mount,Pass (Live)
+5,21,Allan Saint-Maximin,Newcastle Utd,0.04,,Blocked,17.0,Right Foot,,Jamal Lewis,Pass (Live),Jonjo Shelvey,Pass (Live)
+6,24,Mateo Kovačić,Chelsea,0.06,,Blocked,22.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Mason Mount,Pass (Live)
+7,26,Timo Werner,Chelsea,0.4,,Off Target,8.0,Right Foot,Volley,Marcos Alonso,Pass (Live),Olivier Giroud,Pass (Live)
+8,29,Jamaal Lascelles,Newcastle Utd,0.05,,Off Target,11.0,Head,,Jonjo Shelvey,Pass (Dead),Miguel Almirón,Take-On
+9,31,Olivier Giroud,Chelsea,0.4,0.31,Goal,11.0,Left Foot,,Andreas Christensen,Pass (Live),Antonio Rüdiger,Pass (Live)
+10,34,Timo Werner,Chelsea,0.36,,Off Target,15.0,Right Foot,,Mateo Kovačić,Pass (Live),Olivier Giroud,Pass (Live)
+11,39,Timo Werner,Chelsea,0.34,0.32,Goal,2.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Mason Mount,Pass (Live)
+12,42,Mason Mount,Chelsea,0.03,,Off Target,25.0,Left Foot,,César Azpilicueta,Pass (Live),Jorginho,Pass (Live)
+13,45+2,Mason Mount,Chelsea,0.05,,Off Target,14.0,Left Foot,,Marcos Alonso,Pass (Live),César Azpilicueta,Interception
+14,,,,,,,,,,,,,
+15,46,Isaac Hayden,Newcastle Utd,0.03,,Blocked,27.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Isaac Hayden,Pass (Live)
+16,46,Dwight Gayle,Newcastle Utd,0.07,0.04,Saved,15.0,Right Foot,Volley,Isaac Hayden,Shot,,
+17,48,Jonjo Shelvey,Newcastle Utd,0.05,0.33,Saved,33.0,Right Foot,Free kick,Dwight Gayle,Fouled,,
+18,53,Joe Willock,Newcastle Utd,0.12,,Off Target,8.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Jamal Lewis,Pass (Live)
+19,58,Marcos Alonso,Chelsea,0.02,,Blocked,30.0,Left Foot,,Timo Werner,Pass (Live),Marcos Alonso,Pass (Live)
+20,58,Mateo Kovačić,Chelsea,0.06,,Off Target,14.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Marcos Alonso,Shot
+21,59,Marcos Alonso,Chelsea,0.05,,Blocked,17.0,Left Foot,,Marcos Alonso,Pass (Live),Andreas Christensen,Pass (Live)
+22,62,Jonjo Shelvey,Newcastle Utd,0.01,0.06,Saved,59.0,Right Foot,,,,,
+23,66,Olivier Giroud,Chelsea,0.05,,Blocked,11.0,Head,,Mason Mount,Pass (Dead),Mateo Kovačić,Pass (Live)
+24,69,Marcos Alonso,Chelsea,0.06,0.02,Saved,11.0,Head,,Timo Werner,Pass (Live),Marcos Alonso,Pass (Live)
+25,74,Joe Willock,Newcastle Utd,0.05,0.4,Saved,13.0,Head,,Ryan Fraser,Pass (Live),Isaac Hayden,Pass (Live)
+26,75,Jamaal Lascelles,Newcastle Utd,0.07,,Off Target,10.0,Head,,Ryan Fraser,Pass (Dead),Joe Willock,Shot
+27,79,Reece James,Chelsea,0.03,0.1,Saved,21.0,Right Foot,Deflected,N'Golo Kanté,Pass (Live),Jorginho,Pass (Live)
+28,82,Miguel Almirón,Newcastle Utd,0.06,,Off Target,13.0,Left Foot,Volley,Jamaal Lascelles,Pass (Live),Andy Carroll,Pass (Live)

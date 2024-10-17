@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Mason Mount,Chelsea,0.05,,Blocked,15.0,Right Foot,,Hakim Ziyech,Pass (Live),Mason Mount,Pass (Live)
+1,12,Bruno Fernandes,Manchester Utd,0.03,,Blocked,29.0,Right Foot,,Scott McTominay,Pass (Live),Fred,Pass (Live)
+2,14,Marcus Rashford,Manchester Utd,0.06,0.4,Saved,31.0,Right Foot,Free kick,Scott McTominay,Fouled,Bruno Fernandes,Pass (Live)
+3,15,Hakim Ziyech,Chelsea,0.03,0.03,Saved,24.0,Left Foot,,Callum Hudson-Odoi,Pass (Live),César Azpilicueta,Pass (Live)
+4,22,Callum Hudson-Odoi,Chelsea,0.05,,Off Target,17.0,Right Foot,Volley,César Azpilicueta,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+5,32,Olivier Giroud,Chelsea,0.03,,Off Target,32.0,Left Foot,Volley,,,,
+6,36,Olivier Giroud,Chelsea,0.42,,Off Target,6.0,Head,,Callum Hudson-Odoi,Pass (Live),Antonio Rüdiger,Pass (Live)
+7,41,Bruno Fernandes,Manchester Utd,0.03,,Blocked,25.0,Right Foot,,Luke Shaw,Pass (Live),Fred,Take-On
+8,45+1,Mason Greenwood,Manchester Utd,0.03,,Blocked,27.0,Right Foot,,Marcus Rashford,Pass (Live),Marcus Rashford,Take-On
+9,,,,,,,,,,,,,
+10,49,Hakim Ziyech,Chelsea,0.1,0.27,Saved,15.0,Left Foot,,Ben Chilwell,Pass (Live),Mason Mount,Pass (Live)
+11,49,Reece James,Chelsea,0.06,,Blocked,14.0,Right Foot,,Hakim Ziyech,Shot,,
+12,52,Daniel James,Manchester Utd,0.04,,Blocked,25.0,Right Foot,,Marcus Rashford,Pass (Live),Bruno Fernandes,Pass (Live)
+13,54,Hakim Ziyech,Chelsea,0.03,,Blocked,25.0,Left Foot,,Hakim Ziyech,Take-On,Reece James,Pass (Live)
+14,59,N'Golo Kanté,Chelsea,0.03,,Blocked,27.0,Right Foot,,N'Golo Kanté,Take-On,Mateo Kovačić,Pass (Live)
+15,60,Mason Greenwood,Manchester Utd,0.04,,Off Target,22.0,Left Foot,,Daniel James,Pass (Live),Mason Greenwood,Pass (Live)
+16,61,Scott McTominay,Manchester Utd,0.06,0.1,Saved,16.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),,
+17,63,Marcus Rashford,Manchester Utd,0.04,0.02,Saved,18.0,Right Foot,,Fred,Pass (Live),Mason Greenwood,Fouled
+18,63,Mason Mount,Chelsea,0.07,,Blocked,9.0,Right Foot,,Mason Mount,Take-On,Hakim Ziyech,Pass (Live)
+19,63,Ben Chilwell,Chelsea,0.03,,Blocked,27.0,Left Foot,,Hakim Ziyech,Pass (Live),Mason Mount,Shot
+20,65,Scott McTominay,Manchester Utd,0.03,,Blocked,29.0,Right Foot,,Luke Shaw,Pass (Live),,
+21,68,Fred,Manchester Utd,0.03,,Off Target,26.0,Right Foot,,Luke Shaw,Pass (Live),Mason Greenwood,Pass (Live)
+22,74,Mateo Kovačić,Chelsea,0.04,0.27,Saved,31.0,Right Foot,,Hakim Ziyech,Pass (Live),Reece James,Pass (Live)
+23,75,César Azpilicueta,Chelsea,0.03,0.35,Saved,27.0,Left Foot,Deflected,Mateo Kovačić,Pass (Live),Christian Pulisic,Pass (Live)
+24,80,Andreas Christensen,Chelsea,0.03,,Off Target,18.0,Head,,Mason Mount,Pass (Dead),Christian Pulisic,Fouled
+25,85,Timo Werner,Chelsea,0.04,0.02,Saved,18.0,Left Foot,,N'Golo Kanté,Pass (Live),Christian Pulisic,Pass (Live)
+26,85,Christian Pulisic,Chelsea,0.03,,Off Target,25.0,Right Foot,,Andreas Christensen,Pass (Live),Andreas Christensen,Take-On
+27,90+3,Mason Mount,Chelsea,0.02,,Blocked,31.0,Right Foot,Volley,Mason Mount,Fouled,Mateo Kovačić,Pass (Live)
+28,90+3,Mateo Kovačić,Chelsea,0.02,0.33,Saved,33.0,Right Foot,,Mason Mount,Shot,,
+29,90+3,Fred,Manchester Utd,0.03,0.02,Saved,30.0,Left Foot,,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)

@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Jean-Ricner Bellegarde,Wolves,0.04,0.06,Saved,19.0,Right Foot,,Rayan Aït-Nouri,Pass (Live),João Gomes,Pass (Live)
+1,15,Jørgen Strand Larsen,Wolves,0.04,0.0,Off Target,10.0,Head,,Jean-Ricner Bellegarde,Pass (Live),João Gomes,Pass (Live)
+2,22,Matheus Cunha,Wolves,0.03,0.11,Saved,21.0,Left Foot,,Nélson Semedo,Pass (Live),Santiago Bueno,Pass (Live)
+3,26,Luis Díaz,Liverpool,0.12,0.0,Blocked,16.0,Right Foot,Deflected,,,,
+4,32,Trent Alexander-Arnold,Liverpool,0.07,0.02,Saved,26.0,Right Foot,Free kick,Mohamed Salah,Pass (Dead),Alexis Mac Allister,Fouled
+5,40,Dominik Szoboszlai,Liverpool,0.75,0.33,Saved,4.0,Right Foot,,Andrew Robertson,Pass (Live),Virgil van Dijk,Pass (Live)
+6,40,Trent Alexander-Arnold,Liverpool,0.02,0.0,Off Target,35.0,Right Foot,,Luis Díaz,Pass (Live),Dominik Szoboszlai,Shot
+7,45+2,Ibrahima Konaté,Liverpool,0.1,0.12,Goal,8.0,Head,,Diogo Jota,Pass (Live),Ryan Gravenberch,Pass (Live)
+8,45+3,Mario Lemina,Wolves,0.01,0.0,Off Target,56.0,Right Foot,,Jørgen Strand Larsen,Pass (Dead),,
+9,,,,,,,,,,,,,
+10,50,Mohamed Salah,Liverpool,0.49,0.0,Off Target,17.0,Right Foot,,,,,
+11,56,Rayan Aït-Nouri,Wolves,0.38,0.95,Goal,4.0,Right Foot,,Jørgen Strand Larsen,Pass (Live),,
+12,61,Mohamed Salah (pen),Liverpool,0.79,0.6,Goal,13.0,Left Foot,,Diogo Jota,Fouled,Luis Díaz,Pass (Live)
+13,65,Mohamed Salah,Liverpool,0.04,0.05,Saved,19.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Alexis Mac Allister,Pass (Live)
+14,68,Matheus Cunha,Wolves,0.02,0.0,Off Target,22.0,Right Foot,,Rayan Aït-Nouri,Pass (Live),,
+15,72,Carlos Forbs,Wolves,0.11,0.0,Blocked,16.0,Right Foot,,Matheus Cunha,Pass (Live),André,Pass (Live)
+16,76,Nélson Semedo,Wolves,0.01,0.0,Blocked,35.0,Right Foot,,André,Pass (Live),Matheus Cunha,Pass (Live)
+17,78,Curtis Jones,Liverpool,0.09,0.41,Saved,15.0,Right Foot,,Mohamed Salah,Pass (Live),Curtis Jones,Pass (Live)
+18,83,Ibrahima Konaté,Liverpool,0.06,0.0,Off Target,9.0,Head,,Alexis Mac Allister,Pass (Live),Ryan Gravenberch,Pass (Live)

@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Marcus Rashford,Manchester Utd,0.04,,Off Target,13.0,Right Foot,,,,,
+1,10,Rasmus Højlund,Manchester Utd,0.75,0.94,Saved,4.0,Left Foot,Volley,Harry Maguire,Pass (Live),Harry Maguire,Pass (Live)
+2,16,Scott McTominay,Manchester Utd,0.14,,Off Target,9.0,Head,,Diogo Dalot,Pass (Live),Marcus Rashford,Pass (Live)
+3,18,Carlton Morris,Luton Town,0.05,,Blocked,10.0,Right Foot,Volley,Alfie Doughty,Pass (Live),Chiedozie Ogbene,Pass (Live)
+4,20,Alejandro Garnacho,Manchester Utd,0.08,,Off Target,15.0,Right Foot,,Harry Maguire,Pass (Live),Marcus Rashford,Pass (Live)
+5,22,Chiedozie Ogbene,Luton Town,0.02,0.03,Saved,26.0,Left Foot,,Issa Kaboré,Pass (Live),Chiedozie Ogbene,Pass (Live)
+6,24,Bruno Fernandes,Manchester Utd,0.12,,Off Target,21.0,Left Foot,,Alejandro Garnacho,Pass (Live),Sergio Reguilón,Pass (Live)
+7,28,Rasmus Højlund,Manchester Utd,0.17,,Blocked,3.0,Right Foot,Volley,,,,
+8,35,Bruno Fernandes,Manchester Utd,0.02,,Blocked,22.0,Right Foot,,Alejandro Garnacho,Pass (Live),Alejandro Garnacho,Take-On
+9,36,Carlton Morris,Luton Town,0.09,0.3,Saved,12.0,Head,,Issa Kaboré,Pass (Live),,
+10,36,Andros Townsend,Luton Town,0.03,0.26,Saved,26.0,Left Foot,,,,,
+11,,,,,,,,,,,,,
+12,49,Rasmus Højlund,Manchester Utd,0.19,,Off Target,6.0,Head,,Bruno Fernandes,Pass (Dead),Mason Mount,Fouled
+13,50,Andros Townsend,Luton Town,0.03,,Off Target,30.0,Right Foot,,Ross Barkley,Pass (Live),Alfie Doughty,Pass (Live)
+14,51,Sergio Reguilón,Manchester Utd,0.02,,Off Target,17.0,Left Foot,,Sergio Reguilón,Pass (Live),,
+15,53,Andros Townsend,Luton Town,0.04,,Blocked,18.0,Left Foot,,Chiedozie Ogbene,Pass (Live),Alfie Doughty,Pass (Live)
+16,59,Victor Lindelöf,Manchester Utd,0.07,0.07,Goal,11.0,Right Foot,,,,,
+17,64,Tahith Chong,Luton Town,0.05,,Blocked,16.0,Left Foot,Volley,Tahith Chong,Pass (Live),Issa Kaboré,Pass (Live)
+18,66,Ross Barkley,Luton Town,0.02,,Off Target,31.0,Right Foot,,Chiedozie Ogbene,Pass (Live),Carlton Morris,Pass (Live)
+19,70,Marcus Rashford,Manchester Utd,0.26,0.17,Saved,11.0,Right Foot,,Antony,Pass (Live),Mason Mount,Pass (Live)
+20,73,Ross Barkley,Luton Town,0.06,,Blocked,27.0,Right Foot,Free kick,Tahith Chong,Fouled,Ross Barkley,Pass (Live)
+21,75,Bruno Fernandes,Manchester Utd,0.15,,Blocked,13.0,Right Foot,,Sergio Reguilón,Pass (Live),Marcus Rashford,Pass (Live)
+22,81,Scott McTominay,Manchester Utd,0.06,0.3,Saved,12.0,Head,,Bruno Fernandes,Pass (Live),Antony,Pass (Live)
+23,88,Diogo Dalot,Manchester Utd,0.01,,Off Target,29.0,Right Foot,Volley,Mason Mount,Pass (Live),,
+24,90+4,Bruno Fernandes,Manchester Utd,0.09,,Off Target,23.0,Right Foot,Free kick,Marcus Rashford,Fouled,,
+25,90+8,Teden Mengi,Luton Town,0.03,0.09,Saved,23.0,Left Foot,,Elijah Adebayo,Fouled,Tahith Chong,Pass (Live)

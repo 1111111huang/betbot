@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Philippe Coutinho,Aston Villa,0.03,,Blocked,16.0,Right Foot,,Philippe Coutinho,Pass (Live),Lucas Digne,Pass (Live)
+1,6,Ollie Watkins,Aston Villa,0.07,,Off Target,7.0,Right Foot,Volley,Lucas Digne,Pass (Dead),Matty Cash,Pass (Live)
+2,15,Pierre Lees-Melou,Norwich City,0.1,,Off Target,17.0,Right Foot,,Max Aarons,Pass (Live),Kieran Dowell,Pass (Live)
+3,17,Matty Cash,Aston Villa,0.05,0.08,Saved,8.0,Other,,Lucas Digne,Pass (Live),Philippe Coutinho,Pass (Live)
+4,18,Philippe Coutinho,Aston Villa,0.1,,Blocked,17.0,Right Foot,,Jacob Ramsey,Pass (Live),Jacob Ramsey,Take-On
+5,18,John McGinn,Aston Villa,0.07,,Blocked,22.0,Left Foot,,Philippe Coutinho,Shot,,
+6,19,Leon Bailey,Aston Villa,0.03,0.4,Saved,25.0,Left Foot,,Philippe Coutinho,Pass (Live),Jacob Ramsey,Pass (Live)
+7,27,Milot Rashica,Norwich City,0.02,0.14,Saved,26.0,Right Foot,,Milot Rashica,Take-On,Brandon Williams,Pass (Live)
+8,32,Brandon Williams,Norwich City,0.02,0.31,Saved,32.0,Right Foot,,Milot Rashica,Pass (Live),Brandon Williams,Pass (Live)
+9,34,Mathias Normann,Norwich City,0.01,,Off Target,34.0,Right Foot,,Milot Rashica,Pass (Live),Pierre Lees-Melou,Pass (Live)
+10,41,Ollie Watkins,Aston Villa,0.08,0.07,Goal,12.0,Right Foot,Deflected,Danny Ings,Pass (Live),Lucas Digne,Pass (Live)
+11,45,Grant Hanley,Norwich City,0.11,,Off Target,8.0,Head,,Kieran Dowell,Pass (Dead),Milot Rashica,Fouled
+12,45,Brandon Williams,Norwich City,0.11,,Off Target,8.0,Head,,Grant Hanley,Shot,,
+13,45+2,Jacob Ramsey,Aston Villa,0.04,,Off Target,15.0,Head,,Lucas Digne,Pass (Live),Danny Ings,Pass (Live)
+14,,,,,,,,,,,,,
+15,51,Danny Ings,Aston Villa,0.2,,Blocked,8.0,Right Foot,,Ollie Watkins,Pass (Live),Danny Ings,Pass (Live)
+16,52,Danny Ings,Aston Villa,0.05,,Woodwork,11.0,Head,,John McGinn,Pass (Dead),Danny Ings,Shot
+17,52,Tim Iroegbunam,Aston Villa,0.12,,Off Target,11.0,Left Foot,,Danny Ings,Shot,,
+18,54,Philippe Coutinho,Aston Villa,0.02,,Off Target,30.0,Right Foot,,Lucas Digne,Pass (Live),Philippe Coutinho,Pass (Live)
+19,55,Ollie Watkins,Aston Villa,0.08,,Off Target,13.0,Left Foot,,Philippe Coutinho,Pass (Live),John McGinn,Pass (Live)
+20,56,Philippe Coutinho,Aston Villa,0.02,,Blocked,30.0,Right Foot,,Ollie Watkins,Pass (Live),Lucas Digne,Pass (Live)
+21,56,Danny Ings,Aston Villa,0.08,0.26,Saved,11.0,Right Foot,,,,,
+22,57,Pierre Lees-Melou,Norwich City,0.12,0.1,Saved,17.0,Left Foot,,Teemu Pukki,Pass (Live),Milot Rashica,Pass (Live)
+23,66,Mathias Normann,Norwich City,0.02,,Off Target,28.0,Right Foot,Volley,Kieran Dowell,Pass (Dead),Brandon Williams,Fouled
+24,73,Max Aarons,Norwich City,0.02,,Off Target,24.0,Right Foot,,Billy Gilmour,Pass (Live),Max Aarons,Pass (Live)
+25,75,Ollie Watkins,Aston Villa,0.05,,Blocked,16.0,Right Foot,,Philippe Coutinho,Pass (Live),Douglas Luiz,Pass (Live)
+26,79,Ollie Watkins,Aston Villa,0.14,,Blocked,16.0,Left Foot,,Jacob Ramsey,Pass (Live),Lucas Digne,Pass (Live)
+27,79,Ollie Watkins,Aston Villa,0.13,,Off Target,15.0,Left Foot,,Danny Ings,Pass (Live),Emi Buendía,Pass (Live)
+28,90+2,Emi Buendía,Aston Villa,0.06,,Off Target,22.0,Right Foot,,Emi Buendía,Take-On,,
+29,90+3,Jacob Ramsey,Aston Villa,0.33,0.58,Saved,12.0,Right Foot,,Emi Buendía,Pass (Live),Ollie Watkins,Tackle
+30,90+3,Danny Ings,Aston Villa,0.1,0.32,Goal,13.0,Right Foot,,Jacob Ramsey,Shot,,

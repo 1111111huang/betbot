@@ -1,0 +1,381 @@
+home_goals,away_goals,home_corners,away_corners,home_cards,away_cards,home_shots,away_shots,home_sots,away_sots,home,away,date
+2,0,4,4,1,1,16,8,4,0,Manchester City,Sheffield Utd,December-29-2019
+0,2,5,4,2,0,15,7,3,2,Burnley,Crystal Palace,November-30-2019
+2,1,4,3,0,1,11,8,6,5,Manchester Utd,Tottenham,December-4-2019
+5,2,7,2,0,1,18,6,9,2,Manchester Utd,Bournemouth,July-4-2020
+1,1,4,5,2,3,13,13,5,3,Newcastle Utd,Watford,August-31-2019
+0,0,5,7,1,3,11,10,2,1,Bournemouth,Norwich City,October-19-2019
+2,0,4,12,2,1,7,24,3,6,Tottenham,Leicester City,July-19-2020
+2,0,8,5,1,2,15,5,7,1,Leicester City,Sheffield Utd,July-16-2020
+1,4,5,3,2,0,12,12,1,7,Bournemouth,Newcastle Utd,July-1-2020
+0,4,0,7,2,0,2,25,0,9,Watford,Manchester City,July-21-2020
+1,3,4,5,1,3,24,6,5,3,Southampton,Bournemouth,September-20-2019
+1,5,5,4,1,2,11,15,4,6,Wolves,Chelsea,September-14-2019
+0,9,2,3,0,0,6,24,3,14,Southampton,Leicester City,October-25-2019
+1,2,3,7,2,4,13,14,7,4,Norwich City,Wolves,December-21-2019
+1,2,5,2,0,2,21,11,7,3,Aston Villa,Bournemouth,August-17-2019
+2,0,1,5,2,5,3,18,3,4,Tottenham,Manchester City,February-2-2020
+0,1,6,4,0,0,6,23,2,8,Norwich City,Burnley,July-18-2020
+5,2,5,5,1,2,11,12,5,4,Liverpool,Everton,December-4-2019
+3,2,3,2,0,4,9,17,4,5,Arsenal,Everton,February-23-2020
+0,1,2,4,1,2,5,17,1,6,Norwich City,Liverpool,February-15-2020
+0,0,7,11,2,1,15,19,5,4,Newcastle Utd,Norwich City,February-1-2020
+1,2,8,8,3,1,12,20,5,9,Arsenal,Brighton,December-5-2019
+0,0,11,3,0,2,16,8,1,2,Leicester City,Wolves,August-11-2019
+3,0,6,2,5,1,19,11,5,2,Watford,Aston Villa,December-28-2019
+2,3,1,6,1,1,6,23,5,8,Norwich City,Chelsea,August-24-2019
+1,3,4,7,1,4,12,20,2,8,Brighton,Liverpool,July-8-2020
+4,0,6,0,2,1,14,4,6,1,Leicester City,Aston Villa,March-9-2020
+1,0,5,8,4,4,8,9,2,3,Sheffield Utd,Arsenal,October-21-2019
+2,2,3,13,2,2,9,23,5,6,Bournemouth,Chelsea,February-29-2020
+0,2,5,1,4,3,8,14,1,4,Burnley,Manchester Utd,December-28-2019
+0,3,5,4,1,1,10,18,1,5,Bournemouth,Watford,January-12-2020
+2,3,4,4,2,4,11,12,2,5,Watford,Everton,February-1-2020
+1,1,2,6,2,2,13,13,2,5,Newcastle Utd,Wolves,October-27-2019
+2,0,4,4,1,1,19,8,7,1,Leicester City,Arsenal,November-9-2019
+3,1,9,1,0,1,12,5,3,3,Southampton,Sheffield Utd,July-26-2020
+3,3,5,2,1,2,12,11,8,5,Sheffield Utd,Manchester Utd,November-24-2019
+2,2,4,4,2,2,14,7,4,3,Leicester City,Chelsea,February-1-2020
+0,1,4,4,2,2,17,8,2,3,Tottenham,Newcastle Utd,August-25-2019
+2,1,6,4,5,3,15,13,9,4,Tottenham,Arsenal,July-12-2020
+1,3,6,4,2,1,19,17,6,8,Aston Villa,Southampton,December-21-2019
+1,2,7,4,1,0,7,10,2,2,Sheffield Utd,Leicester City,August-24-2019
+3,0,3,4,0,1,20,7,7,2,Manchester Utd,Watford,February-23-2020
+0,3,3,3,2,3,9,13,1,5,Aston Villa,Manchester Utd,July-9-2020
+3,0,6,6,1,2,13,6,6,0,Sheffield Utd,Burnley,November-2-2019
+3,0,3,1,2,3,19,6,6,4,Wolves,Norwich City,February-23-2020
+2,0,3,2,2,2,7,7,3,0,Sheffield Utd,Aston Villa,December-14-2019
+1,2,2,2,5,4,7,13,2,4,Arsenal,Chelsea,December-29-2019
+1,0,6,6,2,3,9,11,3,2,Burnley,Everton,October-5-2019
+2,1,9,5,2,1,25,9,9,3,Chelsea,Aston Villa,December-4-2019
+0,2,3,3,1,5,14,6,3,2,Leicester City,Manchester Utd,July-26-2020
+2,3,7,2,2,1,16,12,6,9,West Ham,Newcastle Utd,November-2-2019
+1,1,3,4,2,2,17,14,5,4,Tottenham,Sheffield Utd,November-9-2019
+2,0,4,5,3,1,14,10,2,3,Crystal Palace,Norwich City,September-28-2019
+1,2,8,1,3,2,23,10,5,6,Manchester City,Manchester Utd,December-7-2019
+3,0,3,3,2,1,17,8,6,3,Brighton,Tottenham,October-5-2019
+1,4,3,2,1,1,4,17,2,8,Burnley,Manchester City,December-3-2019
+2,1,2,11,1,3,12,19,6,4,Newcastle Utd,Southampton,December-8-2019
+0,2,1,7,1,2,13,17,5,5,Crystal Palace,Manchester Utd,July-16-2020
+2,2,11,4,2,0,15,9,6,3,Arsenal,Crystal Palace,October-27-2019
+1,2,6,6,3,0,13,15,1,4,Burnley,Brighton,July-26-2020
+0,0,9,4,3,2,13,10,3,3,Crystal Palace,Sheffield Utd,February-1-2020
+1,0,4,5,2,2,15,6,3,3,Norwich City,Bournemouth,January-18-2020
+2,0,3,2,2,1,11,7,5,3,Wolves,Crystal Palace,July-20-2020
+2,1,3,4,0,0,15,12,7,5,Liverpool,Brighton,November-30-2019
+3,1,3,6,0,2,12,18,5,3,Liverpool,Manchester City,November-10-2019
+3,1,8,2,0,2,10,14,4,3,West Ham,Watford,July-17-2020
+0,2,7,7,3,5,18,13,7,5,Everton,Norwich City,November-23-2019
+3,1,5,7,0,4,13,14,6,5,Bournemouth,Everton,September-15-2019
+1,2,1,8,2,1,8,19,4,5,Aston Villa,Chelsea,June-21-2020
+3,0,2,3,2,2,12,7,8,1,Newcastle Utd,Sheffield Utd,June-21-2020
+2,1,5,0,3,1,26,3,4,3,Manchester City,Southampton,November-2-2019
+2,0,7,4,1,3,16,9,5,4,Liverpool,Manchester Utd,January-19-2020
+2,3,6,9,1,0,13,14,4,6,Crystal Palace,Chelsea,July-7-2020
+0,1,11,3,1,3,16,2,3,1,Everton,Sheffield Utd,September-21-2019
+3,1,4,6,0,1,14,10,8,2,Everton,Crystal Palace,February-8-2020
+0,5,1,0,2,2,5,13,3,8,West Ham,Manchester City,August-10-2019
+2,0,0,5,2,3,7,12,3,1,Aston Villa,Everton,August-23-2019
+1,0,7,1,2,2,22,2,6,0,Chelsea,Norwich City,July-14-2020
+2,3,1,1,2,1,11,7,5,3,Southampton,Wolves,January-18-2020
+0,1,3,5,2,4,3,2,0,1,Bournemouth,Burnley,December-21-2019
+3,0,3,3,2,2,13,11,4,3,Manchester City,Liverpool,July-2-2020
+1,3,1,3,1,0,3,14,2,6,Newcastle Utd,Liverpool,July-26-2020
+2,0,3,3,3,1,10,17,2,8,Watford,Manchester Utd,December-22-2019
+0,1,5,7,2,3,13,13,4,4,Crystal Palace,Wolves,September-22-2019
+2,0,6,0,3,2,23,3,5,1,Chelsea,Crystal Palace,November-9-2019
+0,3,0,2,0,1,3,21,0,9,Bournemouth,Liverpool,December-7-2019
+2,2,2,6,1,3,8,9,4,5,Manchester Utd,Southampton,July-13-2020
+3,1,12,0,1,0,31,7,6,4,Tottenham,Aston Villa,August-10-2019
+2,1,3,4,1,1,6,15,1,3,Everton,Leicester City,July-1-2020
+0,0,7,12,3,2,9,9,2,0,Bournemouth,Tottenham,July-9-2020
+0,1,2,1,1,1,11,9,1,2,Aston Villa,Wolves,June-27-2020
+3,0,3,2,0,2,13,6,6,2,Wolves,Everton,July-12-2020
+1,0,4,2,2,1,14,9,6,2,Everton,Brighton,January-11-2020
+2,1,3,5,1,4,17,2,7,1,Liverpool,Leicester City,October-5-2019
+0,2,2,2,2,4,10,8,1,4,Wolves,Arsenal,July-4-2020
+1,2,8,1,2,4,21,5,3,3,Manchester Utd,Crystal Palace,August-24-2019
+3,2,3,5,1,1,12,19,6,6,West Ham,Brighton,February-1-2020
+1,0,4,1,0,2,7,9,4,0,Burnley,Newcastle Utd,December-14-2019
+2,0,8,2,0,2,16,10,6,2,Brighton,Bournemouth,December-28-2019
+1,1,4,5,1,2,11,12,4,3,Arsenal,Sheffield Utd,January-18-2020
+1,1,7,6,1,0,12,11,5,3,West Ham,Everton,January-18-2020
+0,0,5,4,2,3,9,6,0,2,Everton,Arsenal,December-21-2019
+0,1,5,7,1,3,11,11,2,4,Southampton,West Ham,December-14-2019
+3,1,1,6,2,0,7,9,5,2,Sheffield Utd,Tottenham,July-2-2020
+0,0,8,6,4,2,11,12,3,1,Brighton,Newcastle Utd,July-20-2020
+5,0,0,1,1,1,18,1,6,0,Manchester City,Burnley,June-22-2020
+2,1,7,3,0,1,14,6,6,3,Liverpool,Bournemouth,March-7-2020
+1,1,9,2,4,3,12,7,2,2,Tottenham,Watford,October-19-2019
+1,1,1,3,0,2,16,13,1,4,Wolves,Burnley,August-25-2019
+2,1,4,5,2,2,9,14,4,6,Tottenham,Southampton,September-28-2019
+5,0,5,0,1,1,31,5,9,4,Manchester City,Norwich City,July-26-2020
+1,1,10,2,2,2,12,10,4,3,West Ham,Sheffield Utd,October-26-2019
+1,0,10,2,0,0,21,6,5,0,Everton,Burnley,December-26-2019
+0,2,0,8,1,2,6,15,0,6,Crystal Palace,Southampton,January-21-2020
+0,1,3,1,2,2,10,5,2,2,Brighton,Watford,February-8-2020
+2,0,7,2,2,1,18,8,7,3,West Ham,Norwich City,August-31-2019
+2,1,3,3,2,4,9,12,4,3,Watford,Norwich City,July-7-2020
+0,3,9,7,1,1,9,22,1,8,Norwich City,Southampton,June-19-2020
+1,1,0,4,2,1,10,13,1,4,West Ham,Aston Villa,July-26-2020
+0,2,4,2,0,1,11,5,3,3,Watford,Brighton,August-10-2019
+1,0,3,6,1,2,9,9,4,3,Manchester Utd,Leicester City,September-14-2019
+2,1,4,3,2,0,21,16,9,4,Newcastle Utd,Bournemouth,November-9-2019
+2,1,6,6,1,0,11,6,5,3,Southampton,Watford,November-30-2019
+1,0,6,0,2,0,7,6,3,1,Sheffield Utd,Wolves,July-8-2020
+4,0,0,2,1,4,13,8,8,2,Arsenal,Norwich City,July-1-2020
+0,1,11,4,0,5,18,10,5,3,Leicester City,Norwich City,December-14-2019
+2,0,4,4,1,2,13,6,7,3,Wolves,West Ham,December-4-2019
+0,1,4,2,0,2,14,13,4,6,Tottenham,Liverpool,January-11-2020
+1,2,0,7,1,2,4,25,2,6,Aston Villa,Liverpool,November-2-2019
+2,0,3,3,2,3,11,5,3,1,Chelsea,Wolves,July-26-2020
+4,0,4,5,2,0,15,10,7,2,Arsenal,Newcastle Utd,February-16-2020
+0,1,5,4,1,1,12,16,2,4,Sheffield Utd,Liverpool,September-28-2019
+1,1,3,8,0,0,9,10,4,3,Burnley,Sheffield Utd,July-5-2020
+1,6,2,2,2,1,6,22,0,11,Aston Villa,Manchester City,January-12-2020
+2,1,0,8,3,1,3,24,2,8,Arsenal,Liverpool,July-15-2020
+2,1,6,1,2,2,16,8,5,2,Aston Villa,Watford,January-21-2020
+1,0,4,6,2,3,12,8,2,2,Everton,Watford,August-17-2019
+0,1,0,2,2,2,12,8,1,2,Norwich City,Brighton,July-4-2020
+2,0,8,3,2,1,14,7,12,4,Burnley,West Ham,November-9-2019
+1,0,10,0,2,1,16,5,7,0,Chelsea,Newcastle Utd,October-19-2019
+0,3,6,5,1,3,15,10,4,4,Watford,Burnley,November-23-2019
+1,2,5,2,3,3,13,6,2,3,Chelsea,Liverpool,September-22-2019
+1,1,2,5,5,0,15,12,4,3,Norwich City,Crystal Palace,January-1-2020
+0,1,4,2,1,3,9,7,2,2,Brighton,Sheffield Utd,December-21-2019
+4,0,3,1,1,1,15,6,6,1,Manchester City,Brighton,August-31-2019
+4,1,3,0,2,2,22,7,10,2,Manchester Utd,Newcastle Utd,December-26-2019
+0,0,11,4,1,1,14,5,6,1,Aston Villa,Sheffield Utd,June-17-2020
+3,0,8,4,3,1,26,11,9,5,Manchester City,Aston Villa,October-26-2019
+2,0,5,3,2,1,16,8,6,2,Liverpool,Watford,December-14-2019
+2,0,3,5,1,2,17,5,7,3,Chelsea,Tottenham,February-22-2020
+2,2,6,3,1,0,11,17,4,7,Newcastle Utd,West Ham,July-5-2020
+1,1,3,1,0,1,7,10,2,4,Manchester Utd,Liverpool,October-20-2019
+0,0,1,6,2,2,8,10,3,3,Everton,Liverpool,June-21-2020
+1,0,5,8,2,3,11,16,2,5,Aston Villa,Norwich City,December-26-2019
+1,1,5,1,1,2,7,5,3,2,Everton,Tottenham,November-3-2019
+2,1,4,4,0,1,16,11,6,3,Leicester City,Everton,December-1-2019
+3,0,3,3,0,2,20,7,8,3,Chelsea,Watford,July-4-2020
+3,2,6,6,1,6,15,8,6,5,Everton,Wolves,September-1-2019
+2,2,1,9,1,2,6,24,3,9,Newcastle Utd,Manchester City,November-30-2019
+1,0,4,6,3,3,12,12,2,3,Newcastle Utd,Manchester Utd,October-6-2019
+1,5,10,4,1,3,21,21,5,11,Norwich City,Aston Villa,October-5-2019
+0,1,9,3,0,3,19,5,6,4,Chelsea,West Ham,November-30-2019
+4,0,2,0,1,2,17,3,11,1,Chelsea,Everton,March-8-2020
+1,0,1,7,1,0,9,10,4,3,Burnley,Watford,June-25-2020
+1,3,5,4,2,3,22,8,6,5,Newcastle Utd,Tottenham,July-15-2020
+2,1,4,7,1,1,11,21,3,8,Bournemouth,Brighton,January-21-2020
+1,1,3,5,3,3,11,15,4,4,Everton,Southampton,July-9-2020
+1,0,6,5,1,2,24,8,8,3,Manchester Utd,Everton,December-15-2019
+3,0,7,2,4,3,15,12,9,4,Burnley,Bournemouth,February-22-2020
+2,0,7,3,0,1,13,11,6,2,Burnley,Norwich City,September-21-2019
+2,1,6,4,0,3,19,13,3,4,Leicester City,Burnley,October-19-2019
+1,3,4,2,1,3,10,18,7,5,Bournemouth,Manchester City,August-25-2019
+0,1,6,5,0,1,9,12,1,5,Norwich City,Everton,June-24-2020
+2,1,7,2,2,3,16,10,5,2,Sheffield Utd,Bournemouth,February-9-2020
+1,3,12,7,2,0,18,22,4,9,Aston Villa,Tottenham,February-16-2020
+2,1,3,2,1,1,15,11,4,2,Manchester City,Chelsea,November-23-2019
+0,0,7,7,4,3,21,7,4,0,Newcastle Utd,Burnley,February-29-2020
+1,0,4,7,1,2,9,14,2,6,Arsenal,West Ham,March-7-2020
+3,1,7,5,1,3,15,12,8,4,Norwich City,Newcastle Utd,August-17-2019
+0,1,7,1,1,3,8,5,0,2,Sheffield Utd,Everton,July-20-2020
+2,0,8,6,1,1,17,11,8,5,Aston Villa,Newcastle Utd,November-25-2019
+2,0,7,1,3,2,11,4,4,1,Leicester City,Watford,December-4-2019
+1,4,2,1,0,1,10,13,2,7,Southampton,Chelsea,October-6-2019
+2,2,10,4,3,5,26,12,8,8,Arsenal,Tottenham,September-1-2019
+2,1,7,6,0,2,13,10,4,2,Crystal Palace,West Ham,December-26-2019
+1,1,2,5,0,1,8,15,4,2,Watford,Leicester City,June-20-2020
+1,3,2,3,1,0,13,12,5,6,Everton,Bournemouth,July-26-2020
+0,0,2,5,3,2,16,15,5,4,Manchester Utd,Wolves,February-1-2020
+1,2,5,3,4,1,9,18,2,7,Bournemouth,Wolves,November-23-2019
+2,0,4,3,0,0,19,3,7,2,Liverpool,Sheffield Utd,January-2-2020
+3,0,3,5,1,0,9,15,4,4,Sheffield Utd,Chelsea,July-11-2020
+4,0,2,5,3,4,10,18,4,7,Manchester Utd,Chelsea,August-11-2019
+1,1,4,2,1,5,13,10,3,4,Wolves,Sheffield Utd,December-1-2019
+1,0,5,8,3,4,12,11,3,5,Southampton,Tottenham,January-1-2020
+1,1,7,2,1,0,21,10,5,2,Southampton,Brighton,July-16-2020
+0,2,5,5,2,2,12,14,3,5,Crystal Palace,Leicester City,November-3-2019
+1,1,3,4,5,4,21,12,7,1,Burnley,Tottenham,March-7-2020
+2,1,6,3,4,3,17,13,5,4,Wolves,Aston Villa,November-10-2019
+1,2,4,4,3,3,5,14,2,6,Norwich City,Tottenham,December-28-2019
+0,0,5,2,4,2,13,3,3,0,Watford,Crystal Palace,December-7-2019
+1,1,12,4,1,2,14,5,5,2,Southampton,Crystal Palace,December-28-2019
+1,2,5,7,2,2,20,22,5,9,Newcastle Utd,Everton,December-28-2019
+1,1,2,5,0,2,14,7,5,1,Brighton,Burnley,September-14-2019
+4,0,4,1,0,0,23,6,9,1,Manchester City,Newcastle Utd,July-8-2020
+1,1,6,3,4,4,12,17,4,2,Bournemouth,Arsenal,December-26-2019
+1,1,7,6,0,2,16,8,4,3,Brighton,West Ham,August-17-2019
+1,1,10,0,1,0,11,13,7,5,Arsenal,Leicester City,July-7-2020
+0,3,2,2,1,4,6,14,1,7,Arsenal,Manchester City,December-15-2019
+1,1,5,7,0,2,10,24,4,8,Arsenal,Wolves,November-2-2019
+3,0,4,3,4,3,13,11,5,6,Tottenham,Crystal Palace,September-14-2019
+8,0,3,4,2,2,27,5,10,4,Manchester City,Watford,September-21-2019
+0,0,5,0,2,4,15,9,3,3,Wolves,Leicester City,February-14-2020
+1,1,9,6,1,2,23,6,9,2,Liverpool,Burnley,July-11-2020
+3,0,1,2,1,1,19,3,11,0,Manchester City,Arsenal,June-17-2020
+3,1,6,0,2,2,22,5,11,2,Manchester City,Leicester City,December-21-2019
+0,2,6,1,3,2,10,5,3,3,Chelsea,Southampton,December-26-2019
+2,1,4,5,1,0,8,17,5,7,Burnley,Leicester City,January-19-2020
+2,0,11,2,2,2,19,8,10,4,Everton,West Ham,October-19-2019
+3,1,4,3,1,1,24,9,4,3,Liverpool,Arsenal,August-24-2019
+0,1,8,3,1,1,21,8,4,4,West Ham,Burnley,July-8-2020
+3,0,2,4,0,0,14,7,5,1,Watford,Liverpool,February-29-2020
+0,0,5,7,0,2,8,9,2,3,Watford,Sheffield Utd,October-5-2019
+2,1,2,6,0,4,16,7,7,2,Manchester City,Everton,January-1-2020
+1,3,5,1,2,2,12,19,7,8,Everton,Manchester City,September-28-2019
+2,2,5,7,6,2,12,20,5,4,Arsenal,Southampton,November-23-2019
+1,2,4,2,2,2,10,9,2,6,Southampton,Burnley,February-15-2020
+1,2,9,7,0,1,16,12,6,4,Crystal Palace,Liverpool,November-23-2019
+1,1,7,2,3,2,13,7,2,2,Crystal Palace,Tottenham,July-26-2020
+2,2,8,4,2,1,18,2,7,2,Chelsea,Arsenal,January-21-2020
+2,0,2,6,2,4,12,7,6,4,Manchester Utd,Manchester City,March-8-2020
+0,1,4,3,1,3,9,8,2,2,Newcastle Utd,Arsenal,August-11-2019
+3,1,7,1,0,0,21,8,8,1,Liverpool,Newcastle Utd,September-14-2019
+2,0,5,1,2,4,12,9,9,5,Aston Villa,Crystal Palace,July-12-2020
+1,0,10,5,1,2,12,10,2,2,Arsenal,Bournemouth,October-6-2019
+3,1,8,1,0,2,15,12,7,5,Liverpool,Norwich City,August-9-2019
+2,1,6,3,0,1,14,12,3,1,Tottenham,Norwich City,January-22-2020
+4,0,1,2,0,0,12,8,5,3,Manchester Utd,Norwich City,January-11-2020
+1,1,4,8,2,2,13,14,3,2,Newcastle Utd,Aston Villa,June-24-2020
+1,1,4,4,2,1,9,15,1,1,Everton,Aston Villa,July-16-2020
+0,1,7,1,1,1,17,8,4,4,Crystal Palace,Burnley,June-29-2020
+1,0,6,4,3,3,10,4,2,0,Wolves,Bournemouth,June-24-2020
+2,2,7,0,3,3,30,7,9,4,Watford,Arsenal,September-15-2019
+2,0,2,6,2,2,8,9,6,3,West Ham,Manchester Utd,September-22-2019
+4,0,8,2,1,2,13,3,6,2,West Ham,Bournemouth,January-1-2020
+1,1,13,7,3,4,16,14,5,5,Everton,Manchester Utd,March-1-2020
+2,1,3,6,1,1,14,11,6,2,Chelsea,Manchester City,June-25-2020
+1,0,2,6,1,2,8,26,4,6,Southampton,Manchester City,July-5-2020
+1,0,11,2,2,6,22,10,5,2,Crystal Palace,Aston Villa,August-31-2019
+1,1,2,2,3,2,10,21,2,8,Southampton,Manchester Utd,August-31-2019
+2,1,0,6,3,3,16,17,6,4,Bournemouth,Aston Villa,February-1-2020
+2,1,5,2,4,2,11,11,5,5,Tottenham,Brighton,December-26-2019
+1,0,1,5,0,1,6,14,2,5,Wolves,Watford,September-28-2019
+1,1,10,2,0,2,13,9,3,2,Sheffield Utd,Brighton,February-22-2020
+0,2,3,5,2,0,7,12,4,4,West Ham,Liverpool,January-29-2020
+1,2,5,8,1,1,4,24,3,5,Southampton,Everton,November-9-2019
+1,1,7,6,0,1,10,11,3,5,Tottenham,Manchester Utd,June-19-2020
+1,4,6,4,6,2,15,23,2,8,Aston Villa,Leicester City,December-8-2019
+1,1,4,3,1,0,14,12,5,3,Chelsea,Leicester City,August-18-2019
+2,2,2,3,1,4,16,10,3,3,Aston Villa,Burnley,September-28-2019
+0,1,5,6,0,3,6,13,3,6,Southampton,Newcastle Utd,March-7-2020
+0,3,4,3,0,1,8,12,2,6,Brighton,Manchester Utd,June-30-2020
+1,0,8,5,0,0,10,12,3,4,Sheffield Utd,Norwich City,March-7-2020
+0,0,1,0,1,3,11,7,1,1,Wolves,Brighton,March-7-2020
+3,2,4,8,3,3,12,18,4,5,Arsenal,Watford,July-26-2020
+1,1,5,3,2,3,16,16,5,4,Brighton,Chelsea,January-1-2020
+2,2,5,5,3,1,13,17,5,6,Bournemouth,West Ham,September-28-2019
+0,2,7,1,2,0,13,6,6,4,Sheffield Utd,Newcastle Utd,December-5-2019
+0,2,3,3,4,3,5,12,1,2,Tottenham,Chelsea,December-22-2019
+2,3,2,4,3,2,13,14,5,4,Tottenham,Wolves,March-1-2020
+1,2,7,5,4,1,16,9,6,3,Manchester Utd,Aston Villa,December-1-2019
+2,1,1,4,3,1,9,16,3,4,Watford,Wolves,January-1-2020
+0,2,1,7,1,1,7,21,2,10,Crystal Palace,Manchester City,October-19-2019
+3,2,3,8,0,2,14,20,5,6,Tottenham,Bournemouth,November-30-2019
+0,0,6,1,2,3,6,10,2,2,Crystal Palace,Everton,August-10-2019
+0,3,4,2,3,0,8,11,0,7,Watford,Southampton,June-28-2020
+2,1,2,4,1,4,15,8,3,4,Watford,Newcastle Utd,July-11-2020
+3,1,3,9,1,1,14,10,7,2,West Ham,Southampton,February-29-2020
+0,0,6,7,2,2,11,9,2,1,Leicester City,Brighton,June-23-2020
+4,1,7,7,1,1,18,5,7,1,Leicester City,West Ham,January-22-2020
+2,0,6,3,0,1,21,7,5,0,Brighton,Norwich City,November-2-2019
+2,0,4,1,0,1,20,3,7,0,Manchester City,West Ham,February-19-2020
+2,0,7,5,1,4,28,4,9,1,Southampton,Aston Villa,February-22-2020
+2,1,0,4,2,1,7,10,3,6,Brighton,Everton,October-26-2019
+1,1,2,2,3,3,10,8,2,3,Brighton,Aston Villa,January-18-2020
+0,2,2,2,0,2,24,5,7,2,Manchester Utd,Burnley,January-22-2020
+0,2,4,2,0,2,12,10,3,5,Southampton,Arsenal,June-25-2020
+3,1,1,4,1,3,15,8,6,2,Leicester City,Bournemouth,August-31-2019
+0,2,5,6,2,0,7,18,0,8,Brighton,Leicester City,November-23-2019
+3,2,3,12,3,1,7,25,3,8,Norwich City,Manchester City,September-14-2019
+2,1,2,5,1,1,8,15,4,3,Manchester City,Bournemouth,July-15-2020
+2,3,3,5,3,2,11,15,4,6,West Ham,Tottenham,November-23-2019
+1,1,3,1,0,3,9,5,3,1,Wolves,Newcastle Utd,January-11-2020
+1,2,2,2,3,2,9,6,4,2,West Ham,Crystal Palace,October-5-2019
+2,0,6,3,1,1,6,9,4,3,Liverpool,Aston Villa,July-5-2020
+4,0,4,10,0,2,16,17,9,4,Liverpool,Southampton,February-1-2020
+1,1,3,5,1,1,11,15,4,10,Crystal Palace,Brighton,December-16-2019
+1,0,6,8,3,3,7,6,2,3,Crystal Palace,Bournemouth,December-3-2019
+5,0,1,1,1,1,13,7,7,1,Tottenham,Burnley,December-7-2019
+2,1,6,2,1,2,16,11,7,4,Leicester City,Tottenham,September-21-2019
+0,2,7,4,1,4,17,12,5,2,Norwich City,Watford,November-8-2019
+0,2,2,1,5,2,18,7,2,2,Manchester City,Wolves,October-6-2019
+0,1,11,6,1,1,17,11,4,7,Sheffield Utd,Southampton,September-14-2019
+1,2,8,1,0,4,14,9,4,3,Norwich City,Sheffield Utd,December-8-2019
+0,1,2,7,0,0,10,17,3,6,Leicester City,Manchester City,February-22-2020
+0,0,5,5,1,3,15,13,2,2,Burnley,Arsenal,February-2-2020
+3,1,5,2,2,5,21,6,11,2,Manchester Utd,Brighton,November-10-2019
+0,2,7,6,4,3,17,9,1,3,Chelsea,Manchester Utd,February-17-2020
+0,0,5,9,5,3,7,15,3,5,Watford,Bournemouth,October-26-2019
+2,2,5,4,1,1,17,9,8,3,Everton,Newcastle Utd,January-21-2020
+0,2,9,2,3,2,12,7,1,2,Bournemouth,Crystal Palace,June-20-2020
+3,0,2,6,0,0,10,11,4,3,Burnley,Southampton,August-10-2019
+0,0,1,3,2,3,14,16,1,4,Watford,Tottenham,January-18-2020
+1,2,1,4,4,2,11,16,2,10,Watford,Chelsea,November-2-2019
+2,1,8,7,2,1,9,13,5,6,Brighton,Arsenal,June-20-2020
+4,0,6,0,1,1,13,3,5,0,Leicester City,Newcastle Utd,September-29-2019
+0,4,1,6,1,0,11,19,2,7,Norwich City,West Ham,July-11-2020
+2,1,6,1,1,1,14,10,5,3,Southampton,Norwich City,December-4-2019
+3,0,5,5,1,0,15,4,6,1,Manchester Utd,Sheffield Utd,June-24-2020
+1,0,5,4,3,1,15,6,3,4,Sheffield Utd,Crystal Palace,August-18-2019
+0,1,9,4,1,2,18,11,5,2,Chelsea,Bournemouth,December-14-2019
+1,0,1,8,1,1,7,19,2,3,Newcastle Utd,Chelsea,January-18-2020
+2,1,6,3,3,3,20,11,12,4,Liverpool,Tottenham,October-27-2019
+1,0,6,3,1,0,13,7,3,2,Sheffield Utd,West Ham,January-10-2020
+2,2,7,12,2,1,15,15,8,5,Norwich City,Arsenal,December-1-2019
+1,3,4,2,2,0,11,10,4,3,West Ham,Arsenal,December-9-2019
+2,2,5,2,1,0,30,3,10,2,Manchester City,Tottenham,August-17-2019
+0,2,5,3,0,0,7,15,2,7,Burnley,Liverpool,August-31-2019
+3,0,3,2,0,3,17,7,7,1,Chelsea,Burnley,January-11-2020
+3,2,2,3,2,1,10,16,4,5,West Ham,Chelsea,July-1-2020
+1,0,4,5,1,0,10,10,3,2,Liverpool,Wolves,December-29-2019
+1,2,2,4,0,3,5,16,5,9,Leicester City,Southampton,January-11-2020
+1,1,3,7,0,0,8,14,0,5,Burnley,Wolves,July-15-2020
+1,2,8,2,1,1,20,11,1,6,Burnley,Aston Villa,January-1-2020
+4,0,5,0,0,0,21,3,7,0,Liverpool,Crystal Palace,June-24-2020
+3,2,11,8,0,3,25,7,7,4,Liverpool,West Ham,February-24-2020
+1,1,2,3,2,1,13,8,3,3,Bournemouth,Sheffield Utd,August-10-2019
+3,0,3,7,2,1,15,7,4,1,Leicester City,Crystal Palace,July-4-2020
+3,1,2,5,2,1,8,13,3,5,Bournemouth,Leicester City,July-12-2020
+1,0,6,6,2,4,8,7,3,0,Aston Villa,Arsenal,July-21-2020
+1,0,4,5,1,2,11,19,6,4,Norwich City,Leicester City,February-28-2020
+0,1,5,9,4,3,4,17,1,4,Sheffield Utd,Manchester City,January-21-2020
+1,2,0,4,0,1,10,13,3,6,Wolves,Liverpool,January-23-2020
+0,5,2,5,1,0,3,26,0,8,Brighton,Manchester City,July-11-2020
+0,2,7,5,1,3,12,12,3,4,Brighton,Southampton,August-24-2019
+2,4,5,3,3,2,13,16,5,7,Burnley,Chelsea,October-26-2019
+1,0,1,9,4,3,13,15,6,4,Bournemouth,Manchester Utd,November-2-2019
+0,3,4,3,1,1,5,17,2,10,Newcastle Utd,Leicester City,January-1-2020
+0,1,8,7,2,1,23,12,8,3,Brighton,Crystal Palace,February-29-2020
+2,1,3,7,2,1,15,18,9,4,Arsenal,Burnley,August-17-2019
+2,2,3,2,3,0,13,13,5,6,Brighton,Wolves,December-8-2019
+5,3,4,0,1,0,10,10,7,5,Liverpool,Chelsea,July-22-2020
+0,0,5,3,2,1,11,16,4,2,Newcastle Utd,Brighton,September-21-2019
+2,0,1,3,2,0,10,10,4,4,Arsenal,Manchester Utd,January-1-2020
+3,2,1,1,0,1,21,6,8,2,Wolves,Manchester City,December-27-2019
+0,4,2,7,1,1,3,14,0,5,Leicester City,Liverpool,December-26-2019
+1,1,6,3,4,2,16,10,4,5,Manchester Utd,Arsenal,September-30-2019
+1,1,1,4,2,3,6,7,2,4,Crystal Palace,Arsenal,January-11-2020
+2,1,6,5,1,4,24,20,8,5,Aston Villa,Brighton,October-19-2019
+2,1,3,4,0,1,13,8,5,2,Chelsea,Sheffield Utd,August-31-2019
+0,2,12,6,2,2,11,15,3,7,Bournemouth,Southampton,July-19-2020
+1,0,7,8,4,4,10,10,3,3,Crystal Palace,Watford,March-7-2020
+2,0,3,2,2,3,23,8,9,1,Chelsea,Brighton,September-28-2019
+0,2,5,5,1,1,7,10,2,6,West Ham,Wolves,June-20-2020
+1,1,0,3,3,2,3,14,0,5,Wolves,Southampton,October-19-2019
+1,0,5,5,2,6,18,8,9,2,Crystal Palace,Newcastle Utd,February-22-2020
+1,0,7,2,2,2,15,10,4,2,Tottenham,West Ham,June-23-2020
+3,2,6,3,7,1,20,14,5,9,Arsenal,Aston Villa,September-22-2019
+1,2,4,3,4,1,14,12,4,7,West Ham,Leicester City,December-28-2019
+1,2,5,6,2,1,14,15,3,6,Southampton,Liverpool,August-17-2019
+1,1,2,5,2,2,6,8,2,1,Wolves,Manchester Utd,August-19-2019
+0,0,4,5,3,2,12,11,2,3,Tottenham,Everton,July-6-2020
+1,1,9,1,0,3,15,5,3,2,Sheffield Utd,Watford,December-26-2019
+2,1,11,2,1,2,25,5,6,3,Manchester City,Crystal Palace,January-18-2020
+1,1,2,1,3,1,11,11,4,2,Manchester Utd,West Ham,July-22-2020
+1,3,7,7,1,1,23,15,3,9,Watford,West Ham,August-24-2019
+0,0,1,3,2,3,10,13,5,1,Aston Villa,West Ham,September-16-2019
+3,1,1,4,3,0,13,15,7,4,Everton,Chelsea,December-7-2019
+1,2,8,1,4,4,19,9,5,5,Wolves,Tottenham,December-15-2019
+1,0,3,5,2,0,8,16,3,4,Newcastle Utd,Crystal Palace,December-21-2019
+1,3,1,10,2,2,10,19,3,9,Norwich City,Manchester Utd,October-27-2019

@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Jacob Ramsey,Aston Villa,0.51,,Off Target,8.0,Other,,Leon Bailey,Pass (Live),Ollie Watkins,Pass (Live)
+1,14,Jacob Ramsey,Aston Villa,0.22,0.11,Saved,16.0,Right Foot,,John McGinn,Pass (Live),Douglas Luiz,Pass (Live)
+2,16,Douglas Luiz,Aston Villa,0.12,,Off Target,10.0,Head,,Youri Tielemans,Pass (Dead),Jacob Ramsey,Shot
+3,23,Ollie Watkins,Aston Villa,0.09,0.76,Saved,12.0,Right Foot,Deflected,Leon Bailey,Pass (Live),John McGinn,Pass (Live)
+4,24,Ollie Watkins,Aston Villa,0.1,0.38,Goal,6.0,Head,,Leon Bailey,Pass (Dead),Ollie Watkins,Shot
+5,32,Clément Lenglet,Aston Villa,0.09,,Off Target,10.0,Head,,John McGinn,Pass (Live),Douglas Luiz,Pass (Live)
+6,34,Ollie Watkins,Aston Villa,0.04,,Woodwork,15.0,Right Foot,,Leon Bailey,Pass (Live),Morgan Rogers,Pass (Live)
+7,38,Ollie Watkins,Aston Villa,0.33,0.48,Goal,14.0,Right Foot,,Douglas Luiz,Pass (Dead),Morgan Rogers,Fouled
+8,44,Morgan Rogers,Aston Villa,0.03,0.41,Saved,18.0,Right Foot,,,,,
+9,45+1,Tahith Chong,Luton Town,0.04,,Blocked,13.0,Left Foot,,Jordan Clark,Pass (Live),Andros Townsend,Pass (Live)
+10,45+5,Andros Townsend,Luton Town,0.09,,Off Target,11.0,Head,,Carlton Morris,Pass (Live),Tahith Chong,Pass (Live)
+11,45+6,Leon Bailey,Aston Villa,0.06,0.02,Saved,17.0,Left Foot,Deflected,Morgan Rogers,Pass (Live),Leon Bailey,Pass (Live)
+12,45+9,Ross Barkley,Luton Town,0.05,,Blocked,26.0,Right Foot,Free kick,Tahith Chong,Fouled,Ross Barkley,Pass (Live)
+13,,,,,,,,,,,,,
+14,49,Ollie Watkins,Aston Villa,0.08,0.1,Saved,16.0,Right Foot,,Morgan Rogers,Pass (Live),Morgan Rogers,Take-On
+15,51,Alfie Doughty,Luton Town,0.03,,Blocked,20.0,Left Foot,,Ross Barkley,Pass (Dead),Issa Kaboré,Fouled
+16,57,Carlton Morris,Luton Town,0.06,,Off Target,6.0,Head,,Alfie Doughty,Pass (Dead),Tahith Chong,Fouled
+17,57,Alfie Doughty,Luton Town,0.04,,Blocked,13.0,Left Foot,,Issa Kaboré,Take-On,Chiedozie Ogbene,Pass (Live)
+18,66,Reece Burke,Luton Town,0.5,,Blocked,3.0,Head,,Chiedozie Ogbene,Pass (Live),Issa Kaboré,Pass (Live)
+19,66,Reece Burke,Luton Town,0.55,0.95,Saved,2.0,Right Foot,,Carlton Morris,Pass (Live),Reece Burke,Shot
+20,66,Tahith Chong,Luton Town,0.3,0.71,Goal,3.0,Left Foot,,Reece Burke,Shot,,
+21,68,Tahith Chong,Luton Town,0.06,,Blocked,14.0,Left Foot,,Reece Burke,Pass (Live),Teden Mengi,Pass (Live)
+22,72,Carlton Morris,Luton Town,0.33,0.55,Goal,8.0,Right Foot,,Alfie Doughty,Pass (Dead),Chiedozie Ogbene,Fouled
+23,76,Carlton Morris,Luton Town,0.09,0.05,Saved,8.0,Head,,Jordan Clark,Pass (Live),Chiedozie Ogbene,Pass (Live)
+24,89,Lucas Digne,Aston Villa,0.28,0.57,Goal,7.0,Head,,Moussa Diaby,Pass (Live),Ollie Watkins,Pass (Live)
+25,90+5,Ross Barkley,Luton Town,0.03,,Off Target,26.0,Right Foot,,Carlton Morris,Pass (Live),,
+26,90+5,Teden Mengi,Luton Town,0.1,,Off Target,8.0,Head,,Alfie Doughty,Pass (Dead),Ross Barkley,Shot

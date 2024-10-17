@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Christian Benteke,Crystal Palace,0.06,,Blocked,17.0,Right Foot,,Eberechi Eze,Pass (Live),Jaïro Riedewald,Pass (Live)
+1,5,Jóhann Berg Guðmundsson,Burnley,0.08,0.54,Goal,13.0,Left Foot,,Dwight McNeil,Pass (Live),Erik Pieters,Pass (Live)
+2,9,Jóhann Berg Guðmundsson,Burnley,0.04,,Blocked,21.0,Right Foot,,Jóhann Berg Guðmundsson,Take-On,Erik Pieters,Pass (Live)
+3,9,Ashley Barnes,Burnley,0.16,,Blocked,9.0,Right Foot,,Jóhann Berg Guðmundsson,Shot,,
+4,10,Jay Rodriguez,Burnley,0.4,0.4,Goal,4.0,Head,,Dwight McNeil,Pass (Dead),Ashley Barnes,Shot
+5,12,Ashley Barnes,Burnley,0.08,,Blocked,11.0,Left Foot,,Ashley Westwood,Pass (Dead),Jóhann Berg Guðmundsson,Fouled
+6,12,Jack Cork,Burnley,0.05,,Blocked,18.0,Right Foot,Volley,Ashley Barnes,Shot,,
+7,18,Christian Benteke,Crystal Palace,0.05,0.05,Saved,20.0,Right Foot,,Luka Milivojević,Pass (Live),,
+8,24,Ashley Barnes,Burnley,0.13,,Blocked,9.0,Head,,Dwight McNeil,Pass (Dead),Jóhann Berg Guðmundsson,Fouled
+9,25,Christian Benteke,Crystal Palace,0.05,0.03,Saved,12.0,Left Foot,,,,,
+10,27,Matthew Lowton,Burnley,0.03,,Off Target,21.0,Left Foot,,Ben Mee,Pass (Live),Ashley Barnes,Fouled
+11,31,Eberechi Eze,Crystal Palace,0.03,,Off Target,22.0,Right Foot,,Jordan Ayew,Pass (Live),Christian Benteke,Pass (Live)
+12,32,Jay Rodriguez,Burnley,0.03,,Blocked,25.0,Right Foot,,Matthew Lowton,Pass (Live),,
+13,34,Jordan Ayew,Crystal Palace,0.03,,Blocked,24.0,Right Foot,Volley,Eberechi Eze,Pass (Live),Michy Batshuayi,Pass (Live)
+14,42,Jordan Ayew,Crystal Palace,0.05,,Blocked,15.0,Right Foot,,,,,
+15,42,Patrick van Aanholt,Crystal Palace,0.01,,Blocked,31.0,Left Foot,Volley,Jordan Ayew,Shot,,
+16,,,,,,,,,,,,,
+17,47,Matthew Lowton,Burnley,0.25,0.59,Goal,10.0,Right Foot,Volley,Jay Rodriguez,Pass (Live),Matthew Lowton,Pass (Live)
+18,51,Christian Benteke,Crystal Palace,0.06,0.07,Saved,11.0,Head,,Jordan Ayew,Pass (Live),Michy Batshuayi,Pass (Live)
+19,52,Matthew Lowton,Burnley,0.03,,Off Target,28.0,Right Foot,,Ashley Barnes,Pass (Live),,
+20,61,Ashley Barnes,Burnley,0.03,0.02,Saved,27.0,Left Foot,Deflected,,,,
+21,62,Ashley Westwood,Burnley,0.05,,Off Target,21.0,Right Foot,,Ashley Barnes,Pass (Live),Dwight McNeil,Pass (Live)
+22,63,Jay Rodriguez,Burnley,0.02,,Off Target,29.0,Right Foot,,Ashley Barnes,Pass (Live),Jack Cork,Pass (Live)
+23,69,Jay Rodriguez,Burnley,0.04,,Off Target,22.0,Right Foot,,Matthew Lowton,Pass (Live),Matthew Lowton,Interception
+24,70,Jóhann Berg Guðmundsson,Burnley,0.03,,Off Target,17.0,Head,,Matthew Lowton,Pass (Live),Jay Rodriguez,Pass (Live)
+25,77,Andros Townsend,Crystal Palace,0.05,,Off Target,9.0,Right Foot,,Nathaniel Clyne,Pass (Live),Jordan Ayew,Pass (Live)
+26,90+2,Andros Townsend,Crystal Palace,0.03,,Blocked,19.0,Left Foot,,Andros Townsend,Take-On,Nathaniel Clyne,Pass (Live)
+27,90+4,Jaïro Riedewald,Crystal Palace,0.02,,Blocked,23.0,Left Foot,,Andros Townsend,Pass (Live),Luka Milivojević,Pass (Dead)
+28,90+4,Jean-Philippe Mateta,Crystal Palace,0.04,,Blocked,17.0,Right Foot,,Jean-Philippe Mateta,Take-On,Cheikhou Kouyaté,Pass (Live)
+29,90+6,Patrick van Aanholt,Crystal Palace,0.03,,Off Target,20.0,Left Foot,Volley,Nathaniel Clyne,Pass (Live),Andros Townsend,Pass (Live)

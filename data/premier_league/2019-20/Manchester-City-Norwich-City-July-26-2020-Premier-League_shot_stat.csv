@@ -1,0 +1,38 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,João Cancelo,Manchester City,0.03,,Off Target,23.0,Right Foot,,Rodri,Pass (Live),David Silva,Pass (Live)
+1,7,Raheem Sterling,Manchester City,0.08,,Off Target,14.0,Left Foot,,David Silva,Pass (Live),Gabriel Jesus,Pass (Live)
+2,11,Gabriel Jesus,Manchester City,0.74,0.98,Goal,5.0,Right Foot,,,,,
+3,16,Gabriel Jesus,Manchester City,0.06,,Off Target,12.0,Left Foot,Volley,Phil Foden,Pass (Live),Phil Foden,Interception
+4,23,Raheem Sterling,Manchester City,0.15,,Off Target,6.0,Head,,Phil Foden,Pass (Live),Rodri,Pass (Live)
+5,29,Kevin De Bruyne,Manchester City,0.05,,Blocked,24.0,Left Foot,,Kevin De Bruyne,Take-On,Eric García,Pass (Live)
+6,29,Phil Foden,Manchester City,0.01,,Blocked,27.0,Left Foot,,Kevin De Bruyne,Pass (Live),David Silva,Pass (Live)
+7,31,Gabriel Jesus,Manchester City,0.14,,Blocked,9.0,Right Foot,,Gabriel Jesus,Pass (Live),Kyle Walker,Pass (Live)
+8,32,David Silva,Manchester City,0.08,,Blocked,16.0,Left Foot,,Raheem Sterling,Pass (Live),João Cancelo,Pass (Live)
+9,36,Teemu Pukki,Norwich City,0.43,0.55,Saved,22.0,Right Foot,,Lukas Rupp,Pass (Live),,
+10,36,Todd Cantwell,Norwich City,0.05,,Off Target,27.0,Right Foot,,Teemu Pukki,Shot,,
+11,39,Phil Foden,Manchester City,0.06,0.03,Saved,15.0,Left Foot,,Kevin De Bruyne,Pass (Live),Kyle Walker,Pass (Live)
+12,40,João Cancelo,Manchester City,0.06,,Off Target,22.0,Right Foot,,João Cancelo,Take-On,Gabriel Jesus,Pass (Live)
+13,42,David Silva,Manchester City,0.14,,Off Target,11.0,Left Foot,,David Silva,Take-On,Raheem Sterling,Pass (Live)
+14,45,David Silva,Manchester City,0.05,,Blocked,16.0,Right Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+15,45+1,Kevin De Bruyne,Manchester City,0.03,0.62,Goal,24.0,Right Foot,,Kyle Walker,Pass (Live),David Silva,Pass (Live)
+16,45+3,Phil Foden,Manchester City,0.05,,Off Target,10.0,Head,,João Cancelo,Pass (Live),Phil Foden,Pass (Live)
+17,,,,,,,,,,,,,
+18,47,İlkay Gündoğan,Manchester City,0.03,,Off Target,26.0,Right Foot,,Kevin De Bruyne,Pass (Live),Raheem Sterling,Pass (Live)
+19,49,Riyad Mahrez,Manchester City,0.05,,Blocked,15.0,Left Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+20,54,David Silva,Manchester City,0.05,0.21,Saved,17.0,Left Foot,,Gabriel Jesus,Pass (Live),Kevin De Bruyne,Pass (Live)
+21,54,Fernandinho,Manchester City,0.14,,Off Target,5.0,Head,,Kevin De Bruyne,Pass (Dead),David Silva,Shot
+22,58,Onel Hernández,Norwich City,0.44,0.39,Saved,12.0,Right Foot,Deflected,Onel Hernández,Take-On,Onel Hernández,Take-On
+23,59,Raheem Sterling,Manchester City,0.09,,Off Target,13.0,Left Foot,,Gabriel Jesus,Pass (Live),Kevin De Bruyne,Pass (Live)
+24,66,David Silva,Manchester City,0.08,,Blocked,17.0,Left Foot,,Kevin De Bruyne,Pass (Live),,
+25,67,Riyad Mahrez,Manchester City,0.05,,Off Target,15.0,Left Foot,Volley,Kevin De Bruyne,Pass (Dead),David Silva,Shot
+26,74,Raheem Sterling,Manchester City,0.08,,Blocked,12.0,Right Foot,,Kyle Walker,Pass (Live),Kyle Walker,Take-On
+27,74,Gabriel Jesus,Manchester City,0.04,0.12,Saved,21.0,Right Foot,,Raheem Sterling,Shot,,
+28,75,Gabriel Jesus,Manchester City,0.06,0.05,Saved,16.0,Right Foot,Deflected,Riyad Mahrez,Pass (Live),Riyad Mahrez,Take-On
+29,79,Raheem Sterling,Manchester City,0.54,0.7,Goal,8.0,Left Foot,,Kevin De Bruyne,Pass (Live),David Silva,Pass (Live)
+30,81,Riyad Mahrez,Manchester City,0.06,,Blocked,16.0,Left Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)
+31,83,Adam Idah,Norwich City,0.03,0.06,Saved,25.0,Left Foot,,Lukas Rupp,Pass (Live),Tim Krul,Pass (Live)
+32,83,Riyad Mahrez,Manchester City,0.06,0.26,Goal,17.0,Right Foot,,,,,
+33,89,Josh Martin,Norwich City,0.08,0.03,Saved,13.0,Right Foot,,Todd Cantwell,Pass (Live),Max Aarons,Pass (Live)
+34,90,Riyad Mahrez,Manchester City,0.1,,Blocked,16.0,Left Foot,,Riyad Mahrez,Take-On,Gabriel Jesus,Pass (Live)
+35,90,Kevin De Bruyne,Manchester City,0.05,0.68,Goal,15.0,Right Foot,,Riyad Mahrez,Shot,,
+36,90+3,Fernandinho,Manchester City,0.07,,Off Target,12.0,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Fouled

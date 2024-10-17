@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Leon Bailey,Aston Villa,0.06,,Off Target,13.0,Left Foot,,Douglas Luiz,Pass (Live),Ashley Young,Pass (Live)
+1,12,Daniel Podence,Wolves,0.04,0.33,Goal,13.0,Left Foot,,Daniel Podence,Take-On,João Moutinho,Pass (Live)
+2,18,Max Kilman,Wolves,0.04,,Blocked,9.0,Head,,João Moutinho,Pass (Dead),,
+3,22,Matheus Nunes,Wolves,0.45,0.23,Saved,10.0,Right Foot,,Matheus Nunes,Pass (Live),Nélson Semedo,Pass (Live)
+4,22,Diego Costa,Wolves,0.11,,Off Target,9.0,Head,,Nélson Semedo,Pass (Live),Matheus Nunes,Shot
+5,26,Lucas Digne,Aston Villa,0.04,0.27,Saved,27.0,Left Foot,Free kick,Leon Bailey,Fouled,Ashley Young,Pass (Live)
+6,,,,,,,,,,,,,
+7,55,Boubacar Kamara,Aston Villa,0.04,,Off Target,22.0,Left Foot,,Leon Bailey,Take-On,Matty Cash,Pass (Live)
+8,65,Diego Costa,Wolves,0.06,,Blocked,21.0,Right Foot,"Deflected, Volley",Rayan Aït-Nouri,Pass (Live),Joseph Hodge,Pass (Live)
+9,69,Adama Traoré,Wolves,0.06,,Off Target,13.0,Left Foot,,Joseph Hodge,Pass (Live),Nathan Collins,Pass (Live)
+10,70,Leon Bailey,Aston Villa,0.02,,Blocked,30.0,Left Foot,,Leander Dendoncker,Pass (Live),Emi Buendía,Pass (Live)
+11,71,Matty Cash,Aston Villa,0.02,,Blocked,37.0,Right Foot,,Leon Bailey,Shot,,
+12,71,Emi Buendía,Aston Villa,0.03,,Blocked,24.0,Left Foot,,Leon Bailey,Pass (Live),Matty Cash,Pass (Live)
+13,72,Ludwig Augustinsson,Aston Villa,0.02,0.37,Saved,13.0,Head,,Leon Bailey,Pass (Live),Matty Cash,Pass (Live)
+14,75,Ludwig Augustinsson,Aston Villa,0.06,,Blocked,12.0,Left Foot,Volley,Leander Dendoncker,Pass (Live),Matty Cash,Pass (Live)
+15,78,Danny Ings,Aston Villa,0.54,0.41,Goal,13.0,Right Foot,,Tyrone Mings,Pass (Live),Ezri Konsa,Pass (Live)
+16,80,Emi Buendía,Aston Villa,0.03,,Blocked,19.0,Right Foot,,Leander Dendoncker,Tackle,,
+17,87,Leon Bailey,Aston Villa,0.06,,Blocked,12.0,Right Foot,,Leon Bailey,Take-On,Leon Bailey,Take-On
+18,88,Matheus Nunes,Wolves,0.03,,Off Target,31.0,Right Foot,,Rúben Neves,Tackle,,
+19,89,Rayan Aït-Nouri,Wolves,0.06,0.04,Saved,15.0,Left Foot,,Rayan Aït-Nouri,Take-On,Matheus Nunes,Pass (Live)
+20,89,Matheus Cunha,Wolves,0.14,,Off Target,7.0,Head,,Matheus Nunes,Pass (Dead),Rayan Aït-Nouri,Shot
+21,90,Matheus Nunes,Wolves,0.02,,Blocked,14.0,Left Foot,,Rúben Neves,Pass (Live),Matheus Cunha,Shot
+22,90+1,Emi Buendía,Aston Villa,0.04,,Blocked,12.0,Head,,Leon Bailey,Pass (Live),Matty Cash,Pass (Live)
+23,90+4,Leon Bailey,Aston Villa,0.83,,Off Target,14.0,Right Foot,,Danny Ings,Pass (Live),Danny Ings,Take-On

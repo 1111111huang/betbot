@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Che Adams,Southampton,0.05,,Off Target,11.0,Head,,Ryan Bertrand,Pass (Live),Stuart Armstrong,Pass (Live)
+1,8,Stuart Armstrong,Southampton,0.06,0.04,Saved,16.0,Right Foot,,,,,
+2,16,Neal Maupay,Brighton,0.05,0.07,Saved,20.0,Left Foot,,Danny Welbeck,Pass (Live),Adam Lallana,Pass (Live)
+3,16,Lewis Dunk,Brighton,0.03,0.26,Goal,15.0,Head,,Pascal Groß,Pass (Dead),Neal Maupay,Shot
+4,21,Stuart Armstrong,Southampton,0.03,,Blocked,26.0,Left Foot,,Takumi Minamino,Pass (Live),Stuart Armstrong,Pass (Live)
+5,23,Takumi Minamino,Southampton,0.03,,Blocked,30.0,Right Foot,,Ibrahima Diallo,Pass (Live),Ibrahima Diallo,Take-On
+6,26,Takumi Minamino,Southampton,0.02,,Blocked,25.0,Right Foot,,Kyle Walker-Peters,Pass (Live),Jan Bednarek,Pass (Live)
+7,27,Che Adams,Southampton,0.14,0.36,Goal,8.0,Right Foot,Volley,Stuart Armstrong,Pass (Live),James Ward-Prowse,Pass (Live)
+8,29,Takumi Minamino,Southampton,0.04,0.03,Saved,18.0,Right Foot,,Che Adams,Pass (Live),Ibrahima Diallo,Pass (Live)
+9,42,Pascal Groß,Brighton,0.24,0.21,Saved,14.0,Right Foot,,Dan Burn,Pass (Live),Danny Welbeck,Pass (Live)
+10,45+1,Leandro Trossard,Brighton,0.03,0.27,Saved,22.0,Left Foot,Volley,Joël Veltman,Pass (Dead),,
+11,,,,,,,,,,,,,
+12,53,James Ward-Prowse,Southampton,0.04,0.28,Saved,18.0,Right Foot,,James Ward-Prowse,Pass (Live),Takumi Minamino,Pass (Live)
+13,56,Leandro Trossard,Brighton,0.28,0.68,Goal,15.0,Right Foot,,Danny Welbeck,Pass (Live),Adam Lallana,Pass (Live)
+14,61,James Ward-Prowse,Southampton,0.15,,Blocked,21.0,Right Foot,Free kick,Nathan Tella,Fouled,Che Adams,Pass (Live)
+15,65,Joël Veltman,Brighton,0.03,,Blocked,27.0,Right Foot,,Pascal Groß,Pass (Dead),Pascal Groß,Pass (Dead)
+16,70,Pascal Groß,Brighton,0.06,,Blocked,26.0,Right Foot,Free kick,Danny Welbeck,Fouled,Leandro Trossard,Pass (Live)
+17,78,Andi Zeqiri,Brighton,0.07,0.1,Saved,12.0,Left Foot,,Joël Veltman,Pass (Dead),Adam Lallana,Fouled

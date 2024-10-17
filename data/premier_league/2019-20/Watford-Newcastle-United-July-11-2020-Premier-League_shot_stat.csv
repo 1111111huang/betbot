@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Miguel Almirón,Newcastle Utd,0.11,0.13,Saved,7.0,Left Foot,,Matt Ritchie,Pass (Dead),Danny Rose,Fouled
+1,16,Danny Welbeck,Watford,0.05,0.34,Saved,10.0,Right Foot,Volley,Kiko Femenía,Pass (Live),Étienne Capoue,Pass (Live)
+2,23,Federico Fernández,Newcastle Utd,0.04,,Off Target,9.0,Head,,Matt Ritchie,Pass (Dead),Jonjo Shelvey,Pass (Live)
+3,23,Dwight Gayle,Newcastle Utd,0.73,0.96,Goal,2.0,Left Foot,,Federico Fernández,Shot,,
+4,28,Will Hughes,Watford,0.06,0.07,Saved,13.0,Left Foot,,Troy Deeney,Pass (Live),,
+5,35,Allan Saint-Maximin,Newcastle Utd,0.27,0.08,Saved,14.0,Right Foot,,Dwight Gayle,Pass (Live),Javier Manquillo,Pass (Live)
+6,39,Craig Dawson,Watford,0.09,,Off Target,10.0,Head,,Will Hughes,Pass (Dead),Troy Deeney,Fouled
+7,41,Danny Welbeck,Watford,0.08,,Off Target,9.0,Head,,Ismaila Sarr,Pass (Live),Ismaila Sarr,Take-On
+8,43,Craig Dawson,Watford,0.12,,Off Target,10.0,Head,,Étienne Capoue,Pass (Dead),Ismaila Sarr,Fouled
+9,43,Craig Dawson,Watford,0.24,,Blocked,9.0,Right Foot,,Craig Dawson,Shot,,
+10,43,Craig Dawson,Watford,0.44,,Blocked,6.0,Right Foot,,Craig Dawson,Shot,,
+11,43,Abdoulaye Doucouré,Watford,0.1,,Blocked,13.0,Right Foot,,Craig Dawson,Pass (Live),Craig Dawson,Shot
+12,45+3,Christian Kabasele,Watford,0.08,,Blocked,11.0,Head,,Craig Dawson,Pass (Live),Étienne Capoue,Pass (Dead)
+13,,,,,,,,,,,,,
+14,47,Jonjo Shelvey,Newcastle Utd,0.02,,Off Target,36.0,Right Foot,Volley,,,,
+15,50,Dwight Gayle,Newcastle Utd,0.08,,Off Target,12.0,Left Foot,Volley,Matt Ritchie,Pass (Live),Allan Saint-Maximin,Pass (Live)
+16,52,Troy Deeney (pen),Watford,0.79,0.89,Goal,13.0,Right Foot,,Kiko Femenía,Fouled,Kiko Femenía,Take-On
+17,53,Dwight Gayle,Newcastle Utd,0.03,0.05,Saved,23.0,Right Foot,,Miguel Almirón,Pass (Live),Fabian Schär,Pass (Live)
+18,59,Troy Deeney,Watford,0.25,0.2,Saved,17.0,Right Foot,,,,,
+19,60,Danny Welbeck,Watford,0.13,,Blocked,11.0,Right Foot,,Troy Deeney,Pass (Live),Ismaila Sarr,Pass (Live)
+20,64,Abdoulaye Doucouré,Watford,0.05,,Off Target,20.0,Left Foot,,Troy Deeney,Pass (Live),Ismaila Sarr,Pass (Live)
+21,78,Danny Welbeck,Watford,0.24,,Off Target,6.0,Head,,Will Hughes,Pass (Dead),Ismaila Sarr,Fouled
+22,82,Troy Deeney (pen),Watford,0.79,0.98,Goal,13.0,Right Foot,,Ismaila Sarr,Fouled,Kiko Femenía,Pass (Dead)
+23,83,Troy Deeney,Watford,0.08,,Blocked,14.0,Right Foot,,Will Hughes,Pass (Live),,
+24,83,Abdoulaye Doucouré,Watford,0.05,,Blocked,24.0,Right Foot,Deflected,Abdoulaye Doucouré,Take-On,Abdoulaye Doucouré,Take-On
+25,88,Emil Krafth,Newcastle Utd,0.03,,Off Target,20.0,Head,,Allan Saint-Maximin,Pass (Live),Javier Manquillo,Pass (Live)

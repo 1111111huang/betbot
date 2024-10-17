@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Maxwel Cornet,Burnley,0.03,,Off Target,24.0,Right Foot,,Chris Wood,Pass (Live),Nick Pope,Pass (Live)
+1,10,Maxwel Cornet,Burnley,0.04,,Blocked,32.0,Left Foot,Free kick,Jóhann Berg Guðmundsson,Fouled,Matthew Lowton,Pass (Live)
+2,13,Jóhann Berg Guðmundsson,Burnley,0.03,,Blocked,20.0,Left Foot,,Josh Brownhill,Pass (Live),Dwight McNeil,Tackle
+3,19,Josh Brownhill,Burnley,0.03,,Blocked,28.0,Left Foot,,,,,
+4,21,Maxwel Cornet,Burnley,0.05,0.17,Saved,12.0,Head,,Dwight McNeil,Pass (Live),Ashley Westwood,Pass (Live)
+5,22,Miguel Almirón,Newcastle Utd,0.03,,Off Target,32.0,Left Foot,,Jonjo Shelvey,Pass (Live),Joelinton,Pass (Live)
+6,29,Callum Wilson,Newcastle Utd,0.1,,Blocked,10.0,Left Foot,Volley,Allan Saint-Maximin,Pass (Live),Joe Willock,Pass (Live)
+7,39,Miguel Almirón,Newcastle Utd,0.06,,Blocked,10.0,Left Foot,Volley,,,,
+8,40,Callum Wilson,Newcastle Utd,0.1,0.09,Goal,16.0,Right Foot,,Jamal Lewis,Pass (Live),Javier Manquillo,Pass (Live)
+9,45,Joelinton,Newcastle Utd,0.05,,Blocked,24.0,Right Foot,,Joelinton,Take-On,Joelinton,Take-On
+10,45,Jonjo Shelvey,Newcastle Utd,0.06,,Off Target,27.0,Right Foot,,Joelinton,Shot,,
+11,45+2,Matěj Vydra,Burnley,0.12,,Off Target,14.0,Right Foot,Volley,Matthew Lowton,Pass (Live),James Tarkowski,Pass (Live)
+12,45+4,Joe Willock,Newcastle Utd,0.15,,Off Target,11.0,Right Foot,,Miguel Almirón,Pass (Live),Joe Willock,Pass (Live)
+13,,,,,,,,,,,,,
+14,50,Miguel Almirón,Newcastle Utd,0.04,,Blocked,18.0,Left Foot,,Joe Willock,Pass (Live),Jonjo Shelvey,Pass (Live)
+15,50,Allan Saint-Maximin,Newcastle Utd,0.05,0.04,Saved,21.0,Right Foot,,Miguel Almirón,Shot,,
+16,55,Miguel Almirón,Newcastle Utd,0.07,0.4,Saved,21.0,Left Foot,,Callum Wilson,Pass (Live),Martin Dúbravka,Pass (Live)
+17,56,Jamaal Lascelles,Newcastle Utd,0.01,,Blocked,14.0,Head,,Jonjo Shelvey,Pass (Dead),Miguel Almirón,Shot
+18,60,Jóhann Berg Guðmundsson,Burnley,0.05,,Off Target,29.0,Left Foot,Free kick,Jóhann Berg Guðmundsson,Fouled,Jóhann Berg Guðmundsson,Take-On
+19,61,Allan Saint-Maximin,Newcastle Utd,0.04,,Blocked,26.0,Right Foot,,Joe Willock,Pass (Live),Allan Saint-Maximin,Pass (Dead)
+20,67,Jamaal Lascelles,Newcastle Utd,0.01,,Blocked,16.0,Head,,Jonjo Shelvey,Pass (Dead),Miguel Almirón,Pass (Live)
+21,69,Jóhann Berg Guðmundsson,Burnley,0.06,,Blocked,12.0,Left Foot,,Charlie Taylor,Pass (Live),Nathan Collins,Pass (Live)
+22,72,Callum Wilson,Newcastle Utd,0.09,,Blocked,10.0,Left Foot,,Callum Wilson,Take-On,Jonjo Shelvey,Pass (Live)
+23,74,Miguel Almirón,Newcastle Utd,0.04,,Blocked,15.0,Left Foot,,Joe Willock,Pass (Live),Callum Wilson,Pass (Live)
+24,77,Allan Saint-Maximin,Newcastle Utd,0.02,,Blocked,15.0,Right Foot,,Callum Wilson,Fouled,,
+25,78,Miguel Almirón,Newcastle Utd,0.06,,Blocked,18.0,Left Foot,,Joelinton,Pass (Live),Jonjo Shelvey,Pass (Live)
+26,79,Jonjo Shelvey,Newcastle Utd,0.02,0.05,Saved,24.0,Right Foot,,Miguel Almirón,Pass (Live),Jonjo Shelvey,Pass (Live)
+27,82,James Tarkowski,Burnley,0.15,,Off Target,4.0,Head,,Ashley Westwood,Pass (Dead),Josh Brownhill,Pass (Live)
+28,90+4,Dwight McNeil,Burnley,0.04,,Off Target,13.0,Left Foot,,Matěj Vydra,Pass (Live),Chris Wood,Pass (Live)
+29,90+5,Jacob Murphy,Newcastle Utd,0.05,,Off Target,12.0,Right Foot,,,,,

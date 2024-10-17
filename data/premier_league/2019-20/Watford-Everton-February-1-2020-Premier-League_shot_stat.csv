@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Adam Masina,Watford,0.04,,Off Target,20.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Adam Masina,Pass (Live)
+1,5,Richarlison,Everton,0.09,,Off Target,12.0,Left Foot,,Alex Iwobi,Pass (Live),Lucas Digne,Pass (Live)
+2,9,Christian Kabasele,Watford,0.16,,Off Target,7.0,Head,,Adam Masina,Pass (Dead),,
+3,10,Adam Masina,Watford,0.06,0.3,Goal,12.0,Left Foot,,Gerard Deulofeu,Pass (Live),Étienne Capoue,Pass (Live)
+4,20,Dominic Calvert-Lewin,Everton,0.04,0.19,Saved,15.0,Head,,Djibril Sidibé,Pass (Live),Alex Iwobi,Pass (Live)
+5,30,Theo Walcott,Everton,0.03,,Blocked,23.0,Right Foot,,Richarlison,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+6,32,Abdoulaye Doucouré,Watford,0.09,,Off Target,13.0,Right Foot,Volley,Troy Deeney,Fouled,Ben Foster,Pass (Dead)
+7,35,Abdoulaye Doucouré,Watford,0.07,,Blocked,18.0,Right Foot,,Gerard Deulofeu,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+8,42,Roberto Pereyra,Watford,0.25,0.24,Goal,16.0,Right Foot,,Troy Deeney,Pass (Live),,
+9,44,Lucas Digne,Everton,0.03,,Blocked,25.0,Left Foot,Volley,Theo Walcott,Pass (Live),Djibril Sidibé,Pass (Live)
+10,45+1,Mason Holgate,Everton,0.64,0.8,Saved,3.0,Right Foot,,,,,
+11,45+1,Yerry Mina,Everton,0.93,0.97,Goal,1.0,Right Foot,,Mason Holgate,Shot,,
+12,45+4,Yerry Mina,Everton,0.08,0.38,Goal,8.0,Head,,Gylfi Sigurðsson,Pass (Dead),Mason Holgate,Pass (Live)
+13,,,,,,,,,,,,,
+14,47,Dominic Calvert-Lewin,Everton,0.11,,Off Target,10.0,Head,,Gylfi Sigurðsson,Pass (Dead),Djibril Sidibé,Fouled
+15,62,Dominic Calvert-Lewin,Everton,0.11,,Off Target,10.0,Other,,Fabian Delph,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+16,63,Gerard Deulofeu,Watford,0.07,,Blocked,14.0,Right Foot,,Gerard Deulofeu,Take-On,Étienne Capoue,Pass (Live)
+17,66,Gerard Deulofeu,Watford,0.08,,Blocked,17.0,Right Foot,,Gerard Deulofeu,Take-On,,
+18,69,Lucas Digne,Everton,0.08,,Blocked,28.0,Left Foot,Free kick,Richarlison,Fouled,Theo Walcott,Pass (Live)
+19,72,Étienne Capoue,Watford,0.02,,Off Target,26.0,Right Foot,,Étienne Capoue,Fouled,Troy Deeney,Pass (Live)
+20,83,Abdoulaye Doucouré,Watford,0.02,,Off Target,26.0,Right Foot,Volley,,,,
+21,85,Abdoulaye Doucouré,Watford,0.03,,Off Target,25.0,Right Foot,,Isaac Success,Fouled,Danny Welbeck,Pass (Live)
+22,90,Moise Kean,Everton,0.37,,Off Target,13.0,Left Foot,,Richarlison,Pass (Live),Moise Kean,Tackle
+23,90,Theo Walcott,Everton,0.54,0.68,Goal,4.0,Right Foot,,Moise Kean,Shot,,

@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Marcos Alonso,Chelsea,0.05,0.04,Saved,12.0,Left Foot,Volley,Willian,Pass (Dead),Willian,Pass (Live)
+1,11,Willian,Chelsea,0.04,0.03,Saved,17.0,Right Foot,,Antonio Rüdiger,Pass (Live),César Azpilicueta,Pass (Live)
+2,13,Michail Antonio,West Ham,0.1,,Off Target,11.0,Right Foot,,Michail Antonio,Take-On,Tomáš Souček,Pass (Live)
+3,14,Michail Antonio,West Ham,0.03,,Blocked,25.0,Right Foot,,Manuel Lanzini,Tackle,,
+4,17,Tammy Abraham,Chelsea,0.06,,Off Target,8.0,Head,,Marcos Alonso,Pass (Live),Mateo Kovačić,Pass (Live)
+5,19,Ross Barkley,Chelsea,0.02,0.2,Saved,30.0,Right Foot,,N'Golo Kanté,Pass (Live),Marcos Alonso,Pass (Live)
+6,20,Christian Pulisic,Chelsea,0.06,,Off Target,16.0,Right Foot,,César Azpilicueta,Pass (Live),Antonio Rüdiger,Pass (Live)
+7,30,Ross Barkley,Chelsea,0.03,,Blocked,22.0,Right Foot,,Mateo Kovačić,Pass (Live),Christian Pulisic,Pass (Live)
+8,34,Tomáš Souček,West Ham,0.35,,Blocked,5.0,Right Foot,Volley,Michail Antonio,Pass (Live),Jarrod Bowen,Fouled
+9,38,Christian Pulisic,Chelsea,0.04,,Off Target,15.0,Head,,Marcos Alonso,Pass (Live),Willian,Pass (Live)
+10,42,Willian (pen),Chelsea,0.79,0.98,Goal,13.0,Right Foot,,Christian Pulisic,Fouled,Mateo Kovačić,Pass (Live)
+11,45+2,Tomáš Souček,West Ham,0.15,0.3,Goal,6.0,Head,,Jarrod Bowen,Pass (Dead),,
+12,,,,,,,,,,,,,
+13,46,Michail Antonio,West Ham,0.04,,Blocked,17.0,Left Foot,,Pablo Fornals,Pass (Live),,
+14,50,Ryan Fredericks,West Ham,0.03,,Blocked,27.0,Right Foot,,Declan Rice,Pass (Live),Aaron Cresswell,Pass (Live)
+15,51,Michail Antonio,West Ham,0.5,0.73,Goal,7.0,Right Foot,,Jarrod Bowen,Pass (Live),Pablo Fornals,Pass (Live)
+16,58,Manuel Lanzini,West Ham,0.09,,Off Target,17.0,Right Foot,,Jarrod Bowen,Pass (Live),Pablo Fornals,Pass (Live)
+17,64,Ruben Loftus-Cheek,Chelsea,0.05,,Off Target,11.0,Left Foot,Volley,Willian,Pass (Live),César Azpilicueta,Pass (Live)
+18,65,Marcos Alonso,Chelsea,0.05,,Blocked,13.0,Left Foot,,Willian,Pass (Live),Christian Pulisic,Take-On
+19,66,Olivier Giroud,Chelsea,0.09,0.53,Saved,14.0,Other,,Mason Mount,Pass (Dead),César Azpilicueta,Fouled
+20,72,Willian,Chelsea,0.06,0.01,Goal,32.0,Right Foot,Free kick,Christian Pulisic,Fouled,Mason Mount,Pass (Live)
+21,73,Christian Pulisic,Chelsea,0.03,,Off Target,25.0,Right Foot,,Marcos Alonso,Pass (Live),N'Golo Kanté,Pass (Live)
+22,77,Christian Pulisic,Chelsea,0.03,,Off Target,19.0,Right Foot,Volley,,,,
+23,81,Michail Antonio,West Ham,0.59,0.86,Saved,10.0,Right Foot,,Ryan Fredericks,Pass (Live),Andriy Yarmolenko,Pass (Live)
+24,83,Olivier Giroud,Chelsea,0.08,,Off Target,11.0,Left Foot,,Marcos Alonso,Pass (Live),Mason Mount,Pass (Live)
+25,87,Marcos Alonso,Chelsea,0.08,,Off Target,7.0,Head,,Mason Mount,Pass (Dead),Ruben Loftus-Cheek,Pass (Live)
+26,89,Andriy Yarmolenko,West Ham,0.35,0.81,Goal,15.0,Left Foot,,Michail Antonio,Pass (Live),Pablo Fornals,Pass (Live)
+27,90+4,N'Golo Kanté,Chelsea,0.03,,Off Target,27.0,Right Foot,,Christian Pulisic,Pass (Live),N'Golo Kanté,Pass (Live)

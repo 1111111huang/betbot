@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,14,İlkay Gündoğan,Manchester City,0.51,0.93,Goal,8.0,Right Foot,,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+1,24,Ferrán Torres,Manchester City,0.07,0.17,Saved,20.0,Right Foot,,Ferrán Torres,Take-On,Kevin De Bruyne,Pass (Live)
+2,35,Kevin De Bruyne,Manchester City,0.45,0.66,Saved,13.0,Right Foot,,Ferrán Torres,Pass (Live),İlkay Gündoğan,Pass (Live)
+3,37,Raheem Sterling,Manchester City,0.09,0.2,Saved,7.0,Right Foot,,João Cancelo,Pass (Live),Ferrán Torres,Pass (Live)
+4,41,Joelinton,Newcastle Utd,0.06,,Off Target,10.0,Head,,Miguel Almirón,Pass (Live),Fabian Schär,Pass (Live)
+5,45+3,Ciaran Clark,Newcastle Utd,0.04,,Blocked,18.0,Left Foot,Volley,Isaac Hayden,Fouled,Matthew Longstaff,Pass (Live)
+6,,,,,,,,,,,,,
+7,51,John Stones,Manchester City,0.14,,Off Target,8.0,Head,,Kevin De Bruyne,Pass (Dead),Bernardo Silva,Fouled
+8,51,Raheem Sterling,Manchester City,0.06,,Blocked,13.0,Right Foot,,İlkay Gündoğan,Pass (Live),,
+9,51,Jacob Murphy,Newcastle Utd,0.07,0.54,Saved,18.0,Right Foot,,Miguel Almirón,Pass (Live),Joelinton,Pass (Live)
+10,55,Rodri,Manchester City,0.03,,Blocked,30.0,Right Foot,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Take-On
+11,55,Ferrán Torres,Manchester City,0.52,0.94,Goal,9.0,Right Foot,,Rodri,Shot,,
+12,59,Bernardo Silva,Manchester City,0.51,,Woodwork,3.0,Right Foot,,Raheem Sterling,Pass (Live),João Cancelo,Pass (Live)
+13,61,DeAndre Yedlin,Newcastle Utd,0.01,,Blocked,32.0,Right Foot,,,,,
+14,61,Jacob Murphy,Newcastle Utd,0.01,,Off Target,31.0,Left Foot,,,,,
+15,78,Jacob Murphy,Newcastle Utd,0.03,0.24,Saved,25.0,Left Foot,,DeAndre Yedlin,Pass (Live),Fabian Schär,Pass (Live)
+16,79,Andy Carroll,Newcastle Utd,0.04,,Off Target,15.0,Head,,Matthew Longstaff,Pass (Live),DeAndre Yedlin,Pass (Live)
+17,81,Sergio Agüero,Manchester City,0.58,0.56,Saved,4.0,Right Foot,,João Cancelo,Pass (Live),Kevin De Bruyne,Pass (Live)
+18,86,Kevin De Bruyne,Manchester City,0.04,,Blocked,21.0,Right Foot,,Kevin De Bruyne,Take-On,,

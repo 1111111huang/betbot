@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Erling Haaland (pen),Manchester City,0.79,1.0,Goal,13.0,Left Foot,,Julián Álvarez,Fouled,Riyad Mahrez,Pass (Live)
+1,14,Jack Grealish,Manchester City,0.13,0.03,Saved,12.0,Right Foot,,Erling Haaland,Pass (Live),Kyle Walker,Pass (Live)
+2,15,Carlos Vinícius,Fulham,0.07,0.66,Goal,14.0,Left Foot,Volley,Harry Wilson,Pass (Live),Andreas Pereira,Pass (Live)
+3,26,Erling Haaland,Manchester City,0.16,,Off Target,7.0,Right Foot,,Riyad Mahrez,Pass (Live),Rodri,Pass (Live)
+4,27,Jack Grealish,Manchester City,0.12,0.22,Saved,14.0,Right Foot,,Erling Haaland,Pass (Live),Julián Álvarez,Pass (Live)
+5,27,Julián Álvarez,Manchester City,0.59,,Off Target,4.0,Right Foot,Volley,Jack Grealish,Shot,,
+6,34,Jack Grealish,Manchester City,0.05,0.01,Saved,19.0,Right Foot,Deflected,Julián Álvarez,Pass (Live),Riyad Mahrez,Tackle
+7,36,Julián Álvarez,Manchester City,0.05,0.23,Goal,28.0,Right Foot,,Julián Álvarez,Take-On,Riyad Mahrez,Pass (Live)
+8,41,İlkay Gündoğan,Manchester City,0.37,0.35,Saved,9.0,Right Foot,,Riyad Mahrez,Pass (Live),Riyad Mahrez,Take-On
+9,45+2,Kenny Tete,Fulham,0.04,,Blocked,22.0,Right Foot,,Andreas Pereira,Pass (Live),Antonee Robinson,Pass (Dead)
+10,,,,,,,,,,,,,
+11,47,Erling Haaland,Manchester City,0.08,0.47,Saved,14.0,Left Foot,,Jack Grealish,Pass (Live),Julián Álvarez,Pass (Live)
+12,51,Julián Álvarez,Manchester City,0.06,0.22,Saved,14.0,Right Foot,,Kyle Walker,Pass (Live),Kyle Walker,Interception
+13,73,Erling Haaland,Manchester City,0.06,,Off Target,11.0,Head,,Manuel Akanji,Pass (Live),Jack Grealish,Pass (Dead)
+14,73,Rodri,Manchester City,0.11,0.62,Saved,9.0,Head,,Manuel Akanji,Pass (Live),Erling Haaland,Shot
+15,76,Bobby Reid,Fulham,0.03,,Off Target,33.0,Right Foot,,,,,
+16,78,Manor Solomon,Fulham,0.04,,Blocked,21.0,Right Foot,,João Palhinha,Fouled,,

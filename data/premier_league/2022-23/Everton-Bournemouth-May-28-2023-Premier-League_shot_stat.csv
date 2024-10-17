@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Dango Ouattara,Bournemouth,0.06,,Blocked,9.0,Head,,Adam Smith,Pass (Live),David Brooks,Pass (Live)
+1,6,Jefferson Lerma,Bournemouth,0.06,,Off Target,21.0,Right Foot,Volley,Dango Ouattara,Shot,,
+2,16,Demarai Gray,Everton,0.03,,Off Target,25.0,Right Foot,,Yerry Mina,Pass (Live),Amadou Onana,Pass (Live)
+3,23,Amadou Onana,Everton,0.06,,Off Target,8.0,Head,,Dwight McNeil,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+4,31,Idrissa Gana Gueye,Everton,0.18,0.14,Saved,18.0,Right Foot,,Amadou Onana,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+5,33,Idrissa Gana Gueye,Everton,0.02,0.19,Saved,32.0,Right Foot,,Alex Iwobi,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+6,38,David Brooks,Bournemouth,0.02,,Off Target,28.0,Left Foot,Volley,Philip Billing,Pass (Dead),David Brooks,Pass (Live)
+7,38,Marcos Senesi,Bournemouth,0.08,,Off Target,7.0,Right Foot,,David Brooks,Shot,,
+8,41,Amadou Onana,Everton,0.02,,Off Target,34.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+9,42,Demarai Gray,Everton,0.09,,Blocked,8.0,Right Foot,,Demarai Gray,Take-On,Dwight McNeil,Pass (Live)
+10,45,Dominic Solanke,Bournemouth,0.1,,Blocked,9.0,Right Foot,,David Brooks,Pass (Live),David Brooks,Take-On
+11,45+3,James Garner,Everton,0.06,0.45,Saved,22.0,Right Foot,,Alex Iwobi,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+12,,,,,,,,,,,,,
+13,51,Demarai Gray,Everton,0.3,0.85,Saved,8.0,Head,,Alex Iwobi,Pass (Live),Dwight McNeil,Pass (Live)
+14,57,Abdoulaye Doucouré,Everton,0.06,0.18,Goal,22.0,Right Foot,Deflected,Dwight McNeil,Pass (Dead),Yerry Mina,Fouled
+15,69,Kieffer Moore,Bournemouth,0.09,,Blocked,6.0,Head,,Lloyd Kelly,Pass (Live),Jefferson Lerma,Pass (Live)
+16,80,Demarai Gray,Everton,0.05,,Off Target,14.0,Right Foot,,Amadou Onana,Pass (Live),,
+17,85,Alex Iwobi,Everton,0.02,,Blocked,19.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Yerry Mina,Pass (Live)
+18,88,James Tarkowski,Everton,0.09,,Off Target,7.0,Head,,Dwight McNeil,Pass (Live),James Garner,Pass (Live)
+19,90+4,Matías Viña,Bournemouth,0.05,0.2,Saved,22.0,Left Foot,Volley,Kieffer Moore,Pass (Live),Lloyd Kelly,Pass (Live)
+20,90+6,Abdoulaye Doucouré,Everton,0.05,0.06,Saved,8.0,Left Foot,,Dwight McNeil,Pass (Live),,

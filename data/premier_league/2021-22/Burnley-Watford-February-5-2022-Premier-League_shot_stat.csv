@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,Dwight McNeil,Burnley,0.03,,Off Target,27.0,Left Foot,,Maxwel Cornet,Pass (Live),,
+1,11.0,Maxwel Cornet,Burnley,0.05,0.13,Saved,14.0,Right Foot,,,,,
+2,13.0,Erik Pieters,Burnley,0.03,,Blocked,26.0,Left Foot,Volley,James Tarkowski,Pass (Live),Ashley Westwood,Pass (Live)
+3,15.0,Dale Stephens,Burnley,0.03,,Off Target,23.0,Right Foot,Volley,Dwight McNeil,Pass (Live),,
+4,29.0,Joshua King,Watford,0.24,,Off Target,7.0,Right Foot,,Juraj Kucka,Pass (Live),Juraj Kucka,Take-On
+5,39.0,Joshua King,Watford,0.07,0.14,Saved,12.0,Left Foot,,Hassane Kamara,Pass (Live),Ken Sema,Pass (Live)
+6,40.0,João Pedro,Watford,0.1,,Off Target,5.0,Head,,Kiko Femenía,Pass (Dead),Joshua King,Shot
+7,44.0,Juraj Kucka,Watford,0.02,,Off Target,29.0,Right Foot,,João Pedro,Pass (Live),Joshua King,Pass (Live)
+8,,,,,,,,,,,,,
+9,46.0,Wout Weghorst,Burnley,0.12,,Blocked,11.0,Right Foot,,Wout Weghorst,Take-On,Ashley Westwood,Pass (Live)
+10,46.0,Maxwel Cornet,Burnley,0.02,,Off Target,16.0,Head,,Dwight McNeil,Pass (Live),Dwight McNeil,Take-On
+11,51.0,João Pedro,Watford,0.04,,Blocked,14.0,Right Foot,,Joshua King,Pass (Live),Craig Cathcart,Pass (Live)
+12,60.0,João Pedro,Watford,0.18,0.41,Saved,10.0,Head,,Juraj Kucka,Pass (Live),Kiko Femenía,Pass (Live)
+13,66.0,Juraj Kucka,Watford,0.02,,Off Target,23.0,Right Foot,,Moussa Sissoko,Pass (Live),,
+14,67.0,João Pedro,Watford,0.04,0.09,Saved,17.0,Left Foot,,Joshua King,Pass (Live),,
+15,72.0,Wout Weghorst,Burnley,0.11,,Off Target,16.0,Right Foot,,James Tarkowski,Pass (Live),James Tarkowski,Interception
+16,74.0,Maxwel Cornet,Burnley,0.05,0.13,Saved,22.0,Right Foot,,Jay Rodriguez,Pass (Live),,
+17,74.0,Ashley Westwood,Burnley,0.04,,Off Target,16.0,Right Foot,Volley,Maxwel Cornet,Shot,,
+18,78.0,Jay Rodriguez,Burnley,0.03,,Off Target,12.0,Head,,Connor Roberts,Pass (Live),,
+19,79.0,Erik Pieters,Burnley,0.03,,Off Target,29.0,Left Foot,,Dale Stephens,Pass (Live),Wout Weghorst,Pass (Live)
+20,80.0,Erik Pieters,Burnley,0.05,,Blocked,15.0,Left Foot,,Ashley Westwood,Pass (Live),Connor Roberts,Pass (Live)
+21,85.0,Joshua King,Watford,0.01,0.11,Saved,17.0,Head,,Kiko Femenía,Pass (Live),Craig Cathcart,Pass (Live)
+22,85.0,Cucho,Watford,0.03,,Blocked,24.0,Right Foot,,Hassane Kamara,Pass (Live),,
+23,85.0,Tom Cleverley,Watford,0.05,0.3,Saved,22.0,Right Foot,Deflected,Cucho,Shot,,
+24,88.0,Maxwel Cornet,Burnley,0.06,,Blocked,26.0,Left Foot,Free kick,Wout Weghorst,Fouled,James Tarkowski,Pass (Live)

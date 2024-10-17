@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Youri Tielemans,Leicester City,0.03,,Blocked,15.0,Right Foot,Volley,,,,
+1,6,Timothy Castagne,Leicester City,0.28,,Off Target,7.0,Head,,James Maddison,Pass (Live),Wesley Fofana,Pass (Live)
+2,8,Adam Armstrong,Southampton,0.06,,Off Target,10.0,Head,,Kyle Walker-Peters,Pass (Live),Oriol Romeu,Pass (Live)
+3,14,Harvey Barnes,Leicester City,0.02,,Blocked,17.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Kasper Schmeichel,Pass (Live)
+4,17,Harvey Barnes,Leicester City,0.02,,Off Target,24.0,Right Foot,,James Maddison,Pass (Live),James Maddison,Take-On
+5,30,James Ward-Prowse,Southampton,0.02,,Off Target,28.0,Right Foot,,Mohamed Elyounoussi,Pass (Live),Adam Armstrong,Pass (Live)
+6,40,Jamie Vardy,Leicester City,0.55,,Off Target,9.0,Left Foot,,Timothy Castagne,Pass (Live),James Maddison,Pass (Live)
+7,,,,,,,,,,,,,
+8,49,Jamie Vardy,Leicester City,0.51,0.33,Saved,17.0,Right Foot,,,,,
+9,49,James Maddison,Leicester City,0.81,0.58,Goal,14.0,Left Foot,,Jamie Vardy,Shot,,
+10,54,Wesley Fofana,Leicester City,0.23,,Off Target,3.0,Head,,Jonny Evans,Pass (Live),,
+11,64,Nathan Redmond,Southampton,0.06,0.14,Saved,11.0,Head,,Mohamed Elyounoussi,Pass (Live),,
+12,67,Che Adams,Southampton,0.13,,Off Target,9.0,Head,,Mohamed Elyounoussi,Pass (Live),Stuart Armstrong,Pass (Live)
+13,68,Jamie Vardy,Leicester City,0.08,0.02,Saved,21.0,Left Foot,,Ayoze Pérez,Pass (Live),Youri Tielemans,Pass (Live)
+14,74,Jamie Vardy,Leicester City,0.61,0.97,Goal,9.0,Right Foot,,Jamie Vardy,Take-On,Harvey Barnes,Pass (Live)
+15,76,Moussa Djenepo,Southampton,0.03,,Off Target,17.0,Right Foot,Volley,Stuart Armstrong,Pass (Live),Nathan Redmond,Pass (Live)
+16,79,James Ward-Prowse (pen),Southampton,0.79,0.96,Goal,13.0,Right Foot,,Stuart Armstrong,Fouled,Stuart Armstrong,Take-On
+17,81,Ayoze Pérez,Leicester City,0.4,0.74,Goal,7.0,Right Foot,Volley,James Maddison,Pass (Live),Nampalys Mendy,Pass (Live)
+18,85,James Ward-Prowse,Southampton,0.06,,Off Target,25.0,Right Foot,Free kick,Shane Long,Fouled,,
+19,90+6,Ayoze Pérez,Leicester City,0.32,0.85,Goal,10.0,Right Foot,,Ricardo Pereira,Pass (Live),Youri Tielemans,Pass (Live)

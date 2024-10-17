@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Anthony Martial,Manchester Utd,0.06,,Off Target,17.0,Right Foot,,Daniel James,Pass (Live),Anthony Martial,Pass (Live)
+1,24,Jesse Lingard,Manchester Utd,0.03,,Blocked,21.0,Right Foot,,Marcus Rashford,Pass (Live),Jesse Lingard,Pass (Live)
+2,26,Troy Deeney,Watford,0.11,,Blocked,15.0,Right Foot,,Gerard Deulofeu,Take-On,Troy Deeney,Pass (Live)
+3,33,Troy Deeney,Watford,0.04,,Blocked,23.0,Right Foot,,Will Hughes,Pass (Live),Gerard Deulofeu,Pass (Live)
+4,34,Jesse Lingard,Manchester Utd,0.25,,Off Target,25.0,Right Foot,,Anthony Martial,Pass (Live),Harry Maguire,Pass (Live)
+5,40,Abdoulaye Doucouré,Watford,0.04,,Off Target,15.0,Head,,Kiko Femenía,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+6,43,Scott McTominay,Manchester Utd,0.03,,Blocked,25.0,Right Foot,,Fred,Pass (Live),Luke Shaw,Pass (Live)
+7,,,,,,,,,,,,,
+8,50,Ismaila Sarr,Watford,0.09,0.42,Goal,10.0,Right Foot,Volley,Christian Kabasele,Pass (Live),Will Hughes,Pass (Dead)
+9,52,Scott McTominay,Manchester Utd,0.06,0.13,Saved,9.0,Head,,Fred,Pass (Dead),Daniel James,Fouled
+10,54,Troy Deeney (pen),Watford,0.79,0.89,Goal,13.0,Right Foot,,Ismaila Sarr,Fouled,Troy Deeney,Pass (Live)
+11,58,Scott McTominay,Manchester Utd,0.03,0.03,Saved,26.0,Right Foot,,Fred,Pass (Live),Marcus Rashford,Pass (Live)
+12,58,Scott McTominay,Manchester Utd,0.04,,Off Target,21.0,Left Foot,,Scott McTominay,Shot,,
+13,62,Will Hughes,Watford,0.03,,Off Target,23.0,Left Foot,Volley,Gerard Deulofeu,Take-On,Kiko Femenía,Pass (Live)
+14,67,Anthony Martial,Manchester Utd,0.07,,Blocked,16.0,Right Foot,,Luke Shaw,Pass (Live),Paul Pogba,Pass (Live)
+15,68,Mason Greenwood,Manchester Utd,0.04,,Off Target,12.0,Head,,Marcus Rashford,Pass (Live),Mason Greenwood,Pass (Live)
+16,68,Ismaila Sarr,Watford,0.12,,Blocked,11.0,Right Foot,,Gerard Deulofeu,Pass (Live),Gerard Deulofeu,Take-On
+17,68,Troy Deeney,Watford,0.08,,Off Target,12.0,Right Foot,,Adrian Mariappa,Pass (Live),Troy Deeney,Pass (Live)
+18,72,Marcus Rashford,Manchester Utd,0.06,0.13,Saved,25.0,Right Foot,Free kick,Marcus Rashford,Fouled,Paul Pogba,Pass (Live)
+19,74,Gerard Deulofeu,Watford,0.07,,Blocked,8.0,Left Foot,,Gerard Deulofeu,Take-On,,
+20,74,Troy Deeney,Watford,0.09,,Blocked,10.0,Right Foot,,Gerard Deulofeu,Shot,,
+21,76,Paul Pogba,Manchester Utd,0.02,0.07,Saved,32.0,Right Foot,,Marcus Rashford,Pass (Live),Luke Shaw,Pass (Live)
+22,78,Kiko Femenía,Watford,0.02,0.07,Saved,29.0,Right Foot,,Troy Deeney,Fouled,,
+23,81,Harry Maguire,Manchester Utd,0.07,0.07,Saved,9.0,Head,,Juan Mata,Pass (Dead),Anthony Martial,Pass (Live)
+24,82,Paul Pogba,Manchester Utd,0.27,0.4,Saved,11.0,Right Foot,,Anthony Martial,Pass (Live),Paul Pogba,Pass (Live)
+25,85,Mason Greenwood,Manchester Utd,0.08,,Off Target,18.0,Left Foot,Volley,Paul Pogba,Pass (Live),Fred,Pass (Live)
+26,90,Marcus Rashford,Manchester Utd,0.6,0.93,Saved,11.0,Left Foot,,Marcus Rashford,Take-On,Anthony Martial,Pass (Live)
+27,90+1,Anthony Martial,Manchester Utd,0.06,0.12,Saved,17.0,Right Foot,,Anthony Martial,Take-On,Fred,Pass (Live)
+28,90+3,Juan Mata,Manchester Utd,0.08,,Off Target,26.0,Left Foot,Free kick,,Fouled,Mason Greenwood,Pass (Live)

@@ -1,0 +1,41 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Antoine Semenyo,Bournemouth,0.09,0.22,Goal,15.0,Right Foot,,Philip Billing,Pass (Live),,
+1,6,Virgil van Dijk,Liverpool,0.09,,Woodwork,9.0,Head,,Andrew Robertson,Pass (Dead),,
+2,13,Trent Alexander-Arnold,Liverpool,0.03,0.11,Saved,15.0,Right Foot,,Trent Alexander-Arnold,Take-On,Mohamed Salah,Pass (Live)
+3,18,Luis Díaz,Liverpool,0.04,,Blocked,15.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Dominik Szoboszlai,Pass (Live)
+4,18,Luis Díaz,Liverpool,0.11,,Blocked,20.0,Right Foot,,Luis Díaz,Shot,,
+5,18,Dominik Szoboszlai,Liverpool,0.04,,Blocked,13.0,Left Foot,,Luis Díaz,Shot,,
+6,19,Cody Gakpo,Liverpool,0.02,,Off Target,24.0,Right Foot,,Mohamed Salah,Pass (Live),Alexis Mac Allister,Pass (Live)
+7,19,Dominic Solanke,Bournemouth,0.02,,Off Target,30.0,Right Foot,,Marcos Senesi,Pass (Live),Marcos Senesi,Tackle
+8,28,Luis Díaz,Liverpool,0.27,0.49,Goal,9.0,Right Foot,Volley,Diogo Jota,Take-On,Trent Alexander-Arnold,Pass (Live)
+9,34,Mohamed Salah,Liverpool,0.1,,Off Target,21.0,Left Foot,,Diogo Jota,Pass (Live),Cody Gakpo,Pass (Live)
+10,36,Mohamed Salah (pen),Liverpool,0.79,0.97,Saved,13.0,Left Foot,,Dominik Szoboszlai,Fouled,Trent Alexander-Arnold,Pass (Live)
+11,36,Mohamed Salah,Liverpool,0.75,0.94,Goal,5.0,Left Foot,Volley,Mohamed Salah,Shot,,
+12,45,Trent Alexander-Arnold,Liverpool,0.07,0.15,Saved,15.0,Left Foot,,Cody Gakpo,Pass (Live),Dominik Szoboszlai,Pass (Live)
+13,45+1,Virgil van Dijk,Liverpool,0.1,,Off Target,8.0,Head,,Andrew Robertson,Pass (Dead),Trent Alexander-Arnold,Shot
+14,45+3,Dominik Szoboszlai,Liverpool,0.06,,Blocked,20.0,Right Foot,,Diogo Jota,Pass (Live),Dominik Szoboszlai,Pass (Live)
+15,45+3,Ibrahima Konaté,Liverpool,0.05,,Off Target,10.0,Head,,Trent Alexander-Arnold,Pass (Dead),Dominik Szoboszlai,Shot
+16,45+4,Antoine Semenyo,Bournemouth,0.04,0.06,Saved,26.0,Left Foot,,Joe Rothwell,Pass (Live),Ryan Christie,Interception
+17,,,,,,,,,,,,,
+18,46,Trent Alexander-Arnold,Liverpool,0.04,,Blocked,26.0,Right Foot,,Dominik Szoboszlai,Pass (Dead),,
+19,49,Antoine Semenyo,Bournemouth,0.05,,Off Target,21.0,Right Foot,,,,,
+20,50,Diogo Jota,Liverpool,0.06,,Off Target,11.0,Head,,Andrew Robertson,Pass (Dead),,
+21,51,Diogo Jota,Liverpool,0.09,,Off Target,25.0,Right Foot,,,,,
+22,53,Mohamed Salah,Liverpool,0.1,0.5,Saved,8.0,Left Foot,,,,,
+23,54,Cody Gakpo,Liverpool,0.08,,Blocked,16.0,Left Foot,,Luis Díaz,Pass (Live),Alexis Mac Allister,Pass (Live)
+24,54,Cody Gakpo,Liverpool,0.13,,Blocked,16.0,Right Foot,,Cody Gakpo,Shot,,
+25,58,Diogo Jota,Liverpool,0.09,,Blocked,10.0,Left Foot,,Luis Díaz,Pass (Live),Luis Díaz,Take-On
+26,62,Dominik Szoboszlai,Liverpool,0.03,0.17,Saved,24.0,Right Foot,Deflected,Trent Alexander-Arnold,Pass (Live),Luis Díaz,Pass (Live)
+27,62,Diogo Jota,Liverpool,0.34,0.99,Goal,4.0,Left Foot,,Dominik Szoboszlai,Shot,,
+28,67,Diogo Jota,Liverpool,0.1,0.07,Saved,7.0,Left Foot,,Diogo Jota,Take-On,Wataru Endo,Tackle
+29,70,Kieffer Moore,Bournemouth,0.23,,Off Target,13.0,Right Foot,,Antoine Semenyo,Pass (Live),Antoine Semenyo,Take-On
+30,72,Virgil van Dijk,Liverpool,0.02,0.49,Saved,53.0,Right Foot,Free kick,Luis Díaz,Fouled,Ibrahima Konaté,Pass (Live)
+31,74,Max Aarons,Bournemouth,0.02,,Blocked,24.0,Left Foot,,Dominic Solanke,Pass (Live),Marcos Senesi,Pass (Live)
+32,80,Dominic Solanke,Bournemouth,0.06,,Off Target,22.0,Right Foot,,Justin Kluivert,Pass (Live),Justin Kluivert,Interception
+33,83,Mohamed Salah,Liverpool,0.08,,Off Target,22.0,Left Foot,,Virgil van Dijk,Pass (Live),Luis Díaz,Pass (Live)
+34,84,Justin Kluivert,Bournemouth,0.22,0.61,Saved,10.0,Right Foot,,David Brooks,Pass (Live),Max Aarons,Pass (Live)
+35,84,Philip Billing,Bournemouth,0.34,,Off Target,9.0,Right Foot,Volley,Justin Kluivert,Shot,,
+36,90,Philip Billing,Bournemouth,0.06,,Off Target,28.0,Left Foot,Free kick,David Brooks,Fouled,,
+37,90+2,Hamed Junior Traorè,Bournemouth,0.02,0.04,Saved,31.0,Left Foot,,David Brooks,Pass (Live),Philip Billing,Pass (Live)
+38,90+4,Hamed Junior Traorè,Bournemouth,0.13,0.32,Saved,17.0,Left Foot,,Hamed Junior Traorè,Take-On,Hamed Junior Traorè,Take-On
+39,90+4,Dominic Solanke,Bournemouth,0.07,,Off Target,10.0,Head,,David Brooks,Pass (Dead),Hamed Junior Traorè,Shot

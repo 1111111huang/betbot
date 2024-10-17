@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Riyad Mahrez,Manchester City,0.03,,Off Target,15.0,Left Foot,,Phil Foden,Pass (Live),Bernardo Silva,Pass (Live)
+1,12,Riyad Mahrez,Manchester City,0.1,,Off Target,9.0,Head,,Phil Foden,Pass (Live),Bernardo Silva,Pass (Live)
+2,24,João Cancelo,Manchester City,0.01,,Off Target,34.0,Right Foot,,İlkay Gündoğan,Pass (Live),Aymeric Laporte,Pass (Live)
+3,26,Kevin De Bruyne,Manchester City,0.02,,Off Target,30.0,Right Foot,,Phil Foden,Pass (Live),Kevin De Bruyne,Pass (Live)
+4,28,Bernardo Silva,Manchester City,0.2,0.57,Saved,16.0,Left Foot,,Bernardo Silva,Take-On,Kevin De Bruyne,Pass (Live)
+5,33,Riyad Mahrez,Manchester City,0.01,,Blocked,24.0,Left Foot,,João Cancelo,Pass (Live),Riyad Mahrez,Pass (Live)
+6,38,İlkay Gündoğan,Manchester City,0.16,,Blocked,14.0,Right Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+7,,,,,,,,,,,,,
+8,51,João Cancelo,Manchester City,0.02,,Blocked,32.0,Right Foot,,Kevin De Bruyne,Pass (Dead),Rúben Dias,Pass (Live)
+9,52,Rodri,Manchester City,0.05,,Blocked,15.0,Left Foot,Volley,Kevin De Bruyne,Pass (Dead),João Cancelo,Shot
+10,53,Riyad Mahrez,Manchester City,0.25,0.66,Goal,12.0,Left Foot,Deflected,İlkay Gündoğan,Pass (Live),,
+11,59,Danny Welbeck,Brighton,0.12,0.02,Saved,8.0,Head,,Pascal Groß,Pass (Dead),Marc Cucurella,Pass (Live)
+12,60,John Stones,Manchester City,0.12,,Blocked,13.0,Right Foot,Volley,,,,
+13,61,Kevin De Bruyne,Manchester City,0.02,0.09,Saved,28.0,Left Foot,,Riyad Mahrez,Pass (Live),Rodri,Pass (Live)
+14,65,Phil Foden,Manchester City,0.02,0.14,Goal,29.0,Left Foot,Deflected,Riyad Mahrez,Pass (Dead),,
+15,69,Phil Foden,Manchester City,0.06,,Blocked,9.0,Left Foot,Volley,Riyad Mahrez,Pass (Live),Bernardo Silva,Pass (Live)
+16,70,Kevin De Bruyne,Manchester City,0.01,,Blocked,28.0,Right Foot,,João Cancelo,Pass (Live),Aymeric Laporte,Pass (Live)
+17,71,İlkay Gündoğan,Manchester City,0.08,,Blocked,12.0,Right Foot,,İlkay Gündoğan,Take-On,Kevin De Bruyne,Pass (Live)
+18,82,Bernardo Silva,Manchester City,0.09,0.23,Goal,20.0,Left Foot,,Kevin De Bruyne,Pass (Live),Oleksandr Zinchenko,Interception
+19,90+3,Alexis Mac Allister,Brighton,0.04,,Off Target,30.0,Right Foot,Free kick,Neal Maupay,Fouled,Alexis Mac Allister,Pass (Live)

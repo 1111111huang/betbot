@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Naby Keïta,Liverpool,0.06,,Blocked,26.0,Right Foot,,Sadio Mané,Pass (Live),Diogo Jota,Pass (Live)
+1,2,Sadio Mané,Liverpool,0.08,,Off Target,5.0,Head,,James Milner,Pass (Dead),Naby Keïta,Shot
+2,9,Curtis Jones,Liverpool,0.06,0.12,Saved,11.0,Right Foot,,Naby Keïta,Pass (Live),Roberto Firmino,Pass (Live)
+3,10,Naby Keïta,Liverpool,0.02,0.02,Saved,26.0,Left Foot,,Curtis Jones,Shot,,
+4,13,Diogo Jota,Liverpool,0.05,0.07,Saved,20.0,Right Foot,,Roberto Firmino,Pass (Live),Sadio Mané,Pass (Live)
+5,18,Andrew Robertson,Liverpool,0.04,,Off Target,24.0,Left Foot,Volley,,,,
+6,24,Harvey Barnes,Leicester City,0.36,,Off Target,12.0,Right Foot,,Jamie Vardy,Pass (Live),Harvey Barnes,Pass (Live)
+7,27,Joël Matip,Liverpool,0.15,,Off Target,7.0,Head,,Andrew Robertson,Pass (Dead),Joël Matip,Pass (Live)
+8,32,Roberto Firmino,Liverpool,0.33,,Off Target,2.0,Right Foot,Volley,Joël Matip,Pass (Live),Andrew Robertson,Pass (Dead)
+9,34,James Justin,Leicester City,0.03,,Off Target,22.0,Right Foot,,James Justin,Take-On,Harvey Barnes,Pass (Live)
+10,39,Sadio Mané,Liverpool,0.07,0.05,Saved,15.0,Right Foot,Deflected,James Milner,Pass (Live),,
+11,41,Diogo Jota,Liverpool,0.22,0.09,Goal,11.0,Head,,Andrew Robertson,Pass (Live),Andrew Robertson,Take-On
+12,42,Youri Tielemans,Leicester City,0.03,0.14,Saved,31.0,Right Foot,,James Maddison,Pass (Live),James Justin,Pass (Live)
+13,,,,,,,,,,,,,
+14,46,Diogo Jota,Liverpool,0.32,,Off Target,4.0,Right Foot,Volley,Andrew Robertson,Pass (Live),Joël Matip,Pass (Live)
+15,48,Harvey Barnes,Leicester City,0.05,0.05,Saved,14.0,Left Foot,,James Maddison,Pass (Live),Youri Tielemans,Pass (Live)
+16,50,James Milner,Liverpool,0.04,,Blocked,17.0,Left Foot,,Georginio Wijnaldum,Pass (Live),Georginio Wijnaldum,Take-On
+17,54,Sadio Mané,Liverpool,0.23,,Blocked,13.0,Right Foot,Deflected,James Milner,Pass (Live),Roberto Firmino,Pass (Live)
+18,57,Diogo Jota,Liverpool,0.06,0.19,Saved,12.0,Right Foot,,Curtis Jones,Pass (Live),Roberto Firmino,Pass (Live)
+19,57,Roberto Firmino,Liverpool,0.36,0.67,Saved,3.0,Left Foot,,Diogo Jota,Pass (Live),Diogo Jota,Shot
+20,57,Roberto Firmino,Liverpool,0.2,,Woodwork,3.0,Head,,Roberto Firmino,Shot,,
+21,62,Jamie Vardy,Leicester City,0.63,0.76,Saved,4.0,Left Foot,,,,,
+22,62,Harvey Barnes,Leicester City,0.48,0.43,Saved,5.0,Left Foot,,Jamie Vardy,Shot,,
+23,65,Cengiz Ünder,Leicester City,0.03,,Blocked,25.0,Left Foot,,James Maddison,Pass (Live),James Justin,Pass (Live)
+24,72,Diogo Jota,Liverpool,0.06,,Off Target,16.0,Left Foot,,Diogo Jota,Take-On,Neco Williams,Pass (Live)
+25,77,Roberto Firmino,Liverpool,0.43,,Woodwork,8.0,Right Foot,,Roberto Firmino,Take-On,Diogo Jota,Pass (Live)
+26,77,Roberto Firmino,Liverpool,0.68,,Blocked,5.0,Right Foot,,Roberto Firmino,Shot,,
+27,77,Sadio Mané,Liverpool,0.08,0.06,Saved,13.0,Right Foot,Volley,Roberto Firmino,Shot,,
+28,83,James Maddison,Leicester City,0.05,,Blocked,19.0,Left Foot,,Dennis Praet,Pass (Live),James Maddison,Pass (Live)
+29,84,Sadio Mané,Liverpool,0.08,0.21,Saved,23.0,Right Foot,,Sadio Mané,Take-On,Diogo Jota,Pass (Live)
+30,86,Sadio Mané,Liverpool,0.07,,Blocked,9.0,Head,,James Milner,Pass (Dead),,
+31,86,Roberto Firmino,Liverpool,0.05,0.21,Goal,12.0,Head,,James Milner,Pass (Dead),Sadio Mané,Shot
+32,88,Wesley Fofana,Leicester City,0.09,,Off Target,8.0,Head,,James Maddison,Pass (Dead),,
+33,90+2,Jamie Vardy,Leicester City,0.06,,Off Target,21.0,Right Foot,Volley,Jamie Vardy,Take-On,Marc Albrighton,Pass (Live)
+34,90+2,Takumi Minamino,Liverpool,0.03,0.19,Saved,20.0,Left Foot,Deflected,Curtis Jones,Pass (Live),Divock Origi,Pass (Live)
+35,90+4,Marc Albrighton,Leicester City,0.06,,Off Target,18.0,Left Foot,,Jamie Vardy,Pass (Live),Cengiz Ünder,Pass (Live)

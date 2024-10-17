@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Daniel James,Manchester Utd,0.03,,Blocked,25.0,Right Foot,,Bruno Fernandes,Pass (Live),Fred,Pass (Live)
+1,4,Fred,Manchester Utd,0.02,,Off Target,25.0,Right Foot,Volley,Daniel James,Shot,,
+2,7,Daniel James,Manchester Utd,0.04,,Off Target,23.0,Right Foot,,Luke Shaw,Pass (Live),,
+3,14,Marcus Rashford,Manchester Utd,0.08,,Blocked,17.0,Right Foot,,Daniel James,Pass (Live),Harry Maguire,Pass (Live)
+4,15,Fred,Manchester Utd,0.02,,Blocked,23.0,Right Foot,,Marcus Rashford,Pass (Live),Bruno Fernandes,Pass (Dead)
+5,16,Marcus Rashford,Manchester Utd,0.04,,Off Target,18.0,Right Foot,,Marcus Rashford,Take-On,Bruno Fernandes,Pass (Live)
+6,22,Jonjo Shelvey,Newcastle Utd,0.07,0.15,Saved,14.0,Left Foot,Volley,Jamal Lewis,Pass (Live),Allan Saint-Maximin,Pass (Live)
+7,23,Juan Mata,Manchester Utd,0.05,0.07,Saved,16.0,Left Foot,,Bruno Fernandes,Pass (Live),Juan Mata,Pass (Live)
+8,23,Harry Maguire,Manchester Utd,0.07,0.19,Goal,9.0,Head,,Juan Mata,Pass (Dead),Juan Mata,Shot
+9,29,Marcus Rashford,Manchester Utd,0.03,0.04,Saved,22.0,Right Foot,,Daniel James,Pass (Live),Marcus Rashford,Pass (Live)
+10,30,Allan Saint-Maximin,Newcastle Utd,0.02,0.14,Saved,25.0,Right Foot,,Isaac Hayden,Pass (Live),Allan Saint-Maximin,Fouled
+11,34,Daniel James,Manchester Utd,0.07,,Blocked,18.0,Right Foot,,Scott McTominay,Pass (Live),Aaron Wan-Bissaka,Pass (Dead)
+12,37,Marcus Rashford,Manchester Utd,0.08,,Blocked,12.0,Right Foot,"Deflected, Volley",Daniel James,Pass (Live),Bruno Fernandes,Pass (Live)
+13,43,Marcus Rashford,Manchester Utd,0.03,0.17,Saved,30.0,Right Foot,,Luke Shaw,Pass (Live),Bruno Fernandes,Pass (Live)
+14,45+3,Daniel James,Manchester Utd,0.05,0.05,Saved,26.0,Right Foot,,Scott McTominay,Pass (Live),,
+15,,,,,,,,,,,,,
+16,49,Bruno Fernandes,Manchester Utd,0.04,,Off Target,27.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Juan Mata,Pass (Live)
+17,50,Callum Wilson,Newcastle Utd,0.06,,Blocked,20.0,Right Foot,,Joelinton,Pass (Live),Joelinton,Interception
+18,51,Callum Wilson,Newcastle Utd,0.59,0.87,Saved,5.0,Right Foot,Volley,Allan Saint-Maximin,Pass (Live),Allan Saint-Maximin,Take-On
+19,52,Fred,Manchester Utd,0.05,,Off Target,27.0,Left Foot,,Bruno Fernandes,Pass (Live),Juan Mata,Pass (Live)
+20,54,Jeff Hendrick,Newcastle Utd,0.05,,Off Target,23.0,Right Foot,,Emil Krafth,Pass (Live),Jamal Lewis,Pass (Live)
+21,58,Bruno Fernandes (pen),Manchester Utd,0.79,0.98,Saved,13.0,Right Foot,,Marcus Rashford,Fouled,Juan Mata,Pass (Live)
+22,59,Harry Maguire,Manchester Utd,0.03,,Blocked,14.0,Head,,Juan Mata,Pass (Dead),Bruno Fernandes,Shot
+23,61,Aaron Wan-Bissaka,Manchester Utd,0.05,0.14,Saved,20.0,Right Foot,,Fred,Pass (Live),Juan Mata,Pass (Live)
+24,62,Bruno Fernandes,Manchester Utd,0.03,0.02,Saved,23.0,Right Foot,,,,,
+25,68,Jonjo Shelvey,Newcastle Utd,0.03,0.21,Saved,30.0,Right Foot,,Callum Wilson,Pass (Live),Fabian Schär,Pass (Live)
+26,69,Fabian Schär,Newcastle Utd,0.03,,Off Target,27.0,Right Foot,Volley,Allan Saint-Maximin,Pass (Live),Jonjo Shelvey,Shot
+27,70,Luke Shaw,Manchester Utd,0.04,0.21,Saved,16.0,Left Foot,Deflected,Bruno Fernandes,Pass (Live),,
+28,71,Scott McTominay,Manchester Utd,0.06,,Blocked,23.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Marcus Rashford,Pass (Live)
+29,71,Marcus Rashford,Manchester Utd,0.05,,Blocked,20.0,Right Foot,,Scott McTominay,Shot,,
+30,72,Daniel James,Manchester Utd,0.04,,Blocked,17.0,Right Foot,,Juan Mata,Pass (Live),Scott McTominay,Pass (Live)
+31,80,Harry Maguire,Manchester Utd,0.03,,Off Target,30.0,Right Foot,,Paul Pogba,Pass (Live),Scott McTominay,Pass (Live)
+32,86,Bruno Fernandes,Manchester Utd,0.1,0.92,Goal,8.0,Right Foot,,Marcus Rashford,Pass (Live),Juan Mata,Pass (Live)
+33,90,Aaron Wan-Bissaka,Manchester Utd,0.06,0.38,Goal,12.0,Right Foot,,Marcus Rashford,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+34,90+3,Bruno Fernandes,Manchester Utd,0.03,,Blocked,25.0,Right Foot,,Donny van de Beek,Pass (Live),Marcus Rashford,Pass (Live)
+35,90+6,Marcus Rashford,Manchester Utd,0.29,0.3,Goal,13.0,Right Foot,,Bruno Fernandes,Pass (Live),Scott McTominay,Interception

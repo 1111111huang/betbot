@@ -1,0 +1,38 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Dominic Solanke,Bournemouth,0.02,,Blocked,27.0,Right Foot,Volley,,,,
+1,4,Richarlison,Tottenham,0.09,,Off Target,18.0,Right Foot,,Pape Matar Sarr,Pass (Live),Emerson,Pass (Live)
+2,7,Dominic Solanke,Bournemouth,0.13,0.25,Saved,10.0,Head,,Dango Ouattara,Pass (Live),Ryan Christie,Pass (Live)
+3,9,Pape Matar Sarr,Tottenham,0.1,0.53,Goal,18.0,Right Foot,,Giovani Lo Celso,Pass (Live),Rodrigo Bentancur,Interception
+4,14,Marcus Tavernier,Bournemouth,0.04,,Off Target,29.0,Left Foot,,Luis Sinisterra,Pass (Live),Marcos Senesi,Pass (Live)
+5,18,Emerson,Tottenham,0.02,0.12,Saved,28.0,Right Foot,,Son Heung-min,Pass (Live),Destiny Udogie,Pass (Live)
+6,19,Rodrigo Bentancur,Tottenham,0.09,,Off Target,9.0,Head,,Pedro Porro,Pass (Dead),,
+7,21,Dominic Solanke,Bournemouth,0.02,,Blocked,26.0,Right Foot,,Dominic Solanke,Tackle,,
+8,24,Marcos Senesi,Bournemouth,0.02,,Off Target,18.0,Head,,Marcus Tavernier,Pass (Dead),Dango Ouattara,Fouled
+9,25,Son Heung-min,Tottenham,0.05,0.06,Saved,11.0,Left Foot,,Richarlison,Pass (Live),Ben Davies,Pass (Live)
+10,29,Dominic Solanke,Bournemouth,0.03,,Off Target,15.0,Head,,Adam Smith,Pass (Live),Marcus Tavernier,Pass (Live)
+11,34,Luis Sinisterra,Bournemouth,0.08,,Off Target,6.0,Head,,Lewis Cook,Pass (Dead),,
+12,41,Marcus Tavernier,Bournemouth,0.07,,Blocked,26.0,Left Foot,Free kick,Marcus Tavernier,Fouled,Ryan Christie,Pass (Live)
+13,41,Dango Ouattara,Bournemouth,0.09,,Off Target,8.0,Head,,Lewis Cook,Pass (Dead),Marcus Tavernier,Shot
+14,45,Justin Kluivert,Bournemouth,0.17,,Off Target,14.0,Left Foot,,Luis Sinisterra,Take-On,Luis Sinisterra,Take-On
+15,45+3,Dominic Solanke,Bournemouth,0.14,,Blocked,13.0,Left Foot,,Marcus Tavernier,Pass (Live),Dominic Solanke,Pass (Live)
+16,45+6,Justin Kluivert,Bournemouth,0.08,,Blocked,17.0,Right Foot,,Marcus Tavernier,Pass (Live),Ryan Christie,Pass (Live)
+17,,,,,,,,,,,,,
+18,50,Dominic Solanke,Bournemouth,0.07,0.06,Saved,5.0,Head,,Lewis Cook,Pass (Dead),,
+19,51,Dominic Solanke,Bournemouth,0.25,,Blocked,6.0,Right Foot,,Justin Kluivert,Pass (Live),Marcos Senesi,Pass (Live)
+20,51,Marcus Tavernier,Bournemouth,0.04,,Blocked,16.0,Right Foot,,Dominic Solanke,Shot,,
+21,52,Richarlison,Tottenham,0.49,,Off Target,13.0,Left Foot,,Son Heung-min,Pass (Live),Giovani Lo Celso,Pass (Live)
+22,53,Justin Kluivert,Bournemouth,0.02,,Blocked,24.0,Right Foot,,Max Aarons,Pass (Live),Ryan Christie,Pass (Live)
+23,56,Marcus Tavernier,Bournemouth,0.02,,Blocked,29.0,Left Foot,,Luis Sinisterra,Pass (Live),Luis Sinisterra,Take-On
+24,60,Dominic Solanke,Bournemouth,0.11,,Off Target,9.0,Left Foot,,Marcus Tavernier,Pass (Live),Ryan Christie,Pass (Live)
+25,71,Son Heung-min,Tottenham,0.09,0.58,Goal,11.0,Left Foot,,Giovani Lo Celso,Pass (Live),Pierre Højbjerg,Pass (Live)
+26,73,Richarlison,Tottenham,0.19,0.23,Saved,17.0,Right Foot,,Son Heung-min,Pass (Live),Oliver Skipp,Pass (Live)
+27,73,Richarlison,Tottenham,0.05,,Blocked,15.0,Right Foot,,Richarlison,Shot,,
+28,73,Pedro Porro,Tottenham,0.03,,Blocked,22.0,Right Foot,,Richarlison,Shot,,
+29,80,Richarlison,Tottenham,0.52,0.39,Goal,8.0,Right Foot,,Brennan Johnson,Pass (Live),Emerson,Pass (Live)
+30,83,Antoine Semenyo,Bournemouth,0.02,,Blocked,18.0,Left Foot,,Alex Scott,Pass (Live),,
+31,84,Alex Scott,Bournemouth,0.11,0.43,Goal,15.0,Left Foot,,Marcus Tavernier,Pass (Live),Philip Billing,Pass (Live)
+32,87,Bryan Gil,Tottenham,0.59,,Woodwork,4.0,Head,,Pierre Højbjerg,Pass (Live),Pierre Højbjerg,Take-On
+33,90,Antoine Semenyo,Bournemouth,0.01,0.02,Saved,34.0,Right Foot,,Marcus Tavernier,Pass (Live),Lewis Cook,Pass (Live)
+34,90+7,Dominic Solanke,Bournemouth,0.07,,Off Target,10.0,Head,,Marcos Senesi,Pass (Live),Marcus Tavernier,Pass (Live)
+35,90+8,Antoine Semenyo,Bournemouth,0.04,,Blocked,11.0,Right Foot,,Lewis Cook,Pass (Dead),Marcos Senesi,Pass (Live)
+36,90+9,David Brooks,Bournemouth,0.02,,Off Target,27.0,Left Foot,,Alex Scott,Pass (Live),Max Aarons,Pass (Live)

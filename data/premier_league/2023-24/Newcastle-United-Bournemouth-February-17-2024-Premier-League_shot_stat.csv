@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Marcos Senesi,Bournemouth,0.01,,Off Target,24.0,Right Foot,Volley,Ryan Christie,Pass (Live),Marcus Tavernier,Pass (Dead)
+1,5,Anthony Gordon,Newcastle Utd,0.19,,Off Target,4.0,Head,,Kieran Trippier,Pass (Live),Sean Longstaff,Pass (Live)
+2,16,Marcus Tavernier,Bournemouth,0.02,0.16,Saved,33.0,Left Foot,,Ryan Christie,Pass (Live),Lewis Cook,Pass (Live)
+3,16,Dominic Solanke,Bournemouth,0.4,0.73,Saved,14.0,Left Foot,,Justin Kluivert,Pass (Live),Lewis Cook,Pass (Live)
+4,17,Harvey Barnes,Newcastle Utd,0.04,,Off Target,18.0,Right Foot,,Lewis Miley,Pass (Live),Anthony Gordon,Pass (Live)
+5,21,Anthony Gordon,Newcastle Utd,0.03,,Blocked,23.0,Right Foot,"Deflected, Volley",,,,
+6,21,Miguel Almirón,Newcastle Utd,0.07,,Off Target,15.0,Right Foot,,Anthony Gordon,Shot,,
+7,24,Dominic Solanke,Bournemouth,0.71,0.39,Saved,7.0,Right Foot,,Marcus Tavernier,Pass (Live),Ryan Christie,Pass (Live)
+8,28,Anthony Gordon,Newcastle Utd,0.05,0.03,Saved,21.0,Right Foot,,Bruno Guimarães,Pass (Live),Kieran Trippier,Pass (Live)
+9,38,Miguel Almirón,Newcastle Utd,0.05,,Off Target,26.0,Left Foot,,Miguel Almirón,Take-On,Sean Longstaff,Pass (Live)
+10,40,Fabian Schär,Newcastle Utd,0.02,0.05,Saved,31.0,Right Foot,,Bruno Guimarães,Pass (Live),Lewis Miley,Pass (Live)
+11,40,Harvey Barnes,Newcastle Utd,0.03,,Off Target,17.0,Head,,Bruno Guimarães,Pass (Live),,
+12,45+4,Justin Kluivert,Bournemouth,0.02,,Off Target,27.0,Right Foot,,Marcus Tavernier,Pass (Live),Dominic Solanke,Pass (Live)
+13,,,,,,,,,,,,,
+14,49,Miguel Almirón,Newcastle Utd,0.09,,Off Target,18.0,Left Foot,,Sean Longstaff,Pass (Live),Kieran Trippier,Pass (Live)
+15,51,Dominic Solanke,Bournemouth,0.82,0.93,Goal,4.0,Right Foot,,,,,
+16,58,Anthony Gordon (pen),Newcastle Utd,0.79,0.99,Goal,13.0,Right Foot,,Fabian Schär,Fouled,Bruno Guimarães,Fouled
+17,60,Justin Kluivert,Bournemouth,0.03,,Off Target,16.0,Right Foot,,Lloyd Kelly,Pass (Live),Marcus Tavernier,Pass (Live)
+18,61,Miguel Almirón,Newcastle Utd,0.03,,Off Target,30.0,Left Foot,,Anthony Gordon,Pass (Live),Lewis Miley,Pass (Live)
+19,65,Marcus Tavernier,Bournemouth,0.06,,Off Target,17.0,Left Foot,,Ryan Christie,Pass (Live),Lewis Cook,Tackle
+20,67,Dan Burn,Newcastle Utd,0.07,,Off Target,11.0,Head,,Miguel Almirón,Pass (Live),Bruno Guimarães,Pass (Live)
+21,69,Antoine Semenyo,Bournemouth,0.05,0.08,Goal,20.0,Right Foot,,Dominic Solanke,Pass (Live),Marcos Senesi,Pass (Live)
+22,77,Bruno Guimarães,Newcastle Utd,0.02,,Blocked,29.0,Right Foot,,Anthony Gordon,Pass (Live),Valentino Livramento,Pass (Live)
+23,81,Lewis Cook,Bournemouth,0.03,0.33,Saved,22.0,Right Foot,,Marcus Tavernier,Pass (Live),Lloyd Kelly,Pass (Live)
+24,83,Fabian Schär,Newcastle Utd,0.04,,Off Target,17.0,Left Foot,,Jacob Murphy,Pass (Live),,
+25,90+2,Matt Ritchie,Newcastle Utd,0.6,0.99,Goal,2.0,Right Foot,,Bruno Guimarães,Pass (Live),Fabian Schär,Pass (Live)
+26,90+3,Jacob Murphy,Newcastle Utd,0.07,,Off Target,12.0,Head,,Kieran Trippier,Pass (Live),Sean Longstaff,Pass (Live)
+27,90+7,Bruno Guimarães,Newcastle Utd,0.03,0.09,Saved,23.0,Right Foot,,Fabian Schär,Pass (Live),Kieran Trippier,Pass (Live)
+28,90+10,Alex Scott,Bournemouth,0.02,,Blocked,28.0,Left Foot,Volley,Lewis Cook,Pass (Live),Marcus Tavernier,Pass (Live)
+29,90+11,Dango Ouattara,Bournemouth,0.03,,Blocked,32.0,Left Foot,,Illia Zabarnyi,Pass (Live),Alex Scott,Pass (Live)

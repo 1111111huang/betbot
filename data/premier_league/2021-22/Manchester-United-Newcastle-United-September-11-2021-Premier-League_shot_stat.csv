@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Joelinton,Newcastle Utd,0.04,,Off Target,17.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Matt Ritchie,Pass (Live)
+1,9,Cristiano Ronaldo,Manchester Utd,0.05,,Off Target,9.0,Left Foot,,,,,
+2,11,Cristiano Ronaldo,Manchester Utd,0.02,,Off Target,13.0,Left Foot,,Jadon Sancho,Pass (Live),,
+3,15,Matt Ritchie,Newcastle Utd,0.02,,Blocked,27.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Miguel Almirón,Pass (Live)
+4,19,Raphaël Varane,Manchester Utd,0.05,,Off Target,9.0,Head,,Luke Shaw,Pass (Dead),Luke Shaw,Pass (Live)
+5,23,Cristiano Ronaldo,Manchester Utd,0.06,,Blocked,27.0,Left Foot,,Mason Greenwood,Pass (Live),Paul Pogba,Pass (Live)
+6,23,Miguel Almirón,Newcastle Utd,0.02,,Blocked,29.0,Left Foot,,Allan Saint-Maximin,Take-On,,
+7,23,Matt Ritchie,Newcastle Utd,0.02,,Off Target,26.0,Left Foot,Deflected,Miguel Almirón,Shot,,
+8,26,Bruno Fernandes,Manchester Utd,0.01,,Off Target,57.0,Right Foot,,Jadon Sancho,Pass (Dead),,
+9,28,Joe Willock,Newcastle Utd,0.03,,Off Target,11.0,Right Foot,Volley,,,,
+10,29,Bruno Fernandes,Manchester Utd,0.01,,Off Target,34.0,Right Foot,,Nemanja Matić,Pass (Live),Jadon Sancho,Pass (Live)
+11,30,Jadon Sancho,Manchester Utd,0.38,,Off Target,12.0,Left Foot,,Bruno Fernandes,Shot,,
+12,30,Bruno Fernandes,Manchester Utd,0.04,,Off Target,29.0,Right Foot,,Cristiano Ronaldo,Pass (Live),Jadon Sancho,Pass (Live)
+13,32,Jadon Sancho,Manchester Utd,0.2,,Blocked,17.0,Right Foot,,Bruno Fernandes,Pass (Live),Mason Greenwood,Pass (Live)
+14,32,Harry Maguire,Manchester Utd,0.02,0.03,Saved,11.0,Head,,Luke Shaw,Pass (Dead),Jadon Sancho,Shot
+15,36,Allan Saint-Maximin,Newcastle Utd,0.01,,Off Target,28.0,Right Foot,,Ciaran Clark,Pass (Live),Matt Ritchie,Pass (Dead)
+16,39,Cristiano Ronaldo,Manchester Utd,0.08,,Blocked,10.0,Right Foot,,Nemanja Matić,Pass (Live),David de Gea,Pass (Live)
+17,43,Nemanja Matić,Manchester Utd,0.03,,Blocked,30.0,Left Foot,,Aaron Wan-Bissaka,Pass (Live),Nemanja Matić,Pass (Live)
+18,45+2,Mason Greenwood,Manchester Utd,0.01,0.03,Saved,29.0,Left Foot,Deflected,Paul Pogba,Pass (Live),Nemanja Matić,Pass (Live)
+19,45+2,Cristiano Ronaldo,Manchester Utd,0.93,0.97,Goal,3.0,Right Foot,,Mason Greenwood,Shot,,
+20,,,,,,,,,,,,,
+21,54,Nemanja Matić,Manchester Utd,0.02,,Off Target,35.0,Left Foot,,Mason Greenwood,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+22,56,Javier Manquillo,Newcastle Utd,0.17,0.56,Goal,11.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Isaac Hayden,Pass (Live)
+23,59,Bruno Fernandes,Manchester Utd,0.04,,Blocked,24.0,Right Foot,,Mason Greenwood,Pass (Live),Bruno Fernandes,Pass (Live)
+24,62,Cristiano Ronaldo,Manchester Utd,0.17,0.11,Goal,10.0,Left Foot,,Luke Shaw,Pass (Live),Paul Pogba,Pass (Live)
+25,66,Raphaël Varane,Manchester Utd,0.04,,Off Target,11.0,Head,,Luke Shaw,Pass (Dead),Jadon Sancho,Pass (Live)
+26,67,Joelinton,Newcastle Utd,0.03,0.06,Saved,16.0,Right Foot,,Matt Ritchie,Pass (Live),Joelinton,Pass (Live)
+27,69,Allan Saint-Maximin,Newcastle Utd,0.01,,Off Target,32.0,Right Foot,,Allan Saint-Maximin,Take-On,Miguel Almirón,Pass (Live)
+28,76,Mason Greenwood,Manchester Utd,0.04,,Blocked,18.0,Right Foot,,Mason Greenwood,Take-On,Cristiano Ronaldo,Pass (Live)
+29,79,Allan Saint-Maximin,Newcastle Utd,0.02,,Blocked,30.0,Right Foot,,Matt Ritchie,Pass (Live),,
+30,80,Joe Willock,Newcastle Utd,0.01,0.05,Saved,34.0,Left Foot,,Allan Saint-Maximin,Shot,,
+31,80,Bruno Fernandes,Manchester Utd,0.04,0.23,Goal,28.0,Right Foot,,Paul Pogba,Pass (Live),Mason Greenwood,Pass (Live)
+32,87,Joelinton,Newcastle Utd,0.04,,Off Target,10.0,Head,,Allan Saint-Maximin,Pass (Live),Jacob Murphy,Pass (Live)
+33,90+2,Jesse Lingard,Manchester Utd,0.33,0.74,Goal,15.0,Right Foot,,Paul Pogba,Pass (Live),Donny van de Beek,Pass (Live)

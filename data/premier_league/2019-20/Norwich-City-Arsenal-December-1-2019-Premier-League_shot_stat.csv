@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Joe Willock,Arsenal,0.07,,Blocked,15.0,Right Foot,Deflected,Alexandre Lacazette,Pass (Live),Mattéo Guendouzi,Pass (Live)
+1,5,Alexandre Lacazette,Arsenal,0.1,0.26,Saved,8.0,Right Foot,,Joe Willock,Shot,,
+2,5,Alexandre Lacazette,Arsenal,0.03,,Off Target,10.0,Head,,Mesut Özil,Pass (Dead),Alexandre Lacazette,Shot
+3,6,Ibrahim Amadou,Norwich City,0.03,,Off Target,31.0,Right Foot,,Todd Cantwell,Pass (Live),Sam Byram,Pass (Live)
+4,9,Calum Chambers,Arsenal,0.1,,Blocked,6.0,Right Foot,,Joe Willock,Pass (Live),,
+5,10,Shkodran Mustafi,Arsenal,0.07,,Blocked,10.0,Head,,Mesut Özil,Pass (Dead),Calum Chambers,Shot
+6,13,David Luiz,Arsenal,0.08,,Blocked,10.0,Other,,Mesut Özil,Pass (Dead),,
+7,16,Kenny McLean,Norwich City,0.05,0.04,Saved,24.0,Right Foot,,Onel Hernández,Pass (Live),Kenny McLean,Pass (Live)
+8,19,Calum Chambers,Arsenal,0.05,0.55,Saved,7.0,Head,,Mesut Özil,Pass (Dead),Mattéo Guendouzi,Pass (Live)
+9,21,Teemu Pukki,Norwich City,0.04,0.06,Goal,21.0,Right Foot,Deflected,Kenny McLean,Pass (Live),Onel Hernández,Pass (Live)
+10,29,Pierre-Emerick Aubameyang (pen),Arsenal,0.79,0.99,Goal,13.0,Right Foot,,,Fouled,Granit Xhaka,Fouled
+11,40,Ibrahim Amadou,Norwich City,0.04,,Off Target,15.0,Right Foot,,Kenny McLean,Pass (Live),,
+12,45+2,Todd Cantwell,Norwich City,0.06,0.41,Goal,15.0,Right Foot,,Onel Hernández,Pass (Live),Kenny McLean,Pass (Live)
+13,,,,,,,,,,,,,
+14,51,Mattéo Guendouzi,Arsenal,0.03,0.03,Saved,26.0,Right Foot,,Sead Kolašinac,Pass (Live),Granit Xhaka,Pass (Live)
+15,53,Mattéo Guendouzi,Arsenal,0.02,,Blocked,30.0,Right Foot,,Sead Kolašinac,Pass (Live),Mesut Özil,Pass (Live)
+16,57,Shkodran Mustafi,Arsenal,0.33,,Blocked,6.0,Right Foot,Volley,Mattéo Guendouzi,Pass (Live),Mesut Özil,Pass (Live)
+17,57,Pierre-Emerick Aubameyang,Arsenal,0.12,0.53,Goal,8.0,Right Foot,,Shkodran Mustafi,Shot,,
+18,59,Kenny McLean,Norwich City,0.06,0.06,Saved,17.0,Left Foot,,,,,
+19,61,Tom Trybull,Norwich City,0.03,,Off Target,28.0,Right Foot,,Teemu Pukki,Pass (Live),,
+20,62,Max Aarons,Norwich City,0.04,,Blocked,16.0,Right Foot,,Ibrahim Amadou,Pass (Live),Max Aarons,Pass (Live)
+21,62,Todd Cantwell,Norwich City,0.06,,Off Target,17.0,Left Foot,,Max Aarons,Shot,,
+22,63,Alexandre Lacazette,Arsenal,0.03,,Blocked,27.0,Right Foot,,Mattéo Guendouzi,Pass (Live),Sead Kolašinac,Pass (Live)
+23,63,Teemu Pukki,Norwich City,0.09,0.04,Saved,14.0,Right Foot,,Todd Cantwell,Pass (Live),Todd Cantwell,Take-On
+24,72,Todd Cantwell,Norwich City,0.08,,Blocked,11.0,Right Foot,,Todd Cantwell,Pass (Live),Max Aarons,Pass (Live)
+25,80,Mesut Özil,Arsenal,0.1,,Blocked,9.0,Right Foot,,Pierre-Emerick Aubameyang,Pass (Live),Bukayo Saka,Take-On
+26,82,Mesut Özil,Arsenal,0.05,0.08,Saved,16.0,Left Foot,,Mesut Özil,Pass (Live),Calum Chambers,Pass (Live)
+27,86,Ibrahim Amadou,Norwich City,0.03,,Off Target,24.0,Right Foot,,Ibrahim Amadou,Pass (Live),Emi Buendía,Pass (Live)
+28,88,Max Aarons,Norwich City,0.05,0.63,Saved,12.0,Right Foot,,Emi Buendía,Pass (Dead),Emi Buendía,Fouled
+29,90+1,Max Aarons,Norwich City,0.07,0.11,Saved,15.0,Left Foot,Deflected,Emi Buendía,Pass (Live),Max Aarons,Pass (Live)
+30,90+1,Kenny McLean,Norwich City,0.03,0.45,Saved,14.0,Head,,Emi Buendía,Pass (Dead),Max Aarons,Shot
+31,90+4,Lucas Torreira,Arsenal,0.05,,Blocked,18.0,Right Foot,,Lucas Torreira,Pass (Live),Bukayo Saka,Pass (Live)

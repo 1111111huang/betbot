@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Bukayo Saka,Arsenal,0.09,0.29,Goal,14.0,Left Foot,,Martin Ødegaard,Pass (Live),Gabriel Martinelli,Pass (Live)
+1,9,Thomas Partey,Arsenal,0.12,,Off Target,5.0,Head,,Bukayo Saka,Pass (Dead),Bukayo Saka,Pass (Live)
+2,15,Przemysław Płacheta,Norwich City,0.08,0.6,Saved,12.0,Left Foot,Volley,Billy Gilmour,Pass (Live),Ben Gibson,Pass (Live)
+3,18,Martin Ødegaard,Arsenal,0.06,,Blocked,23.0,Left Foot,,Granit Xhaka,Pass (Live),Thomas Partey,Pass (Live)
+4,27,Alexandre Lacazette,Arsenal,0.23,,Off Target,6.0,Head,,Bukayo Saka,Pass (Live),Thomas Partey,Pass (Live)
+5,29,Gabriel Martinelli,Arsenal,0.03,,Blocked,17.0,Right Foot,,Granit Xhaka,Pass (Live),Martin Ødegaard,Pass (Live)
+6,29,Bukayo Saka,Arsenal,0.1,,Off Target,12.0,Left Foot,Volley,Gabriel Martinelli,Shot,,
+7,31,Przemysław Płacheta,Norwich City,0.01,0.25,Saved,16.0,Left Foot,,Przemysław Płacheta,Take-On,Teemu Pukki,Pass (Live)
+8,37,Gabriel Martinelli,Arsenal,0.05,0.05,Saved,28.0,Right Foot,,,,,
+9,44,Kieran Tierney,Arsenal,0.09,0.29,Goal,15.0,Left Foot,,Martin Ødegaard,Pass (Live),Gabriel Martinelli,Pass (Live)
+10,45+3,Martin Ødegaard,Arsenal,0.02,,Blocked,30.0,Left Foot,,,,,
+11,,,,,,,,,,,,,
+12,49,Kieran Tierney,Arsenal,0.06,,Blocked,14.0,Left Foot,,Thomas Partey,Pass (Live),Gabriel Martinelli,Pass (Live)
+13,59,Billy Gilmour,Norwich City,0.02,,Blocked,28.0,Right Foot,,Kenny McLean,Pass (Live),Brandon Williams,Pass (Live)
+14,63,Kenny McLean,Norwich City,0.01,,Off Target,17.0,Left Foot,Volley,Billy Gilmour,Pass (Dead),Ozan Kabak,Fouled
+15,66,Gabriel Martinelli,Arsenal,0.04,,Off Target,19.0,Right Foot,,Granit Xhaka,Pass (Live),Thomas Partey,Pass (Live)
+16,67,Bukayo Saka,Arsenal,0.04,0.23,Goal,21.0,Left Foot,,Alexandre Lacazette,Pass (Live),Martin Ødegaard,Pass (Live)
+17,84,Alexandre Lacazette (pen),Arsenal,0.79,0.98,Goal,13.0,Right Foot,,Alexandre Lacazette,Fouled,Emile Smith Rowe,Pass (Live)
+18,89,Martin Ødegaard,Arsenal,0.07,,Blocked,28.0,Left Foot,Free kick,Martin Ødegaard,Fouled,Granit Xhaka,Pass (Live)
+19,90+1,Nicolas Pépé,Arsenal,0.07,,Blocked,15.0,Left Foot,,Martin Ødegaard,Pass (Live),Granit Xhaka,Pass (Dead)
+20,90+1,Emile Smith Rowe,Arsenal,0.75,0.92,Goal,5.0,Left Foot,,Nicolas Pépé,Shot,,

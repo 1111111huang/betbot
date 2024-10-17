@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,John McGinn,Aston Villa,0.09,0.0,Blocked,16.0,Left Foot,,Ollie Watkins,Pass (Live),Lucas Digne,Pass (Live)
+1,9,Ollie Watkins,Aston Villa,0.12,0.0,Blocked,6.0,Head,,Lucas Digne,Pass (Dead),John McGinn,Shot
+2,10,Morgan Rogers,Aston Villa,0.02,0.01,Saved,29.0,Left Foot,,Morgan Rogers,Pass (Live),Lamare Bogarde,Pass (Live)
+3,12,Ollie Watkins,Aston Villa,0.14,0.0,Off Target,10.0,Right Foot,,Lucas Digne,Pass (Live),Jacob Ramsey,Pass (Live)
+4,16,Dwight McNeil,Everton,0.02,0.29,Goal,21.0,Left Foot,,Dwight McNeil,Tackle,,
+5,27,Dominic Calvert-Lewin,Everton,0.41,0.85,Goal,6.0,Head,,Dwight McNeil,Pass (Dead),Jack Harrison,Fouled
+6,30,Ollie Watkins,Aston Villa,0.09,0.31,Saved,13.0,Right Foot,Deflected,Morgan Rogers,Pass (Live),Lamare Bogarde,Tackle
+7,31,Morgan Rogers,Aston Villa,0.11,0.11,Saved,16.0,Left Foot,,Morgan Rogers,Take-On,John McGinn,Pass (Live)
+8,36,Ollie Watkins,Aston Villa,0.41,0.96,Goal,2.0,Head,Deflected,Lucas Digne,Pass (Live),Amadou Onana,Pass (Live)
+9,40,Dominic Calvert-Lewin,Everton,0.24,0.0,Off Target,6.0,Head,,Dwight McNeil,Pass (Live),Iliman Ndiaye,Pass (Live)
+10,,,,,,,,,,,,,
+11,50,Morgan Rogers,Aston Villa,0.07,0.22,Saved,11.0,Right Foot,,Lamare Bogarde,Pass (Live),Ollie Watkins,Pass (Live)
+12,50,Jacob Ramsey,Aston Villa,0.23,0.0,Blocked,12.0,Left Foot,,Morgan Rogers,Shot,,
+13,58,Ollie Watkins,Aston Villa,0.13,0.43,Goal,10.0,Right Foot,,Pau Torres,Pass (Live),Ross Barkley,Pass (Live)
+14,65,Morgan Rogers,Aston Villa,0.04,0.0,Blocked,22.0,Right Foot,,Youri Tielemans,Pass (Live),Ross Barkley,Pass (Live)
+15,69,Jacob Ramsey,Aston Villa,0.03,0.0,Off Target,23.0,Right Foot,,John McGinn,Pass (Live),Ross Barkley,Pass (Live)
+16,71,Michael Keane,Everton,0.02,0.0,Blocked,12.0,Head,,James Garner,Pass (Live),Dwight McNeil,Pass (Live)
+17,72,Ollie Watkins,Aston Villa,0.29,0.0,Off Target,11.0,Left Foot,,Ian Maatsen,Pass (Live),Pau Torres,Pass (Live)
+18,76,Jhon Durán,Aston Villa,0.02,0.31,Goal,32.0,Left Foot,,Ross Barkley,Pass (Live),Youri Tielemans,Pass (Live)
+19,79,Dominic Calvert-Lewin,Everton,0.12,0.0,Woodwork,13.0,Right Foot,,Dwight McNeil,Pass (Live),Jake O'Brien,Pass (Live)
+20,81,Ross Barkley,Aston Villa,0.03,0.0,Off Target,6.0,Right Foot,Volley,Youri Tielemans,Pass (Dead),Lamare Bogarde,Pass (Dead)
+21,86,Jhon Durán,Aston Villa,0.07,0.0,Off Target,9.0,Left Foot,Volley,Ian Maatsen,Pass (Live),John McGinn,Pass (Live)
+22,90+3,Orel Mangala,Everton,0.09,0.0,Off Target,17.0,Right Foot,,Orel Mangala,Take-On,Ashley Young,Fouled
+23,90+5,Jhon Durán,Aston Villa,0.23,0.0,Off Target,8.0,Head,,Ian Maatsen,Pass (Dead),Jaden Philogene Bidace,Fouled

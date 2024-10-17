@@ -1,0 +1,43 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Patson Daka,Leicester City,0.32,,Off Target,5.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),James Maddison,Pass (Live)
+1,9,Harry Kane,Tottenham,0.12,,Blocked,10.0,Left Foot,,Harry Kane,Take-On,Pierre Højbjerg,Pass (Live)
+2,12,Harry Kane,Tottenham,0.04,,Blocked,24.0,Right Foot,Free kick,Sergio Reguilón,Fouled,Sergio Reguilón,Take-On
+3,16,Lucas Moura,Tottenham,0.07,,Off Target,5.0,Head,,Harry Winks,Pass (Dead),,
+4,16,Harry Kane,Tottenham,0.09,,Off Target,7.0,Head,,Sergio Reguilón,Pass (Dead),Pierre Højbjerg,Pass (Live)
+5,17,Oliver Skipp,Tottenham,0.05,,Blocked,25.0,Right Foot,,Harry Kane,Pass (Live),Pierre Højbjerg,Pass (Live)
+6,18,Harry Kane,Tottenham,0.23,,Woodwork,4.0,Head,,Harry Winks,Pass (Dead),Oliver Skipp,Shot
+7,18,Emerson,Tottenham,0.04,,Blocked,9.0,Right Foot,Volley,Harry Kane,Shot,,
+8,18,Japhet Tanganga,Tottenham,0.15,,Off Target,7.0,Head,,Davinson Sánchez,Pass (Live),Emerson,Shot
+9,22,Lucas Moura,Tottenham,0.06,0.2,Saved,19.0,Right Foot,,,,,
+10,22,Davinson Sánchez,Tottenham,0.14,,Off Target,4.0,Head,,Sergio Reguilón,Pass (Live),Emerson,Pass (Live)
+11,24,Patson Daka,Leicester City,0.2,0.34,Goal,5.0,Left Foot,,Patson Daka,Pass (Live),Ademola Lookman,Pass (Live)
+12,25,Kiernan Dewsbury-Hall,Leicester City,0.01,,Blocked,26.0,Left Foot,,,,,
+13,34,James Maddison,Leicester City,0.02,0.33,Saved,30.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Luke Thomas,Pass (Live)
+14,35,Çağlar Söyüncü,Leicester City,0.06,,Off Target,8.0,Head,,James Maddison,Pass (Dead),,
+15,36,Pierre Højbjerg,Tottenham,0.18,,Blocked,17.0,Right Foot,,Pierre Højbjerg,Take-On,Harry Kane,Pass (Live)
+16,38,Harry Kane,Tottenham,0.53,0.99,Goal,12.0,Left Foot,,Harry Kane,Take-On,Harry Winks,Pass (Live)
+17,41,Harry Kane,Tottenham,0.35,,Off Target,15.0,Right Foot,,Lucas Moura,Pass (Live),Lucas Moura,Take-On
+18,43,Harry Kane,Tottenham,0.01,0.2,Saved,26.0,Right Foot,,Sergio Reguilón,Pass (Live),Ben Davies,Pass (Live)
+19,,,,,,,,,,,,,
+20,47,Pierre Højbjerg,Tottenham,0.01,,Blocked,32.0,Right Foot,,Matt Doherty,Pass (Live),Harry Kane,Pass (Live)
+21,48,Sergio Reguilón,Tottenham,0.09,,Blocked,14.0,Right Foot,,Sergio Reguilón,Take-On,Matt Doherty,Pass (Live)
+22,49,Pierre Højbjerg,Tottenham,0.04,,Off Target,18.0,Left Foot,,Sergio Reguilón,Shot,,
+23,53,Harry Kane,Tottenham,0.03,,Off Target,29.0,Right Foot,,Harry Kane,Take-On,,
+24,56,Matt Doherty,Tottenham,0.07,,Off Target,22.0,Left Foot,,,,,
+25,58,James Maddison,Leicester City,0.14,0.12,Saved,17.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Kiernan Dewsbury-Hall,Take-On
+26,60,Youri Tielemans,Leicester City,0.02,,Off Target,26.0,Left Foot,,Ademola Lookman,Fouled,Kiernan Dewsbury-Hall,Pass (Live)
+27,64,Japhet Tanganga,Tottenham,0.03,0.13,Saved,25.0,Right Foot,,Lucas Moura,Pass (Live),Harry Kane,Pass (Live)
+28,68,Sergio Reguilón,Tottenham,0.08,0.3,Saved,21.0,Right Foot,,Sergio Reguilón,Take-On,Davinson Sánchez,Pass (Live)
+29,69,Ademola Lookman,Leicester City,0.03,,Blocked,17.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),,
+30,70,Hamza Choudhury,Leicester City,0.02,,Off Target,14.0,Left Foot,Volley,Ademola Lookman,Shot,,
+31,70,Youri Tielemans,Leicester City,0.01,,Off Target,30.0,Right Foot,,Hamza Choudhury,Shot,,
+32,72,Harry Kane,Tottenham,0.03,,Off Target,32.0,Right Foot,,Harry Winks,Pass (Live),Lucas Moura,Pass (Live)
+33,76,James Maddison,Leicester City,0.1,0.72,Goal,8.0,Right Foot,Deflected,Harvey Barnes,Pass (Live),James Maddison,Pass (Live)
+34,79,Harry Kane,Tottenham,0.05,,Blocked,15.0,Right Foot,,Matt Doherty,Pass (Live),Giovani Lo Celso,Pass (Live)
+35,79,Matt Doherty,Tottenham,0.25,0.93,Saved,6.0,Right Foot,,Harry Kane,Shot,,
+36,83,Youri Tielemans,Leicester City,0.06,,Blocked,24.0,Left Foot,,Youri Tielemans,Take-On,Youri Tielemans,Interception
+37,87,Kiernan Dewsbury-Hall,Leicester City,0.01,,Blocked,29.0,Left Foot,,,,,
+38,90,Harvey Barnes,Leicester City,0.16,,Blocked,16.0,Right Foot,,Harvey Barnes,Take-On,James Justin,Pass (Live)
+39,90+3,Pierre Højbjerg,Tottenham,0.04,,Blocked,22.0,Right Foot,,Steven Bergwijn,Pass (Live),Pierre Højbjerg,Pass (Live)
+40,90+5,Steven Bergwijn,Tottenham,0.13,0.68,Goal,10.0,Right Foot,,Pierre Højbjerg,Pass (Live),Lucas Moura,Pass (Live)
+41,90+7,Steven Bergwijn,Tottenham,0.26,0.99,Goal,13.0,Right Foot,,Steven Bergwijn,Take-On,Harry Kane,Pass (Live)

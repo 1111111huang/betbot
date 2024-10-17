@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Trent Alexander-Arnold,Liverpool,0.04,,Blocked,20.0,Right Foot,,Mohamed Salah,Pass (Live),Andrew Robertson,Pass (Live)
+1,4,Mohamed Salah,Liverpool,0.33,,Off Target,10.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Adam Lallana,Pass (Live)
+2,15,Georginio Wijnaldum,Liverpool,0.05,,Off Target,15.0,Right Foot,,Trent Alexander-Arnold,Pass (Dead),,
+3,19,Roberto Firmino,Liverpool,0.08,0.19,Saved,15.0,Left Foot,Deflected,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+4,21,Mohamed Salah,Liverpool,0.06,0.09,Saved,21.0,Left Foot,Volley,Sadio Mané,Pass (Live),Virgil van Dijk,Pass (Live)
+5,30,Sadio Mané,Liverpool,0.09,,Blocked,12.0,Left Foot,,Jordan Henderson,Pass (Live),Roberto Firmino,Pass (Live)
+6,31,Roberto Firmino,Liverpool,0.05,,Off Target,11.0,Head,,Andrew Robertson,Pass (Dead),Sadio Mané,Shot
+7,42,Sadio Mané,Liverpool,0.45,0.82,Goal,8.0,Right Foot,,Adam Lallana,Pass (Live),Virgil van Dijk,Pass (Live)
+8,45+2,Rúben Neves,Wolves,0.06,,Blocked,30.0,Right Foot,Free kick,Diogo Jota,Fouled,,
+9,,,,,,,,,,,,,
+10,47,João Moutinho,Wolves,0.03,0.05,Saved,27.0,Left Foot,"Deflected, Volley",Pedro Neto,Pass (Live),Rúben Vinagre,Pass (Live)
+11,53,Georginio Wijnaldum,Liverpool,0.05,,Blocked,11.0,Head,,Trent Alexander-Arnold,Pass (Dead),Mohamed Salah,Pass (Live)
+12,57,Pedro Neto,Wolves,0.05,,Off Target,27.0,Left Foot,,Pedro Neto,Take-On,Jonny Castro,Pass (Live)
+13,61,Roberto Firmino,Liverpool,0.05,,Off Target,20.0,Right Foot,Volley,Mohamed Salah,Pass (Live),Sadio Mané,Pass (Live)
+14,67,Diogo Jota,Wolves,0.05,0.1,Saved,13.0,Right Foot,,Diogo Jota,Tackle,,
+15,68,Romain Saïss,Wolves,0.05,,Off Target,8.0,Head,,João Moutinho,Pass (Dead),Diogo Jota,Shot
+16,83,Raúl Jiménez,Wolves,0.06,,Blocked,14.0,Right Foot,,Romain Saïss,Pass (Live),Ryan Bennett,Pass (Live)
+17,88,João Moutinho,Wolves,0.06,,Off Target,22.0,Right Foot,Volley,Pedro Neto,Pass (Live),Conor Coady,Pass (Live)
+18,89,Romain Saïss,Wolves,0.07,,Off Target,22.0,Left Foot,,Raúl Jiménez,Pass (Live),Rúben Vinagre,Pass (Live)
+19,90+2,Rúben Vinagre,Wolves,0.04,,Off Target,14.0,Left Foot,,Conor Coady,Pass (Live),Romain Saïss,Pass (Live)
+20,90+5,Adama Traoré,Wolves,0.05,,Blocked,26.0,Right Foot,,Adama Traoré,Take-On,Adama Traoré,Take-On

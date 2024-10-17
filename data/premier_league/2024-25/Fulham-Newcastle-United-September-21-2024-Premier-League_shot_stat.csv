@@ -1,0 +1,40 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Raúl Jiménez,Fulham,0.07,0.59,Goal,14.0,Right Foot,Volley,Adama Traoré,Pass (Live),Raúl Jiménez,Pass (Live)
+1,7,Emile Smith Rowe,Fulham,0.06,0.0,Woodwork,18.0,Right Foot,,Alex Iwobi,Pass (Live),Emile Smith Rowe,Pass (Live)
+2,14,Raúl Jiménez,Fulham,0.13,0.23,Saved,11.0,Right Foot,,Alex Iwobi,Pass (Live),Calvin Bassey,Pass (Dead)
+3,15,Joachim Andersen,Fulham,0.02,0.0,Blocked,15.0,Head,,Andreas Pereira,Pass (Dead),Raúl Jiménez,Shot
+4,15,Antonee Robinson,Fulham,0.07,0.0,Off Target,13.0,Left Foot,,Joachim Andersen,Shot,,
+5,17,Alex Iwobi,Fulham,0.02,0.02,Saved,27.0,Right Foot,,Saša Lukić,Pass (Live),Antonee Robinson,Pass (Live)
+6,18,Dan Burn,Newcastle Utd,0.01,0.01,Saved,17.0,Head,,Kieran Trippier,Pass (Dead),Anthony Gordon,Fouled
+7,18,Fabian Schär,Newcastle Utd,0.01,0.0,Off Target,16.0,Head,,Anthony Gordon,Pass (Live),Bruno Guimarães,Pass (Live)
+8,22,Emile Smith Rowe,Fulham,0.27,0.39,Goal,10.0,Right Foot,,Alex Iwobi,Pass (Live),Emile Smith Rowe,Pass (Live)
+9,28,Raúl Jiménez,Fulham,0.24,0.0,Off Target,11.0,Right Foot,,Saša Lukić,Pass (Live),Adama Traoré,Pass (Live)
+10,33,Joelinton,Newcastle Utd,0.03,0.0,Blocked,25.0,Right Foot,,Anthony Gordon,Pass (Live),Joelinton,Pass (Live)
+11,33,Harvey Barnes,Newcastle Utd,0.03,0.03,Saved,19.0,Right Foot,,Alexander Isak,Pass (Live),Bruno Guimarães,Pass (Live)
+12,34,Adama Traoré,Fulham,0.1,0.62,Saved,11.0,Right Foot,,Alex Iwobi,Pass (Live),Kenny Tete,Pass (Live)
+13,35,Joachim Andersen,Fulham,0.01,0.0,Off Target,19.0,Head,,Andreas Pereira,Pass (Dead),Adama Traoré,Shot
+14,35,Kenny Tete,Fulham,0.23,0.0,Blocked,6.0,Right Foot,,Joachim Andersen,Shot,,
+15,37,Joachim Andersen,Fulham,0.02,0.14,Saved,28.0,Right Foot,,,,,
+16,41,Anthony Gordon,Newcastle Utd,0.03,0.0,Off Target,21.0,Right Foot,,Joe Willock,Pass (Live),Bruno Guimarães,Pass (Live)
+17,42,Andreas Pereira,Fulham,0.03,0.07,Saved,13.0,Right Foot,,Adama Traoré,Pass (Live),Emile Smith Rowe,Pass (Live)
+18,,,,,,,,,,,,,
+19,46,Harvey Barnes,Newcastle Utd,0.13,0.72,Goal,14.0,Right Foot,Deflected,Jacob Murphy,Pass (Live),Jacob Murphy,Pass (Live)
+20,51,Harvey Barnes,Newcastle Utd,0.06,0.0,Off Target,19.0,Right Foot,,Lewis Hall,Pass (Live),Harvey Barnes,Pass (Live)
+21,52,Alex Iwobi,Fulham,0.26,0.27,Saved,6.0,Right Foot,Volley,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+22,53,Raúl Jiménez,Fulham,0.04,0.54,Saved,17.0,Right Foot,"Deflected, Volley",Andreas Pereira,Pass (Dead),Alex Iwobi,Shot
+23,55,Joelinton,Newcastle Utd,0.07,0.0,Off Target,8.0,Head,,Harvey Barnes,Pass (Live),Alexander Isak,Pass (Live)
+24,59,Emile Smith Rowe,Fulham,0.07,0.0,Off Target,17.0,Right Foot,Volley,Raúl Jiménez,Fouled,Adama Traoré,Pass (Live)
+25,60,Andreas Pereira,Fulham,0.03,0.0,Off Target,26.0,Right Foot,,Sander Berge,Pass (Live),Sander Berge,Interception
+26,65,Bruno Guimarães,Newcastle Utd,0.05,0.0,Off Target,20.0,Right Foot,,Joelinton,Pass (Live),Bruno Guimarães,Pass (Live)
+27,69,Alexander Isak,Newcastle Utd,0.04,0.0,Blocked,26.0,Right Foot,,Anthony Gordon,Pass (Live),Lewis Hall,Pass (Live)
+28,71,Anthony Gordon,Newcastle Utd,0.37,0.26,Saved,12.0,Left Foot,,Anthony Gordon,Take-On,Harvey Barnes,Pass (Live)
+29,71,Jacob Murphy,Newcastle Utd,0.03,0.0,Off Target,18.0,Left Foot,,Joelinton,Pass (Live),Alexander Isak,Pass (Live)
+30,72,Fabian Schär,Newcastle Utd,0.38,0.0,Off Target,13.0,Right Foot,,Fabian Schär,Interception,,
+31,79,Kenny Tete,Fulham,0.06,0.0,Off Target,16.0,Right Foot,,Alex Iwobi,Pass (Live),Kenny Tete,Pass (Live)
+32,82,Alex Iwobi,Fulham,0.08,0.0,Off Target,11.0,Right Foot,Volley,Reiss Nelson,Pass (Live),Rodrigo Muniz,Pass (Live)
+33,88,Alexander Isak,Newcastle Utd,0.05,0.0,Blocked,12.0,Head,,Sandro Tonali,Pass (Dead),Dan Burn,Fouled
+34,88,Harvey Barnes,Newcastle Utd,0.21,0.0,Off Target,5.0,Head,,Alexander Isak,Shot,,
+35,90,Rodrigo Muniz,Fulham,0.06,0.13,Saved,14.0,Right Foot,,Antonee Robinson,Pass (Live),Calvin Bassey,Pass (Live)
+36,90+2,Reiss Nelson,Fulham,0.31,0.18,Goal,14.0,Right Foot,,,,,
+37,90+4,Rodrigo Muniz,Fulham,0.1,0.0,Off Target,21.0,Right Foot,,,,,
+38,90+5,Sandro Tonali,Newcastle Utd,0.04,0.02,Saved,27.0,Right Foot,Free kick,Harvey Barnes,Fouled,Lewis Hall,Pass (Live)

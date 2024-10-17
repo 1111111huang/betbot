@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Son Heung-min,Tottenham,0.04,0.06,Saved,10.0,Left Foot,,Ben Davies,Pass (Live),Eric Dier,Pass (Live)
+1,1,Tanguy Ndombele,Tottenham,0.02,0.04,Goal,25.0,Right Foot,,Ben Davies,Pass (Live),Son Heung-min,Shot
+2,9,Harry Kane,Tottenham,0.15,,Blocked,7.0,Head,,Son Heung-min,Pass (Dead),Matt Doherty,Fouled
+3,12,Daniel Podence,Wolves,0.05,0.17,Saved,19.0,Left Foot,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+4,14,Sergio Reguilón,Tottenham,0.05,,Off Target,14.0,Head,,Tanguy Ndombele,Pass (Live),Son Heung-min,Pass (Live)
+5,18,Romain Saïss,Wolves,0.07,,Blocked,29.0,Left Foot,Free kick,Daniel Podence,Fouled,Rúben Neves,Pass (Live)
+6,21,Sergio Reguilón,Tottenham,0.09,0.1,Saved,16.0,Left Foot,,Tanguy Ndombele,Pass (Live),Tanguy Ndombele,Take-On
+7,28,Fábio Silva,Wolves,0.11,,Off Target,8.0,Right Foot,,Nélson Semedo,Pass (Live),Rúben Neves,Pass (Live)
+8,40,Daniel Podence,Wolves,0.05,0.2,Saved,18.0,Left Foot,Volley,Rúben Neves,Pass (Live),Fernando Marçal,Pass (Live)
+9,,,,,,,,,,,,,
+10,48,Romain Saïss,Wolves,0.04,0.15,Saved,9.0,Head,,Pedro Neto,Pass (Dead),Pedro Neto,Pass (Dead)
+11,59,Eric Dier,Tottenham,0.05,,Off Target,30.0,Right Foot,Free kick,Tanguy Ndombele,Fouled,Tanguy Ndombele,Tackle
+12,66,Rúben Neves,Wolves,0.05,,Blocked,21.0,Right Foot,,Pedro Neto,Pass (Live),Daniel Podence,Pass (Live)
+13,68,Pedro Neto,Wolves,0.04,,Blocked,23.0,Left Foot,,Conor Coady,Pass (Live),Rúben Neves,Pass (Live)
+14,80,Rúben Neves,Wolves,0.03,0.27,Saved,28.0,Right Foot,,Rúben Neves,Interception,,
+15,86,Romain Saïss,Wolves,0.08,0.28,Goal,6.0,Head,,Pedro Neto,Pass (Dead),Nélson Semedo,Pass (Live)
+16,88,Fábio Silva,Wolves,0.04,,Off Target,20.0,Right Foot,,Adama Traoré,Pass (Live),Nélson Semedo,Pass (Live)
+17,90+6,Fábio Silva,Wolves,0.29,0.38,Saved,8.0,Head,,Rúben Neves,Pass (Live),Romain Saïss,Pass (Live)

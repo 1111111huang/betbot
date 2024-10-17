@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Teemu Pukki,Norwich City,0.13,0.2,Saved,5.0,Right Foot,,Kenny McLean,Pass (Live),Jamal Lewis,Pass (Live)
+1,11,Kenny McLean,Norwich City,0.04,0.08,Saved,23.0,Left Foot,,Teemu Pukki,Pass (Live),Alexander Tettey,Pass (Live)
+2,17,Alexander Tettey,Norwich City,0.03,,Blocked,30.0,Right Foot,,Ondrej Duda,Pass (Live),Lukas Rupp,Pass (Live)
+3,19,Diogo Jota,Wolves,0.46,0.4,Goal,8.0,Left Foot,,Matt Doherty,Pass (Live),Leander Dendoncker,Pass (Live)
+4,30,Leander Dendoncker,Wolves,0.03,,Off Target,15.0,Head,,Jonny Castro,Pass (Live),João Moutinho,Pass (Dead)
+5,30,Romain Saïss,Wolves,0.05,,Off Target,10.0,Right Foot,Volley,Leander Dendoncker,Shot,,
+6,30,Diogo Jota,Wolves,0.48,0.78,Goal,4.0,Right Foot,,Romain Saïss,Shot,,
+7,36,Rúben Neves,Wolves,0.03,,Blocked,30.0,Right Foot,,Diogo Jota,Pass (Live),Jonny Castro,Interception
+8,37,Raúl Jiménez,Wolves,0.12,,Off Target,6.0,Head,,João Moutinho,Pass (Dead),Rúben Neves,Shot
+9,37,Matt Doherty,Wolves,0.06,,Blocked,9.0,Left Foot,,Raúl Jiménez,Shot,,
+10,39,Diogo Jota,Wolves,0.02,,Blocked,31.0,Right Foot,,Jonny Castro,Pass (Live),Raúl Jiménez,Pass (Live)
+11,40,Rúben Neves,Wolves,0.05,0.25,Saved,28.0,Right Foot,Free kick,Jonny Castro,Fouled,Diogo Jota,Pass (Live)
+12,45+2,Rúben Neves,Wolves,0.15,0.55,Saved,21.0,Right Foot,Free kick,Diogo Jota,Fouled,Raúl Jiménez,Pass (Live)
+13,,,,,,,,,,,,,
+14,49,Raúl Jiménez,Wolves,0.03,,Off Target,23.0,Left Foot,,Diogo Jota,Pass (Live),João Moutinho,Pass (Live)
+15,50,Diogo Jota,Wolves,0.32,,Woodwork,17.0,Right Foot,,Leander Dendoncker,Pass (Live),Leander Dendoncker,Interception
+16,50,Raúl Jiménez,Wolves,0.95,1.0,Goal,3.0,Right Foot,,Diogo Jota,Shot,,
+17,55,Max Aarons,Norwich City,0.06,0.11,Saved,10.0,Right Foot,,Todd Cantwell,Pass (Live),Max Aarons,Pass (Live)
+18,58,Matt Doherty,Wolves,0.04,,Off Target,20.0,Right Foot,,Jonny Castro,Tackle,,
+19,58,Raúl Jiménez,Wolves,0.09,,Off Target,12.0,Right Foot,Volley,Matt Doherty,Shot,,
+20,66,Teemu Pukki,Norwich City,0.08,,Off Target,20.0,Right Foot,,Josip Drmić,Pass (Live),Todd Cantwell,Pass (Live)
+21,85,Rúben Vinagre,Wolves,0.05,,Blocked,11.0,Head,,Matt Doherty,Pass (Live),Pedro Neto,Pass (Live)
+22,89,Matt Doherty,Wolves,0.2,0.15,Saved,7.0,Head,,Rúben Vinagre,Pass (Live),Romain Saïss,Pass (Live)
+23,90,Rúben Vinagre,Wolves,0.12,,Off Target,10.0,Right Foot,Volley,João Moutinho,Pass (Live),Pedro Neto,Pass (Live)
+24,90+2,Ben Godfrey,Norwich City,0.04,0.01,Saved,13.0,Head,,Emi Buendía,Pass (Live),Jamal Lewis,Pass (Live)
+25,90+5,Adama Traoré,Wolves,0.03,,Off Target,27.0,Right Foot,,Conor Coady,Pass (Live),Romain Saïss,Pass (Live)

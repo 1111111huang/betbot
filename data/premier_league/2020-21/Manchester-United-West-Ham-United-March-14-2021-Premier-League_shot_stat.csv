@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Mason Greenwood,Manchester Utd,0.14,,Blocked,10.0,Left Foot,,Luke Shaw,Pass (Live),Luke Shaw,Take-On
+1,24.0,Bruno Fernandes,Manchester Utd,0.05,,Off Target,29.0,Left Foot,,Mason Greenwood,Pass (Live),Bruno Fernandes,Pass (Live)
+2,25.0,Marcus Rashford,Manchester Utd,0.39,,Off Target,6.0,Head,,Mason Greenwood,Pass (Live),Bruno Fernandes,Pass (Live)
+3,31.0,Mason Greenwood,Manchester Utd,0.03,,Blocked,29.0,Left Foot,,Bruno Fernandes,Pass (Live),Victor Lindelöf,Pass (Live)
+4,31.0,Marcus Rashford,Manchester Utd,0.02,,Blocked,29.0,Right Foot,,Luke Shaw,Pass (Live),Bruno Fernandes,Pass (Live)
+5,34.0,Scott McTominay,Manchester Utd,0.05,,Blocked,27.0,Right Foot,,Fred,Pass (Live),Mason Greenwood,Pass (Live)
+6,37.0,Mason Greenwood,Manchester Utd,0.05,0.37,Saved,17.0,Left Foot,,Bruno Fernandes,Pass (Live),Fred,Pass (Live)
+7,39.0,Marcus Rashford,Manchester Utd,0.06,0.04,Saved,7.0,Head,,Bruno Fernandes,Pass (Live),Scott McTominay,Pass (Live)
+8,,,,,,,,,,,,,
+9,51.0,Bruno Fernandes,Manchester Utd,0.03,,Blocked,28.0,Right Foot,,Scott McTominay,Pass (Live),Marcus Rashford,Pass (Live)
+10,53.0,Scott McTominay,Manchester Utd,0.16,,Off Target,5.0,Head,,Bruno Fernandes,Pass (Dead),Daniel James,Pass (Live)
+11,56.0,Marcus Rashford,Manchester Utd,0.08,,Blocked,13.0,Right Foot,,Bruno Fernandes,Pass (Live),Fred,Pass (Live)
+12,57.0,Michail Antonio,West Ham,0.03,,Blocked,25.0,Right Foot,,Declan Rice,Pass (Live),Tomáš Souček,Pass (Live)
+13,59.0,Tomáš Souček,West Ham,0.2,,Off Target,5.0,Right Foot,,Jarrod Bowen,Shot,,
+14,59.0,Jarrod Bowen,West Ham,0.06,,Blocked,15.0,Left Foot,Volley,Michail Antonio,Pass (Live),Aaron Cresswell,Pass (Dead)
+15,60.0,Mason Greenwood,Manchester Utd,0.05,,Blocked,15.0,Left Foot,Deflected,Bruno Fernandes,Pass (Live),Victor Lindelöf,Pass (Live)
+16,60.0,Bruno Fernandes,Manchester Utd,0.05,0.14,Saved,26.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Mason Greenwood,Shot
+17,61.0,Tomáš Souček,West Ham,0.11,,Off Target,7.0,Head,,Jarrod Bowen,Pass (Live),Aaron Cresswell,Pass (Live)
+18,64.0,Jarrod Bowen,West Ham,0.05,,Blocked,17.0,Left Foot,,Declan Rice,Pass (Live),Jarrod Bowen,Pass (Live)
+19,65.0,Bruno Fernandes,Manchester Utd,0.3,0.23,Saved,13.0,Right Foot,,Marcus Rashford,Pass (Live),Scott McTominay,Pass (Live)
+20,77.0,Mason Greenwood,Manchester Utd,0.09,,Woodwork,17.0,Left Foot,,Marcus Rashford,Pass (Live),Fred,Pass (Live)
+21,80.0,Tomáš Souček,West Ham,0.08,,Blocked,16.0,Right Foot,,Manuel Lanzini,Pass (Live),Saïd Benrahma,Pass (Live)
+22,83.0,Manuel Lanzini,West Ham,0.05,,Off Target,13.0,Right Foot,Volley,Manuel Lanzini,Pass (Live),Tomáš Souček,Pass (Live)

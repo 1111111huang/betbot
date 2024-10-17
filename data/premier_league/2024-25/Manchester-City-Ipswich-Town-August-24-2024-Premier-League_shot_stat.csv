@@ -1,0 +1,17 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Sammie Szmodics,Ipswich Town,0.29,0.29,Goal,21.0,Right Foot,,Ben Johnson,Pass (Live),Omari Hutchinson,Pass (Live)
+1,12,Erling Haaland (pen),Manchester City,0.79,0.84,Goal,13.0,Left Foot,,Sávio,Fouled,Manuel Akanji,Pass (Live)
+2,14,Kevin De Bruyne,Manchester City,0.59,0.97,Goal,26.0,Left Foot,,Sávio,Pass (Live),Sávio,Tackle
+3,16,Erling Haaland,Manchester City,0.21,0.92,Goal,13.0,Left Foot,,Erling Haaland,Take-On,Kevin De Bruyne,Pass (Live)
+4,28,Rico Lewis,Manchester City,0.53,0.0,Woodwork,10.0,Right Foot,,Jeremy Doku,Pass (Live),Kevin De Bruyne,Pass (Dead)
+5,29,Kevin De Bruyne,Manchester City,0.02,0.0,Woodwork,33.0,Right Foot,,Mateo Kovačić,Pass (Live),Joško Gvardiol,Pass (Live)
+6,31,Kevin De Bruyne,Manchester City,0.03,0.0,Off Target,28.0,Left Foot,,Mateo Kovačić,Pass (Live),Joško Gvardiol,Pass (Live)
+7,33,Erling Haaland,Manchester City,0.06,0.0,Off Target,13.0,Head,,Manuel Akanji,Pass (Live),Sávio,Pass (Live)
+8,37,Kevin De Bruyne,Manchester City,0.18,0.0,Blocked,22.0,Right Foot,Free kick,Sávio,Fouled,Manuel Akanji,Pass (Live)
+9,45+3,Erling Haaland,Manchester City,0.33,0.0,Off Target,5.0,Left Foot,,Jeremy Doku,Pass (Live),Kevin De Bruyne,Pass (Live)
+10,45+5,Erling Haaland,Manchester City,0.08,0.0,Off Target,10.0,Head,,Sávio,Pass (Live),Mateo Kovačić,Pass (Live)
+11,,,,,,,,,,,,,
+12,64,Erling Haaland,Manchester City,0.28,0.41,Saved,8.0,Head,,Kevin De Bruyne,Pass (Live),John Stones,Pass (Live)
+13,69,Bernardo Silva,Manchester City,0.11,0.0,Blocked,12.0,Left Foot,Volley,Kevin De Bruyne,Pass (Dead),Joško Gvardiol,Pass (Live)
+14,79,Jack Grealish,Manchester City,0.1,0.0,Blocked,14.0,Right Foot,,Kevin De Bruyne,Pass (Live),Rico Lewis,Pass (Live)
+15,88,Erling Haaland,Manchester City,0.04,0.31,Goal,25.0,Left Foot,,Bernardo Silva,Pass (Live),İlkay Gündoğan,Pass (Live)

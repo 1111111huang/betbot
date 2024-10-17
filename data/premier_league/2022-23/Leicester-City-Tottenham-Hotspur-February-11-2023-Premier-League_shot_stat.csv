@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Rodrigo Bentancur,Tottenham,0.09,,Off Target,17.0,Right Foot,,Ivan Perišić,Pass (Live),Harry Kane,Pass (Live)
+1,3,Kelechi Iheanacho,Leicester City,0.09,,Blocked,15.0,Left Foot,,Kelechi Iheanacho,Take-On,Kiernan Dewsbury-Hall,Pass (Live)
+2,5,James Maddison,Leicester City,0.07,,Off Target,20.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),James Maddison,Pass (Dead)
+3,11,Ivan Perišić,Tottenham,0.12,,Off Target,16.0,Left Foot,,Harry Kane,Pass (Live),Son Heung-min,Pass (Live)
+4,13,Ivan Perišić,Tottenham,0.05,0.22,Saved,28.0,Left Foot,Free kick,Harry Kane,Fouled,Rodrigo Bentancur,Pass (Live)
+5,14,Ben Davies,Tottenham,0.09,,Off Target,6.0,Other,,Ivan Perišić,Pass (Dead),Ivan Perišić,Shot
+6,14,Rodrigo Bentancur,Tottenham,0.71,0.92,Goal,3.0,Right Foot,,Ben Davies,Shot,,
+7,21,Tetê,Leicester City,0.02,,Off Target,34.0,Left Foot,,Tetê,Take-On,Nampalys Mendy,Interception
+8,23,Timothy Castagne,Leicester City,0.02,,Blocked,10.0,Head,,James Maddison,Pass (Dead),James Maddison,Pass (Live)
+9,23,Nampalys Mendy,Leicester City,0.03,0.17,Goal,20.0,Right Foot,,Timothy Castagne,Shot,,
+10,25,James Maddison,Leicester City,0.33,0.56,Goal,12.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Wout Faes,Interception
+11,26,Kelechi Iheanacho,Leicester City,0.09,0.39,Saved,15.0,Left Foot,,Kiernan Dewsbury-Hall,Pass (Live),Wout Faes,Interception
+12,33,Dejan Kulusevski,Tottenham,0.05,,Off Target,14.0,Left Foot,Volley,,,,
+13,34,Ivan Perišić,Tottenham,0.09,,Off Target,11.0,Left Foot,,Harry Kane,Pass (Live),Pierre Højbjerg,Pass (Live)
+14,45+4,Kelechi Iheanacho,Leicester City,0.16,0.38,Goal,18.0,Left Foot,,Harry Souttar,Pass (Live),,
+15,,,,,,,,,,,,,
+16,49,Victor Bernth Kristiansen,Leicester City,0.07,,Blocked,11.0,Left Foot,,Harvey Barnes,Pass (Live),,
+17,49,Tetê,Leicester City,0.12,,Off Target,13.0,Left Foot,Volley,Victor Bernth Kristiansen,Shot,,
+18,50,Harvey Barnes,Leicester City,0.09,,Off Target,9.0,Head,,Victor Bernth Kristiansen,Pass (Live),James Maddison,Pass (Live)
+19,52,Rodrigo Bentancur,Tottenham,0.02,0.08,Saved,32.0,Right Foot,,,,,
+20,58,Harvey Barnes,Leicester City,0.29,0.06,Saved,11.0,Right Foot,,Victor Bernth Kristiansen,Pass (Live),Harvey Barnes,Pass (Live)
+21,69,Kelechi Iheanacho,Leicester City,0.18,,Off Target,8.0,Head,,Harvey Barnes,Pass (Live),Victor Bernth Kristiansen,Pass (Live)
+22,76,Eric Dier,Tottenham,0.04,,Blocked,28.0,Right Foot,Free kick,Son Heung-min,Fouled,Son Heung-min,Take-On
+23,81,Harvey Barnes,Leicester City,0.09,0.29,Goal,21.0,Right Foot,,James Maddison,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+24,83,James Maddison,Leicester City,0.04,,Off Target,16.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Dennis Praet,Pass (Live)
+25,89,Son Heung-min,Tottenham,0.04,,Off Target,13.0,Right Foot,Volley,Arnaut Danjuma,Pass (Live),Pierre Højbjerg,Pass (Live)
+26,90,Harry Kane,Tottenham,0.07,0.05,Saved,17.0,Right Foot,Volley,,,,

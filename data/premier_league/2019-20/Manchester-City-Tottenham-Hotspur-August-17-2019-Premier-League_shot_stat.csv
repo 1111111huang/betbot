@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Raheem Sterling,Manchester City,0.09,,Blocked,12.0,Right Foot,,Kyle Walker,Pass (Live),Kyle Walker,Take-On
+1,8,Bernardo Silva,Manchester City,0.03,,Blocked,14.0,Left Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Dead)
+2,8,Kevin De Bruyne,Manchester City,0.04,0.06,Saved,19.0,Left Foot,Deflected,Rodri,Pass (Live),,
+3,9,Raheem Sterling,Manchester City,0.05,,Off Target,17.0,Left Foot,Volley,Oleksandr Zinchenko,Pass (Live),Aymeric Laporte,Pass (Live)
+4,11,İlkay Gündoğan,Manchester City,0.02,,Blocked,24.0,Right Foot,,Kevin De Bruyne,Pass (Dead),,
+5,20,Raheem Sterling,Manchester City,0.18,0.86,Goal,4.0,Head,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+6,23,Érik Lamela,Tottenham,0.03,0.15,Goal,28.0,Left Foot,,Tanguy Ndombele,Pass (Live),Harry Winks,Pass (Live)
+7,28,Aymeric Laporte,Manchester City,0.14,0.22,Saved,11.0,Right Foot,Volley,Rodri,Pass (Live),Kevin De Bruyne,Fouled
+8,34,Bernardo Silva,Manchester City,0.05,,Blocked,24.0,Left Foot,,Bernardo Silva,Take-On,Nicolás Otamendi,Pass (Live)
+9,35,Sergio Agüero,Manchester City,0.47,0.81,Goal,4.0,Right Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+10,36,Kevin De Bruyne,Manchester City,0.05,,Off Target,12.0,Right Foot,,Bernardo Silva,Pass (Live),Bernardo Silva,Take-On
+11,43,İlkay Gündoğan,Manchester City,0.06,,Off Target,15.0,Right Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+12,44,Oleksandr Zinchenko,Manchester City,0.05,0.14,Saved,24.0,Left Foot,,Raheem Sterling,Pass (Live),Kyle Walker,Pass (Live)
+13,45+1,Sergio Agüero,Manchester City,0.03,,Blocked,26.0,Right Foot,,İlkay Gündoğan,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+14,,,,,,,,,,,,,
+15,48,Kevin De Bruyne,Manchester City,0.04,,Blocked,21.0,Right Foot,,Kyle Walker,Pass (Live),Ederson,Pass (Live)
+16,49,Oleksandr Zinchenko,Manchester City,0.02,0.05,Saved,29.0,Left Foot,Deflected,İlkay Gündoğan,Pass (Live),Bernardo Silva,Pass (Dead)
+17,51,Kevin De Bruyne,Manchester City,0.04,,Off Target,21.0,Left Foot,,Sergio Agüero,Pass (Live),Raheem Sterling,Pass (Live)
+18,53,Sergio Agüero,Manchester City,0.08,,Off Target,15.0,Left Foot,,Raheem Sterling,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+19,54,Bernardo Silva,Manchester City,0.29,0.43,Saved,15.0,Left Foot,,,,,
+20,54,Raheem Sterling,Manchester City,0.4,0.49,Saved,16.0,Right Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+21,56,Lucas Moura,Tottenham,0.09,0.19,Goal,6.0,Head,,Érik Lamela,Pass (Dead),Érik Lamela,Pass (Live)
+22,58,Harry Kane,Tottenham,0.01,,Off Target,71.0,Right Foot,,Christian Eriksen,Pass (Live),Christian Eriksen,Tackle
+23,60,Raheem Sterling,Manchester City,0.05,,Blocked,15.0,Right Foot,,Raheem Sterling,Tackle,,
+24,60,Rodri,Manchester City,0.03,0.17,Saved,24.0,Right Foot,,İlkay Gündoğan,Pass (Live),Raheem Sterling,Shot
+25,61,Nicolás Otamendi,Manchester City,0.09,0.05,Saved,6.0,Head,,Kevin De Bruyne,Pass (Dead),Rodri,Shot
+26,61,Bernardo Silva,Manchester City,0.05,,Woodwork,11.0,Left Foot,,Nicolás Otamendi,Shot,,
+27,62,Bernardo Silva,Manchester City,0.08,,Blocked,4.0,Head,,İlkay Gündoğan,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+28,62,Nicolás Otamendi,Manchester City,0.04,,Blocked,11.0,Head,,Kevin De Bruyne,Pass (Dead),Bernardo Silva,Shot
+29,69,Gabriel Jesus,Manchester City,0.07,,Blocked,15.0,Right Foot,,Kevin De Bruyne,Pass (Live),Gabriel Jesus,Pass (Live)
+30,69,Gabriel Jesus,Manchester City,0.06,,Blocked,16.0,Right Foot,,Gabriel Jesus,Shot,,
+31,72,Gabriel Jesus,Manchester City,0.23,,Off Target,8.0,Right Foot,Volley,Gabriel Jesus,Take-On,Bernardo Silva,Pass (Live)
+32,79,Gabriel Jesus,Manchester City,0.07,,Off Target,11.0,Head,,Kyle Walker,Pass (Live),Bernardo Silva,Pass (Live)
+33,90+6,Raheem Sterling,Manchester City,0.06,,Blocked,14.0,Left Foot,,Kevin De Bruyne,Pass (Live),Oleksandr Zinchenko,Pass (Live)

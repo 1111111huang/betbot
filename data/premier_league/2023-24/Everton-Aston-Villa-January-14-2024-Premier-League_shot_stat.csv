@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Arnaut Danjuma,Everton,0.05,,Off Target,10.0,Right Foot,Volley,Jack Harrison,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+1,5,Vitaliy Mykolenko,Everton,0.04,,Off Target,21.0,Left Foot,,Arnaut Danjuma,Shot,,
+2,10,James Garner,Everton,0.08,,Blocked,24.0,Right Foot,Free kick,Jarrad Branthwaite,Fouled,Abdoulaye Doucouré,Fouled
+3,13,Ollie Watkins,Aston Villa,0.05,0.03,Saved,13.0,Right Foot,,Moussa Diaby,Pass (Live),John McGinn,Pass (Live)
+4,24,Ollie Watkins,Aston Villa,0.08,,Off Target,6.0,Head,,Leon Bailey,Pass (Live),John McGinn,Pass (Live)
+5,28,Ollie Watkins,Aston Villa,0.1,,Off Target,12.0,Right Foot,,Douglas Luiz,Pass (Live),Ollie Watkins,Pass (Live)
+6,28,Leon Bailey,Aston Villa,0.13,0.17,Saved,12.0,Right Foot,,Douglas Luiz,Pass (Live),Douglas Luiz,Take-On
+7,30,Douglas Luiz,Aston Villa,0.02,,Blocked,28.0,Right Foot,,Ollie Watkins,Pass (Live),Diego Carlos,Pass (Live)
+8,36,Arnaut Danjuma,Everton,0.04,,Blocked,13.0,Right Foot,,James Garner,Tackle,,
+9,37,James Tarkowski,Everton,0.09,,Off Target,9.0,Head,,James Garner,Pass (Dead),Arnaut Danjuma,Shot
+10,45,Ollie Watkins,Aston Villa,0.01,,Blocked,27.0,Right Foot,,Emiliano Martínez,Pass (Live),Clément Lenglet,Pass (Live)
+11,45,Dominic Calvert-Lewin,Everton,0.66,0.67,Saved,16.0,Right Foot,,Arnaut Danjuma,Pass (Live),Amadou Onana,Pass (Live)
+12,45,James Garner,Everton,0.11,0.12,Saved,19.0,Right Foot,Deflected,Dominic Calvert-Lewin,Shot,,
+13,,,,,,,,,,,,,
+14,58,Ollie Watkins,Aston Villa,0.03,,Blocked,20.0,Right Foot,,Moussa Diaby,Pass (Live),Moussa Diaby,Take-On
+15,60,John McGinn,Aston Villa,0.05,,Off Target,25.0,Left Foot,,Leon Bailey,Pass (Live),Leon Bailey,Pass (Live)
+16,61,Arnaut Danjuma,Everton,0.05,,Off Target,16.0,Right Foot,,Jarrad Branthwaite,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+17,62,Moussa Diaby,Aston Villa,0.04,0.19,Saved,16.0,Right Foot,,Boubacar Kamara,Pass (Live),Leon Bailey,Pass (Live)
+18,77,Jhon Durán,Aston Villa,0.04,,Off Target,9.0,Other,,Clément Lenglet,Pass (Live),Ezri Konsa,Pass (Live)
+19,77,Jhon Durán,Aston Villa,0.1,0.14,Saved,9.0,Head,,Jhon Durán,Shot,,
+20,80,Abdoulaye Doucouré,Everton,0.04,,Blocked,15.0,Left Foot,,Amadou Onana,Pass (Live),Séamus Coleman,Pass (Live)
+21,85,Ollie Watkins,Aston Villa,0.08,,Off Target,7.0,Right Foot,,Álex Moreno,Pass (Live),Clément Lenglet,Pass (Live)
+22,85,Matty Cash,Aston Villa,0.12,,Blocked,10.0,Right Foot,,Ollie Watkins,Shot,,
+23,85,John McGinn,Aston Villa,0.07,,Blocked,17.0,Left Foot,,Matty Cash,Pass (Live),Matty Cash,Shot
+24,87,Jhon Durán,Aston Villa,0.25,,Off Target,5.0,Left Foot,,Matty Cash,Pass (Live),Ollie Watkins,Pass (Live)
+25,90+4,Jhon Durán,Aston Villa,0.06,,Off Target,12.0,Head,,Álex Moreno,Pass (Live),Ollie Watkins,Pass (Live)
+26,90+7,Amadou Onana,Everton,0.04,,Off Target,27.0,Right Foot,,,,,

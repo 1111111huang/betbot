@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Neal Maupay,Everton,0.05,,Off Target,19.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),James Garner,Interception
+1,3,Tom Cairney,Fulham,0.04,,Off Target,21.0,Left Foot,Volley,Willian,Pass (Dead),Harry Wilson,Pass (Live)
+2,5,Abdoulaye Doucouré,Everton,0.54,0.84,Saved,15.0,Right Foot,,Amadou Onana,Pass (Live),Alex Iwobi,Pass (Live)
+3,18,Alex Iwobi,Everton,0.07,,Blocked,17.0,Right Foot,,Amadou Onana,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+4,19,Idrissa Gana Gueye,Everton,0.01,,Blocked,22.0,Right Foot,,James Garner,Pass (Dead),Alex Iwobi,Shot
+5,21,Alex Iwobi,Everton,0.07,,Off Target,22.0,Right Foot,,Alex Iwobi,Take-On,Neal Maupay,Pass (Live)
+6,34,Neal Maupay,Everton,0.68,0.92,Saved,4.0,Left Foot,Volley,Alex Iwobi,Pass (Live),Amadou Onana,Pass (Live)
+7,41,Amadou Onana,Everton,0.05,0.05,Saved,19.0,Right Foot,,Alex Iwobi,Pass (Live),Alex Iwobi,Take-On
+8,42,Neal Maupay,Everton,0.53,0.91,Saved,11.0,Right Foot,,Amadou Onana,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+9,43,Nathan Patterson,Everton,0.04,,Off Target,16.0,Left Foot,,Idrissa Gana Gueye,Pass (Live),,
+10,45,Neal Maupay,Everton,0.08,0.09,Saved,18.0,Right Foot,Volley,Abdoulaye Doucouré,Pass (Live),James Garner,Pass (Live)
+11,,,,,,,,,,,,,
+12,53,Saša Lukić,Fulham,0.02,,Off Target,22.0,Right Foot,Volley,Tom Cairney,Pass (Live),Tom Cairney,Pass (Live)
+13,57,Raúl Jiménez,Fulham,0.07,,Woodwork,13.0,Right Foot,Volley,Harry Wilson,Pass (Live),Kenny Tete,Pass (Live)
+14,57,Bobby Reid,Fulham,0.12,,Off Target,13.0,Right Foot,,Harrison Reed,Pass (Live),Tom Cairney,Pass (Live)
+15,60,Nathan Patterson,Everton,0.01,,Blocked,34.0,Right Foot,,Alex Iwobi,Pass (Live),James Garner,Pass (Dead)
+16,67,Alex Iwobi,Everton,0.04,0.05,Saved,22.0,Right Foot,,Neal Maupay,Pass (Live),Michael Keane,Pass (Live)
+17,67,Nathan Patterson,Everton,0.26,,Woodwork,8.0,Right Foot,,Alex Iwobi,Shot,,
+18,69,Harry Wilson,Fulham,0.07,,Off Target,19.0,Left Foot,,Harry Wilson,Take-On,Saša Lukić,Pass (Live)
+19,73,Bobby Reid,Fulham,0.72,0.98,Goal,3.0,Left Foot,,Aleksandar Mitrović,Pass (Live),Harry Wilson,Pass (Live)
+20,77,Bobby Reid,Fulham,0.29,,Off Target,5.0,Right Foot,Volley,Harry Wilson,Pass (Live),Kenny Tete,Pass (Live)
+21,85,Alex Iwobi,Everton,0.15,0.35,Saved,4.0,Right Foot,Volley,Ashley Young,Pass (Live),Lewis Dobbin,Pass (Live)
+22,85,Michael Keane,Everton,0.03,0.04,Saved,10.0,Head,,Alex Iwobi,Pass (Dead),Alex Iwobi,Shot
+23,87,Aleksandar Mitrović,Fulham,0.06,0.14,Saved,10.0,Right Foot,,Aleksandar Mitrović,Take-On,Kenny Tete,Pass (Live)
+24,88,Aleksandar Mitrović,Fulham,0.1,,Blocked,12.0,Left Foot,,,,,
+25,90,Idrissa Gana Gueye,Everton,0.04,,Blocked,21.0,Left Foot,Volley,Ashley Young,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+26,90,James Tarkowski,Everton,0.04,,Off Target,10.0,Head,,Alex Iwobi,Pass (Live),Idrissa Gana Gueye,Shot
+27,90+5,Abdoulaye Doucouré,Everton,0.03,,Off Target,12.0,Head,,Amadou Onana,Fouled,Ashley Young,Pass (Dead)
+28,90+7,Michael Keane,Everton,0.01,0.07,Saved,17.0,Head,,Jordan Pickford,Pass (Dead),Lewis Dobbin,Fouled

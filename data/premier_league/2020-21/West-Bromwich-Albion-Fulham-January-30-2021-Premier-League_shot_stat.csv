@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10.0,Bobby Reid,Fulham,0.23,0.11,Goal,13.0,Right Foot,,Aleksandar Mitrović,Pass (Live),Ademola Lookman,Pass (Live)
+1,13.0,Ruben Loftus-Cheek,Fulham,0.05,0.09,Saved,15.0,Right Foot,,Aleksandar Mitrović,Pass (Live),,
+2,14.0,Ademola Lookman,Fulham,0.05,,Blocked,15.0,Right Foot,,Ruben Loftus-Cheek,Pass (Live),Aleksandar Mitrović,Pass (Live)
+3,18.0,Bobby Reid,Fulham,0.26,,Woodwork,15.0,Right Foot,,Ruben Loftus-Cheek,Pass (Live),Aleksandar Mitrović,Pass (Live)
+4,26.0,Ruben Loftus-Cheek,Fulham,0.05,,Off Target,23.0,Left Foot,,Bobby Reid,Pass (Live),Ola Aina,Pass (Live)
+5,28.0,Ademola Lookman,Fulham,0.12,0.13,Saved,13.0,Right Foot,,Ademola Lookman,Take-On,Aleksandar Mitrović,Pass (Live)
+6,33.0,Bobby Reid,Fulham,0.07,,Off Target,17.0,Left Foot,,Aleksandar Mitrović,Pass (Live),Ademola Lookman,Pass (Live)
+7,36.0,Ruben Loftus-Cheek,Fulham,0.03,0.11,Saved,31.0,Right Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Antonee Robinson,Pass (Live)
+8,41.0,Karlan Grant,West Brom,0.04,0.05,Saved,18.0,Left Foot,,Kieran Gibbs,Pass (Live),Callum Robinson,Pass (Live)
+9,,,,,,,,,,,,,
+10,47.0,Kyle Bartley,West Brom,0.46,0.78,Goal,9.0,Right Foot,Volley,Karlan Grant,Pass (Live),Robert Snodgrass,Pass (Live)
+11,55.0,Matheus Pereira,West Brom,0.03,,Off Target,30.0,Left Foot,,Mbaye Diagne,Pass (Live),Conor Gallagher,Pass (Live)
+12,66.0,Matheus Pereira,West Brom,0.36,0.49,Goal,8.0,Left Foot,Deflected,Mbaye Diagne,Pass (Live),Jake Livermore,Pass (Live)
+13,72.0,Kyle Bartley,West Brom,0.09,,Off Target,11.0,Right Foot,,,,,
+14,74.0,Andre-Frank Zambo Anguissa,Fulham,0.02,0.02,Saved,30.0,Right Foot,"Deflected, Volley",Ademola Lookman,Pass (Dead),Ruben Loftus-Cheek,Fouled
+15,77.0,Ivan Cavaleiro,Fulham,0.32,0.48,Goal,7.0,Head,,Harrison Reed,Pass (Live),Ola Aina,Pass (Live)
+16,81.0,Aleksandar Mitrović,Fulham,0.1,0.16,Saved,8.0,Head,,Ademola Lookman,Pass (Dead),,
+17,82.0,Ivan Cavaleiro,Fulham,0.05,,Blocked,23.0,Right Foot,,Aleksandar Mitrović,Pass (Live),Ivan Cavaleiro,Pass (Live)

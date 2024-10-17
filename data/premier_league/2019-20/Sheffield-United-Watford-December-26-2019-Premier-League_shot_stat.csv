@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Jack O'Connell,Sheffield Utd,0.05,,Off Target,19.0,Left Foot,,Enda Stevens,Pass (Live),John Fleck,Pass (Live)
+1,10,Oliver McBurnie,Sheffield Utd,0.1,0.3,Saved,9.0,Right Foot,,Jack O'Connell,Shot,,
+2,11,Oliver McBurnie,Sheffield Utd,0.07,,Blocked,8.0,Head,,Oliver Norwood,Pass (Dead),Oliver McBurnie,Shot
+3,11,Oliver McBurnie,Sheffield Utd,0.06,0.27,Saved,11.0,Head,,Chris Basham,Pass (Live),John Lundstram,Pass (Live)
+4,18,Oliver McBurnie,Sheffield Utd,0.05,,Off Target,11.0,Head,,David McGoldrick,Pass (Live),Enda Stevens,Pass (Live)
+5,27,Gerard Deulofeu,Watford,0.29,0.6,Goal,13.0,Right Foot,,Ben Foster,Pass (Live),Christian Kabasele,Pass (Live)
+6,36,Oliver Norwood (pen),Sheffield Utd,0.79,0.99,Goal,13.0,Right Foot,,George Baldock,Fouled,John Lundstram,Pass (Live)
+7,45+1,John Egan,Sheffield Utd,0.2,,Blocked,6.0,Head,,Jack O'Connell,Pass (Live),Oliver Norwood,Pass (Dead)
+8,45+6,Gerard Deulofeu,Watford,0.04,,Off Target,32.0,Right Foot,Free kick,Gerard Deulofeu,Fouled,Nathaniel Chalobah,Pass (Live)
+9,,,,,,,,,,,,,
+10,47,John Egan,Sheffield Utd,0.05,,Blocked,18.0,Right Foot,,Oliver Norwood,Pass (Live),George Baldock,Fouled
+11,51,John Lundstram,Sheffield Utd,0.03,,Off Target,27.0,Left Foot,Volley,John Fleck,Pass (Live),Enda Stevens,Pass (Live)
+12,55,John Fleck,Sheffield Utd,0.03,,Off Target,31.0,Left Foot,,,,,
+13,64,John Fleck,Sheffield Utd,0.64,0.8,Saved,6.0,Left Foot,Volley,Lys Mousset,Pass (Live),David McGoldrick,Pass (Live)
+14,71,Oliver Norwood,Sheffield Utd,0.02,,Off Target,31.0,Right Foot,,Enda Stevens,Pass (Live),Oliver Norwood,Pass (Live)
+15,73,Enda Stevens,Sheffield Utd,0.03,,Saved off Target,24.0,Left Foot,,George Baldock,Pass (Live),John Lundstram,Pass (Live)
+16,73,John Egan,Sheffield Utd,0.07,,Blocked,6.0,Head,,John Fleck,Pass (Dead),Enda Stevens,Shot
+17,78,Troy Deeney,Watford,0.08,0.14,Saved,11.0,Right Foot,,Gerard Deulofeu,Pass (Live),Roberto Pereyra,Pass (Live)
+18,82,Gerard Deulofeu,Watford,0.11,,Off Target,24.0,Right Foot,Free kick,Roberto Pereyra,Fouled,Gerard Deulofeu,Pass (Live)
+19,85,Lys Mousset,Sheffield Utd,0.2,,Blocked,8.0,Right Foot,,John Lundstram,Fouled,George Baldock,Pass (Dead)
+20,86,John Egan,Sheffield Utd,0.07,,Blocked,8.0,Head,,Oliver Norwood,Pass (Dead),John Fleck,Pass (Live)
+21,90+4,Gerard Deulofeu,Watford,0.05,,Blocked,18.0,Right Foot,,Roberto Pereyra,Pass (Live),Roberto Pereyra,Take-On

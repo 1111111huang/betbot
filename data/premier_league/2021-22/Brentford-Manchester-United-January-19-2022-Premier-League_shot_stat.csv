@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Mathias Jensen,Brentford,0.06,,Off Target,21.0,Right Foot,Volley,Bryan Mbeumo,Take-On,Mads Bech Sørensen,Pass (Dead)
+1,9,Raphaël Varane,Manchester Utd,0.14,,Blocked,7.0,Head,,Bruno Fernandes,Pass (Dead),Diogo Dalot,Pass (Live)
+2,13,Mathias Jensen,Brentford,0.48,0.76,Saved,11.0,Right Foot,,Christian Nørgaard,Pass (Live),Christian Nørgaard,Take-On
+3,13,Vitaly Janelt,Brentford,0.11,,Blocked,17.0,Left Foot,,Ivan Toney,Pass (Live),Christian Nørgaard,Pass (Live)
+4,14,Mads Bech Sørensen,Brentford,0.05,,Blocked,11.0,Left Foot,,Vitaly Janelt,Shot,,
+5,14,Christian Nørgaard,Brentford,0.08,,Off Target,9.0,Left Foot,,Mathias Jensen,Pass (Live),Vitaly Janelt,Pass (Live)
+6,18,Mason Greenwood,Manchester Utd,0.02,,Blocked,27.0,Left Foot,,Cristiano Ronaldo,Fouled,,
+7,25,Diogo Dalot,Manchester Utd,0.05,,Off Target,27.0,Right Foot,,Scott McTominay,Pass (Live),Alex Telles,Pass (Live)
+8,32,Mathias Jensen,Brentford,0.62,0.47,Saved,13.0,Right Foot,,Ivan Toney,Pass (Live),Vitaly Janelt,Pass (Live)
+9,33,Ethan Pinnock,Brentford,0.01,0.06,Saved,16.0,Head,,Mathias Jensen,Pass (Dead),Mathias Jensen,Shot
+10,35,Vitaly Janelt,Brentford,0.01,0.1,Saved,21.0,Left Foot,Volley,Ivan Toney,Pass (Live),Bryan Mbeumo,Fouled
+11,38,Fred,Manchester Utd,0.02,,Blocked,29.0,Right Foot,,Cristiano Ronaldo,Pass (Live),Alex Telles,Pass (Live)
+12,,,,,,,,,,,,,
+13,46,Cristiano Ronaldo,Manchester Utd,0.02,,Blocked,13.0,Right Foot,,Mason Greenwood,Pass (Live),Diogo Dalot,Pass (Live)
+14,47,Cristiano Ronaldo,Manchester Utd,0.07,,Woodwork,6.0,Head,,Bruno Fernandes,Pass (Live),Fred,Pass (Live)
+15,48,Mathias Jensen,Brentford,0.07,0.33,Saved,20.0,Right Foot,,Bryan Mbeumo,Pass (Live),Mathias Jensen,Pass (Live)
+16,53,Ivan Toney,Brentford,0.11,0.08,Saved,9.0,Head,Deflected,Mathias Jensen,Pass (Live),Bryan Mbeumo,Pass (Live)
+17,54,Mathias Jensen,Brentford,0.01,,Off Target,66.0,Right Foot,,Mathias Jensen,Interception,,
+18,55,Anthony Elanga,Manchester Utd,0.47,0.97,Goal,5.0,Head,,Fred,Pass (Live),Diogo Dalot,Pass (Live)
+19,57,Scott McTominay,Manchester Utd,0.02,0.17,Saved,32.0,Right Foot,,Scott McTominay,Take-On,Scott McTominay,Take-On
+20,59,Vitaly Janelt,Brentford,0.08,0.38,Saved,17.0,Left Foot,Volley,,,,
+21,61,Cristiano Ronaldo,Manchester Utd,0.03,,Blocked,16.0,Left Foot,,Anthony Elanga,Take-On,Bruno Fernandes,Pass (Live)
+22,62,Mason Greenwood,Manchester Utd,0.93,0.81,Goal,10.0,Right Foot,,Bruno Fernandes,Pass (Live),Cristiano Ronaldo,Pass (Live)
+23,76,Ivan Toney,Brentford,0.02,,Blocked,23.0,Right Foot,,,,,
+24,76,Ivan Toney,Brentford,0.11,,Blocked,14.0,Right Foot,,Shandon Baptiste,Pass (Live),Ivan Toney,Shot
+25,76,Mads Roerslev,Brentford,0.11,,Off Target,9.0,Right Foot,,Mads Bech Sørensen,Pass (Live),Christian Nørgaard,Pass (Live)
+26,77,Marcus Rashford,Manchester Utd,0.11,0.63,Goal,12.0,Right Foot,,Bruno Fernandes,Pass (Live),Scott McTominay,Pass (Live)
+27,85,Ethan Pinnock,Brentford,0.13,,Blocked,6.0,Left Foot,,Mads Bech Sørensen,Pass (Dead),Ivan Toney,Pass (Live)
+28,85,Ivan Toney,Brentford,0.38,0.96,Goal,4.0,Right Foot,Deflected,Ethan Pinnock,Shot,,
+29,86,Bruno Fernandes,Manchester Utd,0.02,,Blocked,27.0,Left Foot,,,,,
+30,89,Ethan Pinnock,Brentford,0.02,0.14,Saved,15.0,Head,,Bryan Mbeumo,Pass (Dead),Shandon Baptiste,Pass (Live)
+31,90+3,Bruno Fernandes,Manchester Utd,0.41,0.19,Saved,20.0,Right Foot,,Fred,Pass (Live),Nemanja Matić,Take-On

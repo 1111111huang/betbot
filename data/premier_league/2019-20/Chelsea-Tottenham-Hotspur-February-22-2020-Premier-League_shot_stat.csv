@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10.0,Lucas Moura,Tottenham,0.05,0.19,Saved,20.0,Right Foot,,Steven Bergwijn,Pass (Live),Lucas Moura,Pass (Live)
+1,12.0,Mason Mount,Chelsea,0.08,0.22,Saved,12.0,Left Foot,,Marcos Alonso,Pass (Live),Antonio Rüdiger,Pass (Live)
+2,12.0,Olivier Giroud,Chelsea,0.16,,Blocked,5.0,Head,,Reece James,Pass (Dead),Mason Mount,Shot
+3,14.0,Ross Barkley,Chelsea,0.03,,Off Target,26.0,Right Foot,,Jorginho,Pass (Live),Reece James,Pass (Live)
+4,15.0,Olivier Giroud,Chelsea,0.08,0.1,Saved,11.0,Right Foot,,Jorginho,Pass (Live),César Azpilicueta,Pass (Live)
+5,15.0,Ross Barkley,Chelsea,0.27,,Woodwork,15.0,Right Foot,Volley,Olivier Giroud,Shot,,
+6,15.0,Olivier Giroud,Chelsea,0.05,0.29,Goal,15.0,Left Foot,Deflected,Ross Barkley,Shot,,
+7,24.0,Marcos Alonso,Chelsea,0.03,,Off Target,22.0,Right Foot,Volley,Jorginho,Fouled,Jorginho,Tackle
+8,31.0,Olivier Giroud,Chelsea,0.02,,Off Target,31.0,Left Foot,,Reece James,Take-On,Mason Mount,Pass (Live)
+9,34.0,Lucas Moura,Tottenham,0.06,,Blocked,13.0,Left Foot,,Steven Bergwijn,Pass (Live),Tanguy Ndombele,Pass (Live)
+10,35.0,Davinson Sánchez,Tottenham,0.05,0.11,Saved,9.0,Head,,Giovani Lo Celso,Pass (Dead),Lucas Moura,Shot
+11,40.0,Ross Barkley,Chelsea,0.04,,Off Target,17.0,Left Foot,,Mateo Kovačić,Pass (Live),Jorginho,Pass (Live)
+12,,,,,,,,,,,,,
+13,47.0,Reece James,Chelsea,0.03,,Off Target,23.0,Right Foot,,,,,
+14,48.0,Marcos Alonso,Chelsea,0.05,0.24,Goal,24.0,Left Foot,,Ross Barkley,Pass (Live),Mason Mount,Pass (Live)
+15,50.0,Ross Barkley,Chelsea,0.04,0.1,Saved,22.0,Right Foot,,Ross Barkley,Take-On,Marcos Alonso,Pass (Dead)
+16,66.0,Érik Lamela,Tottenham,0.06,,Blocked,32.0,Left Foot,Free kick,Lucas Moura,Fouled,Érik Lamela,Pass (Live)
+17,66.0,Toby Alderweireld,Tottenham,0.03,0.09,Saved,14.0,Head,,Harry Winks,Pass (Live),Giovani Lo Celso,Pass (Live)
+18,73.0,Reece James,Chelsea,0.03,,Blocked,26.0,Right Foot,,Ross Barkley,Pass (Live),Mason Mount,Pass (Live)
+19,79.0,Tammy Abraham,Chelsea,0.65,0.92,Saved,6.0,Left Foot,,Mason Mount,Take-On,Reece James,Pass (Live)
+20,82.0,Marcos Alonso,Chelsea,0.11,,Woodwork,23.0,Left Foot,Free kick,Mason Mount,Fouled,Mateo Kovačić,Pass (Live)
+21,82.0,Mateo Kovačić,Chelsea,0.04,,Off Target,22.0,Right Foot,Volley,Marcos Alonso,Shot,,
+22,90.0,Willian,Chelsea,0.09,0.2,Saved,13.0,Right Foot,,Willian,Take-On,Antonio Rüdiger,Pass (Live)

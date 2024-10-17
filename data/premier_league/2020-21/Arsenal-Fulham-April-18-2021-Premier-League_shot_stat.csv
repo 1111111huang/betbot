@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Gabriel Martinelli,Arsenal,0.51,,Off Target,9.0,Right Foot,,Alexandre Lacazette,Pass (Live),Rob Holding,Pass (Live)
+1,7,Gabriel Martinelli,Arsenal,0.47,0.6,Saved,10.0,Right Foot,,Emile Smith Rowe,Pass (Live),Emile Smith Rowe,Pass (Live)
+2,21,Bobby Reid,Fulham,0.03,,Blocked,29.0,Right Foot,,Ademola Lookman,Pass (Live),Tosin Adarabioyo,Pass (Live)
+3,21,Josh Maja,Fulham,0.06,,Blocked,17.0,Right Foot,,Bobby Reid,Shot,,
+4,22,Emile Smith Rowe,Arsenal,0.03,,Off Target,28.0,Right Foot,,Dani Ceballos,Pass (Live),Gabriel Martinelli,Pass (Live)
+5,,,,,,,,,,,,,
+6,46,Alexandre Lacazette,Arsenal,0.03,,Off Target,26.0,Right Foot,,Dani Ceballos,Pass (Live),Gabriel Martinelli,Pass (Live)
+7,59,Josh Maja (pen),Fulham,0.79,0.98,Goal,13.0,Right Foot,,Mario Lemina,Fouled,,
+8,65,Alexandre Lacazette,Arsenal,0.11,,Blocked,24.0,Right Foot,Free kick,Alexandre Lacazette,Fouled,Bukayo Saka,Pass (Live)
+9,67,Héctor Bellerín,Arsenal,0.2,,Off Target,12.0,Head,,Gabriel Martinelli,Pass (Live),Dani Ceballos,Pass (Live)
+10,71,Nicolas Pépé,Arsenal,0.28,0.25,Saved,4.0,Head,,Gabriel Martinelli,Pass (Live),Gabriel Martinelli,Take-On
+11,71,Gabriel Martinelli,Arsenal,0.05,,Off Target,14.0,Right Foot,Volley,Nicolas Pépé,Shot,,
+12,74,Emile Smith Rowe,Arsenal,0.03,,Blocked,15.0,Right Foot,Volley,,,,
+13,74,Bukayo Saka,Arsenal,0.01,,Off Target,36.0,Right Foot,,,,,
+14,78,Eddie Nketiah,Arsenal,0.06,,Off Target,12.0,Right Foot,,Bukayo Saka,Pass (Live),Bukayo Saka,Take-On
+15,88,Bukayo Saka,Arsenal,0.03,,Off Target,27.0,Left Foot,,Emile Smith Rowe,Pass (Live),Dani Ceballos,Pass (Live)
+16,90,Gabriel Martinelli,Arsenal,0.07,0.07,Saved,10.0,Left Foot,,Gabriel Martinelli,Take-On,Eddie Nketiah,Pass (Live)
+17,90,Granit Xhaka,Arsenal,0.01,,Blocked,31.0,Left Foot,Volley,Dani Ceballos,Pass (Live),Bukayo Saka,Pass (Live)
+18,90+1,Gabriel Magalhães,Arsenal,0.06,,Blocked,6.0,Head,,Dani Ceballos,Pass (Live),Granit Xhaka,Shot
+19,90+5,Eddie Nketiah,Arsenal,0.1,,Blocked,10.0,Left Foot,,Bukayo Saka,Pass (Live),Granit Xhaka,Pass (Live)
+20,90+7,Dani Ceballos,Arsenal,0.06,0.06,Saved,12.0,Right Foot,"Deflected, Volley",Mathew Ryan,Pass (Live),Bukayo Saka,Pass (Dead)
+21,90+7,Eddie Nketiah,Arsenal,0.6,0.84,Goal,2.0,Right Foot,,Dani Ceballos,Shot,,

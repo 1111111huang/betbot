@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Kamaldeen Sulemana,Southampton,0.17,0.21,Saved,13.0,Right Foot,,Kamaldeen Sulemana,Tackle,,
+1,3,Stuart Armstrong,Southampton,0.06,,Blocked,26.0,Right Foot,,Kamaldeen Sulemana,Shot,,
+2,5,Paul Onuachu,Southampton,0.02,0.09,Saved,17.0,Head,,James Ward-Prowse,Pass (Dead),Paul Onuachu,Fouled
+3,10,Paul Onuachu,Southampton,0.08,,Off Target,10.0,Head,,James Ward-Prowse,Pass (Live),Mohamed Elyounoussi,Pass (Live)
+4,13,Noni Madueke,Chelsea,0.02,0.32,Saved,18.0,Right Foot,,,,,
+5,14,David Datro Fofana,Chelsea,0.02,,Off Target,17.0,Right Foot,Volley,Noni Madueke,Pass (Live),Noni Madueke,Shot
+6,28,César Azpilicueta,Chelsea,0.08,,Off Target,11.0,Right Foot,,David Datro Fofana,Pass (Live),Mateo Kovačić,Pass (Live)
+7,39,Mateo Kovačić,Chelsea,0.04,,Blocked,23.0,Right Foot,,,,,
+8,39,João Félix,Chelsea,0.22,,Off Target,9.0,Head,,César Azpilicueta,Pass (Live),Noni Madueke,Pass (Live)
+9,40,David Datro Fofana,Chelsea,0.03,0.03,Saved,29.0,Right Foot,,David Datro Fofana,Take-On,David Datro Fofana,Take-On
+10,42,Romain Perraud,Southampton,0.01,,Off Target,28.0,Left Foot,Volley,James Ward-Prowse,Fouled,Kamaldeen Sulemana,Pass (Live)
+11,42,Mohamed Elyounoussi,Southampton,0.02,,Off Target,27.0,Right Foot,Volley,Kamaldeen Sulemana,Pass (Live),Romain Perraud,Shot
+12,45+1,James Ward-Prowse,Southampton,0.06,0.23,Goal,28.0,Right Foot,Free kick,Stuart Armstrong,Fouled,,
+13,,,,,,,,,,,,,
+14,52,Raheem Sterling,Chelsea,0.06,,Blocked,15.0,Left Foot,,Benoît Badiashile,Pass (Live),Benoît Badiashile,Tackle
+15,55,Mason Mount,Chelsea,0.02,,Blocked,25.0,Right Foot,,Ben Chilwell,Pass (Live),Raheem Sterling,Pass (Live)
+16,56,César Azpilicueta,Chelsea,0.07,,Off Target,16.0,Right Foot,Volley,Mateo Kovačić,Pass (Live),Mason Mount,Shot
+17,62,Ben Chilwell,Chelsea,0.02,,Blocked,28.0,Left Foot,,Raheem Sterling,Pass (Live),Mason Mount,Pass (Live)
+18,65,João Félix,Chelsea,0.04,,Blocked,22.0,Right Foot,Volley,Wesley Fofana,Pass (Live),Mateo Kovačić,Pass (Live)
+19,68,Raheem Sterling,Chelsea,0.17,,Blocked,12.0,Right Foot,,Kai Havertz,Pass (Live),Raheem Sterling,Pass (Live)
+20,71,Raheem Sterling,Chelsea,0.33,,Blocked,4.0,Head,,Kai Havertz,Pass (Live),Benoît Badiashile,Pass (Live)
+21,71,Raheem Sterling,Chelsea,0.44,,Blocked,5.0,Left Foot,Volley,Raheem Sterling,Shot,,
+22,73,Adam Armstrong,Southampton,0.18,0.19,Saved,8.0,Left Foot,,Theo Walcott,Pass (Live),Ainsley Maitland-Niles,Pass (Live)
+23,90+5,João Félix,Chelsea,0.04,0.06,Saved,25.0,Right Foot,Free kick,Mykhailo Mudryk,Fouled,Mateo Kovačić,Pass (Live)
+24,90+6,Conor Gallagher,Chelsea,0.13,0.33,Saved,8.0,Right Foot,,Conor Gallagher,Take-On,Kai Havertz,Pass (Live)
+25,90+12,Mykhailo Mudryk,Chelsea,0.05,,Off Target,21.0,Right Foot,Volley,,,,

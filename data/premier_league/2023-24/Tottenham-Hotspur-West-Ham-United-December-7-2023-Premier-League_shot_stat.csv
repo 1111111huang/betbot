@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Cristian Romero,Tottenham,0.05,0.55,Goal,11.0,Head,,Pedro Porro,Pass (Dead),,
+1,15,Brennan Johnson,Tottenham,0.19,,Blocked,15.0,Right Foot,,Dejan Kulusevski,Pass (Live),Pedro Porro,Pass (Live)
+2,16,Pedro Porro,Tottenham,0.04,,Blocked,20.0,Left Foot,,Cristian Romero,Pass (Live),Dejan Kulusevski,Pass (Live)
+3,17,Son Heung-min,Tottenham,0.1,0.03,Saved,23.0,Right Foot,,Dejan Kulusevski,Pass (Live),Ben Davies,Pass (Live)
+4,18,Emerson Palmieri,West Ham,0.01,,Blocked,27.0,Left Foot,,Lucas Paquetá,Pass (Live),Emerson Palmieri,Pass (Live)
+5,19,Kurt Zouma,West Ham,0.21,,Off Target,3.0,Head,,Mohammed Kudus,Pass (Live),Mohammed Kudus,Take-On
+6,21,Giovani Lo Celso,Tottenham,0.05,,Off Target,25.0,Left Foot,,Brennan Johnson,Pass (Live),Pierre Højbjerg,Pass (Live)
+7,22,Giovani Lo Celso,Tottenham,0.04,,Blocked,22.0,Left Foot,,Son Heung-min,Pass (Live),,
+8,25,Mohammed Kudus,West Ham,0.02,0.19,Saved,29.0,Right Foot,Deflected,,,,
+9,26,Pedro Porro,Tottenham,0.02,,Off Target,27.0,Right Foot,,Brennan Johnson,Pass (Live),Brennan Johnson,Take-On
+10,35,Giovani Lo Celso,Tottenham,0.09,0.07,Saved,17.0,Left Foot,Volley,Pedro Porro,Pass (Live),Pedro Porro,Pass (Dead)
+11,37,Brennan Johnson,Tottenham,0.13,0.04,Saved,12.0,Left Foot,,Giovani Lo Celso,Pass (Live),Ben Davies,Pass (Live)
+12,40,Dejan Kulusevski,Tottenham,0.05,,Blocked,17.0,Left Foot,,Cristian Romero,Pass (Live),Yves Bissouma,Pass (Live)
+13,40,Yves Bissouma,Tottenham,0.18,,Off Target,18.0,Left Foot,,Dejan Kulusevski,Shot,,
+14,44,Lucas Paquetá,West Ham,0.09,,Off Target,9.0,Head,,Mohammed Kudus,Pass (Live),Vladimír Coufal,Pass (Live)
+15,45+1,Brennan Johnson,Tottenham,0.04,0.03,Saved,17.0,Right Foot,,Pedro Porro,Pass (Live),Pierre Højbjerg,Pass (Live)
+16,45+3,Cristian Romero,Tottenham,0.22,,Off Target,5.0,Head,,Pedro Porro,Pass (Dead),,
+17,,,,,,,,,,,,,
+18,48,Pedro Porro,Tottenham,0.02,,Off Target,21.0,Right Foot,,Giovani Lo Celso,Pass (Live),Pedro Porro,Pass (Live)
+19,52,Mohammed Kudus,West Ham,0.02,,Blocked,31.0,Left Foot,,Jarrod Bowen,Pass (Live),Lucas Paquetá,Pass (Live)
+20,52,Jarrod Bowen,West Ham,0.49,0.88,Goal,9.0,Right Foot,,Mohammed Kudus,Shot,,
+21,56,Lucas Paquetá,West Ham,0.05,0.3,Saved,16.0,Left Foot,,James Ward-Prowse,Pass (Live),Jarrod Bowen,Pass (Live)
+22,58,Yves Bissouma,Tottenham,0.04,,Blocked,21.0,Right Foot,,Giovani Lo Celso,Pass (Dead),Pedro Porro,Fouled
+23,61,Nayef Aguerd,West Ham,0.03,,Off Target,10.0,Head,,Emerson Palmieri,Pass (Live),James Ward-Prowse,Pass (Dead)
+24,70,Richarlison,Tottenham,0.25,,Off Target,8.0,Head,,Pedro Porro,Pass (Live),Yves Bissouma,Pass (Live)
+25,73,Pedro Porro,Tottenham,0.04,0.29,Saved,15.0,Right Foot,,Yves Bissouma,Pass (Live),Son Heung-min,Pass (Live)
+26,73,Brennan Johnson,Tottenham,0.03,,Off Target,9.0,Right Foot,,Dejan Kulusevski,Pass (Live),Pedro Porro,Pass (Dead)
+27,74,James Ward-Prowse,West Ham,0.18,,Woodwork,21.0,Left Foot,,,,,
+28,74,James Ward-Prowse,West Ham,0.93,0.87,Goal,8.0,Left Foot,,James Ward-Prowse,Shot,,
+29,77,Brennan Johnson,Tottenham,0.05,,Off Target,12.0,Right Foot,Volley,Ben Davies,Pass (Live),Yves Bissouma,Pass (Live)
+30,87,Nayef Aguerd,West Ham,0.37,0.8,Saved,3.0,Head,,,,,
+31,87,Pape Matar Sarr,Tottenham,0.06,,Off Target,18.0,Right Foot,,Son Heung-min,Pass (Live),Dejan Kulusevski,Pass (Live)
+32,90+1,Pape Matar Sarr,Tottenham,0.04,,Blocked,25.0,Right Foot,,Bryan Gil,Pass (Live),Dejan Kulusevski,Pass (Live)
+33,90+4,Pedro Porro,Tottenham,0.05,,Blocked,24.0,Right Foot,Free kick,Pedro Porro,Fouled,Pape Matar Sarr,Pass (Live)
+34,90+5,Richarlison,Tottenham,0.04,,Off Target,11.0,Head,,Pedro Porro,Pass (Dead),Pedro Porro,Shot

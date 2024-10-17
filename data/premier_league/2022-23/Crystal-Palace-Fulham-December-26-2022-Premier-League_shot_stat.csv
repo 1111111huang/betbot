@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Aleksandar Mitrović,Fulham,0.11,,Off Target,13.0,Right Foot,Volley,Andreas Pereira,Pass (Dead),Kenny Tete,Fouled
+1,3,Bobby Reid,Fulham,0.19,,Blocked,6.0,Right Foot,Volley,Aleksandar Mitrović,Shot,,
+2,8,Andreas Pereira,Fulham,0.04,0.27,Saved,32.0,Right Foot,Free kick,Aleksandar Mitrović,Fouled,Bobby Reid,Pass (Live)
+3,26,Jordan Ayew,Crystal Palace,0.08,,Woodwork,15.0,Right Foot,,,,,
+4,31,Bobby Reid,Fulham,0.36,0.74,Goal,8.0,Head,,Aleksandar Mitrović,Pass (Live),Kenny Tete,Pass (Live)
+5,42,Aleksandar Mitrović,Fulham,0.06,,Off Target,12.0,Right Foot,Volley,Andreas Pereira,Pass (Dead),Aleksandar Mitrović,Pass (Live)
+6,44,Michael Olise,Crystal Palace,0.09,,Off Target,13.0,Right Foot,,Eberechi Eze,Pass (Live),Wilfried Zaha,Pass (Live)
+7,,,,,,,,,,,,,
+8,53,João Palhinha,Fulham,0.03,,Off Target,29.0,Right Foot,,,,,
+9,60,João Palhinha,Fulham,0.02,,Blocked,16.0,Head,,Andreas Pereira,Pass (Dead),Aleksandar Mitrović,Fouled
+10,60,João Palhinha,Fulham,0.11,,Off Target,11.0,Head,,Andreas Pereira,Pass (Live),Willian,Pass (Live)
+11,61,Andreas Pereira,Fulham,0.22,,Woodwork,10.0,Left Foot,,Bobby Reid,Pass (Live),Andreas Pereira,Pass (Live)
+12,64,Aleksandar Mitrović,Fulham,0.04,0.23,Saved,10.0,Head,,Bobby Reid,Pass (Live),Kenny Tete,Pass (Live)
+13,64,Issa Diop,Fulham,0.03,0.44,Saved,13.0,Head,,Kenny Tete,Pass (Live),Willian,Pass (Live)
+14,67,Aleksandar Mitrović,Fulham,0.05,0.02,Saved,11.0,Head,,Andreas Pereira,Pass (Dead),Harrison Reed,Pass (Live)
+15,69,Michael Olise,Crystal Palace,0.09,,Blocked,15.0,Left Foot,,Cheick Doucouré,Pass (Live),,
+16,71,Aleksandar Mitrović,Fulham,0.02,,Blocked,13.0,Head,,Andreas Pereira,Pass (Dead),Bobby Reid,Pass (Live)
+17,71,Tim Ream,Fulham,0.1,0.35,Goal,8.0,Left Foot,Volley,Aleksandar Mitrović,Shot,,
+18,77,Andreas Pereira,Fulham,0.27,0.46,Saved,11.0,Right Foot,,Aleksandar Mitrović,Pass (Live),Tom Cairney,Pass (Live)
+19,78,Willian,Fulham,0.12,,Blocked,12.0,Right Foot,,Andreas Pereira,Pass (Live),Harrison Reed,Pass (Live)
+20,78,Aleksandar Mitrović,Fulham,0.05,0.1,Saved,12.0,Head,,Kenny Tete,Pass (Live),Harrison Reed,Pass (Live)
+21,80,Willian,Fulham,0.09,,Blocked,10.0,Right Foot,Volley,Kenny Tete,Pass (Live),Bobby Reid,Pass (Live)
+22,80,Aleksandar Mitrović,Fulham,0.45,0.94,Goal,5.0,Head,,Willian,Shot,,
+23,87,Harry Wilson,Fulham,0.08,,Off Target,12.0,Head,,Antonee Robinson,Pass (Live),Daniel James,Pass (Live)
+24,88,Tom Cairney,Fulham,0.12,,Blocked,17.0,Left Foot,,,,,
+25,90,Tom Cairney,Fulham,0.05,,Blocked,17.0,Left Foot,,Harry Wilson,Pass (Live),Kenny Tete,Pass (Live)
+26,90+3,Joachim Andersen,Crystal Palace,0.14,,Off Target,9.0,Head,,Luka Milivojević,Pass (Dead),Wilfried Zaha,Fouled
+27,90+5,Kenny Tete,Fulham,0.05,0.05,Saved,24.0,Right Foot,,Harrison Reed,Pass (Live),Antonee Robinson,Pass (Live)

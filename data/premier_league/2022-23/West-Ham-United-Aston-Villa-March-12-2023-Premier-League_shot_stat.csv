@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Nayef Aguerd,West Ham,0.39,,Off Target,9.0,Right Foot,,Declan Rice,Pass (Dead),Jarrod Bowen,Fouled
+1,13,Saïd Benrahma,West Ham,0.06,,Off Target,14.0,Left Foot,Volley,Jarrod Bowen,Pass (Live),Nayef Aguerd,Pass (Live)
+2,17,Ollie Watkins,Aston Villa,0.23,0.84,Goal,9.0,Head,,Álex Moreno,Pass (Live),Douglas Luiz,Pass (Live)
+3,20,Leon Bailey,Aston Villa,0.06,,Off Target,20.0,Left Foot,,Jacob Ramsey,Pass (Live),Emi Buendía,Pass (Live)
+4,24,Lucas Paquetá,West Ham,0.14,,Blocked,8.0,Right Foot,Volley,Jarrod Bowen,Take-On,Jarrod Bowen,Take-On
+5,26,Saïd Benrahma (pen),West Ham,0.79,0.98,Goal,13.0,Right Foot,,Lucas Paquetá,Fouled,Lucas Paquetá,Shot
+6,30,Jarrod Bowen,West Ham,0.02,,Blocked,21.0,Left Foot,,Saïd Benrahma,Pass (Live),Thilo Kehrer,Pass (Live)
+7,31,Kurt Zouma,West Ham,0.17,,Off Target,10.0,Head,,Saïd Benrahma,Pass (Live),Jarrod Bowen,Pass (Live)
+8,35,Ollie Watkins,Aston Villa,0.07,0.04,Saved,11.0,Right Foot,Volley,Leon Bailey,Pass (Live),Emi Buendía,Pass (Live)
+9,37,Saïd Benrahma,West Ham,0.02,0.03,Saved,30.0,Right Foot,,Danny Ings,Pass (Live),,
+10,40,Saïd Benrahma,West Ham,0.01,,Off Target,29.0,Right Foot,,,,,
+11,42,Ollie Watkins,Aston Villa,0.37,0.57,Saved,6.0,Right Foot,,Jacob Ramsey,Pass (Live),Álex Moreno,Pass (Live)
+12,45,Ollie Watkins,Aston Villa,0.07,,Blocked,8.0,Head,,Álex Moreno,Pass (Live),Jacob Ramsey,Pass (Live)
+13,45+1,Leon Bailey,Aston Villa,0.07,,Blocked,21.0,Right Foot,,Ollie Watkins,Pass (Live),Leon Bailey,Pass (Live)
+14,,,,,,,,,,,,,
+15,46,Saïd Benrahma,West Ham,0.08,0.1,Saved,10.0,Right Foot,Volley,Lucas Paquetá,Pass (Live),Jarrod Bowen,Take-On
+16,48,Emi Buendía,Aston Villa,0.08,,Off Target,15.0,Left Foot,,Álex Moreno,Pass (Live),John McGinn,Pass (Live)
+17,52,Saïd Benrahma,West Ham,0.02,,Off Target,22.0,Right Foot,,Lucas Paquetá,Pass (Live),Danny Ings,Pass (Live)
+18,54,John McGinn,Aston Villa,0.02,,Off Target,34.0,Left Foot,,Jacob Ramsey,Pass (Live),John McGinn,Pass (Live)
+19,56,Saïd Benrahma,West Ham,0.06,0.08,Saved,21.0,Right Foot,,Kurt Zouma,Pass (Live),Nayef Aguerd,Pass (Live)
+20,57,Lucas Paquetá,West Ham,0.05,,Blocked,12.0,Left Foot,Volley,Lucas Paquetá,Take-On,Saïd Benrahma,Shot
+21,60,Saïd Benrahma,West Ham,0.03,,Off Target,14.0,Left Foot,Volley,Thilo Kehrer,Pass (Live),Kurt Zouma,Pass (Live)
+22,61,Emerson Palmieri,West Ham,0.08,,Off Target,4.0,Right Foot,Volley,Declan Rice,Pass (Dead),Saïd Benrahma,Shot
+23,69,Saïd Benrahma,West Ham,0.07,0.05,Saved,23.0,Right Foot,,Emerson Palmieri,Pass (Live),Jarrod Bowen,Take-On
+24,71,Bertrand Traoré,Aston Villa,0.06,,Blocked,12.0,Left Foot,,John McGinn,Pass (Live),Douglas Luiz,Pass (Dead)
+25,83,Pablo Fornals,West Ham,0.17,,Off Target,13.0,Right Foot,,Jarrod Bowen,Pass (Live),Jarrod Bowen,Take-On
+26,84,Saïd Benrahma,West Ham,0.07,,Blocked,13.0,Left Foot,Volley,Pablo Fornals,Pass (Live),Tomáš Souček,Pass (Live)
+27,89,Jhon Durán,Aston Villa,0.07,,Blocked,11.0,Right Foot,,Bertrand Traoré,Pass (Live),Calum Chambers,Pass (Live)
+28,90,Ezri Konsa,Aston Villa,0.12,,Off Target,6.0,Head,,Douglas Luiz,Pass (Dead),Jhon Durán,Shot
+29,90,Jhon Durán,Aston Villa,0.36,0.08,Saved,7.0,Left Foot,Volley,Ezri Konsa,Shot,,

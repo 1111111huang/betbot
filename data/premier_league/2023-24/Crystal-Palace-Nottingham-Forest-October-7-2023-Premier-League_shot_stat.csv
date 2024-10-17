@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,15,Harry Toffolo,Nott'ham Forest,0.01,0.07,Saved,34.0,Left Foot,,Nicolás Domínguez,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+1,16,Serge Aurier,Nott'ham Forest,0.02,,Off Target,27.0,Right Foot,,Orel Mangala,Pass (Live),Orel Mangala,Pass (Live)
+2,18,Serge Aurier,Nott'ham Forest,0.01,0.08,Saved,28.0,Right Foot,,Murillo,Pass (Live),Nicolás Domínguez,Pass (Live)
+3,21,Morgan Gibbs-White,Nott'ham Forest,0.12,,Woodwork,18.0,Right Foot,Volley,Murillo,Pass (Live),Matt Turner,Pass (Live)
+4,22,Orel Mangala,Nott'ham Forest,0.08,,Off Target,17.0,Right Foot,,Ibrahim Sangaré,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+5,28,Morgan Gibbs-White,Nott'ham Forest,0.03,,Off Target,18.0,Right Foot,Volley,Chris Wood,Pass (Live),Serge Aurier,Pass (Dead)
+6,33,Jordan Ayew,Crystal Palace,0.31,,Off Target,10.0,Right Foot,Volley,Joachim Andersen,Pass (Live),Jesurun Rak Sakyi,Pass (Live)
+7,41,Jesurun Rak Sakyi,Crystal Palace,0.07,,Blocked,13.0,Left Foot,Volley,Odsonne Édouard,Pass (Live),Marc Guéhi,Pass (Live)
+8,45+2,Murillo,Nott'ham Forest,0.28,0.35,Saved,15.0,Right Foot,,Murillo,Take-On,Murillo,Take-On
+9,45+2,Murillo,Nott'ham Forest,0.2,0.04,Saved,10.0,Right Foot,Volley,Murillo,Shot,,
+10,,,,,,,,,,,,,
+11,52,Willy Boly,Nott'ham Forest,0.05,,Blocked,8.0,Head,,Morgan Gibbs-White,Pass (Dead),Ibrahim Sangaré,Fouled
+12,52,Orel Mangala,Nott'ham Forest,0.03,,Off Target,16.0,Right Foot,Volley,Willy Boly,Shot,,
+13,61,Gonzalo Montiel,Nott'ham Forest,0.03,,Blocked,13.0,Right Foot,Volley,Harry Toffolo,Pass (Live),Nicolás Domínguez,Pass (Live)
+14,61,Willy Boly,Nott'ham Forest,0.08,,Off Target,8.0,Head,,Morgan Gibbs-White,Pass (Dead),Gonzalo Montiel,Shot
+15,63,Jean-Philippe Mateta,Crystal Palace,0.21,,Off Target,16.0,Right Foot,,Odsonne Édouard,Pass (Live),Tyrick Mitchell,Pass (Live)
+16,67,Jesurun Rak Sakyi,Crystal Palace,0.08,,Blocked,11.0,Left Foot,,Jesurun Rak Sakyi,Take-On,Marc Guéhi,Pass (Live)
+17,69,Jean-Philippe Mateta,Crystal Palace,0.01,0.06,Saved,12.0,Head,,Marc Guéhi,Fouled,,
+18,70,Jordan Ayew,Crystal Palace,0.08,,Off Target,10.0,Head,,Tyrick Mitchell,Pass (Live),Will Hughes,Pass (Live)
+19,73,Jordan Ayew,Crystal Palace,0.02,0.07,Saved,30.0,Right Foot,,Tyrick Mitchell,Pass (Live),Will Hughes,Pass (Live)
+20,78,Gonzalo Montiel,Nott'ham Forest,0.06,,Blocked,21.0,Right Foot,Volley,,,,
+21,81,Nathaniel Clyne,Crystal Palace,0.03,,Off Target,18.0,Right Foot,,Tyrick Mitchell,Pass (Live),Nathaniel Clyne,Pass (Live)
+22,85,Cheikhou Kouyaté,Nott'ham Forest,0.05,,Off Target,25.0,Right Foot,,Nicolás Domínguez,Pass (Live),Cheikhou Kouyaté,Pass (Live)
+23,86,Anthony Elanga,Nott'ham Forest,0.03,,Blocked,14.0,Right Foot,Volley,Cheikhou Kouyaté,Shot,,
+24,89,Nicolás Domínguez,Nott'ham Forest,0.03,0.27,Saved,20.0,Left Foot,,Morgan Gibbs-White,Pass (Live),Nicolás Domínguez,Pass (Live)

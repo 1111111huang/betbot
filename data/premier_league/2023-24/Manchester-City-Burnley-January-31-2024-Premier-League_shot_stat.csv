@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Kevin De Bruyne,Manchester City,0.03,,Blocked,29.0,Right Foot,Free kick,Matheus Nunes,Fouled,Joško Gvardiol,Pass (Live)
+1,13,Wilson Odobert,Burnley,0.04,,Blocked,10.0,Left Foot,,Josh Brownhill,Pass (Live),Ameen Al-Dakhil,Pass (Live)
+2,15,Matheus Nunes,Manchester City,0.07,,Blocked,21.0,Right Foot,,Jeremy Doku,Pass (Live),Matheus Nunes,Pass (Live)
+3,16,Julián Álvarez,Manchester City,0.58,0.85,Goal,5.0,Head,,Matheus Nunes,Pass (Live),Phil Foden,Pass (Live)
+4,18,Kevin De Bruyne,Manchester City,0.02,,Blocked,29.0,Right Foot,,Jeremy Doku,Pass (Live),Kevin De Bruyne,Pass (Live)
+5,22,Julián Álvarez,Manchester City,0.36,0.67,Goal,11.0,Right Foot,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Fouled
+6,26,Sander Berge,Burnley,0.1,,Off Target,11.0,Left Foot,Volley,Josh Brownhill,Pass (Dead),,
+7,27,Matheus Nunes,Manchester City,0.05,0.03,Saved,14.0,Right Foot,,Rodri,Pass (Live),Jeremy Doku,Pass (Live)
+8,35,Joško Gvardiol,Manchester City,0.03,,Off Target,17.0,Right Foot,,Joško Gvardiol,Take-On,Matheus Nunes,Pass (Live)
+9,43,Lyle Foster,Burnley,0.04,,Off Target,16.0,Right Foot,,Jóhann Berg Guðmundsson,Pass (Live),Wilson Odobert,Pass (Live)
+10,,,,,,,,,,,,,
+11,46,Rodri,Manchester City,0.11,0.32,Goal,20.0,Right Foot,,Phil Foden,Pass (Live),Kevin De Bruyne,Pass (Live)
+12,47,Zeki Amdouni,Burnley,0.03,,Blocked,17.0,Right Foot,,Josh Brownhill,Pass (Live),Hjalmar Ekdal,Pass (Live)
+13,51,Phil Foden,Manchester City,0.05,,Blocked,22.0,Left Foot,,Matheus Nunes,Pass (Live),Jeremy Doku,Pass (Live)
+14,52,Zeki Amdouni,Burnley,0.2,,Off Target,16.0,Right Foot,,Jóhann Berg Guðmundsson,Pass (Live),Sander Berge,Pass (Live)
+15,54,Phil Foden,Manchester City,0.07,,Blocked,18.0,Left Foot,,Jeremy Doku,Pass (Live),Kevin De Bruyne,Pass (Dead)
+16,64,Josh Brownhill,Burnley,0.05,0.05,Saved,25.0,Right Foot,,Sander Berge,Pass (Live),Aaron Ramsey,Pass (Live)
+17,70,Kevin De Bruyne,Manchester City,0.04,,Off Target,19.0,Right Foot,,Jeremy Doku,Pass (Live),Phil Foden,Pass (Live)
+18,73,Joško Gvardiol,Manchester City,0.1,,Off Target,8.0,Head,,Jeremy Doku,Pass (Dead),,
+19,82,Hjalmar Ekdal,Burnley,0.03,0.03,Saved,20.0,Right Foot,"Deflected, Volley",,,,
+20,85,Erling Haaland,Manchester City,0.15,,Blocked,4.0,Head,,Matheus Nunes,Pass (Live),Rico Lewis,Pass (Live)
+21,85,Erling Haaland,Manchester City,0.07,,Off Target,2.0,Left Foot,Volley,Erling Haaland,Shot,,
+22,90+3,Ameen Al-Dakhil,Burnley,0.96,0.99,Goal,2.0,Left Foot,,David Datro Fofana,Take-On,Dara O'Shea,Pass (Live)

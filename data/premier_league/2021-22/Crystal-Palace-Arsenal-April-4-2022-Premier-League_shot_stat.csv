@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Jean-Philippe Mateta,Crystal Palace,0.02,,Off Target,15.0,Head,,Tyrick Mitchell,Pass (Live),Wilfried Zaha,Pass (Live)
+1,16,Jean-Philippe Mateta,Crystal Palace,0.28,0.03,Goal,9.0,Head,,Wilfried Zaha,Fouled,Jeffrey Schlupp,Pass (Live)
+2,24,Jordan Ayew,Crystal Palace,0.24,0.4,Goal,20.0,Left Foot,,Marc Guéhi,Pass (Live),Tyrick Mitchell,Pass (Dead)
+3,28,Alexandre Lacazette,Arsenal,0.1,,Off Target,8.0,Head,,Bukayo Saka,Pass (Live),Cédric Soares,Pass (Live)
+4,38,Jean-Philippe Mateta,Crystal Palace,0.05,0.06,Saved,22.0,Left Foot,,Wilfried Zaha,Pass (Live),Jeffrey Schlupp,Pass (Live)
+5,41,Martin Ødegaard,Arsenal,0.04,,Blocked,23.0,Left Foot,,Cédric Soares,Pass (Live),Emile Smith Rowe,Pass (Live)
+6,45+2,Gabriel Magalhães,Arsenal,0.13,0.13,Saved,7.0,Head,,Emile Smith Rowe,Pass (Dead),Emile Smith Rowe,Pass (Live)
+7,,,,,,,,,,,,,
+8,54,Joachim Andersen,Crystal Palace,0.13,0.49,Saved,26.0,Right Foot,Free kick,Jeffrey Schlupp,Fouled,Jeffrey Schlupp,Take-On
+9,55,Alexandre Lacazette,Arsenal,0.06,,Off Target,8.0,Head,,Gabriel Martinelli,Pass (Live),Emile Smith Rowe,Pass (Live)
+10,59,Bukayo Saka,Arsenal,0.02,,Off Target,18.0,Left Foot,,Gabriel Magalhães,Pass (Live),Granit Xhaka,Pass (Live)
+11,63,Emile Smith Rowe,Arsenal,0.16,0.16,Saved,10.0,Right Foot,,,,,
+12,67,Martin Ødegaard,Arsenal,0.22,,Off Target,13.0,Left Foot,,Eddie Nketiah,Pass (Live),Emile Smith Rowe,Pass (Live)
+13,74,Wilfried Zaha (pen),Crystal Palace,0.79,0.98,Goal,13.0,Right Foot,,Wilfried Zaha,Fouled,Wilfried Zaha,Take-On
+14,84,Eddie Nketiah,Arsenal,0.03,,Woodwork,23.0,Right Foot,,Bukayo Saka,Pass (Live),Albert Sambi Lokonga,Tackle
+15,86,Granit Xhaka,Arsenal,0.02,0.62,Saved,28.0,Left Foot,,Emile Smith Rowe,Pass (Live),Martin Ødegaard,Pass (Live)
+16,90+1,Alexandre Lacazette,Arsenal,0.01,,Off Target,25.0,Right Foot,Volley,,,,
+17,90+2,Granit Xhaka,Arsenal,0.03,,Off Target,32.0,Left Foot,,Gabriel Magalhães,Pass (Live),Martin Ødegaard,Pass (Live)
+18,90+4,Martin Ødegaard,Arsenal,0.02,,Off Target,26.0,Left Foot,,Albert Sambi Lokonga,Pass (Live),Martin Ødegaard,Pass (Live)

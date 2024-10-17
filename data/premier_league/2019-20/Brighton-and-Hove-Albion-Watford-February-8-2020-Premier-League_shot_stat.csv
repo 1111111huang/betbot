@@ -1,0 +1,17 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Solly March,Brighton,0.08,,Blocked,11.0,Right Foot,,Dan Burn,Pass (Live),Aaron Mooy,Pass (Live)
+1,3.0,Davy Pröpper,Brighton,0.04,,Blocked,17.0,Right Foot,Volley,Solly March,Pass (Dead),Solly March,Shot
+2,12.0,Glenn Murray,Brighton,0.06,0.5,Saved,9.0,Head,,Solly March,Pass (Live),Ezequiel Schelotto,Pass (Live)
+3,19.0,Abdoulaye Doucouré,Watford,0.08,0.62,Goal,17.0,Right Foot,,Étienne Capoue,Pass (Live),Étienne Capoue,Interception
+4,26.0,Aaron Mooy,Brighton,0.04,,Off Target,25.0,Right Foot,,Davy Pröpper,Pass (Live),Lewis Dunk,Pass (Live)
+5,29.0,Will Hughes,Watford,0.04,,Blocked,22.0,Left Foot,,Gerard Deulofeu,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+6,31.0,Troy Deeney,Watford,0.03,0.05,Saved,14.0,Head,,Will Hughes,Pass (Dead),Will Hughes,Pass (Dead)
+7,31.0,Ezequiel Schelotto,Brighton,0.05,,Blocked,14.0,Right Foot,,Solly March,Take-On,Leandro Trossard,Pass (Live)
+8,42.0,Glenn Murray,Brighton,0.03,,Off Target,25.0,Right Foot,,Davy Pröpper,Pass (Live),Shane Duffy,Pass (Live)
+9,45.0,Leandro Trossard,Brighton,0.02,,Off Target,27.0,Right Foot,,Lewis Dunk,Pass (Live),Leandro Trossard,Pass (Live)
+10,,,,,,,,,,,,,
+11,57.0,Gerard Deulofeu,Watford,0.06,,Off Target,18.0,Right Foot,,Gerard Deulofeu,Take-On,Abdoulaye Doucouré,Pass (Live)
+12,69.0,Lewis Dunk,Brighton,0.07,,Off Target,10.0,Head,,Aaron Mooy,Pass (Live),Leandro Trossard,Pass (Live)
+13,76.0,Abdoulaye Doucouré,Watford,0.03,,Off Target,30.0,Right Foot,,Will Hughes,Pass (Live),Adrian Mariappa,Pass (Dead)
+14,77.0,Aaron Mooy,Brighton,0.28,0.47,Saved,12.0,Left Foot,,Neal Maupay,Pass (Live),Leandro Trossard,Pass (Live)
+15,90.0,Leandro Trossard,Brighton,0.1,,Off Target,8.0,Right Foot,,Steven Alzate,Pass (Live),Lewis Dunk,Pass (Live)

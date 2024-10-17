@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Eric Dier,Tottenham,0.06,,Off Target,32.0,Right Foot,Free kick,Harry Kane,Fouled,Son Heung-min,Pass (Live)
+1,6,Bukayo Saka,Arsenal,0.03,,Off Target,25.0,Right Foot,,Héctor Bellerín,Pass (Live),Alexandre Lacazette,Fouled
+2,11,Thomas Partey,Arsenal,0.03,,Off Target,29.0,Right Foot,,Kieran Tierney,Take-On,Alexandre Lacazette,Pass (Live)
+3,13,Son Heung-min,Tottenham,0.03,0.57,Goal,27.0,Right Foot,,Harry Kane,Pass (Live),Harry Kane,Take-On
+4,26,Pierre Højbjerg,Tottenham,0.03,0.03,Saved,31.0,Right Foot,,Eric Dier,Pass (Live),Moussa Sissoko,Pass (Live)
+5,29,Harry Kane,Tottenham,0.04,,Blocked,18.0,Right Foot,,Steven Bergwijn,Pass (Live),Eric Dier,Pass (Live)
+6,39,Thomas Partey,Arsenal,0.03,,Off Target,27.0,Right Foot,Volley,Granit Xhaka,Pass (Live),Bukayo Saka,Pass (Dead)
+7,44,Alexandre Lacazette,Arsenal,0.09,,Blocked,24.0,Right Foot,Free kick,Alexandre Lacazette,Fouled,Willian,Pass (Live)
+8,45+1,Harry Kane,Tottenham,0.12,0.26,Goal,9.0,Left Foot,,Son Heung-min,Pass (Live),Giovani Lo Celso,Pass (Live)
+9,,,,,,,,,,,,,
+10,47,Alexandre Lacazette,Arsenal,0.07,0.03,Saved,8.0,Head,,Bukayo Saka,Pass (Dead),Willian,Fouled
+11,49,Pierre-Emerick Aubameyang,Arsenal,0.05,,Off Target,11.0,Head,,Kieran Tierney,Pass (Live),Granit Xhaka,Pass (Live)
+12,62,Willian,Arsenal,0.1,,Off Target,10.0,Left Foot,,Granit Xhaka,Pass (Live),Dani Ceballos,Pass (Live)
+13,68,Alexandre Lacazette,Arsenal,0.05,0.11,Saved,11.0,Head,,Héctor Bellerín,Pass (Live),Willian,Pass (Live)
+14,83,Bukayo Saka,Arsenal,0.07,,Off Target,6.0,Head,,Willian,Pass (Live),Gabriel Magalhães,Pass (Live)
+15,84,Pierre-Emerick Aubameyang,Arsenal,0.06,,Blocked,13.0,Left Foot,,Alexandre Lacazette,Pass (Live),,
+16,88,Alexandre Lacazette,Arsenal,0.04,,Off Target,21.0,Left Foot,,Dani Ceballos,Pass (Live),Gabriel Magalhães,Pass (Live)

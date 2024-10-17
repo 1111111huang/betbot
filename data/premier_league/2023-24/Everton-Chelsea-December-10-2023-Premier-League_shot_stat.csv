@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Benoît Badiashile,Chelsea,0.02,,Off Target,13.0,Head,,Mykhailo Mudryk,Pass (Dead),Marc Cucurella,Pass (Live)
+1,14,Cole Palmer,Chelsea,0.02,0.5,Saved,28.0,Left Foot,,Conor Gallagher,Pass (Live),Mykhailo Mudryk,Pass (Dead)
+2,25,Jack Harrison,Everton,0.06,,Off Target,22.0,Left Foot,Volley,Dominic Calvert-Lewin,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+3,38,Armando Broja,Chelsea,0.1,,Off Target,9.0,Right Foot,,Mykhailo Mudryk,Pass (Live),Levi Colwill,Pass (Live)
+4,40,Cole Palmer,Chelsea,0.04,,Off Target,23.0,Left Foot,,Armando Broja,Pass (Live),Cole Palmer,Pass (Live)
+5,42,Cole Palmer,Chelsea,0.02,,Blocked,23.0,Left Foot,,Conor Gallagher,Pass (Live),Enzo Fernández,Pass (Live)
+6,45+4,Abdoulaye Doucouré,Everton,0.03,,Blocked,14.0,Right Foot,Volley,James Garner,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+7,,,,,,,,,,,,,
+8,48,Levi Colwill,Chelsea,0.07,,Off Target,11.0,Left Foot,,Mykhailo Mudryk,Pass (Live),Levi Colwill,Pass (Live)
+9,49,Enzo Fernández,Chelsea,0.06,0.22,Saved,26.0,Right Foot,,Cole Palmer,Pass (Live),Cole Palmer,Take-On
+10,50,Dwight McNeil,Everton,0.08,0.27,Saved,21.0,Left Foot,,Jack Harrison,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+11,50,Vitaliy Mykolenko,Everton,0.06,,Off Target,21.0,Right Foot,,Dwight McNeil,Shot,,
+12,54,Dominic Calvert-Lewin,Everton,0.79,0.56,Saved,12.0,Right Foot,,Dwight McNeil,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+13,54,Abdoulaye Doucouré,Everton,0.13,0.44,Goal,15.0,Right Foot,,Dominic Calvert-Lewin,Shot,,
+14,60,Cole Palmer,Chelsea,0.1,0.06,Saved,21.0,Left Foot,Free kick,Armando Broja,Fouled,Cole Palmer,Pass (Live)
+15,65,Enzo Fernández,Chelsea,0.15,,Blocked,12.0,Right Foot,,Levi Colwill,Pass (Live),Benoît Badiashile,Pass (Live)
+16,66,Cole Palmer,Chelsea,0.02,,Off Target,25.0,Left Foot,,Marc Cucurella,Pass (Live),Conor Gallagher,Pass (Live)
+17,67,Nicolas Jackson,Chelsea,0.07,,Off Target,15.0,Right Foot,,Mykhailo Mudryk,Pass (Live),Conor Gallagher,Pass (Live)
+18,75,Abdoulaye Doucouré,Everton,0.03,,Blocked,16.0,Right Foot,,Amadou Onana,Pass (Live),James Tarkowski,Interception
+19,75,Beto,Everton,0.05,0.27,Saved,12.0,Head,,Jack Harrison,Pass (Live),Amadou Onana,Pass (Live)
+20,76,Marc Cucurella,Chelsea,0.02,0.03,Saved,24.0,Left Foot,,Raheem Sterling,Pass (Live),Marc Cucurella,Pass (Live)
+21,77,Raheem Sterling,Chelsea,0.04,,Blocked,13.0,Left Foot,,Cole Palmer,Pass (Live),Conor Gallagher,Pass (Live)
+22,79,Nicolas Jackson,Chelsea,0.15,,Blocked,9.0,Right Foot,,Cole Palmer,Pass (Live),Conor Gallagher,Tackle
+23,80,Mykhailo Mudryk,Chelsea,0.05,,Blocked,20.0,Right Foot,,Levi Colwill,Pass (Live),Cole Palmer,Pass (Live)
+24,89,Conor Gallagher,Chelsea,0.01,,Blocked,24.0,Right Foot,,Mykhailo Mudryk,Pass (Dead),Conor Gallagher,Pass (Live)
+25,90+2,Lewis Dobbin,Everton,0.1,0.07,Goal,17.0,Left Foot,,,,,

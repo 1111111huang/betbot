@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7.0,Dominic Solanke,Bournemouth,0.06,,Blocked,10.0,Head,,Ryan Christie,Pass (Dead),,
+1,15.0,Michael Olise,Crystal Palace,0.04,,Off Target,23.0,Left Foot,,Wilfried Zaha,Pass (Live),Wilfried Zaha,Take-On
+2,18.0,Dominic Solanke,Bournemouth,0.04,,Blocked,16.0,Left Foot,,Philip Billing,Pass (Live),Dominic Solanke,Pass (Live)
+3,25.0,Jordan Ayew,Crystal Palace,0.14,,Off Target,9.0,Head,,Joel Ward,Pass (Live),Michael Olise,Pass (Live)
+4,26.0,Wilfried Zaha,Crystal Palace,0.21,,Off Target,5.0,Right Foot,Volley,Michael Olise,Pass (Live),Joel Ward,Pass (Live)
+5,30.0,Cheick Doucouré,Crystal Palace,0.06,,Blocked,21.0,Right Foot,,Michael Olise,Pass (Dead),Wilfried Zaha,Pass (Live)
+6,33.0,Will Hughes,Crystal Palace,0.05,,Blocked,23.0,Left Foot,Volley,Michael Olise,Pass (Live),Wilfried Zaha,Pass (Live)
+7,33.0,Marc Guéhi,Crystal Palace,0.04,,Off Target,10.0,Head,,Joel Ward,Pass (Live),Will Hughes,Shot
+8,36.0,Dango Ouattara,Bournemouth,0.02,,Blocked,34.0,Left Foot,,Ryan Christie,Pass (Live),Ryan Christie,Take-On
+9,37.0,Marc Guéhi,Crystal Palace,0.04,,Blocked,9.0,Head,,Eberechi Eze,Pass (Dead),Jordan Ayew,Fouled
+10,37.0,Michael Olise,Crystal Palace,0.02,,Blocked,20.0,Left Foot,,Marc Guéhi,Shot,,
+11,39.0,Eberechi Eze,Crystal Palace,0.53,0.72,Goal,9.0,Left Foot,,Jordan Ayew,Pass (Live),Wilfried Zaha,Pass (Live)
+12,42.0,Wilfried Zaha,Crystal Palace,0.03,,Off Target,20.0,Right Foot,,Joachim Andersen,Pass (Live),Joachim Andersen,Tackle
+13,,,,,,,,,,,,,
+14,47.0,Will Hughes,Crystal Palace,0.04,0.14,Saved,20.0,Left Foot,Volley,Joel Ward,Pass (Live),Michael Olise,Pass (Dead)
+15,53.0,Michael Olise,Crystal Palace,0.04,,Off Target,18.0,Left Foot,,Marc Guéhi,Pass (Live),Jordan Ayew,Pass (Live)
+16,56.0,Eberechi Eze,Crystal Palace,0.13,0.04,Saved,8.0,Head,,Michael Olise,Pass (Live),Eberechi Eze,Pass (Live)
+17,58.0,Ryan Christie,Bournemouth,0.15,,Blocked,5.0,Head,,Jefferson Lerma,Pass (Live),Joe Rothwell,Pass (Dead)
+18,58.0,Eberechi Eze,Crystal Palace,0.05,0.53,Goal,20.0,Right Foot,,Michael Olise,Pass (Live),Jordan Ayew,Take-On
+19,68.0,Joel Ward,Crystal Palace,0.04,,Blocked,10.0,Head,,Michael Olise,Pass (Dead),,
+20,70.0,Michael Olise,Crystal Palace,0.03,0.03,Saved,21.0,Left Foot,,Cheick Doucouré,Pass (Live),Michael Olise,Pass (Live)
+21,79.0,Jaïro Riedewald,Crystal Palace,0.07,,Off Target,15.0,Left Foot,,Joel Ward,Fouled,Cheick Doucouré,Pass (Live)
+22,86.0,Lewis Cook,Bournemouth,0.04,,Off Target,33.0,Right Foot,Free kick,David Brooks,Fouled,David Brooks,Pass (Live)

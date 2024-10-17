@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Rodrigo,Leeds United,0.04,,Blocked,15.0,Left Foot,,Brenden Aaronson,Pass (Live),Rasmus Kristensen,Pass (Live)
+1,12,Rodrigo,Leeds United,0.03,,Blocked,26.0,Right Foot,,Rodrigo,Pass (Live),Tyler Adams,Pass (Live)
+2,15,Ollie Watkins,Aston Villa,0.09,0.03,Saved,12.0,Left Foot,,Philippe Coutinho,Pass (Live),,
+3,15,Philippe Coutinho,Aston Villa,0.31,0.8,Saved,5.0,Left Foot,,Ollie Watkins,Shot,,
+4,18,Liam Cooper,Leeds United,0.08,,Off Target,10.0,Head,,Brenden Aaronson,Pass (Dead),Jack Harrison,Pass (Live)
+5,18,Philippe Coutinho,Aston Villa,0.05,0.11,Saved,23.0,Right Foot,,Ollie Watkins,Pass (Live),Tyrone Mings,Pass (Live)
+6,23,Rodrigo,Leeds United,0.05,,Off Target,25.0,Left Foot,,Marc Roca,Pass (Live),Liam Cooper,Pass (Live)
+7,29,Jacob Ramsey,Aston Villa,0.03,,Blocked,25.0,Right Foot,,,,,
+8,36,John McGinn,Aston Villa,0.02,,Blocked,33.0,Left Foot,,,,,
+9,41,Ollie Watkins,Aston Villa,0.22,,Blocked,13.0,Right Foot,Deflected,Ashley Young,Pass (Live),Jacob Ramsey,Pass (Live)
+10,45,Leon Bailey,Aston Villa,0.08,0.02,Saved,17.0,Right Foot,,Jacob Ramsey,Pass (Live),Douglas Luiz,Pass (Live)
+11,,,,,,,,,,,,,
+12,50,Philippe Coutinho,Aston Villa,0.07,,Woodwork,12.0,Right Foot,Volley,Leon Bailey,Pass (Live),Jacob Ramsey,Pass (Live)
+13,50,Ollie Watkins,Aston Villa,0.51,,Off Target,10.0,Right Foot,Volley,Philippe Coutinho,Shot,,
+14,60,Jacob Ramsey,Aston Villa,0.04,,Off Target,24.0,Right Foot,,Ashley Young,Pass (Live),Philippe Coutinho,Pass (Live)
+15,72,Emi Buendía,Aston Villa,0.02,,Off Target,31.0,Right Foot,,Jacob Ramsey,Pass (Live),Philippe Coutinho,Pass (Live)
+16,73,Ezri Konsa,Aston Villa,0.36,,Off Target,3.0,Head,,Douglas Luiz,Pass (Dead),Philippe Coutinho,Take-On
+17,74,Philippe Coutinho,Aston Villa,0.06,,Off Target,14.0,Left Foot,,Ashley Young,Pass (Live),Emi Buendía,Pass (Live)
+18,76,Ollie Watkins,Aston Villa,0.04,0.03,Saved,17.0,Right Foot,,Ollie Watkins,Take-On,Ashley Young,Pass (Live)
+19,77,Ollie Watkins,Aston Villa,0.09,,Off Target,11.0,Head,,Ashley Young,Pass (Live),Ashley Young,Take-On
+20,78,Patrick Bamford,Leeds United,0.1,0.04,Saved,13.0,Left Foot,,Junior Firpo,Pass (Live),Pascal Struijk,Pass (Live)
+21,85,John McGinn,Aston Villa,0.04,,Blocked,27.0,Left Foot,,Douglas Luiz,Pass (Live),Ollie Watkins,Pass (Live)
+22,89,Ollie Watkins,Aston Villa,0.25,0.33,Saved,11.0,Left Foot,,Emi Buendía,Pass (Live),Philippe Coutinho,Pass (Live)
+23,90+2,John McGinn,Aston Villa,0.02,,Off Target,33.0,Left Foot,,,,,
+24,90+3,Mateusz Klich,Leeds United,0.07,,Blocked,11.0,Right Foot,,Patrick Bamford,Pass (Live),,
+25,90+5,Tyrone Mings,Aston Villa,0.02,,Blocked,19.0,Left Foot,,Danny Ings,Pass (Live),Tyrone Mings,Pass (Live)

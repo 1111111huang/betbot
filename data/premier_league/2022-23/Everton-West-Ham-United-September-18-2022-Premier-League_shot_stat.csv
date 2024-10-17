@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,12.0,Amadou Onana,Everton,0.11,,Off Target,8.0,Head,,Demarai Gray,Pass (Dead),Demarai Gray,Fouled
+1,22.0,Aaron Cresswell,West Ham,0.04,,Blocked,24.0,Right Foot,Volley,Lucas Paquetá,Pass (Live),Pablo Fornals,Pass (Live)
+2,23.0,Vitaliy Mykolenko,Everton,0.02,,Off Target,29.0,Left Foot,,Neal Maupay,Fouled,Nathan Patterson,Pass (Dead)
+3,24.0,Michail Antonio,West Ham,0.02,,Blocked,21.0,Right Foot,,Lucas Paquetá,Pass (Live),Aaron Cresswell,Pass (Dead)
+4,27.0,Lucas Paquetá,West Ham,0.06,0.28,Saved,15.0,Head,,Jarrod Bowen,Pass (Dead),Jarrod Bowen,Pass (Live)
+5,45.0,Kurt Zouma,West Ham,0.03,0.03,Saved,17.0,Head,,Aaron Cresswell,Pass (Live),Pablo Fornals,Pass (Live)
+6,,,,,,,,,,,,,
+7,48.0,Jarrod Bowen,West Ham,0.1,,Off Target,14.0,Left Foot,Volley,Pablo Fornals,Pass (Live),Aaron Cresswell,Pass (Live)
+8,50.0,Demarai Gray,Everton,0.07,0.1,Saved,18.0,Right Foot,,Alex Iwobi,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+9,53.0,Neal Maupay,Everton,0.05,0.2,Goal,18.0,Right Foot,,Alex Iwobi,Pass (Live),Demarai Gray,Pass (Live)
+10,54.0,Michail Antonio,West Ham,0.14,0.04,Saved,11.0,Head,,Jarrod Bowen,Pass (Live),Tomáš Souček,Pass (Live)
+11,56.0,Neal Maupay,Everton,0.06,,Blocked,23.0,Left Foot,,Demarai Gray,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+12,57.0,Jarrod Bowen,West Ham,0.05,,Blocked,11.0,Left Foot,,Vladimír Coufal,Pass (Dead),,
+13,60.0,Jarrod Bowen,West Ham,0.08,,Blocked,16.0,Left Foot,,Michail Antonio,Pass (Live),Pablo Fornals,Pass (Live)
+14,67.0,Jarrod Bowen,West Ham,0.02,,Blocked,19.0,Left Foot,Volley,Vladimír Coufal,Pass (Dead),,
+15,68.0,Tomáš Souček,West Ham,0.03,,Off Target,9.0,Head,,Aaron Cresswell,Pass (Dead),Declan Rice,Pass (Live)
+16,68.0,Kurt Zouma,West Ham,0.11,,Blocked,8.0,Head,,Jarrod Bowen,Pass (Dead),Tomáš Souček,Shot
+17,74.0,Saïd Benrahma,West Ham,0.03,,Blocked,29.0,Left Foot,,Tomáš Souček,Interception,,
+18,77.0,Alex Iwobi,Everton,0.03,,Off Target,22.0,Right Foot,,Idrissa Gana Gueye,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+19,84.0,Maxwel Cornet,West Ham,0.07,0.14,Saved,14.0,Left Foot,,Declan Rice,Pass (Live),Saïd Benrahma,Pass (Live)
+20,87.0,Alex Iwobi,Everton,0.02,,Off Target,32.0,Right Foot,,Vitaliy Mykolenko,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+21,87.0,Maxwel Cornet,West Ham,0.26,,Off Target,4.0,Left Foot,,,,,

@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,David McGoldrick,Sheffield Utd,0.49,0.69,Goal,8.0,Right Foot,,Oliver Burke,Pass (Live),,
+1,16,John Fleck,Sheffield Utd,0.06,,Off Target,18.0,Left Foot,,Oliver Burke,Pass (Live),Chris Basham,Pass (Live)
+2,23,Marcus Rashford,Manchester Utd,0.03,,Off Target,17.0,Head,,Bruno Fernandes,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+3,26,Marcus Rashford,Manchester Utd,0.05,0.06,Goal,20.0,Right Foot,Deflected,Victor Lindelöf,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+4,27,Anthony Martial,Manchester Utd,0.02,0.05,Saved,31.0,Right Foot,,Paul Pogba,Pass (Live),Marcus Rashford,Pass (Live)
+5,30,Chris Basham,Sheffield Utd,0.17,,Off Target,5.0,Head,,David McGoldrick,Pass (Live),John Fleck,Pass (Live)
+6,33,Anthony Martial,Manchester Utd,0.41,0.93,Saved,11.0,Right Foot,Volley,Paul Pogba,Pass (Live),Bruno Fernandes,Pass (Live)
+7,33,Anthony Martial,Manchester Utd,0.37,0.31,Goal,6.0,Right Foot,,Anthony Martial,Shot,,
+8,35,Marcus Rashford,Manchester Utd,0.37,0.25,Saved,12.0,Left Foot,,Anthony Martial,Pass (Live),Paul Pogba,Tackle
+9,37,David McGoldrick,Sheffield Utd,0.16,0.25,Saved,5.0,Left Foot,,David McGoldrick,Take-On,John Fleck,Pass (Live)
+10,43,David McGoldrick,Sheffield Utd,0.04,,Off Target,18.0,Right Foot,,John Fleck,Pass (Live),Ethan Ampadu,Pass (Live)
+11,43,Oliver Burke,Sheffield Utd,0.05,0.06,Saved,13.0,Right Foot,,Ethan Ampadu,Pass (Live),John Fleck,Pass (Live)
+12,45,David McGoldrick,Sheffield Utd,0.02,,Off Target,32.0,Left Foot,,David McGoldrick,Take-On,Ethan Ampadu,Pass (Live)
+13,,,,,,,,,,,,,
+14,47,Anthony Martial,Manchester Utd,0.04,,Off Target,16.0,Head,,Alex Telles,Pass (Dead),Mason Greenwood,Fouled
+15,49,Mason Greenwood,Manchester Utd,0.05,,Blocked,17.0,Left Foot,,Marcus Rashford,Pass (Live),Marcus Rashford,Take-On
+16,51,Marcus Rashford,Manchester Utd,0.06,0.04,Goal,21.0,Right Foot,,Anthony Martial,Pass (Live),Bruno Fernandes,Pass (Live)
+17,56,Bruno Fernandes,Manchester Utd,0.02,,Off Target,27.0,Right Foot,Volley,Alex Telles,Pass (Dead),Paul Pogba,Pass (Live)
+18,67,Mason Greenwood,Manchester Utd,0.04,0.12,Saved,18.0,Right Foot,,,,,
+19,71,Marcus Rashford,Manchester Utd,0.06,,Blocked,32.0,Right Foot,Free kick,Bruno Fernandes,Fouled,Paul Pogba,Pass (Live)
+20,73,Nemanja Matić,Manchester Utd,0.02,,Off Target,24.0,Left Foot,Volley,Bruno Fernandes,Fouled,Alex Telles,Pass (Dead)
+21,75,Anthony Martial,Manchester Utd,0.46,,Blocked,10.0,Right Foot,,,,,
+22,77,Lys Mousset,Sheffield Utd,0.02,0.06,Saved,32.0,Right Foot,,David McGoldrick,Pass (Live),John Fleck,Pass (Live)
+23,78,Juan Mata,Manchester Utd,0.08,0.03,Saved,15.0,Left Foot,"Deflected, Volley",Anthony Martial,Pass (Live),Bruno Fernandes,Pass (Live)
+24,83,Rhian Brewster,Sheffield Utd,0.1,,Blocked,23.0,Right Foot,Free kick,,Fouled,Lys Mousset,Pass (Live)
+25,84,John Egan,Sheffield Utd,0.05,,Off Target,14.0,Head,,George Baldock,Pass (Live),David McGoldrick,Pass (Live)
+26,87,David McGoldrick,Sheffield Utd,0.25,0.33,Goal,4.0,Head,,,,,
+27,90+1,Lys Mousset,Sheffield Utd,0.07,0.08,Saved,16.0,Right Foot,Volley,Rhian Brewster,Pass (Live),Aaron Ramsdale,Pass (Live)

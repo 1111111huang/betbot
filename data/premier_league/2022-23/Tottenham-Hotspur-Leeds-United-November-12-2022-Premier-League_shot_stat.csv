@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10.0,Crysencio Summerville,Leeds United,0.19,0.76,Goal,11.0,Left Foot,,Brenden Aaronson,Pass (Live),Rasmus Kristensen,Pass (Live)
+1,13.0,Emerson,Tottenham,0.13,0.22,Saved,10.0,Right Foot,,Dejan Kulusevski,Pass (Live),Emerson,Pass (Live)
+2,14.0,Dejan Kulusevski,Tottenham,0.03,,Blocked,15.0,Left Foot,,Dejan Kulusevski,Take-On,Ben Davies,Pass (Live)
+3,18.0,Emerson,Tottenham,0.47,,Off Target,11.0,Right Foot,,Ben Davies,Pass (Live),Richarlison,Pass (Live)
+4,20.0,Crysencio Summerville,Leeds United,0.23,0.45,Saved,11.0,Right Foot,,Brenden Aaronson,Pass (Live),Marc Roca,Pass (Live)
+5,25.0,Harry Kane,Tottenham,0.25,0.59,Goal,9.0,Right Foot,,Harry Kane,Pass (Live),Pierre Højbjerg,Pass (Live)
+6,27.0,Dejan Kulusevski,Tottenham,0.02,0.03,Saved,13.0,Left Foot,,Harry Kane,Pass (Dead),Hugo Lloris,Pass (Live)
+7,32.0,Richarlison,Tottenham,0.07,,Blocked,17.0,Right Foot,,Harry Kane,Pass (Live),Emerson,Pass (Live)
+8,40.0,Rodrigo,Leeds United,0.11,,Blocked,23.0,Left Foot,Free kick,Brenden Aaronson,Fouled,Wilfried Gnonto,Pass (Live)
+9,40.0,Marc Roca,Leeds United,0.03,0.02,Saved,28.0,Right Foot,,Rodrigo,Shot,,
+10,43.0,Rodrigo,Leeds United,0.1,0.27,Goal,17.0,Left Foot,Volley,Rasmus Kristensen,Pass (Live),Liam Cooper,Pass (Live)
+11,45.0,Richarlison,Tottenham,0.06,0.3,Saved,10.0,Right Foot,,,,,
+12,,,,,,,,,,,,,
+13,51.0,Harry Kane,Tottenham,0.13,,Blocked,10.0,Right Foot,,Dejan Kulusevski,Pass (Live),Dejan Kulusevski,Pass (Live)
+14,51.0,Ben Davies,Tottenham,0.08,0.05,Goal,22.0,Left Foot,Deflected,Harry Kane,Shot,,
+15,54.0,Rasmus Kristensen,Leeds United,0.03,,Blocked,10.0,Head,,Sam Greenwood,Pass (Dead),Brenden Aaronson,Fouled
+16,54.0,Brenden Aaronson,Leeds United,0.05,,Off Target,12.0,Head,,Rasmus Kristensen,Shot,,
+17,60.0,Sam Greenwood,Leeds United,0.12,,Off Target,22.0,Right Foot,Free kick,Crysencio Summerville,Fouled,Marc Roca,Pass (Live)
+18,61.0,Brenden Aaronson,Leeds United,0.05,,Blocked,16.0,Right Foot,,Brenden Aaronson,Take-On,Pascal Struijk,Pass (Live)
+19,62.0,Pascal Struijk,Leeds United,0.02,,Blocked,13.0,Head,,Sam Greenwood,Pass (Dead),Rasmus Kristensen,Pass (Live)
+20,63.0,Dejan Kulusevski,Tottenham,0.15,,Off Target,16.0,Left Foot,,Richarlison,Pass (Live),Pierre Højbjerg,Pass (Live)
+21,74.0,Crysencio Summerville,Leeds United,0.04,,Blocked,18.0,Right Foot,,Pascal Struijk,Pass (Live),Liam Cooper,Pass (Live)
+22,76.0,Rodrigo,Leeds United,0.13,0.91,Goal,15.0,Left Foot,,Marc Roca,Pass (Live),Liam Cooper,Pass (Live)
+23,78.0,Yves Bissouma,Tottenham,0.04,,Off Target,26.0,Right Foot,,Dejan Kulusevski,Pass (Live),Davinson Sánchez,Pass (Live)
+24,81.0,Rodrigo Bentancur,Tottenham,0.11,0.06,Goal,17.0,Right Foot,Deflected,Ben Davies,Pass (Live),Eric Dier,Pass (Live)
+25,83.0,Rodrigo Bentancur,Tottenham,0.24,0.6,Goal,8.0,Left Foot,,Dejan Kulusevski,Pass (Live),Dejan Kulusevski,Take-On
+26,85.0,Harry Kane,Tottenham,0.05,,Blocked,20.0,Right Foot,,Dejan Kulusevski,Pass (Live),,

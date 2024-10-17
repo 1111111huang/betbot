@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Gabriel Magalhães,Arsenal,0.12,0.05,Saved,5.0,Head,,Declan Rice,Pass (Dead),Bukayo Saka,Pass (Live)
+1,10,Kai Havertz,Arsenal,0.05,0.1,Saved,9.0,Head,Deflected,Declan Rice,Pass (Live),Bukayo Saka,Pass (Live)
+2,11,Bukayo Saka,Arsenal,0.04,,Blocked,29.0,Left Foot,,Martin Ødegaard,Pass (Live),Declan Rice,Pass (Live)
+3,19,Jarrod Bowen,West Ham,0.03,,Blocked,30.0,Left Foot,,,,,
+4,20,Bukayo Saka,Arsenal,0.03,,Off Target,24.0,Left Foot,,Bukayo Saka,Take-On,Kai Havertz,Pass (Live)
+5,22,Leandro Trossard,Arsenal,0.25,,Off Target,9.0,Head,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+6,23,Leandro Trossard,Arsenal,0.19,0.1,Saved,10.0,Right Foot,Volley,Gabriel Martinelli,Pass (Live),Bukayo Saka,Pass (Live)
+7,24,Leandro Trossard,Arsenal,0.04,,Off Target,15.0,Right Foot,Volley,William Saliba,Pass (Live),Bukayo Saka,Pass (Live)
+8,26,Bukayo Saka,Arsenal,0.05,,Blocked,14.0,Left Foot,,Martin Ødegaard,Pass (Live),Gabriel Magalhães,Pass (Live)
+9,28,Martin Ødegaard,Arsenal,0.05,,Blocked,21.0,Left Foot,,Bukayo Saka,Pass (Live),Declan Rice,Pass (Live)
+10,32,William Saliba,Arsenal,0.25,0.32,Goal,4.0,Head,,Declan Rice,Pass (Dead),Kai Havertz,Pass (Live)
+11,35,Bukayo Saka,Arsenal,0.12,,Off Target,8.0,Head,,Jakub Kiwior,Pass (Live),Gabriel Martinelli,Pass (Live)
+12,37,Bukayo Saka,Arsenal,0.33,,Off Target,6.0,Left Foot,,Martin Ødegaard,Pass (Live),Leandro Trossard,Pass (Live)
+13,41,Bukayo Saka (pen),Arsenal,0.79,0.95,Goal,13.0,Left Foot,,Bukayo Saka,Fouled,Leandro Trossard,Pass (Live)
+14,44,Gabriel Magalhães,Arsenal,0.31,0.46,Goal,5.0,Head,,Declan Rice,Pass (Dead),Leandro Trossard,Fouled
+15,45+2,Leandro Trossard,Arsenal,0.06,0.59,Goal,16.0,Right Foot,,Martin Ødegaard,Pass (Live),Kai Havertz,Pass (Live)
+16,,,,,,,,,,,,,
+17,47,Leandro Trossard,Arsenal,0.21,,Off Target,16.0,Left Foot,,Gabriel Martinelli,Pass (Live),Kai Havertz,Pass (Live)
+18,49,Gabriel Martinelli,Arsenal,0.06,,Off Target,12.0,Head,,Bukayo Saka,Pass (Live),Declan Rice,Pass (Live)
+19,50,Kai Havertz,Arsenal,0.03,,Off Target,28.0,Left Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+20,52,Mohammed Kudus,West Ham,0.03,,Blocked,27.0,Left Foot,,Vladimír Coufal,Pass (Live),Mohammed Kudus,Pass (Live)
+21,52,Ben Johnson,West Ham,0.04,,Blocked,27.0,Right Foot,,Mohammed Kudus,Shot,,
+22,58,Bukayo Saka,Arsenal,0.18,0.25,Saved,14.0,Left Foot,,Kai Havertz,Pass (Live),Martin Ødegaard,Pass (Live)
+23,59,Gabriel Martinelli,Arsenal,0.08,,Blocked,14.0,Right Foot,Deflected,Kai Havertz,Pass (Live),Martin Ødegaard,Pass (Live)
+24,63,Bukayo Saka,Arsenal,0.19,0.61,Goal,15.0,Left Foot,,Martin Ødegaard,Pass (Live),Declan Rice,Pass (Live)
+25,65,Declan Rice,Arsenal,0.03,0.33,Goal,30.0,Right Foot,,Ben White,Pass (Live),Gabriel Martinelli,Pass (Live)
+26,72,Mohamed Elneny,Arsenal,0.06,0.06,Saved,24.0,Right Foot,,Martin Ødegaard,Pass (Live),,
+27,74,Eddie Nketiah,Arsenal,0.07,0.02,Saved,16.0,Right Foot,,Gabriel Martinelli,Pass (Live),Kai Havertz,Pass (Live)
+28,82,Mohamed Elneny,Arsenal,0.02,,Off Target,28.0,Right Foot,,Ethan Nwaneri,Pass (Live),Kai Havertz,Pass (Live)
+29,82,Mohammed Kudus,West Ham,0.09,0.2,Saved,4.0,Left Foot,,Mohammed Kudus,Take-On,Jarrod Bowen,Pass (Live)
+30,82,Jarrod Bowen,West Ham,0.04,,Blocked,12.0,Left Foot,,Mohammed Kudus,Shot,,

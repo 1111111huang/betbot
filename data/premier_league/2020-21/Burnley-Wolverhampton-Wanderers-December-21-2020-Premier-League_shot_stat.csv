@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Rayan Aït-Nouri,Wolves,0.04,,Blocked,18.0,Right Foot,,Rayan Aït-Nouri,Take-On,Rúben Neves,Pass (Live)
+1,8,Pedro Neto,Wolves,0.11,,Blocked,23.0,Left Foot,Free kick,João Moutinho,Pass (Dead),Owen Otasowie,Fouled
+2,10,Ashley Barnes,Burnley,0.05,,Off Target,19.0,Right Foot,Volley,Chris Wood,Pass (Live),James Tarkowski,Pass (Live)
+3,15,Chris Wood,Burnley,0.14,,Off Target,8.0,Left Foot,Volley,Dwight McNeil,Pass (Live),Nick Pope,Pass (Dead)
+4,19,Romain Saïss,Wolves,0.03,,Off Target,14.0,Head,,Rayan Aït-Nouri,Pass (Live),João Moutinho,Pass (Live)
+5,23,Pedro Neto,Wolves,0.04,0.07,Saved,19.0,Left Foot,,Rúben Neves,Pass (Live),,
+6,25,Matthew Lowton,Burnley,0.02,,Off Target,31.0,Right Foot,,Charlie Taylor,Fouled,Ben Mee,Pass (Live)
+7,28,Ashley Barnes,Burnley,0.05,0.21,Saved,14.0,Right Foot,,Nick Pope,Pass (Live),Robbie Brady,Pass (Live)
+8,35,Ashley Barnes,Burnley,0.12,0.12,Goal,3.0,Head,Deflected,Charlie Taylor,Pass (Live),Chris Wood,Pass (Live)
+9,37,Rúben Neves,Wolves,0.06,,Blocked,29.0,Right Foot,Free kick,Owen Otasowie,Fouled,João Moutinho,Pass (Live)
+10,38,Rúben Neves,Wolves,0.01,,Off Target,30.0,Right Foot,Volley,Daniel Podence,Pass (Live),João Moutinho,Pass (Dead)
+11,39,Josh Brownhill,Burnley,0.08,,Off Target,26.0,Right Foot,Free kick,Ashley Barnes,Fouled,Nick Pope,Pass (Dead)
+12,44,Romain Saïss,Wolves,0.02,,Blocked,33.0,Left Foot,,Rúben Neves,Pass (Live),Pedro Neto,Pass (Live)
+13,,,,,,,,,,,,,
+14,50,Josh Brownhill,Burnley,0.03,,Woodwork,27.0,Right Foot,,,,,
+15,51,Chris Wood,Burnley,0.74,0.93,Goal,4.0,Right Foot,Volley,Robbie Brady,Fouled,,
+16,61,Pedro Neto,Wolves,0.06,,Off Target,8.0,Head,,Adama Traoré,Pass (Live),Conor Coady,Pass (Live)
+17,65,Chris Wood,Burnley,0.42,0.35,Saved,12.0,Left Foot,,Chris Wood,Take-On,Ashley Westwood,Pass (Live)
+18,68,Ashley Barnes,Burnley,0.08,,Blocked,12.0,Right Foot,Volley,Robbie Brady,Pass (Live),Ashley Barnes,Pass (Live)
+19,73,Rúben Neves,Wolves,0.02,0.18,Saved,29.0,Right Foot,Volley,,,,
+20,75,Rúben Neves,Wolves,0.04,,Blocked,19.0,Right Foot,,Adama Traoré,Take-On,Nélson Semedo,Pass (Live)
+21,79,Daniel Podence,Wolves,0.1,,Blocked,10.0,Left Foot,,Daniel Podence,Take-On,Daniel Podence,Take-On
+22,84,Fábio Silva,Wolves,0.08,,Off Target,9.0,Right Foot,Volley,Adama Traoré,Pass (Live),Vitinha,Pass (Live)
+23,86,Nélson Semedo,Wolves,0.04,,Blocked,22.0,Left Foot,,Daniel Podence,Pass (Live),Romain Saïss,Pass (Dead)
+24,89,Fábio Silva (pen),Wolves,0.79,0.99,Goal,13.0,Right Foot,,Fábio Silva,Fouled,João Moutinho,Pass (Live)
+25,90+5,Romain Saïss,Wolves,0.04,,Off Target,9.0,Left Foot,Volley,Adama Traoré,Pass (Live),Conor Coady,Pass (Live)

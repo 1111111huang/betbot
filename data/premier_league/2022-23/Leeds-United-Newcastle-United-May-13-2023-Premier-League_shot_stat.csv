@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Joelinton,Newcastle Utd,0.04,,Off Target,28.0,Right Foot,,,,,
+1,7,Rodrigo,Leeds United,0.16,0.16,Saved,10.0,Head,,Jack Harrison,Pass (Live),Patrick Bamford,Pass (Live)
+2,7,Luke Ayling,Leeds United,0.87,0.98,Goal,3.0,Left Foot,,Rodrigo,Shot,,
+3,11,Callum Wilson,Newcastle Utd,0.04,0.13,Saved,10.0,Left Foot,Deflected,Dan Burn,Pass (Dead),,
+4,15,Miguel Almirón,Newcastle Utd,0.02,,Off Target,13.0,Left Foot,,Joe Willock,Pass (Live),Alexander Isak,Pass (Live)
+5,21,Alexander Isak,Newcastle Utd,0.04,,Blocked,20.0,Right Foot,,Joe Willock,Pass (Live),Kieran Trippier,Pass (Live)
+6,28,Patrick Bamford (pen),Leeds United,0.79,0.99,Saved,13.0,Left Foot,,Junior Firpo,Fouled,Sam Greenwood,Pass (Live)
+7,31,Callum Wilson (pen),Newcastle Utd,0.79,0.99,Goal,13.0,Right Foot,,Alexander Isak,Fouled,Bruno Guimarães,Pass (Live)
+8,34,Dan Burn,Newcastle Utd,0.02,,Off Target,28.0,Right Foot,Volley,Miguel Almirón,Pass (Live),Bruno Guimarães,Pass (Live)
+9,38,Fabian Schär,Newcastle Utd,0.12,,Off Target,7.0,Head,,Kieran Trippier,Pass (Dead),Bruno Guimarães,Pass (Live)
+10,44,Sam Greenwood,Leeds United,0.07,,Off Target,22.0,Right Foot,,Patrick Bamford,Pass (Live),Rasmus Kristensen,Pass (Live)
+11,45+1,Miguel Almirón,Newcastle Utd,0.04,,Off Target,19.0,Left Foot,,Joelinton,Pass (Live),Bruno Guimarães,Pass (Live)
+12,,,,,,,,,,,,,
+13,48,Joelinton,Newcastle Utd,0.01,,Off Target,12.0,Head,,Callum Wilson,Fouled,Alexander Isak,Pass (Live)
+14,51,Callum Wilson,Newcastle Utd,0.04,,Blocked,18.0,Right Foot,Volley,Bruno Guimarães,Pass (Live),Bruno Guimarães,Take-On
+15,52,Callum Wilson,Newcastle Utd,0.06,,Off Target,10.0,Head,,Kieran Trippier,Pass (Dead),Callum Wilson,Shot
+16,56,Fabian Schär,Newcastle Utd,0.07,,Blocked,9.0,Head,Deflected,Kieran Trippier,Pass (Dead),Bruno Guimarães,Pass (Live)
+17,56,Fabian Schär,Newcastle Utd,0.05,,Blocked,14.0,Right Foot,Volley,Miguel Almirón,Pass (Live),Joe Willock,Pass (Live)
+18,56,Patrick Bamford,Leeds United,0.03,,Blocked,16.0,Right Foot,,Rodrigo,Pass (Live),Weston McKennie,Pass (Live)
+19,63,Weston McKennie,Leeds United,0.11,,Off Target,15.0,Left Foot,Volley,Robin Koch,Pass (Live),Robin Koch,Pass (Live)
+20,69,Callum Wilson (pen),Newcastle Utd,0.79,0.94,Goal,13.0,Right Foot,,,Fouled,Dan Burn,Pass (Live)
+21,71,Joe Willock,Newcastle Utd,0.01,,Blocked,25.0,Right Foot,,Callum Wilson,Pass (Live),Alexander Isak,Pass (Live)
+22,79,Patrick Bamford,Leeds United,0.06,,Blocked,11.0,Left Foot,Deflected,Wilfried Gnonto,Pass (Live),Adam Forshaw,Pass (Dead)
+23,79,Rasmus Kristensen,Leeds United,0.03,0.06,Goal,19.0,Right Foot,"Deflected, Volley",Patrick Bamford,Shot,,
+24,81,Patrick Bamford,Leeds United,0.03,,Off Target,9.0,Other,,Adam Forshaw,Pass (Dead),Wilfried Gnonto,Fouled
+25,86,Allan Saint-Maximin,Newcastle Utd,0.03,0.02,Saved,18.0,Right Foot,,Bruno Guimarães,Pass (Live),Anthony Gordon,Pass (Live)
+26,90+3,Kieran Trippier,Newcastle Utd,0.09,,Blocked,22.0,Right Foot,Free kick,Anthony Gordon,Fouled,Dan Burn,Pass (Live)
+27,90+7,Fabian Schär,Newcastle Utd,0.03,0.01,Saved,26.0,Left Foot,Volley,Elliot Anderson,Pass (Live),Fabian Schär,Pass (Live)

@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Neal Maupay,Brighton,0.93,0.95,Goal,1.0,Head,,Dan Burn,Pass (Live),Dale Stephens,Pass (Live)
+1,10,Dale Stephens,Brighton,0.04,,Blocked,19.0,Right Foot,,Aaron Mooy,Pass (Dead),Aaron Connolly,Fouled
+2,10,Aaron Connolly,Brighton,0.03,,Blocked,14.0,Head,,Pascal Groß,Pass (Dead),Dale Stephens,Shot
+3,26,Christian Eriksen,Tottenham,0.02,0.02,Saved,33.0,Right Foot,,Eric Dier,Pass (Live),,
+4,32,Aaron Connolly,Brighton,0.16,0.06,Saved,7.0,Right Foot,,Dan Burn,Pass (Live),Aaron Mooy,Pass (Live)
+5,32,Aaron Connolly,Brighton,0.8,0.99,Goal,4.0,Right Foot,Deflected,Aaron Connolly,Shot,,
+6,35,Pascal Groß,Brighton,0.03,,Blocked,24.0,Right Foot,,Neal Maupay,Pass (Live),Aaron Connolly,Pass (Live)
+7,36,Aaron Connolly,Brighton,0.08,,Off Target,14.0,Right Foot,,Pascal Groß,Pass (Live),Martín Montoya,Pass (Live)
+8,42,Martín Montoya,Brighton,0.04,,Blocked,23.0,Right Foot,Volley,Dan Burn,Take-On,Aaron Mooy,Pass (Live)
+9,42,Aaron Mooy,Brighton,0.03,,Off Target,29.0,Left Foot,,Aaron Connolly,Pass (Live),Dale Stephens,Pass (Live)
+10,43,Aaron Connolly,Brighton,0.04,,Blocked,22.0,Right Foot,,Neal Maupay,Pass (Live),Martín Montoya,Pass (Live)
+11,44,Érik Lamela,Tottenham,0.07,,Off Target,14.0,Right Foot,,Harry Kane,Pass (Live),Son Heung-min,Pass (Live)
+12,45+5,Neal Maupay,Brighton,0.02,0.02,Saved,29.0,Right Foot,,Dan Burn,Pass (Live),Lewis Dunk,Pass (Live)
+13,,,,,,,,,,,,,
+14,54,Neal Maupay,Brighton,0.08,,Blocked,13.0,Right Foot,,Adam Webster,Pass (Live),Steven Alzate,Pass (Live)
+15,55,Dan Burn,Brighton,0.04,,Blocked,20.0,Right Foot,,Aaron Connolly,Pass (Live),Pascal Groß,Pass (Live)
+16,58,Christian Eriksen,Tottenham,0.05,,Blocked,33.0,Right Foot,Free kick,Érik Lamela,Fouled,Toby Alderweireld,Pass (Live)
+17,62,Dale Stephens,Brighton,0.03,,Off Target,19.0,Right Foot,Volley,Pascal Groß,Pass (Dead),Dan Burn,Pass (Live)
+18,63,Pascal Groß,Brighton,0.07,,Woodwork,23.0,Right Foot,Free kick,Aaron Mooy,Fouled,Pascal Groß,Pass (Live)
+19,65,Aaron Connolly,Brighton,0.04,0.56,Goal,19.0,Right Foot,,Lewis Dunk,Pass (Live),Mathew Ryan,Pass (Live)
+20,68,Christian Eriksen,Tottenham,0.02,,Off Target,26.0,Left Foot,Volley,Harry Winks,Pass (Live),Son Heung-min,Pass (Live)
+21,71,Harry Kane,Tottenham,0.07,,Off Target,13.0,Left Foot,,Érik Lamela,Pass (Live),Son Heung-min,Pass (Live)
+22,82,Lucas Moura,Tottenham,0.12,0.04,Saved,11.0,Left Foot,,Lucas Moura,Take-On,Érik Lamela,Pass (Live)
+23,85,Pascal Groß,Brighton,0.07,0.03,Saved,19.0,Left Foot,,Neal Maupay,Pass (Live),Dale Stephens,Pass (Live)
+24,86,Lucas Moura,Tottenham,0.03,0.29,Saved,28.0,Right Foot,,Harry Kane,Pass (Live),Érik Lamela,Pass (Live)
+25,87,Érik Lamela,Tottenham,0.03,,Blocked,26.0,Left Foot,,Lucas Moura,Pass (Live),Toby Alderweireld,Pass (Live)

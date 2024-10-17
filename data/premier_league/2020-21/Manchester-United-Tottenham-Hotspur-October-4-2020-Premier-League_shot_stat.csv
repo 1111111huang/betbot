@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Bruno Fernandes (pen),Manchester Utd,0.79,0.97,Goal,13.0,Right Foot,,Anthony Martial,Fouled,Bruno Fernandes,Pass (Live)
+1,4,Tanguy Ndombele,Tottenham,0.5,0.9,Goal,8.0,Left Foot,Deflected,,,,
+2,6,Mason Greenwood,Manchester Utd,0.03,0.32,Saved,28.0,Right Foot,,Bruno Fernandes,Pass (Live),,
+3,7,Son Heung-min,Tottenham,0.1,0.73,Goal,10.0,Left Foot,,Harry Kane,Pass (Dead),Harry Kane,Fouled
+4,13,Érik Lamela,Tottenham,0.07,,Blocked,24.0,Left Foot,Free kick,,Fouled,Serge Aurier,Pass (Live)
+5,15,Harry Kane,Tottenham,0.03,,Blocked,23.0,Right Foot,,Tanguy Ndombele,Pass (Live),Pierre Højbjerg,Pass (Live)
+6,21,Mason Greenwood,Manchester Utd,0.04,,Blocked,22.0,Left Foot,,Nemanja Matić,Pass (Live),,
+7,23,Mason Greenwood,Manchester Utd,0.03,,Off Target,25.0,Right Foot,,Marcus Rashford,Pass (Live),Paul Pogba,Pass (Live)
+8,26,Serge Aurier,Tottenham,0.09,0.05,Saved,14.0,Left Foot,,Serge Aurier,Take-On,Harry Kane,Pass (Live)
+9,27,Érik Lamela,Tottenham,0.08,,Blocked,14.0,Left Foot,,Serge Aurier,Pass (Live),Tanguy Ndombele,Pass (Live)
+10,28,Davinson Sánchez,Tottenham,0.37,,Blocked,5.0,Right Foot,,Sergio Reguilón,Shot,,
+11,28,Sergio Reguilón,Tottenham,0.04,,Off Target,15.0,Left Foot,,Érik Lamela,Shot,,
+12,28,Tanguy Ndombele,Tottenham,0.1,,Blocked,9.0,Left Foot,,Sergio Reguilón,Pass (Live),Davinson Sánchez,Shot
+13,30,Pierre Højbjerg,Tottenham,0.01,,Off Target,35.0,Right Foot,,Son Heung-min,Pass (Live),Sergio Reguilón,Pass (Dead)
+14,30,Harry Kane,Tottenham,0.34,0.85,Goal,13.0,Right Foot,,Son Heung-min,Pass (Live),Moussa Sissoko,Pass (Live)
+15,37,Son Heung-min,Tottenham,0.34,0.51,Goal,4.0,Right Foot,,Moussa Sissoko,Pass (Live),,
+16,45+1,Harry Kane,Tottenham,0.08,,Off Target,6.0,Head,,Son Heung-min,Pass (Dead),Érik Lamela,Pass (Live)
+17,,,,,,,,,,,,,
+18,47,Serge Aurier,Tottenham,0.04,,Blocked,16.0,Right Foot,,Harry Kane,Pass (Live),Tanguy Ndombele,Pass (Live)
+19,51,Serge Aurier,Tottenham,0.24,0.86,Goal,10.0,Right Foot,,Pierre Højbjerg,Pass (Live),Lucas Moura,Pass (Live)
+20,54,Paul Pogba,Manchester Utd,0.06,,Off Target,13.0,Head,,Luke Shaw,Pass (Dead),Luke Shaw,Fouled
+21,55,Harry Kane,Tottenham,0.03,,Off Target,24.0,Right Foot,,Sergio Reguilón,Pass (Live),Harry Kane,Pass (Live)
+22,57,Tanguy Ndombele,Tottenham,0.04,,Off Target,19.0,Right Foot,,Sergio Reguilón,Pass (Live),Son Heung-min,Pass (Live)
+23,72,Harry Kane,Tottenham,0.08,0.23,Saved,18.0,Right Foot,,Son Heung-min,Pass (Live),Pierre Højbjerg,Pass (Live)
+24,72,Dele Alli,Tottenham,0.08,,Off Target,8.0,Head,,Son Heung-min,Pass (Dead),Harry Kane,Shot
+25,75,Sergio Reguilón,Tottenham,0.02,,Blocked,32.0,Left Foot,,Pierre Højbjerg,Pass (Live),,
+26,79,Harry Kane (pen),Tottenham,0.79,1.0,Goal,13.0,Right Foot,,Ben Davies,Fouled,Ben Davies,Take-On
+27,90,Harry Kane,Tottenham,0.04,,Blocked,22.0,Left Foot,,Moussa Sissoko,Pass (Live),Lucas Moura,Pass (Live)

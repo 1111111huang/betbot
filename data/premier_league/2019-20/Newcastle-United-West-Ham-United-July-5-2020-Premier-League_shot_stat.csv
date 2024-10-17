@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Michail Antonio,West Ham,0.59,0.93,Goal,5.0,Right Foot,,Pablo Fornals,Pass (Live),Michail Antonio,Pass (Live)
+1,8.0,Jonjo Shelvey,Newcastle Utd,0.04,,Blocked,31.0,Right Foot,,Jonjo Shelvey,Take-On,Joelinton,Pass (Live)
+2,10.0,Dwight Gayle,Newcastle Utd,0.07,0.21,Saved,29.0,Right Foot,"Free kick, Deflected",Dwight Gayle,Fouled,,
+3,11.0,Pablo Fornals,West Ham,0.03,,Blocked,26.0,Right Foot,,Manuel Lanzini,Pass (Live),Manuel Lanzini,Take-On
+4,11.0,Michail Antonio,West Ham,0.06,0.03,Saved,8.0,Right Foot,Volley,Declan Rice,Pass (Live),Manuel Lanzini,Pass (Live)
+5,13.0,Miguel Almirón,Newcastle Utd,0.08,,Blocked,13.0,Left Foot,,Dwight Gayle,Pass (Live),Joelinton,Pass (Live)
+6,17.0,Miguel Almirón,Newcastle Utd,0.63,0.95,Goal,5.0,Left Foot,,Emil Krafth,Pass (Live),Allan Saint-Maximin,Pass (Live)
+7,19.0,Allan Saint-Maximin,Newcastle Utd,0.01,,Off Target,34.0,Right Foot,,Jonjo Shelvey,Pass (Dead),,
+8,32.0,Aaron Cresswell,West Ham,0.03,,Off Target,25.0,Left Foot,,Declan Rice,Pass (Live),,
+9,32.0,Jarrod Bowen,West Ham,0.53,0.53,Saved,8.0,Right Foot,,Aaron Cresswell,Shot,,
+10,32.0,Declan Rice,West Ham,0.03,,Blocked,30.0,Right Foot,Volley,Jarrod Bowen,Shot,,
+11,36.0,Manuel Lanzini,West Ham,0.05,,Blocked,13.0,Head,,Ryan Fredericks,Pass (Live),Pablo Fornals,Pass (Live)
+12,38.0,Issa Diop,West Ham,0.03,0.13,Saved,13.0,Head,,Declan Rice,Pass (Live),Aaron Cresswell,Pass (Live)
+13,39.0,Allan Saint-Maximin,Newcastle Utd,0.04,0.02,Saved,28.0,Right Foot,,Allan Saint-Maximin,Take-On,Jonjo Shelvey,Pass (Live)
+14,45.0,Jarrod Bowen,West Ham,0.06,,Off Target,8.0,Head,,Aaron Cresswell,Pass (Live),Declan Rice,Pass (Live)
+15,,,,,,,,,,,,,
+16,47.0,Jamaal Lascelles,Newcastle Utd,0.08,,Off Target,9.0,Head,,Jonjo Shelvey,Pass (Dead),Miguel Almirón,Pass (Live)
+17,48.0,Miguel Almirón,Newcastle Utd,0.03,,Off Target,32.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Jonjo Shelvey,Pass (Live)
+18,50.0,Issa Diop,West Ham,0.07,,Off Target,10.0,Head,,Michail Antonio,Pass (Dead),Tomáš Souček,Pass (Live)
+19,59.0,Miguel Almirón,Newcastle Utd,0.05,,Off Target,14.0,Left Foot,,Jonjo Shelvey,Pass (Live),Joelinton,Pass (Live)
+20,65.0,Declan Rice,West Ham,0.1,,Woodwork,4.0,Head,,Jarrod Bowen,Pass (Dead),Declan Rice,Pass (Live)
+21,65.0,Tomáš Souček,West Ham,0.21,0.56,Goal,7.0,Left Foot,Volley,Declan Rice,Shot,,
+22,67.0,Jonjo Shelvey,Newcastle Utd,0.35,0.91,Goal,10.0,Left Foot,,Dwight Gayle,Pass (Live),Jonjo Shelvey,Pass (Live)
+23,74.0,Nabil Bentaleb,Newcastle Utd,0.02,,Off Target,31.0,Left Foot,,Federico Fernández,Pass (Live),Matt Ritchie,Pass (Live)
+24,81.0,Tomáš Souček,West Ham,0.06,0.05,Saved,11.0,Head,,Andriy Yarmolenko,Pass (Live),Mark Noble,Pass (Live)
+25,84.0,Andriy Yarmolenko,West Ham,0.05,0.04,Saved,28.0,Left Foot,,Tomáš Souček,Pass (Live),Andriy Yarmolenko,Pass (Live)
+26,84.0,Jarrod Bowen,West Ham,0.04,,Blocked,18.0,Right Foot,,Andriy Yarmolenko,Shot,,
+27,87.0,Tomáš Souček,West Ham,0.13,,Off Target,10.0,Right Foot,,Issa Diop,Pass (Live),Michail Antonio,Pass (Live)
+28,89.0,Angelo Ogbonna,West Ham,0.03,,Off Target,14.0,Head,,Mark Noble,Pass (Dead),Michail Antonio,Pass (Live)

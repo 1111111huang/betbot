@@ -1,0 +1,17 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,Jeremy Doku,Manchester City,0.02,,Off Target,17.0,Right Foot,,Phil Foden,Pass (Live),Phil Foden,Take-On
+1,7.0,Julián Álvarez,Manchester City,0.23,0.56,Goal,12.0,Left Foot,,Jeremy Doku,Pass (Live),Jeremy Doku,Take-On
+2,12.0,Joško Gvardiol,Manchester City,0.03,0.03,Saved,26.0,Right Foot,,Joško Gvardiol,Take-On,Bernardo Silva,Pass (Live)
+3,12.0,Kaoru Mitoma,Brighton,0.05,0.04,Saved,10.0,Left Foot,,Kaoru Mitoma,Take-On,Carlos Baleba,Pass (Live)
+4,19.0,Erling Haaland,Manchester City,0.07,0.31,Goal,22.0,Left Foot,,,,,
+5,26.0,Jeremy Doku,Manchester City,0.06,,Off Target,13.0,Right Foot,,Bernardo Silva,Pass (Live),Phil Foden,Pass (Live)
+6,,,,,,,,,,,,,
+7,52.0,Pascal Groß,Brighton,0.14,,Off Target,11.0,Right Foot,,Simon Adingra,Pass (Live),,
+8,60.0,Julián Álvarez,Manchester City,0.05,,Off Target,24.0,Right Foot,Free kick,John Stones,Fouled,Julián Álvarez,Pass (Live)
+9,61.0,Phil Foden,Manchester City,0.02,,Off Target,13.0,Left Foot,,Jeremy Doku,Pass (Live),Phil Foden,Pass (Live)
+10,67.0,Erling Haaland,Manchester City,0.2,0.04,Saved,11.0,Left Foot,,Phil Foden,Pass (Live),Bernardo Silva,Pass (Live)
+11,69.0,Kaoru Mitoma,Brighton,0.31,0.21,Saved,25.0,Left Foot,,Ansu Fati,Pass (Live),Lewis Dunk,Pass (Live)
+12,70.0,Kaoru Mitoma,Brighton,0.12,,Off Target,3.0,Head,,Solly March,Pass (Dead),Ansu Fati,Pass (Live)
+13,71.0,Jeremy Doku,Manchester City,0.04,0.03,Saved,14.0,Right Foot,,Phil Foden,Pass (Live),,
+14,73.0,Julián Álvarez,Manchester City,0.05,,Blocked,36.0,Right Foot,,Manuel Akanji,Pass (Live),Bernardo Silva,Pass (Live)
+15,73.0,Ansu Fati,Brighton,0.2,0.71,Goal,11.0,Right Foot,,Kaoru Mitoma,Take-On,Ansu Fati,Pass (Live)

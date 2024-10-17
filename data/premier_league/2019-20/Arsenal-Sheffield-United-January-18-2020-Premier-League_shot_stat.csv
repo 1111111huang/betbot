@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Nicolas Pépé,Arsenal,0.06,0.21,Saved,17.0,Left Foot,Volley,Mesut Özil,Pass (Live),Granit Xhaka,Pass (Live)
+1,8,Lys Mousset,Sheffield Utd,0.05,,Off Target,13.0,Head,,Enda Stevens,Pass (Live),,
+2,9,Lys Mousset,Sheffield Utd,0.13,,Off Target,7.0,Head,,Jack O'Connell,Pass (Live),John Fleck,Pass (Dead)
+3,13,Gabriel Martinelli,Arsenal,0.06,,Off Target,9.0,Left Foot,Volley,Nicolas Pépé,Pass (Live),Alexandre Lacazette,Pass (Live)
+4,21,Gabriel Martinelli,Arsenal,0.07,,Off Target,13.0,Right Foot,,Nicolas Pépé,Pass (Live),Nicolas Pépé,Take-On
+5,29,Oliver Norwood,Sheffield Utd,0.03,,Off Target,32.0,Right Foot,Volley,John Fleck,Pass (Live),Enda Stevens,Pass (Live)
+6,32,Lucas Torreira,Arsenal,0.02,0.02,Saved,32.0,Right Foot,,Mesut Özil,Pass (Live),Bukayo Saka,Pass (Live)
+7,36,Jack O'Connell,Sheffield Utd,0.03,,Off Target,25.0,Left Foot,,Enda Stevens,Pass (Dead),,
+8,45,Gabriel Martinelli,Arsenal,0.86,0.95,Goal,3.0,Right Foot,Volley,Alexandre Lacazette,Pass (Live),Mesut Özil,Pass (Live)
+9,,,,,,,,,,,,,
+10,51,David Luiz,Arsenal,0.02,,Off Target,32.0,Right Foot,,Mesut Özil,Pass (Dead),Bukayo Saka,Fouled
+11,54,Nicolas Pépé,Arsenal,0.03,,Blocked,24.0,Left Foot,,Alexandre Lacazette,Pass (Live),Mesut Özil,Pass (Live)
+12,56,Oliver McBurnie,Sheffield Utd,0.12,,Blocked,7.0,Head,,John Fleck,Pass (Dead),George Baldock,Pass (Live)
+13,64,John Lundstram,Sheffield Utd,0.04,,Off Target,19.0,Right Foot,Volley,,,,
+14,70,Chris Basham,Sheffield Utd,0.06,,Off Target,9.0,Right Foot,,Callum Robinson,Pass (Live),Enda Stevens,Pass (Live)
+15,73,Alexandre Lacazette,Arsenal,0.09,,Off Target,26.0,Right Foot,Free kick,Lucas Torreira,Fouled,Bukayo Saka,Pass (Live)
+16,76,Eddie Nketiah,Arsenal,0.04,,Off Target,15.0,Right Foot,Volley,Ainsley Maitland-Niles,Pass (Live),Ainsley Maitland-Niles,Take-On
+17,78,Nicolas Pépé,Arsenal,0.06,,Blocked,19.0,Left Foot,,Eddie Nketiah,Pass (Live),Lucas Torreira,Pass (Live)
+18,81,Oliver McBurnie,Sheffield Utd,0.1,0.05,Saved,8.0,Head,,Oliver Norwood,Pass (Dead),Muhamed Bešić,Pass (Live)
+19,83,John Fleck,Sheffield Utd,0.06,0.73,Goal,13.0,Left Foot,"Deflected, Volley",Muhamed Bešić,Pass (Live),Enda Stevens,Pass (Live)
+20,90,Oliver McBurnie,Sheffield Utd,0.09,,Blocked,11.0,Left Foot,,Callum Robinson,Pass (Live),John Fleck,Pass (Live)
+21,90,John Fleck,Sheffield Utd,0.07,,Blocked,14.0,Left Foot,,Oliver McBurnie,Shot,,
+22,90+2,Muhamed Bešić,Sheffield Utd,0.02,0.18,Saved,24.0,Left Foot,,George Baldock,Fouled,,
+23,90+3,Shkodran Mustafi,Arsenal,0.05,0.53,Saved,11.0,Head,,Mesut Özil,Pass (Dead),,

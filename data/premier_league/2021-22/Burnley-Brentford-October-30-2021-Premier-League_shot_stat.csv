@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Chris Wood,Burnley,0.04,0.41,Goal,19.0,Right Foot,Volley,Dwight McNeil,Pass (Live),Ashley Westwood,Pass (Live)
+1,8.0,Chris Wood,Burnley,0.14,0.25,Saved,9.0,Head,,Matthew Lowton,Pass (Live),Maxwel Cornet,Pass (Live)
+2,27.0,Ivan Toney,Brentford,0.18,0.05,Saved,11.0,Right Foot,,Sergi Canós,Pass (Live),Ethan Pinnock,Pass (Live)
+3,28.0,Sergi Canós,Brentford,0.07,,Blocked,16.0,Right Foot,Volley,Ivan Toney,Shot,,
+4,29.0,Jóhann Berg Guðmundsson,Burnley,0.54,0.55,Saved,18.0,Left Foot,,Ashley Westwood,Pass (Live),,
+5,30.0,James Tarkowski,Burnley,0.52,,Off Target,3.0,Head,,Ashley Westwood,Pass (Dead),Jóhann Berg Guðmundsson,Shot
+6,32.0,Matthew Lowton,Burnley,0.36,0.74,Goal,6.0,Head,,Charlie Taylor,Pass (Live),Maxwel Cornet,Pass (Live)
+7,36.0,Maxwel Cornet,Burnley,0.2,0.54,Goal,20.0,Right Foot,,Dwight McNeil,Pass (Live),Ashley Westwood,Pass (Live)
+8,41.0,Jóhann Berg Guðmundsson,Burnley,0.2,,Off Target,10.0,Right Foot,,Maxwel Cornet,Pass (Live),Chris Wood,Pass (Live)
+9,41.0,Chris Wood,Burnley,0.23,,Blocked,5.0,Left Foot,,Jóhann Berg Guðmundsson,Shot,,
+10,43.0,Ben Mee,Burnley,0.2,,Off Target,8.0,Head,,Chris Wood,Shot,,
+11,44.0,Chris Wood,Burnley,0.02,,Off Target,31.0,Left Foot,,Josh Brownhill,Pass (Live),Ashley Westwood,Pass (Live)
+12,,,,,,,,,,,,,
+13,49.0,Chris Wood,Burnley,0.1,,Off Target,6.0,Head,,Matthew Lowton,Pass (Live),Jóhann Berg Guðmundsson,Pass (Live)
+14,50.0,Christian Nørgaard,Brentford,0.02,0.23,Saved,23.0,Right Foot,Volley,Frank Onyeka,Pass (Live),Ivan Toney,Pass (Live)
+15,55.0,Ivan Toney,Brentford,0.1,,Blocked,9.0,Right Foot,Volley,Christian Nørgaard,Pass (Live),Mathias Jensen,Pass (Live)
+16,55.0,Frank Onyeka,Brentford,0.02,,Blocked,26.0,Right Foot,,Ivan Toney,Shot,,
+17,55.0,Ivan Toney,Brentford,0.08,,Off Target,7.0,Right Foot,,Frank Onyeka,Shot,,
+18,61.0,Matthew Lowton,Burnley,0.02,,Off Target,30.0,Right Foot,,,,,
+19,62.0,Dwight McNeil,Burnley,0.05,,Off Target,27.0,Left Foot,,Jóhann Berg Guðmundsson,Pass (Live),James Tarkowski,Pass (Live)
+20,65.0,Marcus Forss,Brentford,0.1,,Blocked,10.0,Left Foot,,Mathias Jensen,Pass (Dead),Saman Ghoddos,Pass (Live)
+21,67.0,Christian Nørgaard,Brentford,0.04,,Off Target,25.0,Right Foot,,Mathias Jensen,Pass (Live),Rico Henry,Pass (Live)
+22,72.0,Charlie Taylor,Burnley,0.02,,Off Target,22.0,Left Foot,Volley,Charlie Taylor,Fouled,Jóhann Berg Guðmundsson,Pass (Live)
+23,74.0,Ivan Toney,Brentford,0.03,,Off Target,26.0,Left Foot,,Saman Ghoddos,Pass (Live),Sergi Canós,Pass (Live)
+24,76.0,Dwight McNeil,Burnley,0.04,,Off Target,34.0,Left Foot,Free kick,Dwight McNeil,Fouled,Chris Wood,Pass (Live)
+25,79.0,Saman Ghoddos,Brentford,0.08,0.5,Goal,15.0,Right Foot,Volley,Christian Nørgaard,Pass (Live),Vitaly Janelt,Pass (Live)
+26,86.0,Saman Ghoddos,Brentford,0.11,,Blocked,25.0,Right Foot,Free kick,Rico Henry,Fouled,Saman Ghoddos,Pass (Live)
+27,86.0,Vitaly Janelt,Brentford,0.02,0.03,Saved,25.0,Left Foot,"Deflected, Volley",Saman Ghoddos,Shot,,

@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Pedro,Chelsea,0.07,,Blocked,15.0,Left Foot,,Mason Mount,Pass (Live),Reece James,Pass (Live)
+1,6,Michail Antonio,West Ham,0.09,,Off Target,9.0,Right Foot,Volley,Aaron Cresswell,Pass (Live),Angelo Ogbonna,Pass (Live)
+2,8,Mason Mount,Chelsea,0.03,0.12,Saved,26.0,Left Foot,,Mateo Kovačić,Pass (Live),Mateo Kovačić,Take-On
+3,9,Christian Pulisic,Chelsea,0.28,,Off Target,7.0,Head,,Pedro,Pass (Live),Jorginho,Pass (Live)
+4,15,Mason Mount,Chelsea,0.04,,Blocked,18.0,Right Foot,,Jorginho,Pass (Live),Fikayo Tomori,Pass (Live)
+5,17,Pedro,Chelsea,0.1,0.08,Saved,10.0,Left Foot,"Deflected, Volley",Jorginho,Pass (Live),Mateo Kovačić,Pass (Live)
+6,21,Christian Pulisic,Chelsea,0.07,,Blocked,9.0,Right Foot,,Christian Pulisic,Pass (Live),Christian Pulisic,Take-On
+7,23,Kurt Zouma,Chelsea,0.2,,Off Target,6.0,Head,,Emerson Palmieri,Pass (Dead),Reece James,Take-On
+8,24,Michail Antonio,West Ham,0.29,0.19,Saved,9.0,Head,,Robert Snodgrass,Pass (Live),Felipe Anderson,Pass (Live)
+9,28,Kurt Zouma,Chelsea,0.05,0.02,Saved,9.0,Head,Deflected,Mason Mount,Pass (Dead),Christian Pulisic,Pass (Live)
+10,33,Christian Pulisic,Chelsea,0.05,,Off Target,9.0,Head,,Emerson Palmieri,Pass (Dead),,
+11,43,Mateo Kovačić,Chelsea,0.03,0.12,Saved,25.0,Right Foot,,Christian Pulisic,Pass (Live),Reece James,Pass (Live)
+12,43,Olivier Giroud,Chelsea,0.56,0.65,Saved,6.0,Left Foot,,Mateo Kovačić,Shot,,
+13,45+2,Christian Pulisic,Chelsea,0.55,,Off Target,5.0,Left Foot,,,,,
+14,,,,,,,,,,,,,
+15,48,Aaron Cresswell,West Ham,0.06,0.52,Goal,14.0,Right Foot,,Pablo Fornals,Pass (Live),Felipe Anderson,Pass (Live)
+16,57,Olivier Giroud,Chelsea,0.07,,Off Target,10.0,Head,,Mason Mount,Pass (Dead),Mateo Kovačić,Pass (Live)
+17,59,Fabián Balbuena,West Ham,0.06,0.22,Saved,11.0,Head,Deflected,Robert Snodgrass,Pass (Dead),,
+18,60,Michail Antonio,West Ham,0.46,0.67,Saved,4.0,Right Foot,Volley,Robert Snodgrass,Pass (Dead),Fabián Balbuena,Shot
+19,65,Mason Mount,Chelsea,0.02,,Blocked,28.0,Right Foot,,Emerson Palmieri,Pass (Live),Mason Mount,Pass (Live)
+20,72,Callum Hudson-Odoi,Chelsea,0.03,,Off Target,20.0,Right Foot,,Fikayo Tomori,Pass (Live),Reece James,Pass (Live)
+21,81,Emerson Palmieri,Chelsea,0.03,,Blocked,32.0,Left Foot,,Mateo Kovačić,Pass (Live),Reece James,Pass (Live)
+22,82,Reece James,Chelsea,0.03,,Off Target,28.0,Right Foot,,Mateo Kovačić,Pass (Live),Emerson Palmieri,Pass (Live)
+23,89,Christian Pulisic,Chelsea,0.06,,Off Target,15.0,Right Foot,,N'Golo Kanté,Pass (Live),Willian,Pass (Live)
+24,90+1,Fikayo Tomori,Chelsea,0.11,0.24,Saved,9.0,Head,,N'Golo Kanté,Pass (Live),Emerson Palmieri,Fouled

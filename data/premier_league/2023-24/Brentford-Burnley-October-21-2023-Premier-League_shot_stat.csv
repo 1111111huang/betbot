@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Neal Maupay,Brentford,0.14,,Off Target,14.0,Right Foot,,Mathias Jensen,Pass (Dead),Christian Nørgaard,Fouled
+1,10,Mike Trésor,Burnley,0.04,,Off Target,19.0,Left Foot,,Zeki Amdouni,Pass (Live),James Trafford,Pass (Live)
+2,15,Bryan Mbeumo,Brentford,0.02,,Blocked,18.0,Right Foot,Volley,Christian Nørgaard,Pass (Live),Yoane Wissa,Pass (Live)
+3,15,Bryan Mbeumo,Brentford,0.08,,Blocked,17.0,Left Foot,,Bryan Mbeumo,Shot,,
+4,18,Frank Onyeka,Brentford,0.08,0.37,Saved,9.0,Head,,Kristoffer Ajer,Pass (Live),Bryan Mbeumo,Pass (Live)
+5,23,Yoane Wissa,Brentford,0.09,,Off Target,9.0,Head,,Vitaly Janelt,Pass (Live),Frank Onyeka,Pass (Live)
+6,23,Christian Nørgaard,Brentford,0.14,,Blocked,9.0,Right Foot,Volley,Yoane Wissa,Shot,,
+7,23,Bryan Mbeumo,Brentford,0.02,0.26,Saved,13.0,Head,,Christian Nørgaard,Pass (Live),Ethan Pinnock,Pass (Live)
+8,25,Yoane Wissa,Brentford,0.73,0.96,Goal,2.0,Left Foot,,Bryan Mbeumo,Pass (Live),Neal Maupay,Pass (Live)
+9,28,Neal Maupay,Brentford,0.18,,Blocked,25.0,Right Foot,Deflected,Yoane Wissa,Tackle,,
+10,29,Christian Nørgaard,Brentford,0.06,,Off Target,6.0,Right Foot,Volley,Bryan Mbeumo,Pass (Dead),Neal Maupay,Shot
+11,30,Bryan Mbeumo,Brentford,0.12,0.06,Saved,21.0,Left Foot,,Yoane Wissa,Pass (Live),,
+12,34,Kristoffer Ajer,Brentford,0.18,,Off Target,5.0,Head,,Mathias Jensen,Pass (Dead),Mathias Jensen,Pass (Dead)
+13,38,Wilson Odobert,Burnley,0.03,,Off Target,27.0,Right Foot,,Lyle Foster,Pass (Live),Charlie Taylor,Pass (Live)
+14,41,Christian Nørgaard,Brentford,0.05,,Off Target,24.0,Right Foot,,Bryan Mbeumo,Pass (Live),Yoane Wissa,Pass (Live)
+15,41,Yoane Wissa,Brentford,0.38,0.19,Saved,12.0,Right Foot,,Christian Nørgaard,Shot,,
+16,43,Neal Maupay,Brentford,0.24,0.15,Saved,12.0,Right Foot,,Mathias Jensen,Pass (Live),Vitaly Janelt,Pass (Live)
+17,45+1,Zeki Amdouni,Burnley,0.08,0.35,Saved,22.0,Right Foot,,Mike Trésor,Pass (Live),Josh Cullen,Pass (Live)
+18,,,,,,,,,,,,,
+19,49,Luca Koleosho,Burnley,0.03,,Blocked,26.0,Right Foot,,Josh Cullen,Pass (Live),Charlie Taylor,Pass (Live)
+20,52,Zeki Amdouni,Burnley,0.05,,Off Target,17.0,Left Foot,,Connor Roberts,Pass (Live),Josh Cullen,Pass (Live)
+21,62,Bryan Mbeumo,Brentford,0.1,0.66,Goal,21.0,Left Foot,,Neal Maupay,Pass (Live),Kristoffer Ajer,Pass (Live)
+22,64,Mathias Jensen,Brentford,0.09,,Off Target,13.0,Right Foot,,,,,
+23,65,Frank Onyeka,Brentford,0.06,,Blocked,17.0,Right Foot,Volley,Mathias Jensen,Pass (Live),Ethan Pinnock,Pass (Live)
+24,74,Neal Maupay,Brentford,0.2,,Blocked,14.0,Right Foot,,Bryan Mbeumo,Pass (Live),Yoane Wissa,Pass (Live)
+25,75,Luca Koleosho,Burnley,0.92,,Off Target,11.0,Left Foot,,Lyle Foster,Pass (Live),Josh Brownhill,Pass (Live)
+26,79,Bryan Mbeumo,Brentford,0.05,0.05,Saved,25.0,Left Foot,Free kick,Yoane Wissa,Fouled,Bryan Mbeumo,Pass (Live)
+27,87,Saman Ghoddos,Brentford,0.05,0.34,Goal,28.0,Right Foot,,Yoane Wissa,Pass (Live),Neal Maupay,Pass (Live)
+28,90+2,Saman Ghoddos,Brentford,0.06,,Off Target,23.0,Right Foot,,Christian Nørgaard,Pass (Live),Ethan Pinnock,Interception
+29,90+7,Yehor Yarmoliuk,Brentford,0.09,,Off Target,11.0,Right Foot,Volley,Mads Roerslev,Take-On,Nathan Collins,Pass (Live)

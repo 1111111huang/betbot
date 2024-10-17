@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Harry Kane,Tottenham,0.03,0.18,Goal,28.0,Right Foot,,Son Heung-min,Pass (Live),Toby Alderweireld,Pass (Live)
+1,6,Harry Kane,Tottenham,0.03,,Blocked,21.0,Right Foot,,Eric Dier,Pass (Live),Harry Kane,Pass (Live)
+2,9,Son Heung-min,Tottenham,0.07,0.06,Saved,13.0,Left Foot,,Son Heung-min,Take-On,Jan Vertonghen,Pass (Live)
+3,9,Lucas Moura,Tottenham,0.9,0.98,Goal,2.0,Right Foot,,Son Heung-min,Shot,,
+4,11,Jay Rodriguez,Burnley,0.02,,Off Target,32.0,Right Foot,,,,,
+5,16,Moussa Sissoko,Tottenham,0.36,,Woodwork,10.0,Left Foot,,Son Heung-min,Pass (Live),Moussa Sissoko,Pass (Live)
+6,21,Robbie Brady,Burnley,0.06,,Woodwork,8.0,Head,,Dwight McNeil,Pass (Live),Robbie Brady,Pass (Live)
+7,21,Chris Wood,Burnley,0.32,,Blocked,4.0,Head,,Robbie Brady,Shot,,
+8,26,Jay Rodriguez,Burnley,0.05,0.03,Saved,8.0,Head,,Erik Pieters,Pass (Live),Dwight McNeil,Pass (Live)
+9,32,Son Heung-min,Tottenham,0.66,0.94,Goal,13.0,Right Foot,,Son Heung-min,Take-On,Son Heung-min,Take-On
+10,34,Harry Kane,Tottenham,0.07,,Off Target,12.0,Head,,Son Heung-min,Pass (Dead),Harry Kane,Fouled
+11,38,Jay Rodriguez,Burnley,0.4,,Off Target,7.0,Head,,Dwight McNeil,Pass (Live),Nick Pope,Pass (Dead)
+12,45+3,Son Heung-min,Tottenham,0.04,,Blocked,17.0,Right Foot,,Harry Kane,Pass (Live),Dele Alli,Pass (Live)
+13,,,,,,,,,,,,,
+14,54,Harry Kane,Tottenham,0.05,0.34,Goal,17.0,Right Foot,,Eric Dier,Pass (Live),,
+15,57,Robbie Brady,Burnley,0.07,,Off Target,16.0,Left Foot,Volley,Jeff Hendrick,Pass (Dead),Matthew Lowton,Fouled
+16,60,Harry Kane,Tottenham,0.04,,Blocked,24.0,Right Foot,,Lucas Moura,Pass (Live),Dele Alli,Interception
+17,74,Moussa Sissoko,Tottenham,0.35,0.71,Goal,11.0,Right Foot,,Harry Kane,Pass (Live),Moussa Sissoko,Pass (Live)
+18,76,Dele Alli,Tottenham,0.05,0.27,Saved,24.0,Right Foot,,Son Heung-min,Pass (Live),Harry Kane,Pass (Live)
+19,84,Harry Kane,Tottenham,0.01,,Off Target,56.0,Right Foot,,,,,
+20,84,Jay Rodriguez,Burnley,0.02,,Off Target,31.0,Right Foot,,James Tarkowski,Pass (Live),Matthew Lowton,Pass (Live)

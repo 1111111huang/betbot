@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Daniel James,Leeds United,0.04,0.74,Saved,13.0,Right Foot,,Jack Harrison,Pass (Live),,
+1,3,Harvey Barnes,Leicester City,0.02,0.02,Saved,26.0,Right Foot,,Kasper Schmeichel,Pass (Live),,
+2,4,Robin Koch,Leeds United,0.02,,Off Target,32.0,Right Foot,,Jack Harrison,Pass (Live),,
+3,6,Luke Ayling,Leeds United,0.12,,Off Target,8.0,Head,,Jack Harrison,Pass (Dead),,
+4,8,Jack Harrison,Leeds United,0.05,0.14,Saved,13.0,Left Foot,,Daniel James,Pass (Live),Raphinha,Pass (Live)
+5,20,Harvey Barnes,Leicester City,0.04,,Blocked,20.0,Right Foot,,Harvey Barnes,Take-On,Luke Thomas,Pass (Live)
+6,22,Rodrigo,Leeds United,0.14,,Off Target,15.0,Left Foot,,Jack Harrison,Pass (Live),Rodrigo,Pass (Live)
+7,41,Junior Firpo,Leeds United,0.22,,Blocked,13.0,Left Foot,,Junior Firpo,Pass (Live),Mateusz Klich,Pass (Live)
+8,42,Luke Ayling,Leeds United,0.09,,Blocked,5.0,Head,,Stuart Dallas,Pass (Live),Jack Harrison,Pass (Dead)
+9,42,Raphinha,Leeds United,0.03,,Blocked,16.0,Left Foot,,Pascal Struijk,Pass (Live),Luke Ayling,Shot
+10,45,Wilfred Ndidi,Leicester City,0.09,0.03,Saved,10.0,Head,,Marc Albrighton,Pass (Dead),,
+11,45+1,Rodrigo,Leeds United,0.06,,Off Target,13.0,Left Foot,Volley,Daniel James,Pass (Live),Junior Firpo,Pass (Live)
+12,,,,,,,,,,,,,
+13,55,Daniel James,Leeds United,0.05,,Off Target,19.0,Left Foot,,Stuart Dallas,Pass (Live),Robin Koch,Pass (Live)
+14,55,Raphinha,Leeds United,0.24,,Off Target,10.0,Left Foot,Volley,Daniel James,Shot,,
+15,57,Jack Harrison,Leeds United,0.04,,Blocked,22.0,Left Foot,,Raphinha,Pass (Live),Stuart Dallas,Pass (Live)
+16,58,Rodrigo,Leeds United,0.02,0.06,Saved,7.0,Head,,Stuart Dallas,Pass (Dead),Jack Harrison,Shot
+17,58,Robin Koch,Leeds United,0.02,,Off Target,17.0,Head,,Jack Harrison,Pass (Live),Rodrigo,Shot
+18,60,Raphinha,Leeds United,0.36,0.9,Saved,4.0,Left Foot,,Junior Firpo,Pass (Live),Jack Harrison,Pass (Live)
+19,61,Raphinha,Leeds United,0.03,,Off Target,10.0,Left Foot,,Stuart Dallas,Pass (Live),Rodrigo,Pass (Live)
+20,64,Joe Gelhardt,Leeds United,0.04,,Blocked,14.0,Left Foot,,Raphinha,Pass (Live),Mateusz Klich,Pass (Live)
+21,67,Harvey Barnes,Leicester City,0.08,0.33,Goal,12.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Harvey Barnes,Pass (Live)
+22,82,Robin Koch,Leeds United,0.08,,Off Target,9.0,Other,,,,,
+23,88,Harvey Barnes,Leicester City,0.08,,Blocked,19.0,Right Foot,,Ademola Lookman,Pass (Live),Ademola Lookman,Take-On
+24,90,Ademola Lookman,Leicester City,0.06,,Blocked,20.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Harvey Barnes,Pass (Live)
+25,90+1,Youri Tielemans,Leicester City,0.03,0.03,Saved,26.0,Right Foot,,Marc Albrighton,Pass (Live),Luke Thomas,Pass (Live)
+26,90+2,Joe Gelhardt,Leeds United,0.08,,Blocked,15.0,Left Foot,,Raphinha,Pass (Live),Joe Gelhardt,Pass (Live)

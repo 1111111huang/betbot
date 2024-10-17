@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Mohammed Kudus,West Ham,0.02,,Off Target,24.0,Left Foot,,,,,
+1,4,James Ward-Prowse,West Ham,0.05,,Off Target,12.0,Head,,Vladimír Coufal,Pass (Live),Jarrod Bowen,Pass (Live)
+2,4,Tomáš Souček,West Ham,0.45,,Off Target,10.0,Right Foot,,James Ward-Prowse,Shot,,
+3,5,Jarrod Bowen,West Ham,0.02,0.2,Goal,16.0,Left Foot,,Emerson Palmieri,Pass (Live),James Ward-Prowse,Pass (Live)
+4,7,Jarrod Bowen,West Ham,0.32,0.86,Goal,12.0,Left Foot,,Vladimír Coufal,Pass (Live),Mohammed Kudus,Pass (Live)
+5,13,Neal Maupay,Brentford,0.12,0.5,Goal,11.0,Right Foot,,Keane Lewis-Potter,Pass (Live),Ivan Toney,Pass (Live)
+6,17,Lucas Paquetá,West Ham,0.11,,Off Target,13.0,Right Foot,,Vladimír Coufal,Pass (Live),Vladimír Coufal,Take-On
+7,21,Lucas Paquetá,West Ham,0.05,,Off Target,16.0,Left Foot,Volley,Mohammed Kudus,Pass (Live),Tomáš Souček,Pass (Live)
+8,22,Mohammed Kudus,West Ham,0.03,,Off Target,25.0,Right Foot,,Edson Álvarez,Pass (Live),Lucas Paquetá,Pass (Live)
+9,24,Kurt Zouma,West Ham,0.03,,Blocked,13.0,Head,,Lucas Paquetá,Pass (Live),Emerson Palmieri,Pass (Live)
+10,33,Mohammed Kudus,West Ham,0.02,,Off Target,13.0,Head,,Emerson Palmieri,Pass (Live),Lucas Paquetá,Pass (Live)
+11,33,Mohammed Kudus,West Ham,0.02,0.02,Saved,22.0,Left Foot,,James Ward-Prowse,Pass (Live),Konstantinos Mavropanos,Interception
+12,37,Mohammed Kudus,West Ham,0.02,,Off Target,32.0,Left Foot,,Mohammed Kudus,Take-On,,
+13,38,Mathias Jensen,Brentford,0.02,,Blocked,33.0,Right Foot,,Keane Lewis-Potter,Pass (Live),Frank Onyeka,Pass (Live)
+14,41,Tomáš Souček,West Ham,0.03,,Off Target,13.0,Head,,Emerson Palmieri,Pass (Live),Lucas Paquetá,Pass (Live)
+15,,,,,,,,,,,,,
+16,57,Keane Lewis-Potter,Brentford,0.01,0.03,Saved,25.0,Left Foot,Deflected,Frank Onyeka,Pass (Live),Mathias Jensen,Pass (Live)
+17,58,Sergio Reguilón,Brentford,0.04,,Blocked,30.0,Left Foot,,Frank Onyeka,Pass (Live),Keane Lewis-Potter,Pass (Live)
+18,63,Jarrod Bowen,West Ham,0.43,0.77,Goal,6.0,Head,,Mohammed Kudus,Pass (Live),Vladimír Coufal,Pass (Live)
+19,66,Frank Onyeka,Brentford,0.1,0.36,Saved,10.0,Left Foot,Volley,Sergio Reguilón,Pass (Live),Neal Maupay,Pass (Live)
+20,69,Emerson Palmieri,West Ham,0.04,0.51,Goal,29.0,Left Foot,,Mohammed Kudus,Take-On,James Ward-Prowse,Pass (Live)
+21,74,James Ward-Prowse,West Ham,0.03,0.08,Saved,30.0,Right Foot,,Emerson Palmieri,Pass (Live),Emerson Palmieri,Interception
+22,75,Keane Lewis-Potter,Brentford,0.02,0.02,Saved,30.0,Right Foot,,Yoane Wissa,Pass (Live),Keane Lewis-Potter,Pass (Live)
+23,77,Mathias Jørgensen,Brentford,0.11,,Off Target,9.0,Right Foot,Volley,Kristoffer Ajer,Pass (Live),Christian Nørgaard,Pass (Dead)
+24,79,Ivan Toney,Brentford,0.06,,Blocked,17.0,Left Foot,,Mikkel Damsgaard,Pass (Live),Vitaly Janelt,Pass (Live)
+25,82,Yoane Wissa,Brentford,0.08,0.21,Goal,21.0,Right Foot,,Mikkel Damsgaard,Pass (Live),,
+26,87,Mohammed Kudus,West Ham,0.02,,Off Target,15.0,Right Foot,,Edson Álvarez,Pass (Live),,
+27,90+3,Christian Nørgaard,Brentford,0.08,,Blocked,13.0,Right Foot,,Ivan Toney,Pass (Live),Vitaly Janelt,Pass (Live)
+28,90+5,Ivan Toney,Brentford,0.07,0.15,Saved,8.0,Head,,Keane Lewis-Potter,Pass (Live),Nathan Collins,Pass (Live)
+29,90+5,Mads Roerslev,Brentford,0.09,,Blocked,6.0,Right Foot,,Ivan Toney,Shot,,
+30,90+6,Mikkel Damsgaard,Brentford,0.04,0.09,Saved,13.0,Right Foot,,Nathan Collins,Pass (Live),Kristoffer Ajer,Pass (Live)
+31,90+6,Ivan Toney,Brentford,0.09,,Blocked,8.0,Right Foot,Volley,Mikkel Damsgaard,Shot,,

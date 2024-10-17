@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Alex Oxlade-Chamberlain,Liverpool,0.05,,Blocked,25.0,Right Foot,,Georginio Wijnaldum,Pass (Live),Jordan Henderson,Pass (Live)
+1,9,Sadio Mané,Liverpool,0.18,,Blocked,9.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Roberto Firmino,Pass (Live)
+2,12,Luka Milivojević,Crystal Palace,0.03,0.17,Saved,29.0,Right Foot,Volley,Wilfried Zaha,Pass (Live),Cheikhou Kouyaté,Pass (Live)
+3,13,Wilfried Zaha,Crystal Palace,0.05,,Blocked,14.0,Left Foot,,James McArthur,Pass (Live),Jordan Ayew,Pass (Live)
+4,17,Jordan Ayew,Crystal Palace,0.41,,Off Target,11.0,Right Foot,Volley,Cheikhou Kouyaté,Pass (Live),,
+5,22,Cheikhou Kouyaté,Crystal Palace,0.09,,Off Target,9.0,Right Foot,Volley,James Tomkins,Pass (Live),Wilfried Zaha,Pass (Live)
+6,22,Wilfried Zaha,Crystal Palace,0.04,,Off Target,16.0,Right Foot,,Cheikhou Kouyaté,Shot,,
+7,38,Virgil van Dijk,Liverpool,0.05,,Off Target,11.0,Head,,Trent Alexander-Arnold,Pass (Dead),Fabinho,Pass (Live)
+8,45+2,Roberto Firmino,Liverpool,0.03,,Off Target,10.0,Head,,Trent Alexander-Arnold,Pass (Dead),Virgil van Dijk,Pass (Live)
+9,,,,,,,,,,,,,
+10,48,Patrick van Aanholt,Crystal Palace,0.02,,Off Target,29.0,Left Foot,Volley,Wilfried Zaha,Pass (Live),Patrick van Aanholt,Pass (Live)
+11,48,Sadio Mané,Liverpool,0.07,,Off Target,20.0,Right Foot,,Jordan Henderson,Pass (Live),Fabinho,Pass (Live)
+12,49,Sadio Mané,Liverpool,0.08,0.31,Goal,14.0,Left Foot,,Andrew Robertson,Pass (Live),Roberto Firmino,Pass (Live)
+13,52,Wilfried Zaha,Crystal Palace,0.03,,Blocked,20.0,Right Foot,,James McArthur,Pass (Live),James Tomkins,Pass (Live)
+14,52,Andros Townsend,Crystal Palace,0.03,0.03,Saved,26.0,Right Foot,,Patrick van Aanholt,Pass (Live),Wilfried Zaha,Shot
+15,55,Luka Milivojević,Crystal Palace,0.02,,Off Target,31.0,Right Foot,,Jordan Ayew,Pass (Live),Patrick van Aanholt,Pass (Live)
+16,58,Andros Townsend,Crystal Palace,0.03,,Blocked,28.0,Left Foot,,,,,
+17,58,Luka Milivojević,Crystal Palace,0.02,0.04,Saved,31.0,Right Foot,Volley,Andros Townsend,Shot,,
+18,64,Roberto Firmino,Liverpool,0.02,,Off Target,27.0,Right Foot,,Sadio Mané,Pass (Live),Andrew Robertson,Pass (Live)
+19,65,Roberto Firmino,Liverpool,0.26,0.63,Saved,12.0,Right Foot,,Andrew Robertson,Pass (Live),Divock Origi,Pass (Live)
+20,75,Jeffrey Schlupp,Crystal Palace,0.03,0.35,Saved,29.0,Right Foot,,Andros Townsend,Pass (Live),Jeffrey Schlupp,Pass (Live)
+21,78,Christian Benteke,Crystal Palace,0.07,,Off Target,14.0,Right Foot,Volley,Martin Kelly,Pass (Live),,
+22,82,Wilfried Zaha,Crystal Palace,0.08,0.38,Goal,13.0,Right Foot,,Andros Townsend,Pass (Live),Christian Benteke,Pass (Live)
+23,84,Luka Milivojević,Crystal Palace,0.02,0.08,Saved,31.0,Right Foot,Volley,Andros Townsend,Pass (Live),Christian Benteke,Pass (Live)
+24,85,Virgil van Dijk,Liverpool,0.18,,Blocked,7.0,Right Foot,Volley,Trent Alexander-Arnold,Pass (Dead),Fabinho,Pass (Live)
+25,85,Virgil van Dijk,Liverpool,0.24,,Blocked,6.0,Right Foot,,Virgil van Dijk,Shot,,
+26,85,Roberto Firmino,Liverpool,0.35,0.9,Goal,6.0,Left Foot,,Virgil van Dijk,Shot,,
+27,90+2,Wilfried Zaha,Crystal Palace,0.05,,Off Target,11.0,Right Foot,,Andros Townsend,Pass (Live),,
+28,90+5,Georginio Wijnaldum,Liverpool,0.09,0.07,Saved,17.0,Right Foot,,Sadio Mané,Pass (Live),Georginio Wijnaldum,Pass (Live)

@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Andre-Frank Zambo Anguissa,Fulham,0.06,,Off Target,10.0,Head,,Ivan Cavaleiro,Pass (Dead),Ivan Cavaleiro,Pass (Live)
+1,7,Allan Saint-Maximin,Newcastle Utd,0.05,0.67,Saved,12.0,Left Foot,,Paul Dummett,Pass (Live),Sean Longstaff,Pass (Live)
+2,8,Sean Longstaff,Newcastle Utd,0.03,,Blocked,21.0,Right Foot,Volley,Joe Willock,Tackle,Allan Saint-Maximin,Shot
+3,10,Ademola Lookman,Fulham,0.04,,Off Target,18.0,Right Foot,,Tosin Adarabioyo,Pass (Live),Tim Ream,Pass (Live)
+4,20,Ivan Cavaleiro,Fulham,0.05,,Off Target,24.0,Right Foot,,Ademola Lookman,Pass (Live),Ademola Lookman,Take-On
+5,21,Joe Willock,Newcastle Utd,0.03,,Blocked,31.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Matt Ritchie,Pass (Live)
+6,23,Joe Willock,Newcastle Utd,0.07,0.2,Goal,14.0,Right Foot,,Jacob Murphy,Pass (Live),Jacob Murphy,Tackle
+7,27,Miguel Almirón,Newcastle Utd,0.04,0.35,Saved,27.0,Left Foot,,Sean Longstaff,Pass (Live),Emil Krafth,Pass (Live)
+8,32,Fabio Carvalho,Fulham,0.09,,Blocked,16.0,Left Foot,Volley,Fabio Carvalho,Take-On,Josh Onomah,Pass (Live)
+9,36,Josh Onomah,Fulham,0.03,,Blocked,28.0,Right Foot,,Josh Onomah,Pass (Live),Bobby Reid,Pass (Live)
+10,36,Allan Saint-Maximin,Newcastle Utd,0.03,,Off Target,30.0,Right Foot,,,,,
+11,37,Joe Bryan,Fulham,0.03,,Blocked,28.0,Right Foot,,Joe Bryan,Pass (Live),Bobby Reid,Pass (Live)
+12,37,Ivan Cavaleiro,Fulham,0.05,,Off Target,15.0,Right Foot,,Joe Bryan,Shot,,
+13,40,Ivan Cavaleiro,Fulham,0.05,,Blocked,27.0,Right Foot,,Ivan Cavaleiro,Take-On,Joe Bryan,Pass (Live)
+14,,,,,,,,,,,,,
+15,47,Joe Willock,Newcastle Utd,0.09,,Off Target,10.0,Left Foot,,Jacob Murphy,Pass (Live),Matt Ritchie,Pass (Live)
+16,53,Fabio Carvalho,Fulham,0.02,,Blocked,26.0,Right Foot,,Ivan Cavaleiro,Pass (Live),Fabio Carvalho,Pass (Live)
+17,56,Ivan Cavaleiro,Fulham,0.35,,Off Target,11.0,Right Foot,,Fabio Carvalho,Pass (Live),,
+18,58,Kenny Tete,Fulham,0.05,,Blocked,23.0,Right Foot,,Ruben Loftus-Cheek,Pass (Live),Ivan Cavaleiro,Pass (Live)
+19,64,Fabio Carvalho,Fulham,0.03,,Off Target,21.0,Right Foot,,Ademola Lookman,Pass (Live),Joe Bryan,Pass (Live)
+20,67,Dwight Gayle,Newcastle Utd,0.14,,Off Target,8.0,Head,,Matt Ritchie,Pass (Dead),Matt Ritchie,Fouled
+21,71,Josh Maja,Fulham,0.06,,Off Target,14.0,Left Foot,,Ivan Cavaleiro,Pass (Live),Tim Ream,Pass (Live)
+22,86,Fabio Carvalho,Fulham,0.1,,Blocked,12.0,Left Foot,,Kenny Tete,Pass (Live),Ivan Cavaleiro,Pass (Live)
+23,88,Fabian Schär (pen),Newcastle Utd,0.79,1.0,Goal,13.0,Right Foot,,Matt Ritchie,Fouled,Joe Willock,Pass (Live)
+24,90+1,Jonjo Shelvey,Newcastle Utd,0.03,,Blocked,26.0,Left Foot,,Dwight Gayle,Pass (Live),Jacob Murphy,Pass (Live)

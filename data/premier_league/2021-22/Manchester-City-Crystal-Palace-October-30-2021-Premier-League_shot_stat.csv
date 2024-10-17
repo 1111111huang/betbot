@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Wilfried Zaha,Crystal Palace,0.1,0.82,Goal,15.0,Left Foot,,Conor Gallagher,Pass (Live),,
+1,18,João Cancelo,Manchester City,0.03,,Blocked,15.0,Left Foot,,Aymeric Laporte,Pass (Live),Rodri,Pass (Live)
+2,19,Rodri,Manchester City,0.11,0.03,Saved,15.0,Left Foot,,João Cancelo,Shot,,
+3,20,João Cancelo,Manchester City,0.01,,Off Target,30.0,Right Foot,,Rodri,Pass (Live),,
+4,25,Gabriel Jesus,Manchester City,0.03,,Blocked,16.0,Left Foot,,Gabriel Jesus,Pass (Live),Kyle Walker,Pass (Live)
+5,25,Jack Grealish,Manchester City,0.03,,Blocked,17.0,Left Foot,,Gabriel Jesus,Shot,,
+6,31,Gabriel Jesus,Manchester City,0.05,,Blocked,13.0,Right Foot,,Rodri,Pass (Live),Rodri,Take-On
+7,37,João Cancelo,Manchester City,0.02,,Blocked,26.0,Right Foot,,Jack Grealish,Pass (Live),Rodri,Pass (Live)
+8,45+1,João Cancelo,Manchester City,0.02,,Blocked,24.0,Right Foot,,Jack Grealish,Pass (Live),Aymeric Laporte,Pass (Live)
+9,,,,,,,,,,,,,
+10,48,Kevin De Bruyne,Manchester City,0.02,,Blocked,18.0,Right Foot,,Jack Grealish,Pass (Live),Gabriel Jesus,Pass (Live)
+11,49,Rodri,Manchester City,0.11,,Off Target,13.0,Left Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+12,49,James McArthur,Crystal Palace,0.05,,Off Target,27.0,Right Foot,,Jordan Ayew,Pass (Live),Conor Gallagher,Pass (Live)
+13,52,Marc Guéhi,Crystal Palace,0.12,,Off Target,8.0,Head,,Conor Gallagher,Pass (Dead),Conor Gallagher,Fouled
+14,58,Gabriel Jesus,Manchester City,0.08,0.08,Saved,16.0,Right Foot,,Jack Grealish,Pass (Live),Kyle Walker,Pass (Live)
+15,64,Jordan Ayew,Crystal Palace,0.19,,Off Target,12.0,Left Foot,,Conor Gallagher,Pass (Live),Odsonne Édouard,Pass (Live)
+16,66,João Cancelo,Manchester City,0.01,0.02,Saved,28.0,Right Foot,,Jack Grealish,Fouled,John Stones,Pass (Live)
+17,69,Gabriel Jesus,Manchester City,0.14,,Off Target,5.0,Head,,Phil Foden,Pass (Live),Rodri,Pass (Live)
+18,77,Conor Gallagher,Crystal Palace,0.05,0.11,Saved,14.0,Right Foot,,Wilfried Zaha,Pass (Live),Tyrick Mitchell,Pass (Live)
+19,78,Jeffrey Schlupp,Crystal Palace,0.01,,Off Target,11.0,Head,,Conor Gallagher,Pass (Dead),Conor Gallagher,Shot
+20,79,Christian Benteke,Crystal Palace,0.02,,Blocked,22.0,Right Foot,,James McArthur,Pass (Live),,
+21,88,Conor Gallagher,Crystal Palace,0.14,0.47,Goal,14.0,Right Foot,,Michael Olise,Pass (Live),Wilfried Zaha,Pass (Live)
+22,90+5,Riyad Mahrez,Manchester City,0.05,,Off Target,12.0,Head,,Raheem Sterling,Pass (Live),Bernardo Silva,Pass (Live)

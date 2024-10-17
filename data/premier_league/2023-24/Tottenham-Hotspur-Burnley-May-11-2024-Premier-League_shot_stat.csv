@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,James Maddison,Tottenham,0.07,,Blocked,16.0,Right Foot,,Son Heung-min,Pass (Live),Micky van de Ven,Pass (Live)
+1,5,Vitinho,Burnley,0.14,0.22,Saved,5.0,Head,,Wilson Odobert,Pass (Live),Jacob Bruun Larsen,Pass (Live)
+2,7,Brennan Johnson,Tottenham,0.19,0.31,Saved,15.0,Right Foot,,Dejan Kulusevski,Pass (Live),Yves Bissouma,Pass (Live)
+3,22,Son Heung-min,Tottenham,0.08,0.03,Saved,21.0,Left Foot,,Pape Matar Sarr,Pass (Live),Brennan Johnson,Pass (Live)
+4,24,Son Heung-min,Tottenham,0.04,,Off Target,23.0,Right Foot,,Pedro Porro,Pass (Live),Cristian Romero,Interception
+5,25,Jacob Bruun Larsen,Burnley,0.24,0.11,Goal,12.0,Right Foot,,Sander Berge,Pass (Live),Sander Berge,Take-On
+6,29,Pedro Porro,Tottenham,0.04,,Off Target,23.0,Right Foot,,Pedro Porro,Take-On,Dejan Kulusevski,Pass (Live)
+7,32,Pedro Porro,Tottenham,0.04,0.12,Goal,16.0,Right Foot,,Brennan Johnson,Pass (Live),Pedro Porro,Pass (Live)
+8,33,Jacob Bruun Larsen,Burnley,0.08,,Off Target,10.0,Right Foot,,Wilson Odobert,Pass (Live),Lorenz Assignon,Pass (Live)
+9,34,Brennan Johnson,Tottenham,0.2,,Off Target,14.0,Right Foot,,,,,
+10,42,Son Heung-min,Tottenham,0.03,,Blocked,26.0,Left Foot,,,,,
+11,45+3,Jacob Bruun Larsen,Burnley,0.07,0.03,Saved,21.0,Right Foot,,Lyle Foster,Pass (Live),Wilson Odobert,Pass (Live)
+12,,,,,,,,,,,,,
+13,51,Son Heung-min,Tottenham,0.03,,Blocked,16.0,Left Foot,,Brennan Johnson,Pass (Live),Son Heung-min,Pass (Live)
+14,54,James Maddison,Tottenham,0.02,,Blocked,31.0,Right Foot,,James Maddison,Pass (Live),Pedro Porro,Pass (Live)
+15,54,Pedro Porro,Tottenham,0.01,,Off Target,12.0,Right Foot,,Son Heung-min,Pass (Live),James Maddison,Pass (Live)
+16,57,Wilson Odobert,Burnley,0.03,,Blocked,16.0,Right Foot,,Charlie Taylor,Tackle,,
+17,58,Dara O'Shea,Burnley,0.04,,Blocked,10.0,Head,,Jacob Bruun Larsen,Pass (Dead),Wilson Odobert,Shot
+18,58,Maxime Estève,Burnley,0.06,,Off Target,9.0,Head,,Dara O'Shea,Pass (Live),Dara O'Shea,Shot
+19,59,James Maddison,Tottenham,0.51,0.51,Saved,9.0,Left Foot,,James Maddison,Take-On,Brennan Johnson,Pass (Live)
+20,62,Micky van de Ven,Tottenham,0.11,,Blocked,8.0,Head,,James Maddison,Pass (Dead),,
+21,66,Cristian Romero,Tottenham,0.03,0.18,Saved,12.0,Head,,Dejan Kulusevski,Pass (Live),Yves Bissouma,Pass (Live)
+22,68,Dejan Kulusevski,Tottenham,0.02,0.18,Saved,16.0,Left Foot,,,,,
+23,72,Pedro Porro,Tottenham,0.06,,Off Target,16.0,Right Foot,,Son Heung-min,Pass (Live),Son Heung-min,Take-On
+24,78,Brennan Johnson,Tottenham,0.73,,Off Target,1.0,Right Foot,,Son Heung-min,Pass (Live),Radu Drăgușin,Pass (Live)
+25,80,Pape Matar Sarr,Tottenham,0.2,0.21,Saved,15.0,Right Foot,,Brennan Johnson,Pass (Live),Cristian Romero,Pass (Live)
+26,82,Micky van de Ven,Tottenham,0.1,0.43,Goal,18.0,Left Foot,,Micky van de Ven,Take-On,James Maddison,Pass (Live)
+27,85,Rodrigo Bentancur,Tottenham,0.16,,Blocked,16.0,Left Foot,,Son Heung-min,Pass (Live),James Maddison,Pass (Live)
+28,86,Cristian Romero,Tottenham,0.04,0.07,Saved,12.0,Head,,James Maddison,Pass (Dead),Rodrigo Bentancur,Shot

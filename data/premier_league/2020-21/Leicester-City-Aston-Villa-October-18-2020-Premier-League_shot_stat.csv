@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Ayoze Pérez,Leicester City,0.03,0.06,Saved,29.0,Right Foot,,Kelechi Iheanacho,Pass (Live),James Justin,Pass (Dead)
+1,22,Timothy Castagne,Leicester City,0.06,0.04,Saved,9.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Ayoze Pérez,Pass (Live)
+2,24,Kelechi Iheanacho,Leicester City,0.03,0.14,Saved,24.0,Left Foot,,Ayoze Pérez,Pass (Live),Nampalys Mendy,Pass (Live)
+3,26,Trézéguet,Aston Villa,0.09,,Off Target,16.0,Left Foot,,Jack Grealish,Pass (Live),Matt Targett,Pass (Live)
+4,42,Matt Targett,Aston Villa,0.07,,Off Target,25.0,Left Foot,Free kick,Trézéguet,Fouled,Douglas Luiz,Pass (Live)
+5,,,,,,,,,,,,,
+6,46,Ayoze Pérez,Leicester City,0.09,,Blocked,14.0,Right Foot,,James Justin,Fouled,Kelechi Iheanacho,Pass (Live)
+7,53,John McGinn,Aston Villa,0.02,,Off Target,29.0,Right Foot,Volley,Matt Targett,Pass (Dead),Jack Grealish,Fouled
+8,54,Ezri Konsa,Aston Villa,0.2,,Off Target,5.0,Head,,Jack Grealish,Pass (Dead),Trézéguet,Pass (Live)
+9,60,Youri Tielemans,Leicester City,0.03,0.21,Saved,31.0,Right Foot,,Youri Tielemans,Take-On,,
+10,64,Youri Tielemans,Leicester City,0.07,0.22,Saved,24.0,Right Foot,Free kick,James Justin,Fouled,Harvey Barnes,Pass (Live)
+11,69,Douglas Luiz,Aston Villa,0.03,0.01,Saved,23.0,Right Foot,,Jack Grealish,Pass (Live),Ollie Watkins,Pass (Live)
+12,69,Ollie Watkins,Aston Villa,0.07,0.14,Saved,18.0,Left Foot,Deflected,Ross Barkley,Pass (Live),Trézéguet,Pass (Live)
+13,72,James Maddison,Leicester City,0.1,,Blocked,22.0,Right Foot,Free kick,James Maddison,Fouled,,
+14,78,Harvey Barnes,Leicester City,0.05,,Off Target,17.0,Left Foot,,Harvey Barnes,Take-On,Islam Slimani,Pass (Live)
+15,80,Ayoze Pérez,Leicester City,0.06,,Blocked,13.0,Left Foot,,James Maddison,Pass (Dead),James Maddison,Fouled
+16,80,Islam Slimani,Leicester City,0.06,,Off Target,11.0,Head,,Ayoze Pérez,Pass (Live),Hamza Choudhury,Pass (Live)
+17,83,Harvey Barnes,Leicester City,0.04,,Blocked,17.0,Right Foot,,James Justin,Pass (Live),James Justin,Take-On
+18,86,Matt Targett,Aston Villa,0.02,,Off Target,25.0,Left Foot,,Jack Grealish,Pass (Live),Jack Grealish,Take-On
+19,87,Ross Barkley,Aston Villa,0.17,,Blocked,12.0,Right Foot,,Ross Barkley,Take-On,Jack Grealish,Pass (Live)
+20,90,Bertrand Traoré,Aston Villa,0.05,0.09,Saved,13.0,Head,,John McGinn,Pass (Live),Jack Grealish,Pass (Live)
+21,90+1,Ross Barkley,Aston Villa,0.03,0.35,Goal,29.0,Right Foot,,John McGinn,Pass (Live),Matt Targett,Pass (Live)

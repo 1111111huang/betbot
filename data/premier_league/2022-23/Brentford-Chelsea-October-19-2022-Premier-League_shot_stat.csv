@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Ivan Toney,Brentford,0.19,0.08,Saved,11.0,Head,,Mads Roerslev,Pass (Live),Vitaly Janelt,Pass (Live)
+1,34,Ivan Toney,Brentford,0.23,0.33,Saved,6.0,Head,,,,,
+2,36,Armando Broja,Chelsea,0.13,,Off Target,13.0,Left Foot,,Kalidou Koulibaly,Pass (Live),Kepa Arrizabalaga,Pass (Live)
+3,36,César Azpilicueta,Chelsea,0.02,0.2,Saved,27.0,Right Foot,,Mateo Kovačić,Pass (Live),Jorginho,Pass (Live)
+4,45,Ruben Loftus-Cheek,Chelsea,0.05,,Off Target,23.0,Right Foot,,Jorginho,Pass (Live),Marc Cucurella,Pass (Live)
+5,,,,,,,,,,,,,
+6,50,Bryan Mbeumo,Brentford,0.3,0.27,Saved,8.0,Head,,Mads Roerslev,Pass (Live),Frank Onyeka,Pass (Live)
+7,51,Ivan Toney,Brentford,0.2,,Off Target,6.0,Head,,Bryan Mbeumo,Pass (Live),Mathias Jensen,Pass (Live)
+8,58,Vitaly Janelt,Brentford,0.04,,Blocked,16.0,Left Foot,,Mads Roerslev,Pass (Live),Vitaly Janelt,Pass (Live)
+9,64,Christian Pulisic,Chelsea,0.05,,Blocked,23.0,Right Foot,,Mateo Kovačić,Pass (Live),Jorginho,Pass (Live)
+10,68,Kai Havertz,Chelsea,0.14,0.05,Saved,15.0,Right Foot,,Christian Pulisic,Pass (Live),César Azpilicueta,Pass (Live)
+11,69,Bryan Mbeumo,Brentford,0.0,0.05,Saved,52.0,Left Foot,,Mathias Jensen,Pass (Live),Bryan Mbeumo,Pass (Live)
+12,70,César Azpilicueta,Chelsea,0.04,,Blocked,23.0,Right Foot,,Christian Pulisic,Pass (Live),Raheem Sterling,Pass (Live)
+13,74,Jorginho,Chelsea,0.03,,Blocked,27.0,Right Foot,,Mateo Kovačić,Pass (Live),Raheem Sterling,Pass (Live)
+14,75,Rico Henry,Brentford,0.1,,Off Target,10.0,Left Foot,,Yoane Wissa,Pass (Live),Yoane Wissa,Take-On
+15,76,Mateo Kovačić,Chelsea,0.04,,Blocked,27.0,Right Foot,,Raheem Sterling,Pass (Live),Christian Pulisic,Pass (Live)
+16,82,Mateo Kovačić,Chelsea,0.02,,Off Target,27.0,Right Foot,,Carney Chukwuemeka,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+17,82,Ivan Toney,Brentford,0.19,0.38,Saved,8.0,Right Foot,,Shandon Baptiste,Pass (Live),Yoane Wissa,Pass (Live)
+18,84,Raheem Sterling,Chelsea,0.11,,Blocked,9.0,Left Foot,,Pierre-Emerick Aubameyang,Pass (Live),Mateo Kovačić,Pass (Live)
+19,86,Pierre-Emerick Aubameyang,Chelsea,0.04,0.12,Saved,24.0,Right Foot,,Raheem Sterling,Pass (Live),,
+20,88,Mateo Kovačić,Chelsea,0.08,,Blocked,21.0,Right Foot,,Christian Pulisic,Pass (Live),Carney Chukwuemeka,Pass (Live)
+21,89,Christian Pulisic,Chelsea,0.02,0.05,Saved,28.0,Right Foot,,Mateo Kovačić,Pass (Live),,
+22,90+4,Carney Chukwuemeka,Chelsea,0.09,0.07,Saved,12.0,Left Foot,,Jorginho,Pass (Live),Kalidou Koulibaly,Pass (Live)

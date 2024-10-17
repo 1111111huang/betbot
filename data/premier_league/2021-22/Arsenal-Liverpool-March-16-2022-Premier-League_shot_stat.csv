@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Joël Matip,Liverpool,0.04,,Blocked,11.0,Head,,Andrew Robertson,Pass (Dead),Trent Alexander-Arnold,Pass (Live)
+1,2.0,Virgil van Dijk,Liverpool,0.02,0.13,Saved,16.0,Head,,Trent Alexander-Arnold,Pass (Dead),Joël Matip,Shot
+2,23.0,Cédric Soares,Arsenal,0.02,,Off Target,27.0,Left Foot,,Bukayo Saka,Pass (Live),Granit Xhaka,Pass (Live)
+3,33.0,Granit Xhaka,Arsenal,0.03,,Off Target,21.0,Left Foot,,Alexandre Lacazette,Pass (Live),,
+4,39.0,Thomas Partey,Arsenal,0.01,,Blocked,32.0,Right Foot,,Granit Xhaka,Pass (Live),Granit Xhaka,Take-On
+5,45.0,Alexandre Lacazette,Arsenal,0.02,,Blocked,30.0,Right Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+6,45.0,Sadio Mané,Liverpool,0.12,,Off Target,17.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Jordan Henderson,Pass (Live)
+7,,,,,,,,,,,,,
+8,51.0,Thomas Partey,Arsenal,0.03,,Blocked,27.0,Right Foot,,Gabriel Martinelli,Pass (Live),Aaron Ramsdale,Pass (Dead)
+9,51.0,Martin Ødegaard,Arsenal,0.23,0.16,Saved,17.0,Left Foot,,Alexandre Lacazette,Pass (Live),,
+10,52.0,Bukayo Saka,Arsenal,0.03,0.11,Saved,21.0,Right Foot,,Martin Ødegaard,Shot,,
+11,54.0,Diogo Jota,Liverpool,0.04,0.12,Goal,14.0,Left Foot,,Thiago Alcántara,Pass (Live),Virgil van Dijk,Pass (Live)
+12,59.0,Mohamed Salah,Liverpool,0.04,,Off Target,22.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Mohamed Salah,Pass (Live)
+13,62.0,Mohamed Salah,Liverpool,0.13,,Blocked,11.0,Left Foot,,Roberto Firmino,Pass (Live),,
+14,62.0,Andrew Robertson,Liverpool,0.04,,Blocked,24.0,Left Foot,,Mohamed Salah,Shot,,
+15,62.0,Roberto Firmino,Liverpool,0.3,0.87,Goal,3.0,Right Foot,,Andrew Robertson,Pass (Live),,
+16,69.0,Emile Smith Rowe,Arsenal,0.08,,Blocked,12.0,Right Foot,,Emile Smith Rowe,Take-On,Emile Smith Rowe,Pass (Live)
+17,79.0,Mohamed Salah,Liverpool,0.04,,Blocked,13.0,Left Foot,,Thiago Alcántara,Pass (Live),Roberto Firmino,Pass (Live)
+18,88.0,Gabriel Martinelli,Arsenal,0.06,,Off Target,16.0,Right Foot,,Granit Xhaka,Pass (Live),Thomas Partey,Pass (Live)

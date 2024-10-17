@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Roberto Firmino,Liverpool,0.03,,Blocked,24.0,Left Foot,,Mohamed Salah,Pass (Live),Mohamed Salah,Pass (Live)
+1,13,Mohamed Salah (pen),Liverpool,0.79,0.98,Goal,13.0,Left Foot,,Sadio Mané,Fouled,Andrew Robertson,Pass (Live)
+2,18,Jordan Henderson,Liverpool,0.03,,Off Target,28.0,Right Foot,,Georginio Wijnaldum,Pass (Live),Roberto Firmino,Pass (Live)
+3,25,Raheem Sterling,Manchester City,0.04,0.03,Saved,11.0,Right Foot,,Kevin De Bruyne,Pass (Live),Ferrán Torres,Pass (Live)
+4,31,Gabriel Jesus,Manchester City,0.11,0.27,Goal,11.0,Left Foot,,Kevin De Bruyne,Pass (Live),Kyle Walker,Pass (Live)
+5,32,Kevin De Bruyne,Manchester City,0.03,,Off Target,29.0,Right Foot,,İlkay Gündoğan,Pass (Live),,
+6,35,Diogo Jota,Liverpool,0.04,,Off Target,22.0,Right Foot,,Sadio Mané,Pass (Live),Diogo Jota,Pass (Live)
+7,42,Kevin De Bruyne (pen),Manchester City,0.79,,Off Target,13.0,Right Foot,,,Fouled,Ferrán Torres,Pass (Live)
+8,44,Trent Alexander-Arnold,Liverpool,0.06,0.18,Saved,13.0,Right Foot,,Mohamed Salah,Pass (Live),Sadio Mané,Pass (Live)
+9,45+2,Trent Alexander-Arnold,Liverpool,0.07,,Off Target,28.0,Right Foot,Free kick,Mohamed Salah,Pass (Live),Jordan Henderson,Pass (Dead)
+10,,,,,,,,,,,,,
+11,50,Mohamed Salah,Liverpool,0.04,,Blocked,24.0,Left Foot,,Sadio Mané,Pass (Live),Sadio Mané,Take-On
+12,50,Diogo Jota,Liverpool,0.07,0.04,Saved,13.0,Right Foot,,Mohamed Salah,Shot,,
+13,55,Gabriel Jesus,Manchester City,0.39,,Off Target,10.0,Head,,João Cancelo,Pass (Live),Raheem Sterling,Pass (Live)
+14,56,Roberto Firmino,Liverpool,0.05,,Off Target,17.0,Right Foot,,Andrew Robertson,Pass (Live),Georginio Wijnaldum,Pass (Live)
+15,57,Kevin De Bruyne,Manchester City,0.03,,Off Target,27.0,Right Foot,,Gabriel Jesus,Pass (Live),Gabriel Jesus,Take-On
+16,59,Diogo Jota,Liverpool,0.04,,Blocked,17.0,Right Foot,Volley,Sadio Mané,Pass (Live),Sadio Mané,Fouled
+17,74,Kevin De Bruyne,Manchester City,0.03,,Blocked,23.0,Right Foot,,João Cancelo,Pass (Live),Kevin De Bruyne,Pass (Live)

@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,20,Enda Stevens,Sheffield Utd,0.04,,Off Target,18.0,Left Foot,,John Fleck,Pass (Live),Enda Stevens,Pass (Live)
+1,21,Nicolas Pépé,Arsenal,0.61,,Off Target,7.0,Left Foot,Volley,Sead Kolašinac,Pass (Live),Joe Willock,Pass (Live)
+2,30,Lys Mousset,Sheffield Utd,0.58,0.87,Goal,3.0,Right Foot,Volley,Jack O'Connell,Pass (Live),Oliver Norwood,Pass (Dead)
+3,34,Pierre-Emerick Aubameyang,Arsenal,0.09,,Blocked,20.0,Right Foot,,Calum Chambers,Pass (Live),Mattéo Guendouzi,Pass (Live)
+4,45+1,Granit Xhaka,Arsenal,0.02,0.22,Saved,33.0,Left Foot,Volley,Nicolas Pépé,Pass (Live),Bukayo Saka,Pass (Live)
+5,45+1,Granit Xhaka,Arsenal,0.05,,Off Target,9.0,Head,,Nicolas Pépé,Pass (Dead),Granit Xhaka,Shot
+6,,,,,,,,,,,,,
+7,59,George Baldock,Sheffield Utd,0.04,,Off Target,17.0,Right Foot,,John Fleck,Pass (Live),Billy Sharp,Pass (Live)
+8,59,Dani Ceballos,Arsenal,0.09,0.05,Saved,14.0,Right Foot,"Deflected, Volley",Bukayo Saka,Pass (Live),Pierre-Emerick Aubameyang,Pass (Live)
+9,61,John Fleck,Sheffield Utd,0.03,,Off Target,24.0,Left Foot,,John Lundstram,Pass (Live),David McGoldrick,Pass (Live)
+10,67,John Fleck,Sheffield Utd,0.02,0.02,Saved,35.0,Left Foot,,Oliver Norwood,Pass (Dead),Billy Sharp,Fouled
+11,73,Nicolas Pépé,Arsenal,0.07,0.1,Saved,30.0,Left Foot,Free kick,Alexandre Lacazette,Fouled,,
+12,74,Nicolas Pépé,Arsenal,0.03,,Off Target,30.0,Left Foot,,Alexandre Lacazette,Pass (Live),,
+13,76,Oliver Norwood,Sheffield Utd,0.04,,Off Target,25.0,Right Foot,,Billy Sharp,Pass (Live),George Baldock,Pass (Live)
+14,80,Sead Kolašinac,Arsenal,0.03,,Off Target,10.0,Head,,Calum Chambers,Pass (Live),Mattéo Guendouzi,Pass (Live)
+15,87,John Egan,Sheffield Utd,0.12,,Blocked,9.0,Head,,John Fleck,Pass (Dead),Oliver McBurnie,Fouled
+16,87,Oliver McBurnie,Sheffield Utd,0.07,,Off Target,10.0,Head,,John Fleck,Pass (Dead),John Egan,Shot
+17,89,Calum Chambers,Arsenal,0.04,,Blocked,16.0,Right Foot,Volley,Sead Kolašinac,Pass (Live),Bukayo Saka,Pass (Live)

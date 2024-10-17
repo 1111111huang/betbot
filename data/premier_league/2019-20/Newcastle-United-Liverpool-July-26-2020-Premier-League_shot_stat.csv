@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Dwight Gayle,Newcastle Utd,0.07,0.34,Goal,14.0,Right Foot,,Jonjo Shelvey,Pass (Dead),Allan Saint-Maximin,Fouled
+1,23,Divock Origi,Liverpool,0.03,,Blocked,25.0,Right Foot,,Andrew Robertson,Pass (Live),Joe Gomez,Pass (Live)
+2,29,Takumi Minamino,Liverpool,0.03,0.33,Saved,28.0,Right Foot,,James Milner,Pass (Live),Andrew Robertson,Pass (Live)
+3,33,Federico Fernández,Newcastle Utd,0.02,0.31,Saved,21.0,Right Foot,,Matt Ritchie,Pass (Live),Jonjo Shelvey,Pass (Dead)
+4,35,Naby Keïta,Liverpool,0.03,,Off Target,21.0,Right Foot,Volley,Andrew Robertson,Pass (Dead),,
+5,38,Virgil van Dijk,Liverpool,0.12,0.63,Goal,9.0,Head,,Alex Oxlade-Chamberlain,Pass (Live),Alex Oxlade-Chamberlain,Take-On
+6,42,Alex Oxlade-Chamberlain,Liverpool,0.03,,Off Target,26.0,Right Foot,,Georginio Wijnaldum,Pass (Live),Andrew Robertson,Pass (Live)
+7,45+2,Takumi Minamino,Liverpool,0.03,0.06,Saved,25.0,Right Foot,,Andrew Robertson,Pass (Live),Andrew Robertson,Take-On
+8,,,,,,,,,,,,,
+9,46,Neco Williams,Liverpool,0.03,,Off Target,29.0,Right Foot,,Takumi Minamino,Pass (Live),Divock Origi,Pass (Live)
+10,48,Virgil van Dijk,Liverpool,0.04,0.14,Saved,12.0,Head,,James Milner,Pass (Dead),,
+11,51,Sean Longstaff,Newcastle Utd,0.03,,Off Target,28.0,Right Foot,,Jonjo Shelvey,Pass (Live),Joelinton,Pass (Live)
+12,59,Divock Origi,Liverpool,0.03,0.36,Goal,26.0,Right Foot,,Andrew Robertson,Pass (Live),Virgil van Dijk,Pass (Live)
+13,66,Mohamed Salah,Liverpool,0.05,,Woodwork,14.0,Left Foot,,James Milner,Fouled,James Milner,Tackle
+14,71,Naby Keïta,Liverpool,0.06,,Blocked,14.0,Right Foot,,Mohamed Salah,Pass (Live),Sadio Mané,Pass (Live)
+15,72,Mohamed Salah,Liverpool,0.08,,Blocked,15.0,Left Foot,,Roberto Firmino,Pass (Live),Naby Keïta,Pass (Live)
+16,78,Mohamed Salah,Liverpool,0.04,,Off Target,20.0,Left Foot,,James Milner,Pass (Live),Mohamed Salah,Pass (Live)
+17,89,Sadio Mané,Liverpool,0.04,0.62,Goal,17.0,Right Foot,,Roberto Firmino,Pass (Live),Sadio Mané,Pass (Live)

@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,17,Christian Pulisic,Chelsea,0.07,,Off Target,17.0,Left Foot,,Jorginho,Pass (Live),Hakim Ziyech,Pass (Live)
+1,20,Kai Havertz,Chelsea,0.37,0.3,Saved,12.0,Left Foot,,,,,
+2,21,Kurt Zouma,Chelsea,0.02,0.02,Saved,35.0,Right Foot,,Mason Mount,Pass (Live),Christian Pulisic,Pass (Live)
+3,23,Alexis Mac Allister,Brighton,0.03,,Blocked,27.0,Right Foot,,Yves Bissouma,Pass (Live),Pascal Groß,Pass (Live)
+4,36,Yves Bissouma,Brighton,0.02,,Off Target,31.0,Right Foot,Volley,Danny Welbeck,Fouled,Pascal Groß,Pass (Live)
+5,37,Leandro Trossard,Brighton,0.03,0.08,Saved,23.0,Right Foot,,Yves Bissouma,Shot,,
+6,42,Yves Bissouma,Brighton,0.06,,Blocked,16.0,Right Foot,,Joël Veltman,Pass (Live),Alexis Mac Allister,Pass (Live)
+7,,,,,,,,,,,,,
+8,50,Christian Pulisic,Chelsea,0.08,,Blocked,14.0,Right Foot,,Hakim Ziyech,Pass (Live),Hakim Ziyech,Take-On
+9,69,Yves Bissouma,Brighton,0.05,,Blocked,32.0,Right Foot,Free kick,Yves Bissouma,Fouled,Alexis Mac Allister,Pass (Live)
+10,71,Yves Bissouma,Brighton,0.02,,Off Target,36.0,Right Foot,,Dan Burn,Pass (Live),,
+11,77,Adam Lallana,Brighton,0.06,,Off Target,17.0,Left Foot,,Neal Maupay,Tackle,Neal Maupay,Pass (Live)
+12,79,Danny Welbeck,Brighton,0.03,,Woodwork,30.0,Right Foot,,Adam Lallana,Pass (Live),,
+13,79,Danny Welbeck,Brighton,0.06,,Blocked,14.0,Left Foot,,Danny Welbeck,Shot,,
+14,80,Adam Lallana,Brighton,0.07,0.17,Saved,17.0,Right Foot,,Pascal Groß,Pass (Live),Danny Welbeck,Pass (Live)
+15,85,Olivier Giroud,Chelsea,0.07,,Off Target,12.0,Left Foot,,Callum Hudson-Odoi,Pass (Live),Jorginho,Pass (Live)
+16,88,Christian Pulisic,Chelsea,0.04,0.04,Saved,17.0,Right Foot,,Andreas Christensen,Pass (Live),Reece James,Pass (Live)
+17,90+3,Olivier Giroud,Chelsea,0.08,0.05,Saved,12.0,Head,,Reece James,Pass (Dead),Callum Hudson-Odoi,Fouled
+18,90+3,Neal Maupay,Brighton,0.05,,Blocked,16.0,Right Foot,,Jakub Moder,Pass (Live),,

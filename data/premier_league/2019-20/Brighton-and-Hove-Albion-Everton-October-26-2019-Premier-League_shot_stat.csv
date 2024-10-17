@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,12.0,Neal Maupay,Brighton,0.04,,Off Target,16.0,Left Foot,,Lewis Dunk,Pass (Live),Adam Webster,Pass (Live)
+1,15.0,Pascal Groß,Brighton,0.1,0.3,Goal,22.0,Right Foot,Free kick,Aaron Connolly,Fouled,Pascal Groß,Pass (Live)
+2,20.0,Richarlison,Everton,0.08,,Off Target,9.0,Head,,Lucas Digne,Pass (Dead),,
+3,23.0,Theo Walcott,Everton,0.24,0.21,Saved,9.0,Right Foot,,Richarlison,Pass (Live),Bernard,Pass (Live)
+4,36.0,Gylfi Sigurðsson,Everton,0.03,0.15,Saved,31.0,Left Foot,,Djibril Sidibé,Pass (Live),Alex Iwobi,Pass (Live)
+5,38.0,Theo Walcott,Everton,0.07,,Blocked,14.0,Right Foot,,Richarlison,Pass (Live),Richarlison,Take-On
+6,38.0,Alex Iwobi,Everton,0.03,0.11,Saved,18.0,Right Foot,Deflected,Theo Walcott,Shot,,
+7,44.0,Alex Iwobi,Everton,0.02,,Off Target,29.0,Right Foot,,Lucas Digne,Pass (Live),Gylfi Sigurðsson,Pass (Live)
+8,44.0,Steven Alzate,Brighton,0.06,,Blocked,14.0,Right Foot,,Neal Maupay,Pass (Live),Pascal Groß,Pass (Live)
+9,,,,,,,,,,,,,
+10,48.0,Steven Alzate,Brighton,0.05,,Off Target,16.0,Right Foot,,Davy Pröpper,Pass (Live),Aaron Connolly,Pass (Live)
+11,51.0,Richarlison,Everton,0.08,,Blocked,9.0,Head,,Lucas Digne,Pass (Dead),Lucas Digne,Fouled
+12,55.0,Alex Iwobi,Everton,0.02,0.02,Saved,22.0,Left Foot,,Lucas Digne,Pass (Live),Mason Holgate,Pass (Live)
+13,56.0,Theo Walcott,Everton,0.04,0.14,Saved,17.0,Right Foot,Deflected,Alex Iwobi,Pass (Live),Lucas Digne,Pass (Live)
+14,69.0,Neal Maupay,Brighton,0.04,,Off Target,12.0,Head,,Leandro Trossard,Pass (Live),Steven Alzate,Pass (Live)
+15,74.0,Dominic Calvert-Lewin,Everton,0.27,0.29,Goal,14.0,Left Foot,,Mason Holgate,Pass (Live),Fabian Delph,Pass (Live)
+16,80.0,Neal Maupay (pen),Brighton,0.79,0.88,Goal,13.0,Right Foot,,Aaron Connolly,Fouled,Dale Stephens,Pass (Live)
+17,84.0,Steven Alzate,Brighton,0.04,0.02,Saved,22.0,Right Foot,,Neal Maupay,Pass (Live),Davy Pröpper,Pass (Live)
+18,88.0,Lewis Dunk,Brighton,0.07,0.07,Saved,28.0,Right Foot,Free kick,Neal Maupay,Fouled,,

@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Willian José,Wolves,0.12,,Off Target,15.0,Right Foot,,Willian José,Take-On,Daniel Podence,Pass (Live)
+1,4,Michail Antonio,West Ham,0.04,0.26,Saved,25.0,Right Foot,,Michail Antonio,Take-On,,
+2,6,Jesse Lingard,West Ham,0.44,0.93,Goal,11.0,Left Foot,,Vladimír Coufal,Pass (Live),Pablo Fornals,Pass (Live)
+3,7,Rayan Aït-Nouri,Wolves,0.04,,Off Target,16.0,Left Foot,,Rúben Neves,Pass (Live),Leander Dendoncker,Pass (Live)
+4,12,Jesse Lingard,West Ham,0.04,0.04,Saved,17.0,Right Foot,,Arthur Masuaku,Pass (Live),Michail Antonio,Pass (Live)
+5,14,Pablo Fornals,West Ham,0.15,0.38,Goal,9.0,Right Foot,,Arthur Masuaku,Pass (Live),Aaron Cresswell,Pass (Live)
+6,18,Rúben Neves,Wolves,0.03,,Off Target,12.0,Head,,Pedro Neto,Pass (Dead),Pedro Neto,Fouled
+7,21,Daniel Podence,Wolves,0.06,,Woodwork,6.0,Head,,Pedro Neto,Pass (Live),Leander Dendoncker,Interception
+8,22,Michail Antonio,West Ham,0.08,,Off Target,6.0,Head,,Vladimír Coufal,Pass (Live),Pablo Fornals,Pass (Live)
+9,26,Pedro Neto,Wolves,0.05,,Off Target,14.0,Head,,Daniel Podence,Pass (Live),Leander Dendoncker,Pass (Live)
+10,31,Michail Antonio,West Ham,0.08,,Off Target,10.0,Right Foot,,Michail Antonio,Take-On,Michail Antonio,Take-On
+11,37,Adama Traoré,Wolves,0.06,0.07,Saved,22.0,Right Foot,,Willian José,Pass (Live),Adama Traoré,Pass (Live)
+12,38,Willian José,Wolves,0.08,,Off Target,11.0,Head,,Rúben Neves,Pass (Live),Pedro Neto,Pass (Dead)
+13,38,Daniel Podence,Wolves,0.11,,Blocked,10.0,Right Foot,,Willian José,Pass (Live),Willian José,Shot
+14,38,Jarrod Bowen,West Ham,0.09,0.29,Goal,13.0,Left Foot,,Jesse Lingard,Pass (Live),Tomáš Souček,Pass (Live)
+15,41,Willian José,Wolves,0.39,0.39,Saved,9.0,Right Foot,,Daniel Podence,Pass (Live),Leander Dendoncker,Pass (Live)
+16,41,Pedro Neto,Wolves,0.55,,Off Target,5.0,Left Foot,,Willian José,Shot,,
+17,42,Daniel Podence,Wolves,0.02,,Off Target,33.0,Right Foot,,Rúben Neves,Pass (Live),Adama Traoré,Pass (Live)
+18,44,Leander Dendoncker,Wolves,0.25,0.7,Goal,10.0,Head,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+19,45+3,Conor Coady,Wolves,0.08,,Off Target,5.0,Head,,Pedro Neto,Pass (Dead),Pedro Neto,Pass (Live)
+20,,,,,,,,,,,,,
+21,55,Jarrod Bowen,West Ham,0.06,,Off Target,10.0,Head,,Aaron Cresswell,Pass (Live),Vladimír Coufal,Pass (Live)
+22,55,Leander Dendoncker,Wolves,0.03,,Off Target,29.0,Right Foot,,Willian José,Pass (Live),Rúben Neves,Pass (Live)
+23,59,Jarrod Bowen,West Ham,0.27,0.13,Saved,12.0,Right Foot,,Tomáš Souček,Pass (Live),Pablo Fornals,Pass (Live)
+24,61,Pedro Neto,Wolves,0.04,0.04,Saved,16.0,Left Foot,,Nélson Semedo,Pass (Live),Rúben Neves,Pass (Live)
+25,66,Pedro Neto,Wolves,0.03,,Off Target,24.0,Left Foot,,Rúben Neves,Pass (Dead),Rayan Aït-Nouri,Fouled
+26,68,Fábio Silva,Wolves,0.28,0.88,Goal,11.0,Right Foot,,Pedro Neto,Pass (Live),Leander Dendoncker,Pass (Live)
+27,70,Leander Dendoncker,Wolves,0.05,,Off Target,18.0,Right Foot,,Adama Traoré,Pass (Live),Willian José,Pass (Live)
+28,77,Pedro Neto,Wolves,0.06,,Off Target,15.0,Left Foot,,Conor Coady,Pass (Live),Romain Saïss,Pass (Live)
+29,90+2,Adama Traoré,Wolves,0.02,,Blocked,31.0,Right Foot,,Fábio Silva,Pass (Live),Adama Traoré,Pass (Live)

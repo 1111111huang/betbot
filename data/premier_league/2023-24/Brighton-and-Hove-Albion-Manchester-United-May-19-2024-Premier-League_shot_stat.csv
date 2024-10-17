@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Adam Webster,Brighton,0.06,,Off Target,5.0,Head,,Pascal Groß,Pass (Dead),Valentín Barco,Pass (Live)
+1,11,Bruno Fernandes,Manchester Utd,0.02,0.28,Saved,28.0,Right Foot,,Kobbie Mainoo,Tackle,,
+2,12,Valentín Barco,Brighton,0.12,0.16,Saved,12.0,Left Foot,,Carlos Baleba,Pass (Live),Jakub Moder,Pass (Live)
+3,18,Jakub Moder,Brighton,0.06,0.6,Saved,11.0,Right Foot,,Pascal Groß,Pass (Dead),Simon Adingra,Fouled
+4,21,João Pedro,Brighton,0.08,,Blocked,16.0,Right Foot,,Danny Welbeck,Pass (Live),,
+5,23,Adam Webster,Brighton,0.06,,Off Target,11.0,Head,,Pascal Groß,Pass (Dead),João Pedro,Fouled
+6,26,Scott McTominay,Manchester Utd,0.1,,Off Target,14.0,Right Foot,,Bruno Fernandes,Pass (Live),Scott McTominay,Pass (Live)
+7,28,Carlos Baleba,Brighton,0.04,,Blocked,26.0,Left Foot,,Adam Lallana,Pass (Live),Simon Adingra,Pass (Live)
+8,29,Adam Webster,Brighton,0.04,,Blocked,10.0,Head,,Valentín Barco,Pass (Dead),Carlos Baleba,Shot
+9,32,João Pedro,Brighton,0.36,,Off Target,8.0,Right Foot,,João Pedro,Take-On,João Pedro,Pass (Live)
+10,35,Adam Lallana,Brighton,0.03,,Blocked,26.0,Left Foot,,Danny Welbeck,Pass (Live),Adam Lallana,Pass (Live)
+11,37,Adam Lallana,Brighton,0.08,,Blocked,12.0,Left Foot,,João Pedro,Pass (Live),Adam Lallana,Pass (Live)
+12,42,Alejandro Garnacho,Manchester Utd,0.07,0.03,Saved,10.0,Left Foot,,Alejandro Garnacho,Take-On,Diogo Dalot,Pass (Live)
+13,,,,,,,,,,,,,
+14,48,Pascal Groß,Brighton,0.03,,Blocked,21.0,Right Foot,,João Pedro,Pass (Live),Pascal Groß,Pass (Live)
+15,50,João Pedro,Brighton,0.63,,Blocked,8.0,Right Foot,,Jakub Moder,Pass (Live),Pascal Groß,Pass (Live)
+16,50,Adam Lallana,Brighton,0.19,,Blocked,11.0,Left Foot,,Pascal Groß,Pass (Live),João Pedro,Shot
+17,51,João Pedro,Brighton,0.05,,Blocked,11.0,Head,,Simon Adingra,Pass (Live),Adam Webster,Pass (Live)
+18,52,Alejandro Garnacho,Manchester Utd,0.08,,Blocked,18.0,Right Foot,,Diogo Dalot,Pass (Live),Sofyan Amrabat,Pass (Live)
+19,55,Scott McTominay,Manchester Utd,0.09,,Blocked,14.0,Right Foot,,Casemiro,Pass (Live),Bruno Fernandes,Pass (Live)
+20,63,Jakub Moder,Brighton,0.01,,Off Target,29.0,Right Foot,Volley,Julio Enciso,Pass (Live),Adam Webster,Pass (Live)
+21,63,Scott McTominay,Manchester Utd,0.1,,Blocked,12.0,Right Foot,,Amad Diallo,Pass (Live),Rasmus Højlund,Pass (Live)
+22,64,Amad Diallo,Manchester Utd,0.03,,Off Target,23.0,Left Foot,,Rasmus Højlund,Pass (Live),Rasmus Højlund,Tackle
+23,68,Alejandro Garnacho,Manchester Utd,0.06,,Blocked,17.0,Right Foot,,Amad Diallo,Pass (Live),Alejandro Garnacho,Pass (Live)
+24,73,Diogo Dalot,Manchester Utd,0.53,0.64,Goal,15.0,Right Foot,,Jonny Evans,Pass (Live),Raphaël Varane,Pass (Live)
+25,83,Alejandro Garnacho,Manchester Utd,0.06,,Blocked,24.0,Left Foot,,Casemiro,Pass (Live),Marcus Rashford,Pass (Live)
+26,85,João Pedro,Brighton,0.01,,Off Target,11.0,Head,,Pascal Groß,Pass (Dead),,
+27,88,Rasmus Højlund,Manchester Utd,0.15,0.12,Goal,12.0,Right Foot,,Rasmus Højlund,Take-On,Christian Eriksen,Pass (Live)
+28,90+3,Ansu Fati,Brighton,0.04,,Blocked,15.0,Right Foot,Volley,Ansu Fati,Tackle,,

@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Giovani Lo Celso,Tottenham,0.03,0.05,Saved,20.0,Left Foot,,Harry Kane,Pass (Live),Moussa Sissoko,Pass (Live)
+1,6,Son Heung-min,Tottenham,0.02,,Off Target,33.0,Right Foot,,Giovani Lo Celso,Pass (Dead),Son Heung-min,Fouled
+2,13,Harry Kane,Tottenham,0.07,0.36,Goal,16.0,Right Foot,,Giovani Lo Celso,Pass (Live),Giovani Lo Celso,Take-On
+3,15,James McArthur,Crystal Palace,0.06,,Blocked,10.0,Head,,James McCarthy,Pass (Dead),Tyrick Mitchell,Pass (Live)
+4,15,Andros Townsend,Crystal Palace,0.02,,Off Target,30.0,Left Foot,,Jordan Ayew,Pass (Live),James McArthur,Pass (Live)
+5,19,Harry Winks,Tottenham,0.02,,Blocked,33.0,Right Foot,,Lucas Moura,Pass (Live),Lucas Moura,Take-On
+6,27,Jeffrey Schlupp,Crystal Palace,0.03,0.06,Saved,20.0,Left Foot,,Joel Ward,Pass (Live),Wilfried Zaha,Pass (Live)
+7,32,Ben Davies,Tottenham,0.04,,Blocked,18.0,Left Foot,,Giovani Lo Celso,Pass (Live),Ben Davies,Pass (Live)
+8,34,Joel Ward,Crystal Palace,0.05,,Off Target,6.0,Head,,Tyrick Mitchell,Pass (Live),Scott Dann,Pass (Live)
+9,36,Cheikhou Kouyaté,Crystal Palace,0.07,,Off Target,9.0,Head,,James McCarthy,Pass (Dead),,
+10,37,Wilfried Zaha,Crystal Palace,0.06,,Off Target,11.0,Head,,Andros Townsend,Pass (Live),Jordan Ayew,Pass (Live)
+11,41,Andros Townsend,Crystal Palace,0.03,,Blocked,28.0,Left Foot,,Jordan Ayew,Pass (Live),Andros Townsend,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Toby Alderweireld,Tottenham,0.07,,Off Target,6.0,Head,,Giovani Lo Celso,Pass (Dead),,
+14,53,Jordan Ayew,Crystal Palace,0.09,,Off Target,10.0,Right Foot,,Scott Dann,Pass (Live),James McCarthy,Pass (Dead)
+15,53,Jeffrey Schlupp,Crystal Palace,0.15,0.3,Goal,8.0,Right Foot,,Jordan Ayew,Shot,,
+16,56,Scott Dann,Crystal Palace,0.07,,Off Target,10.0,Head,,Andros Townsend,Pass (Dead),Andros Townsend,Pass (Live)
+17,60,Lucas Moura,Tottenham,0.05,,Off Target,13.0,Right Foot,Volley,Ben Davies,Pass (Live),Son Heung-min,Pass (Live)
+18,62,Scott Dann,Crystal Palace,0.03,,Off Target,14.0,Head,,James McCarthy,Pass (Dead),Jordan Ayew,Fouled
+19,77,Jordan Ayew,Crystal Palace,0.06,,Off Target,12.0,Left Foot,,,,,
+20,90+2,Scott Dann,Crystal Palace,0.07,,Off Target,10.0,Head,,Luka Milivojević,Pass (Dead),Jordan Ayew,Fouled

@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Bruno Guimarães,Newcastle Utd,0.07,,Blocked,14.0,Right Foot,,Kieran Trippier,Pass (Live),,
+1,11,Alejandro Garnacho,Manchester Utd,0.1,0.17,Saved,13.0,Left Foot,,Bruno Fernandes,Pass (Live),Kobbie Mainoo,Pass (Live)
+2,13,Aaron Wan-Bissaka,Manchester Utd,0.03,,Blocked,27.0,Right Foot,,Alejandro Garnacho,Pass (Live),Diogo Dalot,Pass (Live)
+3,15,Alexander Isak,Newcastle Utd,0.05,,Blocked,10.0,Right Foot,,Kieran Trippier,Pass (Live),Lewis Miley,Pass (Live)
+4,16,Anthony Gordon,Newcastle Utd,0.07,,Blocked,25.0,Right Foot,,Anthony Gordon,Pass (Live),Lewis Miley,Interception
+5,16,Anthony Gordon,Newcastle Utd,0.1,0.11,Saved,15.0,Left Foot,,Anthony Gordon,Shot,,
+6,17,Miguel Almirón,Newcastle Utd,0.15,0.47,Saved,10.0,Left Foot,,Joelinton,Pass (Live),Kieran Trippier,Pass (Live)
+7,18,Bruno Guimarães,Newcastle Utd,0.03,,Off Target,26.0,Right Foot,,Anthony Gordon,Pass (Live),Fabian Schär,Pass (Live)
+8,20,Alexander Isak,Newcastle Utd,0.25,,Blocked,10.0,Left Foot,,Bruno Guimarães,Pass (Live),Lewis Miley,Pass (Live)
+9,20,Fabian Schär,Newcastle Utd,0.03,,Off Target,11.0,Head,,Anthony Gordon,Pass (Live),Valentino Livramento,Pass (Live)
+10,20,Jamaal Lascelles,Newcastle Utd,0.22,,Off Target,5.0,Head,,Alexander Isak,Pass (Live),Fabian Schär,Shot
+11,33,Alexander Isak,Newcastle Utd,0.04,,Off Target,21.0,Right Foot,,,,,
+12,35,Miguel Almirón,Newcastle Utd,0.13,,Off Target,13.0,Left Foot,,Kieran Trippier,Pass (Live),Fabian Schär,Pass (Live)
+13,39,Kieran Trippier,Newcastle Utd,0.09,,Woodwork,27.0,Right Foot,Free kick,Fabian Schär,Fouled,Anthony Gordon,Pass (Live)
+14,45,Fabian Schär,Newcastle Utd,0.08,,Blocked,12.0,Right Foot,Volley,Kieran Trippier,Pass (Dead),,
+15,45,Fabian Schär,Newcastle Utd,0.03,,Off Target,21.0,Right Foot,,Joelinton,Pass (Live),Fabian Schär,Pass (Live)
+16,,,,,,,,,,,,,
+17,47,Miguel Almirón,Newcastle Utd,0.03,,Off Target,20.0,Left Foot,,Valentino Livramento,Pass (Live),Valentino Livramento,Take-On
+18,55,Joelinton,Newcastle Utd,0.08,0.02,Saved,21.0,Left Foot,,Joelinton,Take-On,Kieran Trippier,Pass (Live)
+19,55,Anthony Gordon,Newcastle Utd,0.57,0.9,Goal,3.0,Right Foot,,Kieran Trippier,Pass (Live),Bruno Guimarães,Pass (Live)
+20,58,Fabian Schär,Newcastle Utd,0.04,,Off Target,32.0,Right Foot,,Bruno Guimarães,Pass (Live),Kieran Trippier,Pass (Live)
+21,60,Miguel Almirón,Newcastle Utd,0.04,,Blocked,19.0,Left Foot,,Kieran Trippier,Tackle,,
+22,63,Harry Maguire,Manchester Utd,0.03,,Off Target,13.0,Head,,Luke Shaw,Pass (Dead),Rasmus Højlund,Fouled
+23,71,Kieran Trippier,Newcastle Utd,0.02,,Off Target,30.0,Right Foot,,Bruno Guimarães,Pass (Live),Anthony Gordon,Pass (Live)
+24,78,Miguel Almirón,Newcastle Utd,0.12,,Off Target,9.0,Left Foot,,Joelinton,Pass (Live),Kieran Trippier,Pass (Live)
+25,78,Lewis Miley,Newcastle Utd,0.25,,Blocked,9.0,Left Foot,,Miguel Almirón,Shot,,
+26,82,Sergio Reguilón,Manchester Utd,0.01,,Blocked,25.0,Left Foot,Volley,Sergio Reguilón,Pass (Live),Scott McTominay,Pass (Live)
+27,82,Harry Maguire,Manchester Utd,0.05,,Blocked,16.0,Right Foot,,Sergio Reguilón,Shot,,
+28,88,Sergio Reguilón,Manchester Utd,0.04,,Blocked,21.0,Left Foot,,,,,
+29,89,Antony,Manchester Utd,0.2,,Blocked,12.0,Left Foot,,Bruno Fernandes,Pass (Live),,
+30,90+8,Sofyan Amrabat,Manchester Utd,0.03,,Off Target,20.0,Right Foot,Volley,Rasmus Højlund,Pass (Live),Diogo Dalot,Pass (Dead)

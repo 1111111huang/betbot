@@ -1,0 +1,41 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Antony,Manchester Utd,0.05,,Off Target,16.0,Left Foot,,Alejandro Garnacho,Pass (Live),,
+1,5,Alejandro Garnacho,Manchester Utd,0.02,0.16,Saved,17.0,Right Foot,,Alejandro Garnacho,Take-On,Mason Mount,Pass (Live)
+2,9,Raphaël Varane,Manchester Utd,0.01,0.06,Saved,13.0,Head,,Luke Shaw,Pass (Dead),Antony,Pass (Live)
+3,10,Raphaël Varane,Manchester Utd,0.02,,Off Target,10.0,Head,,Mason Mount,Pass (Dead),Raphaël Varane,Shot
+4,13,Marcus Rashford,Manchester Utd,0.12,0.92,Saved,8.0,Right Foot,,Marcus Rashford,Pass (Live),Bruno Fernandes,Pass (Live)
+5,14,Alejandro Garnacho,Manchester Utd,0.11,,Blocked,10.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Marcus Rashford,Pass (Live)
+6,16,Pape Matar Sarr,Tottenham,0.05,,Off Target,8.0,Head,,James Maddison,Pass (Dead),,
+7,21,Marcus Rashford,Manchester Utd,0.03,,Blocked,17.0,Right Foot,,Bruno Fernandes,Pass (Dead),Casemiro,Fouled
+8,23,Marcus Rashford,Manchester Utd,0.25,,Off Target,7.0,Head,,Bruno Fernandes,Pass (Live),Alejandro Garnacho,Pass (Live)
+9,24,Bruno Fernandes,Manchester Utd,0.07,,Blocked,17.0,Right Foot,,Luke Shaw,Pass (Live),Alejandro Garnacho,Pass (Live)
+10,25,Dejan Kulusevski,Tottenham,0.06,0.11,Saved,17.0,Left Foot,,Pape Matar Sarr,Pass (Live),Son Heung-min,Pass (Live)
+11,26,Alejandro Garnacho,Manchester Utd,0.08,,Blocked,17.0,Right Foot,,Marcus Rashford,Pass (Live),Marcus Rashford,Take-On
+12,28,Casemiro,Manchester Utd,0.05,,Blocked,10.0,Head,,Luke Shaw,Pass (Dead),Alejandro Garnacho,Shot
+13,30,Pape Matar Sarr,Tottenham,0.14,0.04,Saved,9.0,Left Foot,,Son Heung-min,Pass (Live),Destiny Udogie,Pass (Live)
+14,30,Pape Matar Sarr,Tottenham,0.08,,Blocked,6.0,Right Foot,,Pape Matar Sarr,Shot,,
+15,32,Bruno Fernandes,Manchester Utd,0.05,,Blocked,18.0,Right Foot,,Marcus Rashford,Pass (Live),Antony,Pass (Live)
+16,32,Antony,Manchester Utd,0.02,,Off Target,24.0,Left Foot,,Bruno Fernandes,Shot,,
+17,36,Bruno Fernandes,Manchester Utd,0.52,,Off Target,7.0,Head,,Luke Shaw,Pass (Live),Alejandro Garnacho,Pass (Live)
+18,40,Pedro Porro,Tottenham,0.11,,Woodwork,20.0,Right Foot,,Son Heung-min,Pass (Live),Micky van de Ven,Pass (Live)
+19,44,Dejan Kulusevski,Tottenham,0.02,0.02,Saved,26.0,Left Foot,,Richarlison,Pass (Live),Pape Matar Sarr,Pass (Live)
+20,45,Cristian Romero,Tottenham,0.11,,Off Target,10.0,Head,,Pedro Porro,Pass (Live),Pape Matar Sarr,Fouled
+21,,,,,,,,,,,,,
+22,49,Pape Matar Sarr,Tottenham,0.32,0.96,Goal,5.0,Left Foot,Volley,Pedro Porro,Pass (Live),Pape Matar Sarr,Pass (Live)
+23,51,Antony,Manchester Utd,0.14,,Woodwork,15.0,Left Foot,,Bruno Fernandes,Pass (Live),Mason Mount,Pass (Live)
+24,52,Destiny Udogie,Tottenham,0.09,0.35,Saved,7.0,Left Foot,,Son Heung-min,Pass (Live),James Maddison,Pass (Live)
+25,53,James Maddison,Tottenham,0.04,0.29,Saved,12.0,Right Foot,,James Maddison,Take-On,Pape Matar Sarr,Pass (Live)
+26,56,Casemiro,Manchester Utd,0.22,0.16,Saved,10.0,Head,,Bruno Fernandes,Pass (Dead),Marcus Rashford,Fouled
+27,60,Yves Bissouma,Tottenham,0.03,,Off Target,30.0,Right Foot,,Dejan Kulusevski,Pass (Live),Pedro Porro,Pass (Live)
+28,61,Son Heung-min,Tottenham,0.13,,Blocked,11.0,Right Foot,,Son Heung-min,Take-On,Son Heung-min,Take-On
+29,64,Yves Bissouma,Tottenham,0.04,,Off Target,16.0,Right Foot,,Yves Bissouma,Take-On,Son Heung-min,Pass (Live)
+30,74,Pape Matar Sarr,Tottenham,0.07,,Off Target,8.0,Head,,James Maddison,Pass (Dead),,
+31,80,Casemiro,Manchester Utd,0.06,0.13,Saved,22.0,Right Foot,Volley,Bruno Fernandes,Pass (Live),Raphaël Varane,Pass (Live)
+32,83,Ben Davies,Tottenham,0.42,,Off Target,9.0,Left Foot,,Ivan Perišić,Pass (Live),James Maddison,Pass (Live)
+33,86,Bruno Fernandes,Manchester Utd,0.03,,Blocked,22.0,Right Foot,,Anthony Martial,Pass (Live),Diogo Dalot,Pass (Live)
+34,90+2,Bruno Fernandes,Manchester Utd,0.03,0.03,Saved,28.0,Right Foot,,Lisandro Martínez,Pass (Live),Raphaël Varane,Pass (Live)
+35,90+3,James Maddison,Tottenham,0.06,,Blocked,14.0,Right Foot,,Ivan Perišić,Pass (Live),Ben Davies,Pass (Live)
+36,90+3,Ben Davies,Tottenham,0.01,,Blocked,27.0,Right Foot,Volley,James Maddison,Shot,,
+37,90+6,Casemiro,Manchester Utd,0.05,,Blocked,20.0,Left Foot,,Luke Shaw,Pass (Live),,
+38,90+7,Casemiro,Manchester Utd,0.02,,Blocked,11.0,Head,,Luke Shaw,Pass (Dead),Casemiro,Shot
+39,90+9,Bruno Fernandes,Manchester Utd,0.13,,Off Target,25.0,Right Foot,Free kick,Facundo Pellistri,Fouled,,

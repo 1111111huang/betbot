@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Scott McTominay,Manchester Utd,0.11,,Off Target,8.0,Head,,Luke Shaw,Pass (Dead),Cristiano Ronaldo,Pass (Live)
+1,17,Jarrod Bowen,West Ham,0.19,,Blocked,12.0,Left Foot,,Saïd Benrahma,Pass (Live),Saïd Benrahma,Take-On
+2,18,Tomáš Souček,West Ham,0.03,,Off Target,27.0,Left Foot,,Jarrod Bowen,Pass (Live),Vladimír Coufal,Pass (Live)
+3,21,Jarrod Bowen,West Ham,0.09,0.06,Saved,14.0,Right Foot,,Jarrod Bowen,Take-On,Pablo Fornals,Pass (Live)
+4,22,Tomáš Souček,West Ham,0.05,,Off Target,22.0,Right Foot,,Jarrod Bowen,Shot,,
+5,24,Cristiano Ronaldo,Manchester Utd,0.03,0.05,Saved,17.0,Right Foot,,Paul Pogba,Pass (Live),Mason Greenwood,Pass (Live)
+6,27,Bruno Fernandes,Manchester Utd,0.07,0.51,Saved,12.0,Left Foot,,Scott McTominay,Pass (Live),Fred,Pass (Live)
+7,28,Luke Shaw,Manchester Utd,0.03,0.1,Saved,27.0,Left Foot,Deflected,Fred,Pass (Live),Mason Greenwood,Pass (Live)
+8,30,Saïd Benrahma,West Ham,0.04,0.33,Goal,27.0,Right Foot,Deflected,Jarrod Bowen,Pass (Live),Vladimír Coufal,Pass (Live)
+9,32,Cristiano Ronaldo,Manchester Utd,0.07,,Off Target,14.0,Right Foot,Volley,Luke Shaw,Pass (Live),Bruno Fernandes,Pass (Live)
+10,34,Aaron Wan-Bissaka,Manchester Utd,0.03,0.15,Saved,16.0,Right Foot,,Aaron Wan-Bissaka,Take-On,Luke Shaw,Pass (Live)
+11,34,Cristiano Ronaldo,Manchester Utd,0.44,0.24,Saved,9.0,Right Foot,Volley,Bruno Fernandes,Pass (Live),Fred,Pass (Live)
+12,35,Cristiano Ronaldo,Manchester Utd,0.92,1.0,Goal,3.0,Right Foot,,Cristiano Ronaldo,Shot,,
+13,42,Cristiano Ronaldo,Manchester Utd,0.04,0.21,Saved,15.0,Right Foot,,Mason Greenwood,Pass (Live),Bruno Fernandes,Pass (Live)
+14,42,Nikola Vlašić,West Ham,0.15,,Off Target,10.0,Left Foot,,Aaron Cresswell,Pass (Live),Pablo Fornals,Pass (Live)
+15,45,Paul Pogba,Manchester Utd,0.02,,Blocked,27.0,Left Foot,,Scott McTominay,Pass (Live),Raphaël Varane,Pass (Live)
+16,,,,,,,,,,,,,
+17,47,Cristiano Ronaldo,Manchester Utd,0.51,0.46,Saved,12.0,Right Foot,,Bruno Fernandes,Pass (Live),,
+18,47,Cristiano Ronaldo,Manchester Utd,0.04,,Blocked,15.0,Left Foot,Volley,Paul Pogba,Pass (Live),Luke Shaw,Pass (Dead)
+19,48,Jarrod Bowen,West Ham,0.01,0.18,Saved,29.0,Left Foot,,Jarrod Bowen,Take-On,Vladimír Coufal,Pass (Live)
+20,50,Harry Maguire,Manchester Utd,0.04,,Off Target,11.0,Head,,Luke Shaw,Pass (Dead),Bruno Fernandes,Pass (Live)
+21,51,Pablo Fornals,West Ham,0.15,,Off Target,9.0,Right Foot,,Jarrod Bowen,Pass (Live),Pablo Fornals,Pass (Live)
+22,52,Paul Pogba,Manchester Utd,0.05,,Off Target,27.0,Right Foot,,Bruno Fernandes,Pass (Live),Paul Pogba,Pass (Live)
+23,57,Jarrod Bowen,West Ham,0.03,,Blocked,13.0,Left Foot,,Pablo Fornals,Pass (Live),Declan Rice,Pass (Live)
+24,61,Bruno Fernandes,Manchester Utd,0.01,,Blocked,33.0,Right Foot,,Luke Shaw,Pass (Live),Scott McTominay,Pass (Live)
+25,62,Saïd Benrahma,West Ham,0.02,,Blocked,30.0,Right Foot,,Aaron Cresswell,Pass (Live),Nikola Vlašić,Pass (Live)
+26,72,Saïd Benrahma,West Ham,0.03,,Blocked,31.0,Right Foot,,Andriy Yarmolenko,Pass (Live),Pablo Fornals,Pass (Live)
+27,75,Bruno Fernandes,Manchester Utd,0.03,0.02,Saved,28.0,Right Foot,,Jesse Lingard,Pass (Live),Bruno Fernandes,Pass (Live)
+28,81,Pablo Fornals,West Ham,0.03,,Off Target,26.0,Right Foot,,,,,
+29,89,Jesse Lingard,Manchester Utd,0.05,0.59,Goal,17.0,Right Foot,,Nemanja Matić,Pass (Live),Luke Shaw,Pass (Live)
+30,90+5,Mark Noble (pen),West Ham,0.79,0.99,Saved,13.0,Right Foot,,,Fouled,Manuel Lanzini,Pass (Live)

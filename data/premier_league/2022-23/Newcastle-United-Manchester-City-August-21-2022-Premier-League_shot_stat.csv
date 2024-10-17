@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Rodri,Manchester City,0.02,,Off Target,30.0,Right Foot,,Phil Foden,Pass (Live),João Cancelo,Pass (Live)
+1,5,İlkay Gündoğan,Manchester City,0.15,0.43,Goal,9.0,Right Foot,,Bernardo Silva,Pass (Live),İlkay Gündoğan,Pass (Live)
+2,10,João Cancelo,Manchester City,0.04,,Blocked,19.0,Right Foot,,İlkay Gündoğan,Pass (Live),Nathan Aké,Pass (Live)
+3,10,Kevin De Bruyne,Manchester City,0.2,0.38,Saved,12.0,Right Foot,,Erling Haaland,Pass (Live),Erling Haaland,Take-On
+4,16,Phil Foden,Manchester City,0.08,0.19,Saved,15.0,Left Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+5,17,Miguel Almirón,Newcastle Utd,0.26,,Off Target,12.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Pass (Live)
+6,20,Kevin De Bruyne,Manchester City,0.08,0.23,Saved,24.0,Right Foot,Free kick,Erling Haaland,Fouled,Kevin De Bruyne,Pass (Live)
+7,24,Allan Saint-Maximin,Newcastle Utd,0.14,0.02,Saved,12.0,Left Foot,,Miguel Almirón,Pass (Live),Fabian Schär,Pass (Live)
+8,26,Callum Wilson,Newcastle Utd,0.04,,Blocked,13.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Pass (Live)
+9,27,Callum Wilson,Newcastle Utd,0.47,0.23,Saved,6.0,Left Foot,Volley,Sven Botman,Pass (Live),Kieran Trippier,Pass (Dead)
+10,28,Miguel Almirón,Newcastle Utd,0.43,0.95,Goal,5.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Allan Saint-Maximin,Take-On
+11,31,Callum Wilson,Newcastle Utd,0.03,,Off Target,14.0,Left Foot,Volley,Joe Willock,Pass (Live),Allan Saint-Maximin,Pass (Live)
+12,37,İlkay Gündoğan,Manchester City,0.06,,Blocked,15.0,Right Foot,,João Cancelo,Pass (Live),İlkay Gündoğan,Pass (Live)
+13,37,Miguel Almirón,Newcastle Utd,0.02,,Blocked,18.0,Left Foot,,Joelinton,Pass (Live),Bruno Guimarães,Pass (Live)
+14,39,Callum Wilson,Newcastle Utd,0.24,0.55,Goal,17.0,Right Foot,,Allan Saint-Maximin,Pass (Live),,
+15,43,Rodri,Manchester City,0.03,0.42,Saved,30.0,Right Foot,,İlkay Gündoğan,Pass (Live),Phil Foden,Pass (Live)
+16,45+4,Rúben Dias,Manchester City,0.17,,Off Target,9.0,Head,,Kevin De Bruyne,Pass (Dead),Bernardo Silva,Fouled
+17,,,,,,,,,,,,,
+18,52,Erling Haaland,Manchester City,0.1,0.21,Saved,20.0,Right Foot,,Erling Haaland,Take-On,Rúben Dias,Pass (Live)
+19,54,Kieran Trippier,Newcastle Utd,0.05,0.59,Goal,29.0,Right Foot,Free kick,Allan Saint-Maximin,Fouled,Bruno Guimarães,Pass (Live)
+20,60,Rúben Dias,Manchester City,0.11,0.03,Saved,9.0,Head,,Phil Foden,Pass (Dead),João Cancelo,Pass (Live)
+21,60,Rodri,Manchester City,0.04,,Blocked,12.0,Right Foot,Volley,Rúben Dias,Shot,,
+22,60,İlkay Gündoğan,Manchester City,0.05,,Blocked,16.0,Right Foot,,Rodri,Shot,,
+23,61,Erling Haaland,Manchester City,0.15,0.47,Goal,5.0,Left Foot,Volley,Rodri,Pass (Live),Kevin De Bruyne,Pass (Live)
+24,62,Erling Haaland,Manchester City,0.35,0.67,Saved,13.0,Left Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+25,64,Bernardo Silva,Manchester City,0.19,0.93,Goal,11.0,Left Foot,,Rodri,Pass (Live),Bernardo Silva,Pass (Live)
+26,66,Kevin De Bruyne,Manchester City,0.03,,Off Target,28.0,Left Foot,,Bernardo Silva,Pass (Live),Rodri,Pass (Live)
+27,73,Allan Saint-Maximin,Newcastle Utd,0.07,,Off Target,16.0,Right Foot,,Bruno Guimarães,Tackle,,
+28,78,Erling Haaland,Manchester City,0.1,,Off Target,5.0,Left Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+29,79,Allan Saint-Maximin,Newcastle Utd,0.03,,Blocked,25.0,Right Foot,,Allan Saint-Maximin,Take-On,Joelinton,Pass (Live)
+30,81,Rodri,Manchester City,0.03,,Blocked,23.0,Right Foot,,Bernardo Silva,Pass (Live),Kyle Walker,Pass (Live)
+31,83,Sven Botman,Newcastle Utd,0.03,,Off Target,13.0,Left Foot,Volley,Dan Burn,Pass (Live),Kieran Trippier,Pass (Dead)
+32,90,Phil Foden,Manchester City,0.05,,Blocked,22.0,Left Foot,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Tackle
+33,90+6,Bernardo Silva,Manchester City,0.1,,Blocked,14.0,Left Foot,,Phil Foden,Pass (Live),João Cancelo,Pass (Live)

@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Yves Bissouma,Brighton,0.05,,Off Target,22.0,Right Foot,,Neal Maupay,Pass (Live),Solly March,Pass (Live)
+1,4.0,Ken Sema,Watford,0.03,,Blocked,17.0,Left Foot,,Ismaila Sarr,Pass (Live),Tom Cleverley,Pass (Live)
+2,10.0,Shane Duffy,Brighton,0.06,0.15,Goal,10.0,Head,,Pascal Groß,Pass (Dead),Adam Webster,Pass (Live)
+3,13.0,Ismaila Sarr,Watford,0.06,,Off Target,28.0,Right Foot,,Ismaila Sarr,Pass (Live),William Troost-Ekong,Pass (Live)
+4,41.0,Neal Maupay,Brighton,0.42,0.33,Goal,17.0,Right Foot,,Yves Bissouma,Pass (Live),Yves Bissouma,Interception
+5,,,,,,,,,,,,,
+6,49.0,Ismaila Sarr,Watford,0.07,,Off Target,15.0,Head,,Adam Masina,Pass (Live),Christian Kabasele,Pass (Live)
+7,52.0,Aaron Connolly,Brighton,0.33,,Off Target,10.0,Left Foot,,Alexis Mac Allister,Pass (Live),Yves Bissouma,Pass (Live)
+8,56.0,Leandro Trossard,Brighton,0.02,,Blocked,27.0,Right Foot,,Alexis Mac Allister,Pass (Live),Aaron Connolly,Pass (Live)
+9,56.0,Leandro Trossard,Brighton,0.03,,Off Target,25.0,Left Foot,,Pascal Groß,Pass (Live),Adam Lallana,Pass (Live)
+10,62.0,Shane Duffy,Brighton,0.02,,Blocked,12.0,Head,,Pascal Groß,Pass (Dead),,
+11,63.0,Tom Cleverley,Watford,0.06,0.15,Saved,17.0,Left Foot,,Ken Sema,Pass (Live),Ismaila Sarr,Pass (Live)
+12,64.0,Alexis Mac Allister,Brighton,0.02,,Blocked,25.0,Right Foot,,Solly March,Pass (Live),Alexis Mac Allister,Pass (Live)
+13,69.0,Cucho,Watford,0.02,,Off Target,28.0,Right Foot,Volley,Joshua King,Pass (Live),Ismaila Sarr,Pass (Live)
+14,71.0,Alexis Mac Allister,Brighton,0.02,,Blocked,13.0,Left Foot,Volley,Yves Bissouma,Take-On,Adam Lallana,Pass (Live)
+15,79.0,Shane Duffy,Brighton,0.05,,Blocked,10.0,Head,,Pascal Groß,Pass (Dead),Pascal Groß,Pass (Live)
+16,79.0,Pascal Groß,Brighton,0.04,0.18,Saved,16.0,Left Foot,,Alexis Mac Allister,Pass (Live),,
+17,79.0,Alexis Mac Allister,Brighton,0.25,,Off Target,4.0,Right Foot,,Pascal Groß,Shot,,
+18,80.0,Troy Deeney,Watford,0.05,,Off Target,12.0,Head,,Joshua King,Pass (Live),Cucho,Pass (Live)
+19,83.0,Emmanuel Dennis,Watford,0.07,,Blocked,14.0,Right Foot,,Troy Deeney,Pass (Live),Oghenekaro Etebo,Pass (Live)
+20,85.0,Tom Cleverley,Watford,0.15,,Blocked,16.0,Right Foot,,Ismaila Sarr,Pass (Live),Tom Cleverley,Pass (Live)
+21,85.0,Troy Deeney,Watford,0.03,,Off Target,14.0,Head,,Emmanuel Dennis,Pass (Live),Tom Cleverley,Shot
+22,88.0,Oghenekaro Etebo,Watford,0.02,,Blocked,33.0,Right Foot,,Joshua King,Pass (Live),Cucho,Pass (Live)
+23,89.0,Enock Mwepu,Brighton,0.02,,Off Target,30.0,Right Foot,,Alexis Mac Allister,Pass (Live),Enock Mwepu,Pass (Live)

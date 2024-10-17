@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Phil Foden,Manchester City,0.04,,Blocked,26.0,Left Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+1,4,Erling Haaland,Manchester City,0.3,,Off Target,9.0,Head,,Bernardo Silva,Pass (Live),Bernardo Silva,Take-On
+2,8,Marcus Rashford,Manchester Utd,0.02,0.27,Goal,30.0,Right Foot,,Bruno Fernandes,Pass (Live),André Onana,Pass (Live)
+3,14,Phil Foden,Manchester City,0.09,0.17,Saved,11.0,Right Foot,,Bernardo Silva,Pass (Live),,
+4,16,Kevin De Bruyne,Manchester City,0.07,,Off Target,11.0,Left Foot,,Bernardo Silva,Pass (Live),Jeremy Doku,Pass (Live)
+5,16,Phil Foden,Manchester City,0.02,,Blocked,24.0,Left Foot,,Kevin De Bruyne,Pass (Dead),,
+6,17,Bernardo Silva,Manchester City,0.08,,Blocked,11.0,Left Foot,,Jeremy Doku,Pass (Live),Kyle Walker,Pass (Live)
+7,19,Phil Foden,Manchester City,0.47,0.8,Saved,16.0,Right Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+8,23,Marcus Rashford,Manchester Utd,0.18,,Off Target,10.0,Right Foot,Volley,Bruno Fernandes,Pass (Live),Jonny Evans,Pass (Live)
+9,25,Rodri,Manchester City,0.03,,Blocked,28.0,Right Foot,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+10,30,Jeremy Doku,Manchester City,0.09,,Off Target,14.0,Right Foot,,Bernardo Silva,Pass (Live),Jeremy Doku,Pass (Live)
+11,32,Jeremy Doku,Manchester City,0.03,,Blocked,16.0,Right Foot,,John Stones,Pass (Live),Kyle Walker,Pass (Live)
+12,32,Erling Haaland,Manchester City,0.3,,Off Target,9.0,Head,,Jeremy Doku,Shot,,
+13,33,Rodri,Manchester City,0.1,0.32,Saved,16.0,Right Foot,Volley,Kyle Walker,Pass (Live),Phil Foden,Pass (Live)
+14,35,Kevin De Bruyne,Manchester City,0.03,,Off Target,16.0,Left Foot,,Rodri,Pass (Live),Phil Foden,Pass (Live)
+15,37,Phil Foden,Manchester City,0.17,,Blocked,11.0,Left Foot,,Kevin De Bruyne,Pass (Live),Kyle Walker,Pass (Live)
+16,42,Kevin De Bruyne,Manchester City,0.03,,Off Target,22.0,Right Foot,Volley,Rodri,Pass (Live),Jeremy Doku,Pass (Live)
+17,44,Phil Foden,Manchester City,0.05,,Blocked,16.0,Left Foot,Volley,John Stones,Pass (Live),,
+18,45,Erling Haaland,Manchester City,0.89,,Off Target,3.0,Left Foot,Volley,Phil Foden,Pass (Live),Rodri,Pass (Live)
+19,45+3,Kyle Walker,Manchester City,0.03,,Blocked,25.0,Right Foot,,Bernardo Silva,Pass (Live),John Stones,Pass (Live)
+20,,,,,,,,,,,,,
+21,49,Phil Foden,Manchester City,0.04,,Blocked,19.0,Left Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+22,50,Jeremy Doku,Manchester City,0.03,0.41,Saved,15.0,Right Foot,Deflected,Bernardo Silva,Pass (Live),Erling Haaland,Pass (Live)
+23,56,Phil Foden,Manchester City,0.02,0.56,Goal,25.0,Left Foot,,Rodri,Pass (Live),Kevin De Bruyne,Pass (Live)
+24,60,John Stones,Manchester City,0.02,,Blocked,28.0,Right Foot,,Julián Álvarez,Pass (Live),Rodri,Pass (Live)
+25,70,Kevin De Bruyne,Manchester City,0.14,,Blocked,24.0,Right Foot,Free kick,Erling Haaland,Fouled,Rúben Dias,Pass (Live)
+26,71,Kyle Walker,Manchester City,0.03,0.06,Saved,31.0,Right Foot,,Nathan Aké,Pass (Live),John Stones,Pass (Live)
+27,80,Phil Foden,Manchester City,0.08,0.49,Goal,11.0,Left Foot,,Julián Álvarez,Pass (Live),Phil Foden,Pass (Live)
+28,90+1,Kevin De Bruyne,Manchester City,0.03,,Off Target,25.0,Right Foot,,Kevin De Bruyne,Take-On,Phil Foden,Pass (Live)
+29,90+1,Erling Haaland,Manchester City,0.12,0.84,Goal,14.0,Left Foot,,Rodri,Tackle,Rodri,Pass (Live)
+30,90+9,Casemiro,Manchester Utd,0.04,,Off Target,10.0,Head,,Bruno Fernandes,Pass (Dead),Diogo Dalot,Fouled

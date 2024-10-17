@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Tahith Chong,Luton Town,0.12,0.55,Goal,13.0,Left Foot,,Ross Barkley,Pass (Live),Andros Townsend,Pass (Live)
+1,6,Pape Matar Sarr,Tottenham,0.09,,Off Target,8.0,Head,,Timo Werner,Pass (Live),Son Heung-min,Pass (Live)
+2,15,Timo Werner,Tottenham,0.38,,Off Target,10.0,Left Foot,,Timo Werner,Take-On,Dejan Kulusevski,Pass (Live)
+3,17,Carlton Morris,Luton Town,0.2,,Blocked,7.0,Right Foot,Volley,Reece Burke,Pass (Live),Andros Townsend,Pass (Live)
+4,20,Son Heung-min,Tottenham,0.26,,Woodwork,11.0,Right Foot,,Son Heung-min,Take-On,Dejan Kulusevski,Pass (Live)
+5,20,Timo Werner,Tottenham,0.11,,Blocked,13.0,Right Foot,,Son Heung-min,Shot,,
+6,20,Pape Matar Sarr,Tottenham,0.24,,Blocked,16.0,Left Foot,,Timo Werner,Shot,,
+7,38,Son Heung-min,Tottenham,0.02,,Blocked,24.0,Left Foot,,Dejan Kulusevski,Pass (Live),Cristian Romero,Pass (Live)
+8,44,Alfie Doughty,Luton Town,0.08,,Blocked,13.0,Left Foot,Volley,Andros Townsend,Pass (Live),Luke Berry,Pass (Live)
+9,44,Luke Berry,Luton Town,0.03,,Off Target,13.0,Head,,Alfie Doughty,Pass (Dead),Alfie Doughty,Shot
+10,45+3,Son Heung-min,Tottenham,0.19,,Blocked,15.0,Right Foot,,Timo Werner,Pass (Live),Son Heung-min,Pass (Live)
+11,,,,,,,,,,,,,
+12,48,Son Heung-min,Tottenham,0.1,,Blocked,12.0,Right Foot,,Brennan Johnson,Pass (Live),James Maddison,Pass (Live)
+13,50,Ross Barkley,Luton Town,0.02,0.38,Saved,27.0,Left Foot,,Alfie Doughty,Pass (Live),,
+14,56,Son Heung-min,Tottenham,0.22,0.03,Saved,13.0,Right Foot,,Pedro Porro,Pass (Live),Pape Matar Sarr,Pass (Live)
+15,57,Brennan Johnson,Tottenham,0.04,,Blocked,25.0,Right Foot,,Yves Bissouma,Pass (Live),James Maddison,Pass (Live)
+16,62,James Maddison,Tottenham,0.21,,Blocked,12.0,Right Foot,,James Maddison,Take-On,Son Heung-min,Pass (Live)
+17,65,Jordan Clark,Luton Town,0.04,0.34,Saved,24.0,Right Foot,Volley,,,,
+18,70,Rodrigo Bentancur,Tottenham,0.02,,Off Target,13.0,Right Foot,Volley,Timo Werner,Pass (Live),Rodrigo Bentancur,Pass (Live)
+19,71,Pedro Porro,Tottenham,0.12,,Off Target,14.0,Left Foot,,Brennan Johnson,Pass (Live),Rodrigo Bentancur,Pass (Live)
+20,78,Brennan Johnson,Tottenham,0.73,,Blocked,4.0,Right Foot,Deflected,Giovani Lo Celso,Pass (Live),Timo Werner,Pass (Live)
+21,79,Pedro Porro,Tottenham,0.04,,Off Target,27.0,Right Foot,Free kick,Timo Werner,Fouled,Destiny Udogie,Pass (Live)
+22,86,Son Heung-min,Tottenham,0.22,0.13,Goal,15.0,Right Foot,Deflected,Brennan Johnson,Pass (Live),Timo Werner,Pass (Live)
+23,89,Andros Townsend,Luton Town,0.02,,Blocked,28.0,Left Foot,,Ross Barkley,Pass (Live),,
+24,90+3,Timo Werner,Tottenham,0.02,,Off Target,13.0,Left Foot,,Pierre Højbjerg,Pass (Live),Rodrigo Bentancur,Pass (Live)

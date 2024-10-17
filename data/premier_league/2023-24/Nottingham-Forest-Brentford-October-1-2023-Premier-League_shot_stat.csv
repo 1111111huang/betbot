@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Murillo,Nott'ham Forest,0.06,,Off Target,11.0,Head,,Callum Hudson-Odoi,Pass (Dead),Matt Turner,Pass (Live)
+1,24,Anthony Elanga,Nott'ham Forest,0.08,,Off Target,14.0,Right Foot,,Taiwo Awoniyi,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+2,26,Christian Nørgaard,Brentford,0.07,,Blocked,9.0,Head,,Mathias Jensen,Pass (Dead),Ethan Pinnock,Pass (Live)
+3,27,Ibrahim Sangaré,Nott'ham Forest,0.03,,Blocked,31.0,Right Foot,,Taiwo Awoniyi,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+4,40,Ethan Pinnock,Brentford,0.03,0.03,Saved,11.0,Head,,Christian Nørgaard,Pass (Live),Bryan Mbeumo,Pass (Live)
+5,45+2,Christian Nørgaard,Brentford,0.24,,Blocked,6.0,Left Foot,Volley,Vitaly Janelt,Pass (Live),Mathias Jensen,Pass (Live)
+6,,,,,,,,,,,,,
+7,52,Yoane Wissa,Brentford,0.2,,Blocked,11.0,Right Foot,,,,,
+8,52,Vitaly Janelt,Brentford,0.03,,Blocked,18.0,Left Foot,,Bryan Mbeumo,Pass (Live),Vitaly Janelt,Pass (Live)
+9,53,Keane Lewis-Potter,Brentford,0.03,,Off Target,27.0,Right Foot,,Vitaly Janelt,Shot,,
+10,58,Christian Nørgaard,Brentford,0.18,0.26,Goal,9.0,Head,,Mathias Jensen,Pass (Dead),Yoane Wissa,Fouled
+11,65,Nicolás Domínguez,Nott'ham Forest,0.03,0.08,Goal,13.0,Head,,Harry Toffolo,Pass (Live),Morgan Gibbs-White,Pass (Live)
+12,76,Neal Maupay,Brentford,0.05,,Blocked,9.0,Right Foot,Volley,Ethan Pinnock,Pass (Live),Saman Ghoddos,Tackle
+13,76,Frank Onyeka,Brentford,0.02,,Off Target,28.0,Right Foot,,Neal Maupay,Shot,,
+14,81,Ethan Pinnock,Brentford,0.04,,Off Target,14.0,Left Foot,Volley,Bryan Mbeumo,Pass (Dead),,
+15,85,Kristoffer Ajer,Brentford,0.07,,Off Target,5.0,Head,,Bryan Mbeumo,Pass (Dead),Christian Nørgaard,Pass (Live)
+16,87,Neal Maupay,Brentford,0.1,0.43,Saved,13.0,Left Foot,Volley,Christian Nørgaard,Pass (Live),Frank Onyeka,Pass (Live)
+17,89,Bryan Mbeumo,Brentford,0.16,,Blocked,16.0,Left Foot,,Yoane Wissa,Pass (Live),Neal Maupay,Pass (Live)
+18,90+4,Bryan Mbeumo,Brentford,0.06,,Off Target,11.0,Head,,Mads Roerslev,Pass (Live),Neal Maupay,Pass (Live)
+19,90+6,Chris Wood,Nott'ham Forest,0.22,,Off Target,9.0,Head,,Divock Origi,Pass (Live),,
+20,90+7,Michael Olakigbe,Brentford,0.08,,Blocked,14.0,Right Foot,Deflected,Bryan Mbeumo,Pass (Live),Mads Roerslev,Pass (Live)
+21,90+8,Christian Nørgaard,Brentford,0.02,,Off Target,26.0,Right Foot,,Saman Ghoddos,Pass (Live),Yoane Wissa,Pass (Dead)
+22,90+10,Willy Boly,Nott'ham Forest,0.03,,Off Target,15.0,Head,,Morgan Gibbs-White,Pass (Dead),Morgan Gibbs-White,Fouled
+23,90+11,Yoane Wissa,Brentford,0.18,,Blocked,10.0,Right Foot,,Frank Onyeka,Pass (Live),Nathan Collins,Pass (Live)
+24,90+12,Neal Maupay,Brentford,0.13,,Blocked,17.0,Left Foot,,Bryan Mbeumo,Pass (Live),Bryan Mbeumo,Take-On

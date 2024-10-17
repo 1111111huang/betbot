@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Felipe,Nott'ham Forest,0.16,,Off Target,3.0,Head,,Renan Lodi,Pass (Dead),,
+1,13,Taiwo Awoniyi,Nott'ham Forest,0.14,0.11,Goal,9.0,Head,,Renan Lodi,Pass (Live),Danilo,Pass (Live)
+2,18,Raheem Sterling,Chelsea,0.13,,Blocked,12.0,Left Foot,,Enzo Fernández,Pass (Live),Trevoh Chalobah,Pass (Live)
+3,18,Lewis Hall,Chelsea,0.06,,Blocked,14.0,Left Foot,,Trevoh Chalobah,Pass (Live),Trevoh Chalobah,Take-On
+4,22,Danilo,Nott'ham Forest,0.06,,Blocked,14.0,Left Foot,,Renan Lodi,Pass (Live),,
+5,24,Renan Lodi,Nott'ham Forest,0.01,,Off Target,23.0,Left Foot,Volley,Danilo,Shot,,
+6,27,Raheem Sterling,Chelsea,0.05,,Blocked,25.0,Right Foot,,Raheem Sterling,Take-On,Conor Gallagher,Pass (Live)
+7,31,Enzo Fernández,Chelsea,0.05,,Off Target,27.0,Right Foot,Free kick,João Félix,Fouled,Thiago Silva,Pass (Live)
+8,33,João Félix,Chelsea,0.14,0.2,Saved,12.0,Head,,Lewis Hall,Pass (Live),Lewis Hall,Take-On
+9,,,,,,,,,,,,,
+10,49,Felipe,Nott'ham Forest,0.12,,Off Target,4.0,Head,,Renan Lodi,Pass (Dead),Morgan Gibbs-White,Pass (Live)
+11,49,Moussa Niakhate,Nott'ham Forest,0.29,,Off Target,2.0,Left Foot,Volley,Felipe,Shot,,
+12,51,Raheem Sterling,Chelsea,0.21,0.7,Goal,12.0,Right Foot,Deflected,Noni Madueke,Pass (Live),Trevoh Chalobah,Pass (Live)
+13,53,Felipe,Nott'ham Forest,0.07,,Blocked,11.0,Head,,Morgan Gibbs-White,Pass (Dead),Orel Mangala,Fouled
+14,53,Danilo,Nott'ham Forest,0.04,,Off Target,15.0,Left Foot,Volley,Felipe,Shot,,
+15,55,João Félix,Chelsea,0.13,,Blocked,4.0,Head,,Lewis Hall,Pass (Dead),Trevoh Chalobah,Fouled
+16,56,Conor Gallagher,Chelsea,0.03,0.06,Saved,28.0,Right Foot,,Lewis Hall,Pass (Live),,
+17,58,João Félix,Chelsea,0.02,,Off Target,29.0,Right Foot,,Raheem Sterling,Pass (Live),Enzo Fernández,Pass (Live)
+18,58,Raheem Sterling,Chelsea,0.09,0.48,Goal,15.0,Right Foot,,Raheem Sterling,Take-On,Ruben Loftus-Cheek,Pass (Live)
+19,62,Taiwo Awoniyi,Nott'ham Forest,0.29,0.11,Goal,9.0,Head,,Orel Mangala,Pass (Live),Renan Lodi,Pass (Live)
+20,67,Renan Lodi,Nott'ham Forest,0.05,,Off Target,15.0,Left Foot,,,,,
+21,71,Renan Lodi,Nott'ham Forest,0.07,,Off Target,18.0,Left Foot,,,,,
+22,81,Raheem Sterling,Chelsea,0.13,,Off Target,6.0,Head,,Thiago Silva,Pass (Live),Enzo Fernández,Pass (Live)
+23,87,Conor Gallagher,Chelsea,0.06,,Blocked,10.0,Right Foot,,Enzo Fernández,Pass (Live),Hakim Ziyech,Pass (Live)
+24,90+3,Hakim Ziyech,Chelsea,0.01,0.06,Saved,30.0,Left Foot,,Trevoh Chalobah,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+25,90+5,Conor Gallagher,Chelsea,0.05,0.16,Saved,20.0,Right Foot,,Conor Gallagher,Take-On,Hakim Ziyech,Pass (Live)

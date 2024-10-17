@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Antonee Robinson,Fulham,0.04,0.18,Saved,13.0,Right Foot,,Antonee Robinson,Take-On,Tom Cairney,Pass (Live)
+1,3,João Palhinha,Fulham,0.02,,Blocked,36.0,Right Foot,,Tom Cairney,Pass (Live),Andreas Pereira,Pass (Live)
+2,7,Rodrigo Muniz,Fulham,0.06,,Off Target,15.0,Right Foot,Volley,Willian,Pass (Live),Tom Cairney,Pass (Live)
+3,9,Tom Cairney,Fulham,0.06,,Off Target,23.0,Right Foot,,Andreas Pereira,Pass (Live),,
+4,11,Willian,Fulham,0.08,,Blocked,22.0,Left Foot,,Andreas Pereira,Pass (Live),Timothy Castagne,Pass (Live)
+5,11,Willian,Fulham,0.11,,Off Target,17.0,Left Foot,,Willian,Shot,,
+6,14,João Palhinha,Fulham,0.12,,Off Target,10.0,Right Foot,,Timothy Castagne,Pass (Live),Alex Iwobi,Pass (Live)
+7,18,Andreas Pereira,Fulham,0.12,0.15,Saved,3.0,Left Foot,,Antonee Robinson,Pass (Live),Tom Cairney,Pass (Live)
+8,34,Andreas Pereira,Fulham,0.04,,Off Target,31.0,Right Foot,,Tom Cairney,Pass (Live),Willian,Pass (Live)
+9,34,Anthony Gordon,Newcastle Utd,0.03,,Off Target,31.0,Right Foot,,Bruno Guimarães,Pass (Live),Lewis Hall,Pass (Live)
+10,38,Anthony Gordon,Newcastle Utd,0.07,,Off Target,12.0,Left Foot,,Anthony Gordon,Take-On,Joe Willock,Pass (Live)
+11,39,Rodrigo Muniz,Fulham,0.37,0.47,Saved,15.0,Right Foot,,Andreas Pereira,Pass (Live),Timothy Castagne,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Jacob Murphy,Newcastle Utd,0.02,,Off Target,9.0,Right Foot,,Fabian Schär,Pass (Live),Bruno Guimarães,Pass (Dead)
+14,51,Anthony Gordon,Newcastle Utd,0.03,0.07,Saved,15.0,Right Foot,,Alexander Isak,Pass (Live),Bruno Guimarães,Pass (Live)
+15,55,Anthony Gordon,Newcastle Utd,0.02,0.03,Saved,33.0,Right Foot,,Elliot Anderson,Pass (Live),Elliot Anderson,Take-On
+16,56,João Palhinha,Fulham,0.02,,Off Target,26.0,Right Foot,,Alex Iwobi,Pass (Live),João Palhinha,Pass (Live)
+17,60,Andreas Pereira,Fulham,0.13,0.26,Saved,16.0,Left Foot,,Andreas Pereira,Take-On,Rodrigo Muniz,Pass (Live)
+18,66,Sean Longstaff,Newcastle Utd,0.06,,Blocked,23.0,Right Foot,,Elliot Anderson,Pass (Live),Lewis Hall,Pass (Live)
+19,73,Rodrigo Muniz,Fulham,0.06,,Blocked,8.0,Head,,Harry Wilson,Pass (Dead),Adama Traoré,Pass (Live)
+20,80,Emil Krafth,Newcastle Utd,0.09,,Blocked,16.0,Right Foot,,Bruno Guimarães,Pass (Live),Elliot Anderson,Pass (Live)
+21,81,Bruno Guimarães,Newcastle Utd,0.17,0.25,Goal,15.0,Right Foot,,Elliot Anderson,Pass (Live),Bruno Guimarães,Pass (Live)
+22,85,Anthony Gordon,Newcastle Utd,0.11,,Off Target,12.0,Right Foot,,Bruno Guimarães,Pass (Live),Sean Longstaff,Pass (Live)
+23,90+6,Raúl Jiménez,Fulham,0.04,,Blocked,12.0,Right Foot,Volley,Alex Iwobi,Pass (Live),Calvin Bassey,Pass (Live)
+24,90+9,Alexander Isak,Newcastle Utd,0.05,0.22,Saved,16.0,Right Foot,,Bruno Guimarães,Pass (Live),Alexander Isak,Pass (Live)
+25,90+9,Sean Longstaff,Newcastle Utd,0.12,,Off Target,9.0,Right Foot,,Alexander Isak,Shot,,
+26,90+11,Alexander Isak,Newcastle Utd,0.19,0.18,Saved,10.0,Right Foot,,Emil Krafth,Pass (Dead),,

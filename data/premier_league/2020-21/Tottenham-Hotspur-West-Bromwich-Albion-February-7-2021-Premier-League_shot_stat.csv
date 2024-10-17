@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9.0,Mbaye Diagne,West Brom,0.09,,Off Target,9.0,Head,,Conor Townsend,Pass (Live),Karlan Grant,Pass (Live)
+1,10.0,Son Heung-min,Tottenham,0.03,0.04,Saved,26.0,Right Foot,,Harry Kane,Pass (Live),Pierre Højbjerg,Pass (Live)
+2,11.0,Érik Lamela,Tottenham,0.03,,Off Target,28.0,Left Foot,,Serge Aurier,Pass (Live),Érik Lamela,Pass (Live)
+3,15.0,Harry Kane,Tottenham,0.06,,Off Target,17.0,Left Foot,,Serge Aurier,Pass (Live),Érik Lamela,Pass (Live)
+4,18.0,Harry Kane,Tottenham,0.28,,Off Target,11.0,Left Foot,,Davinson Sánchez,Pass (Live),Toby Alderweireld,Pass (Live)
+5,19.0,Harry Kane,Tottenham,0.07,,Blocked,15.0,Right Foot,,Érik Lamela,Pass (Live),Serge Aurier,Pass (Live)
+6,36.0,Tanguy Ndombele,Tottenham,0.03,,Blocked,26.0,Right Foot,,Son Heung-min,Pass (Live),Ben Davies,Pass (Live)
+7,37.0,Harry Kane,Tottenham,0.06,0.06,Saved,15.0,Right Foot,,Lucas Moura,Pass (Live),Son Heung-min,Pass (Live)
+8,42.0,Serge Aurier,Tottenham,0.07,0.15,Saved,6.0,Head,,Pierre Højbjerg,Pass (Live),Davinson Sánchez,Pass (Live)
+9,42.0,Toby Alderweireld,Tottenham,0.11,,Blocked,11.0,Right Foot,,Serge Aurier,Shot,,
+10,45.0,Mbaye Diagne,West Brom,0.32,0.48,Saved,7.0,Head,,Robert Snodgrass,Pass (Live),Ainsley Maitland-Niles,Pass (Live)
+11,,,,,,,,,,,,,
+12,46.0,Son Heung-min,Tottenham,0.09,0.09,Saved,14.0,Left Foot,,Harry Kane,Pass (Live),Ben Davies,Pass (Live)
+13,50.0,Serge Aurier,Tottenham,0.04,,Off Target,22.0,Right Foot,Volley,Érik Lamela,Fouled,Pierre Højbjerg,Pass (Live)
+14,54.0,Harry Kane,Tottenham,0.27,0.52,Goal,11.0,Right Foot,,Pierre Højbjerg,Pass (Live),Ben Davies,Pass (Live)
+15,58.0,Son Heung-min,Tottenham,0.37,0.68,Goal,15.0,Right Foot,,Lucas Moura,Pass (Live),Harry Kane,Pass (Live)
+16,80.0,Okay Yokuşlu,West Brom,0.07,,Off Target,12.0,Head,,Matt Phillips,Pass (Live),Conor Townsend,Pass (Dead)
+17,89.0,Semi Ajayi,West Brom,0.08,,Off Target,15.0,Other,,Matheus Pereira,Pass (Dead),Conor Gallagher,Fouled

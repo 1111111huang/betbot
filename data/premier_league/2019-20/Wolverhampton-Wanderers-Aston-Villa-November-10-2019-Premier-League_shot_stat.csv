@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Matt Doherty,Wolves,0.06,,Blocked,17.0,Left Foot,,Conor Coady,Pass (Live),Romain Saïss,Pass (Live)
+1,19,Raúl Jiménez,Wolves,0.09,,Off Target,13.0,Left Foot,Volley,Rúben Neves,Pass (Live),João Moutinho,Pass (Live)
+2,21,João Moutinho,Wolves,0.04,,Off Target,18.0,Right Foot,,Raúl Jiménez,Pass (Live),João Moutinho,Pass (Live)
+3,25,Diogo Jota,Wolves,0.6,0.68,Saved,5.0,Head,,Matt Doherty,Pass (Live),Rúben Neves,Pass (Live)
+4,28,Raúl Jiménez,Wolves,0.06,,Off Target,15.0,Left Foot,,Rúben Neves,Pass (Live),,
+5,30,Wesley Moraes,Aston Villa,0.04,0.02,Saved,16.0,Head,,Trézéguet,Pass (Live),Matt Targett,Pass (Live)
+6,34,Matt Doherty,Wolves,0.05,,Blocked,16.0,Right Foot,,Raúl Jiménez,Pass (Live),Romain Saïss,Pass (Live)
+7,39,Diogo Jota,Wolves,0.49,0.72,Saved,4.0,Left Foot,,Diogo Jota,Take-On,Conor Coady,Pass (Live)
+8,41,Rúben Neves,Wolves,0.04,0.2,Goal,22.0,Right Foot,,João Moutinho,Pass (Dead),Adama Traoré,Fouled
+9,45+4,Douglas Luiz,Aston Villa,0.02,0.03,Saved,31.0,Right Foot,,Trézéguet,Take-On,Marvelous Nakamba,Pass (Live)
+10,,,,,,,,,,,,,
+11,46,Marvelous Nakamba,Aston Villa,0.02,,Off Target,32.0,Left Foot,,Anwar El Ghazi,Pass (Live),Frederic Guilbert,Pass (Live)
+12,47,Neil Taylor,Aston Villa,0.03,,Off Target,22.0,Left Foot,,Anwar El Ghazi,Pass (Live),Frederic Guilbert,Pass (Dead)
+13,50,Adama Traoré,Wolves,0.04,,Woodwork,17.0,Right Foot,,Matt Doherty,Pass (Live),Rui Patrício,Pass (Live)
+14,51,Raúl Jiménez,Wolves,0.08,,Off Target,16.0,Left Foot,,Rúben Neves,Pass (Live),Romain Saïss,Pass (Live)
+15,53,Marvelous Nakamba,Aston Villa,0.02,,Off Target,30.0,Left Foot,,Wesley Moraes,Pass (Live),Wesley Moraes,Take-On
+16,54,Rúben Neves,Wolves,0.07,,Blocked,29.0,Right Foot,,Rúben Neves,Take-On,Raúl Jiménez,Pass (Live)
+17,55,Wesley Moraes,Aston Villa,0.09,,Off Target,21.0,Right Foot,,Anwar El Ghazi,Pass (Live),Frederic Guilbert,Pass (Live)
+18,65,Diogo Jota,Wolves,0.04,0.06,Saved,21.0,Right Foot,,Rúben Neves,Pass (Live),Raúl Jiménez,Pass (Live)
+19,68,Diogo Jota,Wolves,0.04,,Blocked,23.0,Left Foot,,Raúl Jiménez,Pass (Live),Diogo Jota,Pass (Live)
+20,68,Diogo Jota,Wolves,0.03,,Blocked,22.0,Right Foot,,João Moutinho,Pass (Live),Romain Saïss,Pass (Live)
+21,68,Raúl Jiménez,Wolves,0.09,,Off Target,11.0,Right Foot,,Diogo Jota,Shot,,
+22,70,Tyrone Mings,Aston Villa,0.15,,Off Target,8.0,Head,,John McGinn,Pass (Dead),Trézéguet,Fouled
+23,77,John McGinn,Aston Villa,0.05,,Blocked,15.0,Left Foot,,Anwar El Ghazi,Pass (Live),Anwar El Ghazi,Take-On
+24,77,Douglas Luiz,Aston Villa,0.03,,Blocked,28.0,Right Foot,,Henri Lansbury,Pass (Live),John McGinn,Shot
+25,79,John McGinn,Aston Villa,0.02,,Blocked,37.0,Left Foot,,John McGinn,Take-On,,
+26,82,Trézéguet,Aston Villa,0.04,,Blocked,17.0,Left Foot,,Henri Lansbury,Pass (Live),Ezri Konsa,Pass (Live)
+27,84,Raúl Jiménez,Wolves,0.11,0.52,Goal,16.0,Right Foot,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+28,87,Anwar El Ghazi,Aston Villa,0.04,0.35,Saved,36.0,Right Foot,Free kick,John McGinn,Fouled,Douglas Luiz,Pass (Live)
+29,90+2,Trézéguet,Aston Villa,0.06,0.03,Goal,9.0,Right Foot,Volley,Frederic Guilbert,Pass (Dead),Trézéguet,Fouled
+30,90+3,Pedro Neto,Wolves,0.47,,Off Target,12.0,Left Foot,,Pedro Neto,Take-On,,

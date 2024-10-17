@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Steven Bergwijn,Tottenham,0.03,,Off Target,23.0,Right Foot,,Érik Lamela,Pass (Live),Dele Alli,Pass (Live)
+1,6,Chris Wood,Burnley,0.03,,Off Target,22.0,Right Foot,,Jeff Hendrick,Pass (Live),James Tarkowski,Pass (Live)
+2,9,Jay Rodriguez,Burnley,0.27,,Blocked,1.0,Head,Deflected,Ashley Westwood,Pass (Dead),Charlie Taylor,Pass (Live)
+3,9,Ben Mee,Burnley,0.13,,Blocked,10.0,Left Foot,,Ben Mee,Take-On,Jay Rodriguez,Shot
+4,9,Jack Cork,Burnley,0.18,,Blocked,8.0,Right Foot,Deflected,Ben Mee,Shot,,
+5,11,Jack Cork,Burnley,0.04,0.19,Saved,19.0,Left Foot,,Charlie Taylor,Pass (Live),Dwight McNeil,Pass (Live)
+6,13,Jay Rodriguez,Burnley,0.04,0.03,Saved,20.0,Right Foot,Volley,Dwight McNeil,Take-On,Jay Rodriguez,Pass (Live)
+7,13,Chris Wood,Burnley,0.74,0.98,Goal,5.0,Right Foot,,Jay Rodriguez,Shot,,
+8,15,Jay Rodriguez,Burnley,0.02,,Blocked,34.0,Right Foot,,Chris Wood,Pass (Live),Dwight McNeil,Pass (Live)
+9,21,Dwight McNeil,Burnley,0.05,0.42,Saved,32.0,Left Foot,Free kick,Jay Rodriguez,Fouled,James Tarkowski,Pass (Live)
+10,26,Jeff Hendrick,Burnley,0.04,,Blocked,20.0,Right Foot,,Ashley Westwood,Pass (Live),Phil Bardsley,Tackle
+11,29,Japhet Tanganga,Tottenham,0.03,,Blocked,24.0,Left Foot,,,,,
+12,30,Érik Lamela,Tottenham,0.05,0.04,Saved,24.0,Left Foot,,Érik Lamela,Take-On,Japhet Tanganga,Pass (Live)
+13,37,Ashley Westwood,Burnley,0.07,,Off Target,21.0,Right Foot,Volley,Chris Wood,Pass (Live),Jay Rodriguez,Pass (Live)
+14,43,Chris Wood,Burnley,0.47,,Off Target,5.0,Left Foot,,James Tarkowski,Pass (Live),Ashley Westwood,Pass (Dead)
+15,45+1,Jay Rodriguez,Burnley,0.03,,Blocked,8.0,Head,,Dwight McNeil,Pass (Live),Jay Rodriguez,Pass (Live)
+16,45+1,Phil Bardsley,Burnley,0.09,,Off Target,9.0,Right Foot,Volley,Jay Rodriguez,Shot,,
+17,,,,,,,,,,,,,
+18,50,Dele Alli (pen),Tottenham,0.79,0.98,Goal,13.0,Right Foot,,Érik Lamela,Fouled,Giovani Lo Celso,Tackle
+19,57,Jeff Hendrick,Burnley,0.07,,Blocked,26.0,Right Foot,Free kick,Chris Wood,Fouled,Jay Rodriguez,Pass (Live)
+20,58,Toby Alderweireld,Tottenham,0.02,,Off Target,26.0,Left Foot,,Steven Bergwijn,Pass (Live),Giovani Lo Celso,Pass (Dead)
+21,67,Giovani Lo Celso,Tottenham,0.02,,Off Target,31.0,Left Foot,,Eric Dier,Pass (Live),Toby Alderweireld,Pass (Live)
+22,73,Dele Alli,Tottenham,0.04,,Off Target,15.0,Right Foot,,Steven Bergwijn,Pass (Live),Giovani Lo Celso,Pass (Live)
+23,77,Chris Wood,Burnley,0.03,0.02,Saved,27.0,Right Foot,,Jeff Hendrick,Pass (Live),Matěj Vydra,Pass (Live)
+24,79,Lucas Moura,Tottenham,0.03,,Blocked,29.0,Right Foot,,Steven Bergwijn,Pass (Live),Jan Vertonghen,Pass (Live)
+25,80,Japhet Tanganga,Tottenham,0.01,,Off Target,34.0,Right Foot,,Toby Alderweireld,Pass (Live),Giovani Lo Celso,Pass (Dead)
+26,81,Jan Vertonghen,Tottenham,0.04,,Blocked,18.0,Left Foot,,Lucas Moura,Pass (Live),Lucas Moura,Take-On
+27,81,Chris Wood,Burnley,0.05,0.1,Saved,22.0,Right Foot,,Matěj Vydra,Pass (Live),Ashley Westwood,Pass (Live)
+28,82,Giovani Lo Celso,Tottenham,0.04,,Off Target,22.0,Left Foot,,Lucas Moura,Pass (Live),Serge Aurier,Pass (Live)
+29,84,Dwight McNeil,Burnley,0.05,,Blocked,15.0,Left Foot,Volley,Ashley Westwood,Pass (Live),James Tarkowski,Pass (Live)
+30,84,Matěj Vydra,Burnley,0.57,0.74,Saved,8.0,Right Foot,Deflected,Dwight McNeil,Shot,,
+31,86,Dele Alli,Tottenham,0.08,,Blocked,16.0,Right Foot,,Serge Aurier,Pass (Live),Japhet Tanganga,Pass (Live)
+32,87,Toby Alderweireld,Tottenham,0.02,,Blocked,22.0,Left Foot,,Giovani Lo Celso,Pass (Live),Steven Bergwijn,Pass (Live)
+33,90+5,Ben Mee,Burnley,0.12,,Blocked,7.0,Head,,Dwight McNeil,Pass (Dead),Ashley Westwood,Pass (Live)
+34,90+5,Chris Wood,Burnley,0.09,,Blocked,7.0,Right Foot,Volley,Ben Mee,Shot,,

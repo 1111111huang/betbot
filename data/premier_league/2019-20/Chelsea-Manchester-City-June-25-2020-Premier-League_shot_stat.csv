@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Bernardo Silva,Manchester City,0.06,,Off Target,15.0,Right Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+1,13,Mason Mount,Chelsea,0.03,,Off Target,18.0,Right Foot,Volley,César Azpilicueta,Pass (Live),Christian Pulisic,Pass (Live)
+2,15,Bernardo Silva,Manchester City,0.18,,Off Target,7.0,Right Foot,,Riyad Mahrez,Pass (Live),,
+3,18,Fernandinho,Manchester City,0.04,0.09,Saved,13.0,Head,,Riyad Mahrez,Pass (Dead),İlkay Gündoğan,Fouled
+4,21,Rodri,Manchester City,0.02,,Blocked,32.0,Right Foot,,Benjamin Mendy,Pass (Live),Aymeric Laporte,Pass (Live)
+5,25,Kevin De Bruyne,Manchester City,0.02,,Blocked,29.0,Left Foot,,Riyad Mahrez,Pass (Live),Kyle Walker,Pass (Live)
+6,27,Ross Barkley,Chelsea,0.05,,Blocked,15.0,Left Foot,,Willian,Pass (Live),César Azpilicueta,Pass (Live)
+7,32,Christian Pulisic,Chelsea,0.17,0.64,Saved,5.0,Right Foot,,Ross Barkley,Pass (Live),Willian,Pass (Live)
+8,32,Ross Barkley,Chelsea,0.08,,Blocked,7.0,Right Foot,,Olivier Giroud,Pass (Live),Mason Mount,Pass (Live)
+9,33,Andreas Christensen,Chelsea,0.15,0.14,Saved,7.0,Head,,Willian,Pass (Dead),Ross Barkley,Shot
+10,33,César Azpilicueta,Chelsea,0.06,,Off Target,9.0,Left Foot,Volley,Andreas Christensen,Shot,,
+11,36,Christian Pulisic,Chelsea,0.48,0.98,Goal,20.0,Right Foot,,Christian Pulisic,Take-On,,
+12,38,Riyad Mahrez,Manchester City,0.03,,Off Target,19.0,Left Foot,,Kevin De Bruyne,Pass (Dead),Riyad Mahrez,Fouled
+13,,,,,,,,,,,,,
+14,47,Benjamin Mendy,Manchester City,0.03,,Blocked,24.0,Left Foot,,Raheem Sterling,Pass (Live),İlkay Gündoğan,Pass (Live)
+15,53,Benjamin Mendy,Manchester City,0.04,,Off Target,26.0,Left Foot,,Bernardo Silva,Pass (Live),Bernardo Silva,Take-On
+16,55,Kevin De Bruyne,Manchester City,0.05,0.47,Goal,33.0,Right Foot,Free kick,Riyad Mahrez,Fouled,Kevin De Bruyne,Pass (Live)
+17,57,Olivier Giroud,Chelsea,0.04,0.05,Saved,12.0,Head,,Willian,Pass (Dead),,
+18,57,Raheem Sterling,Manchester City,0.3,,Woodwork,22.0,Right Foot,,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+19,62,Mason Mount,Chelsea,0.25,,Off Target,13.0,Left Foot,,,,,
+20,67,Raheem Sterling,Manchester City,0.03,,Off Target,16.0,Right Foot,,Riyad Mahrez,Pass (Dead),Fernandinho,Pass (Live)
+21,71,Christian Pulisic,Chelsea,0.35,,Blocked,11.0,Right Foot,,Christian Pulisic,Take-On,Christian Pulisic,Take-On
+22,71,Tammy Abraham,Chelsea,0.84,,Blocked,1.0,Right Foot,,Christian Pulisic,Shot,,
+23,75,Tammy Abraham,Chelsea,0.38,0.29,Saved,10.0,Right Foot,,Willian,Pass (Live),,
+24,75,Tammy Abraham,Chelsea,0.97,,Blocked,2.0,Left Foot,,Tammy Abraham,Shot,,
+25,78,Willian (pen),Chelsea,0.79,0.99,Goal,13.0,Right Foot,,,Fouled,Tammy Abraham,Shot
+26,90+3,Pedro,Chelsea,0.06,0.6,Saved,18.0,Right Foot,,Billy Gilmour,Pass (Live),,

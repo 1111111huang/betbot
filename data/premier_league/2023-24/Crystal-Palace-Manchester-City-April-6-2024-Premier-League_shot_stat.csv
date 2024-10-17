@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Jean-Philippe Mateta,Crystal Palace,0.4,0.72,Goal,15.0,Right Foot,,Adam Wharton,Pass (Live),Jordan Ayew,Pass (Live)
+1,7,Joško Gvardiol,Manchester City,0.34,,Off Target,4.0,Head,,Kevin De Bruyne,Pass (Live),Julián Álvarez,Pass (Live)
+2,10,Julián Álvarez,Manchester City,0.06,0.08,Saved,8.0,Right Foot,,Rico Lewis,Pass (Live),Oscar Bobb,Pass (Live)
+3,11,Julián Álvarez,Manchester City,0.04,,Blocked,14.0,Left Foot,,Rico Lewis,Pass (Live),Oscar Bobb,Pass (Live)
+4,11,Rodri,Manchester City,0.11,0.37,Saved,17.0,Left Foot,Volley,Rodri,Pass (Live),Julián Álvarez,Shot
+5,13,Kevin De Bruyne,Manchester City,0.02,0.7,Goal,18.0,Right Foot,,Joško Gvardiol,Pass (Live),Rúben Dias,Pass (Live)
+6,18,Jordan Ayew,Crystal Palace,0.05,,Off Target,21.0,Right Foot,Volley,Eberechi Eze,Pass (Live),Jefferson Lerma,Pass (Live)
+7,19,Erling Haaland,Manchester City,0.31,0.7,Saved,18.0,Left Foot,,Kevin De Bruyne,Pass (Live),Rúben Dias,Pass (Live)
+8,30,Joško Gvardiol,Manchester City,0.02,,Blocked,30.0,Left Foot,,Rúben Dias,Pass (Live),Rodri,Pass (Live)
+9,34,Julián Álvarez,Manchester City,0.05,,Off Target,23.0,Right Foot,,John Stones,Pass (Live),Julián Álvarez,Pass (Live)
+10,38,Jordan Ayew,Crystal Palace,0.08,,Woodwork,19.0,Right Foot,,,,,
+11,39,Rico Lewis,Manchester City,0.07,0.03,Saved,16.0,Right Foot,,Rúben Dias,Pass (Live),Joško Gvardiol,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Rico Lewis,Manchester City,0.12,0.44,Goal,12.0,Right Foot,Deflected,Manuel Akanji,Pass (Live),Rodri,Pass (Live)
+14,54,Julián Álvarez,Manchester City,0.26,,Blocked,11.0,Right Foot,,Erling Haaland,Pass (Live),Erling Haaland,Take-On
+15,56,Jack Grealish,Manchester City,0.02,,Off Target,23.0,Right Foot,,Kevin De Bruyne,Pass (Dead),Julián Álvarez,Shot
+16,60,Kevin De Bruyne,Manchester City,0.02,,Off Target,24.0,Right Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+17,66,Erling Haaland,Manchester City,0.28,0.75,Goal,6.0,Left Foot,,Kevin De Bruyne,Pass (Live),Jack Grealish,Pass (Live)
+18,70,Kevin De Bruyne,Manchester City,0.05,0.14,Goal,16.0,Left Foot,,Rodri,Pass (Live),Jack Grealish,Pass (Live)
+19,75,Jack Grealish,Manchester City,0.03,,Blocked,21.0,Right Foot,,Mateo Kovačić,Pass (Live),Oscar Bobb,Pass (Live)
+20,78,Matheus Nunes,Manchester City,0.05,,Off Target,13.0,Right Foot,Volley,Oscar Bobb,Pass (Live),John Stones,Pass (Live)
+21,81,Odsonne Édouard,Crystal Palace,0.09,,Blocked,12.0,Right Foot,,Michael Olise,Pass (Live),Daniel Muñoz,Tackle
+22,81,Jeffrey Schlupp,Crystal Palace,0.04,0.03,Saved,27.0,Left Foot,Deflected,Adam Wharton,Pass (Live),Joachim Andersen,Tackle
+23,86,Odsonne Édouard,Crystal Palace,0.39,0.59,Goal,5.0,Right Foot,Volley,Jeffrey Schlupp,Pass (Live),Naouirou Ahamada,Pass (Live)
+24,90+1,Naouirou Ahamada,Crystal Palace,0.02,0.02,Saved,20.0,Right Foot,,Michael Olise,Pass (Live),Jefferson Lerma,Pass (Live)
+25,90+8,Jack Grealish,Manchester City,0.05,,Off Target,14.0,Right Foot,,Matheus Nunes,Pass (Live),Bernardo Silva,Pass (Live)

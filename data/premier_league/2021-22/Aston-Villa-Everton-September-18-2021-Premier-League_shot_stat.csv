@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Salomón Rondón,Everton,0.13,,Blocked,5.0,Right Foot,,Ben Godfrey,Pass (Live),Andros Townsend,Pass (Live)
+1,4,Salomón Rondón,Everton,0.1,,Off Target,4.0,Head,,Andros Townsend,Pass (Dead),Salomón Rondón,Shot
+2,7,Tyrone Mings,Aston Villa,0.09,0.16,Saved,4.0,Head,,Douglas Luiz,Pass (Dead),John McGinn,Pass (Live)
+3,15,Danny Ings,Aston Villa,0.06,,Off Target,11.0,Right Foot,Volley,Tyrone Mings,Pass (Live),Ezri Konsa,Pass (Live)
+4,16,Michael Keane,Everton,0.01,,Off Target,10.0,Head,,Andros Townsend,Pass (Dead),Alex Iwobi,Pass (Live)
+5,28,John McGinn,Aston Villa,0.03,,Off Target,27.0,Left Foot,,,,,
+6,29,Demarai Gray,Everton,0.05,,Blocked,17.0,Left Foot,,Demarai Gray,Take-On,Abdoulaye Doucouré,Pass (Live)
+7,34,John McGinn,Aston Villa,0.03,,Blocked,24.0,Left Foot,Volley,Axel Tuanzebe,Pass (Live),Emiliano Martínez,Pass (Dead)
+8,34,Matty Cash,Aston Villa,0.05,,Off Target,20.0,Left Foot,,Matty Cash,Take-On,John McGinn,Shot
+9,38,Jacob Ramsey,Aston Villa,0.03,,Blocked,29.0,Left Foot,,Jacob Ramsey,Take-On,Douglas Luiz,Pass (Live)
+10,42,Axel Tuanzebe,Aston Villa,0.06,,Blocked,11.0,Head,,Matt Targett,Pass (Dead),Douglas Luiz,Fouled
+11,44,Andros Townsend,Everton,0.02,0.05,Saved,30.0,Left Foot,,Demarai Gray,Pass (Live),Allan,Pass (Live)
+12,,,,,,,,,,,,,
+13,56,Andros Townsend,Everton,0.03,,Blocked,31.0,Left Foot,Free kick,Andros Townsend,Fouled,,
+14,59,Alex Iwobi,Everton,0.07,,Saved off Target,8.0,Right Foot,,Demarai Gray,Pass (Live),Alex Iwobi,Pass (Live)
+15,62,Tyrone Mings,Aston Villa,0.07,,Off Target,11.0,Right Foot,Volley,Jacob Ramsey,Pass (Live),Matty Cash,Pass (Live)
+16,65,Demarai Gray,Everton,0.12,,Off Target,14.0,Right Foot,,Andros Townsend,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+17,66,Matty Cash,Aston Villa,0.13,0.36,Goal,17.0,Left Foot,,Douglas Luiz,Pass (Live),Danny Ings,Pass (Live)
+18,68,Matty Cash,Aston Villa,0.03,,Blocked,19.0,Right Foot,,Douglas Luiz,Pass (Dead),Douglas Luiz,Fouled
+19,70,Jacob Ramsey,Aston Villa,0.07,,Off Target,27.0,Right Foot,,Jacob Ramsey,Tackle,,
+20,73,Douglas Luiz,Aston Villa,0.03,,Off Target,24.0,Right Foot,Free kick,Leon Bailey,Fouled,Jacob Ramsey,Pass (Live)
+21,75,Leon Bailey,Aston Villa,0.12,0.04,Goal,14.0,Left Foot,,Danny Ings,Pass (Live),Matty Cash,Pass (Dead)
+22,78,André Gomes,Everton,0.1,,Blocked,17.0,Right Foot,,Lucas Digne,Take-On,André Gomes,Pass (Live)
+23,85,Michael Keane,Everton,0.09,,Off Target,12.0,Head,,Lucas Digne,Pass (Dead),Anthony Gordon,Fouled
+24,90+1,Tom Davies,Everton,0.03,,Blocked,30.0,Right Foot,,Andros Townsend,Pass (Live),Jonjoe Kenny,Pass (Live)
+25,90+3,Bertrand Traoré,Aston Villa,0.01,,Blocked,31.0,Left Foot,,Douglas Luiz,Pass (Dead),Jacob Ramsey,Pass (Live)
+26,90+3,Bertrand Traoré,Aston Villa,0.05,,Blocked,22.0,Left Foot,,Ollie Watkins,Pass (Live),Douglas Luiz,Pass (Live)

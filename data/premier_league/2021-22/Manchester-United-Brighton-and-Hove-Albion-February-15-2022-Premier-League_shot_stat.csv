@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Jakub Moder,Brighton,0.04,0.02,Saved,12.0,Right Foot,,Pascal Groß,Pass (Live),,
+1,6,Jadon Sancho,Manchester Utd,0.22,0.54,Saved,6.0,Right Foot,,Cristiano Ronaldo,Pass (Live),,
+2,15,Neal Maupay,Brighton,0.03,,Blocked,22.0,Right Foot,,Alexis Mac Allister,Tackle,,
+3,16,Alexis Mac Allister,Brighton,0.12,0.07,Saved,13.0,Right Foot,,Pascal Groß,Pass (Live),Joël Veltman,Pass (Live)
+4,30,Pascal Groß,Brighton,0.03,,Off Target,21.0,Right Foot,Volley,Marc Cucurella,Pass (Live),Yves Bissouma,Pass (Live)
+5,32,Luke Shaw,Manchester Utd,0.01,,Blocked,27.0,Left Foot,,Fred,Pass (Live),Diogo Dalot,Pass (Live)
+6,37,Yves Bissouma,Brighton,0.02,,Off Target,31.0,Right Foot,,Leandro Trossard,Pass (Live),Alexis Mac Allister,Pass (Live)
+7,39,Jakub Moder,Brighton,0.11,0.41,Saved,12.0,Head,,Joël Veltman,Pass (Live),Adam Webster,Pass (Live)
+8,40,Alexis Mac Allister,Brighton,0.01,,Off Target,23.0,Head,,Jakub Moder,Shot,,
+9,40,Yves Bissouma,Brighton,0.13,,Off Target,17.0,Right Foot,,Jakub Moder,Pass (Live),Neal Maupay,Pass (Live)
+10,44,Cristiano Ronaldo,Manchester Utd,0.08,,Blocked,23.0,Right Foot,Free kick,Anthony Elanga,Fouled,Diogo Dalot,Pass (Live)
+11,,,,,,,,,,,,,
+12,51,Cristiano Ronaldo,Manchester Utd,0.05,0.45,Goal,20.0,Right Foot,,Cristiano Ronaldo,Take-On,Scott McTominay,Tackle
+13,56,Bruno Fernandes,Manchester Utd,0.11,,Blocked,26.0,Right Foot,Free kick,Anthony Elanga,Fouled,Anthony Elanga,Tackle
+14,56,Fred,Manchester Utd,0.03,,Blocked,25.0,Left Foot,,Bruno Fernandes,Shot,,
+15,61,Anthony Elanga,Manchester Utd,0.02,,Off Target,28.0,Right Foot,,Diogo Dalot,Pass (Live),Scott McTominay,Tackle
+16,63,Scott McTominay,Manchester Utd,0.02,,Off Target,22.0,Right Foot,,Jadon Sancho,Pass (Live),Diogo Dalot,Pass (Live)
+17,66,Cristiano Ronaldo,Manchester Utd,0.19,0.12,Saved,6.0,Head,,Bruno Fernandes,Pass (Live),Jadon Sancho,Pass (Live)
+18,66,Diogo Dalot,Manchester Utd,0.02,,Blocked,33.0,Right Foot,,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)
+19,71,Bruno Fernandes,Manchester Utd,0.46,0.29,Saved,12.0,Right Foot,,Cristiano Ronaldo,Pass (Live),,
+20,74,Paul Pogba,Manchester Utd,0.06,,Blocked,22.0,Right Foot,,Bruno Fernandes,Pass (Live),,
+21,75,Cristiano Ronaldo,Manchester Utd,0.14,,Off Target,7.0,Head,,Bruno Fernandes,Pass (Live),Anthony Elanga,Pass (Live)
+22,78,Jakub Moder,Brighton,0.02,,Woodwork,30.0,Right Foot,,Danny Welbeck,Pass (Live),Marc Cucurella,Pass (Live)
+23,81,Bruno Fernandes,Manchester Utd,0.04,0.08,Saved,19.0,Right Foot,,Scott McTominay,Pass (Live),,
+24,82,Harry Maguire,Manchester Utd,0.1,0.22,Saved,20.0,Left Foot,,Harry Maguire,Take-On,Cristiano Ronaldo,Pass (Live)
+25,84,Alex Telles,Manchester Utd,0.04,,Blocked,15.0,Left Foot,,Marcus Rashford,Pass (Live),Paul Pogba,Pass (Live)
+26,84,Scott McTominay,Manchester Utd,0.02,,Off Target,26.0,Right Foot,,Bruno Fernandes,Pass (Live),Alex Telles,Pass (Dead)
+27,87,Cristiano Ronaldo,Manchester Utd,0.02,,Blocked,28.0,Right Foot,Volley,Cristiano Ronaldo,Pass (Live),Bruno Fernandes,Pass (Live)
+28,90,Danny Welbeck,Brighton,0.22,,Off Target,8.0,Head,,Tariq Lamptey,Pass (Live),Steven Alzate,Pass (Live)
+29,90+7,Bruno Fernandes,Manchester Utd,0.09,0.13,Goal,8.0,Right Foot,,Paul Pogba,Pass (Dead),,Fouled

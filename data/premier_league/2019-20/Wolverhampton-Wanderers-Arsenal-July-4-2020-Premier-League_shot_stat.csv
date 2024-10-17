@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1.0,Adama Traoré,Wolves,0.39,0.17,Saved,18.0,Right Foot,,Raúl Jiménez,Pass (Live),Romain Saïss,Pass (Live)
+1,10.0,Adama Traoré,Wolves,0.04,,Off Target,27.0,Left Foot,,Adama Traoré,Take-On,Rúben Neves,Pass (Live)
+2,26.0,Pierre-Emerick Aubameyang,Arsenal,0.18,0.36,Saved,5.0,Right Foot,Volley,Kieran Tierney,Pass (Live),Sead Kolašinac,Pass (Live)
+3,29.0,Leander Dendoncker,Wolves,0.07,,Off Target,8.0,Head,,Adama Traoré,Pass (Live),Matt Doherty,Pass (Live)
+4,33.0,Jonny Castro,Wolves,0.06,,Off Target,17.0,Left Foot,,Willy Boly,Pass (Live),Matt Doherty,Pass (Live)
+5,35.0,Eddie Nketiah,Arsenal,0.05,0.22,Saved,14.0,Right Foot,,,,,
+6,42.0,Romain Saïss,Wolves,0.08,,Blocked,24.0,Left Foot,Free kick,João Moutinho,Pass (Live),Romain Saïss,Pass (Dead)
+7,42.0,Rúben Neves,Wolves,0.03,,Blocked,29.0,Right Foot,,João Moutinho,Pass (Live),Jonny Castro,Pass (Live)
+8,43.0,Bukayo Saka,Arsenal,0.08,0.26,Goal,14.0,Left Foot,Volley,Pierre-Emerick Aubameyang,Pass (Live),Cédric Soares,Pass (Live)
+9,,,,,,,,,,,,,
+10,52.0,Raúl Jiménez,Wolves,0.09,,Off Target,7.0,Head,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+11,63.0,Diogo Jota,Wolves,0.06,,Blocked,16.0,Left Foot,,Raúl Jiménez,Pass (Live),Diogo Jota,Pass (Live)
+12,64.0,Adama Traoré,Wolves,0.34,,Off Target,17.0,Right Foot,,Diogo Jota,Pass (Live),Raúl Jiménez,Pass (Live)
+13,69.0,Rúben Neves,Wolves,0.02,,Blocked,32.0,Right Foot,,João Moutinho,Pass (Dead),Diogo Jota,Fouled
+14,78.0,Eddie Nketiah,Arsenal,0.12,,Off Target,9.0,Head,,Dani Ceballos,Pass (Dead),Eddie Nketiah,Fouled
+15,78.0,Eddie Nketiah,Arsenal,0.04,,Blocked,21.0,Left Foot,,Joe Willock,Tackle,,
+16,81.0,Dani Ceballos,Arsenal,0.03,,Blocked,27.0,Right Foot,,Dani Ceballos,Pass (Live),,
+17,86.0,Alexandre Lacazette,Arsenal,0.55,0.99,Goal,5.0,Right Foot,,Alexandre Lacazette,Take-On,Joe Willock,Pass (Live)
+18,87.0,Joe Willock,Arsenal,0.26,,Blocked,12.0,Right Foot,,Pierre-Emerick Aubameyang,Pass (Live),Alexandre Lacazette,Pass (Live)

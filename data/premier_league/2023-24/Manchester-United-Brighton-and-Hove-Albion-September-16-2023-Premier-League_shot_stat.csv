@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Marcus Rashford,Manchester Utd,0.13,0.19,Saved,8.0,Right Foot,,Marcus Rashford,Take-On,Marcus Rashford,Take-On
+1,7,Rasmus Højlund,Manchester Utd,0.03,,Off Target,15.0,Head,,Bruno Fernandes,Pass (Live),Christian Eriksen,Pass (Dead)
+2,8,Bruno Fernandes,Manchester Utd,0.05,,Blocked,26.0,Right Foot,,,,,
+3,10,Tariq Lamptey,Brighton,0.01,,Off Target,25.0,Right Foot,,Adam Lallana,Pass (Live),Tariq Lamptey,Pass (Live)
+4,11,Marcus Rashford,Manchester Utd,0.05,,Blocked,11.0,Left Foot,,Sergio Reguilón,Pass (Live),Marcus Rashford,Pass (Live)
+5,20,Danny Welbeck,Brighton,0.52,0.35,Goal,9.0,Left Foot,,Simon Adingra,Pass (Live),Danny Welbeck,Pass (Live)
+6,25,Marcus Rashford,Manchester Utd,0.16,,Blocked,16.0,Right Foot,,Diogo Dalot,Pass (Live),Diogo Dalot,Take-On
+7,26,Marcus Rashford,Manchester Utd,0.03,,Blocked,25.0,Right Foot,,Diogo Dalot,Pass (Live),Casemiro,Pass (Live)
+8,32,Danny Welbeck,Brighton,0.02,,Off Target,29.0,Right Foot,,Mahmoud Dahoud,Pass (Live),Pascal Groß,Pass (Live)
+9,34,Marcus Rashford,Manchester Utd,0.07,,Blocked,20.0,Right Foot,,Casemiro,Pass (Live),,
+10,45+1,Marcus Rashford,Manchester Utd,0.12,,Off Target,17.0,Right Foot,,Victor Lindelöf,Pass (Live),Christian Eriksen,Pass (Live)
+11,,,,,,,,,,,,,
+12,48,Pascal Groß,Brighton,0.03,0.02,Saved,26.0,Right Foot,,Danny Welbeck,Pass (Live),Kaoru Mitoma,Pass (Live)
+13,51,Marcus Rashford,Manchester Utd,0.05,,Off Target,11.0,Left Foot,,Rasmus Højlund,Pass (Live),Diogo Dalot,Pass (Live)
+14,53,Pascal Groß,Brighton,0.29,0.22,Goal,17.0,Right Foot,,Pascal Groß,Take-On,Tariq Lamptey,Pass (Live)
+15,57,Bruno Fernandes,Manchester Utd,0.02,0.02,Saved,29.0,Right Foot,,Victor Lindelöf,Pass (Live),Lisandro Martínez,Pass (Live)
+16,58,Marcus Rashford,Manchester Utd,0.03,,Blocked,16.0,Right Foot,,Rasmus Højlund,Pass (Live),Bruno Fernandes,Pass (Live)
+17,66,Marcus Rashford,Manchester Utd,0.05,0.27,Saved,31.0,Right Foot,Free kick,Hannibal Mejbri,Fouled,Victor Lindelöf,Pass (Live)
+18,71,João Pedro,Brighton,0.09,0.19,Goal,17.0,Right Foot,,Tariq Lamptey,Pass (Live),Lewis Dunk,Pass (Live)
+19,73,Hannibal Mejbri,Manchester Utd,0.03,0.19,Goal,29.0,Right Foot,,Lisandro Martínez,Pass (Live),Bruno Fernandes,Pass (Live)
+20,76,Victor Lindelöf,Manchester Utd,0.15,,Off Target,7.0,Head,,Bruno Fernandes,Pass (Live),,
+21,79,Kaoru Mitoma,Brighton,0.14,0.61,Saved,5.0,Right Foot,,João Pedro,Pass (Live),,
+22,87,Evan Ferguson,Brighton,0.08,0.09,Saved,14.0,Right Foot,,João Pedro,Pass (Live),Ansu Fati,Pass (Live)
+23,88,Ansu Fati,Brighton,0.09,0.12,Saved,17.0,Right Foot,,João Pedro,Pass (Live),Ansu Fati,Pass (Live)
+24,90+3,Ansu Fati,Brighton,0.41,0.86,Saved,12.0,Right Foot,,Billy Gilmour,Pass (Live),Kaoru Mitoma,Pass (Live)

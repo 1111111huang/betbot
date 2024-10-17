@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Simon Adingra,Brighton,0.04,0.0,Off Target,10.0,Right Foot,,Georginio Rutter,Pass (Live),Carlos Baleba,Pass (Live)
+1,13,Chris Wood (pen),Nott'ham Forest,0.79,0.89,Goal,13.0,Right Foot,,Callum Hudson-Odoi,Fouled,,
+2,16,Carlos Baleba,Brighton,0.02,0.0,Blocked,29.0,Left Foot,,Jack Hinshelwood,Pass (Live),Jan Paul van Hecke,Pass (Live)
+3,27,Morgan Gibbs-White,Nott'ham Forest,0.07,0.3,Saved,14.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Murillo,Pass (Live)
+4,30,Georginio Rutter,Brighton,0.14,0.0,Off Target,5.0,Head,,Pervis Estupiñán,Pass (Dead),Georginio Rutter,Pass (Live)
+5,38,Georginio Rutter,Brighton,0.04,0.0,Off Target,21.0,Right Foot,,Danny Welbeck,Pass (Live),Lewis Dunk,Pass (Live)
+6,42,Jack Hinshelwood,Brighton,0.12,0.48,Goal,11.0,Head,,Simon Adingra,Pass (Live),Kaoru Mitoma,Pass (Live)
+7,45+1,Danny Welbeck,Brighton,0.06,0.27,Goal,27.0,Right Foot,Free kick,Kaoru Mitoma,Fouled,Jack Hinshelwood,Pass (Live)
+8,,,,,,,,,,,,,
+9,47,Georginio Rutter,Brighton,0.04,0.0,Off Target,13.0,Head,,Pervis Estupiñán,Pass (Dead),,Fouled
+10,47,Georginio Rutter,Brighton,0.02,0.0,Blocked,24.0,Left Foot,,Simon Adingra,Pass (Live),Joël Veltman,Pass (Live)
+11,50,Danny Welbeck,Brighton,0.24,0.35,Saved,8.0,Right Foot,,Danny Welbeck,Take-On,,
+12,54,Georginio Rutter,Brighton,0.15,0.0,Blocked,12.0,Left Foot,Volley,Kaoru Mitoma,Pass (Live),Kaoru Mitoma,Take-On
+13,56,Danny Welbeck,Brighton,0.1,0.0,Blocked,14.0,Right Foot,,Kaoru Mitoma,Pass (Live),Georginio Rutter,Pass (Live)
+14,58,Pervis Estupiñán,Brighton,0.02,0.0,Blocked,31.0,Left Foot,,Jack Hinshelwood,Pass (Live),Carlos Baleba,Pass (Live)
+15,63,Callum Hudson-Odoi,Nott'ham Forest,0.11,0.0,Blocked,13.0,Right Foot,,Callum Hudson-Odoi,Take-On,Murillo,Pass (Live)
+16,70,Ramón Sosa,Nott'ham Forest,0.45,0.49,Goal,11.0,Right Foot,,Jota Silva,Pass (Live),Morgan Gibbs-White,Pass (Live)
+17,80,João Pedro,Brighton,0.02,0.0,Blocked,24.0,Right Foot,,Mats Wieffer,Pass (Live),Lewis Dunk,Pass (Live)
+18,89,Evan Ferguson,Brighton,0.01,0.0,Blocked,15.0,Head,,Yankuba Minteh,Pass (Dead),,

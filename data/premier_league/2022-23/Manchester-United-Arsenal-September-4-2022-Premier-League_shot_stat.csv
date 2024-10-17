@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Granit Xhaka,Arsenal,0.02,,Blocked,27.0,Left Foot,Volley,Martin Ødegaard,Pass (Live),Ben White,Pass (Dead)
+1,8,Christian Eriksen,Manchester Utd,0.07,,Off Target,9.0,Left Foot,Volley,Diogo Dalot,Pass (Live),Antony,Pass (Live)
+2,9,William Saliba,Arsenal,0.08,,Off Target,16.0,Right Foot,,Granit Xhaka,Pass (Live),,
+3,11,Jadon Sancho,Manchester Utd,0.07,0.17,Saved,14.0,Right Foot,,Bruno Fernandes,Pass (Live),Lisandro Martínez,Pass (Live)
+4,19,Gabriel Jesus,Arsenal,0.02,,Off Target,9.0,Head,,Bukayo Saka,Pass (Dead),,
+5,22,Antony,Manchester Utd,0.03,,Off Target,29.0,Left Foot,,Marcus Rashford,Pass (Live),Scott McTominay,Pass (Live)
+6,30,Granit Xhaka,Arsenal,0.09,,Blocked,16.0,Left Foot,,Gabriel Jesus,Pass (Live),Gabriel Martinelli,Pass (Dead)
+7,32,Gabriel Martinelli,Arsenal,0.1,0.2,Saved,6.0,Head,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+8,35,Antony,Manchester Utd,0.27,0.74,Goal,11.0,Left Foot,,Marcus Rashford,Pass (Live),Jadon Sancho,Pass (Live)
+9,38,Bukayo Saka,Arsenal,0.03,,Blocked,18.0,Left Foot,,Martin Ødegaard,Pass (Dead),Gabriel Jesus,Fouled
+10,44,Bukayo Saka,Arsenal,0.03,,Off Target,25.0,Left Foot,,Martin Ødegaard,Pass (Live),Ben White,Pass (Live)
+11,45+2,Antony,Manchester Utd,0.11,0.73,Saved,31.0,Left Foot,,David de Gea,Pass (Dead),,
+12,45+4,Gabriel Magalhães,Arsenal,0.02,,Blocked,31.0,Left Foot,,Albert Sambi Lokonga,Pass (Live),Bukayo Saka,Pass (Live)
+13,,,,,,,,,,,,,
+14,52,Martin Ødegaard,Arsenal,0.35,,Off Target,10.0,Left Foot,,Gabriel Jesus,Pass (Live),Ben White,Pass (Dead)
+15,52,Bukayo Saka,Arsenal,0.06,,Off Target,12.0,Right Foot,,Gabriel Martinelli,Pass (Live),Martin Ødegaard,Shot
+16,60,Bukayo Saka,Arsenal,0.28,0.57,Goal,11.0,Left Foot,,Granit Xhaka,Pass (Live),Gabriel Martinelli,Pass (Live)
+17,66,Marcus Rashford,Manchester Utd,0.32,0.86,Goal,21.0,Right Foot,Deflected,Bruno Fernandes,Pass (Live),Christian Eriksen,Pass (Live)
+18,69,Bruno Fernandes,Manchester Utd,0.25,0.33,Saved,16.0,Right Foot,,Fred,Interception,,
+19,69,Cristiano Ronaldo,Manchester Utd,0.12,,Off Target,8.0,Head,,Christian Eriksen,Pass (Dead),,
+20,71,Gabriel Jesus,Arsenal,0.04,,Off Target,19.0,Right Foot,,Gabriel Martinelli,Pass (Live),Gabriel Magalhães,Pass (Live)
+21,75,Marcus Rashford,Manchester Utd,0.19,0.26,Goal,8.0,Right Foot,,Christian Eriksen,Pass (Live),Bruno Fernandes,Pass (Live)
+22,83,Granit Xhaka,Arsenal,0.04,,Blocked,30.0,Left Foot,Free kick,Gabriel Jesus,Fouled,Fabio Vieira,Pass (Live)
+23,86,Fabio Vieira,Arsenal,0.07,,Off Target,20.0,Left Foot,Volley,Gabriel Jesus,Pass (Live),Gabriel Magalhães,Pass (Live)
+24,90+2,Emile Smith Rowe,Arsenal,0.05,,Off Target,21.0,Right Foot,,,,,
+25,90+4,Cristiano Ronaldo,Manchester Utd,0.11,,Blocked,9.0,Head,,Christian Eriksen,Pass (Dead),Fred,Pass (Live)
+26,90+4,Fabio Vieira,Arsenal,0.02,0.03,Saved,28.0,Left Foot,Volley,Fabio Vieira,Take-On,Granit Xhaka,Pass (Live)

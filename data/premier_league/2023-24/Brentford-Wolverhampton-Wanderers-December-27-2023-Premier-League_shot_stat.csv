@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,João Gomes,Wolves,0.04,,Blocked,22.0,Right Foot,,Matheus Cunha,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+1,7,Vitaly Janelt,Brentford,0.04,,Blocked,7.0,Right Foot,Volley,Saman Ghoddos,Pass (Dead),Keane Lewis-Potter,Pass (Live)
+2,12,João Gomes,Wolves,0.06,,Blocked,20.0,Right Foot,,Max Kilman,Pass (Live),Mario Lemina,Pass (Live)
+3,13,Mario Lemina,Wolves,0.31,0.17,Goal,6.0,Head,,Pablo Sarabia,Pass (Live),João Gomes,Shot
+4,14,Hwang Hee-chan,Wolves,0.99,0.95,Goal,4.0,Right Foot,,Hwang Hee-chan,Take-On,,
+5,16,Yoane Wissa,Brentford,0.15,0.85,Goal,8.0,Right Foot,Volley,Neal Maupay,Pass (Live),Christian Nørgaard,Pass (Live)
+6,18,Vitaly Janelt,Brentford,0.47,0.39,Saved,5.0,Head,,Keane Lewis-Potter,Pass (Live),Neal Maupay,Pass (Live)
+7,28,Matheus Cunha,Wolves,0.03,,Off Target,27.0,Right Foot,,Pablo Sarabia,Pass (Live),Nélson Semedo,Pass (Live)
+8,28,Hwang Hee-chan,Wolves,0.43,0.53,Goal,12.0,Right Foot,,Hwang Hee-chan,Take-On,Toti Gomes,Pass (Live)
+9,37,Matheus Cunha,Wolves,0.02,,Blocked,32.0,Right Foot,,Pablo Sarabia,Pass (Live),João Gomes,Pass (Live)
+10,37,Pablo Sarabia,Wolves,0.02,,Blocked,30.0,Left Foot,,Matheus Cunha,Shot,,
+11,40,Nathan Collins,Brentford,0.54,,Off Target,4.0,Head,,Saman Ghoddos,Pass (Dead),Yoane Wissa,Fouled
+12,45+1,Yoane Wissa,Brentford,0.11,,Blocked,9.0,Head,,Vitaly Janelt,Pass (Live),Keane Lewis-Potter,Pass (Live)
+13,45+8,Neal Maupay,Brentford,0.15,,Off Target,12.0,Left Foot,,Yoane Wissa,Pass (Live),Neal Maupay,Pass (Live)
+14,,,,,,,,,,,,,
+15,47,Mikkel Damsgaard,Brentford,0.29,,Blocked,9.0,Left Foot,,Yoane Wissa,Pass (Live),Neal Maupay,Pass (Live)
+16,47,Keane Lewis-Potter,Brentford,0.28,0.95,Saved,4.0,Right Foot,,Mikkel Damsgaard,Shot,,
+17,53,Keane Lewis-Potter,Brentford,0.05,0.02,Saved,21.0,Right Foot,"Deflected, Volley",,,,
+18,55,Ethan Pinnock,Brentford,0.03,,Off Target,15.0,Left Foot,,Mikkel Damsgaard,Pass (Live),Saman Ghoddos,Pass (Dead)
+19,55,Christian Nørgaard,Brentford,0.08,,Blocked,13.0,Right Foot,,Ethan Pinnock,Pass (Live),Ethan Pinnock,Shot
+20,75,Matheus Cunha,Wolves,0.11,,Woodwork,15.0,Left Foot,,Rayan Aït-Nouri,Pass (Live),,
+21,77,Saman Ghoddos,Brentford,0.02,,Off Target,25.0,Right Foot,Volley,Vitaly Janelt,Pass (Live),Mathias Jensen,Pass (Live)
+22,79,Jean-Ricner Bellegarde,Wolves,0.31,0.42,Goal,16.0,Right Foot,,Matheus Cunha,Pass (Live),Matheus Cunha,Interception
+23,84,Mathias Jensen,Brentford,0.02,,Blocked,30.0,Right Foot,,Keane Lewis-Potter,Pass (Live),Mathias Jensen,Pass (Live)
+24,89,Jean-Ricner Bellegarde,Wolves,0.07,0.07,Saved,13.0,Right Foot,,Jean-Ricner Bellegarde,Take-On,Hugo Bueno,Pass (Live)
+25,90+2,Michael Olakigbe,Brentford,0.02,,Off Target,31.0,Right Foot,,Myles Peart-Harris,Pass (Live),Ethan Pinnock,Pass (Live)

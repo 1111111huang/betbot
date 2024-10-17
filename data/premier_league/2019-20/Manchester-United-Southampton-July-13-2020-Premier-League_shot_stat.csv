@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Anthony Martial,Manchester Utd,0.42,0.62,Saved,16.0,Right Foot,,Anthony Martial,Take-On,,
+1,11,Stuart Armstrong,Southampton,0.04,0.1,Saved,21.0,Left Foot,,Che Adams,Pass (Live),Che Adams,Take-On
+2,12,Stuart Armstrong,Southampton,0.43,0.64,Goal,5.0,Right Foot,,Nathan Redmond,Pass (Live),Danny Ings,Pass (Live)
+3,20,Marcus Rashford,Manchester Utd,0.28,0.73,Goal,11.0,Left Foot,,Anthony Martial,Pass (Live),Paul Pogba,Pass (Live)
+4,23,Anthony Martial,Manchester Utd,0.08,0.23,Goal,16.0,Right Foot,,Anthony Martial,Take-On,Bruno Fernandes,Pass (Live)
+5,28,Paul Pogba,Manchester Utd,0.02,0.1,Saved,32.0,Right Foot,,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)
+6,33,Anthony Martial,Manchester Utd,0.04,,Off Target,23.0,Left Foot,,Paul Pogba,Pass (Live),Mason Greenwood,Pass (Live)
+7,,,,,,,,,,,,,
+8,49,Nathan Redmond,Southampton,0.04,,Off Target,21.0,Right Foot,,Stuart Armstrong,Pass (Live),,
+9,52,Danny Ings,Southampton,0.09,,Blocked,11.0,Right Foot,,Stuart Armstrong,Pass (Live),Oriol Romeu,Pass (Live)
+10,56,Marcus Rashford,Manchester Utd,0.02,,Off Target,31.0,Right Foot,,Anthony Martial,Pass (Live),Nemanja Matić,Pass (Live)
+11,63,Kyle Walker-Peters,Southampton,0.06,,Off Target,11.0,Right Foot,,Stuart Armstrong,Pass (Live),Nathan Redmond,Pass (Live)
+12,68,Marcus Rashford,Manchester Utd,0.59,,Blocked,5.0,Right Foot,,Anthony Martial,Pass (Live),Marcus Rashford,Pass (Live)
+13,80,Anthony Martial,Manchester Utd,0.07,,Off Target,21.0,Right Foot,,Anthony Martial,Take-On,,
+14,81,Shane Long,Southampton,0.05,0.23,Saved,12.0,Head,,Nathan Redmond,Pass (Live),Danny Ings,Pass (Live)
+15,86,Nathan Redmond,Southampton,0.04,0.12,Saved,16.0,Right Foot,,Oriol Romeu,Pass (Live),Ryan Bertrand,Pass (Live)
+16,90+6,Jan Bednarek,Southampton,0.11,,Blocked,5.0,Head,,James Ward-Prowse,Pass (Dead),Jan Bednarek,Pass (Live)
+17,90+6,Michael Obafemi,Southampton,0.8,0.92,Goal,1.0,Right Foot,,Jan Bednarek,Shot,,

@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Bryan Mbeumo,Brentford,0.08,,Blocked,21.0,Left Foot,,Mathias Jensen,Pass (Live),,
+1,6,Bryan Mbeumo,Brentford,0.07,,Blocked,5.0,Head,,Ivan Toney,Pass (Live),Christian Eriksen,Pass (Dead)
+2,6,Ivan Toney,Brentford,0.02,,Blocked,15.0,Right Foot,Volley,Christian Eriksen,Pass (Dead),Bryan Mbeumo,Shot
+3,6,Ivan Toney,Brentford,0.04,,Off Target,22.0,Left Foot,,Ivan Toney,Shot,,
+4,17,Ivan Toney,Brentford,0.11,,Woodwork,8.0,Head,,Christian Eriksen,Pass (Dead),Vitaly Janelt,Pass (Live)
+5,22,Ivan Toney,Brentford,0.03,,Blocked,14.0,Right Foot,Volley,Christian Eriksen,Pass (Dead),Ivan Toney,Pass (Dead)
+6,28,Rodrigo Bentancur,Tottenham,0.02,,Off Target,35.0,Right Foot,,Ben Davies,Pass (Live),Son Heung-min,Pass (Live)
+7,39,Harry Kane,Tottenham,0.02,,Off Target,28.0,Right Foot,,Son Heung-min,Pass (Live),Rodrigo Bentancur,Pass (Live)
+8,45+1,Saman Ghoddos,Brentford,0.02,,Blocked,26.0,Right Foot,,Vitaly Janelt,Pass (Live),Saman Ghoddos,Pass (Live)
+9,,,,,,,,,,,,,
+10,51,Bryan Mbeumo,Brentford,0.09,,Off Target,14.0,Left Foot,,Rico Henry,Pass (Live),Rico Henry,Pass (Live)
+11,52,Harry Kane,Tottenham,0.05,,Blocked,16.0,Right Foot,,Cristian Romero,Pass (Live),Pierre Højbjerg,Pass (Live)
+12,55,Harry Kane,Tottenham,0.13,,Blocked,9.0,Right Foot,,Emerson,Pass (Live),Pierre Højbjerg,Pass (Live)
+13,55,Dejan Kulusevski,Tottenham,0.03,,Blocked,18.0,Left Foot,Volley,Harry Kane,Shot,,
+14,55,Rodrigo Bentancur,Tottenham,0.11,,Blocked,16.0,Right Foot,,Dejan Kulusevski,Shot,,
+15,63,Christian Eriksen,Brentford,0.04,,Blocked,30.0,Right Foot,Free kick,Ivan Toney,Fouled,Mads Roerslev,Pass (Live)
+16,65,Christian Eriksen,Brentford,0.02,,Blocked,28.0,Left Foot,,Mathias Jensen,Pass (Live),Vitaly Janelt,Pass (Live)
+17,66,Pontus Jansson,Brentford,0.11,,Blocked,9.0,Head,,Mads Roerslev,Pass (Live),Christian Eriksen,Shot
+18,66,Christian Eriksen,Brentford,0.02,0.13,Saved,11.0,Right Foot,,Pontus Jansson,Shot,,
+19,67,Rodrigo Bentancur,Tottenham,0.16,,Off Target,4.0,Head,,Son Heung-min,Pass (Dead),Son Heung-min,Pass (Live)
+20,76,Dejan Kulusevski,Tottenham,0.06,,Blocked,11.0,Head,,Pierre Højbjerg,Pass (Live),Pierre Højbjerg,Tackle
+21,88,Bryan Mbeumo,Brentford,0.05,,Off Target,8.0,Head,,Rico Henry,Pass (Live),Christian Eriksen,Pass (Live)
+22,90+1,Ivan Toney,Brentford,0.04,,Woodwork,12.0,Head,,Christian Eriksen,Pass (Dead),Bryan Mbeumo,Fouled
+23,90+1,Bryan Mbeumo,Brentford,0.18,,Off Target,5.0,Right Foot,,Ivan Toney,Shot,,
+24,90+2,Harry Kane,Tottenham,0.03,,Off Target,12.0,Right Foot,Volley,Dejan Kulusevski,Pass (Live),Rodrigo Bentancur,Pass (Live)

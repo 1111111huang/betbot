@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Neal Maupay (pen),Brighton,0.79,0.86,Goal,13.0,Right Foot,,Tariq Lamptey,Fouled,Ben White,Pass (Live)
+1,7,Neal Maupay,Brighton,0.51,0.97,Goal,5.0,Left Foot,,Leandro Trossard,Pass (Live),Tariq Lamptey,Pass (Live)
+2,22,Yves Bissouma,Brighton,0.04,,Off Target,27.0,Right Foot,,Leandro Trossard,Pass (Live),Neal Maupay,Pass (Live)
+3,39,Leandro Trossard,Brighton,0.03,,Off Target,27.0,Left Foot,,,,,
+4,40,Jonjo Shelvey,Newcastle Utd,0.02,,Blocked,32.0,Right Foot,,Isaac Hayden,Pass (Live),,
+5,44,Yves Bissouma,Brighton,0.02,,Off Target,29.0,Right Foot,,Tariq Lamptey,Fouled,Steven Alzate,Pass (Live)
+6,45+4,Tariq Lamptey,Brighton,0.05,0.06,Saved,12.0,Right Foot,,,,,
+7,,,,,,,,,,,,,
+8,52,Jonjo Shelvey,Newcastle Utd,0.06,,Off Target,16.0,Right Foot,Volley,Miguel Almirón,Pass (Live),Isaac Hayden,Pass (Live)
+9,55,Jamaal Lascelles,Newcastle Utd,0.04,,Off Target,14.0,Head,,Jonjo Shelvey,Pass (Live),Jamal Lewis,Pass (Dead)
+10,57,Leandro Trossard,Brighton,0.03,0.06,Saved,25.0,Left Foot,,Neal Maupay,Pass (Live),,
+11,61,Neal Maupay,Brighton,0.03,0.03,Saved,27.0,Left Foot,,Solly March,Pass (Live),Ben White,Pass (Live)
+12,63,Callum Wilson,Newcastle Utd,0.35,,Off Target,7.0,Head,,Miguel Almirón,Pass (Live),Jamal Lewis,Pass (Live)
+13,71,Leandro Trossard,Brighton,0.03,,Woodwork,32.0,Right Foot,,Aaron Connolly,Pass (Live),Lewis Dunk,Pass (Live)
+14,73,Aaron Connolly,Brighton,0.05,,Off Target,19.0,Right Foot,Volley,Yves Bissouma,Pass (Live),Steven Alzate,Pass (Live)
+15,80,Jeff Hendrick,Newcastle Utd,0.02,,Off Target,30.0,Right Foot,Volley,Jeff Hendrick,Pass (Live),,
+16,83,Aaron Connolly,Brighton,0.05,0.46,Goal,17.0,Right Foot,,Neal Maupay,Pass (Live),Ben White,Pass (Live)
+17,86,Isaac Hayden,Newcastle Utd,0.02,,Blocked,29.0,Right Foot,,,,,
+18,90+1,Alireza Jahanbakhsh,Brighton,0.11,,Blocked,13.0,Right Foot,,Leandro Trossard,Pass (Live),,
+19,90+3,Neal Maupay,Brighton,0.04,,Off Target,24.0,Left Foot,,Alireza Jahanbakhsh,Pass (Live),Steven Alzate,Pass (Live)

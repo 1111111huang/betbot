@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Leon Bailey,Aston Villa,0.39,,Off Target,13.0,Left Foot,,Ollie Watkins,Pass (Live),Douglas Luiz,Pass (Live)
+1,22,Patson Daka,Leicester City,0.12,0.53,Saved,16.0,Left Foot,,James Justin,Pass (Live),Youri Tielemans,Pass (Live)
+2,22,Ollie Watkins,Aston Villa,0.04,0.03,Saved,27.0,Right Foot,,Philippe Coutinho,Pass (Live),Ashley Young,Pass (Live)
+3,45+1,James Maddison,Leicester City,0.06,,Off Target,28.0,Right Foot,Free kick,James Maddison,Fouled,Youri Tielemans,Pass (Live)
+4,45+2,Tyrone Mings,Aston Villa,0.16,,Off Target,6.0,Head,,Douglas Luiz,Pass (Dead),Ollie Watkins,Pass (Live)
+5,,,,,,,,,,,,,
+6,51,Ollie Watkins,Aston Villa,0.07,,Off Target,12.0,Left Foot,,Ollie Watkins,Take-On,Ashley Young,Pass (Dead)
+7,55,Ollie Watkins,Aston Villa,0.01,0.07,Saved,16.0,Right Foot,,Leon Bailey,Pass (Live),John McGinn,Interception
+8,55,Leon Bailey,Aston Villa,0.04,,Blocked,14.0,Left Foot,,Tyrone Mings,Tackle,Ezri Konsa,Pass (Live)
+9,56,John McGinn,Aston Villa,0.01,,Blocked,25.0,Left Foot,,Leon Bailey,Shot,,
+10,71,Kiernan Dewsbury-Hall,Leicester City,0.07,,Off Target,25.0,Right Foot,,James Justin,Pass (Live),Youri Tielemans,Pass (Live)
+11,77,Jacob Ramsey,Aston Villa,0.04,,Blocked,15.0,Left Foot,,Philippe Coutinho,Pass (Live),Jacob Ramsey,Pass (Live)
+12,81,James Maddison,Leicester City,0.03,0.15,Saved,30.0,Right Foot,Free kick,James Maddison,Fouled,James Justin,Pass (Live)
+13,86,Emi Buendía,Aston Villa,0.03,,Off Target,29.0,Right Foot,,Ashley Young,Pass (Live),John McGinn,Pass (Live)
+14,90+2,Ollie Watkins,Aston Villa,0.04,,Blocked,14.0,Left Foot,,John McGinn,Pass (Live),John McGinn,Take-On
+15,90+2,Ashley Young,Aston Villa,0.03,0.02,Saved,27.0,Right Foot,,Emi Buendía,Pass (Live),Jacob Ramsey,Pass (Live)
+16,90+7,Harvey Barnes,Leicester City,0.03,,Off Target,23.0,Right Foot,,James Maddison,Tackle,,

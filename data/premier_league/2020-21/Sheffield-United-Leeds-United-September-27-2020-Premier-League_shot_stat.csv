@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Luke Ayling,Leeds United,0.03,0.04,Saved,25.0,Right Foot,,Luke Ayling,Take-On,Kalvin Phillips,Pass (Live)
+1,6.0,John Lundstram,Sheffield Utd,0.06,,Off Target,14.0,Left Foot,,Oliver Burke,Pass (Live),David McGoldrick,Pass (Live)
+2,23.0,John Lundstram,Sheffield Utd,0.03,,Blocked,27.0,Left Foot,,Oliver Burke,Pass (Live),Sander Berge,Pass (Live)
+3,26.0,Patrick Bamford,Leeds United,0.11,,Off Target,10.0,Head,,Kalvin Phillips,Pass (Dead),Hélder Costa,Fouled
+4,27.0,Mateusz Klich,Leeds United,0.03,,Blocked,25.0,Right Foot,,Jack Harrison,Pass (Live),Tyler Roberts,Pass (Live)
+5,28.0,Jack Robinson,Sheffield Utd,0.05,,Off Target,14.0,Head,,John Lundstram,Pass (Dead),David McGoldrick,Fouled
+6,29.0,John Lundstram,Sheffield Utd,0.35,0.53,Saved,13.0,Right Foot,,David McGoldrick,Pass (Live),Ben Osborn,Pass (Live)
+7,30.0,Jack Robinson,Sheffield Utd,0.06,,Off Target,10.0,Head,,John Lundstram,Pass (Dead),John Lundstram,Shot
+8,31.0,Patrick Bamford,Leeds United,0.05,,Off Target,14.0,Head,,Jack Harrison,Pass (Live),Kalvin Phillips,Pass (Live)
+9,35.0,Oliver Burke,Sheffield Utd,0.05,,Blocked,13.0,Right Foot,,Aaron Ramsdale,Pass (Dead),,
+10,35.0,David McGoldrick,Sheffield Utd,0.04,,Off Target,24.0,Left Foot,,Oliver Burke,Take-On,Oliver Burke,Shot
+11,38.0,Stuart Dallas,Leeds United,0.04,0.23,Saved,23.0,Right Foot,,Jack Harrison,Pass (Live),Stuart Dallas,Pass (Live)
+12,38.0,Liam Cooper,Leeds United,0.07,,Off Target,9.0,Head,,Kalvin Phillips,Pass (Dead),Stuart Dallas,Shot
+13,40.0,George Baldock,Sheffield Utd,0.06,0.14,Saved,15.0,Right Foot,,Ben Osborn,Pass (Live),Jack Robinson,Pass (Live)
+14,44.0,Oliver Burke,Sheffield Utd,0.07,,Blocked,21.0,Right Foot,,John Lundstram,Pass (Live),Enda Stevens,Pass (Live)
+15,,,,,,,,,,,,,
+16,47.0,Hélder Costa,Leeds United,0.03,0.1,Saved,18.0,Left Foot,Volley,Rodrigo,Pass (Live),Liam Cooper,Pass (Live)
+17,56.0,Patrick Bamford,Leeds United,0.06,0.07,Saved,11.0,Right Foot,,Kalvin Phillips,Tackle,,
+18,59.0,Enda Stevens,Sheffield Utd,0.03,0.08,Saved,25.0,Left Foot,,John Lundstram,Pass (Live),Enda Stevens,Pass (Live)
+19,61.0,Stuart Dallas,Leeds United,0.18,,Blocked,15.0,Right Foot,,Luke Ayling,Pass (Live),Robin Koch,Pass (Live)
+20,61.0,Luke Ayling,Leeds United,0.02,,Off Target,30.0,Right Foot,,Kalvin Phillips,Pass (Live),Mateusz Klich,Pass (Live)
+21,66.0,Rodrigo,Leeds United,0.05,,Off Target,13.0,Head,,Stuart Dallas,Pass (Live),Jack Harrison,Pass (Live)
+22,69.0,Ben Osborn,Sheffield Utd,0.05,,Blocked,18.0,Right Foot,,Sander Berge,Pass (Live),Sander Berge,Take-On
+23,69.0,Rodrigo,Leeds United,0.03,,Blocked,27.0,Left Foot,,Mateusz Klich,Pass (Live),Kalvin Phillips,Pass (Live)
+24,73.0,Rodrigo,Leeds United,0.04,0.1,Saved,21.0,Left Foot,,Mateusz Klich,Pass (Live),Rodrigo,Pass (Live)
+25,75.0,Ian Poveda,Leeds United,0.04,,Blocked,18.0,Left Foot,,Mateusz Klich,Pass (Live),Patrick Bamford,Pass (Live)
+26,78.0,Ian Poveda,Leeds United,0.05,0.15,Saved,27.0,Left Foot,,Patrick Bamford,Pass (Live),Rodrigo,Pass (Live)
+27,81.0,George Baldock,Sheffield Utd,0.04,,Blocked,22.0,Left Foot,,Sander Berge,Pass (Live),,
+28,81.0,Jack Robinson,Sheffield Utd,0.47,,Off Target,5.0,Right Foot,Volley,Ben Osborn,Pass (Dead),George Baldock,Shot
+29,86.0,Stuart Dallas,Leeds United,0.02,0.02,Saved,29.0,Right Foot,,Jack Harrison,Pass (Live),Rodrigo,Pass (Live)
+30,86.0,Billy Sharp,Sheffield Utd,0.05,0.02,Saved,14.0,Left Foot,Deflected,Aaron Ramsdale,Pass (Live),,
+31,88.0,Patrick Bamford,Leeds United,0.32,0.5,Goal,8.0,Head,,Jack Harrison,Pass (Live),Mateusz Klich,Pass (Live)

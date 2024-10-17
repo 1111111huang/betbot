@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,João Cancelo,Manchester City,0.03,,Off Target,25.0,Right Foot,,,,,
+1,13,İlkay Gündoğan,Manchester City,0.04,,Off Target,19.0,Left Foot,,Riyad Mahrez,Pass (Live),Sergio Agüero,Pass (Live)
+2,18,Michail Antonio,West Ham,0.09,0.08,Goal,11.0,Right Foot,Volley,Vladimír Coufal,Pass (Live),Tomáš Souček,Pass (Live)
+3,20,Pablo Fornals,West Ham,0.04,,Off Target,13.0,Head,,Aaron Cresswell,Pass (Live),Arthur Masuaku,Pass (Live)
+4,25,Riyad Mahrez,Manchester City,0.08,0.08,Saved,5.0,Left Foot,,João Cancelo,Pass (Live),João Cancelo,Take-On
+5,34,Eric García,Manchester City,0.02,,Off Target,33.0,Right Foot,,Kyle Walker,Pass (Live),Riyad Mahrez,Pass (Live)
+6,43,Arthur Masuaku,West Ham,0.02,,Off Target,29.0,Left Foot,,Pablo Fornals,Pass (Live),Declan Rice,Pass (Live)
+7,43,Tomáš Souček,West Ham,0.03,,Blocked,26.0,Right Foot,,Arthur Masuaku,Shot,,
+8,45+2,İlkay Gündoğan,Manchester City,0.08,,Off Target,13.0,Other,,Kyle Walker,Pass (Live),Bernardo Silva,Pass (Live)
+9,,,,,,,,,,,,,
+10,48,Rodri,Manchester City,0.03,,Blocked,28.0,Right Foot,,Phil Foden,Pass (Live),İlkay Gündoğan,Pass (Live)
+11,51,Phil Foden,Manchester City,0.1,0.41,Goal,9.0,Left Foot,,João Cancelo,Pass (Live),João Cancelo,Take-On
+12,57,Phil Foden,Manchester City,0.04,0.03,Saved,29.0,Right Foot,,Rodri,Pass (Live),Rúben Dias,Pass (Live)
+13,61,Kyle Walker,Manchester City,0.02,0.01,Saved,31.0,Right Foot,,Rodri,Pass (Live),İlkay Gündoğan,Pass (Live)
+14,64,João Cancelo,Manchester City,0.02,,Off Target,27.0,Left Foot,,João Cancelo,Take-On,Riyad Mahrez,Pass (Live)
+15,68,Andriy Yarmolenko,West Ham,0.03,,Off Target,26.0,Left Foot,,Declan Rice,Pass (Live),Arthur Masuaku,Pass (Live)
+16,80,Kevin De Bruyne,Manchester City,0.07,0.1,Saved,27.0,Right Foot,Free kick,Raheem Sterling,Fouled,Kevin De Bruyne,Pass (Live)
+17,84,Pablo Fornals,West Ham,0.06,0.09,Saved,29.0,Right Foot,,Andriy Yarmolenko,Pass (Live),Vladimír Coufal,Pass (Live)
+18,86,Raheem Sterling,Manchester City,0.34,0.27,Saved,12.0,Right Foot,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Tackle
+19,87,Rodri,Manchester City,0.03,,Off Target,30.0,Right Foot,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Pass (Live)
+20,90+3,Riyad Mahrez,Manchester City,0.09,0.24,Saved,5.0,Left Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)

@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,13,Lucas Paquetá,West Ham,0.02,,Off Target,33.0,Left Foot,,Pablo Fornals,Pass (Dead),Vladimír Coufal,Pass (Live)
+1,14,Kelechi Iheanacho,Leicester City,0.07,,Off Target,22.0,Left Foot,,Kiernan Dewsbury-Hall,Pass (Live),James Maddison,Pass (Live)
+2,15,Michail Antonio,West Ham,0.06,0.01,Saved,16.0,Right Foot,,Lucas Paquetá,Pass (Live),Nayef Aguerd,Pass (Live)
+3,18,Youri Tielemans,Leicester City,0.02,,Off Target,28.0,Left Foot,,Boubakary Soumaré,Pass (Live),Harvey Barnes,Pass (Live)
+4,20,Pablo Fornals,West Ham,0.04,,Off Target,23.0,Right Foot,Volley,Vladimír Coufal,Pass (Live),Thilo Kehrer,Pass (Live)
+5,21,Michail Antonio,West Ham,0.06,,Off Target,22.0,Right Foot,,Saïd Benrahma,Pass (Live),Flynn Downes,Pass (Live)
+6,25,Harvey Barnes,Leicester City,0.07,0.04,Saved,23.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Youri Tielemans,Pass (Live)
+7,26,Saïd Benrahma,West Ham,0.04,,Blocked,27.0,Right Foot,,Flynn Downes,Pass (Live),Declan Rice,Pass (Live)
+8,28,Kelechi Iheanacho,Leicester City,0.08,,Woodwork,13.0,Left Foot,,James Maddison,Pass (Live),Kelechi Iheanacho,Pass (Live)
+9,29,Kiernan Dewsbury-Hall,Leicester City,0.06,,Off Target,18.0,Left Foot,,Harvey Barnes,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+10,34,Harvey Barnes,Leicester City,0.24,0.54,Goal,7.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Harvey Barnes,Pass (Live)
+11,36,James Maddison,Leicester City,0.03,,Off Target,30.0,Right Foot,,Boubakary Soumaré,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+12,38,James Maddison,Leicester City,0.11,,Blocked,22.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+13,,,,,,,,,,,,,
+14,53,Nayef Aguerd,West Ham,0.04,,Blocked,12.0,Head,,Saïd Benrahma,Pass (Live),Flynn Downes,Pass (Live)
+15,59,Saïd Benrahma,West Ham,0.06,,Woodwork,19.0,Right Foot,,Pablo Fornals,Pass (Live),Michail Antonio,Pass (Live)
+16,62,Wout Faes,Leicester City,0.31,0.22,Goal,8.0,Head,,Youri Tielemans,Pass (Dead),Harvey Barnes,Fouled
+17,64,Jarrod Bowen,West Ham,0.02,,Off Target,17.0,Left Foot,,Declan Rice,Pass (Live),Pablo Fornals,Pass (Live)
+18,69,James Maddison,Leicester City,0.11,0.11,Saved,19.0,Right Foot,,James Maddison,Take-On,Youri Tielemans,Pass (Live)
+19,69,Jarrod Bowen,West Ham,0.07,0.14,Saved,10.0,Right Foot,,Lucas Paquetá,Pass (Live),Aaron Cresswell,Pass (Live)
+20,69,Danny Ings,West Ham,0.51,,Off Target,12.0,Right Foot,,Jarrod Bowen,Pass (Live),Jarrod Bowen,Shot
+21,70,Harvey Barnes,Leicester City,0.12,,Blocked,15.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Kiernan Dewsbury-Hall,Take-On
+22,70,James Maddison,Leicester City,0.13,,Off Target,4.0,Right Foot,Volley,Harvey Barnes,Shot,,
+23,74,Maxwel Cornet,West Ham,0.04,,Blocked,12.0,Head,,Vladimír Coufal,Pass (Live),Pablo Fornals,Pass (Live)
+24,75,Danny Ings,West Ham,0.12,,Off Target,10.0,Right Foot,,Vladimír Coufal,Pass (Live),Pablo Fornals,Pass (Live)
+25,76,James Maddison,Leicester City,0.06,,Blocked,18.0,Right Foot,,Kelechi Iheanacho,Pass (Live),James Maddison,Pass (Live)
+26,79,Pablo Fornals,West Ham,0.08,0.29,Goal,16.0,Right Foot,,Danny Ings,Pass (Live),,
+27,83,Maxwel Cornet,West Ham,0.09,,Off Target,10.0,Left Foot,Volley,Emerson Palmieri,Pass (Live),Danny Ings,Pass (Live)
+28,90+4,Pablo Fornals,West Ham,0.12,,Off Target,12.0,Left Foot,,Danny Ings,Pass (Live),Emerson Palmieri,Pass (Live)
+29,90+5,Emerson Palmieri,West Ham,0.03,,Blocked,17.0,Left Foot,,Pablo Fornals,Pass (Live),Manuel Lanzini,Pass (Live)

@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,15,Tosin Adarabioyo,Fulham,0.01,,Off Target,34.0,Right Foot,,,,,
+1,25,Tom Cairney,Fulham,0.1,,Blocked,13.0,Left Foot,,Antonee Robinson,Pass (Live),Antonee Robinson,Interception
+2,28,Tom Cairney,Fulham,0.05,,Blocked,18.0,Left Foot,,Willian,Pass (Live),Tom Cairney,Pass (Live)
+3,34,Tosin Adarabioyo,Fulham,0.04,,Blocked,15.0,Right Foot,Volley,Willian,Pass (Dead),Tosin Adarabioyo,Pass (Live)
+4,34,Odsonne Édouard,Crystal Palace,0.22,0.84,Goal,13.0,Left Foot,,Eberechi Eze,Pass (Live),Eberechi Eze,Take-On
+5,45+2,Harry Wilson,Fulham,0.13,,Blocked,5.0,Left Foot,Volley,Tom Cairney,Pass (Dead),Antonee Robinson,Pass (Live)
+6,45+5,Aleksandar Mitrović (pen),Fulham,0.79,0.99,Goal,13.0,Right Foot,,Harry Wilson,Fouled,Aleksandar Mitrović,Pass (Live)
+7,,,,,,,,,,,,,
+8,46,Aleksandar Mitrović,Fulham,0.32,,Off Target,10.0,Right Foot,,Harrison Reed,Pass (Live),Harry Wilson,Pass (Live)
+9,52,Willian,Fulham,0.04,0.04,Saved,32.0,Right Foot,Free kick,Kenny Tete,Fouled,Harrison Reed,Pass (Live)
+10,61,Aleksandar Mitrović,Fulham,0.13,0.23,Goal,9.0,Head,,Willian,Pass (Dead),Harry Wilson,Fouled
+11,65,Jordan Ayew,Crystal Palace,0.06,,Blocked,14.0,Right Foot,,Odsonne Édouard,Pass (Live),Marc Guéhi,Pass (Live)
+12,66,Eberechi Eze,Crystal Palace,0.04,,Blocked,22.0,Left Foot,,Michael Olise,Pass (Live),Marc Guéhi,Pass (Live)
+13,66,Willian,Fulham,0.03,0.14,Saved,25.0,Right Foot,,Tom Cairney,Pass (Live),Antonee Robinson,Pass (Live)
+14,67,Tosin Adarabioyo,Fulham,0.03,,Off Target,16.0,Right Foot,Volley,Willian,Pass (Dead),Willian,Shot
+15,72,Odsonne Édouard,Crystal Palace,0.04,0.04,Saved,22.0,Right Foot,,Jordan Ayew,Pass (Live),Joachim Andersen,Pass (Live)
+16,78,Michael Olise,Crystal Palace,0.05,0.27,Saved,27.0,Left Foot,Free kick,Odsonne Édouard,Fouled,Marc Guéhi,Tackle
+17,79,Eberechi Eze,Crystal Palace,0.1,,Blocked,10.0,Right Foot,Volley,Marc Guéhi,Pass (Live),Joachim Andersen,Pass (Live)
+18,83,Joel Ward,Crystal Palace,0.57,0.12,Saved,10.0,Right Foot,,Eberechi Eze,Fouled,Cheick Doucouré,Pass (Live)
+19,83,Joel Ward,Crystal Palace,0.77,0.71,Goal,6.0,Left Foot,Volley,Joel Ward,Shot,,
+20,86,Michael Olise,Crystal Palace,0.07,,Off Target,15.0,Left Foot,,Eberechi Eze,Pass (Live),,
+21,90,Eberechi Eze,Crystal Palace,0.05,,Off Target,19.0,Right Foot,,Eberechi Eze,Take-On,,
+22,90+2,Cheick Doucouré,Crystal Palace,0.02,,Off Target,28.0,Right Foot,,Will Hughes,Pass (Live),Marc Guéhi,Pass (Live)

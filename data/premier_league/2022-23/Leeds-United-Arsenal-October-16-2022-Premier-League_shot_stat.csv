@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Luis Sinisterra,Leeds United,0.04,,Off Target,24.0,Right Foot,,Jack Harrison,Pass (Live),,
+1,10,Rodrigo,Leeds United,0.04,,Blocked,10.0,Left Foot,Deflected,,,,
+2,12,Gabriel Magalhães,Arsenal,0.1,0.33,Saved,9.0,Head,,Bukayo Saka,Pass (Dead),Martin Ødegaard,Pass (Live)
+3,19,Martin Ødegaard,Arsenal,0.04,,Blocked,30.0,Left Foot,,Gabriel Martinelli,Pass (Live),Takehiro Tomiyasu,Pass (Live)
+4,20,Luis Sinisterra,Leeds United,0.04,,Blocked,26.0,Right Foot,,Rodrigo,Pass (Live),Rodrigo,Take-On
+5,21,Pascal Struijk,Leeds United,0.21,0.5,Saved,6.0,Left Foot,,Luis Sinisterra,Shot,,
+6,21,Gabriel Jesus,Arsenal,0.07,,Off Target,6.0,Right Foot,,Martin Ødegaard,Pass (Live),Gabriel Martinelli,Pass (Live)
+7,22,Gabriel Martinelli,Arsenal,0.05,,Blocked,19.0,Right Foot,,Gabriel Jesus,Pass (Live),Granit Xhaka,Pass (Live)
+8,23,Rodrigo,Leeds United,0.03,,Blocked,23.0,Left Foot,,Luis Sinisterra,Pass (Live),Rodrigo,Pass (Live)
+9,25,Rodrigo,Leeds United,0.09,,Blocked,8.0,Left Foot,Volley,Luis Sinisterra,Pass (Live),Pascal Struijk,Pass (Live)
+10,25,Marc Roca,Leeds United,0.02,,Blocked,23.0,Right Foot,Volley,Rodrigo,Shot,,
+11,32,Martin Ødegaard,Arsenal,0.04,0.52,Saved,33.0,Left Foot,Free kick,Gabriel Jesus,Fouled,Granit Xhaka,Pass (Live)
+12,35,Bukayo Saka,Arsenal,0.09,0.11,Goal,9.0,Right Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+13,45,Jack Harrison,Leeds United,0.04,,Off Target,22.0,Left Foot,,Brenden Aaronson,Pass (Live),,
+14,45+1,Martin Ødegaard,Arsenal,0.03,0.08,Saved,23.0,Left Foot,,Gabriel Jesus,Pass (Live),Martin Ødegaard,Pass (Live)
+15,,,,,,,,,,,,,
+16,52,Martin Ødegaard,Arsenal,0.05,,Blocked,14.0,Left Foot,,,,,
+17,53,Patrick Bamford,Leeds United,0.15,0.44,Saved,13.0,Left Foot,,,,,
+18,59,Luis Sinisterra,Leeds United,0.07,,Blocked,11.0,Right Foot,,Brenden Aaronson,Pass (Live),Jack Harrison,Pass (Live)
+19,64,Patrick Bamford (pen),Leeds United,0.79,,Off Target,13.0,Left Foot,,,Fouled,Tyler Adams,Pass (Live)
+20,66,Luis Sinisterra,Leeds United,0.09,,Blocked,14.0,Right Foot,,Brenden Aaronson,Pass (Live),Pascal Struijk,Pass (Live)
+21,70,Patrick Bamford,Leeds United,0.07,0.27,Saved,17.0,Right Foot,,Jack Harrison,Pass (Live),Rasmus Kristensen,Pass (Live)
+22,76,Brenden Aaronson,Leeds United,0.03,0.09,Saved,25.0,Right Foot,,Marc Roca,Pass (Live),Luis Sinisterra,Pass (Live)
+23,85,Eddie Nketiah,Arsenal,0.07,,Off Target,6.0,Right Foot,Volley,Fabio Vieira,Pass (Dead),,
+24,89,Crysencio Summerville,Leeds United,0.1,,Off Target,11.0,Right Foot,,Brenden Aaronson,Pass (Live),Patrick Bamford,Pass (Live)
+25,90+9,Brenden Aaronson,Leeds United,0.04,,Off Target,24.0,Right Foot,Volley,Liam Cooper,Pass (Live),Illan Meslier,Pass (Live)

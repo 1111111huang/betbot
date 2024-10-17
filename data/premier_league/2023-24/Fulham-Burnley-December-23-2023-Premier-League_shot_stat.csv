@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,13,Harry Wilson,Fulham,0.05,0.21,Saved,15.0,Left Foot,,Andreas Pereira,Pass (Live),Timothy Castagne,Pass (Live)
+1,14,João Palhinha,Fulham,0.07,0.05,Saved,15.0,Right Foot,Volley,Rodrigo Muniz,Pass (Live),Timothy Castagne,Pass (Dead)
+2,14,Alex Iwobi,Fulham,0.07,,Off Target,8.0,Left Foot,,Alex Iwobi,Take-On,Tom Cairney,Pass (Live)
+3,23,Andreas Pereira,Fulham,0.03,,Blocked,32.0,Right Foot,Free kick,Andreas Pereira,Fouled,Harry Wilson,Pass (Live)
+4,35,Rodrigo Muniz,Fulham,0.04,,Off Target,17.0,Right Foot,,João Palhinha,Pass (Live),Timothy Castagne,Pass (Live)
+5,43,Alex Iwobi,Fulham,0.05,0.08,Saved,21.0,Right Foot,Deflected,Harry Wilson,Pass (Live),Tom Cairney,Pass (Live)
+6,44,Harry Wilson,Fulham,0.05,,Blocked,18.0,Left Foot,,Timothy Castagne,Pass (Live),João Palhinha,Pass (Live)
+7,44,Antonee Robinson,Fulham,0.05,,Blocked,16.0,Left Foot,,Alex Iwobi,Pass (Live),Andreas Pereira,Pass (Live)
+8,45,Lyle Foster,Burnley,0.07,,Blocked,16.0,Right Foot,,Wilson Odobert,Pass (Live),Lyle Foster,Pass (Live)
+9,45+3,Timothy Castagne,Fulham,0.07,,Blocked,12.0,Right Foot,,Andreas Pereira,Pass (Live),Harry Wilson,Pass (Dead)
+10,45+3,Alex Iwobi,Fulham,0.21,,Blocked,10.0,Right Foot,,Timothy Castagne,Shot,,
+11,45+3,Alex Iwobi,Fulham,0.09,,Blocked,17.0,Right Foot,,Rodrigo Muniz,Pass (Live),Alex Iwobi,Shot
+12,45+4,Rodrigo Muniz,Fulham,0.06,,Off Target,14.0,Right Foot,Volley,Timothy Castagne,Pass (Live),Timothy Castagne,Take-On
+13,,,,,,,,,,,,,
+14,46,Zeki Amdouni,Burnley,0.08,,Off Target,19.0,Right Foot,,Vitinho,Pass (Live),Wilson Odobert,Pass (Live)
+15,47,Wilson Odobert,Burnley,0.02,0.3,Goal,28.0,Right Foot,,Lyle Foster,Pass (Live),Wilson Odobert,Pass (Live)
+16,53,Dara O'Shea,Burnley,0.06,,Blocked,10.0,Head,,Mike Trésor,Pass (Dead),Josh Brownhill,Pass (Live)
+17,55,Tosin Adarabioyo,Fulham,0.0,,Blocked,32.0,Right Foot,,Antonee Robinson,Pass (Live),Tom Cairney,Pass (Live)
+18,59,Sander Berge,Burnley,0.03,,Off Target,14.0,Head,,Charlie Taylor,Pass (Live),Zeki Amdouni,Pass (Live)
+19,66,Sander Berge,Burnley,0.04,0.25,Goal,27.0,Right Foot,,Wilson Odobert,Pass (Live),Dara O'Shea,Pass (Live)
+20,68,Bobby Reid,Fulham,0.04,,Off Target,26.0,Right Foot,,Alex Iwobi,Pass (Live),,
+21,72,Carlos Vinícius,Fulham,0.09,0.07,Saved,5.0,Head,,Bobby Reid,Pass (Live),Timothy Castagne,Pass (Dead)
+22,78,Antonee Robinson,Fulham,0.09,,Blocked,8.0,Right Foot,,Antonee Robinson,Take-On,Alex Iwobi,Pass (Live)
+23,83,Sander Berge,Burnley,0.06,,Off Target,22.0,Right Foot,,Mike Trésor,Pass (Live),Nathan Redmond,Pass (Live)
+24,86,Timothy Castagne,Fulham,0.26,0.05,Saved,8.0,Right Foot,,Carlos Vinícius,Pass (Live),Harry Wilson,Pass (Live)
+25,86,Carlos Vinícius,Fulham,0.05,,Off Target,17.0,Left Foot,,Timothy Castagne,Shot,,
+26,88,Alex Iwobi,Fulham,0.04,,Blocked,19.0,Right Foot,,Bobby Reid,Pass (Live),,

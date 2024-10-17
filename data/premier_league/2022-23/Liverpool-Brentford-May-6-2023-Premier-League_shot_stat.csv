@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8.0,Mohamed Salah,Liverpool,0.02,0.03,Saved,24.0,Left Foot,,Mohamed Salah,Pass (Live),Cody Gakpo,Pass (Live)
+1,13.0,Curtis Jones,Liverpool,0.02,,Blocked,27.0,Left Foot,,Curtis Jones,Pass (Live),Cody Gakpo,Pass (Live)
+2,13.0,Mohamed Salah,Liverpool,0.9,0.98,Goal,1.0,Left Foot,Volley,Virgil van Dijk,Pass (Live),Fabinho,Pass (Live)
+3,15.0,Ben Mee,Brentford,0.04,,Off Target,14.0,Head,,Mathias Jensen,Pass (Live),Bryan Mbeumo,Pass (Live)
+4,20.0,Curtis Jones,Liverpool,0.02,0.02,Saved,27.0,Right Foot,,Diogo Jota,Pass (Live),Andrew Robertson,Pass (Live)
+5,20.0,Bryan Mbeumo,Brentford,0.03,0.03,Saved,19.0,Left Foot,,Ivan Toney,Pass (Live),David Raya,Pass (Live)
+6,21.0,Darwin Núñez,Liverpool,0.04,,Blocked,13.0,Right Foot,,Mohamed Salah,Pass (Live),Cody Gakpo,Pass (Live)
+7,22.0,Virgil van Dijk,Liverpool,0.02,,Off Target,34.0,Right Foot,,Darwin Núñez,Pass (Live),Curtis Jones,Pass (Live)
+8,29.0,Darwin Núñez,Liverpool,0.57,,Off Target,10.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Virgil van Dijk,Pass (Live)
+9,39.0,Ivan Toney,Brentford,0.05,,Off Target,28.0,Right Foot,Free kick,Frank Onyeka,Fouled,Mathias Jørgensen,Pass (Live)
+10,45.0,Diogo Jota,Liverpool,0.15,,Blocked,14.0,Left Foot,,Mohamed Salah,Pass (Live),Mohamed Salah,Take-On
+11,,,,,,,,,,,,,
+12,48.0,Frank Onyeka,Brentford,0.03,,Blocked,23.0,Right Foot,,Mathias Jensen,Pass (Live),Rico Henry,Pass (Live)
+13,51.0,Trent Alexander-Arnold,Liverpool,0.02,,Off Target,33.0,Right Foot,,Diogo Jota,Pass (Live),Andrew Robertson,Pass (Live)
+14,52.0,Rico Henry,Brentford,0.05,,Off Target,13.0,Right Foot,,Aaron Hickey,Pass (Live),Aaron Hickey,Take-On
+15,53.0,Diogo Jota,Liverpool,0.05,,Off Target,10.0,Right Foot,,Mohamed Salah,Pass (Live),Diogo Jota,Pass (Live)
+16,58.0,Mohamed Salah,Liverpool,0.05,,Off Target,16.0,Left Foot,,Diogo Jota,Pass (Live),Mohamed Salah,Pass (Live)
+17,74.0,Trent Alexander-Arnold,Liverpool,0.02,,Blocked,28.0,Right Foot,,Jordan Henderson,Pass (Live),Curtis Jones,Pass (Live)
+18,78.0,Trent Alexander-Arnold,Liverpool,0.06,0.34,Saved,23.0,Right Foot,,Mohamed Salah,Pass (Live),,
+19,79.0,Ibrahima Konaté,Liverpool,0.05,0.03,Saved,10.0,Head,,Trent Alexander-Arnold,Shot,,
+20,84.0,Cody Gakpo,Liverpool,0.24,,Off Target,13.0,Right Foot,Volley,,,,

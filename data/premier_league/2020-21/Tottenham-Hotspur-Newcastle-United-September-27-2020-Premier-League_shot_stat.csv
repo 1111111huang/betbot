@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Giovani Lo Celso,Tottenham,0.07,0.17,Saved,24.0,Left Foot,Free kick,Giovani Lo Celso,Fouled,Lucas Moura,Pass (Live)
+1,3,Harry Kane,Tottenham,0.23,0.2,Saved,6.0,Right Foot,,Giovani Lo Celso,Shot,,
+2,3,Harry Kane,Tottenham,0.71,,Off Target,3.0,Right Foot,,Harry Kane,Shot,,
+3,9,Harry Kane,Tottenham,0.29,0.09,Saved,8.0,Head,,Pierre Højbjerg,Pass (Live),Matt Doherty,Pass (Live)
+4,10,Davinson Sánchez,Tottenham,0.07,,Blocked,9.0,Head,,Son Heung-min,Pass (Dead),Harry Kane,Shot
+5,25,Lucas Moura,Tottenham,0.61,0.87,Goal,4.0,Left Foot,,Harry Kane,Pass (Live),Son Heung-min,Pass (Live)
+6,27,Harry Kane,Tottenham,0.02,0.12,Saved,23.0,Right Foot,,Son Heung-min,Pass (Dead),Harry Kane,Pass (Live)
+7,30,Son Heung-min,Tottenham,0.03,,Woodwork,26.0,Left Foot,,Harry Kane,Pass (Live),,
+8,34,Eric Dier,Tottenham,0.11,,Off Target,8.0,Head,,Son Heung-min,Pass (Dead),Eric Dier,Pass (Live)
+9,35,Giovani Lo Celso,Tottenham,0.07,,Off Target,14.0,Left Foot,Volley,Pierre Højbjerg,Pass (Live),Eric Dier,Pass (Live)
+10,37,Miguel Almirón,Newcastle Utd,0.03,,Blocked,22.0,Left Foot,,Matt Ritchie,Pass (Dead),Jeff Hendrick,Fouled
+11,39,Harry Kane,Tottenham,0.04,,Off Target,15.0,Left Foot,,Giovani Lo Celso,Pass (Live),,
+12,42,Son Heung-min,Tottenham,0.03,,Woodwork,25.0,Left Foot,,Matt Doherty,Pass (Live),Giovani Lo Celso,Pass (Live)
+13,45+3,Jonjo Shelvey,Newcastle Utd,0.05,,Off Target,12.0,Right Foot,Volley,Matt Ritchie,Pass (Live),Miguel Almirón,Pass (Live)
+14,,,,,,,,,,,,,
+15,46,Harry Kane,Tottenham,0.08,,Off Target,12.0,Left Foot,,,,,
+16,50,Lucas Moura,Tottenham,0.05,0.1,Saved,7.0,Head,,Giovani Lo Celso,Pass (Dead),,
+17,50,Pierre Højbjerg,Tottenham,0.02,,Blocked,31.0,Right Foot,,Harry Winks,Pass (Live),Steven Bergwijn,Pass (Live)
+18,50,Giovani Lo Celso,Tottenham,0.07,0.03,Saved,16.0,Left Foot,,Pierre Højbjerg,Shot,,
+19,51,Matt Ritchie,Newcastle Utd,0.04,,Blocked,17.0,Left Foot,,Miguel Almirón,Pass (Live),Javier Manquillo,Pass (Live)
+20,60,Harry Kane,Tottenham,0.08,0.02,Saved,12.0,Right Foot,Volley,Steven Bergwijn,Pass (Live),Giovani Lo Celso,Pass (Live)
+21,61,Jeff Hendrick,Newcastle Utd,0.07,,Off Target,21.0,Right Foot,,Miguel Almirón,Pass (Live),Joelinton,Pass (Live)
+22,62,Giovani Lo Celso,Tottenham,0.03,0.3,Saved,27.0,Right Foot,,Pierre Højbjerg,Pass (Live),Lucas Moura,Pass (Live)
+23,71,Steven Bergwijn,Tottenham,0.06,0.41,Saved,16.0,Right Foot,,,,,
+24,76,Davinson Sánchez,Tottenham,0.24,,Blocked,5.0,Head,,Steven Bergwijn,Pass (Dead),,
+25,78,Lucas Moura,Tottenham,0.04,,Blocked,21.0,Left Foot,,Matt Doherty,Pass (Live),Pierre Højbjerg,Pass (Live)
+26,84,Érik Lamela,Tottenham,0.1,0.14,Saved,19.0,Left Foot,Free kick,Matt Doherty,Fouled,Érik Lamela,Pass (Live)
+27,88,Harry Kane,Tottenham,0.12,0.15,Saved,7.0,Right Foot,Volley,Steven Bergwijn,Pass (Live),Tanguy Ndombele,Pass (Live)
+28,90,Andy Carroll,Newcastle Utd,0.04,,Blocked,11.0,Head,,Jonjo Shelvey,Pass (Dead),Andy Carroll,Pass (Live)
+29,90+7,Callum Wilson (pen),Newcastle Utd,0.79,0.99,Goal,13.0,Right Foot,,,Fouled,Jonjo Shelvey,Pass (Dead)

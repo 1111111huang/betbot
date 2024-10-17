@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Kieran Trippier,Newcastle Utd,0.13,,Blocked,23.0,Right Foot,Free kick,Bruno Guimarães,Fouled,Allan Saint-Maximin,Pass (Live)
+1,15,Alexander Isak,Newcastle Utd,0.11,0.36,Saved,7.0,Head,,Allan Saint-Maximin,Pass (Live),Bruno Guimarães,Pass (Live)
+2,26,Alexander Isak,Newcastle Utd,0.09,0.34,Goal,10.0,Head,,Kieran Trippier,Pass (Dead),Fabian Schär,Fouled
+3,28,Joe Willock,Newcastle Utd,0.22,0.61,Saved,5.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Jacob Murphy,Pass (Live)
+4,30,Raúl Jiménez,Wolves,0.03,0.21,Saved,28.0,Right Foot,,Daniel Podence,Pass (Live),Raúl Jiménez,Pass (Live)
+5,30,Alexander Isak,Newcastle Utd,0.12,,Blocked,16.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Nick Pope,Pass (Live)
+6,31,Jacob Murphy,Newcastle Utd,0.07,,Blocked,18.0,Right Foot,Volley,Jacob Murphy,Pass (Live),Joe Willock,Pass (Live)
+7,33,Fabian Schär,Newcastle Utd,0.18,0.21,Saved,7.0,Right Foot,"Deflected, Volley",Bruno Guimarães,Fouled,Kieran Trippier,Pass (Live)
+8,34,Joe Willock,Newcastle Utd,0.02,,Blocked,24.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Sven Botman,Pass (Live)
+9,34,Alexander Isak,Newcastle Utd,0.05,,Blocked,23.0,Right Foot,Volley,Joe Willock,Shot,,
+10,35,Allan Saint-Maximin,Newcastle Utd,0.04,,Blocked,16.0,Left Foot,,Alexander Isak,Shot,,
+11,35,Bruno Guimarães,Newcastle Utd,0.35,,Woodwork,3.0,Head,,Dan Burn,Pass (Live),Kieran Trippier,Pass (Dead)
+12,39,Daniel Podence,Wolves,0.03,,Woodwork,23.0,Right Foot,,Rúben Neves,Pass (Live),Rúben Neves,Take-On
+13,40,Allan Saint-Maximin,Newcastle Utd,0.03,,Blocked,20.0,Right Foot,,Joe Willock,Pass (Live),Jacob Murphy,Pass (Live)
+14,41,Jacob Murphy,Newcastle Utd,0.03,0.23,Saved,32.0,Right Foot,,Bruno Guimarães,Pass (Live),Dan Burn,Pass (Live)
+15,,,,,,,,,,,,,
+16,48,Rúben Neves,Wolves,0.02,,Off Target,25.0,Right Foot,,Max Kilman,Pass (Live),Pedro Neto,Pass (Live)
+17,55,Joe Willock,Newcastle Utd,0.04,0.17,Saved,12.0,Left Foot,,Joe Willock,Take-On,Allan Saint-Maximin,Pass (Live)
+18,58,Pedro Neto,Wolves,0.11,0.58,Saved,22.0,Left Foot,Free kick,João Moutinho,Pass (Dead),Daniel Podence,Fouled
+19,59,Kieran Trippier,Newcastle Utd,0.05,0.31,Saved,27.0,Right Foot,"Free kick, Deflected",Jacob Murphy,Fouled,,
+20,63,Rúben Neves,Wolves,0.06,,Off Target,15.0,Right Foot,Volley,Jonny Castro,Pass (Live),João Moutinho,Pass (Live)
+21,64,João Moutinho,Wolves,0.07,0.16,Saved,13.0,Right Foot,Volley,Rúben Neves,Pass (Live),Raúl Jiménez,Pass (Live)
+22,67,Sven Botman,Newcastle Utd,0.11,,Off Target,8.0,Head,,Dan Burn,Pass (Live),Allan Saint-Maximin,Pass (Live)
+23,70,Hwang Hee-chan,Wolves,0.8,0.53,Goal,11.0,Left Foot,,Hwang Hee-chan,Pass (Live),Pedro Neto,Pass (Live)
+24,79,Miguel Almirón,Newcastle Utd,0.05,0.32,Goal,12.0,Left Foot,Deflected,Joe Willock,Pass (Live),Miguel Almirón,Pass (Live)
+25,85,Kieran Trippier,Newcastle Utd,0.03,,Blocked,31.0,Right Foot,,,,,
+26,90+4,Sven Botman,Newcastle Utd,0.08,,Off Target,9.0,Right Foot,,Miguel Almirón,Pass (Live),Bruno Guimarães,Pass (Live)

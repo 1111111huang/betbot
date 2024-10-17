@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Anthony Martial,Manchester Utd,0.05,,Off Target,13.0,Head,,Luke Shaw,Pass (Live),Bruno Fernandes,Pass (Live)
+1,23,Casemiro,Manchester Utd,0.42,0.77,Goal,8.0,Right Foot,Volley,Christian Eriksen,Pass (Dead),Marcus Rashford,Fouled
+2,27,Philip Billing,Bournemouth,0.04,,Blocked,29.0,Left Foot,Free kick,Ryan Christie,Fouled,Adam Smith,Pass (Dead)
+3,28,Dominic Solanke,Bournemouth,0.1,,Off Target,11.0,Head,,Lewis Cook,Pass (Live),Jaidon Anthony,Pass (Live)
+4,34,Casemiro,Manchester Utd,0.06,,Off Target,25.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Christian Eriksen,Pass (Live)
+5,36,Bruno Fernandes,Manchester Utd,0.02,,Blocked,24.0,Right Foot,,Donny van de Beek,Pass (Live),Anthony Martial,Pass (Live)
+6,37,Christian Eriksen,Manchester Utd,0.11,,Blocked,21.0,Right Foot,Free kick,Casemiro,Fouled,,
+7,,,,,,,,,,,,,
+8,47,Marcus Rashford,Manchester Utd,0.03,,Blocked,31.0,Right Foot,Free kick,Alejandro Garnacho,Fouled,Casemiro,Pass (Live)
+9,49,Luke Shaw,Manchester Utd,0.31,0.76,Goal,13.0,Right Foot,,Alejandro Garnacho,Pass (Live),Bruno Fernandes,Pass (Live)
+10,55,Anthony Martial,Manchester Utd,0.22,,Off Target,5.0,Head,,Casemiro,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+11,57,Philip Billing,Bournemouth,0.21,0.28,Saved,9.0,Head,,Adam Smith,Pass (Live),Ryan Christie,Pass (Live)
+12,58,Dominic Solanke,Bournemouth,0.05,0.12,Saved,13.0,Head,,Lewis Cook,Pass (Live),Ryan Christie,Pass (Live)
+13,58,Jaidon Anthony,Bournemouth,0.06,0.06,Saved,14.0,Left Foot,,Philip Billing,Pass (Live),Jefferson Lerma,Pass (Live)
+14,71,Marcus Rashford,Manchester Utd,0.03,,Off Target,25.0,Right Foot,,Bruno Fernandes,Pass (Live),Anthony Elanga,Pass (Live)
+15,74,Alejandro Garnacho,Manchester Utd,0.02,,Blocked,24.0,Right Foot,,Luke Shaw,Pass (Live),Alejandro Garnacho,Pass (Live)
+16,77,Bruno Fernandes,Manchester Utd,0.1,,Off Target,23.0,Right Foot,,Diogo Dalot,Pass (Live),Marcus Rashford,Pass (Live)
+17,78,Alejandro Garnacho,Manchester Utd,0.07,,Woodwork,14.0,Right Foot,,Fred,Pass (Live),Bruno Fernandes,Pass (Live)
+18,80,Anthony Elanga,Manchester Utd,0.07,,Blocked,13.0,Right Foot,,Bruno Fernandes,Pass (Live),Diogo Dalot,Pass (Live)
+19,81,Diogo Dalot,Manchester Utd,0.05,0.07,Saved,15.0,Right Foot,,Fred,Pass (Live),Luke Shaw,Pass (Live)
+20,82,Alejandro Garnacho,Manchester Utd,0.09,0.22,Saved,12.0,Left Foot,Volley,Bruno Fernandes,Pass (Live),Fred,Pass (Live)
+21,83,Diogo Dalot,Manchester Utd,0.05,,Blocked,20.0,Left Foot,,Diogo Dalot,Interception,,
+22,83,Jaidon Anthony,Bournemouth,0.09,,Off Target,16.0,Left Foot,,Dominic Solanke,Pass (Live),Jaidon Anthony,Pass (Live)
+23,85,Bruno Fernandes,Manchester Utd,0.07,0.1,Saved,11.0,Right Foot,Deflected,Marcus Rashford,Pass (Live),Bruno Fernandes,Pass (Live)
+24,86,Marcus Rashford,Manchester Utd,0.48,0.86,Goal,5.0,Left Foot,,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)
+25,90+2,Jaidon Anthony,Bournemouth,0.03,0.1,Saved,18.0,Left Foot,,Jaidon Anthony,Interception,,

@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,Ibrahima Diallo,Southampton,0.03,,Off Target,29.0,Left Foot,,Nathan Redmond,Pass (Live),Stuart Armstrong,Pass (Live)
+1,11.0,Takumi Minamino,Southampton,0.35,,Off Target,13.0,Left Foot,,Stuart Armstrong,Pass (Live),Danny Ings,Pass (Live)
+2,20.0,Jesse Lingard,West Ham,0.02,,Off Target,31.0,Right Foot,,Aaron Cresswell,Pass (Dead),,
+3,21.0,Kyle Walker-Peters,Southampton,0.04,,Blocked,16.0,Right Foot,,Ibrahima Diallo,Pass (Live),,
+4,21.0,James Ward-Prowse,Southampton,0.02,,Blocked,31.0,Left Foot,,Kyle Walker-Peters,Pass (Live),Stuart Armstrong,Pass (Live)
+5,22.0,Kyle Walker-Peters,Southampton,0.34,0.46,Saved,9.0,Left Foot,,Ibrahima Diallo,Pass (Live),James Ward-Prowse,Pass (Live)
+6,23.0,Stuart Armstrong,Southampton,0.02,,Off Target,27.0,Right Foot,,Kyle Walker-Peters,Shot,,
+7,25.0,Kyle Walker-Peters,Southampton,0.05,0.4,Saved,12.0,Head,,Nathan Redmond,Pass (Live),Nathan Redmond,Take-On
+8,25.0,Pablo Fornals,West Ham,0.04,0.08,Saved,20.0,Right Foot,,Pablo Fornals,Pass (Live),Łukasz Fabiański,Pass (Live)
+9,25.0,Stuart Armstrong,Southampton,0.04,,Off Target,23.0,Right Foot,,Nathan Redmond,Pass (Live),Takumi Minamino,Pass (Live)
+10,27.0,Craig Dawson,West Ham,0.05,,Off Target,13.0,Head,,Aaron Cresswell,Pass (Dead),Jarrod Bowen,Fouled
+11,29.0,Pablo Fornals,West Ham,0.11,,Off Target,14.0,Right Foot,Volley,Michail Antonio,Pass (Live),Vladimír Coufal,Pass (Dead)
+12,30.0,Jarrod Bowen,West Ham,0.08,0.27,Saved,15.0,Right Foot,,Jarrod Bowen,Take-On,Michail Antonio,Pass (Live)
+13,30.0,Pablo Fornals,West Ham,0.35,0.39,Goal,9.0,Right Foot,Deflected,Jarrod Bowen,Shot,,
+14,33.0,Pablo Fornals,West Ham,0.08,0.36,Goal,11.0,Right Foot,,Vladimír Coufal,Pass (Live),Aaron Cresswell,Pass (Live)
+15,36.0,Jesse Lingard,West Ham,0.02,0.09,Saved,26.0,Right Foot,,Pablo Fornals,Pass (Live),Jesse Lingard,Pass (Live)
+16,39.0,Jarrod Bowen,West Ham,0.05,0.02,Saved,18.0,Left Foot,,Pablo Fornals,Pass (Live),Vladimír Coufal,Pass (Dead)
+17,,,,,,,,,,,,,
+18,46.0,Ibrahima Diallo,Southampton,0.07,,Blocked,21.0,Right Foot,,Takumi Minamino,Pass (Live),Danny Ings,Pass (Live)
+19,47.0,Tomáš Souček,West Ham,0.04,,Off Target,21.0,Right Foot,,Declan Rice,Pass (Live),Jesse Lingard,Pass (Live)
+20,47.0,Jesse Lingard,West Ham,0.08,,Blocked,14.0,Right Foot,,Tomáš Souček,Shot,,
+21,52.0,Takumi Minamino,Southampton,0.04,0.13,Saved,17.0,Left Foot,,Nathan Redmond,Pass (Live),Stuart Armstrong,Pass (Live)
+22,52.0,Jan Bednarek,Southampton,0.03,0.12,Saved,10.0,Head,,James Ward-Prowse,Pass (Dead),Takumi Minamino,Shot
+23,56.0,Jannik Vestergaard,Southampton,0.1,,Off Target,10.0,Head,,James Ward-Prowse,Pass (Dead),Nathan Redmond,Fouled
+24,66.0,Stuart Armstrong,Southampton,0.03,,Blocked,27.0,Left Foot,,Nathan Redmond,Pass (Live),Nathan Redmond,Take-On
+25,70.0,Danny Ings,Southampton,0.14,,Off Target,7.0,Right Foot,,Nathan Redmond,Pass (Live),Nathan Tella,Pass (Live)
+26,74.0,Declan Rice,West Ham,0.1,,Off Target,9.0,Head,,Jarrod Bowen,Pass (Dead),Vladimír Coufal,Fouled
+27,75.0,Mohammed Salisu,Southampton,0.05,,Off Target,9.0,Head,,James Ward-Prowse,Pass (Dead),,
+28,76.0,Nathan Tella,Southampton,0.07,0.23,Saved,17.0,Right Foot,,Nathan Redmond,Pass (Live),Oriol Romeu,Pass (Live)
+29,80.0,Nathan Redmond,Southampton,0.09,,Off Target,11.0,Right Foot,,Nathan Redmond,Take-On,Stuart Armstrong,Pass (Live)
+30,84.0,Saïd Benrahma,West Ham,0.05,,Off Target,12.0,Right Foot,,Saïd Benrahma,Tackle,,
+31,86.0,Declan Rice,West Ham,0.29,0.53,Goal,11.0,Right Foot,,Pablo Fornals,Pass (Live),,

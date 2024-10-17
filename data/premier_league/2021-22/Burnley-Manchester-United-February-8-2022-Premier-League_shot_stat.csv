@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Marcus Rashford,Manchester Utd,0.03,0.09,Saved,18.0,Right Foot,,Diogo Dalot,Pass (Live),,
+1,18,Paul Pogba,Manchester Utd,0.28,0.43,Goal,12.0,Right Foot,,Luke Shaw,Pass (Live),Marcus Rashford,Pass (Live)
+2,21,Bruno Fernandes,Manchester Utd,0.08,,Blocked,22.0,Right Foot,,Jadon Sancho,Pass (Live),Luke Shaw,Pass (Live)
+3,32,Scott McTominay,Manchester Utd,0.03,,Off Target,29.0,Right Foot,,Bruno Fernandes,Pass (Live),Marcus Rashford,Pass (Live)
+4,33,Edinson Cavani,Manchester Utd,0.42,0.96,Saved,2.0,Head,,Jadon Sancho,Pass (Live),Bruno Fernandes,Pass (Live)
+5,34,Jadon Sancho,Manchester Utd,0.04,,Off Target,18.0,Right Foot,,Bruno Fernandes,Pass (Live),Scott McTominay,Pass (Live)
+6,37,Bruno Fernandes,Manchester Utd,0.08,0.37,Saved,9.0,Right Foot,Deflected,Diogo Dalot,Pass (Live),Diogo Dalot,Take-On
+7,40,Jadon Sancho,Manchester Utd,0.03,,Blocked,19.0,Right Foot,,Bruno Fernandes,Tackle,,
+8,40,Marcus Rashford,Manchester Utd,0.08,0.11,Saved,12.0,Right Foot,,Jadon Sancho,Shot,,
+9,42,Marcus Rashford,Manchester Utd,0.03,,Blocked,20.0,Right Foot,,Bruno Fernandes,Pass (Live),Scott McTominay,Pass (Live)
+10,42,Edinson Cavani,Manchester Utd,0.07,,Blocked,12.0,Right Foot,Volley,Marcus Rashford,Shot,,
+11,43,Scott McTominay,Manchester Utd,0.02,,Blocked,31.0,Right Foot,,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Jay Rodriguez,Burnley,0.11,0.5,Goal,9.0,Right Foot,,Wout Weghorst,Pass (Live),Wout Weghorst,Take-On
+14,52,Wout Weghorst,Burnley,0.02,0.25,Saved,30.0,Right Foot,Volley,Erik Pieters,Pass (Dead),,
+15,52,Erik Pieters,Burnley,0.02,,Off Target,25.0,Left Foot,Volley,Wout Weghorst,Shot,,
+16,55,Bruno Fernandes,Manchester Utd,0.02,,Blocked,26.0,Right Foot,,Jadon Sancho,Pass (Live),Jadon Sancho,Take-On
+17,61,Wout Weghorst,Burnley,0.07,,Off Target,13.0,Right Foot,,Dwight McNeil,Pass (Live),Ashley Westwood,Pass (Live)
+18,63,Dwight McNeil,Burnley,0.02,0.03,Saved,29.0,Left Foot,,Jay Rodriguez,Fouled,Maxwel Cornet,Pass (Live)
+19,67,Connor Roberts,Burnley,0.04,,Off Target,26.0,Right Foot,,Jay Rodriguez,Pass (Live),Ashley Westwood,Pass (Live)
+20,71,James Tarkowski,Burnley,0.02,,Blocked,15.0,Head,,Ashley Westwood,Pass (Dead),Connor Roberts,Fouled
+21,71,Erik Pieters,Burnley,0.01,,Off Target,25.0,Left Foot,,James Tarkowski,Shot,,
+22,71,Jadon Sancho,Manchester Utd,0.07,,Blocked,10.0,Right Foot,,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)
+23,72,Paul Pogba,Manchester Utd,0.04,,Blocked,20.0,Left Foot,,,,,
+24,78,Raphaël Varane,Manchester Utd,0.25,,Blocked,5.0,Left Foot,,Marcus Rashford,Take-On,Bruno Fernandes,Pass (Live)
+25,79,Cristiano Ronaldo,Manchester Utd,0.08,,Off Target,9.0,Head,,Luke Shaw,Pass (Live),Jadon Sancho,Pass (Dead)
+26,83,Wout Weghorst,Burnley,0.07,,Off Target,13.0,Left Foot,Volley,Dwight McNeil,Pass (Live),Erik Pieters,Pass (Live)
+27,90+1,Cristiano Ronaldo,Manchester Utd,0.08,,Off Target,10.0,Head,,Anthony Elanga,Pass (Live),Luke Shaw,Pass (Live)
+28,90+3,Bruno Fernandes,Manchester Utd,0.01,,Blocked,22.0,Right Foot,,Paul Pogba,Pass (Live),Bruno Fernandes,Pass (Live)
+29,90+4,Cristiano Ronaldo,Manchester Utd,0.05,,Blocked,11.0,Left Foot,,Luke Shaw,Pass (Live),Luke Shaw,Tackle
+30,90+4,Jesse Lingard,Manchester Utd,0.05,,Blocked,23.0,Right Foot,,Jadon Sancho,Pass (Live),Cristiano Ronaldo,Shot
+31,90+4,Harry Maguire,Manchester Utd,0.02,,Off Target,10.0,Other,,Bruno Fernandes,Pass (Dead),Jesse Lingard,Shot

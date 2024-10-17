@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Rasmus Højlund,Manchester Utd,0.06,0.33,Goal,12.0,Left Foot,,Bruno Fernandes,Pass (Live),Alejandro Garnacho,Pass (Live)
+1,8,Marcus Rashford,Manchester Utd,0.04,,Off Target,15.0,Right Foot,Volley,Christian Eriksen,Pass (Dead),Alejandro Garnacho,Pass (Live)
+2,9,Pedro Porro,Tottenham,0.04,0.11,Saved,23.0,Right Foot,Deflected,Pierre Højbjerg,Pass (Live),Destiny Udogie,Pass (Live)
+3,11,Timo Werner,Tottenham,0.04,,Blocked,9.0,Head,,Brennan Johnson,Pass (Live),Rodrigo Bentancur,Pass (Live)
+4,11,Rodrigo Bentancur,Tottenham,0.1,,Blocked,6.0,Head,,Pedro Porro,Pass (Dead),Timo Werner,Shot
+5,19,Richarlison,Tottenham,0.19,0.72,Goal,4.0,Head,Deflected,Pedro Porro,Pass (Dead),Timo Werner,Pass (Live)
+6,22,Timo Werner,Tottenham,0.03,,Off Target,27.0,Right Foot,,Destiny Udogie,Pass (Live),,
+7,24,Timo Werner,Tottenham,0.03,,Blocked,19.0,Right Foot,,Pedro Porro,Pass (Live),Pierre Højbjerg,Pass (Live)
+8,30,Brennan Johnson,Tottenham,0.05,0.08,Saved,17.0,Right Foot,Deflected,Richarlison,Pass (Live),Cristian Romero,Pass (Live)
+9,31,Diogo Dalot,Manchester Utd,0.02,,Blocked,8.0,Head,,Bruno Fernandes,Pass (Dead),Bruno Fernandes,Pass (Live)
+10,40,Marcus Rashford,Manchester Utd,0.06,0.54,Goal,14.0,Right Foot,,Marcus Rashford,Pass (Live),Rasmus Højlund,Pass (Live)
+11,45,Timo Werner,Tottenham,0.09,,Off Target,15.0,Left Foot,,Oliver Skipp,Pass (Live),,
+12,45+1,Raphaël Varane,Manchester Utd,0.09,,Blocked,4.0,Head,,Christian Eriksen,Pass (Dead),,
+13,45+1,Bruno Fernandes,Manchester Utd,0.01,,Off Target,23.0,Right Foot,,Alejandro Garnacho,Pass (Live),Raphaël Varane,Shot
+14,45+2,Cristian Romero,Tottenham,0.21,,Woodwork,4.0,Head,,Pedro Porro,Pass (Dead),Brennan Johnson,Pass (Live)
+15,45+3,Pierre Højbjerg,Tottenham,0.05,,Off Target,21.0,Right Foot,,Pierre Højbjerg,Pass (Live),Cristian Romero,Shot
+16,,,,,,,,,,,,,
+17,46,Rodrigo Bentancur,Tottenham,0.11,0.1,Goal,6.0,Left Foot,,Timo Werner,Pass (Live),Oliver Skipp,Pass (Live)
+18,52,Richarlison,Tottenham,0.06,0.11,Saved,16.0,Right Foot,,Oliver Skipp,Pass (Live),Pedro Porro,Pass (Live)
+19,58,Timo Werner,Tottenham,0.09,,Off Target,12.0,Right Foot,Volley,Pedro Porro,Pass (Dead),Pedro Porro,Pass (Dead)
+20,62,Scott McTominay,Manchester Utd,0.08,,Off Target,23.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Raphaël Varane,Pass (Live)
+21,69,Oliver Skipp,Tottenham,0.02,,Blocked,22.0,Right Foot,Volley,Pedro Porro,Pass (Live),Micky van de Ven,Pass (Live)
+22,70,Rodrigo Bentancur,Tottenham,0.09,,Off Target,9.0,Head,,Oliver Skipp,Shot,,
+23,82,Brennan Johnson,Tottenham,0.04,,Blocked,19.0,Left Foot,,Oliver Skipp,Pass (Live),Rodrigo Bentancur,Pass (Live)
+24,86,Bruno Fernandes,Manchester Utd,0.04,,Blocked,21.0,Right Foot,Free kick,Marcus Rashford,Fouled,Marcus Rashford,Take-On
+25,90+5,Scott McTominay,Manchester Utd,0.34,,Off Target,9.0,Head,,Alejandro Garnacho,Pass (Live),Aaron Wan-Bissaka,Pass (Live)

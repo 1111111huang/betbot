@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Jorginho,Chelsea,0.03,,Off Target,30.0,Right Foot,Volley,Timo Werner,Pass (Live),Ben Chilwell,Pass (Live)
+1,10.0,Thiago Silva,Chelsea,0.08,0.15,Goal,9.0,Head,,Mason Mount,Pass (Dead),César Azpilicueta,Pass (Live)
+2,26.0,Aaron Cresswell,West Ham,0.04,,Off Target,14.0,Left Foot,,Mark Noble,Pass (Live),Aaron Cresswell,Pass (Live)
+3,27.0,Tomáš Souček,West Ham,0.06,,Off Target,15.0,Left Foot,,Aaron Cresswell,Pass (Dead),Tomáš Souček,Pass (Live)
+4,34.0,Tomáš Souček,West Ham,0.06,,Blocked,14.0,Right Foot,Volley,Vladimír Coufal,Pass (Live),Mark Noble,Pass (Live)
+5,43.0,Timo Werner,Chelsea,0.28,0.27,Saved,11.0,Left Foot,,Christian Pulisic,Pass (Live),Christian Pulisic,Take-On
+6,43.0,Mason Mount,Chelsea,0.01,0.27,Saved,31.0,Right Foot,"Deflected, Volley",Timo Werner,Shot,,
+7,,,,,,,,,,,,,
+8,48.0,Sébastien Haller,West Ham,0.08,,Off Target,9.0,Head,,Aaron Cresswell,Pass (Live),Jarrod Bowen,Pass (Live)
+9,59.0,Angelo Ogbonna,West Ham,0.12,,Off Target,10.0,Head,,Vladimír Coufal,Pass (Dead),Jarrod Bowen,Fouled
+10,62.0,Thiago Silva,Chelsea,0.02,,Off Target,12.0,Head,,Mason Mount,Pass (Dead),César Azpilicueta,Pass (Dead)
+11,63.0,Pablo Fornals,West Ham,0.05,,Blocked,15.0,Left Foot,,Vladimír Coufal,Pass (Live),Tomáš Souček,Pass (Live)
+12,72.0,Timo Werner,Chelsea,0.05,0.04,Saved,16.0,Right Foot,Deflected,Christian Pulisic,Pass (Live),,
+13,78.0,Timo Werner,Chelsea,0.04,,Blocked,18.0,Right Foot,,Mason Mount,Pass (Live),Tammy Abraham,Pass (Live)
+14,78.0,Tammy Abraham,Chelsea,0.59,0.98,Goal,7.0,Right Foot,,Timo Werner,Shot,,
+15,80.0,Christian Pulisic,Chelsea,0.62,0.8,Saved,3.0,Head,,Mason Mount,Pass (Live),Christian Pulisic,Pass (Live)
+16,80.0,Tammy Abraham,Chelsea,0.3,0.88,Goal,8.0,Right Foot,,Christian Pulisic,Shot,,
+17,89.0,Timo Werner,Chelsea,0.23,,Woodwork,10.0,Right Foot,,N'Golo Kanté,Pass (Live),,

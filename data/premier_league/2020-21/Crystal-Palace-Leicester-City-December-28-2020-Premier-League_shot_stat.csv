@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Daniel Amartey,Leicester City,0.15,,Off Target,11.0,Other,,Ayoze Pérez,Pass (Dead),Harvey Barnes,Fouled
+1,13,Ayoze Pérez,Leicester City,0.05,,Off Target,9.0,Head,,Luke Thomas,Pass (Live),Nampalys Mendy,Pass (Live)
+2,15,Kelechi Iheanacho,Leicester City,0.06,,Blocked,14.0,Left Foot,,James Justin,Pass (Live),Ayoze Pérez,Pass (Live)
+3,19,Kelechi Iheanacho (pen),Leicester City,0.79,0.97,Saved,13.0,Left Foot,,Luke Thomas,Fouled,Jonny Evans,Pass (Live)
+4,20,Harvey Barnes,Leicester City,0.03,,Off Target,29.0,Right Foot,,,,,
+5,22,Christian Benteke,Crystal Palace,0.28,,Off Target,4.0,Head,,Andros Townsend,Pass (Dead),Wilfried Zaha,Take-On
+6,25,Dennis Praet,Leicester City,0.06,,Off Target,9.0,Right Foot,,James Justin,Pass (Live),Dennis Praet,Pass (Live)
+7,27,Andros Townsend,Crystal Palace,0.09,,Off Target,10.0,Left Foot,,Jeffrey Schlupp,Pass (Live),Tyrick Mitchell,Pass (Live)
+8,30,Kelechi Iheanacho,Leicester City,0.37,,Off Target,4.0,Other,,Dennis Praet,Pass (Live),James Justin,Pass (Live)
+9,35,Ayoze Pérez,Leicester City,0.05,0.05,Saved,31.0,Right Foot,Free kick,Nampalys Mendy,Fouled,Jonny Evans,Pass (Live)
+10,45,Harvey Barnes,Leicester City,0.02,,Off Target,28.0,Right Foot,,Jonny Evans,Pass (Live),Daniel Amartey,Pass (Live)
+11,,,,,,,,,,,,,
+12,49,Wilfried Zaha,Crystal Palace,0.06,,Off Target,18.0,Left Foot,,Jeffrey Schlupp,Pass (Live),James Tomkins,Pass (Live)
+13,58,Harvey Barnes,Leicester City,0.05,,Blocked,15.0,Right Foot,,Nampalys Mendy,Fouled,James Justin,Pass (Live)
+14,58,Wilfried Zaha,Crystal Palace,0.04,0.19,Goal,8.0,Right Foot,Volley,Andros Townsend,Pass (Live),Luka Milivojević,Pass (Live)
+15,63,Dennis Praet,Leicester City,0.03,,Blocked,26.0,Right Foot,,Harvey Barnes,Fouled,Jonny Evans,Pass (Live)
+16,83,Harvey Barnes,Leicester City,0.04,0.17,Goal,21.0,Left Foot,,Jonny Evans,Pass (Live),,
+17,85,Youri Tielemans,Leicester City,0.02,,Blocked,27.0,Right Foot,,Jonny Evans,Pass (Live),,
+18,87,Harvey Barnes,Leicester City,0.05,,Off Target,28.0,Right Foot,,Ayoze Pérez,Pass (Live),Harvey Barnes,Pass (Live)
+19,90+1,Demarai Gray,Leicester City,0.07,,Off Target,30.0,Right Foot,Free kick,Ayoze Pérez,Fouled,James Justin,Pass (Live)
+20,90+3,Harvey Barnes,Leicester City,0.04,,Off Target,16.0,Head,,James Justin,Pass (Live),Youri Tielemans,Pass (Live)
+21,90+4,Ayoze Pérez,Leicester City,0.07,,Off Target,16.0,Right Foot,,James Justin,Pass (Live),Jamie Vardy,Pass (Live)

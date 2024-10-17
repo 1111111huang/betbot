@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Pierre-Emerick Aubameyang,Arsenal,0.03,,Blocked,15.0,Right Foot,,Pierre-Emerick Aubameyang,Take-On,,
+1,2,Ben White,Arsenal,0.05,,Blocked,9.0,Head,,Martin Ødegaard,Pass (Dead),Pierre-Emerick Aubameyang,Shot
+2,8,Diogo Dalot,Manchester Utd,0.02,0.02,Saved,24.0,Left Foot,,Bruno Fernandes,Pass (Live),Cristiano Ronaldo,Pass (Live)
+3,10,Pierre-Emerick Aubameyang,Arsenal,0.09,0.17,Saved,21.0,Left Foot,,Emile Smith Rowe,Pass (Live),Thomas Partey,Pass (Live)
+4,11,Cristiano Ronaldo,Manchester Utd,0.03,,Off Target,28.0,Left Foot,,Fred,Pass (Live),,
+5,13,Gabriel Martinelli,Arsenal,0.04,,Blocked,12.0,Head,,Takehiro Tomiyasu,Pass (Live),Ben White,Pass (Live)
+6,13,Emile Smith Rowe,Arsenal,0.02,0.12,Goal,24.0,Left Foot,Volley,Mohamed Elneny,Pass (Live),Gabriel Martinelli,Shot
+7,19,Cristiano Ronaldo,Manchester Utd,0.02,0.15,Saved,20.0,Right Foot,,Cristiano Ronaldo,Take-On,Scott McTominay,Pass (Live)
+8,28,Victor Lindelöf,Manchester Utd,0.01,0.06,Saved,10.0,Head,Deflected,Alex Telles,Pass (Dead),Marcus Rashford,Pass (Live)
+9,30,Harry Maguire,Manchester Utd,0.02,,Off Target,29.0,Right Foot,,Jadon Sancho,Pass (Live),Harry Maguire,Pass (Live)
+10,37,Harry Maguire,Manchester Utd,0.02,0.06,Saved,24.0,Right Foot,,Marcus Rashford,Pass (Live),Harry Maguire,Pass (Live)
+11,38,Gabriel Martinelli,Arsenal,0.16,,Off Target,12.0,Left Foot,,Martin Ødegaard,Pass (Live),Takehiro Tomiyasu,Pass (Live)
+12,42,Thomas Partey,Arsenal,0.07,,Blocked,28.0,Right Foot,Free kick,Thomas Partey,Fouled,Thomas Partey,Pass (Live)
+13,44,Bruno Fernandes,Manchester Utd,0.16,0.11,Goal,11.0,Right Foot,,Fred,Pass (Live),Jadon Sancho,Pass (Live)
+14,45+1,Gabriel Martinelli,Arsenal,0.02,,Off Target,16.0,Head,,Martin Ødegaard,Pass (Dead),Thomas Partey,Fouled
+15,45+4,Cristiano Ronaldo,Manchester Utd,0.09,,Off Target,16.0,Right Foot,Volley,Bruno Fernandes,Pass (Live),Marcus Rashford,Pass (Live)
+16,,,,,,,,,,,,,
+17,46,Gabriel Magalhães,Arsenal,0.08,0.04,Saved,10.0,Other,,Martin Ødegaard,Pass (Dead),,
+18,46,Mohamed Elneny,Arsenal,0.02,,Off Target,25.0,Right Foot,Volley,Gabriel Magalhães,Shot,,
+19,48,Cristiano Ronaldo,Manchester Utd,0.08,0.3,Saved,10.0,Left Foot,,Cristiano Ronaldo,Take-On,Bruno Fernandes,Pass (Live)
+20,50,Marcus Rashford,Manchester Utd,0.03,0.02,Saved,30.0,Right Foot,,Bruno Fernandes,Pass (Live),Fred,Pass (Live)
+21,52,Cristiano Ronaldo,Manchester Utd,0.53,0.91,Goal,10.0,Right Foot,,Marcus Rashford,Pass (Live),Diogo Dalot,Pass (Live)
+22,54,Martin Ødegaard,Arsenal,0.17,0.37,Goal,16.0,Right Foot,,Gabriel Martinelli,Pass (Live),Thomas Partey,Pass (Live)
+23,65,Pierre-Emerick Aubameyang,Arsenal,0.05,0.17,Saved,16.0,Right Foot,,Ben White,Pass (Live),Gabriel Magalhães,Pass (Live)
+24,65,Nuno Tavares,Arsenal,0.1,,Off Target,11.0,Head,,Pierre-Emerick Aubameyang,Shot,,
+25,70,Cristiano Ronaldo (pen),Manchester Utd,0.79,0.93,Goal,13.0,Right Foot,,Fred,Fouled,Jadon Sancho,Pass (Live)
+26,75,Pierre-Emerick Aubameyang,Arsenal,0.05,0.1,Saved,23.0,Right Foot,,Gabriel Martinelli,Pass (Live),Gabriel Magalhães,Pass (Live)
+27,78,Gabriel Martinelli,Arsenal,0.08,,Off Target,16.0,Right Foot,Volley,Ben White,Pass (Live),Ben White,Pass (Live)
+28,78,Pierre-Emerick Aubameyang,Arsenal,0.4,0.75,Saved,9.0,Right Foot,Volley,Gabriel Martinelli,Shot,,
+29,85,Jesse Lingard,Manchester Utd,0.02,0.68,Saved,15.0,Left Foot,,Alex Telles,Pass (Live),Cristiano Ronaldo,Pass (Live)
+30,87,Bukayo Saka,Arsenal,0.04,,Blocked,17.0,Left Foot,,Nuno Tavares,Pass (Live),Gabriel Magalhães,Pass (Live)
+31,88,Bruno Fernandes,Manchester Utd,0.11,,Blocked,17.0,Right Foot,,Jadon Sancho,Pass (Live),Fred,Pass (Live)

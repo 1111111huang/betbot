@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,James Mcatee,Sheffield Utd,0.04,,Off Target,17.0,Left Foot,,Gustavo Hamer,Pass (Live),Jayden Bogle,Pass (Live)
+1,8,Gabriel Osho,Luton Town,0.13,,Off Target,9.0,Head,,Alfie Doughty,Pass (Dead),Alfie Doughty,Fouled
+2,21,Reece Burke,Luton Town,0.02,,Blocked,26.0,Right Foot,Volley,Alfie Doughty,Pass (Live),Amari'i Bell,Pass (Live)
+3,29,Cameron Archer,Sheffield Utd,0.07,,Off Target,11.0,Left Foot,Volley,Jayden Bogle,Pass (Live),,
+4,30,Cameron Archer,Sheffield Utd,0.7,0.98,Goal,9.0,Right Foot,,Cameron Archer,Take-On,Max Lowe,Pass (Live)
+5,32,Elijah Adebayo,Luton Town,0.05,,Off Target,13.0,Right Foot,,Chiedozie Ogbene,Pass (Live),Ross Barkley,Pass (Live)
+6,33,Vinicius Souza,Sheffield Utd,0.1,,Blocked,8.0,Head,,Gustavo Hamer,Pass (Dead),,
+7,36,James Mcatee (pen),Sheffield Utd,0.79,1.0,Goal,13.0,Left Foot,,,Fouled,Vinicius Souza,Shot
+8,44,Elijah Adebayo,Luton Town,0.05,,Blocked,15.0,Right Foot,,Alfie Doughty,Pass (Live),Amari'i Bell,Pass (Live)
+9,45+2,Alfie Doughty,Luton Town,0.06,,Blocked,14.0,Left Foot,,Ross Barkley,Pass (Live),Reece Burke,Pass (Dead)
+10,45+2,Reece Burke,Luton Town,0.05,0.24,Saved,10.0,Head,,Alfie Doughty,Pass (Dead),Alfie Doughty,Shot
+11,,,,,,,,,,,,,
+12,49,Elijah Adebayo,Luton Town,0.06,,Off Target,10.0,Head,,Alfie Doughty,Pass (Dead),Alfie Doughty,Pass (Dead)
+13,52,Carlton Morris (pen),Luton Town,0.79,0.99,Goal,13.0,Right Foot,,,Fouled,Elijah Adebayo,Shot
+14,55,Reece Burke,Luton Town,0.02,,Blocked,28.0,Right Foot,,Tahith Chong,Pass (Live),Alfie Doughty,Pass (Live)
+15,58,Gabriel Osho,Luton Town,0.01,,Off Target,14.0,Head,,Alfie Doughty,Pass (Dead),Alfie Doughty,Pass (Live)
+16,64,Carlton Morris,Luton Town,0.03,0.46,Saved,25.0,Left Foot,,Chiedozie Ogbene,Pass (Dead),Reece Burke,Pass (Live)
+17,71,Alfie Doughty,Luton Town,0.03,,Off Target,8.0,Left Foot,,Tahith Chong,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+18,73,Vinicius Souza,Sheffield Utd,0.1,0.51,Goal,15.0,Right Foot,,Ben Osborn,Pass (Live),Tom Davies,Tackle
+19,75,Ross Barkley,Luton Town,0.07,,Off Target,7.0,Head,,Alfie Doughty,Pass (Dead),Ross Barkley,Pass (Live)
+20,77,Ross Barkley,Luton Town,0.01,,Off Target,12.0,Head,,Alfie Doughty,Pass (Dead),,
+21,77,Elijah Adebayo,Luton Town,0.16,0.18,Saved,4.0,Right Foot,,Ross Barkley,Shot,,
+22,78,Chiedozie Ogbene,Luton Town,0.04,,Blocked,25.0,Right Foot,,Ross Barkley,Pass (Live),Tahith Chong,Pass (Live)
+23,83,Tahith Chong,Luton Town,0.02,,Off Target,25.0,Left Foot,,Alfie Doughty,Pass (Dead),Carlton Morris,Fouled
+24,90,Andros Townsend,Luton Town,0.03,0.24,Saved,32.0,Right Foot,,Ross Barkley,Pass (Live),Chiedozie Ogbene,Pass (Live)
+25,90+7,Rhian Brewster,Sheffield Utd,0.01,,Off Target,61.0,Right Foot,,,,,
+26,90+7,Ross Barkley,Luton Town,0.03,,Blocked,27.0,Left Foot,,Chiedozie Ogbene,Pass (Live),Andros Townsend,Pass (Live)
+27,90+9,Luke Berry,Luton Town,0.23,,Blocked,12.0,Left Foot,,Tahith Chong,Pass (Live),Cauley Woodrow,Pass (Live)

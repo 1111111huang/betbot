@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Youri Tielemans,Leicester City,0.1,,Off Target,17.0,Right Foot,,Ademola Lookman,Pass (Live),Çağlar Söyüncü,Pass (Live)
+1,9,Rúben Neves,Wolves,0.05,0.12,Goal,24.0,Right Foot,,Raúl Jiménez,Pass (Live),Leander Dendoncker,Pass (Live)
+2,15,Youri Tielemans,Leicester City,0.02,0.37,Saved,26.0,Right Foot,,Ricardo Pereira,Pass (Live),Marc Albrighton,Pass (Live)
+3,15,Patson Daka,Leicester City,0.02,0.43,Saved,22.0,Right Foot,,Kiernan Dewsbury-Hall,Take-On,Luke Thomas,Pass (Live)
+4,18,Daniel Podence,Wolves,0.04,,Blocked,18.0,Right Foot,,Nélson Semedo,Pass (Live),,
+5,19,Max Kilman,Wolves,0.04,0.06,Saved,11.0,Head,,João Moutinho,Pass (Dead),Daniel Podence,Shot
+6,23,Leander Dendoncker,Wolves,0.04,,Blocked,11.0,Head,,Rayan Aït-Nouri,Pass (Live),João Moutinho,Pass (Dead)
+7,24,Rayan Aït-Nouri,Wolves,0.09,,Off Target,15.0,Left Foot,,Daniel Podence,Pass (Live),Conor Coady,Pass (Live)
+8,26,Ricardo Pereira,Leicester City,0.03,,Off Target,22.0,Right Foot,Volley,Ademola Lookman,Take-On,Luke Thomas,Pass (Live)
+9,32,Ademola Lookman,Leicester City,0.05,,Off Target,13.0,Left Foot,,Marc Albrighton,Fouled,Ricardo Pereira,Pass (Live)
+10,34,Patson Daka,Leicester City,0.02,,Blocked,18.0,Right Foot,,Ricardo Pereira,Pass (Live),Patson Daka,Pass (Live)
+11,36,Raúl Jiménez,Wolves,0.03,,Off Target,14.0,Left Foot,,João Moutinho,Pass (Dead),Daniel Podence,Pass (Live)
+12,41,Ademola Lookman,Leicester City,0.93,0.97,Goal,3.0,Left Foot,,Marc Albrighton,Pass (Live),Youri Tielemans,Pass (Live)
+13,45,Romain Saïss,Wolves,0.01,,Off Target,10.0,Head,,João Moutinho,Pass (Dead),Raúl Jiménez,Pass (Dead)
+14,,,,,,,,,,,,,
+15,50,Ricardo Pereira,Leicester City,0.03,,Blocked,15.0,Right Foot,,Ricardo Pereira,Take-On,Youri Tielemans,Pass (Live)
+16,52,Wilfred Ndidi,Leicester City,0.03,0.11,Saved,13.0,Head,,Youri Tielemans,Pass (Live),Ademola Lookman,Pass (Live)
+17,57,Patson Daka,Leicester City,0.05,0.28,Saved,14.0,Right Foot,,Youri Tielemans,Pass (Live),Wilfred Ndidi,Pass (Live)
+18,59,Ademola Lookman,Leicester City,0.04,0.03,Saved,17.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Luke Thomas,Pass (Dead)
+19,61,Rúben Neves,Wolves,0.03,,Off Target,32.0,Right Foot,Free kick,Hwang Hee-chan,Fouled,Raúl Jiménez,Pass (Live)
+20,62,Youri Tielemans,Leicester City,0.14,,Off Target,17.0,Left Foot,,Ademola Lookman,Pass (Live),Patson Daka,Pass (Live)
+21,66,Daniel Podence,Wolves,0.06,0.18,Goal,26.0,Right Foot,,Leander Dendoncker,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+22,77,James Maddison,Leicester City,0.04,,Blocked,32.0,Right Foot,Free kick,James Maddison,Fouled,Youri Tielemans,Pass (Live)
+23,81,James Maddison,Leicester City,0.08,,Off Target,21.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Kiernan Dewsbury-Hall,Take-On
+24,83,Max Kilman,Wolves,0.03,,Blocked,17.0,Left Foot,Volley,Pedro Neto,Fouled,Pedro Neto,Interception
+25,84,James Maddison,Leicester City,0.06,,Off Target,22.0,Right Foot,,Marc Albrighton,Pass (Live),Ademola Lookman,Pass (Live)
+26,89,Youri Tielemans,Leicester City,0.02,,Blocked,29.0,Right Foot,,Ricardo Pereira,Fouled,Ricardo Pereira,Pass (Dead)
+27,90+4,Youri Tielemans,Leicester City,0.04,0.33,Saved,30.0,Right Foot,,Luke Thomas,Take-On,Kasper Schmeichel,Pass (Live)
+28,90+5,Pedro Neto,Wolves,0.11,,Off Target,36.0,Left Foot,,,,,

@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Youri Tielemans,Leicester City,0.05,0.69,Goal,15.0,Right Foot,,Youri Tielemans,Interception,,
+1,21,Harvey Barnes,Leicester City,0.02,0.02,Saved,33.0,Right Foot,,Wilfred Ndidi,Pass (Live),Wilfred Ndidi,Interception
+2,26,Nicolas Pépé,Arsenal,0.09,,Off Target,11.0,Left Foot,,Kieran Tierney,Pass (Live),Granit Xhaka,Pass (Live)
+3,27,Willian,Arsenal,0.06,,Off Target,20.0,Left Foot,,Granit Xhaka,Pass (Live),Nicolas Pépé,Pass (Live)
+4,30,Kieran Tierney,Arsenal,0.03,,Blocked,25.0,Left Foot,,Willian,Pass (Live),Cédric Soares,Pass (Live)
+5,36,Kelechi Iheanacho,Leicester City,0.02,0.02,Saved,34.0,Left Foot,,Wilfred Ndidi,Pass (Live),,
+6,39,David Luiz,Arsenal,0.09,0.12,Goal,11.0,Head,,Willian,Pass (Dead),Nicolas Pépé,Fouled
+7,45+2,Alexandre Lacazette (pen),Arsenal,0.79,0.97,Goal,13.0,Right Foot,,,Fouled,Martin Ødegaard,Pass (Live)
+8,,,,,,,,,,,,,
+9,51,Nicolas Pépé,Arsenal,0.21,,Blocked,5.0,Head,,Pablo Marí,Pass (Live),Willian,Pass (Dead)
+10,52,Willian,Arsenal,0.11,,Blocked,6.0,Right Foot,,Martin Ødegaard,Pass (Live),Nicolas Pépé,Pass (Live)
+11,52,Nicolas Pépé,Arsenal,0.91,0.99,Goal,3.0,Left Foot,,Willian,Shot,,
+12,55,Kelechi Iheanacho,Leicester City,0.05,,Off Target,12.0,Left Foot,Volley,Jamie Vardy,Take-On,,
+13,72,Marc Albrighton,Leicester City,0.05,,Blocked,15.0,Right Foot,Deflected,Timothy Castagne,Pass (Live),Youri Tielemans,Pass (Live)
+14,80,Thomas Partey,Arsenal,0.02,,Blocked,32.0,Right Foot,,Willian,Pass (Live),Kieran Tierney,Pass (Live)
+15,82,Kieran Tierney,Arsenal,0.02,,Off Target,24.0,Left Foot,Volley,Thomas Partey,Shot,,
+16,87,Pierre-Emerick Aubameyang,Arsenal,0.04,,Off Target,21.0,Right Foot,,Pierre-Emerick Aubameyang,Take-On,Thomas Partey,Pass (Live)
+17,90+2,Thomas Partey,Arsenal,0.03,0.07,Saved,32.0,Right Foot,,Willian,Pass (Live),Kieran Tierney,Pass (Live)
+18,90+5,Kelechi Iheanacho,Leicester City,0.05,,Blocked,12.0,Left Foot,Volley,Marc Albrighton,Pass (Live),Daniel Amartey,Pass (Live)
+19,90+6,Kelechi Iheanacho,Leicester City,0.07,,Off Target,9.0,Left Foot,,Youri Tielemans,Tackle,,
+20,90+7,Daniel Amartey,Leicester City,0.06,,Blocked,16.0,Left Foot,,Cengiz Ünder,Pass (Live),Cengiz Ünder,Take-On

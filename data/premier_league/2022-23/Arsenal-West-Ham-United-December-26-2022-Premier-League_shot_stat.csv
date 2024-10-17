@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,13,Granit Xhaka,Arsenal,0.04,0.34,Saved,25.0,Right Foot,,Granit Xhaka,Take-On,Martin Ødegaard,Pass (Live)
+1,21,Saïd Benrahma,West Ham,0.03,0.11,Saved,26.0,Right Foot,,Aaron Cresswell,Pass (Dead),Łukasz Fabiański,Pass (Dead)
+2,22,Eddie Nketiah,Arsenal,0.13,,Blocked,21.0,Right Foot,,Granit Xhaka,Pass (Live),Aaron Ramsdale,Pass (Live)
+3,23,Martin Ødegaard,Arsenal,0.13,,Off Target,7.0,Right Foot,,Bukayo Saka,Pass (Live),Thomas Partey,Pass (Live)
+4,27,Saïd Benrahma (pen),West Ham,0.79,0.9,Goal,13.0,Right Foot,,Jarrod Bowen,Fouled,Michail Antonio,Pass (Live)
+5,38,Eddie Nketiah,Arsenal,0.05,,Blocked,18.0,Left Foot,,Kieran Tierney,Pass (Live),Thomas Partey,Pass (Live)
+6,40,Michail Antonio,West Ham,0.03,,Off Target,16.0,Left Foot,,Lucas Paquetá,Pass (Dead),Lucas Paquetá,Fouled
+7,45+1,Eddie Nketiah,Arsenal,0.04,,Off Target,13.0,Head,,Martin Ødegaard,Pass (Dead),Gabriel Martinelli,Fouled
+8,45+3,Martin Ødegaard,Arsenal,0.04,,Blocked,22.0,Left Foot,,Gabriel Martinelli,Pass (Live),Kieran Tierney,Pass (Live)
+9,,,,,,,,,,,,,
+10,46,Michail Antonio,West Ham,0.09,0.09,Saved,13.0,Right Foot,,Tomáš Souček,Pass (Live),Jarrod Bowen,Pass (Live)
+11,48,Thomas Partey,Arsenal,0.05,,Off Target,27.0,Right Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+12,53,Martin Ødegaard,Arsenal,0.03,,Off Target,32.0,Left Foot,,Ben White,Pass (Live),,
+13,53,Bukayo Saka,Arsenal,0.66,0.96,Goal,11.0,Left Foot,,Martin Ødegaard,Shot,,
+14,59,Gabriel Martinelli,Arsenal,0.08,0.13,Goal,12.0,Left Foot,,Granit Xhaka,Pass (Live),Martin Ødegaard,Pass (Live)
+15,66,Thilo Kehrer,West Ham,0.02,,Off Target,35.0,Right Foot,,Declan Rice,Pass (Live),Aaron Cresswell,Pass (Dead)
+16,69,Eddie Nketiah,Arsenal,0.27,0.87,Goal,11.0,Right Foot,,Martin Ødegaard,Pass (Live),Ben White,Pass (Live)
+17,73,Saïd Benrahma,West Ham,0.03,,Off Target,15.0,Left Foot,,Lucas Paquetá,Pass (Live),Vladimír Coufal,Pass (Live)
+18,76,Granit Xhaka,Arsenal,0.03,,Blocked,34.0,Left Foot,Free kick,Ben White,Fouled,,
+19,77,Martin Ødegaard,Arsenal,0.04,,Off Target,22.0,Left Foot,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+20,82,Martin Ødegaard,Arsenal,0.08,,Off Target,20.0,Left Foot,,Martin Ødegaard,Tackle,,
+21,85,Martin Ødegaard,Arsenal,0.12,,Blocked,12.0,Left Foot,,Bukayo Saka,Pass (Live),Ben White,Pass (Dead)
+22,85,William Saliba,Arsenal,0.41,0.29,Saved,4.0,Head,,Bukayo Saka,Pass (Dead),Martin Ødegaard,Shot
+23,90,Lucas Paquetá,West Ham,0.03,,Off Target,25.0,Left Foot,,Declan Rice,Pass (Live),Craig Dawson,Pass (Live)
+24,90+4,Pablo Fornals,West Ham,0.02,0.22,Saved,26.0,Right Foot,,Saïd Benrahma,Pass (Live),Vladimír Coufal,Pass (Live)

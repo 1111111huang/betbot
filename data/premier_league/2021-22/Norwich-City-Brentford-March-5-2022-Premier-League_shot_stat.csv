@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Kenny McLean,Norwich City,0.01,,Blocked,29.0,Left Foot,,Josh Sargent,Pass (Live),Grant Hanley,Pass (Dead)
+1,2,Milot Rashica,Norwich City,0.24,0.28,Saved,11.0,Right Foot,,Billy Gilmour,Pass (Live),Kenny McLean,Pass (Live)
+2,2,Billy Gilmour,Norwich City,0.09,,Off Target,9.0,Left Foot,,Milot Rashica,Shot,,
+3,5,Sergi Canós,Brentford,0.03,0.02,Saved,22.0,Right Foot,,Ivan Toney,Pass (Live),Vitaly Janelt,Pass (Live)
+4,7,Bryan Mbeumo,Brentford,0.03,0.15,Saved,10.0,Right Foot,Volley,Ethan Pinnock,Pass (Live),Christian Eriksen,Pass (Dead)
+5,17,Teemu Pukki,Norwich City,0.03,0.17,Saved,18.0,Right Foot,,Tim Krul,Pass (Dead),,
+6,18,Josh Sargent,Norwich City,0.07,,Off Target,16.0,Right Foot,,Milot Rashica,Pass (Live),Teemu Pukki,Pass (Live)
+7,20,Bryan Mbeumo,Brentford,0.08,,Blocked,24.0,Left Foot,,Bryan Mbeumo,Take-On,Christian Nørgaard,Pass (Live)
+8,29,Milot Rashica,Norwich City,0.06,,Blocked,22.0,Right Foot,,Teemu Pukki,Pass (Live),Kenny McLean,Pass (Live)
+9,29,Billy Gilmour,Norwich City,0.03,0.09,Saved,29.0,Right Foot,,Brandon Williams,Pass (Live),Ben Gibson,Pass (Live)
+10,31,Sergi Canós,Brentford,0.05,0.32,Saved,16.0,Right Foot,,Ethan Pinnock,Pass (Dead),Kristoffer Ajer,Pass (Dead)
+11,32,Ivan Toney,Brentford,0.15,0.31,Goal,4.0,Right Foot,Volley,Kristoffer Ajer,Pass (Live),Christian Eriksen,Pass (Dead)
+12,35,Kenny McLean,Norwich City,0.09,,Blocked,18.0,Right Foot,,Billy Gilmour,Pass (Live),Milot Rashica,Pass (Live)
+13,43,Christian Eriksen,Brentford,0.04,,Blocked,24.0,Right Foot,,Sergi Canós,Pass (Live),Sergi Canós,Take-On
+14,44,Vitaly Janelt,Brentford,0.01,,Off Target,29.0,Left Foot,Volley,,,,
+15,,,,,,,,,,,,,
+16,52,Ivan Toney (pen),Brentford,0.79,0.99,Goal,13.0,Right Foot,,Pontus Jansson,Fouled,Christian Eriksen,Pass (Dead)
+17,58,Ivan Toney (pen),Brentford,0.79,0.99,Goal,13.0,Right Foot,,Ivan Toney,Fouled,Christian Nørgaard,Pass (Live)
+18,61,Teemu Pukki,Norwich City,0.07,0.05,Saved,18.0,Left Foot,,,,,
+19,65,Sam Byram,Norwich City,0.07,0.08,Saved,9.0,Head,,Billy Gilmour,Pass (Dead),,
+20,73,Bryan Mbeumo,Brentford,0.02,,Blocked,14.0,Right Foot,Volley,Bryan Mbeumo,Fouled,Ivan Toney,Pass (Live)
+21,85,Pierre Lees-Melou,Norwich City,0.01,0.09,Saved,33.0,Right Foot,,Milot Rashica,Pass (Live),Sam Byram,Pass (Live)
+22,90,Teemu Pukki,Norwich City,0.03,,Blocked,21.0,Right Foot,,Jon Rowe,Pass (Live),Pierre Lees-Melou,Pass (Live)
+23,90+2,Teemu Pukki,Norwich City,0.16,0.56,Goal,9.0,Right Foot,Volley,Milot Rashica,Pass (Live),Pierre Lees-Melou,Pass (Live)
+24,90+4,Sam Byram,Norwich City,0.03,,Blocked,15.0,Right Foot,,Pierre Lees-Melou,Pass (Live),Max Aarons,Pass (Live)
+25,90+8,Josh Sargent,Norwich City,0.02,,Off Target,22.0,Right Foot,Volley,Ben Gibson,Pass (Live),Sam Byram,Pass (Dead)

@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7.0,Tyrick Mitchell,Crystal Palace,0.12,0.0,Off Target,12.0,Left Foot,,Daichi Kamada,Pass (Live),Eberechi Eze,Pass (Live)
+1,15.0,Eberechi Eze,Crystal Palace,0.1,0.0,Blocked,19.0,Right Foot,,Tyrick Mitchell,Pass (Live),Will Hughes,Pass (Live)
+2,21.0,Eberechi Eze,Crystal Palace,0.1,0.0,Off Target,22.0,Right Foot,Free kick,Eberechi Eze,Fouled,,
+3,25.0,Joachim Andersen,Crystal Palace,0.04,0.46,Saved,25.0,Right Foot,,Daniel Muñoz,Pass (Live),Joachim Andersen,Pass (Live)
+4,29.0,Bryan Mbeumo,Brentford,0.09,0.35,Goal,12.0,Left Foot,,Yoane Wissa,Pass (Live),Christian Nørgaard,Pass (Live)
+5,31.0,Kristoffer Ajer,Brentford,0.28,0.82,Saved,6.0,Right Foot,,Bryan Mbeumo,Pass (Live),Bryan Mbeumo,Take-On
+6,42.0,Kevin Schade,Brentford,0.13,0.0,Off Target,12.0,Right Foot,,Kevin Schade,Take-On,Christian Nørgaard,Pass (Live)
+7,,,,,,,,,,,,,
+8,47.0,Ethan Pinnock,Brentford,0.01,0.23,Saved,17.0,Head,,Vitaly Janelt,Pass (Live),Bryan Mbeumo,Pass (Live)
+9,50.0,Adam Wharton,Crystal Palace,0.04,0.0,Blocked,22.0,Left Foot,Deflected,Daichi Kamada,Pass (Live),Eberechi Eze,Pass (Dead)
+10,52.0,Vitaly Janelt,Brentford,0.04,0.0,Off Target,11.0,Left Foot,Volley,Bryan Mbeumo,Pass (Dead),,
+11,53.0,Adam Wharton,Crystal Palace,0.01,0.04,Saved,25.0,Left Foot,,Will Hughes,Pass (Live),Tyrick Mitchell,Pass (Live)
+12,64.0,Adam Wharton,Crystal Palace,0.03,0.04,Saved,29.0,Left Foot,,Daichi Kamada,Pass (Live),Marc Guéhi,Pass (Live)
+13,66.0,Yoane Wissa,Brentford,0.06,0.0,Blocked,11.0,Head,,Bryan Mbeumo,Pass (Live),Christian Nørgaard,Pass (Live)
+14,69.0,Vitaly Janelt,Brentford,0.03,0.0,Off Target,28.0,Left Foot,,Mathias Jensen,Pass (Live),,
+15,73.0,Odsonne Édouard,Crystal Palace,0.05,0.0,Off Target,25.0,Left Foot,,Jordan Ayew,Pass (Live),,
+16,76.0,Nathan Collins,Brentford,0.22,0.75,Saved,12.0,Left Foot,Deflected,Bryan Mbeumo,Pass (Live),Mathias Jensen,Pass (Live)
+17,76.0,Yoane Wissa,Brentford,0.94,0.97,Goal,3.0,Left Foot,,Nathan Collins,Shot,,
+18,80.0,Eberechi Eze,Crystal Palace,0.05,0.0,Blocked,23.0,Left Foot,,Odsonne Édouard,Pass (Live),Will Hughes,Pass (Live)
+19,82.0,Eberechi Eze,Crystal Palace,0.04,0.18,Saved,14.0,Left Foot,Deflected,Tyrick Mitchell,Pass (Live),,
+20,83.0,Eberechi Eze,Crystal Palace,0.02,0.0,Blocked,25.0,Right Foot,Volley,Eberechi Eze,Shot,,
+21,87.0,Eberechi Eze,Crystal Palace,0.04,0.14,Saved,14.0,Left Foot,,Eberechi Eze,Take-On,,
+22,88.0,Jordan Ayew,Crystal Palace,0.46,0.0,Off Target,5.0,Right Foot,Volley,Jefferson Lerma,Pass (Live),Tyrick Mitchell,Pass (Live)
+23,89.0,Eberechi Eze,Crystal Palace,0.07,0.16,Saved,10.0,Left Foot,,Eberechi Eze,Pass (Live),Tyrick Mitchell,Pass (Live)

@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Brenden Aaronson,Leeds United,0.07,,Off Target,17.0,Right Foot,,Rodrigo,Pass (Live),Jack Harrison,Tackle
+1,10,Brenden Aaronson,Leeds United,0.08,,Woodwork,12.0,Left Foot,,Brenden Aaronson,Take-On,Rodrigo,Pass (Live)
+2,10,Pascal Struijk,Leeds United,0.21,0.39,Goal,15.0,Left Foot,,Brenden Aaronson,Shot,,
+3,13,Patrick Bamford,Leeds United,0.03,,Blocked,24.0,Left Foot,,Tyler Adams,Pass (Live),,
+4,14,Rodrigo,Leeds United,0.02,,Blocked,29.0,Left Foot,,,,,
+5,21,Patrick Bamford,Leeds United,0.35,0.68,Saved,18.0,Left Foot,,Tyler Adams,Pass (Live),Brenden Aaronson,Pass (Live)
+6,24,Odsonne Édouard,Crystal Palace,0.1,0.36,Goal,8.0,Head,,Michael Olise,Pass (Dead),Jordan Ayew,Fouled
+7,27,Jack Harrison,Leeds United,0.04,0.75,Saved,31.0,Left Foot,,Pascal Struijk,Tackle,,
+8,,,,,,,,,,,,,
+9,49,Wilfried Zaha,Crystal Palace,0.09,0.24,Saved,18.0,Right Foot,,Cheick Doucouré,Pass (Live),Odsonne Édouard,Pass (Live)
+10,57,Jordan Ayew,Crystal Palace,0.13,,Blocked,10.0,Right Foot,,Eberechi Eze,Pass (Live),Michael Olise,Pass (Live)
+11,57,Joachim Andersen,Crystal Palace,0.03,0.24,Saved,12.0,Head,Deflected,Michael Olise,Pass (Dead),Jordan Ayew,Shot
+12,58,Michael Olise,Crystal Palace,0.05,0.05,Saved,24.0,Left Foot,,Jordan Ayew,Pass (Live),Cheick Doucouré,Pass (Live)
+13,59,Odsonne Édouard,Crystal Palace,0.18,,Off Target,8.0,Head,,Michael Olise,Pass (Live),Michael Olise,Take-On
+14,60,Wilfried Zaha,Crystal Palace,0.04,,Blocked,16.0,Right Foot,,Jordan Ayew,Pass (Live),Jordan Ayew,Pass (Live)
+15,62,Wilfried Zaha,Crystal Palace,0.04,,Off Target,16.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Cheick Doucouré,Pass (Live)
+16,72,Wilfried Zaha,Crystal Palace,0.05,,Off Target,14.0,Right Foot,,Odsonne Édouard,Pass (Live),Wilfried Zaha,Pass (Live)
+17,76,Eberechi Eze,Crystal Palace,0.15,0.8,Goal,18.0,Right Foot,,Eberechi Eze,Take-On,Wilfried Zaha,Pass (Live)
+18,81,Marc Roca,Leeds United,0.09,,Blocked,8.0,Head,,Jack Harrison,Pass (Dead),Jack Harrison,Pass (Live)
+19,83,Crysencio Summerville,Leeds United,0.03,,Blocked,10.0,Right Foot,,Rodrigo,Pass (Live),Rodrigo,Take-On
+20,88,Eberechi Eze,Crystal Palace,0.03,,Blocked,31.0,Right Foot,Free kick,Marc Guéhi,Fouled,,
+21,89,Joachim Andersen,Crystal Palace,0.19,,Off Target,6.0,Head,,Eberechi Eze,Pass (Dead),Wilfried Zaha,Fouled
+22,90+4,Joe Gelhardt,Leeds United,0.08,0.24,Saved,16.0,Right Foot,Volley,Pascal Struijk,Pass (Live),Tyler Adams,Pass (Live)
+23,90+6,Eberechi Eze,Crystal Palace,0.0,,Off Target,49.0,Right Foot,Free kick,Eberechi Eze,Fouled,Tyrick Mitchell,Pass (Dead)

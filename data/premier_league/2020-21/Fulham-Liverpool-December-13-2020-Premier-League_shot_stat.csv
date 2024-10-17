@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Mario Lemina,Fulham,0.02,,Off Target,29.0,Left Foot,Volley,Ivan Cavaleiro,Pass (Dead),Bobby Reid,Fouled
+1,4.0,Ivan Cavaleiro,Fulham,0.2,0.3,Saved,15.0,Right Foot,,Ruben Loftus-Cheek,Pass (Live),Joachim Andersen,Pass (Live)
+2,6.0,Roberto Firmino,Liverpool,0.03,0.16,Saved,25.0,Right Foot,Deflected,,,,
+3,14.0,Ivan Cavaleiro,Fulham,0.29,0.15,Saved,11.0,Right Foot,,Ademola Lookman,Pass (Live),Antonee Robinson,Pass (Live)
+4,25.0,Ademola Lookman,Fulham,0.04,0.17,Saved,21.0,Right Foot,,Ola Aina,Pass (Live),Tosin Adarabioyo,Pass (Live)
+5,25.0,Bobby Reid,Fulham,0.03,0.27,Goal,19.0,Right Foot,,Ademola Lookman,Pass (Live),Ademola Lookman,Shot
+6,28.0,Bobby Reid,Fulham,0.03,,Off Target,14.0,Head,,Antonee Robinson,Pass (Live),Ademola Lookman,Pass (Live)
+7,40.0,Sadio Mané,Liverpool,0.28,,Off Target,9.0,Head,,Curtis Jones,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+8,44.0,Mohamed Salah,Liverpool,0.08,,Off Target,11.0,Left Foot,Volley,Trent Alexander-Arnold,Pass (Live),Curtis Jones,Pass (Live)
+9,45.0,Roberto Firmino,Liverpool,0.02,,Blocked,34.0,Right Foot,,,,,
+10,,,,,,,,,,,,,
+11,46.0,Mario Lemina,Fulham,0.03,,Off Target,26.0,Right Foot,,Ademola Lookman,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+12,46.0,Ivan Cavaleiro,Fulham,0.75,0.87,Saved,3.0,Right Foot,,Mario Lemina,Shot,,
+13,46.0,Mohamed Salah,Liverpool,0.03,0.09,Saved,30.0,Left Foot,,Curtis Jones,Pass (Live),Roberto Firmino,Pass (Live)
+14,47.0,Ivan Cavaleiro,Fulham,0.03,,Blocked,22.0,Right Foot,Volley,Tosin Adarabioyo,Pass (Live),Alphonse Areola,Pass (Dead)
+15,54.0,Curtis Jones,Liverpool,0.03,0.03,Saved,27.0,Right Foot,,Andrew Robertson,Pass (Live),Curtis Jones,Pass (Live)
+16,61.0,Jordan Henderson,Liverpool,0.29,0.42,Saved,12.0,Left Foot,,Roberto Firmino,Pass (Live),Takumi Minamino,Pass (Live)
+17,65.0,Curtis Jones,Liverpool,0.06,,Blocked,18.0,Right Foot,,Jordan Henderson,Pass (Live),Mohamed Salah,Pass (Live)
+18,68.0,Tosin Adarabioyo,Fulham,0.07,,Off Target,8.0,Head,,Ivan Cavaleiro,Pass (Dead),Bobby Reid,Pass (Live)
+19,70.0,Neco Williams,Liverpool,0.05,,Blocked,15.0,Right Foot,,,,,
+20,78.0,Georginio Wijnaldum,Liverpool,0.09,,Blocked,26.0,Right Foot,Free kick,,Fouled,Curtis Jones,Fouled
+21,79.0,Mohamed Salah (pen),Liverpool,0.79,0.96,Goal,13.0,Left Foot,,Georginio Wijnaldum,Shot,,
+22,84.0,Curtis Jones,Liverpool,0.08,0.07,Saved,18.0,Right Foot,,Curtis Jones,Take-On,Curtis Jones,Take-On

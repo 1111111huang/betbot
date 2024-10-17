@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Paul Pogba,Manchester Utd,0.08,,Off Target,9.0,Head,,Aaron Wan-Bissaka,Pass (Live),Mason Greenwood,Pass (Live)
+1,15,Edinson Cavani,Manchester Utd,0.04,0.09,Goal,38.0,Right Foot,,Bruno Fernandes,Pass (Live),David de Gea,Pass (Live)
+2,20,Mason Greenwood,Manchester Utd,0.09,,Off Target,7.0,Head,,Aaron Wan-Bissaka,Pass (Live),Bruno Fernandes,Pass (Live)
+3,26,Bruno Fernandes,Manchester Utd,0.05,0.06,Saved,27.0,Right Foot,,Scott McTominay,Pass (Live),Bruno Fernandes,Pass (Live)
+4,30,Andre-Frank Zambo Anguissa,Fulham,0.08,0.03,Saved,9.0,Head,,Ivan Cavaleiro,Pass (Dead),Bobby Reid,Pass (Live)
+5,38,Fabio Carvalho,Fulham,0.41,0.53,Saved,14.0,Right Foot,,Ademola Lookman,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+6,43,Bruno Fernandes,Manchester Utd,0.01,0.38,Saved,31.0,Right Foot,,,,,
+7,45+2,Luke Shaw,Manchester Utd,0.03,,Off Target,26.0,Left Foot,,,,,
+8,,,,,,,,,,,,,
+9,47,Mario Lemina,Fulham,0.02,,Off Target,30.0,Right Foot,Volley,Fabio Carvalho,Fouled,Joachim Andersen,Pass (Live)
+10,52,Bruno Fernandes,Manchester Utd,0.09,,Off Target,27.0,Right Foot,Free kick,Scott McTominay,Fouled,Scott McTominay,Take-On
+11,53,Scott McTominay,Manchester Utd,0.03,,Blocked,24.0,Right Foot,,,,,
+12,57,Mason Greenwood,Manchester Utd,0.03,,Blocked,23.0,Right Foot,,Paul Pogba,Pass (Live),Fred,Pass (Live)
+13,61,Ademola Lookman,Fulham,0.05,0.1,Saved,8.0,Left Foot,,Joe Bryan,Pass (Live),Ivan Cavaleiro,Pass (Live)
+14,61,Fabio Carvalho,Fulham,0.09,0.03,Saved,4.0,Head,,Ademola Lookman,Shot,,
+15,64,Mario Lemina,Fulham,0.02,,Off Target,33.0,Right Foot,,Ruben Loftus-Cheek,Fouled,Ruben Loftus-Cheek,Take-On
+16,67,Bruno Fernandes,Manchester Utd,0.08,0.07,Saved,21.0,Right Foot,Free kick,Marcus Rashford,Fouled,Bruno Fernandes,Pass (Live)
+17,74,Mason Greenwood,Manchester Utd,0.28,0.37,Saved,11.0,Left Foot,,Edinson Cavani,Pass (Live),Paul Pogba,Pass (Live)
+18,74,Bruno Fernandes,Manchester Utd,0.03,,Off Target,18.0,Right Foot,,Mason Greenwood,Shot,,
+19,76,Joe Bryan,Fulham,0.26,0.15,Goal,7.0,Head,,Bobby Reid,Pass (Live),,
+20,80,Bruno Fernandes,Manchester Utd,0.04,0.05,Saved,21.0,Right Foot,,Bruno Fernandes,Take-On,Paul Pogba,Pass (Live)
+21,90+1,Joe Bryan,Fulham,0.02,,Blocked,29.0,Left Foot,,Ivan Cavaleiro,Pass (Dead),Bobby Reid,Fouled

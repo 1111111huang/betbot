@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Chris Wood,Burnley,0.05,0.11,Saved,16.0,Right Foot,,Matěj Vydra,Pass (Live),,
+1,2,Stuart Armstrong,Southampton,0.09,,Blocked,17.0,Right Foot,,Danny Ings,Pass (Live),Kyle Walker-Peters,Pass (Live)
+2,5,Danny Ings,Southampton,0.03,,Blocked,26.0,Right Foot,,Jannik Vestergaard,Pass (Live),James Ward-Prowse,Pass (Live)
+3,12,Chris Wood (pen),Burnley,0.79,0.87,Goal,13.0,Right Foot,,Erik Pieters,Fouled,Dwight McNeil,Pass (Live)
+4,22,Nathan Redmond,Southampton,0.03,,Blocked,24.0,Right Foot,Volley,Kyle Walker-Peters,Pass (Live),Nathan Redmond,Pass (Live)
+5,22,Nathan Redmond,Southampton,0.05,0.16,Saved,20.0,Right Foot,,Nathan Redmond,Take-On,Ryan Bertrand,Pass (Dead)
+6,23,Jannik Vestergaard,Southampton,0.05,,Off Target,10.0,Head,,James Ward-Prowse,Pass (Dead),Nathan Redmond,Shot
+7,23,Danny Ings,Southampton,0.04,,Blocked,18.0,Right Foot,,Jan Bednarek,Pass (Live),Jannik Vestergaard,Shot
+8,23,Theo Walcott,Southampton,0.05,,Blocked,17.0,Left Foot,,James Ward-Prowse,Pass (Live),Ryan Bertrand,Pass (Live)
+9,28,Matěj Vydra,Burnley,0.05,0.08,Goal,22.0,Left Foot,Volley,Chris Wood,Pass (Live),Ben Mee,Pass (Live)
+10,31,Stuart Armstrong,Southampton,0.06,0.05,Goal,20.0,Right Foot,,Danny Ings,Pass (Live),James Ward-Prowse,Pass (Live)
+11,36,Kyle Walker-Peters,Southampton,0.04,,Blocked,17.0,Right Foot,,,,,
+12,40,Nathan Redmond,Southampton,0.06,,Blocked,16.0,Right Foot,,Nathan Redmond,Take-On,Nathan Redmond,Take-On
+13,40,Ibrahima Diallo,Southampton,0.03,,Blocked,32.0,Right Foot,,Nathan Redmond,Shot,,
+14,40,Stuart Armstrong,Southampton,0.03,,Blocked,23.0,Right Foot,,Ibrahima Diallo,Shot,,
+15,42,Danny Ings,Southampton,0.51,0.53,Goal,6.0,Right Foot,,Danny Ings,Take-On,Nathan Redmond,Pass (Live)
+16,45+2,Ibrahima Diallo,Southampton,0.03,,Blocked,22.0,Right Foot,,Stuart Armstrong,Pass (Live),James Ward-Prowse,Pass (Live)
+17,,,,,,,,,,,,,
+18,52,Chris Wood,Burnley,0.1,,Off Target,8.0,Head,,Charlie Taylor,Pass (Live),Dwight McNeil,Pass (Live)
+19,60,James Ward-Prowse,Southampton,0.05,,Blocked,22.0,Right Foot,,Nathan Redmond,Pass (Live),Danny Ings,Pass (Live)
+20,60,Danny Ings,Southampton,0.39,,Blocked,5.0,Head,,James Ward-Prowse,Shot,,
+21,61,Theo Walcott,Southampton,0.02,,Blocked,28.0,Right Foot,,Danny Ings,Shot,,
+22,62,Stuart Armstrong,Southampton,0.04,0.16,Saved,20.0,Right Foot,Deflected,Stuart Armstrong,Pass (Live),James Ward-Prowse,Pass (Live)
+23,64,Stuart Armstrong,Southampton,0.03,0.06,Saved,27.0,Right Foot,,Nathan Redmond,Pass (Live),Ibrahima Diallo,Tackle
+24,65,Theo Walcott,Southampton,0.07,0.07,Saved,13.0,Left Foot,,Kyle Walker-Peters,Pass (Live),Jannik Vestergaard,Pass (Live)
+25,66,Danny Ings,Southampton,0.08,0.32,Saved,18.0,Right Foot,,Danny Ings,Take-On,Danny Ings,Take-On
+26,66,Nathan Redmond,Southampton,0.1,0.06,Goal,8.0,Right Foot,Volley,Theo Walcott,Pass (Live),Danny Ings,Shot
+27,69,Kyle Walker-Peters,Southampton,0.03,,Off Target,26.0,Right Foot,,Stuart Armstrong,Pass (Live),Ryan Bertrand,Pass (Dead)
+28,73,Ben Mee,Burnley,0.05,,Off Target,14.0,Head,,Matthew Lowton,Pass (Live),Jóhann Berg Guðmundsson,Pass (Live)
+29,78,Chris Wood,Burnley,0.03,0.29,Saved,22.0,Right Foot,,Josh Brownhill,Pass (Live),Jóhann Berg Guðmundsson,Pass (Live)
+30,81,Chris Wood,Burnley,0.45,0.68,Saved,5.0,Head,,Dwight McNeil,Pass (Live),Matthew Lowton,Pass (Live)
+31,90+3,Che Adams,Southampton,0.31,,Off Target,21.0,Right Foot,,Nathan Redmond,Pass (Live),Ibrahima Diallo,Pass (Live)

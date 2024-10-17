@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Mikkel Damsgaard,Brentford,0.11,,Blocked,16.0,Right Foot,,Ivan Toney,Pass (Live),Kevin Schade,Pass (Live)
+1,10,Bryan Mbeumo,Brentford,0.02,0.1,Saved,29.0,Left Foot,,Ethan Pinnock,Pass (Live),Aaron Hickey,Pass (Live)
+2,35,Rico Henry,Brentford,0.03,,Off Target,11.0,Head,,Bryan Mbeumo,Pass (Dead),Kevin Schade,Fouled
+3,39,Kevin Schade,Brentford,0.05,0.1,Saved,8.0,Head,,Vitaly Janelt,Pass (Live),Mathias Jensen,Pass (Dead)
+4,41,Taiwo Awoniyi,Nott'ham Forest,0.04,,Off Target,13.0,Head,,Brennan Johnson,Pass (Live),Serge Aurier,Pass (Live)
+5,42,Ethan Pinnock,Brentford,0.1,0.16,Saved,12.0,Right Foot,,,,,
+6,42,Mikkel Damsgaard,Brentford,0.8,0.87,Saved,4.0,Right Foot,Volley,Ethan Pinnock,Shot,,
+7,44,Ben Mee,Brentford,0.02,0.18,Saved,15.0,Head,,Bryan Mbeumo,Pass (Dead),Kevin Schade,Fouled
+8,45+1,Morgan Gibbs-White,Nott'ham Forest,0.06,,Blocked,22.0,Right Foot,,,,,
+9,45+1,Danilo,Nott'ham Forest,0.53,0.61,Goal,8.0,Left Foot,,Morgan Gibbs-White,Shot,,
+10,,,,,,,,,,,,,
+11,49,Bryan Mbeumo,Brentford,0.23,,Blocked,4.0,Head,,Mathias Jensen,Pass (Dead),Ivan Toney,Pass (Live)
+12,60,Josh Dasilva,Brentford,0.07,,Blocked,21.0,Left Foot,Volley,Mathias Jensen,Pass (Live),Ben Mee,Pass (Live)
+13,63,Morgan Gibbs-White,Nott'ham Forest,0.04,0.04,Saved,24.0,Right Foot,,André Ayew,Pass (Live),Orel Mangala,Pass (Live)
+14,72,Moussa Niakhate,Nott'ham Forest,0.05,0.06,Saved,15.0,Left Foot,Volley,Renan Lodi,Pass (Dead),Felipe,Fouled
+15,79,Ben Mee,Brentford,0.1,,Off Target,11.0,Left Foot,Volley,Ethan Pinnock,Pass (Live),Aaron Hickey,Pass (Live)
+16,82,Ivan Toney,Brentford,0.05,0.25,Goal,28.0,Right Foot,Free kick,Frank Onyeka,Fouled,Josh Dasilva,Pass (Live)
+17,89,Frank Onyeka,Brentford,0.04,0.06,Saved,26.0,Right Foot,Deflected,Aaron Hickey,Pass (Live),Bryan Mbeumo,Pass (Live)
+18,90+1,Aaron Hickey,Brentford,0.02,,Off Target,31.0,Right Foot,,Josh Dasilva,Pass (Live),Frank Onyeka,Pass (Live)
+19,90+4,Josh Dasilva,Brentford,0.05,0.21,Goal,19.0,Left Foot,,Josh Dasilva,Take-On,Frank Onyeka,Pass (Live)

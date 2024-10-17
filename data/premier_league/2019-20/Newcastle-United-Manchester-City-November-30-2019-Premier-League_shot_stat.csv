@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Allan Saint-Maximin,Newcastle Utd,0.03,0.3,Saved,27.0,Right Foot,,Jonjo Shelvey,Pass (Live),Federico Fernández,Pass (Live)
+1,14,John Stones,Manchester City,0.05,,Off Target,11.0,Head,,Kevin De Bruyne,Pass (Dead),,
+2,18,Raheem Sterling,Manchester City,0.03,,Blocked,17.0,Right Foot,,Benjamin Mendy,Pass (Live),Riyad Mahrez,Pass (Live)
+3,18,Fernandinho,Manchester City,0.05,,Off Target,11.0,Head,,Kevin De Bruyne,Pass (Dead),Raheem Sterling,Shot
+4,20,Jonjo Shelvey,Newcastle Utd,0.05,,Off Target,27.0,Right Foot,Free kick,Allan Saint-Maximin,Fouled,Isaac Hayden,Pass (Live)
+5,22,Raheem Sterling,Manchester City,0.33,0.88,Goal,14.0,Right Foot,,David Silva,Pass (Live),Raheem Sterling,Pass (Live)
+6,25,Jetro Willems,Newcastle Utd,0.07,0.38,Goal,16.0,Right Foot,,Miguel Almirón,Pass (Live),Jetro Willems,Pass (Live)
+7,31,David Silva,Manchester City,0.03,,Blocked,20.0,Left Foot,,Raheem Sterling,Pass (Live),Fernandinho,Pass (Live)
+8,33,Raheem Sterling,Manchester City,0.03,0.05,Saved,22.0,Right Foot,,Benjamin Mendy,Pass (Live),David Silva,Pass (Live)
+9,35,Gabriel Jesus,Manchester City,0.07,0.3,Saved,12.0,Right Foot,Volley,Raheem Sterling,Pass (Live),İlkay Gündoğan,Pass (Live)
+10,40,Kyle Walker,Manchester City,0.03,,Off Target,25.0,Right Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+11,45+2,Kevin De Bruyne,Manchester City,0.06,0.08,Saved,21.0,Right Foot,Deflected,Raheem Sterling,Pass (Live),David Silva,Pass (Live)
+12,,,,,,,,,,,,,
+13,51,Gabriel Jesus,Manchester City,0.18,,Blocked,6.0,Left Foot,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+14,52,Benjamin Mendy,Manchester City,0.01,,Blocked,29.0,Left Foot,Deflected,Kyle Walker,Pass (Live),Fernandinho,Pass (Live)
+15,54,Jonjo Shelvey,Newcastle Utd,0.05,,Off Target,33.0,Right Foot,Free kick,Joelinton,Fouled,Federico Fernández,Take-On
+16,55,Kevin De Bruyne,Manchester City,0.03,,Off Target,25.0,Right Foot,,David Silva,Pass (Live),Riyad Mahrez,Pass (Live)
+17,57,Gabriel Jesus,Manchester City,0.07,,Off Target,3.0,Head,,David Silva,Pass (Live),,
+18,58,Miguel Almirón,Newcastle Utd,0.04,,Off Target,26.0,Left Foot,,Miguel Almirón,Take-On,Joelinton,Pass (Live)
+19,65,Gabriel Jesus,Manchester City,0.1,0.14,Saved,11.0,Left Foot,Deflected,,,,
+20,68,Gabriel Jesus,Manchester City,0.48,0.31,Saved,10.0,Left Foot,,,,,
+21,68,Kevin De Bruyne,Manchester City,0.07,0.06,Saved,11.0,Left Foot,,Gabriel Jesus,Shot,,
+22,68,David Silva,Manchester City,0.04,,Off Target,8.0,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Shot
+23,72,İlkay Gündoğan,Manchester City,0.05,,Blocked,25.0,Right Foot,,Gabriel Jesus,Pass (Live),Benjamin Mendy,Pass (Live)
+24,72,Bernardo Silva,Manchester City,0.28,,Off Target,16.0,Left Foot,,İlkay Gündoğan,Shot,,
+25,77,Kevin De Bruyne,Manchester City,0.03,,Blocked,27.0,Left Foot,,Phil Foden,Pass (Live),Kyle Walker,Pass (Live)
+26,79,Kevin De Bruyne,Manchester City,0.03,,Blocked,28.0,Left Foot,,İlkay Gündoğan,Pass (Live),Gabriel Jesus,Pass (Live)
+27,82,Kevin De Bruyne,Manchester City,0.03,0.14,Goal,25.0,Right Foot,Volley,Phil Foden,Pass (Live),,
+28,86,Fernandinho,Manchester City,0.04,,Off Target,18.0,Left Foot,Volley,Phil Foden,Pass (Live),Rodri,Pass (Live)
+29,88,Jonjo Shelvey,Newcastle Utd,0.02,0.29,Goal,28.0,Right Foot,,Christian Atsu,Pass (Dead),Javier Manquillo,Fouled
+30,90+2,Raheem Sterling,Manchester City,0.34,0.46,Saved,5.0,Right Foot,,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Live)

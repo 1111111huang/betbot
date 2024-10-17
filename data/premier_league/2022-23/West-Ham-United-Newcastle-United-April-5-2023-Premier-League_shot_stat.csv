@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Declan Rice,West Ham,0.07,,Off Target,25.0,Right Foot,,,,,
+1,4,Jarrod Bowen,West Ham,0.02,,Off Target,28.0,Left Foot,,Lucas Paquetá,Pass (Live),,
+2,6,Callum Wilson,Newcastle Utd,0.09,0.14,Goal,10.0,Head,,Allan Saint-Maximin,Pass (Live),Allan Saint-Maximin,Take-On
+3,13,Joelinton,Newcastle Utd,0.94,0.85,Goal,10.0,Left Foot,,Joelinton,Take-On,Fabian Schär,Pass (Live)
+4,16,Joelinton,Newcastle Utd,0.09,,Off Target,8.0,Head,,Kieran Trippier,Pass (Dead),Jacob Murphy,Pass (Live)
+5,25,Jacob Murphy,Newcastle Utd,0.02,,Off Target,58.0,Right Foot,,Jacob Murphy,Take-On,,
+6,28,Lucas Paquetá,West Ham,0.08,0.36,Saved,24.0,Left Foot,Free kick,Tomáš Souček,Fouled,Declan Rice,Pass (Live)
+7,29,Michail Antonio,West Ham,0.11,,Blocked,7.0,Left Foot,,Declan Rice,Pass (Live),Lucas Paquetá,Tackle
+8,40,Kurt Zouma,West Ham,0.6,0.48,Goal,3.0,Head,,Jarrod Bowen,Pass (Dead),,
+9,43,Joelinton,Newcastle Utd,0.03,,Off Target,32.0,Right Foot,,Jacob Murphy,Fouled,Fabian Schär,Pass (Live)
+10,45+1,Jarrod Bowen,West Ham,0.07,,Off Target,26.0,Left Foot,,Saïd Benrahma,Pass (Live),Emerson Palmieri,Tackle
+11,,,,,,,,,,,,,
+12,46,Callum Wilson,Newcastle Utd,0.96,0.78,Goal,6.0,Right Foot,,Jacob Murphy,Pass (Live),Jacob Murphy,Tackle
+13,55,Jacob Murphy,Newcastle Utd,0.35,0.56,Saved,15.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Pass (Live)
+14,56,Allan Saint-Maximin,Newcastle Utd,0.05,,Blocked,17.0,Right Foot,Volley,Jacob Murphy,Shot,,
+15,56,Callum Wilson,Newcastle Utd,0.02,,Off Target,40.0,Right Foot,,Nick Pope,Pass (Live),Sean Longstaff,Pass (Live)
+16,59,Allan Saint-Maximin,Newcastle Utd,0.04,0.26,Saved,20.0,Right Foot,Deflected,Kieran Trippier,Pass (Live),Bruno Guimarães,Pass (Live)
+17,72,Danny Ings,West Ham,0.03,,Blocked,21.0,Right Foot,Volley,Nayef Aguerd,Pass (Live),Kurt Zouma,Pass (Live)
+18,74,Joe Willock,Newcastle Utd,0.19,,Blocked,11.0,Left Foot,,Anthony Gordon,Pass (Live),Sean Longstaff,Pass (Live)
+19,74,Bruno Guimarães,Newcastle Utd,0.06,,Off Target,20.0,Right Foot,,Joelinton,Pass (Live),Joe Willock,Pass (Live)
+20,82,Alexander Isak,Newcastle Utd,0.07,0.47,Goal,29.0,Right Foot,Volley,Fabian Schär,Pass (Live),Anthony Gordon,Pass (Live)
+21,89,Anthony Gordon,Newcastle Utd,0.04,,Blocked,15.0,Right Foot,,Joe Willock,Pass (Live),Alexander Isak,Pass (Live)
+22,90,Joelinton,Newcastle Utd,0.33,0.53,Goal,15.0,Left Foot,,Bruno Guimarães,Pass (Live),Javier Manquillo,Tackle

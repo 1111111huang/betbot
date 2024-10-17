@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Manuel Akanji,Manchester City,0.21,,Off Target,4.0,Head,,Julián Álvarez,Pass (Dead),Manuel Akanji,Pass (Live)
+1,6.0,Jeremy Doku,Manchester City,0.06,0.09,Saved,15.0,Left Foot,,Phil Foden,Pass (Live),,
+2,6.0,Son Heung-min,Tottenham,0.13,0.17,Goal,12.0,Right Foot,,Son Heung-min,Take-On,Dejan Kulusevski,Pass (Live)
+3,9.0,Erling Haaland,Manchester City,0.02,,Off Target,12.0,Head,,Julián Álvarez,Pass (Dead),Bernardo Silva,Fouled
+4,12.0,Phil Foden,Manchester City,0.06,,Blocked,20.0,Left Foot,,Julián Álvarez,Pass (Live),Joško Gvardiol,Pass (Live)
+5,13.0,Erling Haaland,Manchester City,0.38,,Off Target,9.0,Left Foot,,Bernardo Silva,Pass (Live),,
+6,16.0,Erling Haaland,Manchester City,0.02,,Blocked,14.0,Left Foot,Volley,Bernardo Silva,Pass (Live),Jeremy Doku,Pass (Live)
+7,29.0,Jeremy Doku,Manchester City,0.12,,Woodwork,13.0,Right Foot,,Julián Álvarez,Pass (Live),Phil Foden,Pass (Live)
+8,31.0,Phil Foden,Manchester City,0.56,0.92,Goal,8.0,Left Foot,,Julián Álvarez,Pass (Live),Erling Haaland,Pass (Live)
+9,35.0,Julián Álvarez,Manchester City,0.04,,Woodwork,17.0,Right Foot,,Bernardo Silva,Pass (Live),Erling Haaland,Pass (Live)
+10,36.0,Erling Haaland,Manchester City,0.14,,Off Target,15.0,Left Foot,,Julián Álvarez,Pass (Live),Julián Álvarez,Take-On
+11,39.0,Pedro Porro,Tottenham,0.05,,Off Target,16.0,Right Foot,,Brennan Johnson,Pass (Live),Son Heung-min,Pass (Live)
+12,40.0,Jeremy Doku,Manchester City,0.02,,Blocked,15.0,Right Foot,,Rúben Dias,Pass (Live),Rodri,Pass (Live)
+13,,,,,,,,,,,,,
+14,46.0,Bernardo Silva,Manchester City,0.06,0.43,Saved,23.0,Left Foot,,Erling Haaland,Pass (Live),Julián Álvarez,Pass (Live)
+15,47.0,Rodri,Manchester City,0.04,,Blocked,11.0,Head,,Julián Álvarez,Pass (Dead),Bernardo Silva,Shot
+16,53.0,Brennan Johnson,Tottenham,0.02,0.05,Saved,27.0,Right Foot,,Destiny Udogie,Pass (Live),Son Heung-min,Pass (Live)
+17,54.0,Erling Haaland,Manchester City,0.19,,Off Target,8.0,Head,,Jack Grealish,Pass (Live),Joško Gvardiol,Pass (Live)
+18,56.0,Brennan Johnson,Tottenham,0.03,,Blocked,31.0,Right Foot,,Son Heung-min,Pass (Live),Son Heung-min,Take-On
+19,69.0,Giovani Lo Celso,Tottenham,0.08,0.37,Goal,21.0,Left Foot,,Son Heung-min,Pass (Live),Ben Davies,Pass (Live)
+20,71.0,Giovani Lo Celso,Tottenham,0.02,,Blocked,23.0,Left Foot,,Pedro Porro,Pass (Dead),,
+21,72.0,Pierre Højbjerg,Tottenham,0.02,,Blocked,27.0,Right Foot,Volley,Giovani Lo Celso,Shot,,
+22,75.0,Rodri,Manchester City,0.17,,Off Target,10.0,Right Foot,,Rico Lewis,Pass (Live),Rodri,Pass (Live)
+23,78.0,Joško Gvardiol,Manchester City,0.02,,Off Target,21.0,Right Foot,Volley,Bernardo Silva,Pass (Live),Julián Álvarez,Pass (Live)
+24,81.0,Jack Grealish,Manchester City,0.45,0.81,Goal,12.0,Right Foot,,Erling Haaland,Pass (Live),Rodri,Pass (Live)
+25,90.0,Dejan Kulusevski,Tottenham,0.11,0.59,Goal,9.0,Head,,Brennan Johnson,Pass (Live),Son Heung-min,Pass (Live)

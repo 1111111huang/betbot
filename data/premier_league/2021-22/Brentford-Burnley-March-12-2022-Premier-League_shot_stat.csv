@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Josh Brownhill,Burnley,0.08,,Off Target,29.0,Right Foot,Free kick,Maxwel Cornet,Fouled,,
+1,7,Sergi Canós,Brentford,0.09,,Blocked,18.0,Right Foot,,Bryan Mbeumo,Pass (Live),,
+2,7,Bryan Mbeumo,Brentford,0.08,,Off Target,14.0,Left Foot,,Ivan Toney,Pass (Live),Sergi Canós,Shot
+3,16,Christian Eriksen,Brentford,0.08,0.21,Saved,22.0,Right Foot,Deflected,Sergi Canós,Pass (Live),Ivan Toney,Pass (Live)
+4,23,Maxwel Cornet,Burnley,0.04,,Off Target,16.0,Left Foot,,Dwight McNeil,Pass (Live),Josh Brownhill,Pass (Live)
+5,29,Bryan Mbeumo,Brentford,0.06,,Blocked,18.0,Left Foot,,Christian Eriksen,Pass (Live),Ethan Pinnock,Pass (Live)
+6,34,Dwight McNeil,Burnley,0.24,,Off Target,10.0,Head,,Ashley Westwood,Pass (Live),Aaron Lennon,Pass (Live)
+7,45,Bryan Mbeumo,Brentford,0.13,,Blocked,10.0,Left Foot,,Sergi Canós,Pass (Live),Christian Eriksen,Pass (Live)
+8,45+1,Sergi Canós,Brentford,0.02,,Blocked,30.0,Right Foot,,Christian Nørgaard,Pass (Live),Bryan Mbeumo,Pass (Live)
+9,,,,,,,,,,,,,
+10,53,Vitaly Janelt,Brentford,0.15,,Off Target,9.0,Head,,Sergi Canós,Pass (Live),Rico Henry,Pass (Dead)
+11,63,Christian Nørgaard,Brentford,0.01,,Blocked,31.0,Right Foot,Volley,Ivan Toney,Tackle,,
+12,64,Vitaly Janelt,Brentford,0.02,,Blocked,29.0,Left Foot,,Christian Nørgaard,Pass (Live),Rico Henry,Pass (Live)
+13,65,Rico Henry,Brentford,0.01,,Off Target,31.0,Left Foot,,Vitaly Janelt,Shot,,
+14,69,Charlie Taylor,Burnley,0.02,,Off Target,24.0,Right Foot,Volley,Jay Rodriguez,Pass (Live),Charlie Taylor,Pass (Dead)
+15,70,Maxwel Cornet,Burnley,0.19,0.21,Saved,20.0,Left Foot,,,,,
+16,75,Jay Rodriguez,Burnley,0.02,,Woodwork,35.0,Right Foot,,James Tarkowski,Pass (Live),,
+17,78,Dwight McNeil,Burnley,0.07,,Blocked,16.0,Left Foot,,Aaron Lennon,Pass (Live),Connor Roberts,Pass (Live)
+18,83,Christian Eriksen,Brentford,0.03,,Blocked,26.0,Right Foot,,Bryan Mbeumo,Pass (Live),Kristoffer Ajer,Pass (Live)
+19,85,Ivan Toney,Brentford,0.46,0.78,Goal,6.0,Head,,Christian Eriksen,Pass (Live),Yoane Wissa,Pass (Live)
+20,90+4,Ivan Toney (pen),Brentford,0.79,0.99,Goal,13.0,Right Foot,,Ivan Toney,Fouled,Christian Eriksen,Pass (Live)

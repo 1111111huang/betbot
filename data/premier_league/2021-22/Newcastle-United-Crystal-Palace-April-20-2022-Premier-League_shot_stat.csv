@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Miguel Almirón,Newcastle Utd,0.09,,Blocked,13.0,Left Foot,,Joelinton,Pass (Live),Bruno Guimarães,Pass (Live)
+1,10,Allan Saint-Maximin,Newcastle Utd,0.12,0.1,Saved,18.0,Right Foot,,Joelinton,Pass (Live),,
+2,15,Joelinton,Newcastle Utd,0.07,,Blocked,18.0,Right Foot,,Fabian Schär,Pass (Live),Chris Wood,Pass (Live)
+3,15,Miguel Almirón,Newcastle Utd,0.05,,Blocked,15.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Shot
+4,15,Miguel Almirón,Newcastle Utd,0.04,,Off Target,16.0,Left Foot,Volley,Miguel Almirón,Shot,,
+5,32,Miguel Almirón,Newcastle Utd,0.1,0.68,Goal,14.0,Left Foot,,Miguel Almirón,Take-On,Bruno Guimarães,Pass (Live)
+6,36,Miguel Almirón,Newcastle Utd,0.04,0.08,Saved,22.0,Left Foot,,Chris Wood,Fouled,Bruno Guimarães,Pass (Live)
+7,38,Bruno Guimarães,Newcastle Utd,0.02,0.27,Saved,23.0,Right Foot,Volley,Bruno Guimarães,Take-On,Emil Krafth,Pass (Dead)
+8,41,Odsonne Édouard,Crystal Palace,0.08,0.04,Saved,16.0,Right Foot,,,,,
+9,45+2,Joelinton,Newcastle Utd,0.02,,Blocked,29.0,Right Foot,,Joelinton,Take-On,,
+10,45+2,Miguel Almirón,Newcastle Utd,0.01,,Blocked,30.0,Left Foot,,Joelinton,Shot,,
+11,,,,,,,,,,,,,
+12,47,Miguel Almirón,Newcastle Utd,0.04,,Blocked,16.0,Left Foot,,Bruno Guimarães,Pass (Live),Allan Saint-Maximin,Pass (Live)
+13,48,Joelinton,Newcastle Utd,0.26,,Off Target,8.0,Head,,Matt Targett,Pass (Dead),Matt Targett,Fouled
+14,55,Cheikhou Kouyaté,Crystal Palace,0.03,,Off Target,32.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Wilfried Zaha,Pass (Dead)
+15,62,James McArthur,Crystal Palace,0.03,,Blocked,10.0,Left Foot,,Wilfried Zaha,Pass (Live),Tyrick Mitchell,Pass (Live)
+16,65,Wilfried Zaha,Crystal Palace,0.07,,Off Target,16.0,Right Foot,,Odsonne Édouard,Pass (Live),,
+17,67,Dan Burn,Newcastle Utd,0.02,,Off Target,15.0,Head,,Fabian Schär,Pass (Dead),Allan Saint-Maximin,Fouled
+18,70,Marc Guéhi,Crystal Palace,0.01,,Off Target,14.0,Head,,James McArthur,Pass (Dead),Wilfried Zaha,Pass (Live)
+19,71,Jean-Philippe Mateta,Crystal Palace,0.06,,Off Target,11.0,Head,,James McArthur,Pass (Live),Jordan Ayew,Pass (Live)
+20,74,Marc Guéhi,Crystal Palace,0.01,,Blocked,13.0,Head,,Tyrick Mitchell,Pass (Dead),Tyrick Mitchell,Pass (Live)
+21,74,Odsonne Édouard,Crystal Palace,0.02,0.19,Saved,14.0,Head,,Joachim Andersen,Pass (Live),Wilfried Zaha,Pass (Live)
+22,80,Odsonne Édouard,Crystal Palace,0.13,,Off Target,9.0,Head,,Jean-Philippe Mateta,Pass (Live),Marc Guéhi,Pass (Live)
+23,90+3,Wilfried Zaha,Crystal Palace,0.03,,Off Target,18.0,Right Foot,,James McArthur,Pass (Live),Odsonne Édouard,Pass (Live)

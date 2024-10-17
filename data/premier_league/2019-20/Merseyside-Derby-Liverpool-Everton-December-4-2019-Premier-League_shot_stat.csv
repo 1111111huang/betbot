@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Sadio Mané,Liverpool,0.06,,Off Target,12.0,Head,,Andrew Robertson,Pass (Live),Virgil van Dijk,Pass (Live)
+1,6,Divock Origi,Liverpool,0.5,0.74,Goal,10.0,Left Foot,,Divock Origi,Take-On,Sadio Mané,Pass (Live)
+2,13,Dominic Calvert-Lewin,Everton,0.09,,Off Target,14.0,Right Foot,,Yerry Mina,Pass (Live),Richarlison,Pass (Live)
+3,17,Xherdan Shaqiri,Liverpool,0.42,0.83,Goal,9.0,Left Foot,,Sadio Mané,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+4,19,Richarlison,Everton,0.07,,Off Target,9.0,Head,,Lucas Digne,Pass (Dead),Dominic Calvert-Lewin,Pass (Live)
+5,21,Michael Keane,Everton,0.08,,Blocked,12.0,Left Foot,Volley,Tom Davies,Pass (Live),,
+6,21,Michael Keane,Everton,0.29,0.22,Goal,4.0,Right Foot,,Michael Keane,Shot,,
+7,25,Dominic Calvert-Lewin,Everton,0.11,,Off Target,17.0,Right Foot,,Alex Iwobi,Pass (Live),Mason Holgate,Pass (Live)
+8,31,Divock Origi,Liverpool,0.32,0.31,Goal,15.0,Right Foot,,Dejan Lovren,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+9,40,Alex Iwobi,Everton,0.06,,Off Target,22.0,Right Foot,,Richarlison,Pass (Live),Gylfi Sigurðsson,Pass (Live)
+10,41,Michael Keane,Everton,0.11,,Off Target,10.0,Head,,Dominic Calvert-Lewin,Fouled,Yerry Mina,Tackle
+11,45,Sadio Mané,Liverpool,0.09,0.38,Goal,21.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Sadio Mané,Pass (Live)
+12,45+3,Richarlison,Everton,0.32,0.63,Goal,11.0,Other,,Bernard,Pass (Live),Gylfi Sigurðsson,Pass (Live)
+13,,,,,,,,,,,,,
+14,52,Lucas Digne,Everton,0.06,,Off Target,27.0,Left Foot,Free kick,Dominic Calvert-Lewin,Fouled,,
+15,53,Divock Origi,Liverpool,0.13,,Blocked,13.0,Right Foot,,Divock Origi,Take-On,Andrew Robertson,Pass (Live)
+16,53,James Milner,Liverpool,0.03,,Blocked,26.0,Right Foot,,Divock Origi,Shot,,
+17,61,Richarlison,Everton,0.07,0.11,Saved,10.0,Head,,Gylfi Sigurðsson,Pass (Dead),,
+18,65,Tom Davies,Everton,0.03,0.13,Saved,28.0,Right Foot,,Bernard,Pass (Live),Moise Kean,Pass (Live)
+19,78,Georginio Wijnaldum,Liverpool,0.05,,Off Target,12.0,Head,,Xherdan Shaqiri,Pass (Dead),Sadio Mané,Fouled
+20,81,Sadio Mané,Liverpool,0.36,,Off Target,13.0,Right Foot,,Jordan Henderson,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+21,85,Moise Kean,Everton,0.28,,Off Target,22.0,Right Foot,,Alex Iwobi,Pass (Live),Bernard,Pass (Live)
+22,89,Xherdan Shaqiri,Liverpool,0.03,,Blocked,23.0,Left Foot,,Georginio Wijnaldum,Pass (Live),Roberto Firmino,Pass (Live)
+23,90,Georginio Wijnaldum,Liverpool,0.07,0.44,Goal,12.0,Right Foot,,Roberto Firmino,Pass (Live),Roberto Firmino,Take-On

@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Albert Sambi Lokonga,Luton Town,0.04,,Blocked,21.0,Right Foot,Volley,Carlton Morris,Pass (Live),Alfie Doughty,Pass (Dead)
+1,5,Jacob Brown,Luton Town,0.19,,Blocked,7.0,Head,,Alfie Doughty,Pass (Live),Chiedozie Ogbene,Pass (Live)
+2,10,Carlton Morris,Luton Town,0.03,,Woodwork,30.0,Right Foot,,Carlton Morris,Take-On,,
+3,12,Jacob Brown,Luton Town,0.12,,Blocked,16.0,Left Foot,,Alfie Doughty,Pass (Live),Tom Lockyer,Pass (Live)
+4,17,Jacob Brown,Luton Town,0.04,0.2,Saved,8.0,Head,,Alfie Doughty,Pass (Live),Amari'i Bell,Pass (Live)
+5,18,Alfie Doughty,Luton Town,0.03,,Blocked,16.0,Right Foot,,Chiedozie Ogbene,Pass (Live),Alfie Doughty,Pass (Live)
+6,19,Jacob Brown,Luton Town,0.03,,Off Target,9.0,Head,,Alfie Doughty,Pass (Dead),Chiedozie Ogbene,Fouled
+7,36,Alfie Doughty,Luton Town,0.03,,Blocked,19.0,Left Foot,,Chiedozie Ogbene,Pass (Live),Alfie Doughty,Pass (Live)
+8,45+3,Albert Sambi Lokonga,Luton Town,0.02,0.02,Saved,27.0,Right Foot,,Amari'i Bell,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+9,,,,,,,,,,,,,
+10,46,Reece Burke,Luton Town,0.06,,Blocked,14.0,Right Foot,,Chiedozie Ogbene,Pass (Live),,
+11,48,Carlton Morris,Luton Town,0.22,0.75,Saved,5.0,Head,,Chiedozie Ogbene,Pass (Live),Carlton Morris,Pass (Live)
+12,50,Pedro Neto,Wolves,0.14,0.15,Goal,12.0,Left Foot,,,,,
+13,57,Mario Lemina,Wolves,0.1,0.24,Saved,4.0,Head,,Pedro Neto,Pass (Dead),Pedro Neto,Fouled
+14,57,Max Kilman,Wolves,0.39,0.55,Saved,5.0,Left Foot,Volley,Mario Lemina,Shot,,
+15,60,Alfie Doughty,Luton Town,0.02,,Off Target,18.0,Left Foot,,Pelly Ruddock Mpanzu,Pass (Live),Alfie Doughty,Pass (Live)
+16,63,Issa Kaboré,Luton Town,0.05,,Off Target,14.0,Left Foot,,Jacob Brown,Pass (Live),Carlton Morris,Pass (Live)
+17,65,Carlton Morris (pen),Luton Town,0.79,0.99,Goal,13.0,Right Foot,,,Fouled,Issa Kaboré,Shot
+18,67,Marvelous Nakamba,Luton Town,0.08,,Off Target,15.0,Left Foot,Volley,Alfie Doughty,Pass (Dead),Carlton Morris,Pass (Live)
+19,69,Chiedozie Ogbene,Luton Town,0.04,,Blocked,16.0,Left Foot,,Tom Lockyer,Pass (Live),,
+20,86,Pelly Ruddock Mpanzu,Luton Town,0.02,,Off Target,26.0,Right Foot,,Chiedozie Ogbene,Pass (Live),Tom Lockyer,Pass (Live)
+21,89,Pelly Ruddock Mpanzu,Luton Town,0.08,,Blocked,19.0,Left Foot,,Cauley Woodrow,Pass (Live),Pelly Ruddock Mpanzu,Pass (Live)
+22,90+3,Cauley Woodrow,Luton Town,0.1,,Off Target,21.0,Left Foot,,Chiedozie Ogbene,Pass (Live),Reece Burke,Pass (Live)
+23,90+7,Cauley Woodrow,Luton Town,0.19,,Blocked,13.0,Right Foot,,Pelly Ruddock Mpanzu,Pass (Live),Chiedozie Ogbene,Pass (Live)

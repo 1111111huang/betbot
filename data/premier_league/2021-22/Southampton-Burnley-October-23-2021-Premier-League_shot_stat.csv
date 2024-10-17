@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10.0,Theo Walcott,Southampton,0.04,,Blocked,15.0,Right Foot,,Valentino Livramento,Pass (Live),Valentino Livramento,Take-On
+1,13.0,Maxwel Cornet,Burnley,0.27,0.76,Goal,9.0,Head,,Matthew Lowton,Pass (Live),Dwight McNeil,Pass (Live)
+2,26.0,Armando Broja,Southampton,0.12,,Blocked,11.0,Right Foot,Volley,Valentino Livramento,Pass (Live),Ibrahima Diallo,Pass (Live)
+3,29.0,Mohamed Elyounoussi,Southampton,0.03,,Off Target,12.0,Head,,Oriol Romeu,Pass (Live),Jan Bednarek,Pass (Live)
+4,31.0,Romain Perraud,Southampton,0.01,,Off Target,21.0,Left Foot,Volley,,,,
+5,33.0,Chris Wood,Burnley,0.14,0.39,Saved,17.0,Right Foot,Deflected,Dwight McNeil,Pass (Live),Maxwel Cornet,Pass (Live)
+6,37.0,Theo Walcott,Southampton,0.17,,Off Target,18.0,Right Foot,,Nathan Redmond,Pass (Live),Armando Broja,Pass (Live)
+7,38.0,Nathan Redmond,Southampton,0.67,,Off Target,3.0,Right Foot,,Valentino Livramento,Pass (Live),Theo Walcott,Pass (Live)
+8,39.0,Dwight McNeil,Burnley,0.09,,Blocked,23.0,Left Foot,,Josh Brownhill,Pass (Live),Dwight McNeil,Pass (Live)
+9,39.0,Valentino Livramento,Southampton,0.09,,Blocked,12.0,Left Foot,,Oriol Romeu,Pass (Live),Mohamed Elyounoussi,Pass (Live)
+10,41.0,Valentino Livramento,Southampton,0.16,0.21,Goal,5.0,Head,,Nathan Redmond,Pass (Dead),Theo Walcott,Pass (Live)
+11,,,,,,,,,,,,,
+12,50.0,Armando Broja,Southampton,0.06,0.51,Goal,12.0,Right Foot,,Ibrahima Diallo,Pass (Live),,
+13,53.0,Ibrahima Diallo,Southampton,0.02,,Off Target,31.0,Right Foot,,,,,
+14,57.0,Maxwel Cornet,Burnley,0.03,0.17,Goal,25.0,Left Foot,Volley,Ashley Westwood,Pass (Live),Chris Wood,Pass (Live)
+15,61.0,Dwight McNeil,Burnley,0.03,,Off Target,29.0,Left Foot,,Josh Brownhill,Pass (Live),Chris Wood,Pass (Live)
+16,63.0,Nathan Redmond,Southampton,0.07,0.03,Saved,21.0,Right Foot,,Romain Perraud,Pass (Live),Nathan Redmond,Pass (Live)
+17,65.0,Ashley Westwood,Burnley,0.06,,Off Target,15.0,Right Foot,,Maxwel Cornet,Pass (Live),Josh Brownhill,Pass (Live)
+18,76.0,Nathan Redmond,Southampton,0.03,,Blocked,15.0,Right Foot,,Stuart Armstrong,Pass (Live),Mohamed Elyounoussi,Pass (Live)
+19,81.0,Jay Rodriguez,Burnley,0.04,0.07,Saved,12.0,Head,,Ashley Westwood,Pass (Dead),Matthew Lowton,Fouled
+20,82.0,Valentino Livramento,Southampton,0.04,,Off Target,20.0,Right Foot,,Stuart Armstrong,Pass (Live),Nathan Redmond,Pass (Live)
+21,84.0,Nathan Redmond,Southampton,0.04,,Blocked,26.0,Right Foot,,Mohamed Elyounoussi,Pass (Live),Mohammed Salisu,Pass (Live)
+22,84.0,Ibrahima Diallo,Southampton,0.03,0.11,Saved,32.0,Right Foot,,Nathan Redmond,Shot,,
+23,85.0,Jay Rodriguez,Burnley,0.01,,Off Target,28.0,Right Foot,Volley,Nathan Collins,Pass (Live),,
+24,86.0,Che Adams,Southampton,0.04,,Off Target,15.0,Head,,Valentino Livramento,Pass (Live),Stuart Armstrong,Pass (Live)
+25,88.0,Jóhann Berg Guðmundsson,Burnley,0.02,0.2,Saved,29.0,Left Foot,Deflected,,,,

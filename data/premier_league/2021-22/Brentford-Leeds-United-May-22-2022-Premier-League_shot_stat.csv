@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Yoane Wissa,Brentford,0.11,,Off Target,6.0,Head,,Christian Eriksen,Pass (Dead),Ivan Toney,Interception
+1,4,Sam Greenwood,Leeds United,0.02,,Off Target,25.0,Right Foot,Volley,Robin Koch,Pass (Dead),,
+2,12,Yoane Wissa,Brentford,0.04,,Off Target,6.0,Right Foot,Volley,Christian Eriksen,Pass (Dead),Bryan Mbeumo,Fouled
+3,17,Sam Greenwood,Leeds United,0.04,,Off Target,17.0,Right Foot,,Raphinha,Pass (Live),Rodrigo,Pass (Live)
+4,28,Junior Firpo,Leeds United,0.03,,Off Target,27.0,Right Foot,Volley,,,,
+5,29,Raphinha,Leeds United,0.01,,Off Target,32.0,Left Foot,,Rodrigo,Pass (Live),Raphinha,Pass (Live)
+6,31,Ivan Toney,Brentford,0.04,,Off Target,8.0,Head,,Mads Bech Sørensen,Pass (Dead),Yoane Wissa,Pass (Live)
+7,34,Bryan Mbeumo,Brentford,0.07,0.08,Saved,13.0,Left Foot,,Yoane Wissa,Pass (Live),Vitaly Janelt,Pass (Live)
+8,35,Mathias Jensen,Brentford,0.18,0.15,Saved,10.0,Right Foot,,Bryan Mbeumo,Pass (Live),Bryan Mbeumo,Take-On
+9,36,Christian Eriksen,Brentford,0.01,,Blocked,19.0,Left Foot,,Christian Eriksen,Take-On,Mathias Jensen,Pass (Live)
+10,40,Yoane Wissa,Brentford,0.03,0.04,Saved,31.0,Right Foot,,,,,
+11,43,Bryan Mbeumo,Brentford,0.13,,Off Target,12.0,Right Foot,,Mathias Jensen,Pass (Live),,
+12,45+2,Vitaly Janelt,Brentford,0.03,,Off Target,22.0,Right Foot,Volley,Ivan Toney,Fouled,David Raya,Pass (Dead)
+13,,,,,,,,,,,,,
+14,47,Bryan Mbeumo,Brentford,0.09,0.02,Saved,18.0,Left Foot,,Mathias Jensen,Pass (Live),Christian Eriksen,Pass (Live)
+15,53,Rodrigo,Leeds United,0.15,0.38,Saved,15.0,Right Foot,,Raphinha,Pass (Live),Robin Koch,Pass (Live)
+16,56,Raphinha (pen),Leeds United,0.79,0.99,Goal,13.0,Left Foot,,Raphinha,Fouled,Raphinha,Interception
+17,61,Jack Harrison,Leeds United,0.01,0.04,Saved,21.0,Left Foot,Deflected,Jack Harrison,Fouled,,
+18,67,Ivan Toney,Brentford,0.01,,Blocked,14.0,Right Foot,,Ivan Toney,Take-On,Christian Eriksen,Pass (Dead)
+19,68,Ivan Toney,Brentford,0.02,,Off Target,11.0,Head,,Mads Bech Sørensen,Pass (Dead),Ivan Toney,Shot
+20,78,Sergi Canós,Brentford,0.05,0.66,Goal,9.0,Head,,Yoane Wissa,Pass (Live),,
+21,81,Raphinha,Leeds United,0.02,,Blocked,25.0,Right Foot,,Raphinha,Fouled,Robin Koch,Pass (Live)
+22,84,Ivan Toney,Brentford,0.02,,Off Target,13.0,Head,,Christian Eriksen,Pass (Dead),Ivan Toney,Fouled
+23,86,Mateusz Klich,Leeds United,0.02,,Off Target,30.0,Right Foot,,Robin Koch,Pass (Live),Kalvin Phillips,Pass (Live)
+24,87,Mateusz Klich,Leeds United,0.04,0.09,Saved,22.0,Left Foot,,Mateusz Klich,Take-On,Rodrigo,Pass (Live)
+25,88,Raphinha,Leeds United,0.05,,Off Target,16.0,Left Foot,,Jack Harrison,Pass (Live),Raphinha,Pass (Live)
+26,90+2,Raphinha,Leeds United,0.03,0.04,Saved,31.0,Left Foot,,Kalvin Phillips,Pass (Live),Mateusz Klich,Pass (Live)
+27,90+3,Jack Harrison,Leeds United,0.07,,Blocked,19.0,Right Foot,,Pascal Struijk,Pass (Live),Liam Cooper,Pass (Live)
+28,90+4,Jack Harrison,Leeds United,0.02,0.29,Goal,27.0,Left Foot,Deflected,Jack Harrison,Shot,,

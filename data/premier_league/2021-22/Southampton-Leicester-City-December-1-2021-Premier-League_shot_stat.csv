@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Che Adams,Southampton,0.05,0.02,Saved,11.0,Head,,Jan Bednarek,Pass (Live),Oriol Romeu,Pass (Live)
+1,3,Mohammed Salisu,Southampton,0.07,0.05,Saved,10.0,Left Foot,,Nathan Tella,Pass (Live),James Ward-Prowse,Pass (Live)
+2,3,Jan Bednarek,Southampton,0.43,0.66,Goal,4.0,Right Foot,,Mohammed Salisu,Shot,,
+3,22,Wilfred Ndidi,Leicester City,0.07,0.06,Saved,18.0,Right Foot,,Ademola Lookman,Pass (Live),Timothy Castagne,Pass (Live)
+4,22,Jonny Evans,Leicester City,0.23,0.18,Goal,9.0,Right Foot,,Wilfred Ndidi,Shot,,
+5,25,Kyle Walker-Peters,Southampton,0.03,,Off Target,23.0,Right Foot,,Oriol Romeu,Pass (Live),,
+6,26,James Maddison,Leicester City,0.03,0.21,Saved,19.0,Left Foot,Deflected,,,,
+7,33,Che Adams,Southampton,0.03,0.14,Saved,18.0,Right Foot,,Adam Armstrong,Pass (Live),James Ward-Prowse,Pass (Live)
+8,34,Nathan Redmond,Southampton,0.02,,Blocked,14.0,Right Foot,,Adam Armstrong,Pass (Live),James Ward-Prowse,Pass (Dead)
+9,34,Che Adams,Southampton,0.21,0.38,Goal,8.0,Head,,Nathan Redmond,Pass (Live),Kyle Walker-Peters,Pass (Live)
+10,37,Nathan Tella,Southampton,0.03,0.04,Saved,25.0,Left Foot,,Adam Armstrong,Pass (Live),Nathan Redmond,Pass (Live)
+11,44,Kyle Walker-Peters,Southampton,0.03,,Blocked,19.0,Right Foot,,James Ward-Prowse,Pass (Live),Jan Bednarek,Pass (Live)
+12,,,,,,,,,,,,,
+13,46,Nathan Tella,Southampton,0.19,,Off Target,8.0,Head,,James Ward-Prowse,Pass (Live),,
+14,49,James Maddison,Leicester City,0.12,0.32,Goal,9.0,Right Foot,,James Maddison,Take-On,Luke Thomas,Pass (Live)
+15,52,Jamie Vardy,Leicester City,0.11,,Off Target,7.0,Right Foot,Volley,James Maddison,Pass (Dead),Kiernan Dewsbury-Hall,Fouled
+16,53,Nathan Tella,Southampton,0.06,,Blocked,17.0,Right Foot,,Nathan Redmond,Pass (Live),James Ward-Prowse,Pass (Live)
+17,54,Kiernan Dewsbury-Hall,Leicester City,0.05,,Blocked,22.0,Right Foot,,James Maddison,Pass (Live),James Maddison,Take-On
+18,57,Adam Armstrong,Southampton,0.02,0.04,Saved,22.0,Left Foot,,Alex McCarthy,Pass (Live),Jan Bednarek,Pass (Live)
+19,62,James Maddison,Leicester City,0.05,,Off Target,22.0,Left Foot,,Harvey Barnes,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+20,62,Harvey Barnes,Leicester City,0.03,,Blocked,20.0,Right Foot,,James Maddison,Pass (Live),Luke Thomas,Pass (Dead)
+21,63,Jamie Vardy,Leicester City,0.09,,Off Target,9.0,Head,,Harvey Barnes,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+22,68,James Maddison,Leicester City,0.03,,Off Target,28.0,Right Foot,,Jamie Vardy,Pass (Live),Harvey Barnes,Pass (Live)
+23,71,Harvey Barnes,Leicester City,0.23,0.41,Saved,12.0,Right Foot,,Harvey Barnes,Take-On,Ayoze Pérez,Pass (Live)
+24,74,Mohamed Elyounoussi,Southampton,0.04,,Off Target,21.0,Left Foot,,,,,
+25,75,Jamie Vardy,Leicester City,0.37,,Off Target,12.0,Right Foot,,,,,
+26,86,Wilfred Ndidi,Leicester City,0.02,,Off Target,30.0,Left Foot,Volley,Ayoze Pérez,Pass (Live),,
+27,87,Kiernan Dewsbury-Hall,Leicester City,0.04,,Blocked,22.0,Left Foot,,Kiernan Dewsbury-Hall,Take-On,,
+28,90,Mohammed Salisu,Southampton,0.27,,Off Target,5.0,Head,,James Ward-Prowse,Pass (Dead),Armando Broja,Fouled
+29,90+2,Che Adams,Southampton,0.04,,Blocked,17.0,Right Foot,,Oriol Romeu,Pass (Live),Che Adams,Pass (Live)
+30,90+2,Ayoze Pérez,Leicester City,0.09,0.3,Saved,21.0,Left Foot,,Jamie Vardy,Pass (Live),Patson Daka,Pass (Live)

@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Evan Ferguson,Brighton,0.09,,Off Target,20.0,Right Foot,,Solly March,Pass (Live),Pervis Estupiñán,Pass (Live)
+1,4,Solly March,Brighton,0.09,,Off Target,13.0,Left Foot,,Kaoru Mitoma,Pass (Live),Pervis Estupiñán,Pass (Live)
+2,11,Pervis Estupiñán,Brighton,0.08,,Blocked,12.0,Left Foot,,Pervis Estupiñán,Take-On,Alexis Mac Allister,Pass (Live)
+3,28,Joël Veltman,Brighton,0.1,,Blocked,13.0,Right Foot,Volley,Pervis Estupiñán,Pass (Live),Alexis Mac Allister,Pass (Live)
+4,31,Evan Ferguson,Brighton,0.33,0.25,Saved,15.0,Right Foot,,Pascal Groß,Pass (Live),Alexis Mac Allister,Pass (Live)
+5,39,Alexis Mac Allister,Brighton,0.05,0.03,Saved,17.0,Right Foot,Volley,Pervis Estupiñán,Pass (Live),Pervis Estupiñán,Pass (Live)
+6,42,Evan Ferguson,Brighton,0.03,,Blocked,14.0,Right Foot,,Pascal Groß,Pass (Live),Adam Webster,Pass (Live)
+7,,,,,,,,,,,,,
+8,50,Lewis Dunk,Brighton,0.09,,Off Target,9.0,Head,,Solly March,Pass (Dead),Moisés Caicedo,Pass (Live)
+9,51,Andreas Pereira,Fulham,0.03,0.01,Saved,30.0,Right Foot,Deflected,Willian,Pass (Live),Andreas Pereira,Pass (Live)
+10,54,Solly March,Brighton,0.13,0.29,Saved,9.0,Left Foot,,Kaoru Mitoma,Pass (Live),Alexis Mac Allister,Pass (Live)
+11,57,Adam Webster,Brighton,0.06,,Blocked,10.0,Head,,Pascal Groß,Pass (Dead),Pascal Groß,Pass (Live)
+12,58,Willian,Fulham,0.06,,Blocked,16.0,Right Foot,,,,,
+13,59,Kenny Tete,Fulham,0.05,,Blocked,7.0,Head,,Andreas Pereira,Pass (Dead),Willian,Shot
+14,59,Alexis Mac Allister,Brighton,0.45,0.61,Saved,7.0,Right Foot,Volley,Solly March,Pass (Live),Solly March,Take-On
+15,59,Moisés Caicedo,Brighton,0.04,,Off Target,22.0,Left Foot,,Moisés Caicedo,Take-On,Alexis Mac Allister,Shot
+16,63,Tariq Lamptey,Brighton,0.04,,Off Target,25.0,Right Foot,,Moisés Caicedo,Pass (Live),Solly March,Pass (Live)
+17,69,Bobby Reid,Fulham,0.08,,Blocked,13.0,Right Foot,,Antonee Robinson,Pass (Live),Tim Ream,Pass (Live)
+18,70,Evan Ferguson,Brighton,0.05,0.03,Saved,17.0,Left Foot,,Alexis Mac Allister,Pass (Live),Adam Webster,Pass (Live)
+19,71,Alexis Mac Allister,Brighton,0.04,0.03,Saved,23.0,Right Foot,,Adam Webster,Pass (Live),,
+20,76,Facundo Buonanotte,Brighton,0.04,,Off Target,22.0,Left Foot,,Tariq Lamptey,Pass (Live),Tariq Lamptey,Take-On
+21,79,Tariq Lamptey,Brighton,0.02,,Off Target,23.0,Right Foot,,,,,
+22,80,Solly March,Brighton,0.06,,Off Target,9.0,Left Foot,Volley,Lewis Dunk,Pass (Live),Solly March,Pass (Live)
+23,80,Deniz Undav,Brighton,0.32,0.08,Saved,6.0,Head,,Solly March,Shot,,
+24,81,Deniz Undav,Brighton,0.07,,Off Target,10.0,Head,,Solly March,Pass (Live),Solly March,Take-On
+25,88,Manor Solomon,Fulham,0.11,0.65,Goal,14.0,Left Foot,,Carlos Vinícius,Pass (Live),Carlos Vinícius,Take-On
+26,90+7,Alexis Mac Allister,Brighton,0.05,,Off Target,30.0,Right Foot,Free kick,Alexis Mac Allister,Fouled,Moisés Caicedo,Pass (Live)

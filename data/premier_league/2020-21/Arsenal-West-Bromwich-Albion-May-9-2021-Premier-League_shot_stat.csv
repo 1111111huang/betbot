@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Matheus Pereira,West Brom,0.02,,Off Target,25.0,Left Foot,Volley,,,,
+1,6,Calum Chambers,Arsenal,0.03,,Off Target,24.0,Right Foot,,Dani Ceballos,Pass (Live),Mohamed Elneny,Pass (Live)
+2,6,Nicolas Pépé,Arsenal,0.1,,Off Target,12.0,Left Foot,Volley,Gabriel Martinelli,Pass (Live),Calum Chambers,Shot
+3,12,Callum Robinson,West Brom,0.05,,Blocked,17.0,Right Foot,,Conor Townsend,Pass (Live),Darnell Furlong,Pass (Live)
+4,12,Matheus Pereira,West Brom,0.02,,Off Target,31.0,Left Foot,,,,,
+5,14,Callum Robinson,West Brom,0.32,,Woodwork,10.0,Right Foot,,Conor Townsend,Pass (Live),Matheus Pereira,Pass (Live)
+6,16,Matheus Pereira,West Brom,0.04,,Off Target,28.0,Left Foot,,Semi Ajayi,Pass (Live),Matt Phillips,Pass (Live)
+7,19,Mbaye Diagne,West Brom,0.7,,Off Target,4.0,Right Foot,Volley,Matheus Pereira,Pass (Live),Darnell Furlong,Pass (Live)
+8,19,Kyle Bartley,West Brom,0.02,,Blocked,32.0,Right Foot,,,,,
+9,21,Mohamed Elneny,Arsenal,0.03,0.04,Saved,26.0,Right Foot,,Willian,Pass (Live),Mohamed Elneny,Pass (Live)
+10,29,Emile Smith Rowe,Arsenal,0.34,0.22,Goal,8.0,Left Foot,Volley,Bukayo Saka,Pass (Live),Willian,Pass (Live)
+11,35,Nicolas Pépé,Arsenal,0.03,0.48,Goal,20.0,Left Foot,,Calum Chambers,Pass (Live),Dani Ceballos,Pass (Live)
+12,39,Gabriel Martinelli,Arsenal,0.03,,Off Target,28.0,Right Foot,,Willian,Pass (Live),Dani Ceballos,Pass (Live)
+13,41,Gabriel Magalhães,Arsenal,0.07,,Blocked,10.0,Head,,Bukayo Saka,Pass (Live),Willian,Pass (Live)
+14,42,Calum Chambers,Arsenal,0.03,,Off Target,20.0,Right Foot,,Willian,Pass (Live),Gabriel Martinelli,Pass (Live)
+15,44,Bukayo Saka,Arsenal,0.05,0.18,Saved,7.0,Left Foot,,Willian,Pass (Live),Dani Ceballos,Pass (Live)
+16,,,,,,,,,,,,,
+17,49,Nicolas Pépé,Arsenal,0.05,0.03,Saved,15.0,Left Foot,,,,,
+18,50,Gabriel Martinelli,Arsenal,0.04,,Blocked,17.0,Right Foot,Volley,Nicolas Pépé,Shot,,
+19,50,Emile Smith Rowe,Arsenal,0.02,0.13,Saved,27.0,Right Foot,,Gabriel Martinelli,Shot,,
+20,58,Matt Phillips,West Brom,0.02,,Blocked,29.0,Right Foot,,Matheus Pereira,Pass (Dead),Conor Gallagher,Pass (Live)
+21,67,Matheus Pereira,West Brom,0.06,0.5,Goal,22.0,Left Foot,,Conor Townsend,Pass (Live),,
+22,73,Darnell Furlong,West Brom,0.42,,Off Target,6.0,Head,,Matt Phillips,Pass (Live),Hal Robson-Kanu,Pass (Live)
+23,81,Darnell Furlong,West Brom,0.05,,Off Target,14.0,Head,,Matheus Pereira,Pass (Dead),Conor Gallagher,Fouled
+24,84,Calum Chambers,Arsenal,0.04,,Off Target,21.0,Right Foot,,Willian,Pass (Live),Mohamed Elneny,Pass (Live)
+25,89,Willian,Arsenal,0.03,,Blocked,30.0,Right Foot,,Gabriel Magalhães,Pass (Live),Mohamed Elneny,Pass (Live)
+26,90,Willian,Arsenal,0.07,0.6,Goal,29.0,Right Foot,Free kick,Willian,Fouled,Willian,Shot
+27,90+3,Matheus Pereira,West Brom,0.06,,Blocked,14.0,Left Foot,,Conor Townsend,Pass (Live),Matt Phillips,Pass (Live)

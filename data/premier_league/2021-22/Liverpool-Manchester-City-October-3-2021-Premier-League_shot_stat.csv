@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Mohamed Salah,Liverpool,0.02,,Blocked,19.0,Left Foot,Volley,James Milner,Pass (Dead),,
+1,15,Jack Grealish,Manchester City,0.03,,Blocked,19.0,Right Foot,,João Cancelo,Pass (Live),Bernardo Silva,Pass (Live)
+2,21,Phil Foden,Manchester City,0.42,0.69,Saved,7.0,Left Foot,,Bernardo Silva,Pass (Live),Bernardo Silva,Take-On
+3,24,Kevin De Bruyne,Manchester City,0.1,,Off Target,12.0,Left Foot,,João Cancelo,Pass (Live),Rodri,Pass (Live)
+4,34,Kevin De Bruyne,Manchester City,0.1,,Off Target,9.0,Head,,Phil Foden,Pass (Live),Bernardo Silva,Pass (Live)
+5,38,Kevin De Bruyne,Manchester City,0.08,,Blocked,17.0,Right Foot,,Gabriel Jesus,Pass (Live),Phil Foden,Pass (Live)
+6,40,Kevin De Bruyne,Manchester City,0.03,,Blocked,16.0,Left Foot,,Gabriel Jesus,Pass (Live),Kevin De Bruyne,Pass (Live)
+7,40,Rodri,Manchester City,0.02,,Off Target,28.0,Right Foot,,Kevin De Bruyne,Shot,,
+8,,,,,,,,,,,,,
+9,50,Diogo Jota,Liverpool,0.09,0.04,Saved,19.0,Left Foot,,Joël Matip,Pass (Live),Fabinho,Pass (Live)
+10,59,Sadio Mané,Liverpool,0.36,0.83,Goal,13.0,Right Foot,,Mohamed Salah,Pass (Live),Mohamed Salah,Take-On
+11,63,Mohamed Salah,Liverpool,0.05,,Blocked,27.0,Left Foot,Free kick,Andrew Robertson,Fouled,Andrew Robertson,Tackle
+12,67,Gabriel Jesus,Manchester City,0.05,,Blocked,16.0,Right Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+13,69,Phil Foden,Manchester City,0.2,0.63,Goal,12.0,Left Foot,,Gabriel Jesus,Pass (Live),Gabriel Jesus,Take-On
+14,76,Mohamed Salah,Liverpool,0.14,0.97,Goal,8.0,Right Foot,,Mohamed Salah,Take-On,Mohamed Salah,Take-On
+15,81,Kevin De Bruyne,Manchester City,0.1,0.03,Goal,21.0,Left Foot,Deflected,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+16,84,Kyle Walker,Manchester City,0.04,,Off Target,32.0,Right Foot,Free kick,Bernardo Silva,Fouled,Gabriel Jesus,Pass (Live)
+17,87,Fabinho,Liverpool,0.23,,Blocked,5.0,Right Foot,,Mohamed Salah,Pass (Live),Jordan Henderson,Pass (Dead)
+18,90+1,Gabriel Jesus,Manchester City,0.08,,Blocked,15.0,Right Foot,Volley,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)

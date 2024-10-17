@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Mohammed Salisu,Southampton,0.08,,Off Target,11.0,Head,,James Ward-Prowse,Pass (Dead),Kyle Walker-Peters,Fouled
+1,12,James Ward-Prowse,Southampton,0.07,0.36,Goal,18.0,Right Foot,Volley,Moussa Djenepo,Pass (Live),Moussa Djenepo,Take-On
+2,18,Adam Armstrong,Southampton,0.04,,Off Target,26.0,Right Foot,,,,,
+3,21,Ryan Sessegnon,Tottenham,0.3,0.27,Goal,6.0,Head,,Dejan Kulusevski,Pass (Live),Emerson,Pass (Live)
+4,31,Son Heung-min,Tottenham,0.08,0.04,Saved,13.0,Left Foot,,Pierre Højbjerg,Pass (Live),Dejan Kulusevski,Pass (Live)
+5,31,Eric Dier,Tottenham,0.06,0.16,Goal,9.0,Head,,Son Heung-min,Pass (Live),Dejan Kulusevski,Pass (Live)
+6,36,Emerson,Tottenham,0.04,,Blocked,22.0,Left Foot,,Dejan Kulusevski,Pass (Live),Harry Kane,Pass (Live)
+7,38,Ben Davies,Tottenham,0.04,0.22,Saved,26.0,Left Foot,,Son Heung-min,Pass (Live),Rodrigo Bentancur,Pass (Live)
+8,43,Dejan Kulusevski,Tottenham,0.07,,Blocked,15.0,Left Foot,,Son Heung-min,Pass (Live),Rodrigo Bentancur,Pass (Live)
+9,45,Son Heung-min,Tottenham,0.06,,Off Target,13.0,Right Foot,,Pierre Højbjerg,Pass (Live),Ryan Sessegnon,Tackle
+10,45+2,Harry Kane,Tottenham,0.14,0.16,Saved,7.0,Right Foot,,Emerson,Pass (Live),Dejan Kulusevski,Pass (Live)
+11,45+3,Cristian Romero,Tottenham,0.22,,Off Target,5.0,Head,,Son Heung-min,Pass (Dead),Harry Kane,Shot
+12,,,,,,,,,,,,,
+13,50,Emerson,Tottenham,0.02,,Off Target,12.0,Head,,Ben Davies,Pass (Live),Pierre Højbjerg,Pass (Live)
+14,52,Ryan Sessegnon,Tottenham,0.12,,Blocked,12.0,Left Foot,,Dejan Kulusevski,Pass (Live),Harry Kane,Pass (Live)
+15,59,James Ward-Prowse,Southampton,0.04,,Off Target,23.0,Right Foot,Volley,Oriol Romeu,Pass (Live),Roméo Lavia,Pass (Live)
+16,63,Dejan Kulusevski,Tottenham,0.04,0.57,Goal,14.0,Left Foot,,Emerson,Pass (Live),Pierre Højbjerg,Pass (Live)
+17,67,Roméo Lavia,Southampton,0.04,,Blocked,22.0,Right Foot,,Oriol Romeu,Fouled,Jan Bednarek,Pass (Live)
+18,67,Moussa Djenepo,Southampton,0.02,,Off Target,13.0,Right Foot,,Jan Bednarek,Pass (Live),Oriol Romeu,Pass (Live)
+19,68,Son Heung-min,Tottenham,0.13,,Blocked,10.0,Left Foot,,Dejan Kulusevski,Pass (Live),Emerson,Pass (Live)
+20,70,Cristian Romero,Tottenham,0.03,,Off Target,12.0,Right Foot,Volley,Emerson,Pass (Live),Dejan Kulusevski,Pass (Live)
+21,73,Emerson,Tottenham,0.13,,Off Target,10.0,Right Foot,Volley,Harry Kane,Pass (Live),Ivan Perišić,Pass (Live)
+22,74,Joe Aribo,Southampton,0.04,0.24,Saved,12.0,Left Foot,,Mohammed Salisu,Pass (Live),Mohammed Salisu,Take-On
+23,83,Son Heung-min,Tottenham,0.09,0.04,Saved,17.0,Right Foot,,Harry Kane,Pass (Live),Dejan Kulusevski,Pass (Live)
+24,85,Romain Perraud,Southampton,0.04,,Off Target,10.0,Left Foot,Volley,James Ward-Prowse,Pass (Live),Joe Aribo,Pass (Live)
+25,90,Romain Perraud,Southampton,0.04,,Blocked,14.0,Left Foot,,James Ward-Prowse,Pass (Live),Ibrahima Diallo,Pass (Live)
+26,90,Ibrahima Diallo,Southampton,0.06,,Blocked,22.0,Right Foot,,Romain Perraud,Shot,,
+27,90+1,Harry Kane,Tottenham,0.0,0.05,Saved,65.0,Right Foot,,Yves Bissouma,Tackle,,
+28,90+3,Yves Bissouma,Tottenham,0.02,,Off Target,29.0,Right Foot,,,,,

@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Ollie Watkins,Aston Villa,0.06,,Off Target,14.0,Left Foot,,Ross Barkley,Pass (Live),Ollie Watkins,Pass (Live)
+1,8,Stuart Armstrong,Southampton,0.42,,Blocked,9.0,Right Foot,,Danny Ings,Pass (Live),Danny Ings,Take-On
+2,14,Stuart Armstrong,Southampton,0.04,,Blocked,13.0,Right Foot,,Stuart Armstrong,Take-On,Nathan Redmond,Pass (Live)
+3,14,Jan Bednarek,Southampton,0.02,,Off Target,29.0,Right Foot,,Stuart Armstrong,Shot,,
+4,14,Oriol Romeu,Southampton,0.02,,Off Target,28.0,Right Foot,,Jan Bednarek,Shot,,
+5,31,Ryan Bertrand,Southampton,0.05,,Off Target,22.0,Left Foot,,Stuart Armstrong,Pass (Live),Oriol Romeu,Pass (Live)
+6,34,Nathan Redmond,Southampton,0.04,,Blocked,22.0,Left Foot,,James Ward-Prowse,Pass (Live),Theo Walcott,Pass (Live)
+7,36,Oriol Romeu,Southampton,0.06,,Off Target,21.0,Left Foot,,Stuart Armstrong,Pass (Live),Danny Ings,Pass (Live)
+8,38,Ollie Watkins,Aston Villa,0.07,0.09,Saved,14.0,Right Foot,,Matt Targett,Pass (Live),Jack Grealish,Pass (Live)
+9,39,Douglas Luiz,Aston Villa,0.02,,Off Target,31.0,Right Foot,,Ross Barkley,Pass (Live),Ollie Watkins,Pass (Live)
+10,41,Ross Barkley,Aston Villa,0.25,0.38,Goal,10.0,Head,,Jack Grealish,Pass (Live),Matt Targett,Pass (Live)
+11,42,Ollie Watkins,Aston Villa,0.05,,Blocked,18.0,Right Foot,,Ross Barkley,Pass (Live),Matty Cash,Tackle
+12,42,Ollie Watkins,Aston Villa,0.06,0.1,Saved,12.0,Left Foot,,Ollie Watkins,Take-On,Ollie Watkins,Shot
+13,45,Nathan Redmond,Southampton,0.02,,Blocked,32.0,Right Foot,,Ibrahima Diallo,Pass (Live),Ryan Bertrand,Pass (Dead)
+14,,,,,,,,,,,,,
+15,49,Danny Ings,Southampton,0.04,,Blocked,19.0,Right Foot,,Ibrahima Diallo,Pass (Live),Ibrahima Diallo,Take-On
+16,51,Nathan Redmond,Southampton,0.07,,Blocked,13.0,Left Foot,,Ibrahima Diallo,Pass (Live),Ryan Bertrand,Pass (Dead)
+17,53,James Ward-Prowse,Southampton,0.11,,Blocked,23.0,Right Foot,Free kick,Oriol Romeu,Fouled,,
+18,70,Che Adams,Southampton,0.39,0.16,Saved,10.0,Right Foot,,Danny Ings,Pass (Live),,
+19,75,Stuart Armstrong,Southampton,0.05,,Off Target,24.0,Right Foot,,Nathan Redmond,Pass (Live),Moussa Djenepo,Pass (Live)
+20,77,Danny Ings,Southampton,0.03,0.02,Saved,31.0,Right Foot,,James Ward-Prowse,Pass (Live),Stuart Armstrong,Pass (Live)
+21,83,Bertrand Traoré,Aston Villa,0.06,0.23,Saved,13.0,Left Foot,,Jack Grealish,Pass (Live),Matt Targett,Pass (Live)
+22,84,Nathan Redmond,Southampton,0.06,,Blocked,18.0,Left Foot,,,,,
+23,85,Jan Bednarek,Southampton,0.07,0.24,Saved,5.0,Head,Deflected,James Ward-Prowse,Pass (Dead),Nathan Redmond,Shot
+24,85,Che Adams,Southampton,0.22,,Blocked,5.0,Right Foot,Volley,Jan Bednarek,Shot,,
+25,85,Jack Stephens,Southampton,0.18,,Blocked,8.0,Right Foot,Volley,Che Adams,Shot,,
+26,90,Ross Barkley,Aston Villa,0.04,,Off Target,17.0,Right Foot,,Bertrand Traoré,Pass (Dead),Jack Grealish,Fouled
+27,90+1,Moussa Djenepo,Southampton,0.06,,Off Target,10.0,Left Foot,Volley,,,,
+28,90+3,Ryan Bertrand,Southampton,0.07,0.22,Saved,17.0,Right Foot,,Che Adams,Pass (Live),Alexandre Jankewitz,Pass (Live)

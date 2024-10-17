@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Patrick Bamford,Leeds United,0.07,0.03,Saved,13.0,Left Foot,,Jack Harrison,Pass (Live),Ezgjan Alioski,Pass (Live)
+1,9,Pascal Struijk,Leeds United,0.14,,Off Target,9.0,Right Foot,Volley,Jack Harrison,Pass (Live),Jack Harrison,Pass (Dead)
+2,12,Tyler Roberts,Leeds United,0.05,,Blocked,20.0,Right Foot,,Patrick Bamford,Pass (Live),Tyler Roberts,Pass (Live)
+3,13,Stuart Dallas,Leeds United,0.63,0.97,Goal,3.0,Right Foot,,Ezgjan Alioski,Pass (Live),Robin Koch,Pass (Live)
+4,15,Gareth Bale,Tottenham,0.05,,Blocked,7.0,Head,,Son Heung-min,Pass (Dead),Son Heung-min,Pass (Live)
+5,18,Dele Alli,Tottenham,0.05,,Blocked,17.0,Right Foot,,Son Heung-min,Pass (Live),Gareth Bale,Pass (Live)
+6,25,Son Heung-min,Tottenham,0.37,0.66,Goal,13.0,Right Foot,,Son Heung-min,Pass (Live),Giovani Lo Celso,Pass (Live)
+7,28,Jack Harrison,Leeds United,0.06,0.24,Saved,12.0,Right Foot,,Mateusz Klich,Pass (Live),Ezgjan Alioski,Pass (Live)
+8,29,Robin Koch,Leeds United,0.04,,Blocked,31.0,Right Foot,,Jack Harrison,Pass (Live),,
+9,33,Robin Koch,Leeds United,0.09,,Blocked,6.0,Head,,Stuart Dallas,Pass (Dead),,
+10,42,Patrick Bamford,Leeds United,0.75,0.89,Goal,4.0,Left Foot,,Ezgjan Alioski,Pass (Live),Jack Harrison,Pass (Live)
+11,,,,,,,,,,,,,
+12,52,Dele Alli,Tottenham,0.05,,Blocked,13.0,Head,,Toby Alderweireld,Pass (Live),Eric Dier,Pass (Live)
+13,53,Tyler Roberts,Leeds United,0.03,,Off Target,28.0,Right Foot,,Patrick Bamford,Pass (Live),,
+14,55,Harry Kane,Tottenham,0.03,,Off Target,27.0,Right Foot,,Dele Alli,Pass (Live),Harry Kane,Pass (Live)
+15,56,Son Heung-min,Tottenham,0.06,,Off Target,14.0,Left Foot,,Giovani Lo Celso,Pass (Live),Pierre Højbjerg,Pass (Live)
+16,60,Son Heung-min,Tottenham,0.04,,Blocked,21.0,Right Foot,,Son Heung-min,Pass (Live),Harry Kane,Pass (Live)
+17,63,Mateusz Klich,Leeds United,0.06,0.12,Saved,14.0,Right Foot,,Jack Harrison,Pass (Live),Stuart Dallas,Pass (Live)
+18,71,Serge Aurier,Tottenham,0.05,0.09,Saved,19.0,Right Foot,Deflected,Serge Aurier,Take-On,Harry Kane,Pass (Live)
+19,72,Harry Kane,Tottenham,0.1,,Woodwork,24.0,Right Foot,Free kick,Sergio Reguilón,Fouled,Serge Aurier,Shot
+20,73,Mateusz Klich,Leeds United,0.07,,Blocked,14.0,Left Foot,,Raphinha,Pass (Live),Stuart Dallas,Pass (Live)
+21,73,Jack Harrison,Leeds United,0.05,,Off Target,16.0,Left Foot,,Stuart Dallas,Pass (Live),Mateusz Klich,Shot
+22,76,Jack Harrison,Leeds United,0.06,,Off Target,15.0,Left Foot,,Mateusz Klich,Pass (Live),Jack Harrison,Pass (Live)
+23,77,Érik Lamela,Tottenham,0.06,0.05,Saved,10.0,Left Foot,,Harry Kane,Pass (Live),Giovani Lo Celso,Pass (Live)
+24,83,Mateusz Klich,Leeds United,0.03,,Off Target,24.0,Right Foot,,Stuart Dallas,Pass (Live),Rodrigo,Pass (Live)
+25,84,Rodrigo,Leeds United,0.33,0.66,Goal,12.0,Left Foot,,Raphinha,Pass (Live),Robin Koch,Pass (Live)
+26,90+1,Stuart Dallas,Leeds United,0.07,0.14,Saved,19.0,Right Foot,,Rodrigo,Pass (Live),Kalvin Phillips,Pass (Live)
+27,90+2,Érik Lamela,Tottenham,0.04,,Off Target,20.0,Left Foot,,Lucas Moura,Pass (Live),Serge Aurier,Pass (Live)

@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Wilfred Ndidi,Leicester City,0.03,0.25,Goal,23.0,Left Foot,,Harvey Barnes,Pass (Live),Marc Albrighton,Pass (Live)
+1,16,James Maddison,Leicester City,0.03,,Woodwork,27.0,Left Foot,,Timothy Castagne,Pass (Live),Marc Albrighton,Pass (Live)
+2,20,Reece James,Chelsea,0.04,0.11,Saved,17.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Reece James,Pass (Live)
+3,21,Thiago Silva,Chelsea,0.06,0.03,Saved,6.0,Head,,Mason Mount,Pass (Dead),Reece James,Shot
+4,26,Marc Albrighton,Leicester City,0.03,0.07,Saved,31.0,Right Foot,,Harvey Barnes,Pass (Live),Wilfred Ndidi,Tackle
+5,32,Callum Hudson-Odoi,Chelsea,0.05,,Off Target,14.0,Right Foot,,Christian Pulisic,Pass (Live),Kai Havertz,Pass (Live)
+6,34,Jamie Vardy,Leicester City,0.32,0.19,Saved,14.0,Right Foot,,Marc Albrighton,Pass (Live),Youri Tielemans,Pass (Live)
+7,41,Mason Mount,Chelsea,0.15,,Off Target,21.0,Right Foot,Free kick,Christian Pulisic,Fouled,Mason Mount,Pass (Live)
+8,41,James Maddison,Leicester City,0.28,0.21,Goal,12.0,Right Foot,,Marc Albrighton,Pass (Live),,
+9,,,,,,,,,,,,,
+10,50,James Justin,Leicester City,0.27,,Off Target,8.0,Head,,Marc Albrighton,Pass (Live),Timothy Castagne,Pass (Live)
+11,50,Tammy Abraham,Chelsea,0.04,,Blocked,15.0,Right Foot,,Reece James,Pass (Live),Thiago Silva,Pass (Live)
+12,51,Tammy Abraham,Chelsea,0.05,0.06,Saved,11.0,Head,,Mason Mount,Pass (Dead),Tammy Abraham,Shot
+13,53,Jonny Evans,Leicester City,0.07,0.05,Saved,12.0,Head,,James Maddison,Pass (Dead),Marc Albrighton,Fouled
+14,54,Reece James,Chelsea,0.22,0.05,Saved,7.0,Other,Volley,Mason Mount,Pass (Dead),Mateo Kovačić,Pass (Live)
+15,57,Youri Tielemans,Leicester City,0.35,0.26,Saved,11.0,Left Foot,,Jamie Vardy,Pass (Live),James Maddison,Pass (Live)
+16,58,Christian Pulisic,Chelsea,0.06,,Off Target,9.0,Head,,Reece James,Pass (Live),Thiago Silva,Pass (Live)
+17,90+2,Hakim Ziyech,Chelsea,0.07,0.08,Saved,14.0,Left Foot,Deflected,Mason Mount,Pass (Live),,

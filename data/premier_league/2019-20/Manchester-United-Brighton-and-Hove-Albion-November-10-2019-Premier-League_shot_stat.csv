@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,14,Neal Maupay,Brighton,0.04,,Blocked,23.0,Right Foot,,Steven Alzate,Pass (Live),Martín Montoya,Pass (Live)
+1,15,Marcus Rashford,Manchester Utd,0.04,0.25,Saved,18.0,Right Foot,,Andreas Pereira,Pass (Live),Fred,Pass (Live)
+2,17,Andreas Pereira,Manchester Utd,0.08,0.08,Goal,15.0,Left Foot,Deflected,Anthony Martial,Pass (Live),Anthony Martial,Pass (Live)
+3,19,Scott McTominay,Manchester Utd,0.81,0.96,Goal,3.0,Left Foot,Deflected,Daniel James,Fouled,Aaron Wan-Bissaka,Pass (Live)
+4,29,Lewis Dunk,Brighton,0.08,,Off Target,9.0,Head,,Leandro Trossard,Pass (Dead),Aaron Connolly,Fouled
+5,29,Shane Duffy,Brighton,0.34,,Off Target,6.0,Left Foot,,Lewis Dunk,Shot,,
+6,41,Aaron Connolly,Brighton,0.13,,Off Target,9.0,Head,,Leandro Trossard,Pass (Dead),Neal Maupay,Fouled
+7,44,Harry Maguire,Manchester Utd,0.05,,Off Target,12.0,Head,,Andreas Pereira,Pass (Dead),Fred,Pass (Live)
+8,45+3,Andreas Pereira,Manchester Utd,0.04,0.16,Saved,33.0,Right Foot,,Andreas Pereira,Take-On,Brandon Williams,Pass (Live)
+9,,,,,,,,,,,,,
+10,49,Anthony Martial,Manchester Utd,0.04,,Blocked,18.0,Right Foot,,Marcus Rashford,Pass (Live),Brandon Williams,Pass (Live)
+11,54,Harry Maguire,Manchester Utd,0.03,,Blocked,29.0,Right Foot,,Fred,Pass (Live),Harry Maguire,Pass (Live)
+12,55,Anthony Martial,Manchester Utd,0.03,,Blocked,22.0,Right Foot,,Andreas Pereira,Pass (Live),,
+13,57,Andreas Pereira,Manchester Utd,0.03,0.11,Saved,28.0,Right Foot,,Scott McTominay,Pass (Live),Brandon Williams,Pass (Live)
+14,61,Marcus Rashford,Manchester Utd,0.04,,Off Target,30.0,Right Foot,Volley,Daniel James,Pass (Live),Harry Maguire,Tackle
+15,61,Fred,Manchester Utd,0.03,0.1,Saved,28.0,Left Foot,,Daniel James,Pass (Live),Fred,Pass (Live)
+16,63,Pascal Groß,Brighton,0.08,0.03,Saved,12.0,Head,,Steven Alzate,Pass (Live),Solly March,Pass (Live)
+17,64,Lewis Dunk,Brighton,0.19,0.13,Goal,6.0,Head,,Pascal Groß,Pass (Dead),,
+18,66,Marcus Rashford,Manchester Utd,0.36,0.74,Goal,13.0,Right Foot,,Anthony Martial,Pass (Live),Fred,Pass (Live)
+19,68,Marcus Rashford,Manchester Utd,0.55,,Off Target,8.0,Right Foot,,Daniel James,Pass (Live),Andreas Pereira,Pass (Live)
+20,72,Brandon Williams,Manchester Utd,0.07,0.18,Saved,14.0,Right Foot,,Anthony Martial,Pass (Live),Jesse Lingard,Pass (Live)
+21,72,Daniel James,Manchester Utd,0.58,0.75,Saved,5.0,Right Foot,Volley,Marcus Rashford,Pass (Live),Brandon Williams,Pass (Live)
+22,75,Marcus Rashford,Manchester Utd,0.14,,Blocked,22.0,Right Foot,Free kick,Jesse Lingard,Fouled,Anthony Martial,Pass (Live)
+23,75,Jesse Lingard,Manchester Utd,0.09,,Blocked,10.0,Right Foot,,Scott McTominay,Pass (Live),Anthony Martial,Pass (Live)
+24,76,Marcus Rashford,Manchester Utd,0.11,0.06,Saved,5.0,Right Foot,,Marcus Rashford,Take-On,Jesse Lingard,Shot
+25,80,Fred,Manchester Utd,0.12,,Off Target,21.0,Left Foot,Free kick,Marcus Rashford,Fouled,Daniel James,Pass (Live)
+26,86,Anthony Martial,Manchester Utd,0.05,0.05,Saved,23.0,Left Foot,,Anthony Martial,Take-On,Aaron Wan-Bissaka,Pass (Live)
+27,90,Marcus Rashford,Manchester Utd,0.32,,Off Target,11.0,Left Foot,,Anthony Martial,Pass (Live),Marcus Rashford,Pass (Live)

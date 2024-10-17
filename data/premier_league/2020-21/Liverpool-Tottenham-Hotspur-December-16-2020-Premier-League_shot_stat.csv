@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1.0,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,28.0,Right Foot,,Curtis Jones,Pass (Live),Georginio Wijnaldum,Pass (Live)
+1,11.0,Roberto Firmino,Liverpool,0.04,0.2,Saved,14.0,Head,,Andrew Robertson,Pass (Dead),Georginio Wijnaldum,Fouled
+2,21.0,Mohamed Salah,Liverpool,0.07,0.05,Saved,17.0,Left Foot,,Andrew Robertson,Pass (Live),Andrew Robertson,Take-On
+3,26.0,Mohamed Salah,Liverpool,0.05,0.53,Goal,18.0,Left Foot,Deflected,Roberto Firmino,Pass (Live),Curtis Jones,Pass (Live)
+4,29.0,Curtis Jones,Liverpool,0.05,0.11,Saved,17.0,Right Foot,,,,,
+5,33.0,Sadio Mané,Liverpool,0.07,0.12,Saved,17.0,Right Foot,Volley,Georginio Wijnaldum,Pass (Live),Curtis Jones,Pass (Live)
+6,33.0,Son Heung-min,Tottenham,0.34,0.79,Goal,15.0,Right Foot,,Giovani Lo Celso,Pass (Live),Hugo Lloris,Pass (Live)
+7,35.0,Roberto Firmino,Liverpool,0.07,0.23,Saved,13.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Georginio Wijnaldum,Pass (Live)
+8,41.0,Sadio Mané,Liverpool,0.06,0.05,Saved,17.0,Right Foot,,Andrew Robertson,Pass (Live),Curtis Jones,Pass (Live)
+9,,,,,,,,,,,,,
+10,46.0,Steven Bergwijn,Tottenham,0.3,,Off Target,10.0,Right Foot,,,,,
+11,50.0,Curtis Jones,Liverpool,0.04,,Blocked,19.0,Right Foot,,Roberto Firmino,Pass (Live),Andrew Robertson,Pass (Live)
+12,50.0,Harry Kane,Tottenham,0.02,,Off Target,35.0,Left Foot,,Harry Kane,Interception,,
+13,52.0,Harry Kane,Tottenham,0.03,,Off Target,23.0,Right Foot,,Giovani Lo Celso,Pass (Live),Pierre Højbjerg,Pass (Live)
+14,55.0,Sadio Mané,Liverpool,0.06,,Off Target,14.0,Left Foot,,Trent Alexander-Arnold,Pass (Dead),Roberto Firmino,Fouled
+15,57.0,Mohamed Salah,Liverpool,0.03,0.17,Saved,27.0,Left Foot,,Roberto Firmino,Pass (Live),Jordan Henderson,Pass (Live)
+16,63.0,Steven Bergwijn,Tottenham,0.23,,Woodwork,14.0,Right Foot,,Son Heung-min,Pass (Live),Harry Kane,Pass (Live)
+17,63.0,Harry Kane,Tottenham,0.15,,Off Target,7.0,Head,,Son Heung-min,Pass (Dead),Steven Bergwijn,Shot
+18,67.0,Roberto Firmino,Liverpool,0.07,0.03,Saved,17.0,Right Foot,Deflected,Sadio Mané,Pass (Live),,
+19,69.0,Mohamed Salah,Liverpool,0.08,0.2,Saved,13.0,Right Foot,,Rhys Williams,Pass (Live),,
+20,70.0,Roberto Firmino,Liverpool,0.07,,Blocked,13.0,Left Foot,,Mohamed Salah,Pass (Live),Jordan Henderson,Pass (Live)
+21,73.0,Sadio Mané,Liverpool,0.06,,Blocked,10.0,Left Foot,,Curtis Jones,Pass (Live),Jordan Henderson,Pass (Live)
+22,79.0,Harry Kane,Tottenham,0.04,,Off Target,19.0,Right Foot,,Toby Alderweireld,Pass (Live),Son Heung-min,Pass (Live)
+23,83.0,Curtis Jones,Liverpool,0.05,,Blocked,16.0,Left Foot,,Sadio Mané,Pass (Live),Andrew Robertson,Pass (Live)
+24,89.0,Eric Dier,Tottenham,0.05,0.02,Saved,31.0,Right Foot,Free kick,Lucas Moura,Fouled,Sergio Reguilón,Pass (Live)
+25,90.0,Roberto Firmino,Liverpool,0.09,0.59,Goal,9.0,Head,,Andrew Robertson,Pass (Dead),,

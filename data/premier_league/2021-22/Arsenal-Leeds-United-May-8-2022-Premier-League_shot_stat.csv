@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Eddie Nketiah,Arsenal,0.26,,Off Target,5.0,Head,,Martin Ødegaard,Pass (Dead),Bukayo Saka,Fouled
+1,5,Eddie Nketiah,Arsenal,0.27,0.98,Goal,3.0,Right Foot,,,,,
+2,8,Bukayo Saka,Arsenal,0.01,,Blocked,27.0,Left Foot,Volley,Cédric Soares,Pass (Dead),,
+3,10,Eddie Nketiah,Arsenal,0.3,0.55,Goal,11.0,Left Foot,,Gabriel Martinelli,Pass (Live),Gabriel Martinelli,Take-On
+4,18,Eddie Nketiah,Arsenal,0.08,,Off Target,4.0,Right Foot,Volley,Gabriel Martinelli,Pass (Live),Gabriel Martinelli,Take-On
+5,23,Cédric Soares,Arsenal,0.05,,Off Target,17.0,Right Foot,,Martin Ødegaard,Take-On,Bukayo Saka,Pass (Live)
+6,24,Bukayo Saka,Arsenal,0.07,0.04,Saved,16.0,Left Foot,,Martin Ødegaard,Pass (Live),Granit Xhaka,Pass (Live)
+7,29,Takehiro Tomiyasu,Arsenal,0.14,,Off Target,3.0,Head,,Gabriel Martinelli,Fouled,Martin Ødegaard,Pass (Live)
+8,38,Gabriel Martinelli,Arsenal,0.06,0.06,Saved,10.0,Left Foot,,Granit Xhaka,Pass (Live),Takehiro Tomiyasu,Pass (Live)
+9,39,Martin Ødegaard,Arsenal,0.04,0.05,Saved,21.0,Left Foot,Free kick,Bukayo Saka,Fouled,Bukayo Saka,Take-On
+10,40,Granit Xhaka,Arsenal,0.03,0.1,Saved,30.0,Left Foot,,Takehiro Tomiyasu,Pass (Live),,
+11,,,,,,,,,,,,,
+12,51,Gabriel Magalhães,Arsenal,0.07,0.05,Saved,17.0,Left Foot,,Takehiro Tomiyasu,Pass (Live),Granit Xhaka,Pass (Dead)
+13,55,Gabriel Martinelli,Arsenal,0.05,0.07,Saved,14.0,Right Foot,,Granit Xhaka,Pass (Live),Martin Ødegaard,Pass (Live)
+14,58,Eddie Nketiah,Arsenal,0.04,,Blocked,13.0,Head,,Martin Ødegaard,Pass (Dead),Gabriel Martinelli,Shot
+15,60,Gabriel Martinelli,Arsenal,0.26,,Off Target,13.0,Left Foot,,Granit Xhaka,Pass (Live),Gabriel Martinelli,Pass (Live)
+16,62,Gabriel Martinelli,Arsenal,0.07,,Off Target,17.0,Right Foot,Volley,Granit Xhaka,Pass (Live),Cédric Soares,Pass (Live)
+17,66,Diego Llorente,Leeds United,0.17,0.34,Goal,4.0,Right Foot,Volley,Junior Firpo,Pass (Live),Kalvin Phillips,Pass (Dead)
+18,75,Martin Ødegaard,Arsenal,0.07,,Off Target,17.0,Left Foot,,Mohamed Elneny,Pass (Live),Takehiro Tomiyasu,Pass (Live)
+19,77,Gabriel Magalhães,Arsenal,0.03,,Off Target,6.0,Head,,Cédric Soares,Pass (Dead),Takehiro Tomiyasu,Pass (Live)
+20,85,Martin Ødegaard,Arsenal,0.09,0.2,Saved,26.0,Left Foot,Free kick,Emile Smith Rowe,Fouled,Emile Smith Rowe,Take-On
+21,90,Kalvin Phillips,Leeds United,0.02,,Blocked,21.0,Right Foot,,Kalvin Phillips,Pass (Live),Rodrigo,Pass (Live)
+22,90+3,Rodrigo,Leeds United,0.12,0.08,Saved,7.0,Head,,Junior Firpo,Pass (Live),Kalvin Phillips,Pass (Dead)

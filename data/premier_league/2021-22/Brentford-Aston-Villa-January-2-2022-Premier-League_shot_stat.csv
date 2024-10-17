@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,John McGinn,Aston Villa,0.01,,Off Target,33.0,Left Foot,Volley,Matty Cash,Pass (Live),,
+1,12,Danny Ings,Aston Villa,0.05,,Blocked,16.0,Left Foot,,Emi Buendía,Pass (Live),Bertrand Traoré,Pass (Live)
+2,16,Danny Ings,Aston Villa,0.14,0.73,Goal,16.0,Left Foot,,Emi Buendía,Pass (Live),Emi Buendía,Take-On
+3,23,Ezri Konsa,Aston Villa,0.07,,Off Target,5.0,Head,,Douglas Luiz,Pass (Dead),Jacob Ramsey,Pass (Live)
+4,28,John McGinn,Aston Villa,0.03,,Off Target,30.0,Left Foot,,Danny Ings,Pass (Live),Bertrand Traoré,Pass (Live)
+5,29,Mathias Jensen,Brentford,0.05,,Off Target,15.0,Right Foot,,Christian Nørgaard,Pass (Live),,
+6,31,Emi Buendía,Aston Villa,0.04,,Blocked,16.0,Right Foot,,John McGinn,Pass (Dead),Emi Buendía,Fouled
+7,33,Yoane Wissa,Brentford,0.04,,Off Target,9.0,Head,,Mathias Jensen,Pass (Live),Mads Bech Sørensen,Pass (Dead)
+8,42,Yoane Wissa,Brentford,0.08,0.41,Goal,21.0,Left Foot,,Mads Roerslev,Pass (Live),Mathias Jensen,Pass (Live)
+9,45+2,Pontus Jansson,Brentford,0.01,,Off Target,14.0,Head,,Mathias Jensen,Pass (Dead),Ivan Toney,Pass (Live)
+10,,,,,,,,,,,,,
+11,49,Mads Roerslev,Brentford,0.01,,Off Target,28.0,Right Foot,Volley,,,,
+12,53,Emi Buendía,Aston Villa,0.02,,Off Target,28.0,Right Foot,,Matt Targett,Pass (Live),Jacob Ramsey,Pass (Live)
+13,56,Ivan Toney,Brentford,0.04,,Off Target,11.0,Head,,Mads Bech Sørensen,Pass (Dead),Christian Nørgaard,Pass (Live)
+14,61,Matt Targett,Aston Villa,0.01,0.08,Saved,14.0,Left Foot,Volley,Douglas Luiz,Pass (Live),Bertrand Traoré,Pass (Live)
+15,63,Danny Ings,Aston Villa,0.04,,Blocked,21.0,Left Foot,,Emi Buendía,Pass (Live),Matt Targett,Pass (Live)
+16,63,Emi Buendía,Aston Villa,0.04,,Off Target,9.0,Head,,Matt Targett,Pass (Dead),Danny Ings,Shot
+17,75,Frank Onyeka,Brentford,0.05,0.41,Saved,22.0,Right Foot,,Ivan Toney,Pass (Live),Ethan Pinnock,Tackle
+18,82,Danny Ings,Aston Villa,0.04,0.06,Saved,12.0,Head,,John McGinn,Pass (Dead),Matty Cash,Fouled
+19,83,Mads Roerslev,Brentford,0.06,0.03,Saved,12.0,Right Foot,Deflected,Shandon Baptiste,Pass (Live),Vitaly Janelt,Pass (Live)
+20,83,Mads Roerslev,Brentford,0.18,0.12,Goal,6.0,Left Foot,,Mads Roerslev,Shot,,
+21,85,Danny Ings,Aston Villa,0.18,0.1,Saved,11.0,Right Foot,,John McGinn,Pass (Live),Douglas Luiz,Pass (Live)
+22,90,Trézéguet,Aston Villa,0.05,,Blocked,22.0,Right Foot,,Emi Buendía,Pass (Live),Morgan Sanson,Pass (Live)
+23,90,Emi Buendía,Aston Villa,0.03,,Blocked,22.0,Right Foot,,Danny Ings,Pass (Live),Trézéguet,Shot
+24,90,Matt Targett,Aston Villa,0.04,,Off Target,9.0,Head,,John McGinn,Pass (Live),Matty Cash,Pass (Live)
+25,90+2,Emi Buendía,Aston Villa,0.04,0.38,Saved,12.0,Head,,Kortney Hause,Pass (Live),Ezri Konsa,Pass (Live)
+26,90+5,Ivan Toney,Brentford,0.06,,Off Target,41.0,Left Foot,,,,,

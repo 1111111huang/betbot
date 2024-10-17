@@ -1,0 +1,38 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Luis Díaz,Liverpool,0.06,,Blocked,18.0,Right Foot,,Mohamed Salah,Pass (Live),Virgil van Dijk,Pass (Live)
+1,4,Alexis Mac Allister,Liverpool,0.04,,Off Target,21.0,Left Foot,Volley,Andrew Robertson,Pass (Dead),Luis Díaz,Shot
+2,8,Dejan Kulusevski,Tottenham,0.03,,Blocked,18.0,Left Foot,,Pedro Porro,Pass (Live),James Maddison,Pass (Live)
+3,13,Cody Gakpo,Liverpool,0.11,0.19,Saved,10.0,Left Foot,,Andrew Robertson,Pass (Live),Luis Díaz,Pass (Live)
+4,13,Andrew Robertson,Liverpool,0.05,0.03,Saved,9.0,Left Foot,Volley,Cody Gakpo,Shot,,
+5,19,Curtis Jones,Liverpool,0.06,,Blocked,15.0,Left Foot,Deflected,Dominik Szoboszlai,Pass (Live),Mohamed Salah,Pass (Live)
+6,20,Joël Matip,Liverpool,0.02,,Off Target,10.0,Other,,Andrew Robertson,Pass (Dead),Curtis Jones,Shot
+7,22,Mohamed Salah,Liverpool,0.03,,Off Target,25.0,Left Foot,,Cody Gakpo,Pass (Live),Luis Díaz,Pass (Live)
+8,29,Dejan Kulusevski,Tottenham,0.04,,Blocked,11.0,Left Foot,,Dejan Kulusevski,Take-On,James Maddison,Pass (Live)
+9,30,James Maddison,Tottenham,0.03,0.14,Saved,25.0,Left Foot,,Pedro Porro,Pass (Live),James Maddison,Pass (Live)
+10,33,Richarlison,Tottenham,0.11,,Off Target,13.0,Left Foot,,Dejan Kulusevski,Pass (Live),James Maddison,Pass (Live)
+11,36,Son Heung-min,Tottenham,0.7,0.47,Goal,8.0,Right Foot,,Richarlison,Pass (Live),James Maddison,Pass (Live)
+12,39,Cody Gakpo,Liverpool,0.02,,Blocked,10.0,Head,,Andrew Robertson,Pass (Dead),,
+13,41,Richarlison,Tottenham,0.07,0.18,Saved,10.0,Left Foot,,Cristian Romero,Pass (Live),Cristian Romero,Interception
+14,45+1,Son Heung-min,Tottenham,0.03,0.34,Saved,28.0,Right Foot,,Dejan Kulusevski,Pass (Live),,
+15,45+3,Pape Matar Sarr,Tottenham,0.02,,Off Target,31.0,Right Foot,,Destiny Udogie,Pass (Live),James Maddison,Pass (Live)
+16,45+4,Cody Gakpo,Liverpool,0.29,0.07,Goal,9.0,Right Foot,,Virgil van Dijk,Pass (Live),Dominik Szoboszlai,Pass (Live)
+17,45+7,Cristian Romero,Tottenham,0.04,,Blocked,22.0,Right Foot,,Dejan Kulusevski,Pass (Live),Cristian Romero,Pass (Live)
+18,45+8,Luis Díaz,Liverpool,0.6,,Off Target,8.0,Right Foot,,Mohamed Salah,Pass (Live),Joël Matip,Pass (Live)
+19,,,,,,,,,,,,,
+20,48,Son Heung-min,Tottenham,0.04,,Blocked,23.0,Right Foot,,Richarlison,Pass (Live),Richarlison,Take-On
+21,49,Richarlison,Tottenham,0.05,,Blocked,22.0,Right Foot,,James Maddison,Pass (Live),Pape Matar Sarr,Pass (Live)
+22,49,James Maddison,Tottenham,0.02,0.53,Saved,21.0,Left Foot,,Cristian Romero,Pass (Live),James Maddison,Pass (Live)
+23,51,Son Heung-min,Tottenham,0.11,0.43,Saved,17.0,Right Foot,Volley,Destiny Udogie,Pass (Live),Cristian Romero,Pass (Live)
+24,52,Cristian Romero,Tottenham,0.07,,Blocked,9.0,Head,,James Maddison,Pass (Dead),Son Heung-min,Shot
+25,58,Pape Matar Sarr,Tottenham,0.05,0.04,Saved,30.0,Left Foot,,Destiny Udogie,Pass (Live),Son Heung-min,Pass (Live)
+26,61,Yves Bissouma,Tottenham,0.05,,Blocked,22.0,Right Foot,,Dejan Kulusevski,Pass (Live),Son Heung-min,Pass (Live)
+27,73,James Maddison,Tottenham,0.03,,Blocked,23.0,Right Foot,,Manor Solomon,Pass (Live),James Maddison,Pass (Live)
+28,75,Virgil van Dijk,Liverpool,0.04,,Off Target,11.0,Head,,Trent Alexander-Arnold,Pass (Dead),Dominik Szoboszlai,Pass (Live)
+29,78,Dominik Szoboszlai,Liverpool,0.01,0.04,Saved,32.0,Right Foot,,Andrew Robertson,Pass (Live),Wataru Endo,Pass (Live)
+30,79,Pedro Porro,Tottenham,0.04,,Blocked,22.0,Left Foot,,James Maddison,Pass (Live),Manor Solomon,Pass (Live)
+31,80,Richarlison,Tottenham,0.46,,Off Target,10.0,Right Foot,,Manor Solomon,Shot,,
+32,80,Manor Solomon,Tottenham,0.02,,Blocked,20.0,Right Foot,,James Maddison,Pass (Live),Cristian Romero,Pass (Live)
+33,86,Yves Bissouma,Tottenham,0.06,,Off Target,24.0,Right Foot,Deflected,Manor Solomon,Pass (Live),James Maddison,Pass (Live)
+34,89,James Maddison,Tottenham,0.07,,Blocked,25.0,Right Foot,,Dejan Kulusevski,Pass (Live),James Maddison,Pass (Live)
+35,90+2,Richarlison,Tottenham,0.09,0.09,Saved,9.0,Head,,Pedro Porro,Pass (Live),Pierre Højbjerg,Pass (Live)
+36,90+4,Pierre Højbjerg,Tottenham,0.01,,Blocked,31.0,Right Foot,,Manor Solomon,Pass (Live),Pierre Højbjerg,Pass (Live)

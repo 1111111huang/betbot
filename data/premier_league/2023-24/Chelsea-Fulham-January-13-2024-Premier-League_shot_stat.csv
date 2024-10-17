@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,12,Enzo Fernández,Chelsea,0.13,,Blocked,18.0,Right Foot,,Conor Gallagher,Pass (Live),,
+1,13,Raheem Sterling,Chelsea,0.02,,Blocked,18.0,Right Foot,,Enzo Fernández,Pass (Live),Thiago Silva,Pass (Live)
+2,15,Conor Gallagher,Chelsea,0.09,,Off Target,21.0,Left Foot,,Cole Palmer,Pass (Live),Enzo Fernández,Pass (Live)
+3,21,Armando Broja,Chelsea,0.05,,Off Target,11.0,Head,,Enzo Fernández,Pass (Live),Raheem Sterling,Pass (Live)
+4,26,Andreas Pereira,Fulham,0.03,0.54,Saved,26.0,Right Foot,,Harry Wilson,Pass (Live),Harry Wilson,Tackle
+5,27,Harry Wilson,Fulham,0.09,0.11,Saved,9.0,Right Foot,,Antonee Robinson,Pass (Live),Willian,Pass (Live)
+6,29,Conor Gallagher,Chelsea,0.05,,Blocked,21.0,Right Foot,,Armando Broja,Pass (Live),Enzo Fernández,Pass (Live)
+7,29,Cole Palmer,Chelsea,0.02,0.07,Saved,25.0,Left Foot,,Moisés Caicedo,Pass (Live),Conor Gallagher,Pass (Live)
+8,31,Raheem Sterling,Chelsea,0.03,,Blocked,13.0,Right Foot,,Levi Colwill,Pass (Live),Thiago Silva,Pass (Live)
+9,37,Tom Cairney,Fulham,0.03,,Off Target,30.0,Left Foot,,Willian,Pass (Live),Harry Wilson,Pass (Dead)
+10,43,Enzo Fernández,Chelsea,0.03,,Off Target,31.0,Right Foot,,Malo Gusto,Pass (Live),,
+11,44,Tosin Adarabioyo,Fulham,0.01,,Off Target,15.0,Head,,Andreas Pereira,Pass (Dead),Willian,Pass (Live)
+12,44,Harry Wilson,Fulham,0.02,,Blocked,24.0,Left Foot,Volley,Tosin Adarabioyo,Shot,,
+13,45+4,Cole Palmer (pen),Chelsea,0.79,0.99,Goal,13.0,Left Foot,,Raheem Sterling,Fouled,Cole Palmer,Pass (Live)
+14,,,,,,,,,,,,,
+15,51,Cole Palmer,Chelsea,0.04,,Off Target,23.0,Left Foot,,Malo Gusto,Pass (Live),Cole Palmer,Pass (Live)
+16,53,Raheem Sterling,Chelsea,0.36,,Woodwork,8.0,Head,,Enzo Fernández,Pass (Live),Armando Broja,Pass (Live)
+17,53,Malo Gusto,Chelsea,0.02,,Off Target,10.0,Right Foot,Volley,Raheem Sterling,Shot,,
+18,54,Willian,Fulham,0.03,,Blocked,20.0,Right Foot,,Andreas Pereira,Pass (Live),,
+19,55,Raúl Jiménez,Fulham,0.09,,Off Target,12.0,Head,,Antonee Robinson,Pass (Live),Willian,Pass (Live)
+20,56,Armando Broja,Chelsea,0.24,,Blocked,7.0,Right Foot,,Malo Gusto,Pass (Live),Conor Gallagher,Pass (Live)
+21,69,Levi Colwill,Chelsea,0.1,,Off Target,19.0,Right Foot,,,,,
+22,73,Raúl Jiménez,Fulham,0.15,0.22,Saved,13.0,Left Foot,,Andreas Pereira,Pass (Live),Antonee Robinson,Pass (Live)
+23,74,Raúl Jiménez,Fulham,0.03,0.12,Saved,16.0,Right Foot,,Willian,Pass (Live),Andreas Pereira,Pass (Live)
+24,76,Andreas Pereira,Fulham,0.07,,Off Target,29.0,Right Foot,Free kick,Andreas Pereira,Fouled,Tosin Adarabioyo,Pass (Live)
+25,79,Axel Disasi,Chelsea,0.1,,Off Target,8.0,Head,,Ben Chilwell,Pass (Dead),,
+26,82,Raúl Jiménez,Fulham,0.02,,Off Target,61.0,Right Foot,,,,,
+27,83,Conor Gallagher,Chelsea,0.07,,Woodwork,16.0,Right Foot,,Malo Gusto,Pass (Dead),Conor Gallagher,Fouled
+28,86,Willian,Fulham,0.16,,Off Target,22.0,Right Foot,Free kick,Rodrigo Muniz,Fouled,Antonee Robinson,Pass (Live)
+29,90+1,Noni Madueke,Chelsea,0.06,0.13,Saved,19.0,Left Foot,,Conor Gallagher,Pass (Live),Cole Palmer,Pass (Live)
+30,90+5,Bobby Reid,Fulham,0.06,,Blocked,11.0,Right Foot,Volley,Rodrigo Muniz,Pass (Live),Willian,Pass (Dead)
+31,90+5,Tom Cairney,Fulham,0.07,,Blocked,19.0,Left Foot,,Bobby Reid,Shot,,

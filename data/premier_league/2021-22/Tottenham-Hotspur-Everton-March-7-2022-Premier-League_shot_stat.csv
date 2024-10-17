@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,17,Son Heung-min,Tottenham,0.12,0.3,Goal,16.0,Right Foot,,Dejan Kulusevski,Pass (Live),Harry Kane,Pass (Live)
+1,28,Son Heung-min,Tottenham,0.41,0.42,Saved,17.0,Right Foot,,Matt Doherty,Pass (Live),Pierre Højbjerg,Pass (Live)
+2,28,Harry Kane,Tottenham,0.14,,Off Target,16.0,Left Foot,Volley,Son Heung-min,Shot,,
+3,34,Matt Doherty,Tottenham,0.13,0.04,Saved,9.0,Right Foot,,Son Heung-min,Pass (Live),,
+4,35,Harry Kane,Tottenham,0.08,,Blocked,4.0,Right Foot,,Son Heung-min,Pass (Live),Rodrigo Bentancur,Pass (Live)
+5,37,Harry Kane,Tottenham,0.48,0.66,Goal,21.0,Right Foot,,Matt Doherty,Pass (Live),Hugo Lloris,Pass (Live)
+6,43,Dominic Calvert-Lewin,Everton,0.03,,Blocked,12.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Séamus Coleman,Pass (Live)
+7,,,,,,,,,,,,,
+8,46,Sergio Reguilón,Tottenham,0.44,0.68,Goal,10.0,Left Foot,,Dejan Kulusevski,Pass (Live),Son Heung-min,Pass (Live)
+9,50,Richarlison,Everton,0.02,,Blocked,21.0,Right Foot,,Donny van de Beek,Pass (Live),Anthony Gordon,Pass (Live)
+10,51,Anthony Gordon,Everton,0.06,,Blocked,28.0,Right Foot,Free kick,Dominic Calvert-Lewin,Fouled,Allan,Pass (Live)
+11,52,Dominic Calvert-Lewin,Everton,0.03,,Blocked,26.0,Right Foot,,Anthony Gordon,Pass (Live),Séamus Coleman,Pass (Live)
+12,53,Dominic Calvert-Lewin,Everton,0.04,,Off Target,17.0,Right Foot,,Dominic Calvert-Lewin,Take-On,Anthony Gordon,Pass (Live)
+13,54,Dejan Kulusevski,Tottenham,0.02,,Blocked,19.0,Left Foot,,Matt Doherty,Pass (Live),Pierre Højbjerg,Pass (Live)
+14,55,Eric Dier,Tottenham,0.4,,Woodwork,5.0,Head,,Harry Kane,Pass (Live),Dejan Kulusevski,Pass (Live)
+15,55,Harry Kane,Tottenham,0.18,0.62,Goal,10.0,Left Foot,Volley,Matt Doherty,Pass (Live),Rodrigo Bentancur,Pass (Live)
+16,65,Dejan Kulusevski,Tottenham,0.02,,Off Target,25.0,Left Foot,,Sergio Reguilón,Pass (Live),Ben Davies,Pass (Live)
+17,68,Steven Bergwijn,Tottenham,0.13,0.39,Saved,10.0,Right Foot,Volley,Dejan Kulusevski,Pass (Live),Pierre Højbjerg,Pass (Live)
+18,84,Davinson Sánchez,Tottenham,0.11,,Off Target,9.0,Head,,Sergio Reguilón,Pass (Dead),Sergio Reguilón,Fouled
+19,89,Steven Bergwijn,Tottenham,0.04,,Off Target,19.0,Right Foot,,Pierre Højbjerg,Pass (Live),Davinson Sánchez,Pass (Live)
+20,90+3,Allan,Everton,0.03,,Off Target,31.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Dele Alli,Pass (Live)

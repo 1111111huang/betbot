@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,David Silva,Manchester City,0.74,0.95,Goal,3.0,Left Foot,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+1,4,Gerard Deulofeu,Watford,0.14,0.03,Saved,12.0,Right Foot,,Gerard Deulofeu,Take-On,Étienne Capoue,Pass (Live)
+2,7,Sergio Agüero (pen),Manchester City,0.79,0.97,Goal,13.0,Right Foot,,Riyad Mahrez,Fouled,Kevin De Bruyne,Take-On
+3,12,Riyad Mahrez,Manchester City,0.15,0.06,Goal,21.0,Left Foot,"Free kick, Deflected",Riyad Mahrez,Fouled,Riyad Mahrez,Take-On
+4,15,Nicolás Otamendi,Manchester City,0.04,,Blocked,10.0,Head,,Kevin De Bruyne,Pass (Dead),,
+5,15,Bernardo Silva,Manchester City,0.29,0.39,Goal,5.0,Head,,Nicolás Otamendi,Shot,,
+6,18,Nicolás Otamendi,Manchester City,0.53,0.71,Goal,3.0,Right Foot,,Sergio Agüero,Pass (Live),David Silva,Pass (Dead)
+7,22,David Silva,Manchester City,0.19,,Blocked,4.0,Left Foot,Volley,Kevin De Bruyne,Pass (Dead),David Silva,Pass (Live)
+8,25,Sergio Agüero,Manchester City,0.31,,Off Target,15.0,Right Foot,,Kevin De Bruyne,Pass (Live),David Silva,Pass (Live)
+9,27,Gerard Deulofeu,Watford,0.05,0.03,Saved,31.0,Right Foot,Free kick,Tom Cleverley,Fouled,Abdoulaye Doucouré,Pass (Live)
+10,27,Sergio Agüero,Manchester City,0.14,,Woodwork,11.0,Right Foot,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+11,28,Kevin De Bruyne,Manchester City,0.04,,Off Target,17.0,Left Foot,,Riyad Mahrez,Pass (Live),,
+12,30,David Silva,Manchester City,0.05,,Blocked,21.0,Left Foot,,Sergio Agüero,Pass (Live),Kyle Walker,Interception
+13,44,Sergio Agüero,Manchester City,0.04,,Woodwork,5.0,Head,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+14,44,Bernardo Silva,Manchester City,0.06,,Off Target,11.0,Head,,Riyad Mahrez,Pass (Live),Rodri,Pass (Live)
+15,45+2,Riyad Mahrez,Manchester City,0.05,0.03,Saved,16.0,Left Foot,Deflected,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+16,,,,,,,,,,,,,
+17,46,Kyle Walker,Manchester City,0.02,,Off Target,33.0,Right Foot,,Rodri,Pass (Live),Sergio Agüero,Pass (Live)
+18,48,Bernardo Silva,Manchester City,0.17,0.59,Goal,8.0,Left Foot,,Bernardo Silva,Take-On,Bernardo Silva,Pass (Live)
+19,54,Kevin De Bruyne,Manchester City,0.05,,Off Target,31.0,Right Foot,Free kick,David Silva,Fouled,Rodri,Pass (Live)
+20,57,Sergio Agüero,Manchester City,0.36,,Off Target,9.0,Right Foot,,Riyad Mahrez,Pass (Live),David Silva,Pass (Live)
+21,58,Sergio Agüero,Manchester City,0.4,,Off Target,8.0,Right Foot,,Angeliño,Pass (Live),David Silva,Pass (Live)
+22,60,Bernardo Silva,Manchester City,0.64,0.84,Goal,4.0,Left Foot,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+23,62,David Silva,Manchester City,0.06,,Off Target,15.0,Left Foot,,Bernardo Silva,Pass (Live),Angeliño,Pass (Live)
+24,66,Riyad Mahrez,Manchester City,0.22,,Woodwork,9.0,Head,,Angeliño,Pass (Live),David Silva,Pass (Live)
+25,72,Gerard Deulofeu,Watford,0.05,0.02,Saved,11.0,Left Foot,,Tom Cleverley,Pass (Live),Ismaila Sarr,Pass (Live)
+26,77,Rodri,Manchester City,0.03,,Off Target,28.0,Left Foot,,Eric García,Pass (Live),David Silva,Pass (Live)
+27,81,Rodri,Manchester City,0.02,0.04,Saved,24.0,Right Foot,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Dead)
+28,85,Kevin De Bruyne,Manchester City,0.04,0.15,Goal,18.0,Right Foot,,Riyad Mahrez,Pass (Live),Sergio Agüero,Pass (Live)
+29,88,Kevin De Bruyne,Manchester City,0.37,,Off Target,15.0,Right Foot,,Kevin De Bruyne,Take-On,Kevin De Bruyne,Take-On
+30,89,Tom Cleverley,Watford,0.05,,Blocked,15.0,Right Foot,,Andre Gray,Pass (Live),José Holebas,Pass (Dead)
+31,90+1,Andre Gray,Watford,0.12,0.11,Saved,6.0,Head,,José Holebas,Pass (Dead),,
+32,90+2,Riyad Mahrez,Manchester City,0.03,,Blocked,23.0,Left Foot,,David Silva,Pass (Live),Riyad Mahrez,Pass (Live)
+33,90+3,Bernardo Silva,Manchester City,0.04,0.27,Saved,22.0,Left Foot,,Kevin De Bruyne,Pass (Live),João Cancelo,Pass (Live)

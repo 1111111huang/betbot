@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,James Milner,Liverpool,0.03,,Off Target,27.0,Right Foot,Volley,Thiago Alcántara,Pass (Live),Roberto Firmino,Take-On
+1,14,Fabinho,Liverpool,0.02,,Off Target,31.0,Right Foot,,,,,
+2,27,Sadio Mané,Liverpool,0.06,0.27,Saved,11.0,Head,Deflected,James Milner,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+3,27,Trent Alexander-Arnold,Liverpool,0.04,,Blocked,23.0,Left Foot,Volley,Fabinho,Take-On,Fabinho,Interception
+4,30,Roberto Firmino,Liverpool,0.05,,Off Target,23.0,Right Foot,,Roberto Firmino,Take-On,Andrew Robertson,Tackle
+5,33,Nicolas Pépé,Arsenal,0.07,0.1,Saved,4.0,Head,,Pierre-Emerick Aubameyang,Pass (Live),Kieran Tierney,Pass (Live)
+6,35,James Milner,Liverpool,0.09,,Off Target,17.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Roberto Firmino,Pass (Live)
+7,,,,,,,,,,,,,
+8,52,Mohamed Salah,Liverpool,0.03,,Blocked,31.0,Left Foot,,Thiago Alcántara,Pass (Live),Fabinho,Pass (Live)
+9,52,Mohamed Salah,Liverpool,0.06,,Blocked,14.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Thiago Alcántara,Pass (Live)
+10,61,Cédric Soares,Arsenal,0.03,0.51,Saved,20.0,Right Foot,,Pierre-Emerick Aubameyang,Pass (Live),Cédric Soares,Pass (Live)
+11,64,Diogo Jota,Liverpool,0.38,0.84,Goal,6.0,Head,,Trent Alexander-Arnold,Pass (Live),Mohamed Salah,Pass (Live)
+12,68,Mohamed Salah,Liverpool,0.35,0.65,Goal,7.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Trent Alexander-Arnold,Take-On
+13,71,Mohamed Salah,Liverpool,0.03,,Off Target,25.0,Left Foot,,,,,
+14,73,Mohamed Salah,Liverpool,0.31,0.38,Saved,15.0,Left Foot,Volley,Roberto Firmino,Pass (Live),James Milner,Pass (Live)
+15,81,Georginio Wijnaldum,Liverpool,0.03,0.02,Saved,28.0,Right Foot,,Diogo Jota,Pass (Live),Ozan Kabak,Pass (Live)
+16,82,Diogo Jota,Liverpool,0.46,0.49,Goal,9.0,Right Foot,,Sadio Mané,Pass (Live),Mohamed Salah,Pass (Live)
+17,88,Thomas Partey,Arsenal,0.01,,Blocked,33.0,Right Foot,,Nicolas Pépé,Take-On,Martin Ødegaard,Pass (Live)
+18,90+2,Sadio Mané,Liverpool,0.13,,Off Target,9.0,Head,,Trent Alexander-Arnold,Pass (Dead),Diogo Jota,Fouled
+19,90+4,Sadio Mané,Liverpool,0.31,0.17,Saved,15.0,Right Foot,,Mohamed Salah,Pass (Live),Alisson,Pass (Live)

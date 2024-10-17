@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Bukayo Saka,Arsenal,0.02,,Blocked,29.0,Left Foot,,,,,
+1,12,Julio Enciso,Brighton,0.04,0.3,Saved,14.0,Left Foot,,Pascal Groß,Pass (Live),Jason Steele,Pass (Live)
+2,16,Martin Ødegaard,Arsenal,0.03,,Off Target,31.0,Left Foot,,Gabriel Jesus,Pass (Live),Bukayo Saka,Pass (Live)
+3,24,Gabriel Jesus,Arsenal,0.04,0.22,Saved,9.0,Right Foot,,Martin Ødegaard,Pass (Live),Granit Xhaka,Pass (Live)
+4,31,Leandro Trossard,Arsenal,0.06,,Woodwork,14.0,Right Foot,,Granit Xhaka,Pass (Live),Martin Ødegaard,Pass (Live)
+5,35,Granit Xhaka,Arsenal,0.1,,Off Target,9.0,Head,,Leandro Trossard,Pass (Dead),Bukayo Saka,Fouled
+6,37,Julio Enciso,Brighton,0.24,,Off Target,11.0,Left Foot,,Kaoru Mitoma,Take-On,Levi Colwill,Pass (Live)
+7,44,Evan Ferguson,Brighton,0.04,,Off Target,21.0,Right Foot,,Levi Colwill,Pass (Live),Kaoru Mitoma,Pass (Live)
+8,45+1,Gabriel Magalhães,Arsenal,0.11,,Off Target,4.0,Head,,Leandro Trossard,Pass (Live),Bukayo Saka,Pass (Live)
+9,45+2,Bukayo Saka,Arsenal,0.08,,Off Target,16.0,Left Foot,,,,,
+10,45+4,Martin Ødegaard,Arsenal,0.06,,Off Target,18.0,Left Foot,,Granit Xhaka,Pass (Live),,
+11,,,,,,,,,,,,,
+12,46,Gabriel Jesus,Arsenal,0.04,,Blocked,23.0,Right Foot,,Bukayo Saka,Pass (Live),Aaron Ramsdale,Pass (Live)
+13,51,Julio Enciso,Brighton,0.63,0.77,Goal,5.0,Head,,Pervis Estupiñán,Pass (Live),Kaoru Mitoma,Pass (Live)
+14,63,Reiss Nelson,Arsenal,0.05,,Off Target,19.0,Right Foot,,Gabriel Jesus,Pass (Live),Bukayo Saka,Pass (Live)
+15,67,Danny Welbeck,Brighton,0.02,,Off Target,28.0,Right Foot,,Julio Enciso,Pass (Live),Danny Welbeck,Pass (Live)
+16,68,Pervis Estupiñán,Brighton,0.06,,Off Target,17.0,Right Foot,,Kaoru Mitoma,Take-On,Danny Welbeck,Pass (Live)
+17,71,Leandro Trossard,Arsenal,0.1,0.03,Saved,15.0,Right Foot,,Martin Ødegaard,Pass (Live),Thomas Partey,Pass (Live)
+18,76,Alexis Mac Allister,Brighton,0.02,,Off Target,28.0,Right Foot,,Danny Welbeck,Pass (Live),Julio Enciso,Pass (Live)
+19,83,Reiss Nelson,Arsenal,0.02,,Blocked,13.0,Left Foot,,Reiss Nelson,Take-On,Eddie Nketiah,Pass (Live)
+20,84,Gabriel Magalhães,Arsenal,0.16,,Off Target,12.0,Right Foot,,Thomas Partey,Pass (Live),Emile Smith Rowe,Pass (Live)
+21,85,Deniz Undav,Brighton,0.05,0.04,Saved,22.0,Right Foot,,,,,
+22,86,Deniz Undav,Brighton,0.31,0.17,Goal,16.0,Left Foot,,,,,
+23,90+1,Kaoru Mitoma,Brighton,0.11,,Blocked,18.0,Right Foot,,Deniz Undav,Pass (Live),Danny Welbeck,Pass (Live)
+24,90+3,Reiss Nelson,Arsenal,0.03,,Blocked,19.0,Right Foot,,Thomas Partey,Pass (Live),Leandro Trossard,Pass (Live)
+25,90+6,Deniz Undav,Brighton,0.04,0.17,Saved,30.0,Right Foot,,Danny Welbeck,Pass (Live),Danny Welbeck,Take-On
+26,90+6,Pervis Estupiñán,Brighton,0.16,0.47,Goal,10.0,Left Foot,,Deniz Undav,Shot,,

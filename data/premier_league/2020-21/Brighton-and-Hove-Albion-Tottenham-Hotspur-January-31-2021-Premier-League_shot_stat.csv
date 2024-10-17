@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Pascal Groß,Brighton,0.11,,Woodwork,12.0,Right Foot,,Alexis Mac Allister,Pass (Live),Neal Maupay,Pass (Live)
+1,12,Alexis Mac Allister,Brighton,0.02,,Off Target,28.0,Right Foot,,Solly March,Pass (Live),Alexis Mac Allister,Pass (Live)
+2,17,Leandro Trossard,Brighton,0.14,0.4,Goal,10.0,Right Foot,,Pascal Groß,Pass (Live),Alexis Mac Allister,Pass (Live)
+3,20,Alexis Mac Allister,Brighton,0.08,,Off Target,10.0,Right Foot,Volley,Lewis Dunk,Pass (Live),Pascal Groß,Pass (Live)
+4,21,Alexis Mac Allister,Brighton,0.01,,Off Target,30.0,Right Foot,,Ben White,Pass (Live),Leandro Trossard,Pass (Live)
+5,30,Steven Bergwijn,Tottenham,0.04,,Off Target,22.0,Right Foot,,Son Heung-min,Pass (Live),Gareth Bale,Pass (Live)
+6,37,Alexis Mac Allister,Brighton,0.03,,Blocked,25.0,Right Foot,,Joël Veltman,Pass (Live),Alexis Mac Allister,Pass (Live)
+7,37,Lewis Dunk,Brighton,0.04,,Blocked,13.0,Head,,Pascal Groß,Pass (Dead),Alexis Mac Allister,Shot
+8,40,Solly March,Brighton,0.05,,Blocked,16.0,Right Foot,,Alexis Mac Allister,Pass (Live),Leandro Trossard,Pass (Live)
+9,45+1,Alexis Mac Allister,Brighton,0.05,,Off Target,22.0,Right Foot,,Neal Maupay,Pass (Live),Neal Maupay,Take-On
+10,,,,,,,,,,,,,
+11,51,Son Heung-min,Tottenham,0.04,,Blocked,20.0,Right Foot,,Moussa Sissoko,Pass (Live),Tanguy Ndombele,Pass (Live)
+12,53,Carlos Vinícius,Tottenham,0.06,0.06,Saved,5.0,Head,,Gareth Bale,Pass (Dead),Pierre Højbjerg,Pass (Live)
+13,56,Joël Veltman,Brighton,0.08,,Off Target,7.0,Head,,Pascal Groß,Pass (Dead),,
+14,56,Ben White,Brighton,0.09,0.07,Saved,11.0,Right Foot,Deflected,Pascal Groß,Pass (Live),Joël Veltman,Shot
+15,58,Solly March,Brighton,0.05,,Blocked,13.0,Left Foot,,Leandro Trossard,Pass (Live),Solly March,Pass (Live)
+16,64,Alexis Mac Allister,Brighton,0.1,,Blocked,13.0,Left Foot,,Neal Maupay,Pass (Live),Pascal Groß,Pass (Live)
+17,68,Alexis Mac Allister,Brighton,0.05,0.03,Saved,23.0,Right Foot,Deflected,Leandro Trossard,Pass (Live),Pascal Groß,Pass (Live)
+18,73,Neal Maupay,Brighton,0.14,,Off Target,5.0,Head,,Solly March,Pass (Live),Leandro Trossard,Pass (Live)
+19,75,Son Heung-min,Tottenham,0.03,0.08,Saved,30.0,Right Foot,,Son Heung-min,Take-On,Steven Bergwijn,Pass (Live)
+20,75,Carlos Vinícius,Tottenham,0.05,0.33,Saved,18.0,Left Foot,,Ben Davies,Pass (Live),Steven Bergwijn,Pass (Live)
+21,84,Lucas Moura,Tottenham,0.06,,Blocked,17.0,Right Foot,,Carlos Vinícius,Pass (Live),Érik Lamela,Pass (Live)
+22,84,Aaron Connolly,Brighton,0.56,,Blocked,9.0,Right Foot,,Pascal Groß,Pass (Live),Alexis Mac Allister,Pass (Live)
+23,87,Érik Lamela,Tottenham,0.05,0.1,Saved,35.0,Left Foot,Free kick,Son Heung-min,Fouled,Érik Lamela,Pass (Live)
+24,90+1,Érik Lamela,Tottenham,0.05,,Blocked,23.0,Left Foot,,Son Heung-min,Pass (Live),Carlos Vinícius,Pass (Live)

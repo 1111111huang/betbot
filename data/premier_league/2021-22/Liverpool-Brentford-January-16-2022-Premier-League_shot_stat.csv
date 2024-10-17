@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Diogo Jota,Liverpool,0.2,0.53,Saved,4.0,Left Foot,,Andrew Robertson,Pass (Live),Curtis Jones,Pass (Live)
+1,10,Diogo Jota,Liverpool,0.1,,Blocked,14.0,Right Foot,,,,,
+2,11,Diogo Jota,Liverpool,0.05,,Off Target,11.0,Head,,Alex Oxlade-Chamberlain,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+3,12,Trent Alexander-Arnold,Liverpool,0.06,,Blocked,14.0,Left Foot,,Trent Alexander-Arnold,Take-On,Alex Oxlade-Chamberlain,Pass (Live)
+4,14,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,24.0,Right Foot,,Alex Oxlade-Chamberlain,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+5,20,Joël Matip,Liverpool,0.1,,Off Target,5.0,Head,,Diogo Jota,Fouled,Andrew Robertson,Pass (Live)
+6,22,Virgil van Dijk,Liverpool,0.06,0.13,Saved,10.0,Left Foot,,Roberto Firmino,Pass (Live),Diogo Jota,Pass (Live)
+7,24,Roberto Firmino,Liverpool,0.02,,Off Target,31.0,Right Foot,,,,,
+8,26,Virgil van Dijk,Liverpool,0.04,0.05,Saved,12.0,Head,,Trent Alexander-Arnold,Pass (Dead),Trent Alexander-Arnold,Pass (Live)
+9,33,Vitaly Janelt,Brentford,0.01,,Off Target,34.0,Left Foot,,Mads Roerslev,Pass (Live),Christian Nørgaard,Pass (Live)
+10,39,Ivan Toney,Brentford,0.01,,Off Target,36.0,Right Foot,,,,,
+11,41,Joël Matip,Liverpool,0.06,0.02,Saved,18.0,Left Foot,Deflected,Jordan Henderson,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+12,43,Diogo Jota,Liverpool,0.05,,Blocked,18.0,Left Foot,,Roberto Firmino,Pass (Live),Alex Oxlade-Chamberlain,Pass (Live)
+13,44,Fabinho,Liverpool,0.2,0.63,Goal,4.0,Head,,Trent Alexander-Arnold,Pass (Dead),Jordan Henderson,Pass (Live)
+14,,,,,,,,,,,,,
+15,46,Trent Alexander-Arnold,Liverpool,0.02,,Off Target,31.0,Right Foot,,Roberto Firmino,Fouled,Curtis Jones,Tackle
+16,50,Fabinho,Liverpool,0.02,0.03,Saved,31.0,Right Foot,,,,,
+17,52,Curtis Jones,Liverpool,0.03,0.05,Saved,22.0,Right Foot,,Curtis Jones,Take-On,Fabinho,Pass (Live)
+18,56,Joël Matip,Liverpool,0.08,,Blocked,8.0,Head,,Andrew Robertson,Pass (Dead),,
+19,58,Bryan Mbeumo,Brentford,0.27,,Off Target,15.0,Left Foot,,Bryan Mbeumo,Take-On,Christian Nørgaard,Pass (Live)
+20,59,Alex Oxlade-Chamberlain,Liverpool,0.03,,Off Target,13.0,Right Foot,Volley,Andrew Robertson,Pass (Live),,
+21,62,Diogo Jota,Liverpool,0.06,,Woodwork,13.0,Right Foot,,Andrew Robertson,Pass (Live),Fabinho,Interception
+22,62,Roberto Firmino,Liverpool,0.04,0.13,Saved,13.0,Right Foot,,Diogo Jota,Shot,,
+23,67,Diogo Jota,Liverpool,0.42,0.26,Saved,12.0,Left Foot,,Roberto Firmino,Pass (Live),Andrew Robertson,Pass (Live)
+24,69,Alex Oxlade-Chamberlain,Liverpool,0.16,0.35,Goal,9.0,Head,,Virgil van Dijk,Pass (Live),Jordan Henderson,Pass (Live)
+25,71,Ivan Toney,Brentford,0.07,,Blocked,15.0,Right Foot,,Kristoffer Ajer,Pass (Live),Bryan Mbeumo,Pass (Live)
+26,74,Andrew Robertson,Liverpool,0.04,,Blocked,16.0,Left Foot,,Fabinho,Pass (Live),,
+27,76,Trent Alexander-Arnold,Liverpool,0.02,,Off Target,33.0,Right Foot,,Fabinho,Pass (Live),Andrew Robertson,Pass (Live)
+28,77,Takumi Minamino,Liverpool,0.37,0.83,Goal,10.0,Right Foot,,Roberto Firmino,Pass (Live),Takumi Minamino,Pass (Live)
+29,85,Curtis Jones,Liverpool,0.02,0.03,Saved,34.0,Right Foot,Volley,Fabinho,Pass (Live),,
+30,88,Kaide Gordon,Liverpool,0.45,0.68,Saved,20.0,Right Foot,,Takumi Minamino,Pass (Live),Takumi Minamino,Tackle
+31,90,Takumi Minamino,Liverpool,0.06,,Blocked,22.0,Left Foot,,James Milner,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+32,90+1,Sergi Canós,Brentford,0.11,,Blocked,14.0,Right Foot,,Yoane Wissa,Pass (Live),Ivan Toney,Pass (Live)
+33,90+2,Ivan Toney,Brentford,0.23,0.21,Saved,14.0,Left Foot,,Mathias Jensen,Pass (Dead),Mads Roerslev,Fouled

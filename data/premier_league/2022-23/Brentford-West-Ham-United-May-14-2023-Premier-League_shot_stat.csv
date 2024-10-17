@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Mikkel Damsgaard,Brentford,0.27,,Off Target,5.0,Head,,Kevin Schade,Pass (Live),Bryan Mbeumo,Pass (Live)
+1,20,Bryan Mbeumo,Brentford,0.33,0.53,Goal,15.0,Left Foot,,Mathias Jensen,Pass (Live),Vitaly Janelt,Pass (Live)
+2,28,Emerson Palmieri,West Ham,0.03,0.03,Saved,26.0,Right Foot,,Angelo Ogbonna,Pass (Live),Tomáš Souček,Pass (Live)
+3,34,Yoane Wissa,Brentford,0.07,0.1,Saved,14.0,Right Foot,,Aaron Hickey,Pass (Live),Mikkel Damsgaard,Pass (Live)
+4,37,Kevin Schade,Brentford,0.05,,Off Target,17.0,Right Foot,,Kevin Schade,Take-On,Rico Henry,Take-On
+5,39,Mikkel Damsgaard,Brentford,0.06,,Blocked,21.0,Right Foot,Volley,Mathias Jensen,Pass (Dead),,
+6,39,Rico Henry,Brentford,0.02,,Blocked,32.0,Left Foot,,Aaron Hickey,Pass (Live),Mathias Jensen,Pass (Live)
+7,40,Kevin Schade,Brentford,0.06,0.13,Saved,6.0,Head,,Mathias Jensen,Pass (Dead),Rico Henry,Shot
+8,40,Mikkel Damsgaard,Brentford,0.12,,Blocked,15.0,Right Foot,Volley,Kevin Schade,Shot,,
+9,40,Yoane Wissa,Brentford,0.34,0.6,Saved,5.0,Left Foot,,Mikkel Damsgaard,Shot,,
+10,40,Ben Mee,Brentford,0.33,0.81,Saved,4.0,Right Foot,,Yoane Wissa,Shot,,
+11,41,Ben Mee,Brentford,0.29,,Off Target,4.0,Head,,Bryan Mbeumo,Pass (Dead),Ben Mee,Shot
+12,43,Yoane Wissa,Brentford,0.27,0.71,Goal,6.0,Head,,Ben Mee,Pass (Live),Mathias Jensen,Pass (Dead)
+13,45,Danny Ings,West Ham,0.06,0.21,Saved,16.0,Right Foot,,Nayef Aguerd,Pass (Live),Pablo Fornals,Pass (Dead)
+14,45+1,Aaron Hickey,Brentford,0.07,,Off Target,22.0,Left Foot,,Bryan Mbeumo,Take-On,Kevin Schade,Pass (Live)
+15,,,,,,,,,,,,,
+16,51,Yoane Wissa,Brentford,0.12,,Off Target,17.0,Right Foot,,Bryan Mbeumo,Pass (Live),Yoane Wissa,Pass (Live)
+17,55,Bryan Mbeumo,Brentford,0.16,,Blocked,5.0,Head,,Kevin Schade,Pass (Live),Rico Henry,Pass (Live)
+18,57,Bryan Mbeumo,Brentford,0.06,,Blocked,15.0,Left Foot,,,,,
+19,60,Yoane Wissa,Brentford,0.13,,Off Target,9.0,Head,,Rico Henry,Pass (Live),Bryan Mbeumo,Pass (Live)
+20,62,Ben Mee,Brentford,0.09,,Off Target,8.0,Head,,Mathias Jensen,Pass (Dead),Rico Henry,Tackle
+21,62,Mikkel Damsgaard,Brentford,0.62,,Off Target,4.0,Right Foot,Volley,Ben Mee,Shot,,
+22,65,Ben Johnson,West Ham,0.03,0.22,Saved,16.0,Right Foot,,Divin Mubama,Pass (Live),Divin Mubama,Take-On
+23,72,Bryan Mbeumo,Brentford,0.07,,Off Target,11.0,Head,,Vitaly Janelt,Pass (Live),Rico Henry,Pass (Live)
+24,74,Frank Onyeka,Brentford,0.09,0.11,Saved,21.0,Left Foot,,Yoane Wissa,Pass (Live),Frank Onyeka,Pass (Live)
+25,79,Saïd Benrahma,West Ham,0.11,0.03,Saved,17.0,Right Foot,,,,,
+26,86,Bryan Mbeumo,Brentford,0.05,0.03,Saved,20.0,Right Foot,,Bryan Mbeumo,Take-On,Saman Ghoddos,Pass (Live)
+27,89,Josh Dasilva,Brentford,0.03,,Blocked,21.0,Left Foot,,Shandon Baptiste,Pass (Live),Ben Mee,Pass (Live)
+28,90+4,Bryan Mbeumo,Brentford,0.22,0.53,Saved,10.0,Head,,Mads Roerslev,Pass (Live),Josh Dasilva,Pass (Live)

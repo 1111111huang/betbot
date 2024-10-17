@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Jefferson Lerma,Bournemouth,0.24,0.11,Goal,9.0,Left Foot,Deflected,Marcus Tavernier,Pass (Dead),,
+1,4.0,Danny Ings,Aston Villa,0.05,,Off Target,26.0,Right Foot,Volley,Diego Carlos,Pass (Live),John McGinn,Pass (Live)
+2,6.0,Danny Ings,Aston Villa,0.05,0.23,Saved,17.0,Left Foot,,Jacob Ramsey,Pass (Live),Matty Cash,Pass (Live)
+3,9.0,Dominic Solanke,Bournemouth,0.1,0.06,Saved,19.0,Left Foot,,Jordan Zemura,Take-On,Kieffer Moore,Pass (Live)
+4,9.0,Dominic Solanke,Bournemouth,0.07,,Blocked,22.0,Right Foot,,Dominic Solanke,Shot,,
+5,15.0,John McGinn,Aston Villa,0.03,,Off Target,31.0,Left Foot,,,,,
+6,17.0,Danny Ings,Aston Villa,0.16,,Off Target,6.0,Head,,Lucas Digne,Pass (Live),Matty Cash,Pass (Live)
+7,21.0,Jacob Ramsey,Aston Villa,0.05,0.3,Saved,23.0,Left Foot,Deflected,Philippe Coutinho,Pass (Live),John McGinn,Pass (Live)
+8,22.0,Adam Smith,Bournemouth,0.08,,Off Target,16.0,Right Foot,,Marcus Tavernier,Pass (Live),Jordan Zemura,Pass (Live)
+9,37.0,John McGinn,Aston Villa,0.03,,Blocked,31.0,Left Foot,,Danny Ings,Pass (Live),Leon Bailey,Pass (Live)
+10,45.0,Leon Bailey,Aston Villa,0.02,,Blocked,14.0,Left Foot,Volley,Leon Bailey,Take-On,Jacob Ramsey,Pass (Live)
+11,45.0,Jacob Ramsey,Aston Villa,0.04,,Off Target,28.0,Left Foot,Volley,Leon Bailey,Pass (Live),John McGinn,Interception
+12,,,,,,,,,,,,,
+13,60.0,Diego Carlos,Aston Villa,0.02,,Off Target,33.0,Right Foot,,,,,
+14,61.0,Philippe Coutinho,Aston Villa,0.08,,Blocked,11.0,Head,,John McGinn,Pass (Live),Emi Buendía,Pass (Live)
+15,65.0,Boubacar Kamara,Aston Villa,0.03,,Off Target,35.0,Right Foot,,Emi Buendía,Pass (Dead),Emi Buendía,Fouled
+16,72.0,Dominic Solanke,Bournemouth,0.05,,Blocked,17.0,Right Foot,,Marcus Tavernier,Pass (Live),,
+17,74.0,Philippe Coutinho,Aston Villa,0.03,,Off Target,32.0,Right Foot,,Ollie Watkins,Pass (Live),Philippe Coutinho,Pass (Live)
+18,80.0,Philip Billing,Bournemouth,0.01,,Off Target,16.0,Head,,Marcus Tavernier,Pass (Dead),Marcus Tavernier,Fouled
+19,80.0,Kieffer Moore,Bournemouth,0.05,0.33,Goal,11.0,Head,,Lloyd Kelly,Pass (Live),Philip Billing,Shot
+20,83.0,Douglas Luiz,Aston Villa,0.03,,Blocked,28.0,Right Foot,,,,,
+21,83.0,Matty Cash,Aston Villa,0.03,,Blocked,23.0,Left Foot,,Matty Cash,Take-On,Douglas Luiz,Shot
+22,84.0,John McGinn,Aston Villa,0.02,,Blocked,32.0,Left Foot,,Leon Bailey,Pass (Live),Matty Cash,Pass (Live)

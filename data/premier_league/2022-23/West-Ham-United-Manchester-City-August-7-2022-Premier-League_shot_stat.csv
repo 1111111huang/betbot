@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Michail Antonio,West Ham,0.08,,Blocked,9.0,Left Foot,Volley,Aaron Cresswell,Pass (Live),Pablo Fornals,Pass (Live)
+1,2,Jarrod Bowen,West Ham,0.17,,Blocked,11.0,Left Foot,,Michail Antonio,Shot,,
+2,3,Michail Antonio,West Ham,0.09,,Off Target,10.0,Head,,Pablo Fornals,Pass (Live),Jarrod Bowen,Shot
+3,9,Kevin De Bruyne,Manchester City,0.02,,Blocked,26.0,Left Foot,,Phil Foden,Pass (Live),Erling Haaland,Pass (Live)
+4,14,Kevin De Bruyne,Manchester City,0.14,,Off Target,17.0,Right Foot,,João Cancelo,Pass (Live),İlkay Gündoğan,Pass (Live)
+5,21,Erling Haaland,Manchester City,0.31,,Off Target,7.0,Head,,Phil Foden,Pass (Live),João Cancelo,Pass (Live)
+6,36,Erling Haaland (pen),Manchester City,0.79,1.0,Goal,13.0,Left Foot,,Erling Haaland,Fouled,İlkay Gündoğan,Pass (Live)
+7,39,İlkay Gündoğan,Manchester City,0.04,,Blocked,31.0,Right Foot,Free kick,Phil Foden,Fouled,Erling Haaland,Pass (Live)
+8,42,João Cancelo,Manchester City,0.02,,Off Target,31.0,Right Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+9,,,,,,,,,,,,,
+10,54,Declan Rice,West Ham,0.05,,Off Target,17.0,Right Foot,,Michail Antonio,Pass (Live),Manuel Lanzini,Pass (Live)
+11,56,Manuel Lanzini,West Ham,0.02,,Blocked,36.0,Right Foot,,Pablo Fornals,Pass (Live),Tomáš Souček,Pass (Live)
+12,62,İlkay Gündoğan,Manchester City,0.11,,Off Target,8.0,Left Foot,,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Live)
+13,63,Saïd Benrahma,West Ham,0.07,0.1,Saved,15.0,Right Foot,,Vladimír Coufal,Pass (Live),Tomáš Souček,Pass (Live)
+14,65,Erling Haaland,Manchester City,0.27,0.69,Goal,16.0,Left Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+15,70,Erling Haaland,Manchester City,0.24,,Off Target,4.0,Head,,Jack Grealish,Pass (Live),,
+16,76,Erling Haaland,Manchester City,0.05,,Blocked,16.0,Left Foot,,İlkay Gündoğan,Pass (Live),João Cancelo,Pass (Live)
+17,77,Jack Grealish,Manchester City,0.1,,Off Target,16.0,Right Foot,,Kevin De Bruyne,Pass (Live),Kyle Walker,Pass (Live)
+18,81,Rodri,Manchester City,0.03,,Off Target,27.0,Right Foot,,Jack Grealish,Pass (Live),João Cancelo,Pass (Live)
+19,90+1,Julián Álvarez,Manchester City,0.08,,Blocked,22.0,Right Foot,,Riyad Mahrez,Pass (Live),Bernardo Silva,Pass (Live)
+20,90+2,Nathan Aké,Manchester City,0.04,,Off Target,9.0,Head,,Riyad Mahrez,Pass (Dead),Julián Álvarez,Shot

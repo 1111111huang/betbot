@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Adam Lallana,Brighton,0.03,,Blocked,25.0,Right Foot,,Danny Welbeck,Pass (Live),Joël Veltman,Pass (Dead)
+1,9,Jakub Moder,Brighton,0.02,,Off Target,29.0,Right Foot,,Neal Maupay,Pass (Live),Leandro Trossard,Pass (Live)
+2,13,Tom Davies,Everton,0.03,,Off Target,28.0,Right Foot,,,,,
+3,13,Ben Godfrey,Everton,0.03,,Off Target,28.0,Left Foot,,Tom Davies,Pass (Live),Gylfi Sigurðsson,Pass (Live)
+4,15,James Rodríguez,Everton,0.06,,Off Target,30.0,Left Foot,Free kick,Séamus Coleman,Fouled,Séamus Coleman,Take-On
+5,17,Danny Welbeck,Brighton,0.05,0.03,Saved,13.0,Right Foot,Volley,Adam Lallana,Pass (Live),Leandro Trossard,Pass (Live)
+6,17,Jakub Moder,Brighton,0.05,,Off Target,15.0,Left Foot,Volley,Yves Bissouma,Take-On,Pascal Groß,Pass (Live)
+7,30,Tom Davies,Everton,0.05,,Off Target,13.0,Head,,Séamus Coleman,Pass (Live),Richarlison,Pass (Live)
+8,31,Neal Maupay,Brighton,0.1,,Blocked,12.0,Right Foot,,Yves Bissouma,Pass (Live),Ben White,Pass (Live)
+9,32,Yves Bissouma,Brighton,0.01,,Off Target,31.0,Right Foot,Volley,Neal Maupay,Shot,,
+10,34,Yves Bissouma,Brighton,0.05,,Off Target,13.0,Right Foot,Volley,Danny Welbeck,Pass (Live),Yves Bissouma,Pass (Live)
+11,37,Leandro Trossard,Brighton,0.03,,Blocked,30.0,Left Foot,,Neal Maupay,Pass (Live),Leandro Trossard,Pass (Live)
+12,38,Adam Lallana,Brighton,0.05,0.29,Saved,18.0,Left Foot,,Neal Maupay,Pass (Live),Pascal Groß,Pass (Live)
+13,,,,,,,,,,,,,
+14,46,Yves Bissouma,Brighton,0.03,,Off Target,29.0,Right Foot,,Yves Bissouma,Tackle,,
+15,50,Neal Maupay,Brighton,0.04,,Blocked,21.0,Right Foot,,Adam Lallana,Pass (Live),Danny Welbeck,Pass (Live)
+16,61,Danny Welbeck,Brighton,0.12,,Off Target,8.0,Head,,Ben White,Pass (Live),,
+17,67,Jakub Moder,Brighton,0.04,,Off Target,18.0,Right Foot,,Pascal Groß,Pass (Dead),Leandro Trossard,Pass (Live)
+18,70,Adam Lallana,Brighton,0.06,,Blocked,15.0,Left Foot,,Leandro Trossard,Pass (Live),Pascal Groß,Pass (Dead)
+19,70,Jakub Moder,Brighton,0.03,,Off Target,15.0,Left Foot,,Pascal Groß,Pass (Dead),Adam Lallana,Shot
+20,71,James Rodríguez,Everton,0.09,0.17,Saved,8.0,Right Foot,,James Rodríguez,Take-On,Séamus Coleman,Pass (Live)
+21,76,Danny Welbeck,Brighton,0.06,,Blocked,12.0,Left Foot,,Yves Bissouma,Pass (Live),Adam Lallana,Pass (Live)
+22,76,Neal Maupay,Brighton,0.08,,Off Target,14.0,Right Foot,,Yves Bissouma,Pass (Live),Jakub Moder,Pass (Live)
+23,77,Leandro Trossard,Brighton,0.06,,Blocked,14.0,Right Foot,,Jakub Moder,Pass (Live),Danny Welbeck,Pass (Live)
+24,78,Lewis Dunk,Brighton,0.04,0.05,Saved,14.0,Head,,Adam Lallana,Pass (Live),Leandro Trossard,Pass (Live)
+25,81,Gylfi Sigurðsson,Everton,0.04,,Blocked,23.0,Left Foot,Volley,James Rodríguez,Pass (Live),Lucas Digne,Pass (Live)
+26,81,Tom Davies,Everton,0.04,,Off Target,28.0,Right Foot,,Tom Davies,Take-On,Gylfi Sigurðsson,Shot
+27,83,Leandro Trossard,Brighton,0.09,,Blocked,26.0,Right Foot,Free kick,Danny Welbeck,Fouled,Neal Maupay,Pass (Live)
+28,89,Adam Lallana,Brighton,0.04,,Off Target,19.0,Right Foot,,Pascal Groß,Pass (Live),Ben White,Pass (Live)
+29,90+1,Alex Iwobi,Everton,0.05,,Off Target,17.0,Left Foot,,Séamus Coleman,Pass (Live),,
+30,90+3,Pascal Groß,Brighton,0.06,,Blocked,28.0,Right Foot,Free kick,Pascal Groß,Fouled,,
+31,90+3,Leandro Trossard,Brighton,0.04,,Blocked,17.0,Left Foot,Volley,Pascal Groß,Shot,,

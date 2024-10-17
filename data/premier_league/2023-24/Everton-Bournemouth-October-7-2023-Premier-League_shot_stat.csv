@@ -1,0 +1,38 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,James Garner,Everton,0.14,0.12,Goal,19.0,Right Foot,,,,,
+1,13,Dominic Solanke,Bournemouth,0.02,,Off Target,15.0,Right Foot,Volley,Marcus Tavernier,Pass (Live),Lewis Cook,Pass (Live)
+2,16,Dwight McNeil,Everton,0.04,,Off Target,17.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Amadou Onana,Pass (Live)
+3,18,Jack Harrison,Everton,0.05,,Blocked,13.0,Right Foot,Deflected,Jack Harrison,Take-On,Ashley Young,Interception
+4,18,Abdoulaye Doucouré,Everton,0.08,0.07,Saved,17.0,Right Foot,Deflected,Jarrad Branthwaite,Pass (Live),Jack Harrison,Shot
+5,22,Jack Harrison,Everton,0.03,,Blocked,20.0,Left Foot,Volley,Vitaliy Mykolenko,Pass (Live),,
+6,30,Milos Kerkez,Bournemouth,0.02,,Blocked,30.0,Left Foot,,Lewis Cook,Pass (Live),Ryan Christie,Pass (Live)
+7,31,Philip Billing,Bournemouth,0.07,,Blocked,8.0,Left Foot,Volley,Dango Ouattara,Pass (Live),Lewis Cook,Pass (Live)
+8,33,James Garner,Everton,0.03,,Off Target,28.0,Right Foot,,James Tarkowski,Pass (Live),Amadou Onana,Pass (Live)
+9,35,Dango Ouattara,Bournemouth,0.03,,Off Target,20.0,Right Foot,Volley,Philip Billing,Pass (Live),Marcus Tavernier,Pass (Dead)
+10,37,Vitaliy Mykolenko,Everton,0.05,,Blocked,12.0,Left Foot,Volley,Dwight McNeil,Pass (Dead),Ashley Young,Pass (Live)
+11,37,Jack Harrison,Everton,0.02,0.05,Goal,26.0,Left Foot,,Jarrad Branthwaite,Pass (Live),James Garner,Pass (Dead)
+12,44,Ashley Young,Everton,0.01,,Off Target,29.0,Right Foot,Volley,James Garner,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+13,44,Ashley Young,Everton,0.05,,Off Target,24.0,Right Foot,,Ashley Young,Shot,,
+14,45+2,Dominic Calvert-Lewin,Everton,0.18,,Woodwork,7.0,Head,,Jack Harrison,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+15,45+2,Amadou Onana,Everton,0.12,,Off Target,10.0,Right Foot,,Dwight McNeil,Pass (Live),Amadou Onana,Pass (Live)
+16,,,,,,,,,,,,,
+17,47,Abdoulaye Doucouré,Everton,0.07,0.08,Saved,14.0,Left Foot,,,,,
+18,48,Marcus Tavernier,Bournemouth,0.02,,Blocked,28.0,Left Foot,,Joe Rothwell,Pass (Live),Philip Billing,Pass (Live)
+19,59,Dominic Calvert-Lewin,Everton,0.04,,Off Target,17.0,Right Foot,,Jordan Pickford,Pass (Live),James Tarkowski,Pass (Live)
+20,60,Jack Harrison,Everton,0.17,,Blocked,6.0,Head,,Dwight McNeil,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+21,60,Abdoulaye Doucouré,Everton,0.33,0.96,Goal,3.0,Right Foot,Volley,Jack Harrison,Shot,,
+22,62,Abdoulaye Doucouré,Everton,0.18,,Off Target,9.0,Right Foot,Volley,Dwight McNeil,Pass (Live),Dwight McNeil,Take-On
+23,64,Dominic Calvert-Lewin,Everton,0.18,,Off Target,16.0,Right Foot,,Jordan Pickford,Pass (Live),,
+24,71,James Garner,Everton,0.03,,Blocked,24.0,Left Foot,,Dwight McNeil,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+25,72,Dominic Solanke,Bournemouth,0.04,,Blocked,16.0,Right Foot,,Luis Sinisterra,Pass (Live),Kieffer Moore,Pass (Live)
+26,72,Dominic Solanke,Bournemouth,0.04,0.02,Saved,15.0,Head,,Adam Smith,Pass (Live),David Brooks,Pass (Live)
+27,73,Abdoulaye Doucouré,Everton,0.05,,Off Target,24.0,Right Foot,,Dwight McNeil,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+28,75,Amadou Onana,Everton,0.04,,Blocked,6.0,Head,,Dwight McNeil,Pass (Dead),,
+29,75,Amadou Onana,Everton,0.05,0.03,Saved,6.0,Right Foot,Volley,Amadou Onana,Shot,,
+30,76,James Garner,Everton,0.02,0.12,Saved,29.0,Right Foot,,Amadou Onana,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+31,77,Illia Zabarnyi,Bournemouth,0.21,,Blocked,5.0,Head,,Kieffer Moore,Pass (Live),Philip Billing,Pass (Live)
+32,77,Dwight McNeil,Everton,0.18,0.2,Saved,14.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Jack Harrison,Pass (Live)
+33,82,Kieffer Moore,Bournemouth,0.1,0.04,Saved,9.0,Head,,Dominic Solanke,Pass (Live),Philip Billing,Pass (Live)
+34,87,Kieffer Moore,Bournemouth,0.11,,Off Target,4.0,Head,,Luis Sinisterra,Pass (Live),Kieffer Moore,Pass (Live)
+35,89,Marcus Tavernier,Bournemouth,0.03,0.35,Saved,30.0,Left Foot,,Joe Rothwell,Pass (Live),,
+36,90+5,Beto,Everton,0.34,,Off Target,6.0,Left Foot,,Beto,Take-On,Dwight McNeil,Pass (Live)

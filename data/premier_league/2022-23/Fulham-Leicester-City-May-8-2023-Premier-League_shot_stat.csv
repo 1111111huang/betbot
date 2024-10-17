@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,João Palhinha,Fulham,0.19,,Off Target,8.0,Head,,Willian,Pass (Dead),Harry Wilson,Fouled
+1,2.0,Tosin Adarabioyo,Fulham,0.08,,Blocked,9.0,Head,,João Palhinha,Shot,,
+2,10.0,Willian,Fulham,0.04,0.65,Goal,38.0,Right Foot,Free kick,Antonee Robinson,Fouled,,
+3,16.0,Harrison Reed,Fulham,0.06,,Blocked,13.0,Right Foot,,Harry Wilson,Pass (Live),Harrison Reed,Pass (Live)
+4,17.0,Tosin Adarabioyo,Fulham,0.04,,Off Target,12.0,Head,,Willian,Pass (Dead),Harrison Reed,Shot
+5,18.0,Carlos Vinícius,Fulham,0.27,0.31,Goal,20.0,Left Foot,,Harry Wilson,Pass (Live),Tom Cairney,Pass (Live)
+6,20.0,Jamie Vardy,Leicester City,0.23,0.08,Saved,18.0,Left Foot,,,,,
+7,26.0,Jamie Vardy,Leicester City,0.11,0.17,Saved,22.0,Right Foot,,Jamie Vardy,Take-On,,
+8,28.0,James Maddison,Leicester City,0.05,,Blocked,24.0,Right Foot,Free kick,James Maddison,Fouled,Dennis Praet,Pass (Live)
+9,28.0,Youri Tielemans,Leicester City,0.02,,Blocked,25.0,Right Foot,,James Maddison,Pass (Dead),James Maddison,Shot
+10,29.0,Wout Faes,Leicester City,0.06,,Off Target,9.0,Head,,Victor Bernth Kristiansen,Pass (Dead),Youri Tielemans,Shot
+11,31.0,Harrison Reed,Fulham,0.24,0.31,Saved,13.0,Left Foot,,Willian,Pass (Live),Tom Cairney,Pass (Live)
+12,31.0,Kenny Tete,Fulham,0.04,0.2,Saved,25.0,Right Foot,,Harrison Reed,Shot,,
+13,32.0,Youri Tielemans,Leicester City,0.04,0.02,Saved,28.0,Right Foot,,Çağlar Söyüncü,Pass (Live),Harvey Barnes,Fouled
+14,38.0,Carlos Vinícius,Fulham,0.06,,Off Target,12.0,Head,,Kenny Tete,Pass (Live),Harrison Reed,Pass (Live)
+15,41.0,Youri Tielemans,Leicester City,0.02,,Blocked,29.0,Right Foot,Volley,James Maddison,Pass (Live),Youri Tielemans,Pass (Live)
+16,44.0,Willian,Fulham,0.03,,Blocked,23.0,Right Foot,,Antonee Robinson,Pass (Live),Tom Cairney,Pass (Live)
+17,44.0,Tom Cairney,Fulham,0.11,0.42,Goal,14.0,Right Foot,,Carlos Vinícius,Pass (Live),Harrison Reed,Pass (Live)
+18,,,,,,,,,,,,,
+19,48.0,James Maddison,Leicester City,0.05,,Blocked,24.0,Right Foot,,Youri Tielemans,Pass (Live),Boubakary Soumaré,Pass (Live)
+20,49.0,Harvey Barnes,Leicester City,0.03,0.31,Saved,26.0,Right Foot,,James Maddison,Pass (Live),Youri Tielemans,Pass (Live)
+21,51.0,Tom Cairney,Fulham,0.12,0.7,Goal,11.0,Left Foot,,Kenny Tete,Pass (Live),Harrison Reed,Pass (Live)
+22,54.0,Tom Cairney,Fulham,0.03,,Blocked,29.0,Left Foot,,,,,
+23,56.0,James Maddison,Leicester City,0.09,0.12,Saved,24.0,Left Foot,,James Maddison,Take-On,Youri Tielemans,Pass (Live)
+24,59.0,Harvey Barnes,Leicester City,0.08,0.4,Goal,11.0,Right Foot,,James Maddison,Pass (Live),Timothy Castagne,Pass (Live)
+25,62.0,Timothy Castagne,Leicester City,0.11,,Blocked,5.0,Head,,James Maddison,Pass (Dead),,
+26,66.0,Jamie Vardy (pen),Leicester City,0.79,0.95,Saved,13.0,Right Foot,,Jamie Vardy,Fouled,Timothy Castagne,Pass (Live)
+27,66.0,James Maddison,Leicester City,0.47,,Off Target,9.0,Right Foot,,Jamie Vardy,Shot,,
+28,70.0,Willian,Fulham,0.06,0.37,Goal,27.0,Right Foot,,Harrison Reed,Pass (Live),Kenny Tete,Pass (Live)
+29,72.0,James Maddison,Leicester City,0.05,,Off Target,30.0,Right Foot,Free kick,James Maddison,Fouled,Boubakary Soumaré,Pass (Live)
+30,75.0,Tetê,Leicester City,0.05,,Off Target,16.0,Left Foot,,Tetê,Take-On,James Maddison,Pass (Live)
+31,81.0,James Maddison (pen),Leicester City,0.79,0.97,Goal,13.0,Right Foot,,James Maddison,Fouled,Tetê,Take-On
+32,85.0,Saša Lukić,Fulham,0.02,,Blocked,25.0,Right Foot,,Neeskens Kebano,Pass (Dead),Carlos Vinícius,Fouled
+33,86.0,Tosin Adarabioyo,Fulham,0.11,,Off Target,13.0,Head,,Neeskens Kebano,Pass (Dead),Kenny Tete,Fouled
+34,86.0,Shane Duffy,Fulham,0.16,,Off Target,6.0,Head,,Tosin Adarabioyo,Shot,,
+35,89.0,Harvey Barnes,Leicester City,0.18,0.8,Goal,8.0,Right Foot,,Patson Daka,Pass (Live),,

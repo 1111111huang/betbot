@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Tomáš Souček,West Ham,0.1,,Blocked,14.0,Right Foot,,Arthur Masuaku,Pass (Dead),,
+1,2.0,Angelo Ogbonna,West Ham,0.1,0.05,Goal,5.0,Head,,Jarrod Bowen,Pass (Dead),Tomáš Souček,Shot
+2,18.0,Trézéguet,Aston Villa,0.04,,Blocked,16.0,Right Foot,,Jack Grealish,Pass (Live),Ollie Watkins,Pass (Live)
+3,19.0,Ezri Konsa,Aston Villa,0.09,,Off Target,8.0,Head,,Matt Targett,Pass (Live),Jack Grealish,Pass (Dead)
+4,22.0,Conor Hourihane,Aston Villa,0.09,0.36,Saved,27.0,Left Foot,Free kick,Trézéguet,Fouled,John McGinn,Pass (Live)
+5,25.0,Jack Grealish,Aston Villa,0.03,0.47,Goal,24.0,Right Foot,Deflected,Matty Cash,Pass (Live),Douglas Luiz,Pass (Live)
+6,31.0,Vladimír Coufal,West Ham,0.03,,Off Target,22.0,Right Foot,,Arthur Masuaku,Pass (Live),Michail Antonio,Pass (Live)
+7,37.0,Ollie Watkins,Aston Villa,0.38,,Off Target,12.0,Right Foot,Volley,,,,
+8,43.0,Conor Hourihane,Aston Villa,0.07,,Off Target,26.0,Left Foot,Free kick,Jack Grealish,Pass (Live),Conor Hourihane,Pass (Dead)
+9,45.0,Jarrod Bowen,West Ham,0.04,,Blocked,25.0,Left Foot,,Declan Rice,Pass (Live),,
+10,,,,,,,,,,,,,
+11,46.0,Jarrod Bowen,West Ham,0.1,0.43,Goal,11.0,Other,,Saïd Benrahma,Pass (Live),Jarrod Bowen,Pass (Live)
+12,48.0,John McGinn,Aston Villa,0.06,,Blocked,15.0,Right Foot,,Jack Grealish,Pass (Live),Conor Hourihane,Pass (Live)
+13,50.0,Jack Grealish,Aston Villa,0.03,0.33,Saved,20.0,Left Foot,,Matt Targett,Pass (Live),,
+14,55.0,Saïd Benrahma,West Ham,0.04,,Blocked,18.0,Right Foot,,Jarrod Bowen,Pass (Live),Pablo Fornals,Pass (Live)
+15,61.0,Trézéguet,Aston Villa,0.05,,Off Target,15.0,Head,,Douglas Luiz,Pass (Live),Jack Grealish,Pass (Live)
+16,63.0,Trézéguet,Aston Villa,0.64,0.76,Saved,7.0,Left Foot,,Ollie Watkins,Pass (Live),Jack Grealish,Pass (Live)
+17,66.0,Ezri Konsa,Aston Villa,0.03,0.09,Saved,22.0,Right Foot,,Matt Targett,Pass (Live),Jack Grealish,Fouled
+18,66.0,Ollie Watkins,Aston Villa,0.04,,Off Target,14.0,Head,,Matty Cash,Pass (Live),John McGinn,Pass (Live)
+19,70.0,Ollie Watkins,Aston Villa,0.09,,Off Target,8.0,Head,,Jack Grealish,Pass (Live),Jack Grealish,Take-On
+20,74.0,Ollie Watkins (pen),Aston Villa,0.79,,Woodwork,13.0,Right Foot,,Trézéguet,Fouled,John McGinn,Pass (Live)
+21,87.0,Jack Grealish,Aston Villa,0.03,,Blocked,24.0,Right Foot,,Jack Grealish,Take-On,Jack Grealish,Take-On
+22,89.0,Bertrand Traoré,Aston Villa,0.03,0.03,Saved,27.0,Left Foot,,Jack Grealish,Pass (Live),Jack Grealish,Take-On

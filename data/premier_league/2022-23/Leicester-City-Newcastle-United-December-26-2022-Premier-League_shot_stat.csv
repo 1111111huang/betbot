@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Chris Wood (pen),Newcastle Utd,0.79,0.9,Goal,13.0,Right Foot,,Joelinton,Fouled,,
+1,5.0,Bruno Guimarães,Newcastle Utd,0.06,,Blocked,12.0,Right Foot,,Miguel Almirón,Pass (Live),Joe Willock,Pass (Live)
+2,7.0,Miguel Almirón,Newcastle Utd,0.41,0.92,Goal,12.0,Left Foot,,Miguel Almirón,Take-On,Bruno Guimarães,Pass (Live)
+3,10.0,Patson Daka,Leicester City,0.09,,Off Target,12.0,Left Foot,,Luke Thomas,Pass (Live),,
+4,13.0,Joelinton,Newcastle Utd,0.03,,Blocked,12.0,Head,,Kieran Trippier,Pass (Live),Fabian Schär,Pass (Live)
+5,18.0,Timothy Castagne,Leicester City,0.12,,Blocked,6.0,Head,,Youri Tielemans,Pass (Dead),,
+6,32.0,Joelinton,Newcastle Utd,0.08,0.02,Goal,9.0,Head,,Kieran Trippier,Pass (Dead),Sean Longstaff,Pass (Live)
+7,37.0,Bruno Guimarães,Newcastle Utd,0.03,0.51,Saved,27.0,Right Foot,,Joelinton,Pass (Live),Fabian Schär,Pass (Live)
+8,42.0,Chris Wood,Newcastle Utd,0.15,,Off Target,13.0,Left Foot,,Joe Willock,Pass (Live),Bruno Guimarães,Pass (Live)
+9,,,,,,,,,,,,,
+10,48.0,Sven Botman,Newcastle Utd,0.06,,Off Target,18.0,Left Foot,Volley,Joelinton,Fouled,Joe Willock,Pass (Live)
+11,57.0,Fabian Schär,Newcastle Utd,0.12,,Off Target,8.0,Head,,Kieran Trippier,Pass (Dead),Sean Longstaff,Fouled
+12,69.0,Miguel Almirón,Newcastle Utd,0.1,,Blocked,11.0,Left Foot,,Bruno Guimarães,Pass (Live),,
+13,71.0,Joe Willock,Newcastle Utd,0.07,0.27,Saved,17.0,Right Foot,Volley,Bruno Guimarães,Fouled,Miguel Almirón,Pass (Live)
+14,73.0,Wout Faes,Leicester City,0.02,,Blocked,34.0,Right Foot,,Wilfred Ndidi,Pass (Live),Timothy Castagne,Pass (Live)
+15,74.0,Kelechi Iheanacho,Leicester City,0.03,,Off Target,27.0,Left Foot,,Timothy Castagne,Pass (Live),Daniel Amartey,Pass (Live)
+16,82.0,Kelechi Iheanacho,Leicester City,0.07,,Blocked,10.0,Left Foot,,Wout Faes,Pass (Live),Daniel Amartey,Pass (Live)
+17,82.0,Kiernan Dewsbury-Hall,Leicester City,0.08,0.03,Saved,19.0,Right Foot,Volley,Kelechi Iheanacho,Shot,,
+18,87.0,Wilfred Ndidi,Leicester City,0.03,0.03,Saved,28.0,Right Foot,Volley,Wilfred Ndidi,Pass (Live),Daniel Amartey,Pass (Live)
+19,87.0,Ayoze Pérez,Leicester City,0.08,,Blocked,25.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Luke Thomas,Pass (Live)
+20,90.0,Bruno Guimarães,Newcastle Utd,0.01,,Off Target,32.0,Right Foot,Volley,Bruno Guimarães,Take-On,Kieran Trippier,Pass (Dead)

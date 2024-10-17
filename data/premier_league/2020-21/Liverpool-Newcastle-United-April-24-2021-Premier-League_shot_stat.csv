@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Mohamed Salah,Liverpool,0.08,0.23,Goal,10.0,Left Foot,,Georginio Wijnaldum,Pass (Live),Andrew Robertson,Pass (Live)
+1,20,Sean Longstaff,Newcastle Utd,0.29,0.17,Saved,11.0,Left Foot,,Jonjo Shelvey,Pass (Live),Matt Ritchie,Pass (Live)
+2,22,Sadio Mané,Liverpool,0.03,,Blocked,9.0,Head,,Andrew Robertson,Pass (Dead),,
+3,23,Diogo Jota,Liverpool,0.05,,Off Target,23.0,Right Foot,,Mohamed Salah,Pass (Live),Thiago Alcántara,Pass (Live)
+4,23,Diogo Jota,Liverpool,0.09,0.03,Saved,11.0,Left Foot,,Sadio Mané,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+5,27,Sadio Mané,Liverpool,0.07,,Blocked,13.0,Right Foot,,Mohamed Salah,Pass (Live),Fabinho,Pass (Live)
+6,29,Sadio Mané,Liverpool,0.14,,Blocked,12.0,Right Foot,,Sadio Mané,Take-On,Mohamed Salah,Pass (Live)
+7,29,Diogo Jota,Liverpool,0.35,,Off Target,13.0,Right Foot,,Sadio Mané,Shot,,
+8,36,Mohamed Salah,Liverpool,0.41,0.3,Saved,16.0,Left Foot,,Roberto Firmino,Pass (Live),Diogo Jota,Tackle
+9,38,Diogo Jota,Liverpool,0.07,0.05,Saved,12.0,Right Foot,,Roberto Firmino,Pass (Live),Diogo Jota,Pass (Live)
+10,41,Trent Alexander-Arnold,Liverpool,0.02,,Off Target,33.0,Right Foot,,Thiago Alcántara,Pass (Live),Thiago Alcántara,Take-On
+11,44,Sadio Mané,Liverpool,0.11,,Off Target,10.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Mohamed Salah,Pass (Live)
+12,45+2,Sadio Mané,Liverpool,0.07,,Off Target,6.0,Head,,Andrew Robertson,Pass (Live),Diogo Jota,Pass (Live)
+13,,,,,,,,,,,,,
+14,48,Roberto Firmino,Liverpool,0.06,0.1,Saved,21.0,Left Foot,,Diogo Jota,Pass (Live),Mohamed Salah,Pass (Live)
+15,53,Jacob Murphy,Newcastle Utd,0.03,,Blocked,19.0,Right Foot,,Jonjo Shelvey,Pass (Live),Joelinton,Pass (Live)
+16,55,Joelinton,Newcastle Utd,0.06,0.02,Saved,17.0,Left Foot,,Jacob Murphy,Pass (Dead),Sean Longstaff,Fouled
+17,55,Matt Ritchie,Newcastle Utd,0.03,,Blocked,26.0,Right Foot,,,,,
+18,57,Roberto Firmino,Liverpool,0.41,0.71,Saved,6.0,Right Foot,Volley,,,,
+19,64,Andrew Robertson,Liverpool,0.04,,Off Target,26.0,Left Foot,,Andrew Robertson,Take-On,,
+20,73,Mohamed Salah,Liverpool,0.24,,Off Target,12.0,Left Foot,,Sadio Mané,Pass (Live),,
+21,75,Trent Alexander-Arnold,Liverpool,0.06,,Blocked,29.0,Right Foot,Free kick,Thiago Alcántara,Fouled,Sadio Mané,Pass (Live)
+22,75,Trent Alexander-Arnold,Liverpool,0.02,,Off Target,25.0,Right Foot,Volley,Thiago Alcántara,Pass (Live),Trent Alexander-Arnold,Shot
+23,76,Roberto Firmino,Liverpool,0.03,0.05,Saved,29.0,Right Foot,,Sadio Mané,Pass (Live),James Milner,Pass (Live)
+24,80,Sadio Mané,Liverpool,0.05,0.19,Saved,15.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Curtis Jones,Pass (Live)
+25,81,James Milner,Liverpool,0.01,,Blocked,28.0,Right Foot,,Andrew Robertson,Pass (Live),Sadio Mané,Pass (Dead)
+26,81,James Milner,Liverpool,0.02,0.18,Saved,28.0,Right Foot,Deflected,James Milner,Shot,,
+27,90+2,Joe Willock,Newcastle Utd,0.05,,Off Target,11.0,Head,,Matt Ritchie,Pass (Live),Matt Ritchie,Take-On
+28,90+2,Callum Wilson,Newcastle Utd,0.48,0.46,Saved,12.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Joe Willock,Pass (Live)
+29,90+5,Joe Willock,Newcastle Utd,0.09,0.35,Goal,15.0,Right Foot,Deflected,Dwight Gayle,Pass (Live),Paul Dummett,Pass (Live)

@@ -1,0 +1,39 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Antony,Manchester Utd,0.04,,Blocked,20.0,Left Foot,,Fred,Pass (Live),Jadon Sancho,Pass (Live)
+1,4,Diogo Dalot,Manchester Utd,0.03,,Off Target,25.0,Left Foot,,Casemiro,Pass (Live),Jadon Sancho,Pass (Live)
+2,5,Rodrigo Bentancur,Tottenham,0.04,,Off Target,19.0,Right Foot,,Matt Doherty,Pass (Live),Son Heung-min,Pass (Live)
+3,7,Antony,Manchester Utd,0.09,0.13,Saved,34.0,Left Foot,,,,,
+4,7,Fred,Manchester Utd,0.03,0.04,Saved,31.0,Left Foot,,Bruno Fernandes,Pass (Live),Jadon Sancho,Pass (Live)
+5,8,Casemiro,Manchester Utd,0.05,,Off Target,12.0,Head,,Bruno Fernandes,Pass (Dead),Fred,Shot
+6,10,Antony,Manchester Utd,0.02,,Woodwork,25.0,Left Foot,,Diogo Dalot,Pass (Live),Bruno Fernandes,Pass (Live)
+7,15,Rodrigo Bentancur,Tottenham,0.02,,Blocked,10.0,Head,,Ben Davies,Pass (Live),Ivan Perišić,Pass (Live)
+8,19,Matt Doherty,Tottenham,0.05,,Off Target,15.0,Left Foot,,Matt Doherty,Take-On,Harry Kane,Pass (Live)
+9,20,Bruno Fernandes,Manchester Utd,0.02,,Blocked,31.0,Right Foot,,Luke Shaw,Pass (Live),Marcus Rashford,Pass (Live)
+10,21,Marcus Rashford,Manchester Utd,0.28,0.49,Saved,13.0,Right Foot,,Fred,Pass (Live),Antony,Pass (Live)
+11,23,Bruno Fernandes,Manchester Utd,0.05,0.12,Saved,30.0,Right Foot,Free kick,Fred,Fouled,Marcus Rashford,Pass (Live)
+12,23,Marcus Rashford,Manchester Utd,0.04,,Blocked,28.0,Right Foot,,Bruno Fernandes,Pass (Dead),Bruno Fernandes,Shot
+13,24,Luke Shaw,Manchester Utd,0.03,0.14,Saved,16.0,Left Foot,Volley,Diogo Dalot,Pass (Live),Antony,Pass (Live)
+14,25,Fred,Manchester Utd,0.03,,Blocked,21.0,Left Foot,,Bruno Fernandes,Pass (Dead),Luke Shaw,Shot
+15,26,Bruno Fernandes,Manchester Utd,0.03,,Off Target,28.0,Right Foot,,Jadon Sancho,Pass (Live),Antony,Pass (Live)
+16,29,Casemiro,Manchester Utd,0.02,,Off Target,30.0,Left Foot,,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)
+17,33,Son Heung-min,Tottenham,0.03,,Off Target,30.0,Right Foot,,Cristian Romero,Pass (Live),Pierre Højbjerg,Pass (Live)
+18,34,Bruno Fernandes,Manchester Utd,0.02,,Off Target,24.0,Right Foot,Volley,Raphaël Varane,Pass (Live),,
+19,37,Fred,Manchester Utd,0.1,,Blocked,13.0,Left Foot,,Bruno Fernandes,Pass (Live),Jadon Sancho,Pass (Live)
+20,37,Fred,Manchester Utd,0.06,,Blocked,14.0,Left Foot,,Jadon Sancho,Pass (Live),,
+21,37,Fred,Manchester Utd,0.07,,Off Target,26.0,Right Foot,,Casemiro,Pass (Live),Antony,Pass (Live)
+22,38,Diogo Dalot,Manchester Utd,0.04,,Blocked,29.0,Right Foot,,Jadon Sancho,Pass (Live),Casemiro,Pass (Live)
+23,45,Harry Kane,Tottenham,0.02,0.03,Saved,15.0,Right Foot,,Matt Doherty,Pass (Live),Rodrigo Bentancur,Pass (Live)
+24,,,,,,,,,,,,,
+25,47,Fred,Manchester Utd,0.05,0.32,Goal,23.0,Left Foot,Deflected,Jadon Sancho,Pass (Live),Antony,Pass (Live)
+26,49,Marcus Rashford,Manchester Utd,0.1,0.06,Saved,12.0,Left Foot,,Luke Shaw,Pass (Live),Fred,Pass (Live)
+27,50,Harry Kane,Tottenham,0.05,,Blocked,21.0,Right Foot,,Son Heung-min,Pass (Live),Pierre Højbjerg,Pass (Live)
+28,53,Ivan Perišić,Tottenham,0.06,,Off Target,11.0,Head,,Rodrigo Bentancur,Pass (Live),Matt Doherty,Pass (Live)
+29,55,Antony,Manchester Utd,0.04,,Off Target,19.0,Left Foot,,Bruno Fernandes,Pass (Live),,
+30,55,Jadon Sancho,Manchester Utd,0.05,,Blocked,14.0,Right Foot,,Fred,Pass (Live),Casemiro,Pass (Live)
+31,64,Diogo Dalot,Manchester Utd,0.03,,Blocked,17.0,Left Foot,,Raphaël Varane,Pass (Live),,
+32,68,Harry Kane,Tottenham,0.3,0.29,Saved,4.0,Right Foot,Volley,Ben Davies,Pass (Live),Ivan Perišić,Pass (Live)
+33,69,Bruno Fernandes,Manchester Utd,0.06,0.37,Goal,18.0,Right Foot,,Casemiro,Pass (Live),Bruno Fernandes,Pass (Live)
+34,73,Bruno Fernandes,Manchester Utd,0.03,0.06,Saved,28.0,Right Foot,,Jadon Sancho,Pass (Live),Bruno Fernandes,Pass (Live)
+35,74,Marcus Rashford,Manchester Utd,0.08,0.17,Saved,13.0,Right Foot,,Bruno Fernandes,Pass (Live),Marcus Rashford,Pass (Live)
+36,74,Diogo Dalot,Manchester Utd,0.09,,Off Target,7.0,Head,,Bruno Fernandes,Pass (Dead),Marcus Rashford,Shot
+37,90+5,Ryan Sessegnon,Tottenham,0.03,,Off Target,8.0,Head,,Son Heung-min,Pass (Dead),,

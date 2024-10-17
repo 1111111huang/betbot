@@ -1,0 +1,40 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Oliver Burke,Sheffield Utd,0.08,,Off Target,15.0,Right Foot,,Oliver McBurnie,Pass (Live),Aaron Ramsdale,Pass (Live)
+1,4,John Fleck,Sheffield Utd,0.04,,Off Target,17.0,Left Foot,,Oliver McBurnie,Pass (Live),George Baldock,Pass (Dead)
+2,5,George Baldock,Sheffield Utd,0.32,,Blocked,16.0,Right Foot,,Oliver Burke,Pass (Live),John Fleck,Pass (Live)
+3,5,Chris Basham,Sheffield Utd,0.03,,Off Target,29.0,Left Foot,,,,,
+4,11,Kyle Bartley,West Brom,0.24,,Off Target,6.0,Right Foot,Volley,Conor Gallagher,Fouled,,
+5,12,Karlan Grant,West Brom,0.07,,Blocked,12.0,Right Foot,,Matheus Pereira,Pass (Live),,
+6,13,Conor Gallagher,West Brom,0.03,0.33,Goal,23.0,Right Foot,,Karlan Grant,Shot,,
+7,16,Oliver Burke,Sheffield Utd,0.04,0.11,Saved,10.0,Head,,Kean Bryan,Pass (Live),John Fleck,Pass (Live)
+8,24,Matheus Pereira,West Brom,0.04,,Off Target,19.0,Left Foot,,Karlan Grant,Pass (Live),Conor Gallagher,Pass (Live)
+9,30,Callum Robinson,West Brom,0.03,,Blocked,24.0,Right Foot,,Matheus Pereira,Pass (Live),Conor Gallagher,Pass (Live)
+10,34,Kyle Bartley,West Brom,0.16,0.17,Saved,9.0,Right Foot,Volley,Matheus Pereira,Take-On,Romaine Sawyers,Pass (Live)
+11,34,Darnell Furlong,West Brom,0.05,,Off Target,11.0,Head,,Matheus Pereira,Pass (Dead),Kyle Bartley,Shot
+12,34,Karlan Grant,West Brom,0.15,0.07,Saved,5.0,Right Foot,,Darnell Furlong,Shot,,
+13,35,Conor Gallagher,West Brom,0.03,0.07,Saved,22.0,Right Foot,Volley,Matheus Pereira,Pass (Dead),Karlan Grant,Shot
+14,39,Max Lowe,Sheffield Utd,0.05,,Blocked,13.0,Left Foot,,Oliver McBurnie,Pass (Live),Sander Berge,Pass (Live)
+15,40,Oliver McBurnie,Sheffield Utd,0.12,0.2,Saved,4.0,Head,,Oliver Norwood,Pass (Dead),Max Lowe,Shot
+16,41,Sander Berge,Sheffield Utd,0.04,,Off Target,16.0,Right Foot,,Oliver McBurnie,Pass (Live),John Fleck,Pass (Live)
+17,45+1,Matheus Pereira,West Brom,0.03,,Off Target,25.0,Left Foot,,Darnell Furlong,Pass (Live),Matheus Pereira,Pass (Live)
+18,,,,,,,,,,,,,
+19,49,Oliver McBurnie,Sheffield Utd,0.06,,Blocked,16.0,Right Foot,Volley,Chris Basham,Pass (Live),Sander Berge,Pass (Live)
+20,52,Kyle Bartley,West Brom,0.07,0.13,Saved,10.0,Head,,Matheus Pereira,Pass (Dead),Conor Townsend,Pass (Live)
+21,52,Conor Gallagher,West Brom,0.02,,Off Target,26.0,Right Foot,Volley,Matheus Pereira,Pass (Dead),Kyle Bartley,Shot
+22,53,Conor Gallagher,West Brom,0.07,,Blocked,16.0,Right Foot,,Matheus Pereira,Pass (Live),Karlan Grant,Pass (Live)
+23,56,John Fleck,Sheffield Utd,0.03,,Blocked,29.0,Left Foot,Volley,George Baldock,Take-On,Rhian Brewster,Pass (Live)
+24,56,Chris Basham,Sheffield Utd,0.06,,Off Target,17.0,Left Foot,Volley,John Fleck,Shot,,
+25,59,Matheus Pereira,West Brom,0.15,,Blocked,21.0,Left Foot,Free kick,Callum Robinson,Fouled,Matheus Pereira,Pass (Live)
+26,59,Conor Gallagher,West Brom,0.02,,Off Target,27.0,Right Foot,Volley,Matheus Pereira,Pass (Dead),Matheus Pereira,Shot
+27,61,Oliver McBurnie,Sheffield Utd,0.04,,Off Target,13.0,Head,,John Fleck,Pass (Dead),John Fleck,Pass (Live)
+28,63,George Baldock,Sheffield Utd,0.32,,Off Target,9.0,Left Foot,,Oliver Burke,Pass (Live),Oliver McBurnie,Pass (Live)
+29,69,Rhian Brewster,Sheffield Utd,0.07,,Blocked,11.0,Head,,George Baldock,Pass (Live),John Lundstram,Pass (Live)
+30,80,Oliver McBurnie,Sheffield Utd,0.33,0.23,Saved,4.0,Right Foot,,Sander Berge,Pass (Live),John Lundstram,Pass (Dead)
+31,81,Oliver McBurnie,Sheffield Utd,0.26,0.44,Saved,16.0,Left Foot,,Lys Mousset,Pass (Live),Lys Mousset,Take-On
+32,85,Hal Robson-Kanu,West Brom,0.03,0.12,Saved,27.0,Left Foot,,Filip Krovinović,Pass (Live),Matheus Pereira,Pass (Live)
+33,88,Darnell Furlong,West Brom,0.09,,Off Target,9.0,Head,,Matheus Pereira,Pass (Live),Filip Krovinović,Pass (Live)
+34,89,John Lundstram,Sheffield Utd,0.07,,Blocked,18.0,Right Foot,,Sander Berge,Pass (Live),Rhian Brewster,Pass (Live)
+35,90+4,Rhian Brewster,Sheffield Utd,0.03,0.15,Saved,28.0,Right Foot,,Lys Mousset,Pass (Live),Sander Berge,Pass (Live)
+36,90+6,Rhian Brewster,Sheffield Utd,0.31,,Off Target,11.0,Right Foot,,George Baldock,Pass (Live),Oliver McBurnie,Pass (Live)
+37,90+6,Lys Mousset,Sheffield Utd,0.78,,Off Target,5.0,Right Foot,,Rhian Brewster,Shot,,
+38,90+7,Oliver McBurnie,Sheffield Utd,0.04,,Off Target,16.0,Head,,John Fleck,Pass (Live),Max Lowe,Pass (Live)

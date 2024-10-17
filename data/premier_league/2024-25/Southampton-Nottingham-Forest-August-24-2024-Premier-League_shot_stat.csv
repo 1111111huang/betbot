@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6.0,Chris Wood,Nott'ham Forest,0.09,0.06,Saved,18.0,Right Foot,,Anthony Elanga,Pass (Live),,
+1,7.0,Neco Williams,Nott'ham Forest,0.13,0.19,Saved,8.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Neco Williams,Pass (Live)
+2,12.0,Kyle Walker-Peters,Southampton,0.03,0.0,Blocked,21.0,Right Foot,,Ben Brereton,Pass (Live),Joe Aribo,Pass (Live)
+3,13.0,Yukinari Sugawara,Southampton,0.02,0.0,Off Target,22.0,Left Foot,Volley,Kyle Walker-Peters,Shot,,
+4,16.0,Chris Wood,Nott'ham Forest,0.04,0.07,Saved,11.0,Head,,Ola Aina,Pass (Live),Ola Aina,Take-On
+5,22.0,Adam Armstrong,Southampton,0.02,0.0,Blocked,20.0,Left Foot,,Ben Brereton,Pass (Live),Kyle Walker-Peters,Pass (Live)
+6,25.0,Ibrahim Sangaré,Nott'ham Forest,0.02,0.04,Saved,32.0,Right Foot,,Nikola Milenković,Pass (Live),,
+7,25.0,Nikola Milenković,Nott'ham Forest,0.1,0.0,Blocked,4.0,Head,,Anthony Elanga,Pass (Dead),Ibrahim Sangaré,Shot
+8,26.0,Nikola Milenković,Nott'ham Forest,0.15,0.0,Off Target,7.0,Head,,Anthony Elanga,Pass (Dead),Nikola Milenković,Shot
+9,26.0,Morgan Gibbs-White,Nott'ham Forest,0.04,0.0,Off Target,14.0,Right Foot,Volley,Chris Wood,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+10,34.0,Neco Williams,Nott'ham Forest,0.04,0.0,Off Target,23.0,Right Foot,Volley,,,,
+11,34.0,Nikola Milenković,Nott'ham Forest,0.73,0.0,Off Target,4.0,Left Foot,,Chris Wood,Shot,,
+12,34.0,Chris Wood,Nott'ham Forest,0.12,0.0,Off Target,10.0,Right Foot,Volley,Murillo,Pass (Live),Neco Williams,Shot
+13,35.0,Neco Williams,Nott'ham Forest,0.06,0.0,Blocked,19.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Ola Aina,Pass (Live)
+14,38.0,Kyle Walker-Peters,Southampton,0.03,0.02,Saved,22.0,Right Foot,,Jan Bednarek,Pass (Live),Flynn Downes,Pass (Live)
+15,45.0,Neco Williams,Nott'ham Forest,0.03,0.0,Off Target,28.0,Right Foot,,Elliot Anderson,Pass (Live),Ibrahim Sangaré,Pass (Live)
+16,,,,,,,,,,,,,
+17,57.0,Kyle Walker-Peters,Southampton,0.04,0.0,Blocked,13.0,Left Foot,,Flynn Downes,Pass (Dead),Ben Brereton,Fouled
+18,61.0,Elliot Anderson,Nott'ham Forest,0.03,0.0,Blocked,18.0,Left Foot,,Callum Hudson-Odoi,Pass (Live),Anthony Elanga,Pass (Live)
+19,61.0,Elliot Anderson,Nott'ham Forest,0.02,0.0,Blocked,23.0,Right Foot,,Elliot Anderson,Shot,,
+20,63.0,Anthony Elanga,Nott'ham Forest,0.09,0.0,Blocked,20.0,Left Foot,,Morgan Gibbs-White,Pass (Live),,
+21,70.0,Neco Williams,Nott'ham Forest,0.03,0.0,Blocked,26.0,Left Foot,,Callum Hudson-Odoi,Pass (Live),,
+22,70.0,Morgan Gibbs-White,Nott'ham Forest,0.17,0.0,Blocked,8.0,Head,,Callum Hudson-Odoi,Pass (Live),Neco Williams,Pass (Live)
+23,70.0,Morgan Gibbs-White,Nott'ham Forest,0.25,0.87,Goal,4.0,Right Foot,,Morgan Gibbs-White,Shot,,
+24,74.0,Anthony Elanga,Nott'ham Forest,0.13,0.1,Saved,13.0,Right Foot,,Ryan Yates,Pass (Live),Ola Aina,Pass (Live)
+25,78.0,Callum Hudson-Odoi,Nott'ham Forest,0.04,0.21,Saved,19.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Morgan Gibbs-White,Take-On
+26,78.0,Nicolás Domínguez,Nott'ham Forest,0.12,0.0,Off Target,21.0,Left Foot,,Neco Williams,Pass (Live),Ryan Yates,Pass (Live)
+27,83.0,Morgan Gibbs-White,Nott'ham Forest,0.01,0.1,Saved,36.0,Right Foot,,Nicolás Domínguez,Pass (Live),Ola Aina,Pass (Live)
+28,83.0,Ryan Yates,Nott'ham Forest,0.02,0.0,Off Target,31.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Murillo,Pass (Live)

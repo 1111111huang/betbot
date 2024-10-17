@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Grant Hanley,Norwich City,0.02,,Off Target,11.0,Head,,Billy Gilmour,Pass (Dead),,
+1,5.0,Teemu Pukki,Norwich City,0.03,,Off Target,15.0,Right Foot,,Milot Rashica,Pass (Live),Kenny McLean,Pass (Live)
+2,6.0,Josh Sargent,Norwich City,0.06,,Off Target,25.0,Right Foot,,Teemu Pukki,Pass (Live),Mathias Normann,Pass (Live)
+3,10.0,Raúl Jiménez,Wolves,0.07,,Off Target,11.0,Left Foot,Volley,Rayan Aït-Nouri,Pass (Live),Rúben Neves,Pass (Live)
+4,21.0,Teemu Pukki,Norwich City,0.06,,Blocked,12.0,Left Foot,,Billy Gilmour,Pass (Live),Max Aarons,Pass (Live)
+5,32.0,Milot Rashica,Norwich City,0.03,,Off Target,34.0,Right Foot,Free kick,Teemu Pukki,Fouled,Teemu Pukki,Take-On
+6,43.0,João Moutinho,Wolves,0.08,0.03,Saved,26.0,Right Foot,,,,,
+7,44.0,Conor Coady,Wolves,0.04,,Off Target,14.0,Right Foot,Volley,,,,
+8,45.0,Max Aarons,Norwich City,0.37,0.32,Saved,7.0,Right Foot,,Lukas Rupp,Pass (Live),Max Aarons,Pass (Live)
+9,45.0,Teemu Pukki,Norwich City,0.16,0.2,Saved,5.0,Left Foot,,Max Aarons,Shot,,
+10,,,,,,,,,,,,,
+11,50.0,Milot Rashica,Norwich City,0.02,,Off Target,27.0,Right Foot,,Max Aarons,Pass (Live),Lukas Rupp,Pass (Live)
+12,52.0,Lukas Rupp,Norwich City,0.02,,Blocked,30.0,Left Foot,,Lukas Rupp,Take-On,Milot Rashica,Pass (Live)
+13,53.0,Lukas Rupp,Norwich City,0.03,,Off Target,15.0,Right Foot,,Milot Rashica,Fouled,Milot Rashica,Take-On
+14,57.0,Rayan Aït-Nouri,Wolves,0.02,0.07,Saved,16.0,Left Foot,,Hwang Hee-chan,Pass (Live),João Moutinho,Pass (Live)
+15,70.0,Teemu Pukki,Norwich City,0.51,0.51,Saved,14.0,Left Foot,,Lukas Rupp,Pass (Live),Teemu Pukki,Pass (Live)
+16,72.0,Milot Rashica,Norwich City,0.01,,Blocked,35.0,Right Foot,,Lukas Rupp,Pass (Live),,
+17,80.0,Lukas Rupp,Norwich City,0.2,0.07,Saved,12.0,Right Foot,,Milot Rashica,Pass (Live),Kenny McLean,Pass (Live)
+18,86.0,Raúl Jiménez,Wolves,0.07,,Off Target,17.0,Right Foot,,Adama Traoré,Pass (Live),João Moutinho,Pass (Live)
+19,87.0,Teemu Pukki,Norwich City,0.15,,Off Target,15.0,Right Foot,Volley,Kieran Dowell,Pass (Live),Brandon Williams,Pass (Live)

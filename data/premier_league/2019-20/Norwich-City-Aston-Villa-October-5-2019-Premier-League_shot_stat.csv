@@ -1,0 +1,45 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Anwar El Ghazi,Aston Villa,0.05,0.03,Saved,13.0,Right Foot,,John McGinn,Pass (Live),Frederic Guilbert,Pass (Live)
+1,3,John McGinn,Aston Villa,0.03,,Off Target,23.0,Left Foot,,,,,
+2,7,Anwar El Ghazi,Aston Villa,0.05,,Blocked,17.0,Right Foot,,Frederic Guilbert,Pass (Live),Jack Grealish,Pass (Live)
+3,8,Marco Stiepermann,Norwich City,0.1,0.07,Saved,17.0,Left Foot,Deflected,Teemu Pukki,Pass (Live),Todd Cantwell,Pass (Live)
+4,8,Marco Stiepermann,Norwich City,0.05,,Blocked,16.0,Left Foot,,Jamal Lewis,Pass (Live),Kenny McLean,Pass (Live)
+5,9,Marco Stiepermann,Norwich City,0.09,,Off Target,14.0,Left Foot,,Emi Buendía,Pass (Live),Kenny McLean,Pass (Live)
+6,10,Wesley Moraes,Aston Villa,0.08,,Off Target,9.0,Head,,John McGinn,Pass (Live),Jack Grealish,Pass (Live)
+7,12,Jack Grealish,Aston Villa,0.04,0.3,Saved,30.0,Right Foot,Deflected,Jack Grealish,Take-On,Conor Hourihane,Pass (Live)
+8,14,Wesley Moraes,Aston Villa,0.35,0.66,Goal,9.0,Right Foot,,Anwar El Ghazi,Pass (Live),Frederic Guilbert,Pass (Live)
+9,19,Todd Cantwell,Norwich City,0.07,,Blocked,19.0,Right Foot,,Emi Buendía,Pass (Live),Kenny McLean,Pass (Live)
+10,19,Moritz Leitner,Norwich City,0.07,,Blocked,14.0,Right Foot,,Todd Cantwell,Shot,,
+11,20,Todd Cantwell,Norwich City,0.03,,Off Target,22.0,Right Foot,Volley,Moritz Leitner,Shot,,
+12,21,Jack Grealish,Aston Villa,0.02,0.27,Saved,32.0,Right Foot,Deflected,Matt Targett,Pass (Live),Jack Grealish,Pass (Live)
+13,25,Anwar El Ghazi,Aston Villa,0.03,0.15,Saved,28.0,Right Foot,,Matt Targett,Pass (Live),Jack Grealish,Pass (Live)
+14,25,Wesley Moraes,Aston Villa,0.06,0.02,Saved,10.0,Head,,Conor Hourihane,Pass (Dead),Anwar El Ghazi,Shot
+15,25,Anwar El Ghazi,Aston Villa,0.21,,Woodwork,6.0,Head,,Wesley Moraes,Shot,,
+16,27,John McGinn,Aston Villa,0.04,,Off Target,22.0,Left Foot,,John McGinn,Interception,,
+17,27,Emi Buendía,Norwich City,0.05,,Blocked,19.0,Right Foot,,Todd Cantwell,Pass (Live),Jamal Lewis,Pass (Live)
+18,28,Jamal Lewis,Norwich City,0.03,0.27,Saved,29.0,Right Foot,,Max Aarons,Pass (Live),Kenny McLean,Pass (Live)
+19,28,Teemu Pukki,Norwich City,0.42,,Blocked,4.0,Right Foot,,Marco Stiepermann,Pass (Live),Michael McGovern,Pass (Live)
+20,29,Marco Stiepermann,Norwich City,0.42,,Blocked,4.0,Left Foot,,Teemu Pukki,Shot,,
+21,30,Wesley Moraes,Aston Villa,0.64,0.71,Goal,3.0,Right Foot,,Conor Hourihane,Pass (Live),Matt Targett,Pass (Live)
+22,36,Todd Cantwell,Norwich City,0.05,0.03,Saved,22.0,Right Foot,,Max Aarons,Pass (Live),Emi Buendía,Pass (Live)
+23,38,Wesley Moraes (pen),Aston Villa,0.79,0.99,Saved,13.0,Right Foot,,Conor Hourihane,Fouled,Jack Grealish,Pass (Live)
+24,38,Wesley Moraes,Aston Villa,0.43,0.58,Saved,6.0,Right Foot,,Wesley Moraes,Shot,,
+25,39,Björn Engels,Aston Villa,0.13,,Off Target,10.0,Right Foot,,Wesley Moraes,Shot,,
+26,44,Anwar El Ghazi,Aston Villa,0.03,,Blocked,25.0,Right Foot,,Jack Grealish,Pass (Live),Matt Targett,Pass (Live)
+27,45,Moritz Leitner,Norwich City,0.03,,Off Target,29.0,Right Foot,,Todd Cantwell,Tackle,,
+28,,,,,,,,,,,,,
+29,48,Kenny McLean,Norwich City,0.02,,Off Target,33.0,Left Foot,,Emi Buendía,Pass (Live),Jamal Lewis,Pass (Dead)
+30,49,Jack Grealish,Aston Villa,0.33,0.68,Goal,14.0,Left Foot,,Anwar El Ghazi,Pass (Live),Jack Grealish,Pass (Live)
+31,50,Emi Buendía,Norwich City,0.11,,Blocked,11.0,Left Foot,,Kenny McLean,Pass (Live),Emi Buendía,Pass (Live)
+32,53,Todd Cantwell,Norwich City,0.05,0.1,Saved,13.0,Left Foot,,Teemu Pukki,Pass (Live),Emi Buendía,Pass (Live)
+33,55,Max Aarons,Norwich City,0.04,,Off Target,15.0,Right Foot,,Todd Cantwell,Pass (Live),Emi Buendía,Pass (Live)
+34,57,Jack Grealish,Aston Villa,0.05,,Off Target,18.0,Right Foot,,Anwar El Ghazi,Pass (Live),Jack Grealish,Pass (Live)
+35,59,Teemu Pukki,Norwich City,0.05,,Blocked,18.0,Right Foot,,Todd Cantwell,Pass (Live),Ben Godfrey,Pass (Live)
+36,61,Conor Hourihane,Aston Villa,0.03,0.14,Goal,25.0,Left Foot,,,,,
+37,64,Max Aarons,Norwich City,0.03,,Off Target,20.0,Left Foot,,Kenny McLean,Pass (Live),Moritz Leitner,Pass (Live)
+38,77,Ben Godfrey,Norwich City,0.03,,Off Target,21.0,Right Foot,Volley,Emi Buendía,Pass (Live),Jamal Lewis,Pass (Live)
+39,81,Trézéguet,Aston Villa,0.02,,Off Target,28.0,Right Foot,,Marvelous Nakamba,Pass (Live),,
+40,83,Douglas Luiz,Aston Villa,0.03,0.56,Goal,26.0,Right Foot,,Wesley Moraes,Pass (Live),Jack Grealish,Pass (Live)
+41,88,Josip Drmić,Norwich City,0.45,0.43,Goal,9.0,Right Foot,,,,,
+42,89,John McGinn,Aston Villa,0.03,,Blocked,32.0,Left Foot,,Jack Grealish,Pass (Live),Douglas Luiz,Pass (Live)
+43,90+3,Ibrahim Amadou,Norwich City,0.56,,Off Target,1.0,Head,,Patrick Roberts,Pass (Live),Patrick Roberts,Take-On

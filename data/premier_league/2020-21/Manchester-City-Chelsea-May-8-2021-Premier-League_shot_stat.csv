@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Ferrán Torres,Manchester City,0.06,,Off Target,13.0,Right Foot,,Rúben Dias,Pass (Live),Ederson,Pass (Live)
+1,8,Gabriel Jesus,Manchester City,0.03,,Blocked,26.0,Right Foot,,Raheem Sterling,Take-On,Gabriel Jesus,Pass (Live)
+2,8,Benjamin Mendy,Manchester City,0.03,,Off Target,23.0,Left Foot,,Gabriel Jesus,Shot,,
+3,14,Reece James,Chelsea,0.07,,Blocked,25.0,Right Foot,Free kick,Timo Werner,Fouled,N'Golo Kanté,Pass (Live)
+4,17,Rodri,Manchester City,0.02,,Blocked,32.0,Right Foot,,Benjamin Mendy,Pass (Live),Benjamin Mendy,Take-On
+5,18,Billy Gilmour,Chelsea,0.05,,Blocked,23.0,Right Foot,,Timo Werner,Pass (Live),Hakim Ziyech,Pass (Live)
+6,32,Reece James,Chelsea,0.03,,Off Target,21.0,Right Foot,,Hakim Ziyech,Pass (Live),Hakim Ziyech,Take-On
+7,33,Timo Werner,Chelsea,0.08,,Off Target,16.0,Right Foot,,Billy Gilmour,Pass (Live),Hakim Ziyech,Pass (Live)
+8,35,Raheem Sterling,Manchester City,0.03,0.31,Saved,24.0,Right Foot,Volley,,,,
+9,43,Hakim Ziyech,Chelsea,0.03,0.17,Saved,30.0,Left Foot,,Billy Gilmour,Pass (Live),Reece James,Pass (Live)
+10,43,Antonio Rüdiger,Chelsea,0.02,,Off Target,32.0,Right Foot,,Marcos Alonso,Pass (Live),Hakim Ziyech,Shot
+11,44,Raheem Sterling,Manchester City,0.4,0.7,Goal,9.0,Left Foot,,Sergio Agüero,Pass (Live),Gabriel Jesus,Pass (Live)
+12,45+3,Sergio Agüero (pen),Manchester City,0.79,0.89,Saved,13.0,Right Foot,,Gabriel Jesus,Fouled,Sergio Agüero,Pass (Live)
+13,,,,,,,,,,,,,
+14,51,Sergio Agüero,Manchester City,0.03,0.02,Saved,30.0,Right Foot,Volley,Ferrán Torres,Pass (Live),Raheem Sterling,Pass (Live)
+15,52,Hakim Ziyech,Chelsea,0.03,0.07,Saved,31.0,Left Foot,,Reece James,Pass (Live),N'Golo Kanté,Pass (Live)
+16,53,Gabriel Jesus,Manchester City,0.03,,Blocked,27.0,Right Foot,,Rodri,Pass (Live),Benjamin Mendy,Pass (Live)
+17,60,Reece James,Chelsea,0.06,,Blocked,22.0,Right Foot,,Hakim Ziyech,Pass (Live),Marcos Alonso,Pass (Live)
+18,60,Christian Pulisic,Chelsea,0.05,,Off Target,18.0,Right Foot,,Marcos Alonso,Pass (Live),,
+19,63,Hakim Ziyech,Chelsea,0.06,0.38,Goal,19.0,Left Foot,,César Azpilicueta,Pass (Live),Christian Pulisic,Pass (Live)
+20,69,Rodri,Manchester City,0.07,,Blocked,8.0,Head,,Ferrán Torres,Pass (Dead),Aymeric Laporte,Pass (Live)
+21,71,İlkay Gündoğan,Manchester City,0.03,,Off Target,20.0,Right Foot,Volley,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+22,78,Gabriel Jesus,Manchester City,0.04,,Off Target,21.0,Left Foot,,Benjamin Mendy,Pass (Live),Raheem Sterling,Pass (Live)
+23,82,Raheem Sterling,Manchester City,0.05,,Blocked,13.0,Right Foot,,João Cancelo,Pass (Live),Rúben Dias,Pass (Live)
+24,84,João Cancelo,Manchester City,0.04,,Off Target,18.0,Left Foot,,Rodri,Pass (Live),Gabriel Jesus,Pass (Live)
+25,85,Phil Foden,Manchester City,0.07,,Off Target,8.0,Left Foot,,İlkay Gündoğan,Pass (Live),Raheem Sterling,Pass (Live)
+26,87,İlkay Gündoğan,Manchester City,0.09,,Blocked,14.0,Right Foot,Volley,Gabriel Jesus,Pass (Live),Phil Foden,Pass (Live)
+27,89,Marcos Alonso,Chelsea,0.03,0.18,Saved,22.0,Left Foot,,,,,
+28,90+2,Marcos Alonso,Chelsea,0.15,0.33,Goal,10.0,Right Foot,,Timo Werner,Pass (Live),Callum Hudson-Odoi,Pass (Live)

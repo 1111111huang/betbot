@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Billy Sharp,Sheffield Utd,0.08,,Off Target,11.0,Right Foot,Volley,Oliver Norwood,Pass (Live),Enda Stevens,Take-On
+1,5,Oliver McBurnie,Sheffield Utd,0.11,,Off Target,14.0,Right Foot,,George Baldock,Pass (Live),John Egan,Pass (Live)
+2,18,Yves Bissouma,Brighton,0.02,0.32,Saved,32.0,Right Foot,,Dan Burn,Pass (Live),Yves Bissouma,Fouled
+3,26,Enda Stevens,Sheffield Utd,0.03,0.29,Goal,15.0,Left Foot,,John Fleck,Pass (Live),Oliver Norwood,Pass (Live)
+4,30,Neal Maupay,Brighton,0.48,0.9,Goal,4.0,Head,,Adam Webster,Pass (Live),Aaron Mooy,Pass (Dead)
+5,35,John Fleck,Sheffield Utd,0.02,,Blocked,25.0,Left Foot,,John Fleck,Take-On,Oliver Norwood,Pass (Live)
+6,36,Ezequiel Schelotto,Brighton,0.1,,Blocked,9.0,Right Foot,,,,,
+7,36,Glenn Murray,Brighton,0.27,,Off Target,6.0,Right Foot,,Aaron Mooy,Pass (Dead),Ezequiel Schelotto,Shot
+8,45+1,John Egan,Sheffield Utd,0.06,,Blocked,9.0,Head,,John Fleck,Pass (Dead),,
+9,,,,,,,,,,,,,
+10,50,Neal Maupay,Brighton,0.03,,Blocked,31.0,Left Foot,,Aaron Mooy,Pass (Live),,
+11,51,Shane Duffy,Brighton,0.11,,Blocked,6.0,Head,,Aaron Mooy,Pass (Dead),Neal Maupay,Shot
+12,51,Lewis Dunk,Brighton,0.14,,Off Target,9.0,Right Foot,Volley,Shane Duffy,Shot,,
+13,54,John Fleck,Sheffield Utd,0.03,,Off Target,27.0,Left Foot,,Oliver Norwood,Pass (Live),George Baldock,Pass (Live)
+14,56,Yves Bissouma,Brighton,0.03,,Off Target,32.0,Right Foot,,Davy Pröpper,Pass (Live),Yves Bissouma,Pass (Live)
+15,59,Oliver McBurnie,Sheffield Utd,0.46,0.26,Saved,4.0,Right Foot,,Oliver Norwood,Pass (Dead),John Fleck,Pass (Live)
+16,60,John Fleck,Sheffield Utd,0.03,,Off Target,25.0,Left Foot,,Oliver McBurnie,Pass (Live),Oliver McBurnie,Take-On
+17,62,Neal Maupay,Brighton,0.04,,Off Target,17.0,Right Foot,Volley,,,,
+18,72,Oliver McBurnie,Sheffield Utd,0.04,,Blocked,10.0,Head,,Chris Basham,Pass (Live),Oliver Norwood,Pass (Dead)
+19,82,Oliver McBurnie,Sheffield Utd,0.27,,Off Target,12.0,Left Foot,,Jack O'Connell,Pass (Live),Ben Osborn,Pass (Live)
+20,88,Oliver McBurnie,Sheffield Utd,0.39,0.51,Saved,5.0,Right Foot,,David McGoldrick,Pass (Live),David McGoldrick,Take-On
+21,88,John Fleck,Sheffield Utd,0.06,,Blocked,11.0,Head,,Oliver McBurnie,Shot,,
+22,90+1,Jack O'Connell,Sheffield Utd,0.06,,Blocked,11.0,Head,,Oliver Norwood,Pass (Dead),Oliver McBurnie,Pass (Live)

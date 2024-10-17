@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Alex Telles,Manchester Utd,0.02,,Off Target,28.0,Left Foot,,Jadon Sancho,Pass (Live),Bruno Fernandes,Pass (Live)
+1,7,Christian Benteke,Crystal Palace,0.33,0.96,Saved,11.0,Left Foot,,Wilfried Zaha,Pass (Live),Christian Benteke,Pass (Live)
+2,9,Wilfried Zaha,Crystal Palace,0.02,0.04,Saved,25.0,Right Foot,,Christian Benteke,Pass (Live),Wilfried Zaha,Pass (Live)
+3,12,Cristiano Ronaldo,Manchester Utd,0.05,,Off Target,28.0,Right Foot,Free kick,Marcus Rashford,Fouled,Bruno Fernandes,Pass (Live)
+4,18,Cristiano Ronaldo,Manchester Utd,0.11,,Blocked,6.0,Left Foot,Volley,Bruno Fernandes,Pass (Live),Jadon Sancho,Pass (Live)
+5,19,Cristiano Ronaldo,Manchester Utd,0.02,,Off Target,16.0,Head,,Diogo Dalot,Pass (Live),Bruno Fernandes,Pass (Live)
+6,22,Cristiano Ronaldo,Manchester Utd,0.06,0.1,Saved,16.0,Left Foot,,Marcus Rashford,Pass (Live),Victor Lindelöf,Pass (Live)
+7,23,Fred,Manchester Utd,0.13,,Blocked,19.0,Left Foot,,Jadon Sancho,Pass (Live),Diogo Dalot,Pass (Live)
+8,26,Bruno Fernandes,Manchester Utd,0.04,0.49,Saved,24.0,Right Foot,Volley,Cristiano Ronaldo,Pass (Live),Alex Telles,Pass (Live)
+9,27,Bruno Fernandes,Manchester Utd,0.1,,Blocked,9.0,Right Foot,,Marcus Rashford,Pass (Live),Alex Telles,Pass (Live)
+10,27,Scott McTominay,Manchester Utd,0.06,,Blocked,23.0,Right Foot,,Marcus Rashford,Pass (Live),Jadon Sancho,Pass (Live)
+11,29,Cristiano Ronaldo,Manchester Utd,0.07,,Blocked,10.0,Head,,Alex Telles,Pass (Dead),Jadon Sancho,Pass (Live)
+12,33,Jadon Sancho,Manchester Utd,0.03,,Blocked,17.0,Right Foot,,Harry Maguire,Pass (Dead),Fred,Fouled
+13,39,Jordan Ayew,Crystal Palace,0.04,,Off Target,29.0,Right Foot,,Wilfried Zaha,Pass (Live),,
+14,41,Christian Benteke,Crystal Palace,0.02,,Blocked,15.0,Head,,Conor Gallagher,Pass (Dead),Wilfried Zaha,Fouled
+15,41,James Tomkins,Crystal Palace,0.01,,Blocked,31.0,Left Foot,Volley,Jordan Ayew,Pass (Live),Jeffrey Schlupp,Pass (Live)
+16,45+1,Diogo Dalot,Manchester Utd,0.11,,Off Target,15.0,Left Foot,,Scott McTominay,Pass (Live),,
+17,,,,,,,,,,,,,
+18,49,Bruno Fernandes,Manchester Utd,0.02,,Off Target,27.0,Right Foot,,Fred,Pass (Live),Cristiano Ronaldo,Pass (Live)
+19,56,Cheikhou Kouyaté,Crystal Palace,0.01,,Blocked,9.0,Head,,Conor Gallagher,Pass (Dead),Jordan Ayew,Fouled
+20,64,Conor Gallagher,Crystal Palace,0.02,,Off Target,29.0,Left Foot,,Nathaniel Clyne,Pass (Dead),,
+21,68,Alex Telles,Manchester Utd,0.04,,Woodwork,23.0,Left Foot,Free kick,Marcus Rashford,Fouled,Bruno Fernandes,Pass (Live)
+22,71,Mason Greenwood,Manchester Utd,0.06,,Off Target,22.0,Left Foot,,Bruno Fernandes,Pass (Live),Mason Greenwood,Pass (Live)
+23,75,Jordan Ayew,Crystal Palace,0.08,,Off Target,4.0,Right Foot,,James Tomkins,Pass (Live),Tyrick Mitchell,Pass (Dead)
+24,77,Fred,Manchester Utd,0.04,0.58,Goal,23.0,Right Foot,,Mason Greenwood,Pass (Live),Diogo Dalot,Pass (Live)

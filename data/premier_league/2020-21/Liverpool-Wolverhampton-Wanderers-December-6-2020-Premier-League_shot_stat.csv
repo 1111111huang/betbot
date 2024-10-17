@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Rúben Neves,Wolves,0.05,,Off Target,28.0,Right Foot,Free kick,Pedro Neto,Fouled,Pedro Neto,Pass (Live)
+1,7,Fernando Marçal,Wolves,0.01,,Off Target,32.0,Left Foot,Volley,João Moutinho,Pass (Live),Pedro Neto,Pass (Dead)
+2,12,Sadio Mané,Liverpool,0.07,,Off Target,10.0,Head,,Andrew Robertson,Pass (Live),Sadio Mané,Pass (Live)
+3,17,Leander Dendoncker,Wolves,0.05,,Off Target,13.0,Head,,Pedro Neto,Pass (Live),Fernando Marçal,Pass (Live)
+4,17,Daniel Podence,Wolves,0.06,0.64,Saved,18.0,Right Foot,,Adama Traoré,Pass (Live),Leander Dendoncker,Shot
+5,24,Mohamed Salah,Liverpool,0.38,0.86,Goal,11.0,Left Foot,,Georginio Wijnaldum,Pass (Live),Sadio Mané,Pass (Live)
+6,33,Sadio Mané,Liverpool,0.06,,Off Target,11.0,Head,,Jordan Henderson,Pass (Live),Curtis Jones,Pass (Live)
+7,35,Mohamed Salah,Liverpool,0.06,0.32,Saved,31.0,Left Foot,Free kick,Sadio Mané,Fouled,Sadio Mané,Take-On
+8,36,Leander Dendoncker,Wolves,0.03,,Off Target,27.0,Right Foot,Volley,Nélson Semedo,Take-On,Leander Dendoncker,Pass (Live)
+9,39,Sadio Mané,Liverpool,0.03,,Blocked,28.0,Right Foot,,Georginio Wijnaldum,Pass (Live),Mohamed Salah,Pass (Live)
+10,,,,,,,,,,,,,
+11,47,Sadio Mané,Liverpool,0.06,0.13,Saved,17.0,Right Foot,,Jordan Henderson,Pass (Live),Joël Matip,Pass (Live)
+12,52,Sadio Mané,Liverpool,0.07,,Off Target,16.0,Right Foot,,Andrew Robertson,Pass (Live),Mohamed Salah,Pass (Live)
+13,58,Georginio Wijnaldum,Liverpool,0.07,0.58,Goal,21.0,Right Foot,,Jordan Henderson,Pass (Live),,
+14,67,Joël Matip,Liverpool,0.33,0.4,Goal,4.0,Head,,Mohamed Salah,Pass (Live),Jordan Henderson,Pass (Dead)
+15,70,Leander Dendoncker,Wolves,0.04,0.14,Saved,11.0,Head,,Pedro Neto,Pass (Live),Nélson Semedo,Pass (Live)
+16,74,Curtis Jones,Liverpool,0.04,0.04,Saved,17.0,Left Foot,,Sadio Mané,Pass (Live),Curtis Jones,Pass (Live)
+17,80,Rayan Aït-Nouri,Wolves,0.05,0.09,Saved,10.0,Left Foot,,Adama Traoré,Pass (Live),Conor Coady,Pass (Live)
+18,80,Adama Traoré,Wolves,0.04,,Off Target,18.0,Right Foot,,,,,
+19,87,Leander Dendoncker,Wolves,0.07,,Blocked,10.0,Head,,Adama Traoré,Pass (Live),Nélson Semedo,Pass (Live)
+20,90+1,Mohamed Salah,Liverpool,0.04,,Off Target,22.0,Left Foot,,Diogo Jota,Pass (Live),Sadio Mané,Pass (Live)

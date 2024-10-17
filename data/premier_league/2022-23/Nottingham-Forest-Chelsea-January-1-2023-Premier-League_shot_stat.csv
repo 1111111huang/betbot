@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Mason Mount,Chelsea,0.05,,Off Target,15.0,Left Foot,,Kalidou Koulibaly,Pass (Live),Thiago Silva,Pass (Live)
+1,7.0,Mason Mount,Chelsea,0.08,,Blocked,13.0,Right Foot,,Raheem Sterling,Pass (Live),Jorginho,Pass (Live)
+2,10.0,Brennan Johnson,Nott'ham Forest,0.22,0.21,Saved,21.0,Left Foot,,Morgan Gibbs-White,Pass (Live),Taiwo Awoniyi,Pass (Live)
+3,10.0,Brennan Johnson,Nott'ham Forest,0.08,0.56,Saved,18.0,Left Foot,,Brennan Johnson,Shot,,
+4,15.0,Morgan Gibbs-White,Nott'ham Forest,0.1,,Blocked,18.0,Right Foot,,Brennan Johnson,Pass (Live),Ryan Yates,Pass (Live)
+5,16.0,Raheem Sterling,Chelsea,0.31,0.94,Goal,5.0,Right Foot,,Mason Mount,Pass (Live),Christian Pulisic,Pass (Live)
+6,22.0,Kai Havertz,Chelsea,0.1,,Blocked,6.0,Left Foot,,Christian Pulisic,Pass (Live),Jorginho,Pass (Live)
+7,40.0,César Azpilicueta,Chelsea,0.02,,Blocked,24.0,Right Foot,,Christian Pulisic,Pass (Live),Thiago Silva,Pass (Live)
+8,43.0,Christian Pulisic,Chelsea,0.12,0.06,Saved,13.0,Right Foot,,Kalidou Koulibaly,Pass (Live),Thiago Silva,Pass (Live)
+9,,,,,,,,,,,,,
+10,47.0,Taiwo Awoniyi,Nott'ham Forest,0.09,0.08,Saved,12.0,Left Foot,,Remo Freuler,Pass (Live),Ryan Yates,Pass (Live)
+11,49.0,Brennan Johnson,Nott'ham Forest,0.21,0.05,Saved,12.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Serge Aurier,Pass (Live)
+12,54.0,Morgan Gibbs-White,Nott'ham Forest,0.06,,Woodwork,20.0,Right Foot,Volley,Ryan Yates,Pass (Live),Brennan Johnson,Pass (Live)
+13,56.0,Morgan Gibbs-White,Nott'ham Forest,0.08,,Blocked,20.0,Right Foot,,Taiwo Awoniyi,Pass (Live),Willy Boly,Pass (Live)
+14,56.0,Serge Aurier,Nott'ham Forest,0.05,,Off Target,11.0,Right Foot,Volley,Morgan Gibbs-White,Pass (Live),Morgan Gibbs-White,Take-On
+15,62.0,Brennan Johnson,Nott'ham Forest,0.03,,Blocked,21.0,Left Foot,,Morgan Gibbs-White,Pass (Live),Dean Henderson,Pass (Live)
+16,63.0,Serge Aurier,Nott'ham Forest,0.2,0.16,Goal,5.0,Right Foot,Volley,Willy Boly,Pass (Live),Brennan Johnson,Shot
+17,68.0,Taiwo Awoniyi,Nott'ham Forest,0.16,,Off Target,12.0,Left Foot,,Renan Lodi,Pass (Live),,
+18,72.0,Ryan Yates,Nott'ham Forest,0.17,,Off Target,17.0,Left Foot,,Renan Lodi,Pass (Live),Morgan Gibbs-White,Pass (Live)
+19,81.0,Pierre-Emerick Aubameyang,Chelsea,0.26,,Off Target,5.0,Head,,Hakim Ziyech,Pass (Live),César Azpilicueta,Pass (Live)

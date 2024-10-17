@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Gustavo Hamer,Sheffield Utd,0.61,,Off Target,15.0,Head,,,,,
+1,4,Ansu Fati,Brighton,0.2,0.03,Saved,18.0,Right Foot,,Ansu Fati,Take-On,Mahmoud Dahoud,Pass (Live)
+2,6,Simon Adingra,Brighton,0.43,0.83,Goal,12.0,Right Foot,,Facundo Buonanotte,Pass (Live),Simon Adingra,Pass (Live)
+3,15,Ansu Fati,Brighton,0.26,0.06,Saved,16.0,Right Foot,,Adam Lallana,Pass (Live),Adam Webster,Pass (Live)
+4,24,Adam Webster,Brighton,0.13,,Off Target,8.0,Head,,Pascal Groß,Pass (Dead),Facundo Buonanotte,Fouled
+5,30,Facundo Buonanotte,Brighton,0.15,,Off Target,8.0,Right Foot,,Billy Gilmour,Pass (Live),Pascal Groß,Pass (Live)
+6,41,Jayden Bogle,Sheffield Utd,0.03,,Off Target,22.0,Right Foot,Volley,Luke Thomas,Pass (Live),Jayden Bogle,Pass (Live)
+7,45+2,Billy Gilmour,Brighton,0.01,0.04,Saved,29.0,Right Foot,Volley,Simon Adingra,Fouled,Simon Adingra,Take-On
+8,45+5,James Mcatee,Sheffield Utd,0.1,,Blocked,9.0,Head,,Jack Robinson,Pass (Live),Gustavo Hamer,Pass (Dead)
+9,45+5,George Baldock,Sheffield Utd,0.02,,Off Target,22.0,Right Foot,,James Mcatee,Shot,,
+10,,,,,,,,,,,,,
+11,51,João Pedro,Brighton,0.12,,Off Target,19.0,Right Foot,,Simon Adingra,Pass (Live),João Pedro,Pass (Live)
+12,59,Jan Paul van Hecke,Brighton,0.1,,Off Target,4.0,Head,,Pascal Groß,Pass (Dead),,
+13,61,Kaoru Mitoma,Brighton,0.09,0.16,Saved,9.0,Left Foot,,Ansu Fati,Pass (Live),Adam Webster,Pass (Live)
+14,62,Kaoru Mitoma,Brighton,0.01,,Blocked,29.0,Right Foot,,,,,
+15,62,Mahmoud Dahoud,Brighton,0.03,0.05,Saved,30.0,Right Foot,,Kaoru Mitoma,Shot,,
+16,74,Jayden Bogle,Sheffield Utd,0.05,,Off Target,11.0,Right Foot,,Gustavo Hamer,Pass (Live),Auston Trusty,Pass (Live)
+17,77,Jayden Bogle,Sheffield Utd,0.18,,Off Target,15.0,Right Foot,,Cameron Archer,Pass (Live),James Mcatee,Pass (Live)
+18,81,Oliver Norwood,Sheffield Utd,0.02,,Blocked,27.0,Right Foot,,Gustavo Hamer,Pass (Live),James Mcatee,Pass (Live)
+19,84,Luke Thomas,Sheffield Utd,0.02,,Off Target,30.0,Left Foot,,Oliver Norwood,Pass (Live),Ben Osborn,Pass (Live)
+20,90,Jayden Bogle,Sheffield Utd,0.03,0.03,Saved,24.0,Right Foot,Deflected,Gustavo Hamer,Pass (Live),Luke Thomas,Pass (Live)

@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Richarlison,Everton,0.56,0.71,Goal,6.0,Right Foot,,Richarlison,Take-On,Gylfi Sigurðsson,Pass (Live)
+1,18,Nathan Redmond,Southampton,0.01,,Off Target,26.0,Right Foot,Volley,James Ward-Prowse,Pass (Live),Danny Ings,Pass (Live)
+2,36,Richarlison,Everton,0.17,,Off Target,10.0,Right Foot,Volley,Gylfi Sigurðsson,Pass (Dead),Gylfi Sigurðsson,Fouled
+3,39,Dominic Calvert-Lewin,Everton,0.09,,Blocked,16.0,Left Foot,,Gylfi Sigurðsson,Pass (Live),Richarlison,Pass (Live)
+4,,,,,,,,,,,,,
+5,48,Gylfi Sigurðsson,Everton,0.08,,Blocked,27.0,Right Foot,Free kick,Dominic Calvert-Lewin,Fouled,Gylfi Sigurðsson,Pass (Live)
+6,58,Ben Godfrey,Everton,0.15,,Blocked,11.0,Left Foot,Volley,Lucas Digne,Pass (Dead),Richarlison,Fouled
+7,60,Michael Keane,Everton,0.05,,Off Target,15.0,Head,,Lucas Digne,Pass (Dead),Richarlison,Fouled
+8,62,Mohammed Salisu,Southampton,0.03,,Off Target,10.0,Head,,James Ward-Prowse,Pass (Dead),,
+9,66,Richarlison,Everton,0.08,,Blocked,11.0,Head,,Gylfi Sigurðsson,Pass (Dead),Mason Holgate,Fouled
+10,72,Nathan Redmond,Southampton,0.03,,Off Target,15.0,Right Foot,,James Ward-Prowse,Pass (Live),Moussa Djenepo,Pass (Live)
+11,76,Nathan Tella,Southampton,0.03,,Blocked,21.0,Right Foot,,,,,
+12,84,Moussa Djenepo,Southampton,0.22,,Off Target,15.0,Right Foot,,Stuart Armstrong,Pass (Live),Nathan Tella,Pass (Live)
+13,90,Moussa Djenepo,Southampton,0.05,,Blocked,16.0,Right Foot,,Nathan Tella,Pass (Live),,
+14,90,Stuart Armstrong,Southampton,0.02,,Blocked,26.0,Left Foot,Deflected,Moussa Djenepo,Shot,,
+15,90,Jannik Vestergaard,Southampton,0.09,0.06,Saved,11.0,Left Foot,,Stuart Armstrong,Shot,,
+16,90+5,Danny Ings,Southampton,0.08,,Blocked,10.0,Left Foot,,Stuart Armstrong,Pass (Live),Ryan Bertrand,Pass (Dead)

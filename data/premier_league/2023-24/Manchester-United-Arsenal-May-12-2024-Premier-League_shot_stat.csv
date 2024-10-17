@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Bukayo Saka,Arsenal,0.06,0.03,Saved,11.0,Left Foot,,Thomas Partey,Pass (Live),,
+1,5,Rasmus Højlund,Manchester Utd,0.09,,Off Target,21.0,Left Foot,,Scott McTominay,Interception,,
+2,7,Alejandro Garnacho,Manchester Utd,0.04,,Blocked,17.0,Right Foot,,Sofyan Amrabat,Pass (Live),Amad Diallo,Pass (Live)
+3,7,Alejandro Garnacho,Manchester Utd,0.07,,Blocked,17.0,Right Foot,,Amad Diallo,Pass (Live),Amad Diallo,Take-On
+4,9,Gabriel Magalhães,Arsenal,0.17,,Off Target,6.0,Head,,Bukayo Saka,Pass (Dead),Martin Ødegaard,Pass (Live)
+5,16,Diogo Dalot,Manchester Utd,0.02,,Off Target,24.0,Right Foot,,Casemiro,Pass (Live),Sofyan Amrabat,Pass (Live)
+6,21,Leandro Trossard,Arsenal,0.5,0.98,Goal,3.0,Right Foot,,Kai Havertz,Pass (Live),Ben White,Pass (Live)
+7,28,Takehiro Tomiyasu,Arsenal,0.02,,Blocked,26.0,Right Foot,,Bukayo Saka,Pass (Live),Kai Havertz,Pass (Live)
+8,28,Ben White,Arsenal,0.03,,Off Target,9.0,Right Foot,,Ben White,Take-On,Bukayo Saka,Pass (Live)
+9,31,Casemiro,Manchester Utd,0.03,,Blocked,29.0,Right Foot,,Alejandro Garnacho,Pass (Live),Kobbie Mainoo,Pass (Live)
+10,32,Scott McTominay,Manchester Utd,0.04,,Off Target,26.0,Left Foot,,Kobbie Mainoo,Pass (Live),Rasmus Højlund,Pass (Live)
+11,34,Alejandro Garnacho,Manchester Utd,0.02,,Blocked,27.0,Right Foot,,Rasmus Højlund,Pass (Live),Sofyan Amrabat,Pass (Live)
+12,45+3,Alejandro Garnacho,Manchester Utd,0.02,,Blocked,17.0,Right Foot,,Sofyan Amrabat,Pass (Live),Amad Diallo,Pass (Live)
+13,,,,,,,,,,,,,
+14,55,Declan Rice,Arsenal,0.1,,Blocked,20.0,Right Foot,,Ben White,Pass (Live),Bukayo Saka,Pass (Live)
+15,56,Bukayo Saka,Arsenal,0.29,,Blocked,5.0,Left Foot,,Leandro Trossard,Pass (Live),Declan Rice,Pass (Live)
+16,57,William Saliba,Arsenal,0.04,,Off Target,6.0,Head,,Bukayo Saka,Pass (Dead),,
+17,61,Alejandro Garnacho,Manchester Utd,0.04,,Off Target,22.0,Right Foot,,Amad Diallo,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+18,65,Martin Ødegaard,Arsenal,0.08,0.08,Saved,21.0,Left Foot,,Kai Havertz,Pass (Live),Leandro Trossard,Pass (Live)
+19,68,Casemiro,Manchester Utd,0.02,0.07,Saved,32.0,Right Foot,,Jonny Evans,Pass (Live),Sofyan Amrabat,Pass (Live)
+20,72,Antony,Manchester Utd,0.04,0.06,Saved,20.0,Left Foot,,Antony,Interception,,
+21,74,Sofyan Amrabat,Manchester Utd,0.02,,Blocked,31.0,Right Foot,,Kobbie Mainoo,Pass (Live),Antony,Pass (Live)
+22,77,Alejandro Garnacho,Manchester Utd,0.06,,Off Target,13.0,Left Foot,,Scott McTominay,Pass (Live),Kobbie Mainoo,Pass (Live)
+23,79,Gabriel Martinelli,Arsenal,0.18,0.04,Saved,14.0,Right Foot,,Martin Ødegaard,Pass (Live),Gabriel Magalhães,Pass (Live)
+24,83,Declan Rice,Arsenal,0.03,0.12,Saved,27.0,Right Foot,,Gabriel Martinelli,Pass (Live),,
+25,90+3,Alejandro Garnacho,Manchester Utd,0.02,,Off Target,26.0,Right Foot,,Antony,Pass (Live),Casemiro,Pass (Live)

@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Marcus Rashford,Manchester Utd,0.18,,Blocked,5.0,Right Foot,,Ashley Young,Pass (Live),Paul Pogba,Pass (Dead)
+1,4.0,Scott McTominay,Manchester Utd,0.03,,Off Target,27.0,Right Foot,,Juan Mata,Pass (Live),Paul Pogba,Pass (Live)
+2,8.0,Sofiane Boufal,Southampton,0.03,,Off Target,28.0,Right Foot,,Che Adams,Pass (Live),Pierre Højbjerg,Pass (Live)
+3,10.0,Andreas Pereira,Manchester Utd,0.07,0.35,Saved,16.0,Right Foot,Deflected,Juan Mata,Pass (Live),Scott McTominay,Pass (Live)
+4,10.0,Daniel James,Manchester Utd,0.05,0.66,Goal,16.0,Right Foot,,Scott McTominay,Pass (Live),Andreas Pereira,Pass (Live)
+5,12.0,Pierre Højbjerg,Southampton,0.03,,Off Target,27.0,Right Foot,,,,,
+6,13.0,Daniel James,Manchester Utd,0.03,0.08,Saved,25.0,Right Foot,Deflected,Juan Mata,Pass (Live),Daniel James,Pass (Live)
+7,18.0,Aaron Wan-Bissaka,Manchester Utd,0.25,,Off Target,12.0,Right Foot,Volley,Scott McTominay,Pass (Live),Daniel James,Pass (Live)
+8,22.0,Daniel James,Manchester Utd,0.04,0.04,Saved,24.0,Right Foot,,Marcus Rashford,Pass (Live),Andreas Pereira,Pass (Live)
+9,28.0,Marcus Rashford,Manchester Utd,0.09,,Off Target,8.0,Head,,Daniel James,Pass (Live),Victor Lindelöf,Pass (Live)
+10,32.0,Juan Mata,Manchester Utd,0.04,,Off Target,19.0,Left Foot,,Marcus Rashford,Pass (Live),Juan Mata,Pass (Live)
+11,35.0,Danny Ings,Southampton,0.02,,Off Target,32.0,Right Foot,,Pierre Højbjerg,Pass (Live),James Ward-Prowse,Pass (Live)
+12,36.0,Oriol Romeu,Southampton,0.03,,Blocked,31.0,Right Foot,,Pierre Højbjerg,Pass (Live),James Ward-Prowse,Pass (Live)
+13,37.0,Sofiane Boufal,Southampton,0.09,,Blocked,15.0,Right Foot,,Sofiane Boufal,Take-On,Danny Ings,Pass (Live)
+14,,,,,,,,,,,,,
+15,50.0,Marcus Rashford,Manchester Utd,0.24,0.4,Saved,4.0,Right Foot,,Marcus Rashford,Take-On,Victor Lindelöf,Pass (Live)
+16,55.0,Che Adams,Southampton,0.38,,Off Target,11.0,Right Foot,,Sofiane Boufal,Pass (Live),James Ward-Prowse,Pass (Live)
+17,58.0,Danny Ings,Southampton,0.04,0.06,Saved,9.0,Head,,James Ward-Prowse,Pass (Dead),Danny Ings,Pass (Live)
+18,58.0,Jannik Vestergaard,Southampton,0.19,0.53,Goal,6.0,Head,,Danny Ings,Shot,,
+19,63.0,Sofiane Boufal,Southampton,0.02,,Blocked,20.0,Right Foot,,Shane Long,Pass (Live),,
+20,65.0,Marcus Rashford,Manchester Utd,0.08,,Blocked,13.0,Left Foot,,Paul Pogba,Pass (Live),Paul Pogba,Take-On
+21,66.0,Pierre Højbjerg,Southampton,0.03,,Off Target,29.0,Right Foot,,Oriol Romeu,Pass (Live),Sofiane Boufal,Tackle
+22,69.0,Nemanja Matić,Manchester Utd,0.03,,Off Target,27.0,Left Foot,,Jesse Lingard,Pass (Live),Paul Pogba,Pass (Live)
+23,74.0,Daniel James,Manchester Utd,0.05,0.07,Saved,15.0,Left Foot,,Paul Pogba,Pass (Live),Ashley Young,Pass (Live)
+24,75.0,Daniel James,Manchester Utd,0.06,,Off Target,11.0,Right Foot,Volley,Aaron Wan-Bissaka,Take-On,Scott McTominay,Pass (Live)
+25,83.0,Marcus Rashford,Manchester Utd,0.06,0.1,Saved,13.0,Left Foot,,Paul Pogba,Pass (Live),,
+26,85.0,Jesse Lingard,Manchester Utd,0.03,,Blocked,30.0,Right Foot,,Ashley Young,Pass (Live),Harry Maguire,Pass (Live)
+27,86.0,Nemanja Matić,Manchester Utd,0.07,,Blocked,17.0,Left Foot,,Aaron Wan-Bissaka,Pass (Live),Harry Maguire,Pass (Live)
+28,87.0,Jesse Lingard,Manchester Utd,0.03,,Off Target,30.0,Right Foot,,Paul Pogba,Pass (Live),Nemanja Matić,Pass (Live)
+29,88.0,Mason Greenwood,Manchester Utd,0.03,0.07,Saved,23.0,Left Foot,,Harry Maguire,Pass (Live),,
+30,88.0,Marcus Rashford,Manchester Utd,0.08,,Off Target,10.0,Head,,Daniel James,Pass (Live),Paul Pogba,Pass (Live)
+31,89.0,Ashley Young,Manchester Utd,0.03,,Off Target,26.0,Right Foot,,Ashley Young,Pass (Live),Nemanja Matić,Pass (Live)

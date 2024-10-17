@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,Erling Haaland,Manchester City,0.08,,Off Target,12.0,Left Foot,Volley,Bernardo Silva,Pass (Live),Phil Foden,Pass (Live)
+1,6.0,Erling Haaland,Manchester City,0.5,,Off Target,5.0,Head,,Phil Foden,Pass (Live),Bernardo Silva,Pass (Live)
+2,9.0,Danny Welbeck,Brighton,0.08,,Blocked,13.0,Right Foot,,Facundo Buonanotte,Pass (Live),Kaoru Mitoma,Pass (Live)
+3,10.0,Billy Gilmour,Brighton,0.13,0.16,Saved,17.0,Left Foot,,Billy Gilmour,Interception,,
+4,17.0,Pascal Groß,Brighton,0.03,0.07,Saved,33.0,Right Foot,Free kick,Julio Enciso,Fouled,Jan Paul van Hecke,Pass (Live)
+5,20.0,Danny Welbeck,Brighton,0.07,,Woodwork,28.0,Right Foot,Free kick,Billy Gilmour,Fouled,Danny Welbeck,Pass (Live)
+6,21.0,Erling Haaland,Manchester City,0.33,0.59,Saved,11.0,Left Foot,,Phil Foden,Pass (Live),Phil Foden,Take-On
+7,22.0,Kaoru Mitoma,Brighton,0.02,,Blocked,25.0,Right Foot,,Moisés Caicedo,Pass (Live),Danny Welbeck,Pass (Live)
+8,22.0,Riyad Mahrez,Manchester City,0.05,,Blocked,14.0,Left Foot,,Phil Foden,Pass (Live),Bernardo Silva,Pass (Live)
+9,25.0,Phil Foden,Manchester City,0.38,0.67,Goal,10.0,Right Foot,Deflected,Erling Haaland,Pass (Live),Riyad Mahrez,Pass (Live)
+10,30.0,Julio Enciso,Brighton,0.03,,Blocked,28.0,Right Foot,,Danny Welbeck,Pass (Live),Levi Colwill,Pass (Live)
+11,31.0,Kaoru Mitoma,Brighton,0.71,0.76,Saved,4.0,Other,,Danny Welbeck,Shot,,
+12,31.0,Danny Welbeck,Brighton,0.18,,Off Target,6.0,Head,,Pascal Groß,Pass (Dead),Julio Enciso,Shot
+13,35.0,Facundo Buonanotte,Brighton,0.09,,Blocked,5.0,Head,,Pervis Estupiñán,Pass (Live),Kaoru Mitoma,Pass (Live)
+14,36.0,Facundo Buonanotte,Brighton,0.12,0.02,Saved,17.0,Left Foot,,Facundo Buonanotte,Take-On,Facundo Buonanotte,Take-On
+15,38.0,Julio Enciso,Brighton,0.02,0.46,Goal,32.0,Right Foot,,Levi Colwill,Pass (Live),Jason Steele,Pass (Live)
+16,45.0,Phil Foden,Manchester City,0.07,,Woodwork,9.0,Head,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+17,,,,,,,,,,,,,
+18,48.0,Erling Haaland,Manchester City,0.11,,Off Target,17.0,Left Foot,Volley,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+19,49.0,İlkay Gündoğan,Manchester City,0.07,,Blocked,12.0,Right Foot,,Erling Haaland,Pass (Live),,
+20,50.0,Rico Lewis,Manchester City,0.06,0.03,Saved,21.0,Right Foot,,Phil Foden,Pass (Live),Riyad Mahrez,Pass (Live)
+21,53.0,Cole Palmer,Manchester City,0.03,0.19,Saved,19.0,Left Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+22,56.0,Evan Ferguson,Brighton,0.05,0.14,Saved,14.0,Right Foot,,,,,
+23,56.0,Evan Ferguson,Brighton,0.11,,Off Target,5.0,Head,,Pascal Groß,Pass (Dead),Evan Ferguson,Shot
+24,56.0,Pervis Estupiñán,Brighton,0.03,,Blocked,16.0,Left Foot,Volley,Evan Ferguson,Shot,,
+25,57.0,Kaoru Mitoma,Brighton,0.1,,Off Target,12.0,Right Foot,Volley,Pascal Groß,Pass (Live),Alexis Mac Allister,Pass (Live)
+26,61.0,Alexis Mac Allister,Brighton,0.02,,Blocked,30.0,Right Foot,,Kaoru Mitoma,Pass (Live),Danny Welbeck,Pass (Live)
+27,61.0,Moisés Caicedo,Brighton,0.08,,Blocked,21.0,Right Foot,,Alexis Mac Allister,Shot,,
+28,64.0,Kaoru Mitoma,Brighton,0.35,0.54,Saved,3.0,Right Foot,,Pervis Estupiñán,Pass (Live),Alexis Mac Allister,Pass (Live)
+29,66.0,Erling Haaland,Manchester City,0.04,,Off Target,18.0,Left Foot,,Julián Álvarez,Pass (Live),Kyle Walker,Pass (Live)
+30,67.0,Julián Álvarez,Manchester City,0.03,,Blocked,23.0,Left Foot,,Riyad Mahrez,Pass (Live),Julián Álvarez,Pass (Live)
+31,76.0,Pervis Estupiñán,Brighton,0.02,,Off Target,32.0,Left Foot,,Joël Veltman,Pass (Live),Alexis Mac Allister,Pass (Live)
+32,81.0,Kaoru Mitoma,Brighton,0.13,,Off Target,8.0,Head,,Pascal Groß,Pass (Live),Moisés Caicedo,Pass (Live)
+33,89.0,Erling Haaland,Manchester City,0.07,,Off Target,11.0,Head,,Riyad Mahrez,Pass (Dead),Cole Palmer,Fouled

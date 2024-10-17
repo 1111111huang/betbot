@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Michail Antonio,West Ham,0.06,,Blocked,16.0,Right Foot,,Michail Antonio,Take-On,Aaron Cresswell,Pass (Live)
+1,3,Tomáš Souček,West Ham,0.54,,Off Target,3.0,Left Foot,,Michail Antonio,Shot,,
+2,8,Tomáš Souček,West Ham,0.06,,Off Target,20.0,Right Foot,,Michail Antonio,Pass (Live),,
+3,10,Marco Stiepermann,Norwich City,0.11,,Blocked,9.0,Left Foot,,Onel Hernández,Pass (Live),Emi Buendía,Pass (Live)
+4,10,Mario Vrančić,Norwich City,0.05,,Off Target,26.0,Left Foot,,Emi Buendía,Pass (Live),Marco Stiepermann,Pass (Live)
+5,11,Michail Antonio,West Ham,0.34,0.67,Saved,5.0,Right Foot,Volley,Aaron Cresswell,Pass (Live),Tomáš Souček,Pass (Live)
+6,11,Michail Antonio,West Ham,0.27,0.13,Goal,5.0,Right Foot,Volley,Issa Diop,Pass (Live),Jarrod Bowen,Pass (Dead)
+7,19,Michail Antonio,West Ham,0.07,,Off Target,13.0,Left Foot,Volley,Aaron Cresswell,Pass (Live),Pablo Fornals,Pass (Live)
+8,23,Teemu Pukki,Norwich City,0.05,,Off Target,10.0,Head,,Jamal Lewis,Pass (Live),Emi Buendía,Pass (Live)
+9,30,Onel Hernández,Norwich City,0.12,,Off Target,9.0,Left Foot,,Jamal Lewis,Pass (Live),Onel Hernández,Pass (Live)
+10,32,Mario Vrančić,Norwich City,0.06,,Off Target,26.0,Left Foot,Free kick,Mario Vrančić,Fouled,Teemu Pukki,Pass (Live)
+11,33,Jarrod Bowen,West Ham,0.05,,Off Target,18.0,Left Foot,,Michail Antonio,Pass (Live),Mark Noble,Pass (Live)
+12,36,Jarrod Bowen,West Ham,0.06,,Off Target,10.0,Right Foot,,Mark Noble,Pass (Live),Angelo Ogbonna,Pass (Live)
+13,38,Tomáš Souček,West Ham,0.14,,Off Target,4.0,Head,,Mark Noble,Pass (Dead),Pablo Fornals,Fouled
+14,41,Tomáš Souček,West Ham,0.06,0.09,Saved,17.0,Right Foot,Volley,Mark Noble,Pass (Live),Ryan Fredericks,Pass (Live)
+15,45+1,Michail Antonio,West Ham,0.1,0.25,Goal,10.0,Head,,Mark Noble,Pass (Dead),Mark Noble,Fouled
+16,45+3,Ryan Fredericks,West Ham,0.05,,Off Target,13.0,Right Foot,,Mark Noble,Pass (Live),Tomáš Souček,Pass (Live)
+17,45+3,Emi Buendía,Norwich City,0.03,0.06,Saved,25.0,Left Foot,,,,,
+18,,,,,,,,,,,,,
+19,47,Jarrod Bowen,West Ham,0.02,,Off Target,23.0,Left Foot,,Pablo Fornals,Pass (Live),Declan Rice,Pass (Live)
+20,51,Declan Rice,West Ham,0.07,,Off Target,16.0,Right Foot,,Mark Noble,Pass (Dead),Ryan Fredericks,Fouled
+21,53,Michail Antonio,West Ham,0.38,,Off Target,4.0,Head,,Jarrod Bowen,Pass (Dead),Jarrod Bowen,Fouled
+22,54,Teemu Pukki,Norwich City,0.03,,Blocked,27.0,Right Foot,,Marco Stiepermann,Pass (Live),Timm Klose,Pass (Live)
+23,54,Michail Antonio,West Ham,0.4,0.69,Saved,21.0,Right Foot,,Mark Noble,Pass (Live),Declan Rice,Pass (Live)
+24,54,Michail Antonio,West Ham,0.37,0.54,Goal,11.0,Head,,Michail Antonio,Shot,,
+25,61,Onel Hernández,Norwich City,0.07,0.16,Saved,18.0,Right Foot,,Marco Stiepermann,Pass (Live),Emi Buendía,Pass (Live)
+26,62,Emi Buendía,Norwich City,0.03,,Blocked,30.0,Right Foot,,Jamal Lewis,Pass (Live),Emi Buendía,Pass (Live)
+27,62,Mario Vrančić,Norwich City,0.07,,Off Target,10.0,Head,,Max Aarons,Pass (Live),Alexander Tettey,Pass (Live)
+28,68,Pablo Fornals,West Ham,0.04,,Off Target,22.0,Right Foot,,Mark Noble,Pass (Live),Declan Rice,Pass (Live)
+29,74,Michail Antonio,West Ham,0.72,0.82,Goal,3.0,Right Foot,,Ryan Fredericks,Pass (Live),Mark Noble,Pass (Live)
+30,87,Todd Cantwell,Norwich City,0.02,,Off Target,28.0,Right Foot,,Jamal Lewis,Pass (Live),Lukas Rupp,Pass (Live)

@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Harry Kane,Tottenham,0.04,,Off Target,22.0,Right Foot,,Matt Doherty,Pass (Live),Harry Kane,Pass (Live)
+1,3,Son Heung-min,Tottenham,0.1,0.17,Goal,17.0,Left Foot,,Harry Kane,Shot,,
+2,14,Matty Cash,Aston Villa,0.02,0.08,Saved,28.0,Right Foot,,Philippe Coutinho,Pass (Live),Ollie Watkins,Pass (Live)
+3,15,Matt Doherty,Tottenham,0.03,,Blocked,16.0,Right Foot,,Harry Kane,Pass (Live),Cristian Romero,Pass (Live)
+4,15,Pierre Højbjerg,Tottenham,0.02,,Blocked,28.0,Right Foot,,Matt Doherty,Shot,,
+5,17,Jacob Ramsey,Aston Villa,0.18,0.6,Saved,11.0,Left Foot,,Jacob Ramsey,Take-On,Douglas Luiz,Pass (Live)
+6,19,John McGinn,Aston Villa,0.01,0.1,Saved,28.0,Left Foot,,Lucas Digne,Pass (Live),Philippe Coutinho,Pass (Live)
+7,28,Danny Ings,Aston Villa,0.28,0.06,Saved,9.0,Right Foot,Volley,Philippe Coutinho,Pass (Dead),Matty Cash,Fouled
+8,32,Ollie Watkins,Aston Villa,0.19,,Off Target,7.0,Head,,Philippe Coutinho,Pass (Live),Jacob Ramsey,Pass (Live)
+9,35,Danny Ings,Aston Villa,0.04,,Blocked,18.0,Right Foot,Volley,Philippe Coutinho,Pass (Live),Jacob Ramsey,Pass (Live)
+10,36,Ollie Watkins,Aston Villa,0.04,0.1,Saved,13.0,Left Foot,,Danny Ings,Pass (Live),Philippe Coutinho,Pass (Live)
+11,37,Danny Ings,Aston Villa,0.12,,Off Target,6.0,Right Foot,,Ollie Watkins,Pass (Live),Jacob Ramsey,Pass (Live)
+12,40,Danny Ings,Aston Villa,0.07,,Blocked,19.0,Right Foot,,Douglas Luiz,Pass (Live),Douglas Luiz,Pass (Live)
+13,41,Philippe Coutinho,Aston Villa,0.02,,Off Target,34.0,Right Foot,,John McGinn,Pass (Live),Philippe Coutinho,Pass (Live)
+14,43,Sergio Reguilón,Tottenham,0.04,0.22,Saved,19.0,Right Foot,Deflected,Harry Kane,Pass (Live),Cristian Romero,Pass (Live)
+15,44,Pierre Højbjerg,Tottenham,0.02,,Blocked,25.0,Right Foot,Volley,Sergio Reguilón,Shot,,
+16,45+3,Matty Cash,Aston Villa,0.06,0.06,Saved,14.0,Right Foot,Volley,Jacob Ramsey,Pass (Live),Douglas Luiz,Pass (Live)
+17,45+4,Philippe Coutinho,Aston Villa,0.05,,Blocked,24.0,Right Foot,,Danny Ings,Pass (Live),Tyrone Mings,Pass (Live)
+18,45+5,Philippe Coutinho,Aston Villa,0.03,0.08,Saved,26.0,Right Foot,Free kick,Jacob Ramsey,Fouled,Philippe Coutinho,Shot
+19,45+5,Danny Ings,Aston Villa,0.29,,Blocked,3.0,Head,,Philippe Coutinho,Shot,,
+20,,,,,,,,,,,,,
+21,50,Pierre Højbjerg,Tottenham,0.03,,Blocked,24.0,Right Foot,Volley,,,,
+22,50,Dejan Kulusevski,Tottenham,0.05,0.46,Goal,13.0,Left Foot,,Harry Kane,Pass (Live),Hugo Lloris,Pass (Live)
+23,58,Ezri Konsa,Aston Villa,0.04,,Blocked,8.0,Other,,Lucas Digne,Pass (Dead),,
+24,59,Ezri Konsa,Aston Villa,0.01,,Blocked,12.0,Head,,Lucas Digne,Pass (Dead),Ezri Konsa,Shot
+25,59,Danny Ings,Aston Villa,0.03,,Off Target,25.0,Right Foot,,Lucas Digne,Pass (Live),Jacob Ramsey,Pass (Live)
+26,60,Harry Kane,Tottenham,0.05,,Blocked,11.0,Right Foot,,Emerson,Pass (Live),Sergio Reguilón,Pass (Live)
+27,66,Son Heung-min,Tottenham,0.56,0.6,Goal,16.0,Left Foot,,Harry Kane,Pass (Live),Cristian Romero,Pass (Live)
+28,71,Son Heung-min,Tottenham,0.12,0.42,Goal,16.0,Right Foot,,Dejan Kulusevski,Pass (Live),Son Heung-min,Pass (Live)
+29,89,Leon Bailey,Aston Villa,0.1,,Off Target,17.0,Left Foot,,,,,
+30,90+2,Emi Buendía,Aston Villa,0.04,0.07,Saved,8.0,Left Foot,Volley,Douglas Luiz,Pass (Dead),Leon Bailey,Pass (Live)

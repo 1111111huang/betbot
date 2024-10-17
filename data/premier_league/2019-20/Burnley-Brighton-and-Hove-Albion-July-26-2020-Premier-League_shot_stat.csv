@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,20,Yves Bissouma,Brighton,0.02,0.33,Goal,29.0,Right Foot,,Yves Bissouma,Pass (Live),Solly March,Pass (Live)
+1,24,Aaron Connolly,Brighton,0.13,,Off Target,10.0,Right Foot,Volley,Neal Maupay,Shot,,
+2,24,Neal Maupay,Brighton,0.08,,Woodwork,9.0,Head,,Tariq Lamptey,Pass (Live),Solly March,Pass (Live)
+3,27,Alexis Mac Allister,Brighton,0.25,0.37,Saved,17.0,Left Foot,,Tariq Lamptey,Pass (Live),Tariq Lamptey,Take-On
+4,30,Jóhann Berg Guðmundsson,Burnley,0.06,,Off Target,10.0,Head,,Dwight McNeil,Pass (Live),Ashley Westwood,Pass (Live)
+5,32,Jay Rodriguez,Burnley,0.04,,Off Target,8.0,Head,,Dwight McNeil,Pass (Live),Josh Brownhill,Pass (Live)
+6,33,Neal Maupay,Brighton,0.04,,Blocked,22.0,Left Foot,,Lewis Dunk,Pass (Live),Neal Maupay,Pass (Live)
+7,44,Chris Wood,Burnley,0.41,0.95,Goal,11.0,Left Foot,,Erik Pieters,Pass (Live),James Tarkowski,Pass (Live)
+8,45+1,Solly March,Brighton,0.03,,Blocked,20.0,Left Foot,,Dale Stephens,Pass (Live),Neal Maupay,Pass (Live)
+9,,,,,,,,,,,,,
+10,48,Aaron Connolly,Brighton,0.29,0.49,Saved,5.0,Left Foot,,Tariq Lamptey,Pass (Live),Lewis Dunk,Pass (Live)
+11,50,Aaron Connolly,Brighton,0.1,0.6,Goal,10.0,Right Foot,,Aaron Connolly,Take-On,Neal Maupay,Pass (Live)
+12,55,Alexis Mac Allister,Brighton,0.03,,Off Target,28.0,Right Foot,,Dale Stephens,Pass (Live),Tariq Lamptey,Pass (Live)
+13,62,Jay Rodriguez,Burnley,0.04,,Off Target,18.0,Right Foot,Volley,Phil Bardsley,Pass (Live),Ashley Westwood,Pass (Live)
+14,63,Kevin Long,Burnley,0.14,,Blocked,12.0,Right Foot,,James Tarkowski,Pass (Live),Ashley Westwood,Pass (Dead)
+15,64,Chris Wood,Burnley,0.07,,Blocked,5.0,Head,,Dwight McNeil,Pass (Dead),Kevin Long,Shot
+16,64,Jay Rodriguez,Burnley,0.78,,Blocked,2.0,Head,,Chris Wood,Shot,,
+17,71,Jay Rodriguez,Burnley,0.06,,Off Target,23.0,Left Foot,,Chris Wood,Pass (Live),Jóhann Berg Guðmundsson,Pass (Live)
+18,71,Dwight McNeil,Burnley,0.03,,Off Target,27.0,Left Foot,,Ashley Westwood,Tackle,,
+19,72,Alexis Mac Allister,Brighton,0.06,,Off Target,15.0,Right Foot,,,,,
+20,72,Aaron Connolly,Brighton,0.07,,Blocked,15.0,Right Foot,,Alexis Mac Allister,Shot,,
+21,72,Aaron Connolly,Brighton,0.02,,Off Target,33.0,Right Foot,,Aaron Connolly,Shot,,
+22,76,Chris Wood,Burnley,0.1,,Off Target,8.0,Right Foot,Volley,Erik Pieters,Pass (Live),Dwight McNeil,Pass (Live)
+23,76,Chris Wood,Burnley,0.05,,Off Target,9.0,Head,,Dwight McNeil,Pass (Live),Ashley Westwood,Pass (Live)
+24,83,Robbie Brady,Burnley,0.04,,Blocked,23.0,Left Foot,,Josh Brownhill,Pass (Live),Ashley Westwood,Pass (Live)
+25,87,Robbie Brady,Burnley,0.05,,Off Target,16.0,Left Foot,,Matěj Vydra,Pass (Live),Robbie Brady,Pass (Live)
+26,89,Aaron Connolly,Brighton,0.06,,Blocked,18.0,Right Foot,,Aaron Mooy,Pass (Live),,
+27,90+2,Tariq Lamptey,Brighton,0.04,,Blocked,20.0,Right Foot,,Neal Maupay,Pass (Live),Bernardo,Pass (Live)
+28,90+2,Aaron Mooy,Brighton,0.03,,Off Target,28.0,Right Foot,,Tariq Lamptey,Shot,,

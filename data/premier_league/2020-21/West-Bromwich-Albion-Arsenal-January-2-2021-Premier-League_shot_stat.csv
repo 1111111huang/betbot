@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Héctor Bellerín,Arsenal,0.04,0.11,Saved,18.0,Right Foot,,Kieran Tierney,Pass (Live),Dani Ceballos,Pass (Live)
+1,3,Bukayo Saka,Arsenal,0.04,,Blocked,19.0,Left Foot,,Héctor Bellerín,Shot,,
+2,10,Bukayo Saka,Arsenal,0.04,0.08,Saved,17.0,Right Foot,,Alexandre Lacazette,Pass (Live),Kieran Tierney,Pass (Live)
+3,14,Kieran Tierney,Arsenal,0.02,,Off Target,28.0,Left Foot,,Emile Smith Rowe,Fouled,Bukayo Saka,Pass (Live)
+4,16,Bukayo Saka,Arsenal,0.03,,Off Target,21.0,Left Foot,,Dani Ceballos,Pass (Live),Héctor Bellerín,Pass (Live)
+5,21,Matt Phillips,West Brom,0.41,0.48,Saved,15.0,Right Foot,Volley,Matheus Pereira,Pass (Live),,
+6,23,Kieran Tierney,Arsenal,0.05,0.14,Goal,15.0,Right Foot,,Kieran Tierney,Take-On,Kieran Tierney,Take-On
+7,25,Alexandre Lacazette,Arsenal,0.03,,Off Target,28.0,Right Foot,,,,,
+8,28,Bukayo Saka,Arsenal,0.78,0.94,Goal,4.0,Left Foot,,Emile Smith Rowe,Pass (Live),Alexandre Lacazette,Pass (Live)
+9,30,Pierre-Emerick Aubameyang,Arsenal,0.04,,Blocked,22.0,Right Foot,,Alexandre Lacazette,Pass (Live),Alexandre Lacazette,Tackle
+10,34,Rob Holding,Arsenal,0.08,0.02,Saved,9.0,Head,,Bukayo Saka,Pass (Dead),Emile Smith Rowe,Pass (Live)
+11,40,Semi Ajayi,West Brom,0.07,,Off Target,9.0,Head,,Matt Phillips,Pass (Dead),,
+12,44,Alexandre Lacazette,Arsenal,0.08,0.09,Saved,7.0,Right Foot,,Alexandre Lacazette,Take-On,Kieran Tierney,Pass (Live)
+13,,,,,,,,,,,,,
+14,54,Darnell Furlong,West Brom,0.04,,Off Target,15.0,Head,,Callum Robinson,Pass (Live),Romaine Sawyers,Pass (Live)
+15,55,Alexandre Lacazette,Arsenal,0.31,0.18,Saved,10.0,Right Foot,,Dani Ceballos,Pass (Live),Dani Ceballos,Take-On
+16,60,Emile Smith Rowe,Arsenal,0.07,,Blocked,16.0,Left Foot,Volley,Alexandre Lacazette,Pass (Live),Pierre-Emerick Aubameyang,Pass (Live)
+17,61,Alexandre Lacazette,Arsenal,0.44,0.6,Goal,10.0,Right Foot,,Emile Smith Rowe,Shot,,
+18,64,Alexandre Lacazette,Arsenal,0.7,0.95,Goal,4.0,Right Foot,Volley,Kieran Tierney,Pass (Live),Pierre-Emerick Aubameyang,Pass (Live)
+19,67,Dani Ceballos,Arsenal,0.02,,Off Target,32.0,Right Foot,,Emile Smith Rowe,Pass (Live),Alexandre Lacazette,Pass (Live)
+20,75,Willian,Arsenal,0.06,,Off Target,13.0,Left Foot,Volley,Kieran Tierney,Pass (Live),Pierre-Emerick Aubameyang,Pass (Live)
+21,75,Pierre-Emerick Aubameyang,Arsenal,0.72,,Off Target,5.0,Left Foot,,Willian,Shot,,
+22,78,Charlie Austin,West Brom,0.36,,Off Target,12.0,Right Foot,,Callum Robinson,Pass (Live),Conor Gallagher,Pass (Live)
+23,80,Pierre-Emerick Aubameyang,Arsenal,0.08,0.2,Saved,15.0,Left Foot,,Kieran Tierney,Pass (Live),,
+24,88,Charlie Austin,West Brom,0.03,,Blocked,25.0,Right Foot,,Dara O'Shea,Interception,,
+25,89,Conor Gallagher,West Brom,0.02,0.06,Saved,33.0,Right Foot,,Callum Robinson,Pass (Live),Romaine Sawyers,Pass (Live)
+26,89,Joe Willock,Arsenal,0.06,,Off Target,11.0,Head,,Willian,Pass (Live),Dani Ceballos,Pass (Live)
+27,90+2,Willian,Arsenal,0.04,0.07,Saved,18.0,Left Foot,,Willian,Take-On,Dani Ceballos,Pass (Live)
+28,90+3,Rekeem Harper,West Brom,0.03,0.4,Saved,26.0,Left Foot,,Matheus Pereira,Pass (Live),Callum Robinson,Pass (Live)

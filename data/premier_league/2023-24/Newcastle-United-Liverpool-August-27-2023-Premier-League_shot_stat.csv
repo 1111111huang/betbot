@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Joël Matip,Liverpool,0.11,,Off Target,8.0,Head,,Trent Alexander-Arnold,Pass (Dead),Trent Alexander-Arnold,Pass (Live)
+1,16,Joelinton,Newcastle Utd,0.06,0.02,Saved,18.0,Right Foot,,Alexander Isak,Pass (Live),,
+2,16,Anthony Gordon,Newcastle Utd,0.02,0.26,Saved,28.0,Right Foot,Deflected,Joelinton,Pass (Live),Anthony Gordon,Pass (Live)
+3,17,Luis Díaz,Liverpool,0.08,0.2,Saved,10.0,Right Foot,,Luis Díaz,Take-On,Dominik Szoboszlai,Pass (Live)
+4,24,Mohamed Salah,Liverpool,0.03,0.03,Saved,22.0,Left Foot,,Cody Gakpo,Pass (Live),Dominik Szoboszlai,Pass (Live)
+5,25,Anthony Gordon,Newcastle Utd,0.51,0.25,Goal,16.0,Right Foot,,,,,
+6,31,Fabian Schär,Newcastle Utd,0.1,,Blocked,23.0,Right Foot,Free kick,Alexander Isak,Fouled,Joelinton,Pass (Live)
+7,31,Sandro Tonali,Newcastle Utd,0.02,,Blocked,28.0,Right Foot,,Fabian Schär,Shot,,
+8,36,Miguel Almirón,Newcastle Utd,0.1,0.17,Saved,16.0,Left Foot,Volley,Miguel Almirón,Pass (Live),Kieran Trippier,Pass (Dead)
+9,36,Miguel Almirón,Newcastle Utd,0.03,,Off Target,25.0,Left Foot,Volley,Miguel Almirón,Shot,,
+10,38,Miguel Almirón,Newcastle Utd,0.08,,Off Target,21.0,Left Foot,,Kieran Trippier,Pass (Live),Anthony Gordon,Pass (Live)
+11,45+1,Dominik Szoboszlai,Liverpool,0.03,,Off Target,35.0,Right Foot,Free kick,Alexis Mac Allister,Fouled,Wataru Endo,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Alexander Isak,Newcastle Utd,0.16,0.43,Saved,8.0,Left Foot,Deflected,Anthony Gordon,Pass (Live),Anthony Gordon,Take-On
+14,50,Miguel Almirón,Newcastle Utd,0.13,,Off Target,12.0,Left Foot,,Joelinton,Pass (Live),Sandro Tonali,Pass (Live)
+15,54,Anthony Gordon,Newcastle Utd,0.03,0.02,Saved,23.0,Right Foot,,Bruno Guimarães,Pass (Live),Bruno Guimarães,Take-On
+16,58,Bruno Guimarães,Newcastle Utd,0.02,,Off Target,30.0,Right Foot,,Anthony Gordon,Pass (Live),Dan Burn,Pass (Live)
+17,62,Joe Gomez,Liverpool,0.01,,Off Target,16.0,Head,,Andrew Robertson,Pass (Dead),Joe Gomez,Fouled
+18,64,Anthony Gordon,Newcastle Utd,0.09,,Off Target,21.0,Right Foot,,Dan Burn,Pass (Live),Sven Botman,Pass (Live)
+19,66,Sven Botman,Newcastle Utd,0.07,,Off Target,10.0,Head,,Kieran Trippier,Pass (Dead),Kieran Trippier,Fouled
+20,67,Mohamed Salah,Liverpool,0.14,,Blocked,9.0,Left Foot,,Diogo Jota,Pass (Live),Mohamed Salah,Pass (Live)
+21,74,Callum Wilson,Newcastle Utd,0.03,,Off Target,13.0,Head,,Sean Longstaff,Pass (Live),Miguel Almirón,Pass (Live)
+22,76,Miguel Almirón,Newcastle Utd,0.16,,Woodwork,16.0,Left Foot,,Kieran Trippier,Pass (Live),Nick Pope,Pass (Live)
+23,79,Harvey Barnes,Newcastle Utd,0.08,,Blocked,14.0,Right Foot,,Joelinton,Pass (Live),Joelinton,Take-On
+24,81,Darwin Núñez,Liverpool,0.07,0.68,Goal,18.0,Right Foot,,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+25,84,Dominik Szoboszlai,Liverpool,0.04,,Blocked,22.0,Right Foot,,Mohamed Salah,Tackle,,
+26,85,Sven Botman,Newcastle Utd,0.01,,Off Target,15.0,Head,,Kieran Trippier,Pass (Live),Bruno Guimarães,Pass (Dead)
+27,89,Miguel Almirón,Newcastle Utd,0.05,,Blocked,18.0,Left Foot,,Harvey Barnes,Pass (Live),Matt Targett,Pass (Live)
+28,89,Sean Longstaff,Newcastle Utd,0.05,0.09,Saved,28.0,Right Foot,,Bruno Guimarães,Pass (Live),Matt Targett,Pass (Live)
+29,90,Callum Wilson,Newcastle Utd,0.07,,Off Target,14.0,Right Foot,,Kieran Trippier,Pass (Live),Fabian Schär,Pass (Live)
+30,90+3,Sean Longstaff,Newcastle Utd,0.12,0.1,Saved,10.0,Right Foot,,Elliot Anderson,Pass (Live),Matt Targett,Pass (Live)
+31,90+3,Darwin Núñez,Liverpool,0.36,0.84,Goal,14.0,Right Foot,,Mohamed Salah,Pass (Live),,
+32,90+7,Nick Pope,Newcastle Utd,0.03,,Off Target,14.0,Head,,Sean Longstaff,Fouled,Kieran Trippier,Pass (Live)

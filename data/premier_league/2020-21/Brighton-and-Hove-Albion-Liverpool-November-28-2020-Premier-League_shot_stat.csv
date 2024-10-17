@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Mohamed Salah,Liverpool,0.06,,Off Target,16.0,Left Foot,,Fabinho,Pass (Live),Takumi Minamino,Pass (Live)
+1,7,Diogo Jota,Liverpool,0.03,,Blocked,25.0,Right Foot,,Mohamed Salah,Pass (Live),Takumi Minamino,Pass (Live)
+2,7,Roberto Firmino,Liverpool,0.02,,Blocked,18.0,Right Foot,,Andrew Robertson,Pass (Live),Roberto Firmino,Pass (Live)
+3,10,Aaron Connolly,Brighton,0.28,,Off Target,21.0,Right Foot,,Neal Maupay,Pass (Live),Neal Maupay,Take-On
+4,20,Neal Maupay (pen),Brighton,0.79,,Off Target,13.0,Right Foot,,Aaron Connolly,Fouled,Yves Bissouma,Pass (Live)
+5,26,Aaron Connolly,Brighton,0.07,,Blocked,16.0,Right Foot,Volley,Aaron Connolly,Take-On,Ben White,Pass (Live)
+6,33,Leandro Trossard,Brighton,0.03,,Off Target,25.0,Right Foot,,Aaron Connolly,Pass (Live),Pascal Groß,Pass (Live)
+7,38,Danny Welbeck,Brighton,0.05,,Off Target,13.0,Left Foot,,Solly March,Pass (Live),,
+8,42,Takumi Minamino,Liverpool,0.03,0.04,Saved,26.0,Right Foot,,,,,
+9,,,,,,,,,,,,,
+10,54,Danny Welbeck,Brighton,0.07,0.2,Saved,14.0,Left Foot,,Danny Welbeck,Take-On,Danny Welbeck,Take-On
+11,60,Diogo Jota,Liverpool,0.06,0.47,Goal,16.0,Right Foot,Deflected,Diogo Jota,Take-On,Mohamed Salah,Pass (Live)
+12,69,Roberto Firmino,Liverpool,0.03,,Blocked,25.0,Right Foot,,,,,
+13,74,Solly March,Brighton,0.07,0.23,Saved,25.0,Left Foot,Free kick,Danny Welbeck,Fouled,Pascal Groß,Pass (Live)
+14,81,Solly March,Brighton,0.02,,Off Target,22.0,Left Foot,Volley,Joël Veltman,Pass (Live),Joël Veltman,Take-On
+15,90+3,Pascal Groß (pen),Brighton,0.79,0.87,Goal,13.0,Right Foot,,Danny Welbeck,Fouled,Pascal Groß,Pass (Live)
+16,90+7,Alireza Jahanbakhsh,Brighton,0.04,,Blocked,18.0,Left Foot,,Alireza Jahanbakhsh,Take-On,Danny Welbeck,Pass (Live)
+17,90+7,Adam Webster,Brighton,0.07,,Off Target,7.0,Head,,Pascal Groß,Pass (Dead),Alireza Jahanbakhsh,Shot

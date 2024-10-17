@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Andrew Robertson,Liverpool,0.05,,Off Target,12.0,Head,,Trent Alexander-Arnold,Pass (Live),Sadio Mané,Pass (Live)
+1,2,James Milner,Liverpool,0.04,0.21,Saved,24.0,Left Foot,Deflected,Mohamed Salah,Pass (Live),Naby Keïta,Pass (Live)
+2,10,Trent Alexander-Arnold,Liverpool,0.03,0.25,Saved,28.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Diogo Jota,Pass (Live)
+3,13,Harry Kane,Tottenham,0.1,,Blocked,6.0,Right Foot,,Emerson,Pass (Live),Tanguy Ndombele,Pass (Live)
+4,13,Harry Kane,Tottenham,0.12,0.61,Goal,11.0,Right Foot,,Tanguy Ndombele,Pass (Live),Davinson Sánchez,Pass (Live)
+5,16,Son Heung-min,Tottenham,0.6,,Off Target,11.0,Left Foot,,Harry Kane,Pass (Live),Harry Kane,Take-On
+6,23,Sadio Mané,Liverpool,0.05,,Blocked,16.0,Right Foot,,James Milner,Pass (Live),Diogo Jota,Pass (Live)
+7,23,Naby Keïta,Liverpool,0.04,0.15,Saved,21.0,Left Foot,Deflected,Sadio Mané,Shot,,
+8,24,Joël Matip,Liverpool,0.01,,Off Target,12.0,Head,,James Milner,Pass (Live),Naby Keïta,Pass (Live)
+9,27,James Milner,Liverpool,0.01,,Blocked,27.0,Right Foot,,James Milner,Fouled,Naby Keïta,Pass (Live)
+10,29,Sadio Mané,Liverpool,0.03,,Off Target,6.0,Head,,Andrew Robertson,Pass (Live),Trent Alexander-Arnold,Pass (Dead)
+11,30,Dele Alli,Tottenham,0.57,0.82,Saved,16.0,Right Foot,,Son Heung-min,Pass (Live),Harry Winks,Pass (Live)
+12,35,Diogo Jota,Liverpool,0.12,0.31,Goal,9.0,Head,,Andrew Robertson,Pass (Live),Andrew Robertson,Pass (Live)
+13,38,Davinson Sánchez,Tottenham,0.21,0.16,Saved,5.0,Head,,Son Heung-min,Pass (Dead),Son Heung-min,Pass (Live)
+14,41,Mohamed Salah,Liverpool,0.04,,Blocked,17.0,Left Foot,,Naby Keïta,Pass (Live),Mohamed Salah,Pass (Live)
+15,43,Trent Alexander-Arnold,Liverpool,0.16,0.14,Saved,10.0,Right Foot,,Sadio Mané,Pass (Live),Diogo Jota,Pass (Live)
+16,44,Diogo Jota,Liverpool,0.07,,Off Target,10.0,Head,,Trent Alexander-Arnold,Pass (Dead),Trent Alexander-Arnold,Fouled
+17,,,,,,,,,,,,,
+18,48,Diogo Jota,Liverpool,0.04,,Off Target,14.0,Head,,Trent Alexander-Arnold,Pass (Live),James Milner,Pass (Dead)
+19,48,Harry Kane,Tottenham,0.05,,Blocked,16.0,Left Foot,,Emerson,Pass (Live),Tanguy Ndombele,Pass (Live)
+20,50,Naby Keïta,Liverpool,0.03,,Blocked,19.0,Right Foot,,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+21,55,Harry Kane,Tottenham,0.25,0.36,Saved,11.0,Left Foot,,Dele Alli,Pass (Live),Eric Dier,Pass (Live)
+22,56,Harry Kane,Tottenham,0.51,,Off Target,3.0,Head,,Son Heung-min,Pass (Dead),Harry Winks,Pass (Live)
+23,59,Mohamed Salah,Liverpool,0.04,,Blocked,21.0,Left Foot,,Diogo Jota,Pass (Live),Tyler Morton,Pass (Live)
+24,61,James Milner,Liverpool,0.02,,Off Target,28.0,Right Foot,,Mohamed Salah,Pass (Live),Sadio Mané,Fouled
+25,61,Naby Keïta,Liverpool,0.01,,Blocked,23.0,Right Foot,,Andrew Robertson,Pass (Dead),,
+26,69,Andrew Robertson,Liverpool,0.34,0.92,Goal,3.0,Head,,Trent Alexander-Arnold,Pass (Live),Andrew Robertson,Pass (Live)
+27,74,Son Heung-min,Tottenham,0.57,0.15,Goal,12.0,Left Foot,,Ben Davies,Pass (Live),Harry Winks,Pass (Live)
+28,90+6,Harry Kane,Tottenham,0.03,,Off Target,13.0,Left Foot,Volley,Harry Winks,Pass (Live),Eric Dier,Pass (Live)

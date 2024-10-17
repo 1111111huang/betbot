@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Antoine Semenyo,Bournemouth,0.06,0.0,Blocked,22.0,Right Foot,,Alex Scott,Tackle,,
+1,5,Dango Ouattara,Bournemouth,0.22,0.0,Off Target,5.0,Head,,Lewis Cook,Pass (Dead),Antoine Semenyo,Shot
+2,18,Morgan Gibbs-White,Nott'ham Forest,0.02,0.0,Off Target,28.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Ola Aina,Pass (Live)
+3,23,Ryan Yates,Nott'ham Forest,0.13,0.17,Saved,17.0,Right Foot,,Anthony Elanga,Pass (Live),Ryan Yates,Pass (Live)
+4,23,Chris Wood,Nott'ham Forest,0.71,0.95,Goal,8.0,Right Foot,,Ryan Yates,Shot,,
+5,27,Ola Aina,Nott'ham Forest,0.02,0.0,Off Target,29.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+6,30,Anthony Elanga,Nott'ham Forest,0.02,0.07,Saved,30.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Anthony Elanga,Pass (Live)
+7,31,Callum Hudson-Odoi,Nott'ham Forest,0.02,0.01,Saved,26.0,Right Foot,,Anthony Elanga,Shot,,
+8,31,Luis Sinisterra,Bournemouth,0.04,0.0,Blocked,23.0,Left Foot,Deflected,Marcus Tavernier,Pass (Live),Milos Kerkez,Pass (Live)
+9,41,Ryan Yates,Nott'ham Forest,0.05,0.0,Blocked,25.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Morgan Gibbs-White,Pass (Live)
+10,41,Neco Williams,Nott'ham Forest,0.03,0.0,Off Target,14.0,Right Foot,,Anthony Elanga,Pass (Live),Ryan Yates,Shot
+11,45+1,Antoine Semenyo,Bournemouth,0.03,0.0,Off Target,19.0,Left Foot,,Marcus Tavernier,Pass (Live),Dango Ouattara,Pass (Live)
+12,45+7,Callum Hudson-Odoi,Nott'ham Forest,0.04,0.32,Saved,14.0,Right Foot,,Anthony Elanga,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+13,45+7,Luis Sinisterra,Bournemouth,0.12,0.19,Saved,12.0,Left Foot,,Marcus Tavernier,Pass (Live),,
+14,45+10,Marcus Tavernier,Bournemouth,0.04,0.0,Blocked,18.0,Left Foot,Volley,Antoine Semenyo,Pass (Live),Dango Ouattara,Pass (Live)
+15,45+11,Marcus Tavernier,Bournemouth,0.05,0.48,Saved,30.0,Left Foot,Free kick,Alex Scott,Fouled,Marcus Tavernier,Pass (Live)
+16,,,,,,,,,,,,,
+17,59,Marcus Tavernier,Bournemouth,0.03,0.0,Off Target,27.0,Left Foot,,Marcus Tavernier,Pass (Live),Illia Zabarnyi,Pass (Dead)
+18,61,Willy Boly,Nott'ham Forest,0.07,0.25,Saved,10.0,Head,,Callum Hudson-Odoi,Pass (Dead),Morgan Gibbs-White,Pass (Live)
+19,63,Antoine Semenyo,Bournemouth,0.01,0.0,Off Target,30.0,Right Foot,,Marcus Tavernier,Pass (Live),Dean Huijsen,Pass (Live)
+20,65,Antoine Semenyo,Bournemouth,0.03,0.01,Saved,23.0,Right Foot,,Milos Kerkez,Pass (Live),Ryan Christie,Pass (Live)
+21,77,Marcus Tavernier,Bournemouth,0.27,0.0,Off Target,5.0,Head,,Milos Kerkez,Pass (Live),Daniel Jebbison,Pass (Live)
+22,78,Marcus Tavernier,Bournemouth,0.02,0.0,Off Target,36.0,Left Foot,,Daniel Jebbison,Pass (Live),Julian Araujo,Pass (Live)
+23,81,Harry Toffolo,Nott'ham Forest,0.02,0.0,Blocked,29.0,Left Foot,,Ryan Yates,Pass (Live),Taiwo Awoniyi,Pass (Live)
+24,86,Ryan Yates,Nott'ham Forest,0.06,0.05,Saved,17.0,Left Foot,,Morgan Gibbs-White,Pass (Live),Nicolás Domínguez,Pass (Live)
+25,86,Antoine Semenyo,Bournemouth,0.3,0.51,Goal,4.0,Left Foot,Volley,Justin Kluivert,Pass (Live),Milos Kerkez,Pass (Live)
+26,90,Morgan Gibbs-White,Nott'ham Forest,0.08,0.0,Blocked,13.0,Right Foot,,Neco Williams,Pass (Live),Nicolás Domínguez,Pass (Live)
+27,90+1,Taiwo Awoniyi,Nott'ham Forest,0.12,0.04,Saved,10.0,Head,,Neco Williams,Pass (Live),Morgan Gibbs-White,Pass (Live)

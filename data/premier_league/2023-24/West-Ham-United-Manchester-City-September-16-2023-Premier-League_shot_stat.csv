@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Rodri,Manchester City,0.02,0.14,Saved,12.0,Head,,Phil Foden,Pass (Dead),Manuel Akanji,Pass (Live)
+1,7,Rodri,Manchester City,0.1,,Blocked,12.0,Left Foot,Volley,Rodri,Pass (Live),Rodri,Shot
+2,7,Erling Haaland,Manchester City,0.26,,Blocked,5.0,Left Foot,,Rodri,Shot,,
+3,7,Rúben Dias,Manchester City,0.16,0.06,Saved,8.0,Head,,Erling Haaland,Shot,,
+4,7,Erling Haaland,Manchester City,0.04,,Blocked,13.0,Left Foot,Volley,Jeremy Doku,Pass (Live),Rúben Dias,Shot
+5,15,Erling Haaland,Manchester City,0.54,,Off Target,7.0,Left Foot,,Joško Gvardiol,Pass (Live),Jeremy Doku,Pass (Live)
+6,17,Nayef Aguerd,West Ham,0.24,,Off Target,3.0,Head,,Tomáš Souček,Pass (Live),Jarrod Bowen,Pass (Dead)
+7,18,Jeremy Doku,Manchester City,0.03,0.03,Saved,17.0,Right Foot,,Manuel Akanji,Pass (Live),Bernardo Silva,Pass (Live)
+8,21,Phil Foden,Manchester City,0.05,,Blocked,21.0,Left Foot,,Bernardo Silva,Pass (Live),Rodri,Pass (Live)
+9,22,Rúben Dias,Manchester City,0.03,0.05,Saved,13.0,Head,,Bernardo Silva,Pass (Live),Rodri,Pass (Live)
+10,28,Erling Haaland,Manchester City,0.08,,Blocked,16.0,Left Foot,,Phil Foden,Pass (Live),Rodri,Pass (Live)
+11,28,Rodri,Manchester City,0.02,0.07,Saved,25.0,Right Foot,,Rodri,Take-On,Julián Álvarez,Pass (Live)
+12,35,James Ward-Prowse,West Ham,0.04,0.15,Saved,21.0,Right Foot,Deflected,Emerson Palmieri,Pass (Live),Lucas Paquetá,Pass (Live)
+13,36,James Ward-Prowse,West Ham,0.53,0.86,Goal,8.0,Head,,Vladimír Coufal,Pass (Live),Jarrod Bowen,Pass (Live)
+14,38,Julián Álvarez,Manchester City,0.02,,Blocked,29.0,Right Foot,,Rodri,Pass (Live),Manuel Akanji,Pass (Live)
+15,42,Erling Haaland,Manchester City,0.58,,Blocked,3.0,Right Foot,,Jeremy Doku,Pass (Live),Jeremy Doku,Take-On
+16,43,Jeremy Doku,Manchester City,0.01,,Blocked,26.0,Right Foot,Volley,Julián Álvarez,Pass (Live),Rodri,Pass (Live)
+17,44,Rodri,Manchester City,0.02,,Off Target,34.0,Right Foot,,Joško Gvardiol,Pass (Live),Jeremy Doku,Pass (Live)
+18,45,Phil Foden,Manchester City,0.03,,Blocked,22.0,Left Foot,Volley,Erling Haaland,Pass (Live),Jeremy Doku,Pass (Live)
+19,45+3,Phil Foden,Manchester City,0.03,,Blocked,23.0,Left Foot,,Rodri,Pass (Live),Julián Álvarez,Pass (Live)
+20,,,,,,,,,,,,,
+21,46,Jeremy Doku,Manchester City,0.06,0.61,Goal,12.0,Right Foot,,Julián Álvarez,Pass (Live),Rodri,Pass (Live)
+22,49,Phil Foden,Manchester City,0.01,,Blocked,26.0,Left Foot,,Manuel Akanji,Pass (Live),Phil Foden,Pass (Live)
+23,49,Phil Foden,Manchester City,0.03,0.44,Saved,11.0,Head,,Julián Álvarez,Pass (Live),Bernardo Silva,Pass (Live)
+24,49,Joško Gvardiol,Manchester City,0.06,,Off Target,17.0,Left Foot,Volley,Phil Foden,Shot,,
+25,52,Julián Álvarez,Manchester City,0.04,,Woodwork,31.0,Right Foot,Free kick,Rodri,Fouled,Bernardo Silva,Pass (Live)
+26,53,Erling Haaland,Manchester City,0.4,0.9,Saved,11.0,Left Foot,Volley,Rodri,Pass (Live),Rodri,Interception
+27,57,Rodri,Manchester City,0.04,,Off Target,27.0,Left Foot,,Kyle Walker,Pass (Live),Phil Foden,Pass (Live)
+28,59,Erling Haaland,Manchester City,0.21,0.1,Saved,6.0,Head,,Bernardo Silva,Pass (Live),Julián Álvarez,Pass (Live)
+29,60,Emerson Palmieri,West Ham,0.06,,Blocked,17.0,Left Foot,,Emerson Palmieri,Take-On,Michail Antonio,Pass (Live)
+30,61,Kurt Zouma,West Ham,0.06,0.32,Saved,10.0,Head,,James Ward-Prowse,Pass (Dead),Emerson Palmieri,Shot
+31,65,Joško Gvardiol,Manchester City,0.02,0.14,Saved,24.0,Right Foot,Deflected,Jeremy Doku,Pass (Live),Joško Gvardiol,Pass (Live)
+32,76,Bernardo Silva,Manchester City,0.35,0.98,Goal,5.0,Left Foot,Volley,Julián Álvarez,Pass (Live),Bernardo Silva,Pass (Live)
+33,82,Erling Haaland,Manchester City,0.36,0.18,Saved,10.0,Left Foot,Volley,Kyle Walker,Pass (Live),Bernardo Silva,Pass (Live)
+34,86,Erling Haaland,Manchester City,0.08,0.61,Goal,12.0,Left Foot,,Bernardo Silva,Pass (Live),Julián Álvarez,Pass (Live)
+35,90,Nayef Aguerd,West Ham,0.02,,Off Target,13.0,Head,,James Ward-Prowse,Pass (Dead),Mohammed Kudus,Fouled

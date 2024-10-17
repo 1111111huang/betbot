@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Diego Carlos,Aston Villa,0.26,,Off Target,5.0,Other,,John McGinn,Pass (Dead),Danny Ings,Pass (Live)
+1,23,Dwight McNeil,Everton,0.03,,Blocked,13.0,Left Foot,,Demarai Gray,Pass (Live),Dwight McNeil,Pass (Live)
+2,24,James Tarkowski,Everton,0.1,,Blocked,9.0,Other,Deflected,Dwight McNeil,Pass (Dead),,
+3,31,Danny Ings,Aston Villa,0.11,0.45,Goal,17.0,Left Foot,,Ollie Watkins,Pass (Live),John McGinn,Pass (Live)
+4,45+2,Mason Holgate,Everton,0.05,,Blocked,10.0,Right Foot,Volley,Dwight McNeil,Pass (Dead),Alex Iwobi,Pass (Live)
+5,45+2,Tom Davies,Everton,0.16,,Off Target,11.0,Right Foot,Volley,Mason Holgate,Shot,,
+6,,,,,,,,,,,,,
+7,46,John McGinn,Aston Villa,0.03,,Off Target,23.0,Right Foot,,John McGinn,Take-On,,
+8,50,Mason Holgate,Everton,0.04,,Blocked,22.0,Left Foot,,Vitaliy Mykolenko,Pass (Live),Nathan Patterson,Fouled
+9,50,Dwight McNeil,Everton,0.06,,Off Target,10.0,Left Foot,Volley,James Tarkowski,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+10,51,Demarai Gray,Everton,0.12,,Blocked,20.0,Left Foot,,Alex Iwobi,Pass (Live),Conor Coady,Pass (Live)
+11,53,Nathan Patterson,Everton,0.08,,Blocked,18.0,Right Foot,,Demarai Gray,Pass (Dead),Vitaliy Mykolenko,Pass (Live)
+12,53,Demarai Gray,Everton,0.08,0.03,Saved,16.0,Right Foot,,Mason Holgate,Pass (Live),Tom Davies,Pass (Live)
+13,61,John McGinn,Aston Villa,0.03,,Blocked,23.0,Left Foot,,Emi Buendía,Pass (Live),Boubacar Kamara,Pass (Live)
+14,73,Diego Carlos,Aston Villa,0.01,,Off Target,12.0,Head,,John McGinn,Pass (Dead),Boubacar Kamara,Pass (Live)
+15,73,Diego Carlos,Aston Villa,0.07,,Blocked,12.0,Right Foot,,Diego Carlos,Shot,,
+16,74,Danny Ings,Aston Villa,0.07,,Blocked,16.0,Left Foot,,Emi Buendía,Pass (Live),John McGinn,Pass (Live)
+17,74,Emi Buendía,Aston Villa,0.16,,Blocked,11.0,Right Foot,"Deflected, Volley",,,,
+18,79,Ollie Watkins,Aston Villa,0.11,,Blocked,10.0,Left Foot,,Jacob Ramsey,Pass (Live),John McGinn,Pass (Live)
+19,86,Emi Buendía,Aston Villa,0.97,1.0,Goal,3.0,Right Foot,,Ollie Watkins,Pass (Live),Emi Buendía,Pass (Live)
+20,89,Nathan Patterson,Everton,0.03,,Blocked,27.0,Right Foot,,,,,
+21,89,Ollie Watkins,Aston Villa,0.45,0.3,Saved,10.0,Left Foot,,Leon Bailey,Pass (Live),,
+22,90,Lucas Digne,Aston Villa,0.04,,Off Target,17.0,Left Foot,,Emi Buendía,Pass (Live),Ollie Watkins,Pass (Live)
+23,90+1,Anthony Gordon,Everton,0.07,0.01,Saved,14.0,Left Foot,,Vitaliy Mykolenko,Pass (Live),Alex Iwobi,Pass (Live)
+24,90+1,Salomón Rondón,Everton,0.54,0.87,Saved,7.0,Right Foot,,Anthony Gordon,Shot,,
+25,90+6,Amadou Onana,Everton,0.09,,Blocked,8.0,Left Foot,,Salomón Rondón,Pass (Live),Jordan Pickford,Pass (Live)
+26,90+7,Anthony Gordon,Everton,0.07,,Blocked,21.0,Right Foot,,Alex Iwobi,Pass (Live),Salomón Rondón,Pass (Live)
+27,90+7,Anthony Gordon,Everton,0.09,0.05,Saved,14.0,Left Foot,,Anthony Gordon,Shot,,

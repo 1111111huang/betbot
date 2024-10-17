@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Harvey Barnes,Newcastle Utd,0.03,0.0,Blocked,24.0,Right Foot,Deflected,Jacob Murphy,Pass (Live),Kieran Trippier,Pass (Live)
+1,4,Jack Grealish,Manchester City,0.02,0.0,Blocked,18.0,Right Foot,Deflected,Joško Gvardiol,Pass (Live),Erling Haaland,Pass (Live)
+2,5,Manuel Akanji,Manchester City,0.02,0.0,Blocked,20.0,Right Foot,,Jack Grealish,Pass (Live),Rúben Dias,Pass (Live)
+3,7,Erling Haaland,Manchester City,0.06,0.09,Saved,15.0,Left Foot,,İlkay Gündoğan,Pass (Live),Manuel Akanji,Pass (Live)
+4,15,Kieran Trippier,Newcastle Utd,0.03,0.0,Blocked,17.0,Right Foot,,Anthony Gordon,Pass (Live),Lewis Hall,Pass (Live)
+5,16,Joelinton,Newcastle Utd,0.08,0.18,Saved,9.0,Head,,Lewis Hall,Pass (Dead),Kieran Trippier,Shot
+6,27,İlkay Gündoğan,Manchester City,0.09,0.0,Off Target,16.0,Right Foot,,Bernardo Silva,Pass (Live),Erling Haaland,Pass (Live)
+7,28,Bernardo Silva,Manchester City,0.02,0.0,Blocked,18.0,Left Foot,,İlkay Gündoğan,Pass (Live),Erling Haaland,Pass (Live)
+8,35,Joško Gvardiol,Manchester City,0.08,0.68,Goal,10.0,Right Foot,Deflected,Joško Gvardiol,Take-On,Jack Grealish,Pass (Live)
+9,40,İlkay Gündoğan,Manchester City,0.02,0.01,Saved,37.0,Right Foot,,İlkay Gündoğan,Take-On,,
+10,43,Manuel Akanji,Manchester City,0.03,0.0,Blocked,26.0,Right Foot,,Jack Grealish,Pass (Live),İlkay Gündoğan,Pass (Live)
+11,45+1,Joelinton,Newcastle Utd,0.11,0.15,Saved,13.0,Left Foot,,Dan Burn,Pass (Live),Kieran Trippier,Pass (Dead)
+12,45+1,Dan Burn,Newcastle Utd,0.04,0.0,Blocked,18.0,Left Foot,Volley,Joelinton,Shot,,
+13,45+1,Harvey Barnes,Newcastle Utd,0.03,0.0,Blocked,12.0,Right Foot,,Joelinton,Pass (Live),Lewis Hall,Pass (Live)
+14,,,,,,,,,,,,,
+15,51,Fabian Schär,Newcastle Utd,0.08,0.0,Off Target,10.0,Head,,Bruno Guimarães,Pass (Live),Kieran Trippier,Pass (Live)
+16,52,Erling Haaland,Manchester City,0.03,0.0,Blocked,16.0,Left Foot,,Manuel Akanji,Pass (Live),Bernardo Silva,Pass (Live)
+17,58,Anthony Gordon (pen),Newcastle Utd,0.79,0.7,Goal,13.0,Right Foot,,Anthony Gordon,Fouled,Bruno Guimarães,Pass (Live)
+18,60,Mateo Kovačić,Manchester City,0.02,0.0,Off Target,26.0,Right Foot,,Jack Grealish,Pass (Live),Manuel Akanji,Pass (Live)
+19,61,Harvey Barnes,Newcastle Utd,0.09,0.11,Saved,11.0,Right Foot,,Sandro Tonali,Pass (Live),Jacob Murphy,Pass (Live)
+20,64,Harvey Barnes,Newcastle Utd,0.1,0.0,Off Target,10.0,Left Foot,,Anthony Gordon,Pass (Live),Jacob Murphy,Pass (Live)
+21,73,Phil Foden,Manchester City,0.06,0.09,Saved,16.0,Left Foot,Volley,Erling Haaland,Pass (Live),Jack Grealish,Pass (Live)
+22,75,Erling Haaland,Manchester City,0.06,0.0,Blocked,17.0,Left Foot,,Mateo Kovačić,Pass (Live),Manuel Akanji,Pass (Live)
+23,76,Erling Haaland,Manchester City,0.17,0.0,Off Target,4.0,Head,,Jack Grealish,Pass (Live),Phil Foden,Pass (Live)
+24,80,Sean Longstaff,Newcastle Utd,0.21,0.0,Off Target,16.0,Right Foot,,Jacob Murphy,Pass (Live),Bruno Guimarães,Pass (Live)
+25,85,Mateo Kovačić,Manchester City,0.03,0.0,Off Target,17.0,Right Foot,Volley,Phil Foden,Pass (Dead),Phil Foden,Fouled
+26,90+2,Bernardo Silva,Manchester City,0.07,0.21,Saved,15.0,Left Foot,Volley,Phil Foden,Pass (Live),Sávio,Pass (Live)
+27,90+5,Erling Haaland,Manchester City,0.14,0.28,Saved,10.0,Head,,Sávio,Pass (Live),Mateo Kovačić,Pass (Live)

@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6.0,Bobby Reid,Fulham,0.04,,Off Target,10.0,Head,,Andreas Pereira,Pass (Dead),Harrison Reed,Fouled
+1,16.0,Andreas Pereira,Fulham,0.15,0.21,Goal,17.0,Right Foot,,Harrison Reed,Pass (Live),Manor Solomon,Pass (Live)
+2,23.0,Antonee Robinson,Fulham,0.04,,Woodwork,25.0,Left Foot,,Bobby Reid,Pass (Live),Harrison Reed,Pass (Live)
+3,24.0,Carlos Vinícius,Fulham,0.11,,Off Target,8.0,Head,,Manor Solomon,Pass (Live),Harrison Reed,Pass (Live)
+4,31.0,Dango Ouattara,Bournemouth,0.07,,Off Target,15.0,Left Foot,,Philip Billing,Pass (Live),Dominic Solanke,Pass (Live)
+5,34.0,Jefferson Lerma,Bournemouth,0.08,,Off Target,20.0,Right Foot,Volley,Jaidon Anthony,Pass (Live),Marcos Senesi,Pass (Live)
+6,40.0,Andreas Pereira,Fulham,0.24,,Off Target,12.0,Right Foot,Volley,Bobby Reid,Pass (Live),Harrison Reed,Pass (Live)
+7,42.0,Dominic Solanke,Bournemouth,0.48,0.88,Saved,7.0,Right Foot,,Philip Billing,Take-On,Lloyd Kelly,Pass (Live)
+8,43.0,Andreas Pereira,Fulham,0.01,0.09,Saved,37.0,Right Foot,,,,,
+9,,,,,,,,,,,,,
+10,48.0,Philip Billing,Bournemouth,0.57,0.2,Saved,5.0,Left Foot,,Jefferson Lerma,Pass (Live),Jack Stephens,Pass (Live)
+11,48.0,Marcos Senesi,Bournemouth,0.33,,Blocked,5.0,Left Foot,,Philip Billing,Shot,,
+12,50.0,Marcus Tavernier,Bournemouth,0.03,0.59,Goal,22.0,Left Foot,,Marcos Senesi,Pass (Live),Jack Stephens,Pass (Live)
+13,54.0,Dominic Solanke,Bournemouth,0.19,,Blocked,15.0,Right Foot,,Dominic Solanke,Take-On,Marcus Tavernier,Pass (Live)
+14,54.0,Marcus Tavernier,Bournemouth,0.03,0.12,Saved,15.0,Left Foot,,Ryan Christie,Pass (Live),Ryan Christie,Take-On
+15,57.0,Jefferson Lerma,Bournemouth,0.05,,Blocked,21.0,Right Foot,,Dominic Solanke,Take-On,Ryan Christie,Pass (Live)
+16,64.0,Manor Solomon,Fulham,0.03,,Blocked,24.0,Right Foot,,Antonee Robinson,Pass (Live),Carlos Vinícius,Pass (Live)
+17,64.0,Carlos Vinícius,Fulham,0.04,,Off Target,11.0,Left Foot,Volley,Harrison Reed,Pass (Live),João Palhinha,Pass (Live)
+18,65.0,Andreas Pereira,Fulham,0.09,,Off Target,9.0,Head,,Kenny Tete,Pass (Live),Bobby Reid,Pass (Live)
+19,79.0,Ryan Christie,Bournemouth,0.05,0.03,Saved,15.0,Left Foot,,Jefferson Lerma,Pass (Live),Marcus Tavernier,Pass (Live)
+20,79.0,Dominic Solanke,Bournemouth,0.74,0.98,Goal,2.0,Right Foot,"Deflected, Volley",Ryan Christie,Shot,,
+21,84.0,Jefferson Lerma,Bournemouth,0.26,,Off Target,8.0,Head,,Philip Billing,Pass (Dead),Lloyd Kelly,Fouled
+22,87.0,Daniel James,Fulham,0.1,,Blocked,14.0,Right Foot,,Manor Solomon,Pass (Live),Tom Cairney,Pass (Live)

@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Julián Álvarez,Manchester City,0.04,0.02,Saved,17.0,Left Foot,,Bernardo Silva,Pass (Live),Bernardo Silva,Take-On
+1,8,Kevin De Bruyne,Manchester City,0.06,0.08,Saved,26.0,Left Foot,,Rodri,Pass (Live),Kevin De Bruyne,Pass (Live)
+2,16,Darwin Núñez,Liverpool,0.11,,Off Target,11.0,Head,,Luis Díaz,Pass (Live),Alexis Mac Allister,Pass (Live)
+3,17,Phil Foden,Manchester City,0.04,,Blocked,28.0,Left Foot,,Kevin De Bruyne,Pass (Live),John Stones,Pass (Live)
+4,20,Alexis Mac Allister,Liverpool,0.01,,Blocked,31.0,Right Foot,,,,,
+5,23,John Stones,Manchester City,0.83,0.97,Goal,2.0,Right Foot,,Kevin De Bruyne,Pass (Dead),Julián Álvarez,Pass (Live)
+6,31,Dominik Szoboszlai,Liverpool,0.14,,Off Target,10.0,Head,,Harvey Elliott,Pass (Live),Conor Bradley,Pass (Live)
+7,34,Conor Bradley,Liverpool,0.04,,Blocked,17.0,Right Foot,,,,,
+8,36,Kevin De Bruyne,Manchester City,0.04,,Blocked,26.0,Left Foot,,Erling Haaland,Pass (Live),,
+9,39,Harvey Elliott,Liverpool,0.08,,Blocked,14.0,Right Foot,,Dominik Szoboszlai,Pass (Live),Darwin Núñez,Pass (Live)
+10,39,Erling Haaland,Manchester City,0.1,0.04,Saved,21.0,Left Foot,,Kevin De Bruyne,Pass (Live),Nathan Aké,Tackle
+11,42,Luis Díaz,Liverpool,0.13,,Off Target,21.0,Right Foot,,Dominik Szoboszlai,Pass (Live),Alexis Mac Allister,Pass (Live)
+12,44,Julián Álvarez,Manchester City,0.05,,Off Target,23.0,Right Foot,,Erling Haaland,Pass (Live),Erling Haaland,Tackle
+13,45+3,Dominik Szoboszlai,Liverpool,0.04,0.24,Saved,34.0,Right Foot,Free kick,Alexis Mac Allister,Fouled,,
+14,,,,,,,,,,,,,
+15,50,Alexis Mac Allister (pen),Liverpool,0.79,0.99,Goal,13.0,Right Foot,,Darwin Núñez,Fouled,,
+16,58,Phil Foden,Manchester City,0.34,0.32,Saved,9.0,Right Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+17,60,Dominik Szoboszlai,Liverpool,0.05,,Off Target,27.0,Right Foot,,,,,
+18,63,Luis Díaz,Liverpool,0.44,,Off Target,21.0,Right Foot,,Mohamed Salah,Pass (Live),Darwin Núñez,Pass (Live)
+19,65,Mohamed Salah,Liverpool,0.04,,Off Target,15.0,Left Foot,,Andrew Robertson,Pass (Dead),,
+20,65,Mohamed Salah,Liverpool,0.05,,Off Target,14.0,Right Foot,Volley,Mohamed Salah,Shot,,
+21,65,Alexis Mac Allister,Liverpool,0.04,0.35,Saved,22.0,Right Foot,,Luis Díaz,Pass (Live),Alexis Mac Allister,Pass (Live)
+22,71,Darwin Núñez,Liverpool,0.35,0.26,Saved,8.0,Right Foot,,Andrew Robertson,Pass (Live),Virgil van Dijk,Pass (Live)
+23,78,Jeremy Doku,Manchester City,0.03,0.13,Saved,19.0,Right Foot,Deflected,Mateo Kovačić,Pass (Live),Phil Foden,Pass (Live)
+24,80,Jarell Quansah,Liverpool,0.02,0.13,Saved,22.0,Right Foot,,Wataru Endo,Pass (Live),Alexis Mac Allister,Pass (Live)
+25,82,Virgil van Dijk,Liverpool,0.01,,Off Target,13.0,Head,,Andrew Robertson,Pass (Dead),Luis Díaz,Take-On
+26,83,Joe Gomez,Liverpool,0.04,,Blocked,26.0,Right Foot,,Luis Díaz,Pass (Live),Joe Gomez,Pass (Live)
+27,84,Alexis Mac Allister,Liverpool,0.17,,Off Target,13.0,Left Foot,,Harvey Elliott,Pass (Live),Virgil van Dijk,Pass (Live)
+28,89,Jeremy Doku,Manchester City,0.04,,Woodwork,15.0,Left Foot,,Erling Haaland,Pass (Live),Phil Foden,Pass (Live)
+29,89,Mohamed Salah,Liverpool,0.14,0.02,Saved,12.0,Right Foot,,Luis Díaz,Pass (Live),Caoimhín Kelleher,Pass (Live)

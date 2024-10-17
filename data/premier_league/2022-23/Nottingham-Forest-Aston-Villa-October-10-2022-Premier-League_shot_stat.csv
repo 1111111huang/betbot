@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,John McGinn,Aston Villa,0.03,,Blocked,17.0,Left Foot,,Douglas Luiz,Pass (Dead),Ashley Young,Pass (Live)
+1,4.0,John McGinn,Aston Villa,0.01,,Blocked,18.0,Left Foot,,John McGinn,Shot,,
+2,13.0,Philippe Coutinho,Aston Villa,0.03,,Blocked,32.0,Right Foot,Free kick,Emi Buendía,Fouled,Emi Buendía,Take-On
+3,15.0,Emmanuel Dennis,Nott'ham Forest,0.06,0.09,Goal,10.0,Head,,Morgan Gibbs-White,Pass (Dead),Emmanuel Dennis,Fouled
+4,22.0,Ashley Young,Aston Villa,0.03,0.28,Goal,25.0,Right Foot,,John McGinn,Pass (Live),Matty Cash,Pass (Live)
+5,26.0,Brennan Johnson,Nott'ham Forest,0.05,,Blocked,21.0,Right Foot,,Emmanuel Dennis,Pass (Live),Harry Toffolo,Pass (Dead)
+6,35.0,Cheikhou Kouyaté,Nott'ham Forest,0.04,0.07,Saved,9.0,Head,,Serge Aurier,Pass (Live),Ryan Yates,Pass (Live)
+7,38.0,Douglas Luiz,Aston Villa,0.04,,Blocked,23.0,Right Foot,Free kick,Jacob Ramsey,Fouled,Ashley Young,Pass (Live)
+8,44.0,Douglas Luiz,Aston Villa,0.07,,Blocked,17.0,Right Foot,,Emi Buendía,Pass (Live),Philippe Coutinho,Pass (Live)
+9,,,,,,,,,,,,,
+10,48.0,Philippe Coutinho,Aston Villa,0.05,,Off Target,17.0,Right Foot,,Philippe Coutinho,Take-On,Ashley Young,Pass (Live)
+11,50.0,John McGinn,Aston Villa,0.06,,Blocked,21.0,Left Foot,,Jacob Ramsey,Pass (Live),,
+12,51.0,Ashley Young,Aston Villa,0.01,,Blocked,31.0,Right Foot,,Philippe Coutinho,Pass (Live),Ashley Young,Pass (Live)
+13,60.0,Ollie Watkins,Aston Villa,0.09,0.08,Saved,6.0,Head,,Douglas Luiz,Pass (Live),John McGinn,Pass (Live)
+14,65.0,Morgan Gibbs-White,Nott'ham Forest,0.05,,Off Target,25.0,Right Foot,,Morgan Gibbs-White,Take-On,Brennan Johnson,Pass (Live)
+15,69.0,John McGinn,Aston Villa,0.22,,Off Target,11.0,Head,,Ollie Watkins,Pass (Live),Emi Buendía,Pass (Live)
+16,70.0,Cheikhou Kouyaté,Nott'ham Forest,0.05,0.3,Saved,27.0,Right Foot,,Emmanuel Dennis,Pass (Live),Morgan Gibbs-White,Pass (Live)
+17,80.0,Emi Buendía,Aston Villa,0.04,,Blocked,26.0,Right Foot,Free kick,Emi Buendía,Fouled,Matty Cash,Pass (Live)
+18,88.0,Morgan Gibbs-White,Nott'ham Forest,0.05,,Blocked,22.0,Right Foot,,Morgan Gibbs-White,Take-On,Sam Surridge,Pass (Live)

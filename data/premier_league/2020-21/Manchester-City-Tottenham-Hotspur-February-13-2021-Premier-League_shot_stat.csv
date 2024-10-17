@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Rodri,Manchester City,0.07,,Off Target,7.0,Head,,Phil Foden,Pass (Dead),,
+1,8,Gabriel Jesus,Manchester City,0.07,,Blocked,14.0,Left Foot,,İlkay Gündoğan,Pass (Live),Gabriel Jesus,Pass (Live)
+2,8,Gabriel Jesus,Manchester City,0.07,,Blocked,15.0,Left Foot,,Gabriel Jesus,Shot,,
+3,9,Tanguy Ndombele,Tottenham,0.07,,Blocked,9.0,Left Foot,,Tanguy Ndombele,Take-On,Eric Dier,Pass (Live)
+4,14,Harry Kane,Tottenham,0.06,,Woodwork,25.0,Right Foot,Free kick,Harry Kane,Fouled,Lucas Moura,Pass (Live)
+5,19,Oleksandr Zinchenko,Manchester City,0.03,,Off Target,28.0,Right Foot,,Raheem Sterling,Pass (Live),John Stones,Pass (Live)
+6,23,Rodri (pen),Manchester City,0.79,0.99,Goal,13.0,Right Foot,,İlkay Gündoğan,Fouled,Gabriel Jesus,Pass (Live)
+7,31,Bernardo Silva,Manchester City,0.04,,Blocked,20.0,Left Foot,,João Cancelo,Pass (Live),Rodri,Pass (Live)
+8,42,İlkay Gündoğan,Manchester City,0.38,,Blocked,11.0,Right Foot,,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+9,42,Gabriel Jesus,Manchester City,0.08,,Woodwork,15.0,Right Foot,,João Cancelo,Pass (Live),İlkay Gündoğan,Shot
+10,45+1,João Cancelo,Manchester City,0.03,,Off Target,24.0,Left Foot,,João Cancelo,Take-On,Rodri,Pass (Live)
+11,,,,,,,,,,,,,
+12,50,İlkay Gündoğan,Manchester City,0.09,0.13,Goal,9.0,Left Foot,,Raheem Sterling,Pass (Live),İlkay Gündoğan,Pass (Live)
+13,58,İlkay Gündoğan,Manchester City,0.13,,Blocked,11.0,Left Foot,Volley,Phil Foden,Pass (Live),Raheem Sterling,Pass (Live)
+14,59,Tanguy Ndombele,Tottenham,0.05,0.12,Saved,17.0,Right Foot,Deflected,Harry Kane,Pass (Live),Harry Kane,Take-On
+15,66,İlkay Gündoğan,Manchester City,0.27,0.74,Goal,13.0,Left Foot,,Ederson,Pass (Live),John Stones,Pass (Live)
+16,69,Harry Kane,Tottenham,0.02,0.39,Saved,23.0,Head,,Harry Kane,Interception,,
+17,71,Phil Foden,Manchester City,0.03,0.07,Saved,18.0,Left Foot,,,,,
+18,81,Gareth Bale,Tottenham,0.02,,Blocked,36.0,Left Foot,,,,,
+19,81,Gareth Bale,Tottenham,0.06,0.12,Saved,16.0,Left Foot,,Gareth Bale,Take-On,Gareth Bale,Take-On
+20,82,Ben Davies,Tottenham,0.05,,Off Target,20.0,Right Foot,Volley,Ben Davies,Tackle,Japhet Tanganga,Pass (Live)
+21,89,Raheem Sterling,Manchester City,0.13,0.1,Saved,9.0,Right Foot,,Phil Foden,Pass (Live),Phil Foden,Take-On
+22,90,Bernardo Silva,Manchester City,0.04,0.07,Saved,20.0,Left Foot,,João Cancelo,Pass (Live),Rodri,Pass (Live)

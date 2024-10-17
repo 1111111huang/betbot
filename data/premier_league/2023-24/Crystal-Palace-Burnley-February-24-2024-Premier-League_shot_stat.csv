@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Jefferson Lerma,Crystal Palace,0.06,,Off Target,21.0,Right Foot,,Jordan Ayew,Pass (Live),Adam Wharton,Pass (Live)
+1,23.0,Odsonne Édouard,Crystal Palace,0.03,,Blocked,14.0,Left Foot,Volley,Jordan Ayew,Pass (Live),Jean-Philippe Mateta,Pass (Live)
+2,28.0,Odsonne Édouard,Crystal Palace,0.19,0.15,Saved,5.0,Head,,Adam Wharton,Pass (Live),Jordan Ayew,Pass (Live)
+3,29.0,Odsonne Édouard,Crystal Palace,0.03,,Off Target,11.0,Head,,Jordan Ayew,Pass (Live),Daniel Muñoz,Pass (Live)
+4,38.0,Odsonne Édouard,Crystal Palace,0.16,,Woodwork,22.0,Right Foot,Free kick,Jefferson Lerma,Fouled,,
+5,41.0,Jean-Philippe Mateta,Crystal Palace,0.07,,Off Target,10.0,Head,,Adam Wharton,Pass (Dead),Jordan Ayew,Pass (Live)
+6,,,,,,,,,,,,,
+7,46.0,Jefferson Lerma,Crystal Palace,0.03,,Blocked,26.0,Left Foot,,Odsonne Édouard,Pass (Live),Jordan Ayew,Pass (Live)
+8,47.0,Jefferson Lerma,Crystal Palace,0.06,0.05,Saved,24.0,Right Foot,,Joel Ward,Pass (Live),Jefferson Lerma,Pass (Live)
+9,53.0,Daniel Muñoz,Crystal Palace,0.06,,Blocked,10.0,Head,,Adam Wharton,Pass (Dead),Daniel Muñoz,Pass (Live)
+10,58.0,Adam Wharton,Crystal Palace,0.05,,Off Target,24.0,Left Foot,,Jefferson Lerma,Pass (Live),,
+11,59.0,David Datro Fofana,Burnley,0.05,,Off Target,9.0,Head,,Lorenz Assignon,Pass (Live),David Datro Fofana,Pass (Live)
+12,67.0,Naouirou Ahamada,Crystal Palace,0.03,0.26,Saved,19.0,Right Foot,,Daniel Muñoz,Pass (Live),Jefferson Lerma,Pass (Live)
+13,68.0,Chris Richards,Crystal Palace,0.13,0.12,Goal,8.0,Head,,Jordan Ayew,Pass (Live),Naouirou Ahamada,Pass (Live)
+14,72.0,Jordan Ayew,Crystal Palace,0.52,0.6,Goal,4.0,Right Foot,,Matheus França,Pass (Live),Tyrick Mitchell,Pass (Live)
+15,79.0,Jean-Philippe Mateta (pen),Crystal Palace,0.79,0.99,Goal,13.0,Right Foot,,Matheus França,Fouled,,
+16,86.0,Daniel Muñoz,Crystal Palace,0.21,,Off Target,5.0,Head,,Jordan Ayew,Pass (Dead),Jean-Philippe Mateta,Fouled
+17,86.0,Josh Cullen,Burnley,0.03,,Blocked,15.0,Left Foot,,,,,

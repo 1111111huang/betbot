@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Bruno Guimarães,Newcastle Utd,0.04,,Off Target,11.0,Head,,Anthony Gordon,Pass (Dead),,
+1,14,Lewis Dunk,Brighton,0.03,,Blocked,7.0,Head,,Pascal Groß,Pass (Dead),Simon Adingra,Pass (Live)
+2,18,Danny Welbeck,Brighton,0.07,,Blocked,10.0,Head,,Pascal Groß,Pass (Dead),Pascal Groß,Pass (Live)
+3,18,Joël Veltman,Brighton,0.18,0.82,Goal,4.0,Right Foot,,Danny Welbeck,Shot,,
+4,20,Sean Longstaff,Newcastle Utd,0.04,,Blocked,18.0,Right Foot,,Jacob Murphy,Pass (Live),Anthony Gordon,Pass (Live)
+5,20,Dan Burn,Newcastle Utd,0.2,,Off Target,5.0,Left Foot,,Sean Longstaff,Pass (Live),Lewis Hall,Pass (Live)
+6,24,Jacob Murphy,Newcastle Utd,0.02,0.25,Saved,28.0,Left Foot,,Valentino Livramento,Pass (Live),Anthony Gordon,Pass (Live)
+7,27,Simon Adingra,Brighton,0.04,,Off Target,18.0,Right Foot,,Julio Enciso,Pass (Live),Igor,Tackle
+8,34,Sean Longstaff,Newcastle Utd,0.38,0.21,Saved,3.0,Head,,Anthony Gordon,Pass (Dead),,
+9,37,Danny Welbeck,Brighton,0.51,0.36,Saved,10.0,Right Foot,,Julio Enciso,Pass (Live),Billy Gilmour,Pass (Live)
+10,38,Lewis Hall,Newcastle Utd,0.03,,Off Target,17.0,Left Foot,,Lewis Hall,Take-On,Anthony Gordon,Pass (Live)
+11,42,Julio Enciso,Brighton,0.08,,Off Target,10.0,Head,,Simon Adingra,Pass (Live),Danny Welbeck,Pass (Live)
+12,42,Julio Enciso,Brighton,0.02,0.02,Saved,31.0,Right Foot,,Danny Welbeck,Pass (Live),Pascal Groß,Pass (Live)
+13,43,Julio Enciso,Brighton,0.06,,Blocked,17.0,Right Foot,,Pascal Groß,Pass (Live),Julio Enciso,Pass (Live)
+14,43,Julio Enciso,Brighton,0.09,,Off Target,12.0,Right Foot,Volley,Julio Enciso,Shot,,
+15,44,Alexander Isak,Newcastle Utd,0.2,0.3,Saved,13.0,Left Foot,Volley,Bruno Guimarães,Pass (Live),Elliot Anderson,Pass (Live)
+16,45+2,Anthony Gordon,Newcastle Utd,0.09,,Blocked,6.0,Right Foot,,Anthony Gordon,Take-On,Anthony Gordon,Take-On
+17,45+3,Facundo Buonanotte,Brighton,0.08,,Blocked,10.0,Left Foot,,,,,
+18,45+4,Elliot Anderson,Newcastle Utd,0.04,,Blocked,21.0,Right Foot,,Bruno Guimarães,Pass (Live),Elliot Anderson,Pass (Live)
+19,45+5,Sean Longstaff,Newcastle Utd,0.71,0.45,Goal,8.0,Right Foot,,Elliot Anderson,Pass (Live),Anthony Gordon,Pass (Live)
+20,,,,,,,,,,,,,
+21,47,Pascal Groß,Brighton,0.03,,Off Target,28.0,Right Foot,,Simon Adingra,Pass (Live),Danny Welbeck,Pass (Live)
+22,59,Julio Enciso,Brighton,0.05,0.36,Saved,20.0,Right Foot,Deflected,Simon Adingra,Pass (Live),Simon Adingra,Take-On
+23,61,Jacob Murphy,Newcastle Utd,0.04,0.05,Saved,41.0,Right Foot,,Emil Krafth,Pass (Live),Dan Burn,Pass (Live)
+24,62,Anthony Gordon,Newcastle Utd,0.11,,Blocked,12.0,Right Foot,,Jacob Murphy,Pass (Live),Bruno Guimarães,Pass (Live)
+25,75,Benicio Boaitey,Brighton,0.02,,Blocked,25.0,Left Foot,,Pascal Groß,Pass (Live),Jakub Moder,Pass (Live)
+26,75,Billy Gilmour,Brighton,0.06,,Blocked,24.0,Right Foot,,Benicio Boaitey,Shot,,
+27,77,Simon Adingra,Brighton,0.06,,Blocked,17.0,Right Foot,,Benicio Boaitey,Pass (Live),Simon Adingra,Pass (Live)
+28,78,Miguel Almirón,Newcastle Utd,0.05,0.02,Saved,10.0,Right Foot,,Bruno Guimarães,Pass (Live),Bruno Guimarães,Pass (Live)
+29,79,Lewis Hall,Newcastle Utd,0.02,,Blocked,21.0,Left Foot,Volley,Miguel Almirón,Shot,,
+30,81,Harvey Barnes,Newcastle Utd,0.1,,Off Target,12.0,Right Foot,,Bruno Guimarães,Pass (Live),Anthony Gordon,Pass (Live)
+31,84,Harvey Barnes,Newcastle Utd,0.06,0.03,Saved,15.0,Right Foot,,Elliot Anderson,Pass (Live),Elliot Anderson,Take-On
+32,90,Lewis Hall,Newcastle Utd,0.04,,Blocked,21.0,Right Foot,,Valentino Livramento,Pass (Live),Joelinton,Pass (Live)
+33,90+7,Elliot Anderson,Newcastle Utd,0.06,,Saved off Target,23.0,Right Foot,,Joelinton,Pass (Live),Bruno Guimarães,Pass (Live)

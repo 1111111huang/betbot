@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Josh Sargent,Norwich City,0.11,,Blocked,20.0,Right Foot,,Teemu Pukki,Pass (Live),Billy Gilmour,Pass (Live)
+1,11,Billy Gilmour,Norwich City,0.05,,Blocked,24.0,Left Foot,,Josh Sargent,Shot,,
+2,15,Armando Broja,Southampton,0.08,0.1,Saved,17.0,Left Foot,,,,,
+3,20,Stuart Armstrong,Southampton,0.03,,Blocked,26.0,Left Foot,,Stuart Armstrong,Take-On,,
+4,21,James Ward-Prowse,Southampton,0.03,,Off Target,25.0,Right Foot,Volley,,,,
+5,23,Kyle Walker-Peters,Southampton,0.04,0.06,Saved,24.0,Right Foot,,Kyle Walker-Peters,Pass (Live),James Ward-Prowse,Pass (Live)
+6,27,Mathias Normann,Norwich City,0.03,,Blocked,31.0,Right Foot,,Milot Rashica,Pass (Live),Ben Gibson,Pass (Live)
+7,30,Jan Bednarek,Southampton,0.14,0.18,Saved,12.0,Right Foot,,Stuart Armstrong,Shot,,
+8,30,Stuart Armstrong,Southampton,0.02,,Off Target,23.0,Right Foot,,Valentino Livramento,Pass (Live),Oriol Romeu,Pass (Live)
+9,31,Che Adams,Southampton,0.02,,Blocked,19.0,Right Foot,,Kyle Walker-Peters,Pass (Live),Kyle Walker-Peters,Take-On
+10,33,Armando Broja,Southampton,0.07,,Off Target,10.0,Head,,James Ward-Prowse,Pass (Live),Valentino Livramento,Pass (Live)
+11,33,Mohamed Elyounoussi,Southampton,0.26,0.6,Saved,9.0,Right Foot,Volley,Armando Broja,Shot,,
+12,34,Che Adams,Southampton,0.19,,Off Target,8.0,Head,,James Ward-Prowse,Pass (Dead),,
+13,36,Che Adams,Southampton,0.54,0.99,Goal,2.0,Right Foot,,Valentino Livramento,Take-On,,
+14,41,Mathias Normann,Norwich City,0.02,,Off Target,22.0,Left Foot,,Billy Gilmour,Pass (Live),Mathias Normann,Pass (Live)
+15,45,Armando Broja,Southampton,0.05,,Off Target,10.0,Left Foot,,Kyle Walker-Peters,Pass (Live),Kyle Walker-Peters,Take-On
+16,45+2,Mohamed Elyounoussi,Southampton,0.06,,Off Target,14.0,Left Foot,,Stuart Armstrong,Pass (Live),Fraser Forster,Pass (Live)
+17,,,,,,,,,,,,,
+18,48,Stuart Armstrong,Southampton,0.02,,Blocked,18.0,Left Foot,,Oriol Romeu,Pass (Live),Jan Bednarek,Pass (Live)
+19,49,Che Adams,Southampton,0.24,,Blocked,4.0,Head,,Jan Bednarek,Pass (Live),James Ward-Prowse,Pass (Dead)
+20,50,Jan Bednarek,Southampton,0.06,,Off Target,8.0,Head,,James Ward-Prowse,Pass (Dead),Che Adams,Shot
+21,53,Kenny McLean,Norwich City,0.1,,Off Target,17.0,Left Foot,,Teemu Pukki,Pass (Live),Kenny McLean,Pass (Live)
+22,54,Stuart Armstrong,Southampton,0.03,,Off Target,24.0,Left Foot,,Armando Broja,Pass (Live),,
+23,57,Jan Bednarek,Southampton,0.15,,Off Target,8.0,Head,,Stuart Armstrong,Pass (Dead),Che Adams,Fouled
+24,67,Stuart Armstrong,Southampton,0.07,0.06,Saved,21.0,Left Foot,,Valentino Livramento,Pass (Live),James Ward-Prowse,Pass (Live)
+25,69,Stuart Armstrong,Southampton,0.16,,Blocked,16.0,Right Foot,,Mohamed Elyounoussi,Pass (Live),Valentino Livramento,Pass (Live)
+26,69,Kyle Walker-Peters,Southampton,0.12,0.08,Saved,12.0,Right Foot,Volley,,,,
+27,70,Stuart Armstrong,Southampton,0.05,,Off Target,23.0,Right Foot,,Che Adams,Pass (Live),James Ward-Prowse,Pass (Live)
+28,73,Grant Hanley,Norwich City,0.03,0.17,Saved,12.0,Head,,Billy Gilmour,Pass (Dead),Brandon Williams,Fouled
+29,76,Teemu Pukki,Norwich City,0.06,,Blocked,10.0,Right Foot,,Billy Gilmour,Pass (Live),Kenny McLean,Pass (Live)
+30,77,Grant Hanley,Norwich City,0.2,,Off Target,9.0,Head,,Pierre Lees-Melou,Pass (Live),Billy Gilmour,Pass (Dead)
+31,79,Mohammed Salisu,Southampton,0.04,,Blocked,11.0,Right Foot,Volley,Stuart Armstrong,Pass (Live),,
+32,82,Kyle Walker-Peters,Southampton,0.05,,Off Target,18.0,Right Foot,,James Ward-Prowse,Pass (Live),Valentino Livramento,Pass (Live)
+33,84,James Ward-Prowse,Southampton,0.03,,Off Target,32.0,Right Foot,Free kick,Che Adams,Fouled,Stuart Armstrong,Pass (Live)
+34,87,Mohamed Elyounoussi,Southampton,0.09,0.07,Saved,13.0,Left Foot,,Stuart Armstrong,Pass (Live),James Ward-Prowse,Interception
+35,88,Oriol Romeu,Southampton,0.03,0.11,Goal,18.0,Right Foot,Volley,Mohamed Elyounoussi,Shot,,

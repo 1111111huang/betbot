@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Nathan Aké,Manchester City,0.01,,Blocked,15.0,Head,,Phil Foden,Pass (Dead),Riyad Mahrez,Pass (Live)
+1,4.0,Rodri,Manchester City,0.07,,Off Target,11.0,Head,,Kevin De Bruyne,Pass (Dead),,
+2,6.0,Nathan Aké,Manchester City,0.06,,Blocked,13.0,Left Foot,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Pass (Dead)
+3,7.0,Riyad Mahrez,Manchester City,0.03,,Off Target,19.0,Left Foot,Volley,Phil Foden,Pass (Dead),Nathan Aké,Shot
+4,9.0,Kevin De Bruyne,Manchester City,0.04,,Blocked,28.0,Right Foot,,Kevin De Bruyne,Take-On,Kevin De Bruyne,Take-On
+5,9.0,Phil Foden,Manchester City,0.26,0.57,Saved,10.0,Left Foot,,Kevin De Bruyne,Shot,,
+6,10.0,Rúben Dias,Manchester City,0.01,,Blocked,17.0,Head,,Kevin De Bruyne,Pass (Dead),Phil Foden,Shot
+7,19.0,İlkay Gündoğan,Manchester City,0.45,0.92,Goal,12.0,Left Foot,,Erling Haaland,Pass (Live),Kyle Walker,Pass (Live)
+8,21.0,Ben Pearson,Bournemouth,0.03,0.12,Saved,20.0,Left Foot,,Kieffer Moore,Pass (Live),Adam Smith,Pass (Live)
+9,28.0,Rodri,Manchester City,0.07,,Off Target,24.0,Right Foot,,Riyad Mahrez,Pass (Live),Phil Foden,Pass (Live)
+10,31.0,Kevin De Bruyne,Manchester City,0.07,0.51,Goal,16.0,Right Foot,,Phil Foden,Pass (Live),Rodri,Pass (Live)
+11,37.0,Adam Smith,Bournemouth,0.07,,Blocked,17.0,Left Foot,,,,,
+12,37.0,Phil Foden,Manchester City,0.28,0.69,Goal,10.0,Left Foot,Deflected,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+13,45.0,Erling Haaland,Manchester City,0.02,0.2,Saved,13.0,Left Foot,Volley,João Cancelo,Pass (Live),Rodri,Pass (Live)
+14,,,,,,,,,,,,,
+15,55.0,Kevin De Bruyne,Manchester City,0.05,0.15,Saved,14.0,Right Foot,,İlkay Gündoğan,Pass (Live),Kyle Walker,Pass (Live)
+16,56.0,Riyad Mahrez,Manchester City,0.03,,Blocked,24.0,Left Foot,Volley,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Pass (Live)
+17,58.0,Kevin De Bruyne,Manchester City,0.04,,Off Target,22.0,Right Foot,,Jack Grealish,Pass (Live),João Cancelo,Tackle
+18,60.0,İlkay Gündoğan,Manchester City,0.06,,Off Target,25.0,Right Foot,,Riyad Mahrez,Pass (Live),Riyad Mahrez,Take-On
+19,61.0,Riyad Mahrez,Manchester City,0.03,0.17,Saved,28.0,Left Foot,,Kyle Walker,Pass (Live),Jack Grealish,Pass (Live)
+20,62.0,João Cancelo,Manchester City,0.04,,Blocked,22.0,Right Foot,,Riyad Mahrez,Pass (Live),Kyle Walker,Pass (Live)
+21,73.0,Erling Haaland,Manchester City,0.13,,Off Target,11.0,Left Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+22,82.0,Junior Stanislas,Bournemouth,0.04,,Off Target,24.0,Right Foot,,Philip Billing,Pass (Live),Junior Stanislas,Pass (Live)

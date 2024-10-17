@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Son Heung-min,Tottenham,0.09,0.24,Saved,14.0,Right Foot,,Dejan Kulusevski,Pass (Live),Cristian Romero,Pass (Live)
+1,23,Brennan Johnson,Tottenham,0.14,0.07,Saved,14.0,Right Foot,,Dejan Kulusevski,Pass (Live),Pedro Porro,Pass (Live)
+2,24,Ben Davies,Tottenham,0.18,,Off Target,5.0,Head,,Pedro Porro,Pass (Dead),Brennan Johnson,Shot
+3,28,Anthony Elanga,Nott'ham Forest,0.08,,Blocked,15.0,Left Foot,Volley,Willy Boly,Pass (Live),Moussa Niakhate,Pass (Dead)
+4,28,Harry Toffolo,Nott'ham Forest,0.02,,Off Target,25.0,Left Foot,,Anthony Elanga,Shot,,
+5,34,Murillo,Nott'ham Forest,0.02,,Off Target,18.0,Left Foot,Volley,,,,
+6,35,Pedro Porro,Tottenham,0.22,,Off Target,8.0,Head,,Son Heung-min,Pass (Live),Ben Davies,Pass (Live)
+7,37,Morgan Gibbs-White,Nott'ham Forest,0.03,,Off Target,20.0,Left Foot,,Willy Boly,Pass (Live),Orel Mangala,Pass (Live)
+8,44,Son Heung-min,Tottenham,0.04,,Blocked,23.0,Right Foot,,Destiny Udogie,Pass (Live),Oliver Skipp,Pass (Live)
+9,45+2,Richarlison,Tottenham,0.39,0.51,Goal,6.0,Head,,Dejan Kulusevski,Pass (Live),Pape Matar Sarr,Pass (Live)
+10,,,,,,,,,,,,,
+11,49,Willy Boly,Nott'ham Forest,0.22,,Off Target,15.0,Right Foot,,Anthony Elanga,Pass (Live),Cheikhou Kouyaté,Pass (Live)
+12,63,Dejan Kulusevski,Tottenham,0.09,,Blocked,10.0,Left Foot,,Dejan Kulusevski,Take-On,Pedro Porro,Pass (Dead)
+13,63,Son Heung-min,Tottenham,0.06,,Blocked,14.0,Right Foot,,Dejan Kulusevski,Shot,,
+14,64,Son Heung-min,Tottenham,0.11,0.03,Saved,12.0,Right Foot,,Pedro Porro,Pass (Live),Pape Matar Sarr,Pass (Live)
+15,65,Dejan Kulusevski,Tottenham,0.05,0.11,Goal,12.0,Right Foot,,,,,
+16,69,Danilo,Nott'ham Forest,0.04,,Off Target,19.0,Left Foot,,Anthony Elanga,Pass (Live),Morgan Gibbs-White,Pass (Live)
+17,75,Morgan Gibbs-White,Nott'ham Forest,0.01,,Blocked,25.0,Right Foot,Volley,Morgan Gibbs-White,Fouled,Ryan Yates,Pass (Live)
+18,81,Dejan Kulusevski,Tottenham,0.03,0.08,Saved,16.0,Left Foot,Deflected,Oliver Skipp,Pass (Live),Pierre Højbjerg,Pass (Live)
+19,84,Neco Williams,Nott'ham Forest,0.06,,Blocked,22.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+20,84,Harry Toffolo,Nott'ham Forest,0.22,0.39,Saved,4.0,Head,,Morgan Gibbs-White,Pass (Dead),Neco Williams,Shot
+21,84,Harry Toffolo,Nott'ham Forest,0.13,,Blocked,10.0,Left Foot,,Anthony Elanga,Pass (Live),Harry Toffolo,Shot
+22,85,Morgan Gibbs-White,Nott'ham Forest,0.18,,Off Target,6.0,Head,,Harry Toffolo,Pass (Dead),Harry Toffolo,Shot
+23,89,Anthony Elanga,Nott'ham Forest,0.11,,Off Target,8.0,Right Foot,Volley,Callum Hudson-Odoi,Pass (Live),Ryan Yates,Pass (Live)
+24,90+2,Pedro Porro,Tottenham,0.17,,Blocked,16.0,Right Foot,,Pierre Højbjerg,Pass (Live),Dejan Kulusevski,Pass (Live)
+25,90+5,Moussa Niakhate,Nott'ham Forest,0.09,,Blocked,10.0,Left Foot,,,,,
+26,90+6,Morgan Gibbs-White,Nott'ham Forest,0.02,,Blocked,32.0,Right Foot,,Moussa Niakhate,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+27,90+7,Neco Williams,Nott'ham Forest,0.13,,Woodwork,13.0,Left Foot,,Morgan Gibbs-White,Pass (Live),Danilo,Pass (Live)

@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Joshua King,Bournemouth,0.03,0.05,Saved,26.0,Right Foot,,Joshua King,Tackle,,
+1,7,Bernardo Silva,Manchester City,0.08,,Blocked,17.0,Left Foot,,Raheem Sterling,Pass (Live),David Silva,Pass (Live)
+2,8,Kyle Walker,Manchester City,0.01,,Blocked,31.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),Kevin De Bruyne,Pass (Dead)
+3,14,Nathan Aké,Bournemouth,0.09,,Off Target,13.0,Left Foot,Volley,Nathan Aké,Take-On,Callum Wilson,Fouled
+4,15,Kevin De Bruyne,Manchester City,0.07,,Off Target,16.0,Left Foot,,Oleksandr Zinchenko,Pass (Live),David Silva,Pass (Live)
+5,15,Sergio Agüero,Manchester City,0.48,0.92,Goal,9.0,Left Foot,,Kevin De Bruyne,Shot,,
+6,20,Bernardo Silva,Manchester City,0.06,,Off Target,12.0,Head,,Oleksandr Zinchenko,Pass (Live),Sergio Agüero,Pass (Live)
+7,20,David Silva,Manchester City,0.07,0.03,Saved,13.0,Right Foot,Volley,Sergio Agüero,Pass (Live),Bernardo Silva,Shot
+8,24,Kevin De Bruyne,Manchester City,0.03,,Blocked,25.0,Right Foot,,Sergio Agüero,Pass (Live),David Silva,Pass (Live)
+9,29,Sergio Agüero,Manchester City,0.04,,Blocked,21.0,Left Foot,,Aymeric Laporte,Pass (Live),İlkay Gündoğan,Pass (Live)
+10,37,Nathan Aké,Bournemouth,0.17,0.73,Saved,10.0,Left Foot,Volley,Steve Cook,Pass (Dead),Philip Billing,Pass (Live)
+11,39,Adam Smith,Bournemouth,0.65,0.89,Saved,6.0,Left Foot,,Ryan Fraser,Pass (Live),Jefferson Lerma,Pass (Live)
+12,43,Raheem Sterling,Manchester City,0.52,0.61,Goal,10.0,Right Foot,,David Silva,Pass (Live),Bernardo Silva,Pass (Live)
+13,45+3,Harry Wilson,Bournemouth,0.08,0.66,Goal,27.0,Left Foot,Free kick,Callum Wilson,Fouled,Chris Mepham,Pass (Live)
+14,45+6,Nicolás Otamendi,Manchester City,0.13,,Off Target,9.0,Head,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Dead)
+15,,,,,,,,,,,,,
+16,51,David Silva,Manchester City,0.05,0.02,Saved,12.0,Left Foot,,Oleksandr Zinchenko,Pass (Live),İlkay Gündoğan,Pass (Live)
+17,51,Bernardo Silva,Manchester City,0.05,,Blocked,10.0,Head,,Oleksandr Zinchenko,Pass (Live),Kevin De Bruyne,Pass (Live)
+18,51,Raheem Sterling,Manchester City,0.78,,Blocked,5.0,Right Foot,Volley,Bernardo Silva,Shot,,
+19,52,Callum Wilson,Bournemouth,0.44,0.57,Saved,11.0,Left Foot,,Harry Wilson,Pass (Live),Philip Billing,Pass (Live)
+20,53,Kevin De Bruyne,Manchester City,0.07,,Off Target,14.0,Right Foot,,Sergio Agüero,Pass (Live),Kevin De Bruyne,Pass (Live)
+21,55,Harry Wilson,Bournemouth,0.06,,Blocked,15.0,Left Foot,,Callum Wilson,Pass (Live),Adam Smith,Pass (Live)
+22,59,Bernardo Silva,Manchester City,0.04,,Blocked,21.0,Left Foot,,Kevin De Bruyne,Pass (Live),Aymeric Laporte,Pass (Live)
+23,64,Sergio Agüero,Manchester City,0.46,0.7,Goal,10.0,Right Foot,,David Silva,Pass (Live),David Silva,Take-On
+24,68,Rodri,Manchester City,0.07,,Blocked,13.0,Right Foot,Volley,Aymeric Laporte,Pass (Live),Nicolás Otamendi,Pass (Live)
+25,82,Sergio Agüero,Manchester City,0.06,,Blocked,17.0,Right Foot,,Riyad Mahrez,Pass (Live),Sergio Agüero,Pass (Live)
+26,87,Dominic Solanke,Bournemouth,0.05,0.1,Saved,15.0,Left Foot,,Joshua King,Pass (Live),Philip Billing,Pass (Live)
+27,90+1,Dominic Solanke,Bournemouth,0.05,,Off Target,13.0,Head,,Harry Wilson,Pass (Dead),Joshua King,Fouled
+28,90+4,Dominic Solanke,Bournemouth,0.56,0.65,Saved,5.0,Left Foot,,,,,

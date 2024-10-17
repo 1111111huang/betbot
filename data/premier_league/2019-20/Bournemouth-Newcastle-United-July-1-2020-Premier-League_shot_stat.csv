@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Dwight Gayle,Newcastle Utd,0.25,0.74,Goal,13.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Sean Longstaff,Tackle
+1,8,Philip Billing,Bournemouth,0.06,,Off Target,21.0,Left Foot,,Arnaut Danjuma,Pass (Live),Lloyd Kelly,Pass (Live)
+2,15,Sean Longstaff,Newcastle Utd,0.04,,Off Target,21.0,Right Foot,,Joelinton,Pass (Live),Jonjo Shelvey,Pass (Live)
+3,19,Allan Saint-Maximin,Newcastle Utd,0.04,,Blocked,22.0,Right Foot,,Javier Manquillo,Take-On,,
+4,22,Dominic Solanke,Bournemouth,0.16,,Off Target,8.0,Right Foot,,Adam Smith,Pass (Live),David Brooks,Fouled
+5,30,Sean Longstaff,Newcastle Utd,0.47,0.94,Goal,11.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Pass (Live)
+6,35,Jonjo Shelvey,Newcastle Utd,0.03,0.02,Saved,27.0,Right Foot,,Nabil Bentaleb,Pass (Live),Miguel Almirón,Pass (Live)
+7,41,Arnaut Danjuma,Bournemouth,0.13,,Off Target,23.0,Right Foot,Free kick,Joshua King,Fouled,,
+8,,,,,,,,,,,,,
+9,46,Dominic Solanke,Bournemouth,0.03,,Blocked,23.0,Right Foot,,Jefferson Lerma,Pass (Live),Jefferson Lerma,Take-On
+10,52,Allan Saint-Maximin,Newcastle Utd,0.03,0.04,Saved,27.0,Left Foot,,,,,
+11,57,Miguel Almirón,Newcastle Utd,0.06,0.48,Goal,17.0,Right Foot,Deflected,Allan Saint-Maximin,Pass (Live),Jonjo Shelvey,Pass (Live)
+12,60,David Brooks,Bournemouth,0.03,,Woodwork,28.0,Left Foot,,Lewis Cook,Pass (Live),Jefferson Lerma,Pass (Live)
+13,73,Lewis Cook,Bournemouth,0.04,,Blocked,23.0,Left Foot,,Harry Wilson,Fouled,Lewis Cook,Pass (Live)
+14,77,Valentino Lazaro,Newcastle Utd,0.29,0.92,Goal,14.0,Left Foot,,Jonjo Shelvey,Pass (Live),Andy Carroll,Pass (Live)
+15,79,Valentino Lazaro,Newcastle Utd,0.03,,Woodwork,31.0,Right Foot,,Nabil Bentaleb,Pass (Live),Miguel Almirón,Interception
+16,79,Isaac Hayden,Newcastle Utd,0.47,,Off Target,9.0,Left Foot,,Valentino Lazaro,Shot,,
+17,79,Andy Carroll,Newcastle Utd,0.09,,Off Target,11.0,Other,,Miguel Almirón,Pass (Live),Andy Carroll,Pass (Live)
+18,81,Harry Wilson,Bournemouth,0.03,,Blocked,25.0,Left Foot,,Joshua King,Pass (Live),Joshua King,Take-On
+19,84,Junior Stanislas,Bournemouth,0.04,,Blocked,20.0,Right Foot,,Dan Gosling,Pass (Live),Nathan Aké,Pass (Live)
+20,84,Joshua King,Bournemouth,0.09,,Off Target,8.0,Head,,Dan Gosling,Pass (Live),Chris Mepham,Pass (Live)
+21,90+1,Harry Wilson,Bournemouth,0.03,,Blocked,23.0,Left Foot,,Dan Gosling,Pass (Live),Junior Stanislas,Pass (Live)
+22,90+2,Andy Carroll,Newcastle Utd,0.06,0.22,Saved,17.0,Left Foot,,Jonjo Shelvey,Pass (Live),Andy Carroll,Pass (Live)
+23,90+4,Nathan Aké,Bournemouth,0.15,,Off Target,6.0,Head,,Junior Stanislas,Pass (Dead),Dan Gosling,Fouled
+24,90+4,Dan Gosling,Bournemouth,0.94,0.99,Goal,1.0,Right Foot,Volley,Nathan Aké,Shot,,

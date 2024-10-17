@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,James Tarkowski,Burnley,0.1,0.09,Saved,8.0,Head,,Dwight McNeil,Pass (Dead),Ashley Barnes,Pass (Live)
+1,13,Chris Wood,Burnley,0.05,,Off Target,13.0,Right Foot,,,,,
+2,14,Allan Saint-Maximin,Newcastle Utd,0.05,0.42,Goal,18.0,Right Foot,,Callum Wilson,Pass (Live),Karl Darlow,Pass (Live)
+3,30,Callum Wilson,Newcastle Utd,0.24,,Off Target,9.0,Head,,Jonjo Shelvey,Pass (Live),Emil Krafth,Pass (Live)
+4,35,Dale Stephens,Burnley,0.04,,Blocked,22.0,Left Foot,,Dwight McNeil,Pass (Live),Ashley Barnes,Pass (Live)
+5,40,Joelinton,Newcastle Utd,0.04,0.32,Saved,13.0,Head,,Emil Krafth,Pass (Live),Callum Wilson,Pass (Live)
+6,45+2,Jeff Hendrick,Newcastle Utd,0.05,,Off Target,12.0,Right Foot,,Isaac Hayden,Pass (Live),Isaac Hayden,Take-On
+7,,,,,,,,,,,,,
+8,50,Ashley Barnes,Burnley,0.09,,Blocked,13.0,Right Foot,,James Tarkowski,Pass (Live),Dale Stephens,Pass (Live)
+9,52,Chris Wood,Burnley,0.05,0.25,Saved,9.0,Head,,Ashley Barnes,Pass (Live),Ashley Westwood,Pass (Live)
+10,61,Ashley Westwood,Burnley,0.04,0.23,Goal,14.0,Right Foot,Volley,Josh Brownhill,Pass (Live),Josh Brownhill,Pass (Live)
+11,65,Javier Manquillo,Newcastle Utd,0.03,,Blocked,25.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Javier Manquillo,Pass (Dead)
+12,65,Callum Wilson,Newcastle Utd,0.53,0.74,Goal,5.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Emil Krafth,Pass (Live)
+13,71,Isaac Hayden,Newcastle Utd,0.03,0.01,Saved,24.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Jonjo Shelvey,Pass (Dead)
+14,77,Callum Wilson (pen),Newcastle Utd,0.79,0.89,Goal,13.0,Right Foot,,Ryan Fraser,Fouled,,
+15,80,Ryan Fraser,Newcastle Utd,0.02,,Saved off Target,32.0,Right Foot,,Joelinton,Pass (Live),Javier Manquillo,Pass (Live)
+16,90+3,Kevin Long,Burnley,0.07,,Off Target,14.0,Right Foot,Volley,Josh Brownhill,Pass (Live),Matěj Vydra,Fouled
+17,90+3,Sean Longstaff,Newcastle Utd,0.03,,Off Target,27.0,Left Foot,,Callum Wilson,Pass (Live),Karl Darlow,Pass (Dead)

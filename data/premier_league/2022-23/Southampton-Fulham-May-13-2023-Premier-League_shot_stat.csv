@@ -1,0 +1,16 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,12,Tosin Adarabioyo,Fulham,0.02,,Off Target,36.0,Right Foot,,Willian,Pass (Live),Tom Cairney,Pass (Live)
+1,14,Tom Cairney,Fulham,0.04,,Blocked,21.0,Left Foot,Volley,Willian,Pass (Dead),,
+2,21,Paul Onuachu,Southampton,0.03,0.12,Saved,29.0,Right Foot,,,,,
+3,26,Carlos Vinícius,Fulham,0.07,,Blocked,11.0,Head,,Harry Wilson,Pass (Live),Tom Cairney,Pass (Live)
+4,33,Carlos Alcaraz,Southampton,0.02,,Off Target,34.0,Right Foot,,Stuart Armstrong,Pass (Live),James Ward-Prowse,Interception
+5,41,Willian,Fulham,0.21,,Blocked,7.0,Left Foot,Volley,Harrison Reed,Pass (Live),Harry Wilson,Pass (Live)
+6,,,,,,,,,,,,,
+7,48,Carlos Vinícius,Fulham,0.81,0.87,Goal,9.0,Right Foot,,Tom Cairney,Pass (Live),Carlos Vinícius,Pass (Live)
+8,52,João Palhinha,Fulham,0.05,,Blocked,18.0,Right Foot,,Carlos Vinícius,Pass (Live),,
+9,54,Paul Onuachu,Southampton,0.21,,Off Target,7.0,Head,,Kyle Walker-Peters,Pass (Live),Kyle Walker-Peters,Take-On
+10,61,Tom Cairney,Fulham,0.04,,Blocked,23.0,Left Foot,,Willian,Pass (Live),Harry Wilson,Pass (Live)
+11,72,Aleksandar Mitrović,Fulham,0.12,0.41,Goal,9.0,Head,,Harry Wilson,Pass (Live),Kenny Tete,Pass (Live)
+12,84,Kamaldeen Sulemana,Southampton,0.06,,Blocked,22.0,Right Foot,,,,,
+13,84,Roméo Lavia,Southampton,0.02,,Blocked,30.0,Right Foot,,Moussa Djenepo,Pass (Live),James Ward-Prowse,Pass (Live)
+14,90+5,Manor Solomon,Fulham,0.05,0.16,Saved,23.0,Right Foot,,Bobby Reid,Pass (Live),Neeskens Kebano,Tackle

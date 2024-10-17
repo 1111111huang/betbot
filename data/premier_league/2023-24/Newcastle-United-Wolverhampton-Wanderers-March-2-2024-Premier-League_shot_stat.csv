@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Pablo Sarabia,Wolves,0.06,,Blocked,24.0,Left Foot,,Pablo Sarabia,Take-On,Rayan Aït-Nouri,Pass (Live)
+1,14,Bruno Guimarães,Newcastle Utd,0.11,,Blocked,15.0,Left Foot,,Anthony Gordon,Pass (Live),Fabian Schär,Pass (Live)
+2,14,Alexander Isak,Newcastle Utd,0.65,0.97,Goal,5.0,Head,,Bruno Guimarães,Shot,,
+3,17,Pablo Sarabia,Wolves,0.03,,Blocked,26.0,Left Foot,,Nélson Semedo,Pass (Live),Pedro Neto,Pass (Live)
+4,19,Dan Burn,Newcastle Utd,0.23,,Off Target,16.0,Left Foot,,Anthony Gordon,Pass (Live),Dan Burn,Pass (Live)
+5,22,Craig Dawson,Wolves,0.03,,Off Target,12.0,Head,,Pablo Sarabia,Pass (Dead),Pablo Sarabia,Pass (Live)
+6,22,Jean-Ricner Bellegarde,Wolves,0.05,,Off Target,10.0,Head,,Craig Dawson,Shot,,
+7,22,Toti Gomes,Wolves,0.1,,Off Target,4.0,Head,,Jean-Ricner Bellegarde,Shot,,
+8,24,Kieran Trippier,Newcastle Utd,0.07,,Blocked,29.0,Right Foot,Free kick,Bruno Guimarães,Fouled,Kieran Trippier,Pass (Live)
+9,24,Alexander Isak,Newcastle Utd,0.04,0.14,Saved,23.0,Left Foot,,Joe Willock,Pass (Live),Anthony Gordon,Pass (Live)
+10,29,Jacob Murphy,Newcastle Utd,0.06,0.12,Saved,23.0,Left Foot,,Bruno Guimarães,Pass (Live),Kieran Trippier,Pass (Live)
+11,33,Anthony Gordon,Newcastle Utd,0.24,0.64,Goal,9.0,Right Foot,,Joe Willock,Pass (Live),Fabian Schär,Pass (Live)
+12,35,Jacob Murphy,Newcastle Utd,0.02,,Off Target,34.0,Right Foot,,Joe Willock,Pass (Live),Anthony Gordon,Pass (Live)
+13,,,,,,,,,,,,,
+14,56,Joe Willock,Newcastle Utd,0.23,,Blocked,8.0,Head,,Dan Burn,Pass (Live),Dan Burn,Take-On
+15,57,Dan Burn,Newcastle Utd,0.12,,Off Target,6.0,Head,,Bruno Guimarães,Pass (Dead),Joe Willock,Shot
+16,64,Jean-Ricner Bellegarde,Wolves,0.1,,Off Target,18.0,Right Foot,,Rayan Aït-Nouri,Pass (Live),Nathan Fraser,Pass (Live)
+17,66,Nathan Fraser,Wolves,0.08,0.25,Saved,23.0,Right Foot,,Mario Lemina,Pass (Live),Pablo Sarabia,Pass (Live)
+18,68,Pablo Sarabia,Wolves,0.16,0.15,Saved,8.0,Left Foot,Volley,Jean-Ricner Bellegarde,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+19,73,Jean-Ricner Bellegarde,Wolves,0.04,0.03,Saved,12.0,Head,,Craig Dawson,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+20,79,Miguel Almirón,Newcastle Utd,0.17,0.74,Saved,4.0,Left Foot,,Bruno Guimarães,Pass (Live),Bruno Guimarães,Take-On
+21,81,Harvey Barnes,Newcastle Utd,0.06,,Blocked,21.0,Right Foot,,Sven Botman,Pass (Live),Lewis Miley,Pass (Live)
+22,81,Bruno Guimarães,Newcastle Utd,0.03,,Off Target,27.0,Right Foot,,Dan Burn,Pass (Dead),Harvey Barnes,Shot
+23,84,Tawanda Chirewa,Wolves,0.08,,Off Target,13.0,Head,,Nélson Semedo,Pass (Live),Pablo Sarabia,Pass (Live)
+24,86,Max Kilman,Wolves,0.04,,Off Target,23.0,Left Foot,Volley,Hugo Bueno,Pass (Live),Tommy Doyle,Pass (Live)
+25,89,Pablo Sarabia,Wolves,0.03,,Blocked,18.0,Left Foot,,Tawanda Chirewa,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+26,90+2,Valentino Livramento,Newcastle Utd,0.17,0.95,Goal,7.0,Right Foot,,Valentino Livramento,Take-On,Fabian Schär,Pass (Live)

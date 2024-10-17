@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,12,Reece James,Chelsea,0.09,,Off Target,11.0,Head,,Mason Mount,Pass (Dead),Christian Pulisic,Fouled
+1,14,Raúl Jiménez,Wolves,0.02,,Blocked,32.0,Left Foot,,Matt Doherty,Pass (Live),Leander Dendoncker,Pass (Live)
+2,17,Rúben Neves,Wolves,0.02,,Blocked,23.0,Left Foot,,,,,
+3,38,Marcos Alonso,Chelsea,0.04,,Blocked,19.0,Left Foot,,Christian Pulisic,Pass (Live),Jorginho,Pass (Live)
+4,39,Olivier Giroud,Chelsea,0.09,,Off Target,8.0,Head,,Mason Mount,Pass (Live),Jorginho,Pass (Live)
+5,44,Rúben Neves,Wolves,0.02,,Off Target,24.0,Right Foot,,Jonny Castro,Pass (Live),Jonny Castro,Pass (Live)
+6,45,César Azpilicueta,Chelsea,0.1,,Blocked,6.0,Left Foot,,Antonio Rüdiger,Pass (Live),Jorginho,Pass (Live)
+7,45+1,Mason Mount,Chelsea,0.1,0.49,Goal,25.0,Right Foot,Free kick,Marcos Alonso,Fouled,César Azpilicueta,Shot
+8,45+4,Olivier Giroud,Chelsea,0.76,0.97,Goal,9.0,Left Foot,,Olivier Giroud,Take-On,Mason Mount,Pass (Live)
+9,,,,,,,,,,,,,
+10,57,Diogo Jota,Wolves,0.05,0.04,Saved,25.0,Right Foot,,Diogo Jota,Take-On,Rúben Neves,Pass (Live)
+11,74,Marcos Alonso,Chelsea,0.03,,Blocked,19.0,Left Foot,,Mason Mount,Pass (Live),Marcos Alonso,Pass (Dead)
+12,77,Christian Pulisic,Chelsea,0.05,,Off Target,17.0,Right Foot,,Olivier Giroud,Pass (Live),Christian Pulisic,Pass (Live)
+13,79,Mason Mount,Chelsea,0.04,,Off Target,32.0,Right Foot,,,,,
+14,89,Tammy Abraham,Chelsea,0.09,,Off Target,8.0,Head,,Reece James,Pass (Dead),,
+15,90+3,Willy Boly,Wolves,0.06,,Blocked,13.0,Head,,Bruno Jordão,Pass (Live),João Moutinho,Pass (Dead)
+16,90+3,Tammy Abraham,Chelsea,0.06,0.06,Saved,23.0,Right Foot,,,,,

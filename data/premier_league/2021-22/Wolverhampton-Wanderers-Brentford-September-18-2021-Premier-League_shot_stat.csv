@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Fernando Marçal,Wolves,0.04,,Off Target,26.0,Right Foot,,Rúben Neves,Pass (Live),Nélson Semedo,Pass (Live)
+1,12,Ivan Toney,Brentford,0.02,,Off Target,18.0,Head,,Christian Nørgaard,Pass (Live),Pontus Jansson,Pass (Live)
+2,14,Fernando Marçal,Wolves,0.01,,Off Target,29.0,Left Foot,Volley,Francisco Trincão,Pass (Live),João Moutinho,Pass (Live)
+3,17,Adama Traoré,Wolves,0.07,,Off Target,27.0,Right Foot,,Adama Traoré,Take-On,Francisco Trincão,Pass (Live)
+4,28,Ivan Toney (pen),Brentford,0.79,0.99,Goal,13.0,Right Foot,,Ivan Toney,Fouled,Sergi Canós,Pass (Dead)
+5,29,Vitaly Janelt,Brentford,0.3,0.24,Saved,11.0,Left Foot,,Vitaly Janelt,Pass (Live),Bryan Mbeumo,Pass (Live)
+6,32,Adama Traoré,Wolves,0.03,,Blocked,24.0,Right Foot,,Raúl Jiménez,Pass (Live),,
+7,32,Francisco Trincão,Wolves,0.18,,Off Target,11.0,Left Foot,Volley,Adama Traoré,Shot,,
+8,33,Nélson Semedo,Wolves,0.03,,Blocked,18.0,Left Foot,,Nélson Semedo,Take-On,Raúl Jiménez,Pass (Live)
+9,34,Bryan Mbeumo,Brentford,0.92,0.95,Goal,4.0,Left Foot,,Ivan Toney,Pass (Live),David Raya,Pass (Live)
+10,45,Romain Saïss,Wolves,0.02,,Off Target,37.0,Left Foot,,Rúben Neves,Pass (Live),Nélson Semedo,Pass (Live)
+11,,,,,,,,,,,,,
+12,46,Bryan Mbeumo,Brentford,0.1,,Off Target,22.0,Left Foot,,Vitaly Janelt,Pass (Live),Vitaly Janelt,Tackle
+13,68,Hwang Hee-chan,Wolves,0.11,,Blocked,11.0,Left Foot,,Raúl Jiménez,Pass (Live),João Moutinho,Pass (Live)
+14,85,Francisco Trincão,Wolves,0.06,,Off Target,25.0,Left Foot,Free kick,Daniel Podence,Fouled,Rúben Neves,Pass (Live)
+15,86,Ivan Toney,Brentford,0.01,,Off Target,26.0,Right Foot,,Bryan Mbeumo,Pass (Live),Kristoffer Ajer,Pass (Dead)
+16,87,Raúl Jiménez,Wolves,0.08,,Off Target,12.0,Head,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+17,90,Bryan Mbeumo,Brentford,0.2,,Woodwork,18.0,Left Foot,,Bryan Mbeumo,Take-On,Vitaly Janelt,Pass (Live)
+18,90+1,Frank Onyeka,Brentford,0.02,,Blocked,20.0,Right Foot,,Ivan Toney,Pass (Live),Vitaly Janelt,Pass (Live)
+19,90+1,Vitaly Janelt,Brentford,0.11,,Off Target,20.0,Left Foot,,Frank Onyeka,Shot,,
+20,90+4,Rúben Neves,Wolves,0.02,,Off Target,32.0,Right Foot,,Max Kilman,Pass (Live),Adama Traoré,Pass (Live)

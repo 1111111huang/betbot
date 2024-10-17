@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,João Félix,Chelsea,0.11,,Blocked,15.0,Right Foot,,João Félix,Take-On,Reece James,Pass (Live)
+1,5,Mateo Kovačić,Chelsea,0.52,,Blocked,6.0,Right Foot,,Mateo Kovačić,Take-On,Mateo Kovačić,Pass (Live)
+2,12,Kai Havertz,Chelsea,0.37,0.61,Saved,6.0,Left Foot,,Ben Chilwell,Pass (Live),Kalidou Koulibaly,Pass (Live)
+3,17,João Félix,Chelsea,0.04,,Blocked,17.0,Right Foot,,João Félix,Take-On,Mateo Kovačić,Pass (Live)
+4,19,Jordan Henderson,Liverpool,0.14,,Blocked,39.0,Left Foot,,Kostas Tsimikas,Pass (Live),Ibrahima Konaté,Pass (Live)
+5,23,Roberto Firmino,Liverpool,0.03,,Blocked,31.0,Right Foot,,Fabinho,Pass (Live),Ibrahima Konaté,Pass (Live)
+6,24,Kai Havertz,Chelsea,0.07,,Off Target,9.0,Head,,Ben Chilwell,Pass (Dead),Kai Havertz,Pass (Live)
+7,29,Kai Havertz,Chelsea,0.1,,Off Target,17.0,Left Foot,,N'Golo Kanté,Pass (Live),Enzo Fernández,Pass (Live)
+8,45,Darwin Núñez,Liverpool,0.01,0.24,Saved,32.0,Right Foot,,Kostas Tsimikas,Pass (Live),,
+9,45+2,Fabinho,Liverpool,0.04,,Blocked,16.0,Right Foot,,Kostas Tsimikas,Pass (Dead),,
+10,45+3,Joe Gomez,Liverpool,0.03,0.12,Saved,23.0,Right Foot,,Darwin Núñez,Pass (Live),Jordan Henderson,Pass (Live)
+11,45+3,Fabinho,Liverpool,0.09,,Blocked,11.0,Right Foot,,Joe Gomez,Shot,,
+12,,,,,,,,,,,,,
+13,47,Mateo Kovačić,Chelsea,0.31,,Off Target,12.0,Right Foot,,N'Golo Kanté,Pass (Live),João Félix,Pass (Live)
+14,50,Kai Havertz,Chelsea,0.47,0.42,Saved,16.0,Left Foot,,N'Golo Kanté,Pass (Live),João Félix,Pass (Live)
+15,57,Reece James,Chelsea,0.03,,Off Target,29.0,Right Foot,,Ben Chilwell,Pass (Dead),João Félix,Fouled
+16,58,João Félix,Chelsea,0.05,,Off Target,20.0,Right Foot,,Kai Havertz,Pass (Live),N'Golo Kanté,Pass (Live)
+17,60,Darwin Núñez,Liverpool,0.02,0.07,Saved,26.0,Right Foot,,,,,
+18,77,João Félix,Chelsea,0.07,,Off Target,18.0,Right Foot,Volley,Kai Havertz,Pass (Live),Marc Cucurella,Pass (Live)
+19,90+5,Enzo Fernández,Chelsea,0.03,,Off Target,28.0,Right Foot,,Mykhailo Mudryk,Pass (Live),,

@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,James Milner,Liverpool,0.04,0.03,Saved,23.0,Right Foot,Deflected,Sadio Mané,Pass (Live),Georginio Wijnaldum,Pass (Live)
+1,7,James Milner,Liverpool,0.01,,Blocked,31.0,Right Foot,,,,,
+2,13,Alex Oxlade-Chamberlain,Liverpool,0.05,,Off Target,17.0,Right Foot,,Mohamed Salah,Pass (Live),Joël Matip,Pass (Live)
+3,18,Che Adams,Southampton,0.04,,Off Target,13.0,Left Foot,,Oriol Romeu,Pass (Live),Oriol Romeu,Tackle
+4,18,Maya Yoshida,Southampton,0.16,,Off Target,9.0,Left Foot,Volley,Che Adams,Shot,,
+5,21,Maya Yoshida,Southampton,0.23,0.13,Saved,5.0,Head,,James Ward-Prowse,Pass (Dead),,
+6,29,Yan Valery,Southampton,0.12,,Blocked,14.0,Left Foot,,Yan Valery,Take-On,Nathan Redmond,Pass (Live)
+7,33,Mohamed Salah,Liverpool,0.04,,Off Target,14.0,Left Foot,,Alex Oxlade-Chamberlain,Pass (Live),Andrew Robertson,Pass (Live)
+8,38,Che Adams,Southampton,0.24,,Off Target,11.0,Head,,Oriol Romeu,Pass (Live),Yan Valery,Pass (Live)
+9,45+1,Sadio Mané,Liverpool,0.04,0.55,Goal,19.0,Right Foot,,James Milner,Pass (Live),Georginio Wijnaldum,Pass (Live)
+10,45+3,Nathan Redmond,Southampton,0.08,,Off Target,12.0,Other,,Jannik Vestergaard,Pass (Live),Che Adams,Pass (Live)
+11,,,,,,,,,,,,,
+12,50,Mohamed Salah,Liverpool,0.08,,Blocked,23.0,Left Foot,Free kick,Joël Matip,Fouled,Alex Oxlade-Chamberlain,Pass (Live)
+13,53,Pierre Højbjerg,Southampton,0.03,,Blocked,27.0,Right Foot,,Nathan Redmond,Pass (Live),,
+14,53,Pierre Højbjerg,Southampton,0.04,,Blocked,23.0,Right Foot,,Pierre Højbjerg,Shot,,
+15,55,James Milner,Liverpool,0.02,,Off Target,25.0,Right Foot,,Mohamed Salah,Pass (Live),James Milner,Pass (Live)
+16,55,Joël Matip,Liverpool,0.08,,Off Target,11.0,Left Foot,,James Milner,Shot,,
+17,56,Mohamed Salah,Liverpool,0.32,0.73,Saved,10.0,Left Foot,,Sadio Mané,Pass (Live),Georginio Wijnaldum,Pass (Live)
+18,60,Alex Oxlade-Chamberlain,Liverpool,0.03,,Blocked,28.0,Right Foot,,Andrew Robertson,Pass (Live),,
+19,63,James Milner,Liverpool,0.05,,Off Target,24.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),James Milner,Pass (Live)
+20,65,Roberto Firmino,Liverpool,0.28,,Off Target,14.0,Right Foot,,Sadio Mané,Pass (Live),Georginio Wijnaldum,Pass (Live)
+21,67,Danny Ings,Southampton,0.05,,Off Target,25.0,Left Foot,,Danny Ings,Take-On,Nathan Redmond,Pass (Live)
+22,71,Roberto Firmino,Liverpool,0.08,0.22,Goal,19.0,Right Foot,,Roberto Firmino,Take-On,Sadio Mané,Pass (Live)
+23,73,Pierre Højbjerg,Southampton,0.02,0.09,Saved,31.0,Right Foot,,,,,
+24,75,Sadio Mané,Liverpool,0.11,0.23,Saved,8.0,Head,,Trent Alexander-Arnold,Pass (Dead),Roberto Firmino,Fouled
+25,77,Andrew Robertson,Liverpool,0.06,0.09,Saved,15.0,Left Foot,,Sadio Mané,Pass (Live),Andrew Robertson,Pass (Live)
+26,80,Nathan Redmond,Southampton,0.03,,Off Target,23.0,Right Foot,Volley,,,,
+27,83,Danny Ings,Southampton,0.1,0.07,Goal,12.0,Right Foot,Volley,,,,
+28,86,Danny Ings,Southampton,0.52,,Off Target,5.0,Right Foot,,Yan Valery,Pass (Live),Pierre Højbjerg,Pass (Live)
+29,90+2,Danny Ings,Southampton,0.29,,Blocked,4.0,Right Foot,Volley,James Ward-Prowse,Pass (Dead),Moussa Djenepo,Fouled

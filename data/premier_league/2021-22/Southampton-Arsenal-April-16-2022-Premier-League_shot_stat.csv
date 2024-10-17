@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Bukayo Saka,Arsenal,0.05,,Blocked,21.0,Left Foot,,Eddie Nketiah,Pass (Live),Cédric Soares,Pass (Dead)
+1,6,Mohamed Elyounoussi,Southampton,0.43,,Blocked,4.0,Right Foot,,Armando Broja,Pass (Live),,
+2,7,Romain Perraud,Southampton,0.01,,Off Target,30.0,Left Foot,Volley,,,,
+3,9,Gabriel Martinelli,Arsenal,0.05,0.28,Saved,21.0,Left Foot,,Gabriel Martinelli,Take-On,Martin Ødegaard,Pass (Live)
+4,13,Romain Perraud,Southampton,0.01,,Blocked,28.0,Left Foot,,Oriol Romeu,Pass (Live),James Ward-Prowse,Pass (Live)
+5,14,Romain Perraud,Southampton,0.03,,Blocked,13.0,Left Foot,,Stuart Armstrong,Pass (Dead),Romain Perraud,Shot
+6,17,Bukayo Saka,Arsenal,0.45,0.31,Saved,11.0,Right Foot,,Eddie Nketiah,Pass (Live),Eddie Nketiah,Take-On
+7,26,Stuart Armstrong,Southampton,0.05,0.08,Saved,15.0,Left Foot,,,,,
+8,38,Cédric Soares,Arsenal,0.04,,Off Target,21.0,Right Foot,Free kick,Nuno Tavares,Fouled,Gabriel Martinelli,Pass (Live)
+9,44,Armando Broja,Southampton,0.03,,Blocked,11.0,Head,,James Ward-Prowse,Pass (Dead),Mohamed Elyounoussi,Fouled
+10,45,Jan Bednarek,Southampton,0.11,0.28,Goal,7.0,Left Foot,,Mohamed Elyounoussi,Pass (Live),Romain Perraud,Pass (Live)
+11,,,,,,,,,,,,,
+12,49,Nuno Tavares,Arsenal,0.04,,Blocked,21.0,Left Foot,,Bukayo Saka,Pass (Live),Bukayo Saka,Take-On
+13,51,Nuno Tavares,Arsenal,0.01,,Off Target,29.0,Right Foot,,Gabriel Magalhães,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+14,52,Romain Perraud,Southampton,0.05,,Blocked,11.0,Left Foot,,,,,
+15,58,Eddie Nketiah,Arsenal,0.07,,Off Target,11.0,Right Foot,Volley,Cédric Soares,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+16,59,Gabriel Martinelli,Arsenal,0.06,,Off Target,17.0,Right Foot,Volley,Granit Xhaka,Pass (Live),,
+17,61,Gabriel Martinelli,Arsenal,0.04,,Off Target,11.0,Head,,Nuno Tavares,Pass (Live),Granit Xhaka,Pass (Live)
+18,61,Emile Smith Rowe,Arsenal,0.13,,Blocked,17.0,Right Foot,,Martin Ødegaard,Pass (Live),Ben White,Pass (Live)
+19,63,Martin Ødegaard,Arsenal,0.03,,Off Target,23.0,Left Foot,,Bukayo Saka,Pass (Live),Granit Xhaka,Pass (Live)
+20,64,Bukayo Saka,Arsenal,0.04,,Off Target,24.0,Left Foot,,Martin Ødegaard,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+21,71,Nicolas Pépé,Arsenal,0.05,,Off Target,16.0,Left Foot,Volley,Granit Xhaka,Pass (Live),Gabriel Martinelli,Pass (Live)
+22,73,Emile Smith Rowe,Arsenal,0.1,0.24,Saved,9.0,Left Foot,Volley,Albert Sambi Lokonga,Pass (Live),Martin Ødegaard,Pass (Live)
+23,73,Granit Xhaka,Arsenal,0.1,,Off Target,10.0,Left Foot,Volley,Emile Smith Rowe,Shot,,
+24,81,Bukayo Saka,Arsenal,0.04,0.1,Saved,11.0,Right Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+25,81,Martin Ødegaard,Arsenal,0.13,,Off Target,18.0,Left Foot,,Martin Ødegaard,Take-On,Bukayo Saka,Pass (Live)
+26,85,Granit Xhaka,Arsenal,0.02,,Blocked,28.0,Left Foot,,Albert Sambi Lokonga,Pass (Live),Nicolas Pépé,Pass (Live)
+27,85,Granit Xhaka,Arsenal,0.07,0.53,Saved,25.0,Left Foot,,Emile Smith Rowe,Pass (Live),,
+28,85,Martin Ødegaard,Arsenal,0.01,,Off Target,22.0,Left Foot,,Bukayo Saka,Pass (Dead),Martin Ødegaard,Pass (Live)
+29,87,Gabriel Martinelli,Arsenal,0.1,,Blocked,15.0,Right Foot,,Albert Sambi Lokonga,Pass (Live),Martin Ødegaard,Pass (Live)
+30,90+2,James Ward-Prowse,Southampton,0.04,0.22,Saved,25.0,Right Foot,Free kick,Mohamed Elyounoussi,Fouled,Lyanco,Pass (Live)
+31,90+4,Gabriel Martinelli,Arsenal,0.06,,Off Target,22.0,Left Foot,,Bukayo Saka,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+32,90+5,Gabriel Magalhães,Arsenal,0.02,0.03,Saved,15.0,Head,,Martin Ødegaard,Pass (Live),Aaron Ramsdale,Pass (Dead)

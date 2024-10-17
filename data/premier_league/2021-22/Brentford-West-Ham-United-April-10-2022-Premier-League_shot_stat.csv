@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Kristoffer Ajer,Brentford,0.04,,Blocked,15.0,Right Foot,,Vitaly Janelt,Pass (Live),Kristoffer Ajer,Pass (Live)
+1,15,Bryan Mbeumo,Brentford,0.04,0.03,Saved,17.0,Head,,Rico Henry,Pass (Live),Christian Eriksen,Pass (Live)
+2,21,Bryan Mbeumo,Brentford,0.04,0.29,Saved,18.0,Left Foot,,Ivan Toney,Pass (Live),,
+3,22,Bryan Mbeumo,Brentford,0.02,,Off Target,17.0,Left Foot,Volley,Bryan Mbeumo,Shot,,
+4,24,Tomáš Souček,West Ham,0.05,0.03,Saved,12.0,Head,,Vladimír Coufal,Pass (Live),Pablo Fornals,Pass (Live)
+5,32,Christian Eriksen,Brentford,0.03,0.03,Saved,22.0,Right Foot,,Ivan Toney,Pass (Live),Bryan Mbeumo,Pass (Live)
+6,33,Ivan Toney,Brentford,0.09,,Blocked,8.0,Head,,Rico Henry,Pass (Live),Yoane Wissa,Pass (Live)
+7,34,Bryan Mbeumo,Brentford,0.06,,Off Target,18.0,Left Foot,,Ivan Toney,Pass (Live),Vitaly Janelt,Pass (Live)
+8,43,Bryan Mbeumo,Brentford,0.08,,Blocked,12.0,Left Foot,,Christian Eriksen,Pass (Live),Ivan Toney,Pass (Live)
+9,45+1,Christian Eriksen,Brentford,0.03,0.29,Saved,19.0,Right Foot,Volley,Vitaly Janelt,Pass (Live),Yoane Wissa,Fouled
+10,45+2,Aaron Cresswell,West Ham,0.04,,Off Target,11.0,Left Foot,Volley,Jarrod Bowen,Pass (Dead),,
+11,,,,,,,,,,,,,
+12,48,Bryan Mbeumo,Brentford,0.1,0.22,Goal,12.0,Left Foot,Volley,Ivan Toney,Pass (Live),Kristoffer Ajer,Pass (Dead)
+13,51,Vitaly Janelt,Brentford,0.04,,Blocked,26.0,Left Foot,,Ivan Toney,Pass (Live),Christian Eriksen,Pass (Live)
+14,64,Ivan Toney,Brentford,0.46,0.71,Goal,6.0,Head,,Bryan Mbeumo,Pass (Live),Rico Henry,Pass (Live)
+15,69,Ivan Toney,Brentford,0.15,,Blocked,9.0,Left Foot,,Yoane Wissa,Pass (Live),Vitaly Janelt,Pass (Live)
+16,69,Bryan Mbeumo,Brentford,0.23,,Off Target,7.0,Left Foot,Volley,Vitaly Janelt,Pass (Live),Ivan Toney,Shot
+17,71,Declan Rice,West Ham,0.18,,Off Target,5.0,Head,,Pablo Fornals,Pass (Dead),,
+18,87,Sergi Canós,Brentford,0.01,0.14,Saved,30.0,Right Foot,,David Raya,Pass (Live),Christian Nørgaard,Pass (Live)
+19,90,Declan Rice,West Ham,0.02,,Off Target,32.0,Right Foot,,Aaron Cresswell,Pass (Live),Pablo Fornals,Pass (Live)
+20,90+2,Saïd Benrahma,West Ham,0.03,,Blocked,27.0,Right Foot,,,,,

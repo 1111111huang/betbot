@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,27,Leander Dendoncker,Wolves,0.45,,Woodwork,6.0,Head,,Adama Traoré,Pass (Live),Daniel Podence,Pass (Live)
+1,27,Pedro Neto,Wolves,0.52,0.72,Goal,8.0,Right Foot,Deflected,Leander Dendoncker,Shot,,
+2,30,Gabriel Magalhães,Arsenal,0.05,0.21,Goal,9.0,Head,,Willian,Pass (Live),Héctor Bellerín,Pass (Live)
+3,33,Fábio Silva,Wolves,0.05,,Blocked,17.0,Right Foot,,Adama Traoré,Pass (Live),Willy Boly,Pass (Live)
+4,34,Leander Dendoncker,Wolves,0.09,0.16,Saved,8.0,Head,,Pedro Neto,Pass (Dead),Fábio Silva,Shot
+5,42,Pedro Neto,Wolves,0.04,0.05,Saved,21.0,Left Foot,Deflected,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+6,42,Daniel Podence,Wolves,0.43,0.78,Goal,10.0,Right Foot,,Daniel Podence,Take-On,Pedro Neto,Shot
+7,45,David Luiz,Arsenal,0.05,,Off Target,35.0,Right Foot,Free kick,Willian,Fouled,Joe Willock,Pass (Live)
+8,45+1,Fábio Silva,Wolves,0.11,0.08,Saved,11.0,Right Foot,,Nélson Semedo,Pass (Live),Daniel Podence,Pass (Live)
+9,45+1,Pierre-Emerick Aubameyang,Arsenal,0.06,0.08,Saved,13.0,Right Foot,,David Luiz,Pass (Live),Granit Xhaka,Pass (Live)
+10,45+4,Adama Traoré,Wolves,0.06,,Off Target,12.0,Right Foot,,Fábio Silva,Pass (Live),Pedro Neto,Pass (Live)
+11,45+7,Pierre-Emerick Aubameyang,Arsenal,0.09,,Off Target,9.0,Head,,Héctor Bellerín,Pass (Live),Dani Ceballos,Pass (Live)
+12,,,,,,,,,,,,,
+13,50,Bukayo Saka,Arsenal,0.37,,Off Target,11.0,Left Foot,Volley,Héctor Bellerín,Pass (Live),Dani Ceballos,Pass (Live)
+14,51,Fábio Silva,Wolves,0.18,,Blocked,8.0,Right Foot,,Pedro Neto,Pass (Live),Daniel Podence,Pass (Live)
+15,52,João Moutinho,Wolves,0.04,,Blocked,21.0,Right Foot,,Pedro Neto,Pass (Live),João Moutinho,Pass (Live)
+16,57,Willian,Arsenal,0.08,,Off Target,25.0,Right Foot,Free kick,Bukayo Saka,Fouled,Dani Ceballos,Pass (Live)
+17,60,Daniel Podence,Wolves,0.07,,Blocked,11.0,Left Foot,,Daniel Podence,Take-On,,
+18,64,Rob Holding,Arsenal,0.17,,Off Target,6.0,Head,,Bukayo Saka,Pass (Live),Willian,Pass (Live)
+19,73,Pierre-Emerick Aubameyang,Arsenal,0.04,,Blocked,17.0,Right Foot,Deflected,,,,
+20,74,Reiss Nelson,Arsenal,0.06,,Off Target,12.0,Right Foot,Volley,Bukayo Saka,Pass (Live),Joe Willock,Pass (Live)
+21,80,Joe Willock,Arsenal,0.04,,Blocked,18.0,Right Foot,,Granit Xhaka,Pass (Live),Gabriel Magalhães,Pass (Live)
+22,81,Pierre-Emerick Aubameyang,Arsenal,0.02,,Blocked,21.0,Right Foot,,Joe Willock,Shot,,
+23,82,Pierre-Emerick Aubameyang,Arsenal,0.45,,Off Target,7.0,Head,,Reiss Nelson,Pass (Live),Héctor Bellerín,Pass (Live)
+24,90+3,Kieran Tierney,Arsenal,0.04,,Blocked,18.0,Left Foot,,Rob Holding,Pass (Live),Dani Ceballos,Pass (Live)

@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Jesse Lingard,Manchester Utd,0.46,,Off Target,10.0,Right Foot,,Fred,Take-On,Anthony Martial,Pass (Live)
+1,3,Dominic Calvert-Lewin,Everton,0.09,,Off Target,10.0,Right Foot,Volley,Lucas Digne,Pass (Dead),Richarlison,Pass (Live)
+2,3,Bernard,Everton,0.02,,Off Target,21.0,Left Foot,,Dominic Calvert-Lewin,Shot,,
+3,7,Mason Holgate,Everton,0.03,0.04,Saved,25.0,Right Foot,,Richarlison,Pass (Live),Richarlison,Take-On
+4,10,Marcus Rashford,Manchester Utd,0.05,,Off Target,14.0,Left Foot,,Victor Lindelöf,Pass (Live),Harry Maguire,Pass (Live)
+5,11,Daniel James,Manchester Utd,0.07,,Off Target,13.0,Right Foot,,Scott McTominay,Pass (Live),Jesse Lingard,Pass (Live)
+6,19,Marcus Rashford,Manchester Utd,0.03,,Blocked,26.0,Right Foot,,Daniel James,Pass (Live),Luke Shaw,Pass (Live)
+7,26,Marcus Rashford,Manchester Utd,0.07,0.07,Saved,27.0,Right Foot,Free kick,Scott McTominay,Fouled,,
+8,26,Fred,Manchester Utd,0.02,,Off Target,32.0,Right Foot,,Scott McTominay,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+9,30,Dominic Calvert-Lewin,Everton,0.02,0.04,Saved,33.0,Right Foot,Volley,,,,
+10,34,Mason Holgate,Everton,0.02,,Off Target,29.0,Right Foot,Volley,Richarlison,Fouled,Leighton Baines,Pass (Live)
+11,44,Scott McTominay,Manchester Utd,0.03,,Blocked,24.0,Right Foot,,Marcus Rashford,Pass (Live),Fred,Pass (Live)
+12,45,Harry Maguire,Manchester Utd,0.08,,Blocked,8.0,Head,,Fred,Pass (Dead),Scott McTominay,Shot
+13,45+2,Luke Shaw,Manchester Utd,0.03,0.08,Saved,23.0,Right Foot,,Jesse Lingard,Pass (Live),Fred,Pass (Live)
+14,,,,,,,,,,,,,
+15,49,Fred,Manchester Utd,0.05,,Off Target,21.0,Left Foot,Volley,Daniel James,Pass (Live),Scott McTominay,Pass (Live)
+16,51,Marcus Rashford,Manchester Utd,0.03,,Off Target,28.0,Right Foot,,Anthony Martial,Pass (Live),Anthony Martial,Take-On
+17,59,Harry Maguire,Manchester Utd,0.06,,Blocked,12.0,Head,,Daniel James,Pass (Live),Anthony Martial,Pass (Live)
+18,62,Luke Shaw,Manchester Utd,0.04,0.08,Saved,19.0,Left Foot,,Fred,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+19,62,Daniel James,Manchester Utd,0.06,,Blocked,15.0,Left Foot,,Luke Shaw,Shot,,
+20,62,Scott McTominay,Manchester Utd,0.05,,Blocked,21.0,Right Foot,,Scott McTominay,Take-On,Daniel James,Shot
+21,63,Dominic Calvert-Lewin,Everton,0.03,,Off Target,22.0,Left Foot,,Bernard,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+22,65,Anthony Martial,Manchester Utd,0.03,,Blocked,24.0,Right Foot,,Jesse Lingard,Pass (Live),Anthony Martial,Pass (Live)
+23,69,Daniel James,Manchester Utd,0.04,0.24,Saved,22.0,Right Foot,,Mason Greenwood,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+24,70,Victor Lindelöf,Manchester Utd,0.04,,Off Target,17.0,Left Foot,,Fred,Pass (Dead),Anthony Martial,Pass (Live)
+25,77,Daniel James,Manchester Utd,0.05,0.04,Saved,18.0,Right Foot,Deflected,Scott McTominay,Pass (Live),Daniel James,Pass (Live)
+26,77,Mason Greenwood,Manchester Utd,0.04,0.39,Goal,20.0,Left Foot,,Daniel James,Pass (Live),Mason Greenwood,Pass (Live)
+27,79,Marcus Rashford,Manchester Utd,0.05,0.05,Saved,26.0,Right Foot,Free kick,Daniel James,Fouled,Fred,Pass (Live)
+28,80,Daniel James,Manchester Utd,0.02,,Off Target,29.0,Right Foot,,Scott McTominay,Pass (Live),,
+29,84,Alex Iwobi,Everton,0.04,0.39,Saved,19.0,Left Foot,,Tom Davies,Pass (Live),Michael Keane,Pass (Live)
+30,87,Leighton Baines,Everton,0.05,,Off Target,31.0,Left Foot,Free kick,Dominic Calvert-Lewin,Fouled,Alex Iwobi,Pass (Live)
+31,90,Scott McTominay,Manchester Utd,0.03,,Blocked,28.0,Right Foot,,Fred,Pass (Live),Luke Shaw,Pass (Live)
+32,90+1,Marcus Rashford,Manchester Utd,0.03,0.11,Saved,24.0,Right Foot,,Juan Mata,Pass (Live),Marcus Rashford,Pass (Live)

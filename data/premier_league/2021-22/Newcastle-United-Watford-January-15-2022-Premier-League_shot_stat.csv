@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Jonjo Shelvey,Newcastle Utd,0.01,,Off Target,24.0,Left Foot,Volley,Joelinton,Fouled,Allan Saint-Maximin,Pass (Live)
+1,8,Emmanuel Dennis,Watford,0.08,,Blocked,21.0,Right Foot,Free kick,Juraj Kucka,Fouled,João Pedro,Pass (Live)
+2,8,Emmanuel Dennis,Watford,0.01,,Off Target,15.0,Left Foot,Volley,Emmanuel Dennis,Shot,,
+3,8,Joshua King,Watford,0.02,,Off Target,27.0,Right Foot,,,,,
+4,11,Joelinton,Newcastle Utd,0.21,,Blocked,7.0,Left Foot,Volley,,,,
+5,15,Joshua King,Watford,0.13,,Off Target,13.0,Left Foot,,João Pedro,Pass (Live),Juraj Kucka,Pass (Live)
+6,17,Edo Kayembe,Watford,0.01,,Blocked,28.0,Left Foot,,Craig Cathcart,Pass (Live),Emmanuel Dennis,Pass (Live)
+7,19,Joelinton,Newcastle Utd,0.18,,Off Target,6.0,Right Foot,Volley,Ryan Fraser,Pass (Live),Sean Longstaff,Pass (Live)
+8,22,Chris Wood,Newcastle Utd,0.11,,Off Target,9.0,Head,,Ryan Fraser,Pass (Live),Joelinton,Pass (Live)
+9,24,Chris Wood,Newcastle Utd,0.24,,Off Target,5.0,Head,,Jamaal Lascelles,Pass (Live),Kieran Trippier,Pass (Dead)
+10,30,Fabian Schär,Newcastle Utd,0.08,,Off Target,10.0,Head,,Kieran Trippier,Pass (Dead),Ryan Fraser,Fouled
+11,33,João Pedro,Watford,0.05,,Blocked,16.0,Right Foot,,João Pedro,Take-On,Emmanuel Dennis,Pass (Live)
+12,39,Sean Longstaff,Newcastle Utd,0.07,,Off Target,23.0,Left Foot,,Allan Saint-Maximin,Take-On,Joelinton,Pass (Live)
+13,40,Chris Wood,Newcastle Utd,0.12,,Blocked,5.0,Left Foot,,Jonjo Shelvey,Pass (Live),Allan Saint-Maximin,Pass (Live)
+14,41,Jamaal Lascelles,Newcastle Utd,0.05,,Blocked,9.0,Head,,Ryan Fraser,Pass (Dead),Chris Wood,Shot
+15,42,Ryan Fraser,Newcastle Utd,0.01,,Off Target,25.0,Left Foot,Volley,Kieran Trippier,Pass (Dead),,
+16,45,João Pedro,Watford,0.02,,Blocked,27.0,Right Foot,,Edo Kayembe,Pass (Live),João Pedro,Pass (Live)
+17,45+2,Juraj Kucka,Watford,0.04,,Blocked,36.0,Right Foot,Free kick,Joshua King,Fouled,Ben Foster,Pass (Live)
+18,45+2,Samir Santos,Watford,0.08,0.08,Saved,10.0,Head,,Jeremy Ngakia,Pass (Live),Juraj Kucka,Pass (Live)
+19,,,,,,,,,,,,,
+20,49,Allan Saint-Maximin,Newcastle Utd,0.06,0.15,Goal,17.0,Right Foot,,Allan Saint-Maximin,Take-On,Paul Dummett,Pass (Live)
+21,60,João Pedro,Watford,0.04,0.13,Saved,15.0,Right Foot,,Joshua King,Pass (Live),Juraj Kucka,Pass (Live)
+22,61,Joshua King,Watford,0.24,0.15,Saved,12.0,Right Foot,,Edo Kayembe,Pass (Live),Juraj Kucka,Pass (Live)
+23,64,João Pedro,Watford,0.11,0.02,Saved,10.0,Head,,Joshua King,Pass (Live),Hassane Kamara,Pass (Live)
+24,67,Moussa Sissoko,Watford,0.37,,Off Target,14.0,Right Foot,,Emmanuel Dennis,Pass (Live),Emmanuel Dennis,Take-On
+25,70,Edo Kayembe,Watford,0.02,,Off Target,26.0,Right Foot,,Juraj Kucka,Pass (Live),Kiko Femenía,Pass (Dead)
+26,73,Joshua King,Watford,0.02,,Off Target,16.0,Head,,Hassane Kamara,Pass (Live),Edo Kayembe,Pass (Live)
+27,81,Kiko Femenía,Watford,0.02,,Blocked,26.0,Right Foot,Volley,,,,
+28,81,Jonjo Shelvey,Newcastle Utd,0.02,,Off Target,34.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Chris Wood,Pass (Live)
+29,87,João Pedro,Watford,0.06,0.19,Goal,11.0,Head,,Cucho,Pass (Live),Kiko Femenía,Pass (Live)
+30,90+1,João Pedro,Watford,0.04,,Blocked,25.0,Right Foot,,Joshua King,Pass (Live),Cucho,Pass (Live)

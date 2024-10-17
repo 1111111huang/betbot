@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Gylfi Sigurðsson,Everton,0.05,0.22,Saved,28.0,Right Foot,Free kick,Dominic Calvert-Lewin,Fouled,Fabian Delph,Pass (Live)
+1,9,Erik Pieters,Burnley,0.03,,Off Target,21.0,Left Foot,Volley,Ben Mee,Pass (Live),Nick Pope,Pass (Live)
+2,11,Jóhann Berg Guðmundsson,Burnley,0.05,0.03,Saved,8.0,Head,,Erik Pieters,Pass (Live),Ashley Westwood,Pass (Live)
+3,14,Alex Iwobi,Everton,0.06,,Blocked,15.0,Right Foot,,Richarlison,Pass (Live),Gylfi Sigurðsson,Pass (Live)
+4,22,Yerry Mina,Everton,0.05,,Off Target,11.0,Head,,Gylfi Sigurðsson,Pass (Dead),Alex Iwobi,Pass (Live)
+5,35,Michael Keane,Everton,0.34,,Off Target,5.0,Right Foot,Volley,Morgan Schneiderlin,Pass (Live),Alex Iwobi,Pass (Live)
+6,40,Gylfi Sigurðsson,Everton,0.06,,Off Target,15.0,Right Foot,,Séamus Coleman,Pass (Live),Séamus Coleman,Take-On
+7,40,Alex Iwobi,Everton,0.44,,Blocked,10.0,Right Foot,,Gylfi Sigurðsson,Shot,,
+8,,,,,,,,,,,,,
+9,48,Alex Iwobi,Everton,0.03,,Blocked,21.0,Right Foot,,Lucas Digne,Pass (Live),Lucas Digne,Interception
+10,52,Richarlison,Everton,0.04,0.04,Saved,19.0,Right Foot,,Alex Iwobi,Pass (Live),Morgan Schneiderlin,Pass (Live)
+11,53,Ashley Barnes,Burnley,0.03,,Blocked,27.0,Right Foot,,,,,
+12,58,Ashley Barnes,Burnley,0.06,,Off Target,13.0,Right Foot,,James Tarkowski,Pass (Live),Ben Mee,Pass (Dead)
+13,63,Richarlison,Everton,0.05,,Blocked,13.0,Right Foot,,Fabian Delph,Pass (Live),,
+14,72,Jeff Hendrick,Burnley,0.1,0.22,Goal,6.0,Right Foot,Volley,Ashley Westwood,Pass (Dead),,
+15,75,Fabian Delph,Everton,0.03,,Blocked,29.0,Left Foot,,Morgan Schneiderlin,Pass (Live),Fabian Delph,Pass (Live)
+16,76,Jóhann Berg Guðmundsson,Burnley,0.07,,Blocked,24.0,Left Foot,Free kick,Jay Rodriguez,Fouled,Jóhann Berg Guðmundsson,Pass (Live)
+17,79,Michael Keane,Everton,0.14,,Off Target,7.0,Head,,Lucas Digne,Pass (Dead),,
+18,80,Jay Rodriguez,Burnley,0.07,0.03,Saved,16.0,Right Foot,,Jeff Hendrick,Pass (Live),Dwight McNeil,Pass (Live)
+19,81,Jóhann Berg Guðmundsson,Burnley,0.05,,Off Target,12.0,Left Foot,,Charlie Taylor,Pass (Live),Ashley Westwood,Pass (Live)
+20,90+1,Chris Wood,Burnley,0.1,,Off Target,14.0,Right Foot,Volley,Ashley Westwood,Pass (Live),Dwight McNeil,Pass (Live)

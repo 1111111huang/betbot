@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,22,Lucas Moura,Tottenham,0.04,0.08,Saved,29.0,Right Foot,,Lucas Moura,Take-On,Moussa Sissoko,Pass (Live)
+1,27,Harry Kane,Tottenham,0.03,0.02,Saved,26.0,Right Foot,,Moussa Sissoko,Pass (Live),Serge Aurier,Pass (Live)
+2,31,Harry Kane,Tottenham,0.06,,Off Target,11.0,Head,,Serge Aurier,Pass (Live),Giovani Lo Celso,Pass (Live)
+3,35,Dele Alli,Tottenham,0.03,,Off Target,27.0,Right Foot,,Giovani Lo Celso,Pass (Live),Eric Dier,Pass (Live)
+4,37,Issa Diop,West Ham,0.11,,Off Target,5.0,Head,,Aaron Cresswell,Pass (Dead),,
+5,42,Eric Dier,Tottenham,0.04,,Off Target,12.0,Right Foot,,Lucas Moura,Pass (Live),Dele Alli,Pass (Live)
+6,45+3,Lucas Moura,Tottenham,0.06,,Off Target,16.0,Right Foot,,Ben Davies,Pass (Live),Giovani Lo Celso,Pass (Live)
+7,,,,,,,,,,,,,
+8,49,Eric Dier,Tottenham,0.03,,Off Target,31.0,Right Foot,,Moussa Sissoko,Pass (Live),Lucas Moura,Pass (Live)
+9,50,Harry Kane,Tottenham,0.81,0.98,Saved,3.0,Right Foot,,Lucas Moura,Pass (Live),Moussa Sissoko,Pass (Live)
+10,51,Jarrod Bowen,West Ham,0.02,,Off Target,28.0,Left Foot,,Mark Noble,Pass (Live),Declan Rice,Pass (Live)
+11,54,Pablo Fornals,West Ham,0.08,,Off Target,11.0,Right Foot,,Jarrod Bowen,Pass (Live),Mark Noble,Pass (Live)
+12,54,Michail Antonio,West Ham,0.03,0.41,Saved,31.0,Right Foot,,Pablo Fornals,Interception,,
+13,55,Harry Kane,Tottenham,0.03,,Off Target,23.0,Right Foot,,Dele Alli,Pass (Live),Giovani Lo Celso,Pass (Live)
+14,56,Dele Alli,Tottenham,0.03,,Off Target,25.0,Right Foot,,Son Heung-min,Pass (Live),Dele Alli,Pass (Live)
+15,58,Declan Rice,West Ham,0.05,,Blocked,24.0,Right Foot,,Declan Rice,Take-On,Pablo Fornals,Pass (Live)
+16,59,Harry Kane,Tottenham,0.4,,Off Target,12.0,Left Foot,,Son Heung-min,Pass (Live),Dele Alli,Pass (Live)
+17,60,Michail Antonio,West Ham,0.13,,Off Target,14.0,Right Foot,,Declan Rice,Pass (Live),,
+18,62,Érik Lamela,Tottenham,0.06,,Off Target,11.0,Left Foot,,Son Heung-min,Pass (Live),,
+19,64,Davinson Sánchez,Tottenham,0.14,,Off Target,9.0,Other,,Giovani Lo Celso,Pass (Dead),Giovani Lo Celso,Pass (Live)
+20,77,Felipe Anderson,West Ham,0.01,,Off Target,28.0,Right Foot,,Aaron Cresswell,Pass (Dead),Declan Rice,Pass (Live)
+21,78,Michail Antonio,West Ham,0.68,0.97,Saved,3.0,Head,,Aaron Cresswell,Pass (Dead),Michail Antonio,Fouled
+22,78,Jarrod Bowen,West Ham,0.12,,Woodwork,11.0,Left Foot,,Felipe Anderson,Pass (Live),Michail Antonio,Shot
+23,82,Harry Kane,Tottenham,0.43,0.81,Goal,22.0,Right Foot,,Son Heung-min,Pass (Live),Érik Lamela,Pass (Live)
+24,87,Michail Antonio,West Ham,0.08,,Off Target,9.0,Head,,Jarrod Bowen,Pass (Live),Tomáš Souček,Pass (Live)
+25,90+1,Steven Bergwijn,Tottenham,0.09,,Off Target,15.0,Right Foot,,Giovani Lo Celso,Pass (Live),Steven Bergwijn,Pass (Live)

@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Che Adams,Southampton,0.03,0.19,Saved,28.0,Right Foot,,Stuart Armstrong,Pass (Live),James Ward-Prowse,Pass (Live)
+1,7,Che Adams,Southampton,0.08,0.09,Goal,13.0,Right Foot,Volley,Theo Walcott,Pass (Live),Theo Walcott,Take-On
+2,12,Kyle Walker-Peters,Southampton,0.04,,Blocked,17.0,Right Foot,,Oriol Romeu,Pass (Live),Stuart Armstrong,Pass (Live)
+3,12,Che Adams,Southampton,0.05,0.03,Saved,14.0,Right Foot,,Oriol Romeu,Pass (Live),Kyle Walker-Peters,Shot
+4,14,Theo Walcott,Southampton,0.03,,Off Target,28.0,Right Foot,,Oriol Romeu,Tackle,,
+5,19,Jamaal Lascelles,Newcastle Utd,0.13,,Off Target,10.0,Other,,Sean Longstaff,Pass (Dead),,
+6,22,Sean Longstaff,Newcastle Utd,0.06,0.03,Saved,11.0,Head,,Jamal Lewis,Pass (Live),Miguel Almirón,Pass (Live)
+7,27,Moussa Djenepo,Southampton,0.06,,Blocked,16.0,Left Foot,,Moussa Djenepo,Take-On,Oriol Romeu,Pass (Live)
+8,27,Che Adams,Southampton,0.05,,Blocked,21.0,Right Foot,,Jack Stephens,Pass (Live),Oriol Romeu,Pass (Live)
+9,42,Theo Walcott,Southampton,0.07,,Off Target,17.0,Right Foot,,Moussa Djenepo,Pass (Live),James Ward-Prowse,Pass (Live)
+10,,,,,,,,,,,,,
+11,49,Theo Walcott,Southampton,0.04,,Blocked,18.0,Right Foot,,Jack Stephens,Pass (Live),Oriol Romeu,Pass (Live)
+12,50,Oriol Romeu,Southampton,0.03,,Blocked,22.0,Left Foot,,Theo Walcott,Shot,,
+13,50,Jan Bednarek,Southampton,0.12,,Blocked,10.0,Right Foot,Volley,Jannik Vestergaard,Pass (Live),James Ward-Prowse,Pass (Dead)
+14,51,Oriol Romeu,Southampton,0.03,0.13,Saved,29.0,Right Foot,,James Ward-Prowse,Pass (Live),,
+15,63,Jan Bednarek,Southampton,0.04,0.08,Saved,9.0,Head,,James Ward-Prowse,Pass (Dead),James Ward-Prowse,Pass (Live)
+16,70,Jacob Murphy,Newcastle Utd,0.08,,Blocked,26.0,Right Foot,Free kick,,Fouled,Matthew Longstaff,Pass (Live)
+17,82,Stuart Armstrong,Southampton,0.06,0.22,Goal,18.0,Left Foot,,Stuart Armstrong,Take-On,Stuart Armstrong,Tackle
+18,86,Joelinton,Newcastle Utd,0.05,0.23,Saved,15.0,Head,,Jamal Lewis,Pass (Live),Allan Saint-Maximin,Pass (Live)
+19,90+3,Stuart Armstrong,Southampton,0.03,0.03,Saved,25.0,Left Foot,,Shane Long,Pass (Live),James Ward-Prowse,Pass (Live)

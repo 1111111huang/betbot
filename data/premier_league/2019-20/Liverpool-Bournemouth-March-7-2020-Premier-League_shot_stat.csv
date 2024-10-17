@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Callum Wilson,Bournemouth,0.75,0.98,Goal,5.0,Right Foot,,Jefferson Lerma,Pass (Live),Philip Billing,Pass (Live)
+1,14,Nathan Aké,Bournemouth,0.06,0.05,Saved,9.0,Head,,Ryan Fraser,Pass (Dead),Philip Billing,Fouled
+2,17,Roberto Firmino,Liverpool,0.37,0.64,Saved,10.0,Right Foot,Volley,Trent Alexander-Arnold,Pass (Live),Joe Gomez,Pass (Live)
+3,25,Mohamed Salah,Liverpool,0.08,0.43,Goal,16.0,Left Foot,,Sadio Mané,Pass (Live),Sadio Mané,Tackle
+4,31,Alex Oxlade-Chamberlain,Liverpool,0.03,,Blocked,30.0,Right Foot,,Sadio Mané,Pass (Live),Mohamed Salah,Pass (Live)
+5,33,Sadio Mané,Liverpool,0.54,0.98,Goal,16.0,Right Foot,,Virgil van Dijk,Pass (Live),,
+6,37,James Milner,Liverpool,0.05,0.03,Saved,11.0,Right Foot,Volley,Mohamed Salah,Pass (Live),Alex Oxlade-Chamberlain,Pass (Live)
+7,39,Junior Stanislas,Bournemouth,0.07,0.11,Saved,25.0,Right Foot,,Junior Stanislas,Take-On,Adam Smith,Pass (Live)
+8,43,Junior Stanislas,Bournemouth,0.07,,Blocked,17.0,Right Foot,,Ryan Fraser,Pass (Live),Jefferson Lerma,Pass (Live)
+9,,,,,,,,,,,,,
+10,49,Alex Oxlade-Chamberlain,Liverpool,0.02,,Blocked,34.0,Right Foot,,Virgil van Dijk,Pass (Live),Georginio Wijnaldum,Pass (Live)
+11,51,Ryan Fraser,Bournemouth,0.05,,Blocked,20.0,Right Foot,,Philip Billing,Pass (Live),Callum Wilson,Pass (Live)
+12,61,Ryan Fraser,Bournemouth,0.39,,Blocked,18.0,Right Foot,,Philip Billing,Pass (Live),Callum Wilson,Pass (Live)
+13,62,Sadio Mané,Liverpool,0.03,,Blocked,27.0,Right Foot,,Mohamed Salah,Pass (Live),Sadio Mané,Pass (Live)
+14,65,Trent Alexander-Arnold,Liverpool,0.02,,Blocked,20.0,Right Foot,,James Milner,Pass (Live),Joe Gomez,Pass (Live)
+15,66,Virgil van Dijk,Liverpool,0.05,0.06,Saved,11.0,Head,,Trent Alexander-Arnold,Pass (Dead),,
+16,73,Roberto Firmino,Liverpool,0.09,,Off Target,10.0,Right Foot,,Roberto Firmino,Take-On,Mohamed Salah,Pass (Live)
+17,74,Sadio Mané,Liverpool,0.02,,Woodwork,29.0,Right Foot,,Georginio Wijnaldum,Pass (Live),James Milner,Pass (Live)
+18,77,Mohamed Salah,Liverpool,0.04,0.29,Saved,17.0,Left Foot,,Alex Oxlade-Chamberlain,Pass (Live),Joe Gomez,Pass (Live)
+19,82,Alex Oxlade-Chamberlain,Liverpool,0.02,,Off Target,33.0,Right Foot,,Georginio Wijnaldum,Pass (Live),James Milner,Pass (Live)
+20,90+1,Roberto Firmino,Liverpool,0.43,,Off Target,12.0,Right Foot,,Mohamed Salah,Pass (Live),Roberto Firmino,Pass (Live)

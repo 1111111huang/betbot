@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1.0,Tariq Lamptey,Brighton,0.32,,Off Target,14.0,Right Foot,,Danny Welbeck,Pass (Live),Pascal Groß,Pass (Live)
+1,11.0,Pascal Groß,Brighton,0.03,,Off Target,25.0,Right Foot,,Joël Veltman,Tackle,,
+2,16.0,Chris Wood,Burnley,0.06,0.09,Saved,7.0,Head,,Charlie Taylor,Pass (Live),Dwight McNeil,Pass (Live)
+3,19.0,Dan Burn,Brighton,0.03,,Off Target,23.0,Left Foot,Volley,Pascal Groß,Pass (Live),Joël Veltman,Pass (Dead)
+4,23.0,Danny Welbeck,Brighton,0.04,,Blocked,25.0,Right Foot,,Tariq Lamptey,Pass (Live),Yves Bissouma,Pass (Live)
+5,23.0,Danny Welbeck,Brighton,0.04,,Off Target,16.0,Head,,Joël Veltman,Pass (Live),Danny Welbeck,Shot
+6,25.0,Pascal Groß,Brighton,0.05,0.1,Saved,14.0,Head,,Dan Burn,Pass (Live),Adam Lallana,Pass (Live)
+7,29.0,Robbie Brady,Burnley,0.12,,Off Target,10.0,Left Foot,Volley,Ashley Westwood,Pass (Live),Ashley Westwood,Pass (Live)
+8,34.0,Danny Welbeck,Brighton,0.27,0.42,Saved,12.0,Left Foot,,Adam Lallana,Pass (Live),Neal Maupay,Pass (Live)
+9,38.0,Yves Bissouma,Brighton,0.12,,Blocked,21.0,Right Foot,Free kick,Adam Lallana,Fouled,Neal Maupay,Pass (Live)
+10,38.0,Adam Lallana,Brighton,0.02,,Blocked,28.0,Right Foot,Volley,Yves Bissouma,Shot,,
+11,40.0,Danny Welbeck,Brighton,0.05,,Blocked,13.0,Head,,Adam Lallana,Pass (Live),Dan Burn,Pass (Live)
+12,40.0,Adam Lallana,Brighton,0.05,,Off Target,11.0,Head,,Joël Veltman,Pass (Live),Tariq Lamptey,Pass (Live)
+13,45.0,Pascal Groß,Brighton,0.05,,Blocked,16.0,Right Foot,,Dan Burn,Pass (Live),Adam Webster,Pass (Live)
+14,,,,,,,,,,,,,
+15,57.0,Adam Lallana,Brighton,0.07,,Blocked,14.0,Left Foot,,Adam Webster,Pass (Live),Dan Burn,Pass (Live)
+16,58.0,Adam Webster,Brighton,0.03,,Off Target,13.0,Head,,Pascal Groß,Pass (Live),Adam Lallana,Pass (Live)
+17,59.0,Neal Maupay,Brighton,0.06,0.03,Saved,17.0,Right Foot,Deflected,Danny Welbeck,Pass (Live),,
+18,59.0,Dwight McNeil,Burnley,0.06,,Off Target,23.0,Left Foot,,Ashley Barnes,Pass (Live),Ashley Westwood,Pass (Live)
+19,63.0,Pascal Groß,Brighton,0.05,,Blocked,20.0,Right Foot,,Danny Welbeck,Pass (Live),Adam Lallana,Pass (Live)
+20,68.0,Neal Maupay,Brighton,0.09,,Blocked,14.0,Right Foot,Deflected,Adam Lallana,Pass (Live),Yves Bissouma,Pass (Live)
+21,71.0,Tariq Lamptey,Brighton,0.07,,Blocked,7.0,Right Foot,Volley,Pascal Groß,Pass (Live),Neal Maupay,Pass (Live)
+22,76.0,Ben Mee,Burnley,0.21,,Off Target,7.0,Head,,Dwight McNeil,Pass (Dead),Charlie Taylor,Fouled
+23,82.0,Yves Bissouma,Brighton,0.04,,Off Target,23.0,Right Foot,Volley,Tariq Lamptey,Pass (Live),Danny Welbeck,Pass (Live)

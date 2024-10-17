@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Alexander Isak,Newcastle Utd,0.16,,Off Target,9.0,Right Foot,,Bruno Guimarães,Pass (Live),Kieran Trippier,Pass (Live)
+1,3,Alexander Isak,Newcastle Utd,0.21,,Off Target,14.0,Right Foot,,Sandro Tonali,Pass (Live),,
+2,5,Solly March,Brighton,0.03,,Off Target,21.0,Left Foot,,Solly March,Pass (Live),Jan Paul van Hecke,Pass (Live)
+3,7,João Pedro,Brighton,0.07,,Off Target,10.0,Head,,Pascal Groß,Pass (Live),Solly March,Pass (Dead)
+4,11,Pervis Estupiñán,Brighton,0.02,,Off Target,25.0,Right Foot,,Lewis Dunk,Pass (Live),Solly March,Pass (Dead)
+5,14,Evan Ferguson,Brighton,0.06,0.12,Saved,12.0,Left Foot,,Billy Gilmour,Pass (Live),Kaoru Mitoma,Pass (Live)
+6,16,Kaoru Mitoma,Brighton,0.03,,Blocked,23.0,Right Foot,,Pervis Estupiñán,Pass (Live),Solly March,Interception
+7,19,Kaoru Mitoma,Brighton,0.03,,Blocked,18.0,Right Foot,,João Pedro,Pass (Live),Billy Gilmour,Pass (Live)
+8,27,Kaoru Mitoma,Brighton,0.08,0.21,Saved,8.0,Left Foot,,Pervis Estupiñán,Pass (Live),,
+9,27,Billy Gilmour,Brighton,0.02,0.1,Saved,29.0,Right Foot,,Kaoru Mitoma,Shot,,
+10,27,Evan Ferguson,Brighton,0.64,0.82,Goal,7.0,Right Foot,,Billy Gilmour,Shot,,
+11,28,Joelinton,Newcastle Utd,0.12,,Off Target,17.0,Left Foot,,Joelinton,Take-On,Anthony Gordon,Pass (Live)
+12,29,João Pedro,Brighton,0.14,,Off Target,16.0,Right Foot,,Kaoru Mitoma,Pass (Live),Evan Ferguson,Pass (Live)
+13,32,Kaoru Mitoma,Brighton,0.04,,Blocked,15.0,Right Foot,,João Pedro,Pass (Live),Lewis Dunk,Pass (Dead)
+14,39,Alexander Isak,Newcastle Utd,0.04,,Blocked,21.0,Right Foot,,Sandro Tonali,Pass (Live),Bruno Guimarães,Pass (Live)
+15,44,Lewis Dunk,Brighton,0.01,,Off Target,15.0,Head,,Pascal Groß,Pass (Dead),João Pedro,Fouled
+16,,,,,,,,,,,,,
+17,65,Evan Ferguson,Brighton,0.03,0.26,Goal,30.0,Right Foot,,Billy Gilmour,Pass (Live),Lewis Dunk,Pass (Live)
+18,67,Anthony Gordon,Newcastle Utd,0.2,,Off Target,13.0,Right Foot,,Elliot Anderson,Pass (Live),Alexander Isak,Pass (Live)
+19,70,Evan Ferguson,Brighton,0.05,0.23,Goal,20.0,Left Foot,Deflected,Kaoru Mitoma,Pass (Live),Billy Gilmour,Pass (Live)
+20,72,Alexander Isak,Newcastle Utd,0.03,,Blocked,20.0,Right Foot,,Alexander Isak,Take-On,Matt Targett,Pass (Live)
+21,75,Harvey Barnes,Newcastle Utd,0.03,,Blocked,20.0,Right Foot,,Sean Longstaff,Pass (Live),Callum Wilson,Pass (Live)
+22,87,Fabian Schär,Newcastle Utd,0.02,0.16,Saved,8.0,Head,,Kieran Trippier,Pass (Dead),Anthony Gordon,Fouled
+23,90,Simon Adingra,Brighton,0.1,,Blocked,11.0,Right Foot,Volley,Kaoru Mitoma,Pass (Live),Pervis Estupiñán,Pass (Live)
+24,90+2,Callum Wilson,Newcastle Utd,0.43,0.24,Goal,9.0,Right Foot,,Callum Wilson,Take-On,Sean Longstaff,Pass (Live)

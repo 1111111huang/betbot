@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Tom Davies,Everton,0.41,0.98,Goal,4.0,Right Foot,,Demarai Gray,Pass (Live),Anthony Gordon,Pass (Live)
+1,10,Andros Townsend,Everton,0.05,0.08,Saved,24.0,Left Foot,,Anthony Gordon,Pass (Live),Tom Davies,Pass (Live)
+2,10,Anthony Gordon,Everton,0.12,,Off Target,9.0,Head,,Séamus Coleman,Pass (Live),Andros Townsend,Shot
+3,13,Joshua King,Watford,0.74,0.96,Goal,3.0,Left Foot,,Jeremy Ngakia,Fouled,Ismaila Sarr,Pass (Live)
+4,17,Lucas Digne,Everton,0.03,0.31,Saved,10.0,Head,Deflected,Séamus Coleman,Pass (Live),Demarai Gray,Pass (Live)
+5,22,Andros Townsend,Everton,0.03,,Off Target,20.0,Right Foot,,Andros Townsend,Take-On,Demarai Gray,Pass (Live)
+6,25,Moussa Sissoko,Watford,0.02,,Off Target,34.0,Right Foot,,Adam Masina,Pass (Live),Cucho,Pass (Live)
+7,28,Salomón Rondón,Everton,0.02,,Blocked,31.0,Right Foot,,Salomón Rondón,Take-On,Allan,Pass (Live)
+8,30,Cucho,Watford,0.02,,Blocked,27.0,Right Foot,,Joshua King,Pass (Live),William Troost-Ekong,Pass (Live)
+9,30,Ismaila Sarr,Watford,0.04,,Off Target,23.0,Left Foot,Volley,Cucho,Shot,,
+10,34,Allan,Everton,0.02,,Blocked,31.0,Right Foot,,Demarai Gray,Pass (Live),Anthony Gordon,Pass (Live)
+11,40,Allan,Everton,0.02,,Blocked,16.0,Right Foot,,Anthony Gordon,Pass (Live),Allan,Pass (Live)
+12,40,Ismaila Sarr,Watford,0.02,,Off Target,33.0,Right Foot,,,,,
+13,45,Anthony Gordon,Everton,0.09,,Blocked,10.0,Left Foot,Volley,Lucas Digne,Pass (Live),Andros Townsend,Pass (Live)
+14,45+1,Juraj Kucka,Watford,0.06,,Off Target,24.0,Left Foot,,Juraj Kucka,Take-On,Cucho,Pass (Live)
+15,45+3,Cucho,Watford,0.05,,Blocked,18.0,Right Foot,Volley,Juraj Kucka,Pass (Live),Adam Masina,Pass (Live)
+16,,,,,,,,,,,,,
+17,47,Joshua King,Watford,0.04,,Blocked,13.0,Right Foot,,Cucho,Pass (Live),Ozan Tufan,Pass (Live)
+18,52,Joshua King,Watford,0.02,,Blocked,27.0,Right Foot,,,,,
+19,52,Anthony Gordon,Everton,0.04,,Blocked,23.0,Right Foot,Volley,Anthony Gordon,Take-On,Allan,Pass (Live)
+20,58,Joshua King,Watford,0.58,0.42,Saved,8.0,Right Foot,,Ismaila Sarr,Pass (Live),Jeremy Ngakia,Pass (Live)
+21,60,Juraj Kucka,Watford,0.02,,Off Target,29.0,Right Foot,,Juraj Kucka,Pass (Live),Jeremy Ngakia,Pass (Dead)
+22,62,Tom Davies,Everton,0.21,,Off Target,9.0,Head,,Lucas Digne,Pass (Dead),Lucas Digne,Fouled
+23,63,Lucas Digne,Everton,0.03,,Off Target,15.0,Left Foot,,Tom Davies,Pass (Live),Andros Townsend,Pass (Live)
+24,63,Richarlison,Everton,0.33,0.16,Goal,11.0,Head,,Michael Keane,Pass (Live),Ben Godfrey,Pass (Live)
+25,65,Juraj Kucka,Watford,0.03,0.09,Saved,29.0,Right Foot,Volley,Cucho,Pass (Live),Cucho,Take-On
+26,74,Michael Keane,Everton,0.06,,Off Target,8.0,Head,,Lucas Digne,Pass (Dead),Richarlison,Fouled
+27,78,Juraj Kucka,Watford,0.19,0.15,Goal,9.0,Head,,Cucho,Pass (Dead),Joshua King,Pass (Live)
+28,80,Joshua King,Watford,0.52,0.7,Goal,15.0,Right Foot,,Emmanuel Dennis,Pass (Live),João Pedro,Pass (Live)
+29,81,Emmanuel Dennis,Watford,0.06,0.24,Saved,17.0,Right Foot,Volley,,,,
+30,82,Juraj Kucka,Watford,0.1,,Off Target,10.0,Head,,Cucho,Pass (Dead),Emmanuel Dennis,Shot
+31,84,Lucas Digne,Everton,0.05,,Off Target,14.0,Left Foot,Volley,Richarlison,Pass (Live),Salomón Rondón,Pass (Live)
+32,86,Cucho,Watford,0.05,,Off Target,23.0,Right Foot,,Emmanuel Dennis,Pass (Live),João Pedro,Pass (Live)
+33,86,João Pedro,Watford,0.09,,Blocked,20.0,Right Foot,,João Pedro,Pass (Live),Moussa Sissoko,Pass (Live)
+34,86,Joshua King,Watford,0.7,0.89,Goal,9.0,Left Foot,,Joshua King,Take-On,João Pedro,Shot
+35,90+1,Emmanuel Dennis,Watford,0.48,0.82,Goal,14.0,Right Foot,,Emmanuel Dennis,Take-On,João Pedro,Pass (Live)

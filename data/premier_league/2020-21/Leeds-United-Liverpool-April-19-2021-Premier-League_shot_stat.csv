@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Thiago Alcántara,Liverpool,0.02,0.06,Saved,31.0,Right Foot,,Diogo Jota,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+1,13,Patrick Bamford,Leeds United,0.07,,Off Target,15.0,Left Foot,,Jack Harrison,Pass (Dead),Kalvin Phillips,Fouled
+2,17,Roberto Firmino,Liverpool,0.03,0.04,Saved,24.0,Right Foot,,Thiago Alcántara,Pass (Live),Ozan Kabak,Pass (Live)
+3,19,Diogo Jota,Liverpool,0.06,,Blocked,13.0,Right Foot,,Roberto Firmino,Pass (Live),Sadio Mané,Pass (Live)
+4,24,Patrick Bamford,Leeds United,0.34,0.26,Saved,16.0,Left Foot,,Kalvin Phillips,Pass (Live),,
+5,27,Roberto Firmino,Liverpool,0.11,,Blocked,11.0,Right Foot,,Diogo Jota,Pass (Live),Georginio Wijnaldum,Pass (Live)
+6,27,Georginio Wijnaldum,Liverpool,0.04,,Off Target,7.0,Head,,Andrew Robertson,Pass (Dead),Roberto Firmino,Pass (Live)
+7,28,Patrick Bamford,Leeds United,0.04,,Off Target,15.0,Head,,Luke Ayling,Pass (Live),Stuart Dallas,Pass (Live)
+8,31,Sadio Mané,Liverpool,0.3,0.63,Goal,16.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Diogo Jota,Pass (Live)
+9,34,Diogo Jota,Liverpool,0.06,,Off Target,18.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Thiago Alcántara,Pass (Live)
+10,38,James Milner,Liverpool,0.03,,Off Target,25.0,Left Foot,,Sadio Mané,Pass (Live),,
+11,40,Diogo Jota,Liverpool,0.3,0.12,Saved,14.0,Right Foot,Volley,,,,
+12,41,Georginio Wijnaldum,Liverpool,0.03,,Blocked,26.0,Left Foot,,Thiago Alcántara,Pass (Live),,
+13,42,Tyler Roberts,Leeds United,0.05,0.06,Saved,18.0,Right Foot,,Jack Harrison,Pass (Live),Stuart Dallas,Pass (Live)
+14,,,,,,,,,,,,,
+15,47,Roberto Firmino,Liverpool,0.04,0.08,Saved,16.0,Left Foot,,James Milner,Pass (Live),Roberto Firmino,Pass (Live)
+16,48,Diogo Jota,Liverpool,0.15,,Off Target,7.0,Head,,Andrew Robertson,Pass (Dead),Roberto Firmino,Shot
+17,59,Jack Harrison,Leeds United,0.06,,Blocked,14.0,Left Foot,Volley,Pascal Struijk,Pass (Live),Stuart Dallas,Pass (Live)
+18,60,Patrick Bamford,Leeds United,0.07,,Blocked,10.0,Head,,Kalvin Phillips,Pass (Dead),Jack Harrison,Shot
+19,60,Hélder Costa,Leeds United,0.36,,Off Target,3.0,Right Foot,Volley,Patrick Bamford,Shot,,
+20,69,Jack Harrison,Leeds United,0.47,0.88,Saved,5.0,Left Foot,,Jack Harrison,Take-On,Tyler Roberts,Pass (Live)
+21,75,Patrick Bamford,Leeds United,0.38,,Woodwork,12.0,Left Foot,Volley,Luke Ayling,Pass (Live),Pascal Struijk,Pass (Live)
+22,75,Stuart Dallas,Leeds United,0.04,,Blocked,17.0,Right Foot,,Jack Harrison,Pass (Live),Stuart Dallas,Pass (Live)
+23,77,Tyler Roberts,Leeds United,0.29,0.1,Saved,10.0,Right Foot,,Ian Poveda,Pass (Live),Luke Ayling,Pass (Live)
+24,79,Mohamed Salah,Liverpool,0.06,,Blocked,12.0,Left Foot,,,,,
+25,80,Diogo Jota,Liverpool,0.04,0.09,Saved,11.0,Head,,Mohamed Salah,Shot,,
+26,81,James Milner,Liverpool,0.02,,Off Target,24.0,Right Foot,,,,,
+27,85,Mohamed Salah,Liverpool,0.07,,Off Target,17.0,Left Foot,,Thiago Alcántara,Pass (Live),Fabinho,Pass (Live)
+28,87,Diego Llorente,Leeds United,0.13,0.12,Goal,7.0,Head,,Jack Harrison,Pass (Dead),Pablo Hernández,Pass (Live)
+29,90+2,Alex Oxlade-Chamberlain,Liverpool,0.07,0.03,Saved,17.0,Right Foot,,Roberto Firmino,Pass (Live),Alisson,Pass (Dead)

@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Ruben Loftus-Cheek,Fulham,0.07,,Blocked,12.0,Right Foot,,Ivan Cavaleiro,Pass (Live),Antonee Robinson,Pass (Live)
+1,6.0,Sergio Reguilón,Tottenham,0.09,,Off Target,11.0,Right Foot,,Serge Aurier,Pass (Live),Son Heung-min,Pass (Live)
+2,6.0,Sergio Reguilón,Tottenham,0.11,,Off Target,11.0,Right Foot,,Sergio Reguilón,Shot,,
+3,9.0,Ruben Loftus-Cheek,Fulham,0.04,,Blocked,29.0,Right Foot,,Ruben Loftus-Cheek,Take-On,Antonee Robinson,Pass (Live)
+4,13.0,Antonee Robinson,Fulham,0.02,,Blocked,29.0,Right Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Bobby Reid,Take-On
+5,16.0,Bobby Reid,Fulham,0.04,,Off Target,17.0,Right Foot,,Harrison Reed,Pass (Dead),Ruben Loftus-Cheek,Pass (Live)
+6,16.0,Andre-Frank Zambo Anguissa,Fulham,0.03,0.05,Saved,18.0,Left Foot,,Andre-Frank Zambo Anguissa,Take-On,Kenny Tete,Pass (Live)
+7,18.0,Son Heung-min,Tottenham,0.51,0.47,Saved,5.0,Right Foot,Volley,Serge Aurier,Pass (Live),Tanguy Ndombele,Pass (Live)
+8,19.0,Eric Dier,Tottenham,0.09,,Blocked,27.0,Right Foot,Free kick,Tanguy Ndombele,Fouled,Harry Kane,Pass (Live)
+9,20.0,Tanguy Ndombele,Tottenham,0.02,,Off Target,26.0,Right Foot,Volley,Eric Dier,Shot,,
+10,24.0,Son Heung-min,Tottenham,0.3,0.66,Saved,9.0,Head,,Tanguy Ndombele,Pass (Live),Serge Aurier,Pass (Live)
+11,25.0,Harry Winks,Tottenham,0.01,,Blocked,31.0,Right Foot,Volley,Son Heung-min,Shot,,
+12,25.0,Harry Kane,Tottenham,0.26,0.73,Goal,9.0,Head,,Sergio Reguilón,Pass (Live),Pierre Højbjerg,Pass (Live)
+13,30.0,Harry Kane,Tottenham,0.36,,Off Target,5.0,Head,,Serge Aurier,Pass (Live),Tanguy Ndombele,Pass (Live)
+14,35.0,Ruben Loftus-Cheek,Fulham,0.07,,Off Target,15.0,Right Foot,Volley,Kenny Tete,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+15,40.0,Pierre Højbjerg,Tottenham,0.18,0.14,Saved,22.0,Right Foot,,Harry Kane,Pass (Live),Tanguy Ndombele,Pass (Live)
+16,41.0,Andre-Frank Zambo Anguissa,Fulham,0.02,0.15,Saved,31.0,Right Foot,,Antonee Robinson,Pass (Live),Joachim Andersen,Pass (Live)
+17,,,,,,,,,,,,,
+18,46.0,Moussa Sissoko,Tottenham,0.11,,Blocked,12.0,Left Foot,,Moussa Sissoko,Take-On,Serge Aurier,Pass (Live)
+19,49.0,Kenny Tete,Fulham,0.06,,Off Target,12.0,Right Foot,,Bobby Reid,Pass (Live),Harrison Reed,Pass (Live)
+20,55.0,Harry Winks,Tottenham,0.01,0.36,Saved,30.0,Right Foot,,,,,
+21,56.0,Moussa Sissoko,Tottenham,0.08,0.09,Saved,10.0,Right Foot,Volley,Harry Winks,Pass (Live),Pierre Højbjerg,Pass (Live)
+22,60.0,Bobby Reid,Fulham,0.08,,Blocked,24.0,Right Foot,Free kick,Ruben Loftus-Cheek,Fouled,Ivan Cavaleiro,Pass (Live)
+23,66.0,Ruben Loftus-Cheek,Fulham,0.04,,Blocked,9.0,Head,,Ivan Cavaleiro,Pass (Dead),Ivan Cavaleiro,Pass (Live)
+24,66.0,Tosin Adarabioyo,Fulham,0.09,,Off Target,8.0,Head,,Ruben Loftus-Cheek,Shot,,
+25,71.0,Son Heung-min,Tottenham,0.24,,Woodwork,15.0,Left Foot,,Tanguy Ndombele,Pass (Live),Davinson Sánchez,Pass (Live)
+26,74.0,Ivan Cavaleiro,Fulham,0.06,0.24,Goal,11.0,Head,,Ademola Lookman,Pass (Live),Antonee Robinson,Pass (Live)
+27,78.0,Ruben Loftus-Cheek,Fulham,0.37,0.55,Saved,8.0,Right Foot,,Ademola Lookman,Pass (Live),Joachim Andersen,Pass (Live)
+28,78.0,Ivan Cavaleiro,Fulham,0.03,,Off Target,23.0,Right Foot,,Ademola Lookman,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+29,86.0,Son Heung-min,Tottenham,0.21,,Off Target,12.0,Head,,Sergio Reguilón,Pass (Live),Eric Dier,Pass (Live)
+30,87.0,Antonee Robinson,Fulham,0.06,,Blocked,13.0,Left Foot,,Aboubakar Kamara,Pass (Live),Aboubakar Kamara,Take-On

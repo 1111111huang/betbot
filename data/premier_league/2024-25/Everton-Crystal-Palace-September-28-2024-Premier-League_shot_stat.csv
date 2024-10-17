@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Eberechi Eze,Crystal Palace,0.05,0.0,Blocked,31.0,Right Foot,Free kick,Eberechi Eze,Fouled,Tyrick Mitchell,Pass (Live)
+1,10,Adam Wharton,Crystal Palace,0.02,0.0,Blocked,25.0,Right Foot,,Eberechi Eze,Shot,,
+2,10,Marc Guéhi,Crystal Palace,0.18,0.67,Goal,4.0,Right Foot,,Maxence Lacroix,Pass (Live),Adam Wharton,Pass (Live)
+3,14,James Tarkowski,Everton,0.26,0.0,Blocked,5.0,Head,,Jesper Lindstrøm,Pass (Dead),Iliman Ndiaye,Fouled
+4,20,Vitaliy Mykolenko,Everton,0.02,0.0,Saved off Target,32.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),,
+5,22,Dominic Calvert-Lewin,Everton,0.22,0.0,Off Target,6.0,Head,,Jesper Lindstrøm,Pass (Dead),Ashley Young,Pass (Live)
+6,26,Jefferson Lerma,Crystal Palace,0.02,0.0,Blocked,9.0,Head,,Adam Wharton,Pass (Dead),Adam Wharton,Pass (Live)
+7,26,Daniel Muñoz,Crystal Palace,0.17,0.0,Blocked,5.0,Right Foot,,Jefferson Lerma,Shot,,
+8,26,Eddie Nketiah,Crystal Palace,0.04,0.0,Blocked,16.0,Left Foot,,Eberechi Eze,Shot,,
+9,26,Eberechi Eze,Crystal Palace,0.03,0.0,Off Target,16.0,Left Foot,,Daichi Kamada,Pass (Live),Adam Wharton,Pass (Live)
+10,37,Dwight McNeil,Everton,0.13,0.0,Off Target,10.0,Head,,Vitaliy Mykolenko,Pass (Live),Iliman Ndiaye,Pass (Live)
+11,43,Adam Wharton,Crystal Palace,0.01,0.02,Saved,33.0,Left Foot,"Deflected, Volley",Daichi Kamada,Pass (Live),,
+12,43,Eberechi Eze,Crystal Palace,0.03,0.01,Saved,25.0,Right Foot,,Jean-Philippe Mateta,Pass (Live),Eberechi Eze,Pass (Live)
+13,,,,,,,,,,,,,
+14,47,Dwight McNeil,Everton,0.02,0.43,Goal,27.0,Left Foot,,Ashley Young,Pass (Live),Ashley Young,Interception
+15,54,Dwight McNeil,Everton,0.1,0.16,Goal,6.0,Left Foot,Volley,Orel Mangala,Fouled,Abdoulaye Doucouré,Tackle
+16,64,Eddie Nketiah,Crystal Palace,0.05,0.0,Blocked,13.0,Right Foot,,Eberechi Eze,Pass (Live),Marc Guéhi,Pass (Live)
+17,67,Dominic Calvert-Lewin,Everton,0.12,0.0,Off Target,5.0,Head,,Dwight McNeil,Pass (Dead),Ashley Young,Pass (Live)
+18,68,Jean-Philippe Mateta,Crystal Palace,0.02,0.0,Off Target,16.0,Head,,Marc Guéhi,Pass (Live),Maxence Lacroix,Pass (Live)
+19,72,Eberechi Eze,Crystal Palace,0.04,0.0,Blocked,27.0,Right Foot,,Daniel Muñoz,Pass (Live),Adam Wharton,Pass (Live)
+20,78,Eberechi Eze,Crystal Palace,0.05,0.0,Blocked,23.0,Left Foot,,Adam Wharton,Pass (Live),Daniel Muñoz,Pass (Live)
+21,78,Jeffrey Schlupp,Crystal Palace,0.05,0.0,Off Target,16.0,Left Foot,Volley,Eberechi Eze,Shot,,
+22,82,Maxence Lacroix,Crystal Palace,0.16,0.0,Off Target,6.0,Head,,Adam Wharton,Pass (Dead),Adam Wharton,Pass (Live)
+23,86,Idrissa Gana Gueye,Everton,0.02,0.0,Blocked,30.0,Right Foot,,Iliman Ndiaye,Pass (Live),Iliman Ndiaye,Pass (Live)
+24,90+1,Daniel Muñoz,Crystal Palace,0.01,0.01,Saved,14.0,Head,,Marc Guéhi,Pass (Live),Jefferson Lerma,Pass (Live)
+25,90+4,Dean Henderson,Crystal Palace,0.01,0.0,Off Target,15.0,Head,,Eberechi Eze,Pass (Dead),Marc Guéhi,Fouled

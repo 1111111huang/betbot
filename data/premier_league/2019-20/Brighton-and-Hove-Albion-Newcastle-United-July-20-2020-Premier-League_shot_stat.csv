@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Adam Webster,Brighton,0.04,,Off Target,11.0,Head,,Pascal Groß,Pass (Dead),Pascal Groß,Pass (Live)
+1,12,Lewis Dunk,Brighton,0.07,0.14,Saved,12.0,Head,,Pascal Groß,Pass (Dead),Neal Maupay,Fouled
+2,15,Leandro Trossard,Brighton,0.04,,Off Target,16.0,Right Foot,Volley,Tariq Lamptey,Fouled,Yves Bissouma,Pass (Live)
+3,18,Dwight Gayle,Newcastle Utd,0.05,,Blocked,15.0,Left Foot,,Matt Ritchie,Pass (Live),Allan Saint-Maximin,Pass (Live)
+4,19,Nabil Bentaleb,Newcastle Utd,0.02,,Blocked,29.0,Left Foot,,Matt Ritchie,Fouled,Nabil Bentaleb,Pass (Live)
+5,19,Jonjo Shelvey,Newcastle Utd,0.04,,Off Target,10.0,Head,,Miguel Almirón,Pass (Live),Matt Ritchie,Pass (Live)
+6,21,Pascal Groß,Brighton,0.02,,Off Target,21.0,Right Foot,,Leandro Trossard,Pass (Live),Leandro Trossard,Take-On
+7,28,Dale Stephens,Brighton,0.03,,Off Target,28.0,Right Foot,,Leandro Trossard,Pass (Live),Dale Stephens,Pass (Live)
+8,28,Leandro Trossard,Brighton,0.32,0.78,Saved,9.0,Right Foot,,Neal Maupay,Pass (Live),,
+9,35,Pascal Groß,Brighton,0.02,,Blocked,32.0,Right Foot,,Neal Maupay,Pass (Live),Leandro Trossard,Pass (Live)
+10,45+2,Dwight Gayle,Newcastle Utd,0.11,,Blocked,5.0,Head,,Matt Ritchie,Pass (Dead),Javier Manquillo,Pass (Live)
+11,45+3,Dwight Gayle,Newcastle Utd,0.13,,Off Target,5.0,Head,,Jonjo Shelvey,Pass (Dead),Dwight Gayle,Shot
+12,,,,,,,,,,,,,
+13,51,Miguel Almirón,Newcastle Utd,0.06,0.43,Saved,14.0,Left Foot,,Matt Ritchie,Pass (Live),,
+14,60,Neal Maupay,Brighton,0.07,,Blocked,16.0,Right Foot,,Leandro Trossard,Pass (Live),Tariq Lamptey,Pass (Live)
+15,67,Matt Ritchie,Newcastle Utd,0.08,,Off Target,11.0,Right Foot,,Danny Rose,Pass (Live),Matt Ritchie,Pass (Live)
+16,73,Neal Maupay,Brighton,0.05,,Blocked,15.0,Left Foot,,Solly March,Pass (Live),Neal Maupay,Pass (Live)
+17,76,Adam Webster,Brighton,0.04,0.08,Saved,28.0,Right Foot,,Adam Webster,Take-On,Davy Pröpper,Pass (Live)
+18,77,Leandro Trossard,Brighton,0.08,,Off Target,11.0,Right Foot,Volley,Lewis Dunk,Pass (Live),Solly March,Pass (Live)
+19,78,Jonjo Shelvey,Newcastle Utd,0.03,,Blocked,29.0,Left Foot,,Andy Carroll,Pass (Live),Javier Manquillo,Pass (Live)
+20,86,Andy Carroll,Newcastle Utd,0.24,,Off Target,4.0,Head,,Matt Ritchie,Pass (Dead),Miguel Almirón,Pass (Live)
+21,90+1,Jonjo Shelvey,Newcastle Utd,0.03,,Blocked,19.0,Right Foot,,Joelinton,Pass (Live),,
+22,90+2,Andy Carroll,Newcastle Utd,0.1,,Blocked,8.0,Head,,Jonjo Shelvey,Pass (Dead),Jonjo Shelvey,Shot
+23,90+5,Matt Ritchie,Newcastle Utd,0.03,,Blocked,25.0,Left Foot,,,,,

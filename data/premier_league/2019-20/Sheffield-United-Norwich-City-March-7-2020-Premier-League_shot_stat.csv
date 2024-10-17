@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Oliver McBurnie,Sheffield Utd,0.07,0.05,Saved,10.0,Head,,Billy Sharp,Pass (Live),George Baldock,Pass (Live)
+1,13,Emi Buendía,Norwich City,0.02,,Blocked,31.0,Right Foot,,Ondrej Duda,Pass (Live),,
+2,13,Teemu Pukki,Norwich City,0.07,,Off Target,8.0,Head,,Ondrej Duda,Pass (Dead),Emi Buendía,Shot
+3,13,Teemu Pukki,Norwich City,0.29,,Woodwork,3.0,Right Foot,Volley,Teemu Pukki,Shot,,
+4,30,Teemu Pukki,Norwich City,0.03,,Blocked,24.0,Right Foot,,Emi Buendía,Pass (Live),Alexander Tettey,Pass (Live)
+5,33,John Egan,Sheffield Utd,0.09,,Blocked,11.0,Left Foot,,Chris Basham,Pass (Live),Oliver Norwood,Pass (Dead)
+6,33,Jack O'Connell,Sheffield Utd,0.14,,Blocked,9.0,Right Foot,,John Egan,Shot,,
+7,36,Billy Sharp,Sheffield Utd,0.31,0.41,Goal,7.0,Head,,John Lundstram,Pass (Live),Oliver Norwood,Pass (Live)
+8,39,John Lundstram,Sheffield Utd,0.03,,Off Target,22.0,Right Foot,Volley,John Fleck,Take-On,Enda Stevens,Pass (Live)
+9,45,John Lundstram,Sheffield Utd,0.07,,Off Target,15.0,Right Foot,Volley,Billy Sharp,Pass (Live),Billy Sharp,Take-On
+10,45,Oliver McBurnie,Sheffield Utd,0.11,,Off Target,11.0,Right Foot,Volley,John Lundstram,Shot,,
+11,45+1,John Lundstram,Sheffield Utd,0.09,0.04,Saved,16.0,Right Foot,,Billy Sharp,Pass (Live),Oliver Norwood,Pass (Live)
+12,,,,,,,,,,,,,
+13,52,Josip Drmić,Norwich City,0.05,,Off Target,13.0,Head,,Max Aarons,Pass (Live),Ben Godfrey,Pass (Live)
+14,58,John Lundstram,Sheffield Utd,0.04,,Blocked,20.0,Right Foot,,Enda Stevens,Pass (Live),Dean Henderson,Pass (Dead)
+15,64,Chris Basham,Sheffield Utd,0.04,,Off Target,12.0,Right Foot,,Chris Basham,Take-On,Oliver Norwood,Pass (Live)
+16,67,Josip Drmić,Norwich City,0.02,,Blocked,36.0,Right Foot,Volley,Teemu Pukki,Pass (Live),Mario Vrančić,Pass (Live)
+17,78,Ben Godfrey,Norwich City,0.07,0.17,Saved,9.0,Head,,Emi Buendía,Pass (Dead),Emi Buendía,Take-On
+18,78,Mario Vrančić,Norwich City,0.8,0.97,Saved,1.0,Right Foot,,Ben Godfrey,Shot,,
+19,78,Josip Drmić,Norwich City,0.91,,Blocked,2.0,Left Foot,,Josip Drmić,Shot,,
+20,78,Josip Drmić,Norwich City,0.61,0.52,Saved,4.0,Right Foot,Deflected,Mario Vrančić,Pass (Live),Mario Vrančić,Shot
+21,85,Jamal Lewis,Norwich City,0.07,0.09,Saved,10.0,Left Foot,Volley,Max Aarons,Pass (Dead),,
+22,90+4,Emi Buendía,Norwich City,0.01,,Off Target,37.0,Right Foot,,Emi Buendía,Fouled,Ben Godfrey,Pass (Live)

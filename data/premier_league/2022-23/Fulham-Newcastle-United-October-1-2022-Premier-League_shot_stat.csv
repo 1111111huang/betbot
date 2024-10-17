@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Dan Burn,Newcastle Utd,0.08,0.09,Saved,16.0,Right Foot,Volley,Sven Botman,Pass (Live),Kieran Trippier,Pass (Dead)
+1,5,Callum Wilson,Newcastle Utd,0.31,,Woodwork,6.0,Right Foot,,Dan Burn,Shot,,
+2,11,Joe Willock,Newcastle Utd,0.25,,Blocked,5.0,Head,,Kieran Trippier,Pass (Live),Joe Willock,Pass (Live)
+3,11,Callum Wilson,Newcastle Utd,0.92,0.98,Goal,1.0,Right Foot,,Joe Willock,Shot,,
+4,20,Miguel Almirón,Newcastle Utd,0.1,,Blocked,17.0,Left Foot,,Sean Longstaff,Pass (Live),Kieran Trippier,Pass (Live)
+5,27,Callum Wilson,Newcastle Utd,0.14,,Off Target,10.0,Right Foot,,Joe Willock,Pass (Live),Jacob Murphy,Pass (Live)
+6,33,Miguel Almirón,Newcastle Utd,0.07,0.56,Goal,13.0,Left Foot,Volley,Bruno Guimarães,Pass (Live),Miguel Almirón,Pass (Live)
+7,38,Jacob Murphy,Newcastle Utd,0.05,,Off Target,21.0,Right Foot,,Bruno Guimarães,Pass (Live),,
+8,42,Miguel Almirón,Newcastle Utd,0.06,,Blocked,19.0,Left Foot,,Joe Willock,Pass (Live),Kieran Trippier,Pass (Live)
+9,43,Joe Willock,Newcastle Utd,0.12,0.04,Saved,10.0,Right Foot,,Jacob Murphy,Pass (Live),Joe Willock,Pass (Live)
+10,43,Jacob Murphy,Newcastle Utd,0.04,0.23,Saved,18.0,Left Foot,,Fabian Schär,Pass (Live),Bruno Guimarães,Pass (Live)
+11,43,Sven Botman,Newcastle Utd,0.02,0.4,Saved,11.0,Head,,Kieran Trippier,Pass (Live),Sean Longstaff,Pass (Dead)
+12,43,Sean Longstaff,Newcastle Utd,0.16,0.03,Goal,6.0,Right Foot,,Sven Botman,Shot,,
+13,,,,,,,,,,,,,
+14,49,Joe Willock,Newcastle Utd,0.24,0.93,Saved,10.0,Right Foot,,Bruno Guimarães,Pass (Live),Joe Willock,Pass (Live)
+15,53,Jacob Murphy,Newcastle Utd,0.02,0.02,Saved,15.0,Left Foot,Volley,Bruno Guimarães,Pass (Live),Kieran Trippier,Pass (Live)
+16,57,Miguel Almirón,Newcastle Utd,0.8,0.96,Goal,3.0,Left Foot,,Joe Willock,Pass (Live),Jacob Murphy,Pass (Live)
+17,64,Joe Willock,Newcastle Utd,0.04,,Blocked,26.0,Right Foot,,Sean Longstaff,Pass (Live),Jacob Murphy,Pass (Live)
+18,71,Elliot Anderson,Newcastle Utd,0.09,,Blocked,13.0,Right Foot,Deflected,Ryan Fraser,Pass (Live),Sean Longstaff,Pass (Live)
+19,88,Bobby Reid,Fulham,0.28,0.91,Goal,6.0,Head,,Neeskens Kebano,Pass (Live),Tom Cairney,Pass (Live)
+20,90+1,Tom Cairney,Fulham,0.04,,Off Target,27.0,Left Foot,,Andreas Pereira,Pass (Live),Tom Cairney,Pass (Live)
+21,90+1,Andreas Pereira,Fulham,0.15,,Blocked,16.0,Left Foot,,Carlos Vinícius,Pass (Live),,
+22,90+4,Sean Longstaff,Newcastle Utd,0.06,,Off Target,23.0,Right Foot,,Elliot Anderson,Pass (Live),Ryan Fraser,Pass (Live)

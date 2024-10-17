@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Jack Harrison,Everton,0.03,0.05,Saved,19.0,Left Foot,,James Tarkowski,Pass (Live),Michael Keane,Pass (Live)
+1,9.0,João Pedro,Brighton,0.03,0.0,Woodwork,26.0,Right Foot,,Danny Welbeck,Pass (Live),Mats Wieffer,Pass (Live)
+2,12.0,Jack Harrison,Everton,0.05,0.0,Off Target,15.0,Left Foot,,Dominic Calvert-Lewin,Pass (Live),Ashley Young,Pass (Live)
+3,14.0,James Tarkowski,Everton,0.01,0.0,Off Target,12.0,Head,,Dwight McNeil,Pass (Dead),Tim Iroegbunam,Fouled
+4,15.0,Lewis Dunk,Brighton,0.07,0.0,Off Target,10.0,Head,,James Milner,Pass (Dead),James Milner,Pass (Live)
+5,17.0,Kaoru Mitoma,Brighton,0.03,0.0,Blocked,14.0,Right Foot,,Yankuba Minteh,Pass (Live),James Milner,Pass (Live)
+6,20.0,Tim Iroegbunam,Everton,0.06,0.0,Off Target,16.0,Right Foot,,Tim Iroegbunam,Interception,,
+7,26.0,Kaoru Mitoma,Brighton,0.81,0.96,Goal,4.0,Right Foot,,Yankuba Minteh,Pass (Live),Yankuba Minteh,Take-On
+8,28.0,Danny Welbeck,Brighton,0.13,0.0,Off Target,14.0,Left Foot,,Danny Welbeck,Take-On,Yankuba Minteh,Pass (Live)
+9,29.0,Idrissa Gana Gueye,Everton,0.02,0.0,Off Target,28.0,Right Foot,Volley,Abdoulaye Doucouré,Pass (Live),Tim Iroegbunam,Pass (Live)
+10,37.0,Tim Iroegbunam,Everton,0.08,0.0,Blocked,22.0,Left Foot,,Idrissa Gana Gueye,Pass (Live),,
+11,,,,,,,,,,,,,
+12,51.0,Abdoulaye Doucouré,Everton,0.14,0.0,Blocked,8.0,Head,,Jack Harrison,Pass (Live),Michael Keane,Pass (Live)
+13,56.0,Danny Welbeck,Brighton,0.07,0.48,Goal,18.0,Left Foot,,Mats Wieffer,Pass (Live),,
+14,59.0,Jack Harrison,Everton,0.06,0.0,Blocked,14.0,Left Foot,,Ashley Young,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+15,59.0,Michael Keane,Everton,0.01,0.0,Blocked,32.0,Right Foot,Volley,Jack Harrison,Shot,,
+16,63.0,Kaoru Mitoma,Brighton,0.1,0.39,Saved,9.0,Right Foot,,Kaoru Mitoma,Take-On,João Pedro,Pass (Live)
+17,67.0,Kaoru Mitoma,Brighton,0.04,0.06,Saved,14.0,Left Foot,,James Milner,Pass (Dead),Kaoru Mitoma,Fouled
+18,72.0,Simon Adingra,Brighton,0.1,0.0,Blocked,13.0,Right Foot,,James Milner,Pass (Live),Simon Adingra,Pass (Live)
+19,87.0,Simon Adingra,Brighton,0.07,0.47,Goal,17.0,Left Foot,,Danny Welbeck,Pass (Live),Jack Hinshelwood,Pass (Live)

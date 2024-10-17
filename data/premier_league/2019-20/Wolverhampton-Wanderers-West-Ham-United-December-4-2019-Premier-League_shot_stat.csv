@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,12,Raúl Jiménez,Wolves,0.05,,Off Target,17.0,Right Foot,,Adama Traoré,Pass (Live),Rúben Neves,Pass (Live)
+1,22,Raúl Jiménez,Wolves,0.09,0.52,Saved,9.0,Right Foot,Volley,Diogo Jota,Pass (Live),Raúl Jiménez,Pass (Live)
+2,23,Leander Dendoncker,Wolves,0.29,0.82,Goal,6.0,Right Foot,"Deflected, Volley",João Moutinho,Pass (Dead),João Moutinho,Pass (Live)
+3,28,Declan Rice,West Ham,0.05,0.2,Saved,12.0,Head,,Robert Snodgrass,Pass (Dead),,
+4,32,Pablo Fornals,West Ham,0.04,0.37,Saved,21.0,Right Foot,,Felipe Anderson,Pass (Live),Aaron Cresswell,Pass (Live)
+5,36,Diogo Jota,Wolves,0.05,0.07,Saved,17.0,Right Foot,,Romain Saïss,Pass (Live),Conor Coady,Pass (Live)
+6,37,João Moutinho,Wolves,0.03,,Off Target,31.0,Right Foot,,Romain Saïss,Tackle,,
+7,,,,,,,,,,,,,
+8,47,Diogo Jota,Wolves,0.04,0.05,Saved,18.0,Right Foot,Volley,Raúl Jiménez,Fouled,,
+9,54,Leander Dendoncker,Wolves,0.09,,Off Target,8.0,Head,,Jonny Castro,Pass (Live),Rúben Neves,Pass (Live)
+10,57,Jonny Castro,Wolves,0.41,0.43,Saved,12.0,Left Foot,,Raúl Jiménez,Pass (Live),Rúben Neves,Pass (Live)
+11,58,Declan Rice,West Ham,0.03,,Off Target,30.0,Right Foot,,Felipe Anderson,Pass (Live),Declan Rice,Pass (Live)
+12,60,Robert Snodgrass,West Ham,0.33,0.28,Saved,11.0,Left Foot,,Pablo Fornals,Pass (Live),,
+13,64,Romain Saïss,Wolves,0.07,,Off Target,10.0,Head,,João Moutinho,Pass (Dead),Leander Dendoncker,Pass (Live)
+14,64,Raúl Jiménez,Wolves,0.15,,Off Target,10.0,Left Foot,,João Moutinho,Pass (Live),,
+15,73,Raúl Jiménez,Wolves,0.1,0.08,Saved,14.0,Right Foot,,Adama Traoré,Pass (Live),,
+16,79,Romain Saïss,Wolves,0.1,,Off Target,9.0,Head,,João Moutinho,Pass (Dead),Adama Traoré,Fouled
+17,82,Aaron Cresswell,West Ham,0.03,,Off Target,23.0,Left Foot,,Felipe Anderson,Pass (Live),Ryan Fredericks,Pass (Live)
+18,86,Patrick Cutrone,Wolves,0.08,0.26,Goal,17.0,Right Foot,,Pedro Neto,Pass (Live),,
+19,90+2,Andriy Yarmolenko,West Ham,0.08,,Blocked,15.0,Right Foot,,Felipe Anderson,Pass (Live),Ryan Fredericks,Pass (Live)

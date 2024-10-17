@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,13,Martin Ødegaard,Arsenal,0.16,,Blocked,14.0,Left Foot,,Gabriel Jesus,Pass (Live),Ben White,Pass (Live)
+1,15,Bukayo Saka,Arsenal,0.02,,Blocked,29.0,Left Foot,,Declan Rice,Pass (Live),Martin Ødegaard,Pass (Live)
+2,23,Gabriel Martinelli,Arsenal,0.03,,Blocked,28.0,Right Foot,,Gabriel Martinelli,Take-On,Oleksandr Zinchenko,Pass (Live)
+3,23,Chris Wood,Nott'ham Forest,0.02,,Blocked,23.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Chris Wood,Pass (Live)
+4,30,Emile Smith Rowe,Arsenal,0.08,,Off Target,22.0,Right Foot,,Ben White,Pass (Live),Martin Ødegaard,Pass (Live)
+5,35,Gabriel Jesus,Arsenal,0.04,,Blocked,17.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),Bukayo Saka,Pass (Live)
+6,39,Martin Ødegaard,Arsenal,0.1,,Blocked,14.0,Left Foot,,Ben White,Pass (Live),Bukayo Saka,Pass (Live)
+7,41,Danilo,Nott'ham Forest,0.02,,Off Target,32.0,Left Foot,,Danilo,Take-On,,
+8,44,Bukayo Saka,Arsenal,0.12,,Blocked,11.0,Right Foot,,Emile Smith Rowe,Pass (Live),Bukayo Saka,Pass (Live)
+9,45+1,Gabriel Jesus,Arsenal,0.06,,Off Target,11.0,Head,,Oleksandr Zinchenko,Pass (Live),Declan Rice,Pass (Live)
+10,45+4,Gabriel Jesus,Arsenal,0.13,0.45,Saved,6.0,Head,Deflected,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+11,,,,,,,,,,,,,
+12,52,Neco Williams,Nott'ham Forest,0.04,0.1,Saved,12.0,Head,,Danilo,Pass (Dead),Taiwo Awoniyi,Fouled
+13,57,Gabriel Jesus,Arsenal,0.09,,Woodwork,8.0,Right Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+14,58,Gabriel Jesus,Arsenal,0.03,,Off Target,10.0,Right Foot,Volley,Gabriel Jesus,Take-On,Bukayo Saka,Pass (Live)
+15,65,Gabriel Jesus,Arsenal,0.06,0.17,Goal,8.0,Left Foot,,Oleksandr Zinchenko,Pass (Dead),,
+16,69,Bukayo Saka,Arsenal,0.03,,Blocked,18.0,Left Foot,,Martin Ødegaard,Pass (Live),Gabriel Jesus,Pass (Live)
+17,72,Morgan Gibbs-White,Nott'ham Forest,0.01,,Blocked,26.0,Right Foot,Volley,Gonzalo Montiel,Pass (Live),Orel Mangala,Pass (Live)
+18,72,Bukayo Saka,Arsenal,0.07,0.47,Goal,16.0,Right Foot,,Martin Ødegaard,Pass (Live),,
+19,77,Martin Ødegaard,Arsenal,0.02,,Off Target,31.0,Left Foot,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+20,81,Leandro Trossard,Arsenal,0.05,,Off Target,28.0,Right Foot,,Leandro Trossard,Take-On,Leandro Trossard,Take-On
+21,82,Taiwo Awoniyi,Nott'ham Forest,0.03,,Off Target,16.0,Head,,Harry Toffolo,Pass (Live),Morgan Gibbs-White,Pass (Live)
+22,83,Eddie Nketiah,Arsenal,0.04,,Blocked,15.0,Right Foot,,Bukayo Saka,Pass (Live),Eddie Nketiah,Pass (Live)
+23,84,Bukayo Saka,Arsenal,0.02,,Blocked,27.0,Left Foot,,Bukayo Saka,Tackle,,
+24,85,Bukayo Saka,Arsenal,0.03,,Off Target,22.0,Left Foot,,Martin Ødegaard,Pass (Live),Kai Havertz,Pass (Live)
+25,89,Taiwo Awoniyi,Nott'ham Forest,0.14,0.77,Goal,10.0,Left Foot,,Gonzalo Montiel,Pass (Live),Danilo,Pass (Live)
+26,90+3,Morgan Gibbs-White,Nott'ham Forest,0.03,,Blocked,27.0,Right Foot,,,,,
+27,90+3,Taiwo Awoniyi,Nott'ham Forest,0.06,0.11,Saved,11.0,Right Foot,Volley,Harry Toffolo,Pass (Live),Ryan Yates,Pass (Live)
+28,90+7,Anthony Elanga,Nott'ham Forest,0.12,,Off Target,11.0,Head,,Harry Toffolo,Pass (Live),Callum Hudson-Odoi,Pass (Live)

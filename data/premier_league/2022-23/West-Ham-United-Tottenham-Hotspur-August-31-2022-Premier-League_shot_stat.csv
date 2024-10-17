@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Emerson,Tottenham,0.01,0.08,Saved,31.0,Right Foot,,Pierre Højbjerg,Pass (Live),Yves Bissouma,Pass (Live)
+1,6,Jarrod Bowen,West Ham,0.06,,Off Target,16.0,Right Foot,,Saïd Benrahma,Pass (Live),Pablo Fornals,Pass (Live)
+2,7,Pablo Fornals,West Ham,0.04,0.18,Saved,24.0,Right Foot,,Saïd Benrahma,Pass (Live),Declan Rice,Pass (Live)
+3,11,Harry Kane,Tottenham,0.04,,Blocked,10.0,Head,,Ivan Perišić,Pass (Live),Eric Dier,Pass (Live)
+4,16,Dejan Kulusevski,Tottenham,0.06,,Blocked,20.0,Right Foot,,Yves Bissouma,Pass (Live),Dejan Kulusevski,Pass (Live)
+5,18,Declan Rice,West Ham,0.03,0.06,Saved,24.0,Left Foot,Volley,Tomáš Souček,Pass (Live),,
+6,22,Michail Antonio,West Ham,0.05,,Woodwork,19.0,Right Foot,,Saïd Benrahma,Pass (Live),Pablo Fornals,Pass (Live)
+7,25,Pierre Højbjerg,Tottenham,0.03,0.02,Saved,27.0,Right Foot,,Dejan Kulusevski,Pass (Live),Pierre Højbjerg,Pass (Live)
+8,27,Harry Kane,Tottenham,0.03,0.11,Saved,29.0,Right Foot,Deflected,Harry Kane,Take-On,Ben Davies,Pass (Live)
+9,36,Saïd Benrahma,West Ham,0.03,0.01,Saved,27.0,Right Foot,Deflected,Declan Rice,Pass (Live),Tomáš Souček,Pass (Live)
+10,40,Tomáš Souček,West Ham,0.13,,Off Target,11.0,Head,,Vladimír Coufal,Pass (Live),Thilo Kehrer,Pass (Live)
+11,45+4,Saïd Benrahma,West Ham,0.04,,Blocked,24.0,Right Foot,,Pablo Fornals,Pass (Live),Aaron Cresswell,Pass (Live)
+12,45+4,Dejan Kulusevski,Tottenham,0.12,,Blocked,14.0,Left Foot,,Harry Kane,Pass (Live),Dejan Kulusevski,Pass (Live)
+13,,,,,,,,,,,,,
+14,49,Son Heung-min,Tottenham,0.06,,Blocked,14.0,Right Foot,,Dejan Kulusevski,Pass (Live),,
+15,55,Tomáš Souček,West Ham,0.13,0.47,Goal,6.0,Right Foot,,Michail Antonio,Pass (Live),Vladimír Coufal,Pass (Dead)
+16,57,Declan Rice,West Ham,0.03,,Blocked,30.0,Right Foot,,Tomáš Souček,Shot,,
+17,57,Tomáš Souček,West Ham,0.16,,Off Target,13.0,Right Foot,Volley,Jarrod Bowen,Pass (Live),Declan Rice,Pass (Live)
+18,59,Harry Kane,Tottenham,0.09,,Blocked,10.0,Head,,Ben Davies,Pass (Live),Yves Bissouma,Pass (Live)
+19,67,Jarrod Bowen,West Ham,0.11,,Off Target,6.0,Right Foot,,,,,
+20,73,Son Heung-min,Tottenham,0.04,,Blocked,18.0,Right Foot,,Ivan Perišić,Pass (Live),Harry Kane,Pass (Live)
+21,74,Davinson Sánchez,Tottenham,0.04,,Off Target,6.0,Right Foot,Volley,Ivan Perišić,Pass (Dead),Son Heung-min,Shot
+22,76,Pablo Fornals,West Ham,0.22,,Off Target,14.0,Right Foot,,Pablo Fornals,Pass (Live),Declan Rice,Pass (Live)
+23,77,Harry Kane,Tottenham,0.07,,Blocked,11.0,Right Foot,,Richarlison,Pass (Live),Emerson,Pass (Live)
+24,81,Emerson,Tottenham,0.05,,Off Target,11.0,Head,,Ivan Perišić,Pass (Live),Harry Kane,Pass (Live)
+25,88,Kurt Zouma,West Ham,0.11,,Off Target,10.0,Head,,Vladimír Coufal,Pass (Dead),Jarrod Bowen,Fouled
+26,90+4,Jarrod Bowen,West Ham,0.12,,Off Target,5.0,Left Foot,Volley,,,,

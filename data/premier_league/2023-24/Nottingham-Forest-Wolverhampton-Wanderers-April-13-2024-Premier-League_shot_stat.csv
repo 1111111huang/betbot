@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Ryan Yates,Nott'ham Forest,0.02,,Blocked,22.0,Right Foot,,Neco Williams,Pass (Live),Gio Reyna,Pass (Live)
+1,8,Ryan Yates,Nott'ham Forest,0.01,,Off Target,32.0,Right Foot,,Danilo,Pass (Live),Neco Williams,Pass (Live)
+2,10,Tommy Doyle,Wolves,0.02,,Off Target,24.0,Right Foot,,Nélson Semedo,Pass (Live),Matt Doherty,Pass (Live)
+3,13,Ryan Yates,Nott'ham Forest,0.04,0.25,Saved,27.0,Right Foot,,Danilo,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+4,16,Callum Hudson-Odoi,Nott'ham Forest,0.11,,Off Target,14.0,Right Foot,,Callum Hudson-Odoi,Take-On,Danilo,Pass (Live)
+5,17,Danilo,Nott'ham Forest,0.06,0.29,Saved,16.0,Right Foot,Deflected,Gio Reyna,Tackle,Danilo,Pass (Live)
+6,19,Nélson Semedo,Wolves,0.01,,Blocked,25.0,Left Foot,,Matheus Cunha,Pass (Live),Tommy Doyle,Pass (Live)
+7,24,Gio Reyna,Nott'ham Forest,0.03,,Off Target,29.0,Right Foot,,,,,
+8,26,Matheus Cunha,Wolves,0.02,,Off Target,23.0,Right Foot,,Tommy Doyle,Pass (Live),Max Kilman,Pass (Live)
+9,27,João Gomes,Wolves,0.08,,Blocked,17.0,Right Foot,,,,,
+10,27,Pablo Sarabia,Wolves,0.16,,Off Target,10.0,Right Foot,Volley,João Gomes,Shot,,
+11,37,Neco Williams,Nott'ham Forest,0.09,,Off Target,14.0,Right Foot,,Gio Reyna,Pass (Live),Morgan Gibbs-White,Pass (Live)
+12,40,Matheus Cunha,Wolves,0.04,0.53,Goal,13.0,Right Foot,,José Sá,Pass (Live),,
+13,45+1,Andrew Omobamidele,Nott'ham Forest,0.14,,Blocked,5.0,Left Foot,,Ola Aina,Pass (Dead),Danilo,Pass (Live)
+14,45+1,Morgan Gibbs-White,Nott'ham Forest,0.11,0.05,Goal,8.0,Head,,Gio Reyna,Pass (Dead),Andrew Omobamidele,Shot
+15,,,,,,,,,,,,,
+16,57,Gio Reyna,Nott'ham Forest,0.12,,Off Target,15.0,Left Foot,,Callum Hudson-Odoi,Pass (Live),Morgan Gibbs-White,Pass (Live)
+17,57,Danilo,Nott'ham Forest,0.77,0.95,Goal,8.0,Left Foot,Volley,,,,
+18,61,Hwang Hee-chan,Wolves,0.14,,Blocked,10.0,Right Foot,,Pablo Sarabia,Pass (Live),Nélson Semedo,Pass (Live)
+19,62,Max Kilman,Wolves,0.02,,Blocked,13.0,Head,,Pablo Sarabia,Pass (Dead),Hwang Hee-chan,Shot
+20,62,Matheus Cunha,Wolves,0.47,0.88,Goal,3.0,Right Foot,,Toti Gomes,Shot,,
+21,62,Toti Gomes,Wolves,0.23,0.12,Saved,5.0,Head,,Max Kilman,Shot,,
+22,64,Callum Hudson-Odoi,Nott'ham Forest,0.19,0.22,Saved,12.0,Left Foot,,Ola Aina,Pass (Live),Murillo,Pass (Live)
+23,64,Danilo,Nott'ham Forest,0.03,0.41,Saved,17.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Callum Hudson-Odoi,Shot
+24,65,Gio Reyna,Nott'ham Forest,0.01,0.02,Saved,16.0,Head,,Danilo,Shot,,
+25,80,Neco Williams,Nott'ham Forest,0.07,0.05,Saved,14.0,Left Foot,Volley,Ola Aina,Pass (Live),Murillo,Pass (Live)
+26,82,Callum Hudson-Odoi,Nott'ham Forest,0.01,0.04,Saved,24.0,Right Foot,,Ola Aina,Pass (Live),Andrew Omobamidele,Pass (Live)
+27,83,Tommy Doyle,Wolves,0.02,,Off Target,33.0,Right Foot,,Mario Lemina,Pass (Live),Hwang Hee-chan,Pass (Live)
+28,85,Neco Williams,Nott'ham Forest,0.08,,Blocked,14.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Ola Aina,Pass (Live)
+29,90+7,Nicolás Domínguez,Nott'ham Forest,0.02,,Off Target,18.0,Right Foot,Volley,Rodrigo Ribeiro,Pass (Live),Andrew Omobamidele,Pass (Live)

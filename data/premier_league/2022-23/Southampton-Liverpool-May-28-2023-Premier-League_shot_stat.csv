@@ -1,0 +1,47 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Diogo Jota,Liverpool,0.64,0.39,Goal,11.0,Right Foot,,,,,
+1,14,Roberto Firmino,Liverpool,0.24,0.3,Goal,9.0,Right Foot,,Fabinho,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+2,16,Kamaldeen Sulemana,Southampton,0.15,,Off Target,12.0,Right Foot,Volley,Theo Walcott,Pass (Live),Carlos Alcaraz,Pass (Live)
+3,19,James Ward-Prowse,Southampton,0.12,0.24,Goal,15.0,Right Foot,,Carlos Alcaraz,Pass (Live),Kamaldeen Sulemana,Pass (Live)
+4,23,Joël Matip,Liverpool,0.04,,Off Target,12.0,Head,,Trent Alexander-Arnold,Pass (Live),Roberto Firmino,Pass (Live)
+5,27,Diogo Jota,Liverpool,0.11,,Blocked,8.0,Head,,Kostas Tsimikas,Pass (Live),Curtis Jones,Pass (Live)
+6,27,Curtis Jones,Liverpool,0.02,,Blocked,27.0,Right Foot,,Diogo Jota,Shot,,
+7,28,Carlos Alcaraz,Southampton,0.08,0.18,Saved,22.0,Right Foot,,Kamaldeen Sulemana,Pass (Live),Kamaldeen Sulemana,Take-On
+8,28,Kamaldeen Sulemana,Southampton,0.25,0.41,Goal,15.0,Right Foot,,Theo Walcott,Pass (Live),Roméo Lavia,Tackle
+9,31,James Ward-Prowse,Southampton,0.04,0.1,Saved,29.0,Right Foot,Free kick,Mohamed Elyounoussi,Fouled,Roméo Lavia,Pass (Live)
+10,32,Theo Walcott,Southampton,0.09,,Off Target,17.0,Right Foot,,Roméo Lavia,Pass (Live),James Ward-Prowse,Pass (Live)
+11,32,James Bree,Southampton,0.03,0.06,Saved,25.0,Right Foot,,Theo Walcott,Shot,,
+12,35,James Milner,Liverpool,0.02,,Off Target,28.0,Left Foot,,,,,
+13,39,Mohamed Elyounoussi,Southampton,0.08,,Off Target,24.0,Right Foot,,Carlos Alcaraz,Pass (Live),James Ward-Prowse,Pass (Live)
+14,41,Trent Alexander-Arnold,Liverpool,0.02,,Blocked,33.0,Right Foot,,Curtis Jones,Pass (Live),Roberto Firmino,Pass (Live)
+15,45,Kamaldeen Sulemana,Southampton,0.08,0.57,Saved,14.0,Left Foot,,Theo Walcott,Pass (Live),James Ward-Prowse,Pass (Dead)
+16,45,Mohamed Elyounoussi,Southampton,0.55,0.84,Saved,3.0,Right Foot,,Kamaldeen Sulemana,Shot,,
+17,,,,,,,,,,,,,
+18,48,Kamaldeen Sulemana,Southampton,0.12,0.4,Goal,22.0,Right Foot,,Kamaldeen Sulemana,Take-On,Kyle Walker-Peters,Interception
+19,49,Mohamed Salah,Liverpool,0.19,,Blocked,8.0,Left Foot,,Roberto Firmino,Pass (Live),Mohamed Salah,Pass (Live)
+20,54,Mohamed Salah,Liverpool,0.09,,Off Target,20.0,Left Foot,,Mohamed Salah,Take-On,Trent Alexander-Arnold,Pass (Live)
+21,60,Mohamed Salah,Liverpool,0.09,,Blocked,15.0,Left Foot,,Cody Gakpo,Pass (Live),Joe Gomez,Pass (Live)
+22,64,Adam Armstrong,Southampton,0.17,0.38,Goal,15.0,Left Foot,,Adam Armstrong,Interception,,
+23,67,Luis Díaz,Liverpool,0.09,,Blocked,18.0,Right Foot,,Luis Díaz,Take-On,,
+24,67,Harvey Elliott,Liverpool,0.03,,Blocked,22.0,Left Foot,Volley,Luis Díaz,Shot,,
+25,68,Diogo Jota,Liverpool,0.05,,Blocked,15.0,Right Foot,,Luis Díaz,Pass (Live),Luis Díaz,Take-On
+26,71,Harvey Elliott,Liverpool,0.05,,Off Target,24.0,Left Foot,,Mohamed Salah,Pass (Live),Diogo Jota,Pass (Live)
+27,72,Cody Gakpo,Liverpool,0.97,0.99,Goal,2.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Harvey Elliott,Pass (Live)
+28,73,Diogo Jota,Liverpool,0.18,0.72,Goal,17.0,Right Foot,,Mohamed Salah,Pass (Live),Luis Díaz,Pass (Live)
+29,75,Harvey Elliott,Liverpool,0.02,0.04,Saved,26.0,Left Foot,,Joël Matip,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+30,77,Trent Alexander-Arnold,Liverpool,0.1,,Blocked,12.0,Left Foot,,Trent Alexander-Arnold,Take-On,Harvey Elliott,Pass (Live)
+31,79,Mohamed Salah,Liverpool,0.18,,Woodwork,25.0,Left Foot,,Jordan Henderson,Pass (Live),Luis Díaz,Pass (Live)
+32,81,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,22.0,Right Foot,,Jordan Henderson,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+33,81,Cody Gakpo,Liverpool,0.05,,Blocked,19.0,Right Foot,,Jordan Henderson,Pass (Live),Harvey Elliott,Pass (Live)
+34,81,Kamaldeen Sulemana,Southampton,0.03,,Off Target,23.0,Right Foot,,,,,
+35,82,Mohamed Salah,Liverpool,0.08,,Off Target,11.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Harvey Elliott,Pass (Live)
+36,85,Cody Gakpo,Liverpool,0.05,,Off Target,27.0,Right Foot,,Luis Díaz,Pass (Live),James Milner,Pass (Live)
+37,88,Jordan Henderson,Liverpool,0.04,0.06,Saved,25.0,Right Foot,Volley,Harvey Elliott,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+38,89,Mohamed Salah,Liverpool,0.15,0.57,Saved,13.0,Right Foot,,Cody Gakpo,Pass (Live),,
+39,90+1,Harvey Elliott,Liverpool,0.03,,Off Target,26.0,Left Foot,Volley,Mohamed Salah,Pass (Live),Harvey Elliott,Pass (Live)
+40,90+1,Luis Díaz,Liverpool,0.02,,Off Target,32.0,Right Foot,,James Milner,Pass (Live),James Milner,Pass (Live)
+41,90+2,Mohamed Salah,Liverpool,0.17,,Off Target,13.0,Left Foot,,Harvey Elliott,Pass (Live),Jordan Henderson,Pass (Live)
+42,90+5,Kyle Walker-Peters,Southampton,0.04,0.23,Saved,18.0,Right Foot,,Kyle Walker-Peters,Take-On,Samuel Amo-Ameyaw,Pass (Live)
+43,90+5,Jan Bednarek,Southampton,0.05,,Off Target,8.0,Right Foot,,Stuart Armstrong,Pass (Dead),Kyle Walker-Peters,Shot
+44,90+7,Mohamed Salah,Liverpool,0.27,,Off Target,6.0,Left Foot,,Mohamed Salah,Take-On,Trent Alexander-Arnold,Pass (Live)
+45,90+7,Joe Gomez,Liverpool,0.03,0.3,Saved,32.0,Right Foot,,Harvey Elliott,Pass (Live),,

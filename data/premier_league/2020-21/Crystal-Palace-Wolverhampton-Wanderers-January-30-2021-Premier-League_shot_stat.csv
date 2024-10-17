@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10.0,Nathaniel Clyne,Crystal Palace,0.03,,Off Target,22.0,Right Foot,,Michy Batshuayi,Pass (Live),Michy Batshuayi,Take-On
+1,20.0,Wilfried Zaha,Crystal Palace,0.03,,Blocked,29.0,Left Foot,,Jordan Ayew,Pass (Live),Jordan Ayew,Take-On
+2,42.0,Nathaniel Clyne,Crystal Palace,0.07,,Off Target,19.0,Right Foot,,Patrick van Aanholt,Pass (Live),Patrick van Aanholt,Take-On
+3,42.0,Michy Batshuayi,Crystal Palace,0.48,,Off Target,8.0,Right Foot,Volley,Nathaniel Clyne,Shot,,
+4,,,,,,,,,,,,,
+5,55.0,Wilfried Zaha,Crystal Palace,0.03,,Off Target,24.0,Right Foot,,Patrick van Aanholt,Pass (Live),Jaïro Riedewald,Pass (Live)
+6,56.0,Willian José,Wolves,0.07,0.16,Saved,13.0,Right Foot,,Daniel Podence,Pass (Live),Leander Dendoncker,Pass (Live)
+7,60.0,Eberechi Eze,Crystal Palace,0.05,0.07,Goal,17.0,Left Foot,,Jordan Ayew,Pass (Live),Wilfried Zaha,Pass (Live)
+8,64.0,Willian José,Wolves,0.06,,Off Target,9.0,Head,,Pedro Neto,Pass (Dead),,
+9,64.0,Leander Dendoncker,Wolves,0.06,,Blocked,14.0,Right Foot,,Max Kilman,Pass (Live),Willian José,Shot
+10,66.0,Eberechi Eze,Crystal Palace,0.03,,Blocked,24.0,Right Foot,,Wilfried Zaha,Pass (Live),Wilfried Zaha,Take-On
+11,67.0,Luka Milivojević,Crystal Palace,0.08,0.05,Saved,23.0,Right Foot,Free kick,Wilfried Zaha,Fouled,Eberechi Eze,Pass (Live)
+12,70.0,Pedro Neto,Wolves,0.03,0.05,Saved,27.0,Left Foot,,Pedro Neto,Take-On,Leander Dendoncker,Pass (Live)
+13,72.0,Wilfried Zaha,Crystal Palace,0.53,,Woodwork,10.0,Left Foot,,Michy Batshuayi,Pass (Live),Wilfried Zaha,Pass (Live)
+14,72.0,Michy Batshuayi,Crystal Palace,0.04,,Off Target,18.0,Right Foot,,Wilfried Zaha,Shot,,
+15,78.0,Willian José,Wolves,0.12,0.04,Saved,7.0,Head,,Pedro Neto,Pass (Dead),,
+16,83.0,Nélson Semedo,Wolves,0.03,0.16,Saved,25.0,Right Foot,,Pedro Neto,Pass (Live),Max Kilman,Tackle
+17,87.0,Andros Townsend,Crystal Palace,0.07,,Blocked,25.0,Left Foot,Free kick,Jordan Ayew,Fouled,Wilfried Zaha,Pass (Live)

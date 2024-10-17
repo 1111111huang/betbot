@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Reece James,Chelsea,0.04,0.22,Saved,31.0,Right Foot,Free kick,Mykhailo Mudryk,Fouled,Benoît Badiashile,Pass (Live)
+1,13,Enzo Fernández,Chelsea,0.03,,Off Target,28.0,Right Foot,,,,,
+2,16,João Félix,Chelsea,0.51,0.86,Goal,9.0,Right Foot,Volley,Enzo Fernández,Pass (Live),Marc Cucurella,Pass (Live)
+3,21,Noni Madueke,Chelsea,0.03,,Blocked,22.0,Left Foot,,Noni Madueke,Take-On,Reece James,Pass (Live)
+4,25,Michail Antonio,West Ham,0.2,0.1,Saved,5.0,Right Foot,,Jarrod Bowen,Pass (Live),Vladimír Coufal,Pass (Live)
+5,25,Michail Antonio,West Ham,0.52,,Off Target,4.0,Right Foot,Volley,Michail Antonio,Shot,,
+6,28,Emerson Palmieri,West Ham,0.36,0.24,Goal,4.0,Left Foot,,Jarrod Bowen,Pass (Live),Vladimír Coufal,Pass (Live)
+7,30,Jarrod Bowen,West Ham,0.04,,Blocked,14.0,Left Foot,Volley,,,,
+8,30,Nayef Aguerd,West Ham,0.05,,Off Target,11.0,Head,,Saïd Benrahma,Pass (Live),Jarrod Bowen,Pass (Live)
+9,34,Noni Madueke,Chelsea,0.05,0.11,Saved,15.0,Left Foot,,Noni Madueke,Take-On,Reece James,Pass (Live)
+10,35,Saïd Benrahma,West Ham,0.04,,Blocked,13.0,Left Foot,,Michail Antonio,Pass (Live),Emerson Palmieri,Pass (Live)
+11,37,João Félix,Chelsea,0.06,,Blocked,18.0,Left Foot,,,,,
+12,40,João Félix,Chelsea,0.07,0.5,Saved,24.0,Right Foot,Free kick,João Félix,Fouled,Kai Havertz,Pass (Live)
+13,41,Benoît Badiashile,Chelsea,0.14,,Off Target,8.0,Head,,João Félix,Pass (Dead),João Félix,Shot
+14,45+5,Benoît Badiashile,Chelsea,0.06,,Blocked,11.0,Head,,João Félix,Pass (Dead),,
+15,,,,,,,,,,,,,
+16,54,Declan Rice,West Ham,0.02,,Off Target,29.0,Right Foot,,Saïd Benrahma,Pass (Live),Emerson Palmieri,Pass (Live)
+17,65,Saïd Benrahma,West Ham,0.03,,Blocked,36.0,Right Foot,Free kick,Michail Antonio,Fouled,Michail Antonio,Take-On
+18,68,Tomáš Souček,West Ham,0.06,,Off Target,11.0,Head,,Jarrod Bowen,Pass (Live),Angelo Ogbonna,Pass (Live)
+19,72,Danny Ings,West Ham,0.08,,Off Target,10.0,Right Foot,Volley,Tomáš Souček,Pass (Live),Vladimír Coufal,Pass (Live)
+20,74,Kai Havertz,Chelsea,0.06,,Off Target,8.0,Head,,Ben Chilwell,Pass (Live),Enzo Fernández,Pass (Live)
+21,78,Enzo Fernández,Chelsea,0.05,,Off Target,22.0,Right Foot,Volley,Reece James,Pass (Live),Thiago Silva,Pass (Live)
+22,89,Conor Gallagher,Chelsea,0.04,,Blocked,22.0,Left Foot,,Kai Havertz,Pass (Live),Mason Mount,Pass (Live)

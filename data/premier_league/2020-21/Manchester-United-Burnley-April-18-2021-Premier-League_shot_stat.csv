@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Scott McTominay,Manchester Utd,0.08,,Blocked,16.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Marcus Rashford,Pass (Live)
+1,10,Paul Pogba,Manchester Utd,0.04,0.51,Saved,13.0,Head,,Aaron Wan-Bissaka,Pass (Live),Scott McTominay,Pass (Live)
+2,13,Mason Greenwood,Manchester Utd,0.04,,Blocked,17.0,Left Foot,,Fred,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+3,13,Chris Wood,Burnley,0.03,0.09,Saved,26.0,Right Foot,,Jack Cork,Pass (Live),Ashley Westwood,Pass (Live)
+4,14,Bruno Fernandes,Manchester Utd,0.04,,Off Target,20.0,Right Foot,,Marcus Rashford,Pass (Live),Scott McTominay,Pass (Live)
+5,29,Marcus Rashford,Manchester Utd,0.04,0.08,Saved,16.0,Right Foot,,Luke Shaw,Pass (Live),Bruno Fernandes,Pass (Live)
+6,30,Paul Pogba,Manchester Utd,0.08,,Off Target,8.0,Head,,Luke Shaw,Pass (Dead),Marcus Rashford,Shot
+7,1,Chris Wood,Burnley,0.21,,Off Target,15.0,Head,,Ashley Westwood,Pass (Dead),,
+8,42,Chris Wood,Burnley,0.11,,Off Target,9.0,Left Foot,Volley,James Tarkowski,Pass (Live),Matthew Lowton,Pass (Dead)
+9,43,Mason Greenwood,Manchester Utd,0.05,,Off Target,13.0,Head,,Scott McTominay,Pass (Live),Bruno Fernandes,Pass (Live)
+10,45+1,James Tarkowski,Burnley,0.05,,Off Target,13.0,Head,,Dwight McNeil,Pass (Dead),Josh Brownhill,Fouled
+11,,,,,,,,,,,,,
+12,48,Mason Greenwood,Manchester Utd,0.31,0.24,Goal,10.0,Left Foot,,Marcus Rashford,Pass (Live),Marcus Rashford,Take-On
+13,50,James Tarkowski,Burnley,0.29,0.85,Goal,5.0,Head,,Ashley Westwood,Pass (Dead),,
+14,51,Josh Brownhill,Burnley,0.03,0.03,Saved,29.0,Right Foot,,Jóhann Berg Guðmundsson,Pass (Live),Ashley Westwood,Pass (Live)
+15,60,Chris Wood,Burnley,0.03,,Blocked,30.0,Right Foot,,Josh Brownhill,Pass (Live),,
+16,61,Marcus Rashford,Manchester Utd,0.09,,Blocked,15.0,Right Foot,,Marcus Rashford,Take-On,Luke Shaw,Pass (Live)
+17,63,Dwight McNeil,Burnley,0.06,,Blocked,18.0,Left Foot,,Chris Wood,Pass (Live),Josh Brownhill,Pass (Live)
+18,65,Harry Maguire,Manchester Utd,0.04,,Off Target,12.0,Head,,Luke Shaw,Pass (Dead),,
+19,66,Chris Wood,Burnley,0.03,,Blocked,29.0,Right Foot,,,,,
+20,70,Bruno Fernandes,Manchester Utd,0.05,0.11,Saved,11.0,Head,,Luke Shaw,Pass (Live),Marcus Rashford,Pass (Live)
+21,73,James Tarkowski,Burnley,0.03,,Off Target,17.0,Head,,Dwight McNeil,Pass (Dead),Ben Mee,Fouled
+22,76,Bruno Fernandes,Manchester Utd,0.02,,Blocked,22.0,Right Foot,,Luke Shaw,Pass (Dead),Luke Shaw,Take-On
+23,84,Mason Greenwood,Manchester Utd,0.02,0.05,Goal,20.0,Left Foot,Deflected,Paul Pogba,Pass (Live),Bruno Fernandes,Pass (Live)
+24,90,Scott McTominay,Manchester Utd,0.34,0.28,Saved,10.0,Right Foot,,Mason Greenwood,Pass (Live),Edinson Cavani,Pass (Live)
+25,90+1,Mason Greenwood,Manchester Utd,0.42,0.25,Saved,6.0,Left Foot,,Mason Greenwood,Pass (Live),Paul Pogba,Pass (Live)
+26,90+1,Bruno Fernandes,Manchester Utd,0.36,,Blocked,6.0,Right Foot,,Mason Greenwood,Shot,,
+27,90+3,Edinson Cavani,Manchester Utd,0.84,0.92,Goal,4.0,Right Foot,,Donny van de Beek,Pass (Live),Bruno Fernandes,Pass (Live)

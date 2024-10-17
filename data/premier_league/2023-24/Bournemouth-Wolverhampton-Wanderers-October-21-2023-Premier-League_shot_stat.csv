@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,David Brooks,Bournemouth,0.03,0.05,Saved,16.0,Left Foot,,Marcus Tavernier,Pass (Live),Dominic Solanke,Pass (Live)
+1,5.0,Pedro Neto,Wolves,0.06,,Woodwork,24.0,Left Foot,,Matheus Cunha,Pass (Live),Max Kilman,Pass (Live)
+2,6.0,Matheus Cunha,Wolves,0.14,0.07,Saved,15.0,Left Foot,,Pedro Neto,Shot,,
+3,6.0,Hwang Hee-chan,Wolves,0.25,,Off Target,7.0,Head,,Matheus Cunha,Shot,,
+4,14.0,Boubacar Traoré,Wolves,0.01,,Blocked,35.0,Right Foot,,Hwang Hee-chan,Pass (Live),Rayan Aït-Nouri,Pass (Dead)
+5,17.0,Dominic Solanke,Bournemouth,0.28,0.7,Goal,6.0,Right Foot,,Philip Billing,Pass (Live),David Brooks,Pass (Live)
+6,28.0,Dominic Solanke,Bournemouth,0.06,,Blocked,13.0,Left Foot,,Lewis Cook,Pass (Live),Neto,Pass (Live)
+7,33.0,Pedro Neto,Wolves,0.04,,Off Target,19.0,Left Foot,,Matt Doherty,Pass (Live),Pedro Neto,Pass (Live)
+8,34.0,Dominic Solanke,Bournemouth,0.13,,Off Target,10.0,Left Foot,Volley,David Brooks,Pass (Live),Milos Kerkez,Pass (Live)
+9,39.0,Craig Dawson,Wolves,0.19,,Blocked,2.0,Head,,Pedro Neto,Pass (Dead),,
+10,,,,,,,,,,,,,
+11,47.0,Matheus Cunha,Wolves,0.06,0.2,Goal,18.0,Right Foot,,Pedro Neto,Pass (Live),Tommy Doyle,Pass (Live)
+12,49.0,Matheus Cunha,Wolves,0.02,0.04,Saved,31.0,Right Foot,,Matheus Cunha,Take-On,Craig Dawson,Interception
+13,57.0,Hwang Hee-chan,Wolves,0.05,,Off Target,13.0,Head,,Pedro Neto,Pass (Dead),Rayan Aït-Nouri,Fouled
+14,59.0,Rayan Aït-Nouri,Wolves,0.05,,Blocked,9.0,Left Foot,,Hwang Hee-chan,Pass (Live),Matheus Cunha,Pass (Live)
+15,67.0,Matheus Cunha,Wolves,0.35,,Off Target,7.0,Head,,Matt Doherty,Pass (Live),Pedro Neto,Pass (Live)
+16,70.0,Ryan Christie,Bournemouth,0.04,0.11,Saved,22.0,Right Foot,,Philip Billing,Pass (Live),Marcus Tavernier,Pass (Live)
+17,74.0,Matt Doherty,Wolves,0.04,,Blocked,21.0,Left Foot,,Toti Gomes,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+18,74.0,Matheus Cunha,Wolves,0.05,0.17,Saved,26.0,Right Foot,,Max Kilman,Pass (Live),Tommy Doyle,Pass (Live)
+19,74.0,Hwang Hee-chan,Wolves,0.24,,Off Target,9.0,Left Foot,,Matheus Cunha,Shot,,
+20,77.0,Pedro Neto,Wolves,0.02,,Blocked,20.0,Left Foot,,Tommy Doyle,Pass (Dead),Rayan Aït-Nouri,Pass (Live)
+21,78.0,Pablo Sarabia,Wolves,0.02,,Blocked,14.0,Left Foot,Volley,Matt Doherty,Pass (Live),Pablo Sarabia,Pass (Live)
+22,78.0,Craig Dawson,Wolves,0.09,0.09,Saved,4.0,Right Foot,Volley,Pablo Sarabia,Shot,,
+23,80.0,Pedro Neto,Wolves,0.22,,Off Target,13.0,Left Foot,,Max Kilman,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+24,86.0,Craig Dawson,Wolves,0.02,0.02,Saved,24.0,Right Foot,,Rayan Aït-Nouri,Pass (Live),Pedro Neto,Pass (Live)
+25,87.0,Joe Rothwell,Bournemouth,0.06,,Blocked,21.0,Right Foot,,Dango Ouattara,Pass (Live),Dango Ouattara,Take-On
+26,87.0,Philip Billing,Bournemouth,0.02,0.31,Saved,32.0,Left Foot,,Joe Rothwell,Shot,,
+27,88.0,Sasa Kalajdzic,Wolves,0.45,0.72,Goal,11.0,Right Foot,,Hwang Hee-chan,Pass (Live),Boubacar Traoré,Pass (Live)
+28,90.0,Pablo Sarabia,Wolves,0.05,,Off Target,18.0,Right Foot,,Pedro Neto,Pass (Live),Sasa Kalajdzic,Pass (Live)

@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,James Milner,Liverpool,0.04,,Off Target,14.0,Left Foot,,Fabinho,Pass (Live),James Milner,Pass (Live)
+1,5,Harvey Elliott,Liverpool,0.03,,Blocked,19.0,Left Foot,Deflected,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+2,9,Harvey Elliott,Liverpool,0.18,,Blocked,15.0,Left Foot,,Harvey Elliott,Take-On,Mohamed Salah,Pass (Live)
+3,9,Darwin Núñez,Liverpool,0.24,,Off Target,5.0,Right Foot,Volley,Trent Alexander-Arnold,Pass (Live),Harvey Elliott,Pass (Live)
+4,17,Andrew Robertson,Liverpool,0.1,,Blocked,15.0,Right Foot,,James Milner,Pass (Live),Harvey Elliott,Pass (Live)
+5,17,Luis Díaz,Liverpool,0.14,0.22,Saved,10.0,Left Foot,Deflected,Andrew Robertson,Shot,,
+6,22,Trent Alexander-Arnold,Liverpool,0.06,,Blocked,19.0,Right Foot,,Mohamed Salah,Pass (Live),Darwin Núñez,Pass (Live)
+7,23,Mohamed Salah,Liverpool,0.14,,Off Target,13.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),James Milner,Pass (Live)
+8,24,Virgil van Dijk,Liverpool,0.01,,Off Target,38.0,Right Foot,,Luis Díaz,Pass (Live),Luis Díaz,Take-On
+9,27,Darwin Núñez,Liverpool,0.08,,Blocked,21.0,Right Foot,,Harvey Elliott,Pass (Live),James Milner,Pass (Live)
+10,30,Mohamed Salah,Liverpool,0.16,0.45,Saved,11.0,Head,,Trent Alexander-Arnold,Pass (Live),Harvey Elliott,Pass (Live)
+11,32,Wilfried Zaha,Crystal Palace,0.15,0.9,Goal,14.0,Right Foot,,Eberechi Eze,Pass (Live),Eberechi Eze,Take-On
+12,35,Darwin Núñez,Liverpool,0.03,,Off Target,27.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Nathaniel Phillips,Pass (Live)
+13,36,Trent Alexander-Arnold,Liverpool,0.02,,Blocked,27.0,Right Foot,,Mohamed Salah,Pass (Live),Mohamed Salah,Take-On
+14,36,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,25.0,Left Foot,,Trent Alexander-Arnold,Shot,,
+15,37,Cheick Doucouré,Crystal Palace,0.03,,Off Target,32.0,Right Foot,,Wilfried Zaha,Pass (Live),Eberechi Eze,Pass (Live)
+16,38,Wilfried Zaha,Crystal Palace,0.04,0.03,Saved,23.0,Right Foot,,Marc Guéhi,Pass (Live),,
+17,40,Wilfried Zaha,Crystal Palace,0.26,0.1,Saved,13.0,Right Foot,,Cheick Doucouré,Pass (Live),Nathaniel Clyne,Pass (Live)
+18,43,Harvey Elliott,Liverpool,0.08,0.14,Saved,14.0,Head,,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+19,45+3,Nathaniel Phillips,Liverpool,0.04,,Blocked,11.0,Head,,Trent Alexander-Arnold,Pass (Dead),Fabinho,Pass (Live)
+20,45+3,Darwin Núñez,Liverpool,0.07,,Woodwork,8.0,Right Foot,Volley,Harvey Elliott,Pass (Live),James Milner,Pass (Live)
+21,,,,,,,,,,,,,
+22,49,Darwin Núñez,Liverpool,0.25,,Blocked,15.0,Left Foot,,Mohamed Salah,Pass (Live),Fabinho,Pass (Live)
+23,57,Luis Díaz,Liverpool,0.06,,Off Target,14.0,Right Foot,Volley,Mohamed Salah,Pass (Live),Harvey Elliott,Pass (Live)
+24,61,Luis Díaz,Liverpool,0.04,0.42,Goal,24.0,Right Foot,,Luis Díaz,Take-On,Luis Díaz,Take-On
+25,71,Trent Alexander-Arnold,Liverpool,0.1,,Off Target,13.0,Right Foot,,Mohamed Salah,Pass (Live),Fabinho,Pass (Live)
+26,78,Wilfried Zaha,Crystal Palace,0.23,,Woodwork,5.0,Right Foot,Volley,Cheick Doucouré,Pass (Live),Eberechi Eze,Pass (Live)
+27,86,Kostas Tsimikas,Liverpool,0.06,,Blocked,17.0,Left Foot,Volley,Jordan Henderson,Pass (Live),Luis Díaz,Pass (Live)
+28,87,Mohamed Salah,Liverpool,0.04,,Off Target,21.0,Left Foot,Volley,Kostas Tsimikas,Shot,,
+29,90,Fabio Carvalho,Liverpool,0.05,,Off Target,20.0,Left Foot,Volley,Fabinho,Pass (Live),Trent Alexander-Arnold,Pass (Dead)
+30,90+4,Joachim Andersen,Crystal Palace,0.26,,Off Target,5.0,Right Foot,,Chris Richards,Shot,,
+31,90+4,Chris Richards,Crystal Palace,0.07,,Off Target,11.0,Head,,Michael Olise,Pass (Dead),,

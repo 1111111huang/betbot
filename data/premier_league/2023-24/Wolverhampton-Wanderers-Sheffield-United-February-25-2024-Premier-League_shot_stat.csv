@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Pablo Sarabia,Wolves,0.01,,Off Target,9.0,Right Foot,,Pedro Neto,Pass (Live),Mario Lemina,Pass (Live)
+1,7,Pedro Neto,Wolves,0.05,,Off Target,15.0,Right Foot,,Rayan Aït-Nouri,Pass (Live),Pedro Neto,Pass (Live)
+2,12,Mario Lemina,Wolves,0.16,,Blocked,7.0,Head,,Pablo Sarabia,Pass (Dead),Pedro Neto,Fouled
+3,16,Mario Lemina,Wolves,0.29,,Off Target,5.0,Left Foot,Volley,Mario Lemina,Pass (Live),Hwang Hee-chan,Pass (Live)
+4,17,João Gomes,Wolves,0.03,,Off Target,11.0,Head,,Pedro Neto,Pass (Live),Hwang Hee-chan,Pass (Live)
+5,19,Rhian Brewster,Sheffield Utd,0.1,,Blocked,12.0,Left Foot,Volley,,,,
+6,19,Rhian Brewster,Sheffield Utd,0.03,0.16,Saved,14.0,Right Foot,Volley,Rhian Brewster,Shot,,
+7,23,Rhian Brewster,Sheffield Utd,0.05,,Off Target,14.0,Right Foot,,Jayden Bogle,Pass (Live),Ivo Grbić,Pass (Live)
+8,29,James Mcatee,Sheffield Utd,0.07,0.08,Saved,13.0,Left Foot,,Gustavo Hamer,Pass (Live),,
+9,30,Pablo Sarabia,Wolves,0.35,0.81,Goal,8.0,Head,,Rayan Aït-Nouri,Pass (Live),Pedro Neto,Pass (Live)
+10,36,Pedro Neto,Wolves,0.01,,Off Target,26.0,Right Foot,,Mario Lemina,Pass (Live),Hwang Hee-chan,Pass (Live)
+11,45,Toti Gomes,Wolves,0.14,,Blocked,12.0,Left Foot,,Toti Gomes,Take-On,Toti Gomes,Pass (Live)
+12,45,Pablo Sarabia,Wolves,0.07,,Off Target,13.0,Left Foot,,Mario Lemina,Pass (Live),Toti Gomes,Shot
+13,,,,,,,,,,,,,
+14,46,James Mcatee,Sheffield Utd,0.07,,Blocked,6.0,Left Foot,,Vinicius Souza,Pass (Live),,
+15,49,Anel Ahmedhodžić,Sheffield Utd,0.04,,Blocked,12.0,Right Foot,,Jayden Bogle,Pass (Live),Anel Ahmedhodžić,Pass (Live)
+16,49,Yasser Larouci,Sheffield Utd,0.01,,Off Target,35.0,Left Foot,Volley,Anel Ahmedhodžić,Shot,,
+17,54,James Mcatee,Sheffield Utd,0.06,,Off Target,17.0,Left Foot,,Jack Robinson,Pass (Live),Yasser Larouci,Pass (Live)
+18,57,João Gomes,Wolves,0.08,,Off Target,14.0,Right Foot,Volley,Nélson Semedo,Fouled,,
+19,59,Rhian Brewster,Sheffield Utd,0.05,0.02,Saved,10.0,Right Foot,Volley,James Mcatee,Pass (Live),Gustavo Hamer,Pass (Live)
+20,61,Jack Robinson,Sheffield Utd,0.01,0.06,Saved,20.0,Head,,Gustavo Hamer,Pass (Dead),Jayden Bogle,Fouled
+21,63,Pablo Sarabia,Wolves,0.04,,Blocked,18.0,Left Foot,,João Gomes,Pass (Live),Pablo Sarabia,Pass (Live)
+22,66,Pablo Sarabia,Wolves,0.02,,Off Target,25.0,Left Foot,,João Gomes,Pass (Live),Pablo Sarabia,Pass (Live)
+23,86,Oliver McBurnie,Sheffield Utd,0.09,,Blocked,13.0,Left Foot,,Ben Osborn,Pass (Live),Tom Davies,Pass (Live)
+24,90+2,João Gomes,Wolves,0.05,0.01,Saved,27.0,Right Foot,,Toti Gomes,Pass (Live),Jean-Ricner Bellegarde,Pass (Live)
+25,90+3,Gustavo Hamer,Sheffield Utd,0.01,,Off Target,30.0,Left Foot,Volley,Jack Robinson,Pass (Dead),,

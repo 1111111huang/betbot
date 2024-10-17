@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Declan Rice,West Ham,0.07,0.13,Saved,27.0,Right Foot,Free kick,Jarrod Bowen,Fouled,Jesse Lingard,Pass (Live)
+1,14,Jesse Lingard,West Ham,0.06,0.1,Saved,17.0,Right Foot,,Manuel Lanzini,Pass (Live),Jarrod Bowen,Pass (Live)
+2,24,Jesse Lingard,West Ham,0.09,0.15,Saved,12.0,Left Foot,,Manuel Lanzini,Pass (Live),Declan Rice,Pass (Live)
+3,25,Craig Dawson,West Ham,0.08,,Off Target,9.0,Head,,Aaron Cresswell,Pass (Dead),Jesse Lingard,Shot
+4,30,Aaron Cresswell,West Ham,0.06,,Off Target,27.0,Left Foot,Free kick,Jarrod Bowen,Fouled,Manuel Lanzini,Pass (Live)
+5,33,David McGoldrick,Sheffield Utd,0.03,,Off Target,22.0,Right Foot,,Ethan Ampadu,Pass (Live),,
+6,36,Ben Osborn,Sheffield Utd,0.03,0.62,Saved,24.0,Left Foot,,David McGoldrick,Pass (Live),Billy Sharp,Pass (Live)
+7,41,Declan Rice (pen),West Ham,0.79,1.0,Goal,13.0,Right Foot,,Jesse Lingard,Fouled,Jarrod Bowen,Pass (Live)
+8,,,,,,,,,,,,,
+9,52,David McGoldrick,Sheffield Utd,0.11,0.07,Saved,5.0,Head,Deflected,Billy Sharp,Pass (Live),Oliver Norwood,Pass (Live)
+10,57,Jarrod Bowen,West Ham,0.06,,Blocked,12.0,Left Foot,,Manuel Lanzini,Pass (Live),Declan Rice,Pass (Live)
+11,58,Issa Diop,West Ham,0.12,0.52,Goal,7.0,Head,,Aaron Cresswell,Pass (Dead),Jarrod Bowen,Shot
+12,61,Chris Basham,Sheffield Utd,0.04,0.05,Saved,14.0,Head,,Oliver Norwood,Pass (Live),John Lundstram,Pass (Live)
+13,65,Jesse Lingard,West Ham,0.02,0.1,Saved,33.0,Right Foot,,Tomáš Souček,Pass (Live),Jesse Lingard,Pass (Live)
+14,68,David McGoldrick,Sheffield Utd,0.31,0.42,Saved,8.0,Head,,Ben Osborn,Pass (Live),Enda Stevens,Pass (Live)
+15,70,Jesse Lingard,West Ham,0.03,0.11,Saved,28.0,Right Foot,,Ben Johnson,Pass (Live),Aaron Cresswell,Pass (Live)
+16,73,Vladimír Coufal,West Ham,0.45,0.72,Saved,12.0,Right Foot,,Vladimír Coufal,Interception,,
+17,80,Oliver McBurnie,Sheffield Utd,0.05,0.14,Saved,12.0,Head,,Ben Osborn,Pass (Live),Enda Stevens,Pass (Live)
+18,81,Jesse Lingard,West Ham,0.08,,Off Target,13.0,Right Foot,,,,,
+19,90+1,David McGoldrick,Sheffield Utd,0.05,,Blocked,18.0,Right Foot,,Chris Basham,Pass (Live),Jayden Bogle,Pass (Live)
+20,90+3,John Lundstram,Sheffield Utd,0.04,,Off Target,21.0,Right Foot,,Enda Stevens,Pass (Live),John Lundstram,Pass (Live)
+21,90+6,Ryan Fredericks,West Ham,0.05,0.3,Goal,17.0,Right Foot,,Saïd Benrahma,Pass (Live),Aaron Cresswell,Pass (Live)

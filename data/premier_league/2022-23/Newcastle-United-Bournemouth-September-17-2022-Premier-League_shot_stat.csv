@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Ryan Christie,Bournemouth,0.03,0.05,Saved,27.0,Left Foot,,Ryan Christie,Take-On,Jordan Zemura,Pass (Live)
+1,15,Marcus Tavernier,Bournemouth,0.05,,Off Target,13.0,Head,,Jordan Zemura,Pass (Live),Ryan Christie,Pass (Live)
+2,18,Miguel Almirón,Newcastle Utd,0.21,0.32,Saved,17.0,Left Foot,,,,,
+3,21,Fabian Schär,Newcastle Utd,0.04,0.16,Saved,11.0,Head,,Matt Targett,Pass (Live),Kieran Trippier,Pass (Dead)
+4,27,Kieran Trippier,Newcastle Utd,0.05,,Woodwork,29.0,Right Foot,Free kick,Bruno Guimarães,Fouled,Joe Willock,Pass (Live)
+5,29,Dominic Solanke,Bournemouth,0.05,,Off Target,20.0,Right Foot,Volley,Adam Smith,Pass (Live),Marcus Tavernier,Pass (Live)
+6,43,Joelinton,Newcastle Utd,0.09,,Woodwork,11.0,Right Foot,,Ryan Fraser,Pass (Live),,
+7,43,Joelinton,Newcastle Utd,0.04,0.04,Saved,13.0,Right Foot,,Alexander Isak,Pass (Live),Bruno Guimarães,Pass (Live)
+8,43,Ryan Fraser,Newcastle Utd,0.03,0.16,Saved,23.0,Right Foot,,Joelinton,Shot,,
+9,,,,,,,,,,,,,
+10,46,Philip Billing,Bournemouth,0.09,,Blocked,13.0,Left Foot,,Marcus Tavernier,Pass (Live),Marcus Tavernier,Take-On
+11,48,Ryan Fraser,Newcastle Utd,0.07,,Off Target,17.0,Right Foot,,Bruno Guimarães,Pass (Live),Joe Willock,Pass (Live)
+12,48,Joelinton,Newcastle Utd,0.09,,Off Target,11.0,Head,,Kieran Trippier,Pass (Live),Fabian Schär,Pass (Live)
+13,49,Dominic Solanke,Bournemouth,0.05,0.02,Saved,24.0,Right Foot,,Dominic Solanke,Take-On,Lewis Cook,Tackle
+14,52,Miguel Almirón,Newcastle Utd,0.04,,Blocked,18.0,Left Foot,,Alexander Isak,Pass (Live),Alexander Isak,Tackle
+15,52,Alexander Isak,Newcastle Utd,0.11,0.27,Saved,9.0,Head,,Joe Willock,Pass (Live),Kieran Trippier,Pass (Live)
+16,57,Ryan Fraser,Newcastle Utd,0.06,,Blocked,20.0,Right Foot,,Bruno Guimarães,Pass (Live),Joe Willock,Pass (Live)
+17,58,Ryan Fraser,Newcastle Utd,0.06,,Off Target,12.0,Head,,Joe Willock,Pass (Live),Bruno Guimarães,Pass (Dead)
+18,62,Philip Billing,Bournemouth,0.3,0.66,Goal,7.0,Left Foot,Volley,Jordan Zemura,Pass (Live),Lewis Cook,Pass (Live)
+19,67,Alexander Isak (pen),Newcastle Utd,0.79,0.98,Goal,13.0,Right Foot,,,Fouled,Fabian Schär,Pass (Live)
+20,70,Marcus Tavernier,Bournemouth,0.04,,Off Target,17.0,Left Foot,Volley,Jordan Zemura,Pass (Live),Ryan Christie,Pass (Live)
+21,73,Alexander Isak,Newcastle Utd,0.05,0.19,Saved,13.0,Head,,Kieran Trippier,Pass (Dead),Miguel Almirón,Fouled
+22,74,Ryan Christie,Bournemouth,0.03,,Off Target,15.0,Left Foot,,Philip Billing,Pass (Live),Adam Smith,Pass (Live)
+23,76,Joe Willock,Newcastle Utd,0.05,,Off Target,16.0,Right Foot,,Joe Willock,Take-On,Miguel Almirón,Pass (Live)
+24,77,Fabian Schär,Newcastle Utd,0.01,,Blocked,32.0,Right Foot,,Joelinton,Pass (Live),Joe Willock,Pass (Live)
+25,78,Jacob Murphy,Newcastle Utd,0.08,,Blocked,18.0,Right Foot,,Fabian Schär,Shot,,
+26,79,Fabian Schär,Newcastle Utd,0.01,,Blocked,34.0,Right Foot,,Fabian Schär,Pass (Live),Miguel Almirón,Pass (Live)
+27,80,Ryan Christie,Bournemouth,0.05,,Off Target,22.0,Left Foot,,Jordan Zemura,Pass (Live),Jordan Zemura,Take-On
+28,82,Jaidon Anthony,Bournemouth,0.05,,Blocked,23.0,Right Foot,,Philip Billing,Pass (Live),Philip Billing,Take-On
+29,84,Joe Willock,Newcastle Utd,0.01,,Off Target,32.0,Right Foot,,Sean Longstaff,Pass (Live),Matt Targett,Pass (Live)
+30,90+2,Fabian Schär,Newcastle Utd,0.02,,Off Target,32.0,Right Foot,,Dan Burn,Pass (Live),Sean Longstaff,Pass (Live)

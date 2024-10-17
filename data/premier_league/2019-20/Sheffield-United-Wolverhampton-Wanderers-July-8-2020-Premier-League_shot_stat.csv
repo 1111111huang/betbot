@@ -1,0 +1,15 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,18,Oliver McBurnie,Sheffield Utd,0.06,0.04,Saved,8.0,Head,,Jack O'Connell,Pass (Live),Ben Osborn,Pass (Live)
+1,32,Rúben Neves,Wolves,0.08,,Woodwork,26.0,Right Foot,Free kick,Diogo Jota,Fouled,Raúl Jiménez,Pass (Live)
+2,36,Rúben Neves,Wolves,0.02,,Off Target,31.0,Right Foot,,Raúl Jiménez,Pass (Live),Jonny Castro,Pass (Live)
+3,39,Enda Stevens,Sheffield Utd,0.07,,Off Target,17.0,Left Foot,,George Baldock,Pass (Live),Chris Basham,Pass (Live)
+4,43,Rúben Neves,Wolves,0.08,0.23,Saved,11.0,Right Foot,Deflected,Matt Doherty,Pass (Dead),Conor Coady,Pass (Live)
+5,45+2,João Moutinho,Wolves,0.05,,Off Target,25.0,Right Foot,,Matt Doherty,Pass (Live),João Moutinho,Pass (Live)
+6,,,,,,,,,,,,,
+7,52,Rúben Neves,Wolves,0.02,,Off Target,27.0,Right Foot,,Raúl Jiménez,Fouled,Conor Coady,Pass (Live)
+8,63,Diogo Jota,Wolves,0.12,,Off Target,10.0,Head,,Raúl Jiménez,Pass (Live),Adama Traoré,Pass (Live)
+9,77,George Baldock,Sheffield Utd,0.08,,Off Target,9.0,Head,,Richairo Živković,Pass (Live),Jack O'Connell,Pass (Live)
+10,79,Lys Mousset,Sheffield Utd,0.05,,Off Target,25.0,Right Foot,,Jack O'Connell,Pass (Live),,
+11,90+3,Richairo Živković,Sheffield Utd,0.07,,Blocked,12.0,Right Foot,,Ben Osborn,Pass (Live),George Baldock,Pass (Live)
+12,90+3,Ben Osborn,Sheffield Utd,0.11,0.51,Saved,10.0,Left Foot,"Deflected, Volley",Richairo Živković,Shot,,
+13,90+3,John Egan,Sheffield Utd,0.1,0.25,Goal,8.0,Head,,Oliver Norwood,Pass (Dead),Ben Osborn,Shot

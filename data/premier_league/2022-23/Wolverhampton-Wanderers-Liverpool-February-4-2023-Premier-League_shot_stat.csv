@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Matheus Cunha,Wolves,0.03,0.03,Saved,30.0,Right Foot,,Craig Dawson,Pass (Live),,
+1,4.0,Pablo Sarabia,Wolves,0.14,,Off Target,16.0,Right Foot,,Hwang Hee-chan,Pass (Live),Matheus Cunha,Pass (Live)
+2,12.0,Max Kilman,Wolves,0.16,,Blocked,10.0,Head,,Rúben Neves,Pass (Dead),Nélson Semedo,Fouled
+3,12.0,Craig Dawson,Wolves,0.14,0.14,Goal,10.0,Right Foot,,Max Kilman,Shot,,
+4,14.0,Darwin Núñez,Liverpool,0.06,0.04,Saved,17.0,Right Foot,,Thiago Alcántara,Pass (Live),Cody Gakpo,Tackle
+5,17.0,Naby Keïta,Liverpool,0.04,,Blocked,26.0,Left Foot,,Andrew Robertson,Pass (Live),Thiago Alcántara,Pass (Live)
+6,17.0,Naby Keïta,Liverpool,0.03,,Blocked,24.0,Left Foot,,Naby Keïta,Shot,,
+7,20.0,Mohamed Salah,Liverpool,0.05,,Off Target,14.0,Left Foot,,Naby Keïta,Pass (Live),Joël Matip,Pass (Live)
+8,24.0,Naby Keïta,Liverpool,0.05,,Off Target,23.0,Left Foot,Volley,Joël Matip,Pass (Live),Joe Gomez,Pass (Live)
+9,25.0,Darwin Núñez,Liverpool,0.03,,Off Target,15.0,Left Foot,,Thiago Alcántara,Pass (Live),Naby Keïta,Pass (Live)
+10,26.0,Matheus Nunes,Wolves,0.17,0.07,Saved,20.0,Right Foot,,Craig Dawson,Pass (Live),,
+11,27.0,Darwin Núñez,Liverpool,0.04,,Off Target,12.0,Head,,Andrew Robertson,Pass (Live),Thiago Alcántara,Pass (Live)
+12,27.0,Trent Alexander-Arnold,Liverpool,0.04,,Off Target,16.0,Right Foot,,Darwin Núñez,Shot,,
+13,29.0,Craig Dawson,Wolves,0.12,,Off Target,9.0,Head,,Rúben Neves,Pass (Live),Pablo Sarabia,Pass (Dead)
+14,31.0,Matheus Cunha,Wolves,0.04,0.46,Saved,24.0,Right Foot,,Hwang Hee-chan,Pass (Live),Nélson Semedo,Pass (Live)
+15,,,,,,,,,,,,,
+16,50.0,Andrew Robertson,Liverpool,0.04,,Blocked,23.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Joël Matip,Pass (Live)
+17,50.0,Naby Keïta,Liverpool,0.08,,Blocked,21.0,Right Foot,Volley,Andrew Robertson,Shot,,
+18,51.0,Naby Keïta,Liverpool,0.17,,Off Target,15.0,Right Foot,,Darwin Núñez,Pass (Live),Andrew Robertson,Pass (Live)
+19,51.0,Andrew Robertson,Liverpool,0.35,,Blocked,4.0,Left Foot,Volley,Andrew Robertson,Shot,,
+20,51.0,Andrew Robertson,Liverpool,0.28,,Blocked,8.0,Right Foot,,Naby Keïta,Shot,,
+21,53.0,Cody Gakpo,Liverpool,0.03,,Blocked,18.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Naby Keïta,Pass (Live)
+22,57.0,Darwin Núñez,Liverpool,0.02,,Blocked,25.0,Right Foot,,Cody Gakpo,Pass (Live),Andrew Robertson,Pass (Live)
+23,58.0,Andrew Robertson,Liverpool,0.02,,Blocked,20.0,Left Foot,,Thiago Alcántara,Pass (Live),Stefan Bajcetic,Pass (Dead)
+24,62.0,Mohamed Salah,Liverpool,0.11,,Off Target,16.0,Left Foot,,Cody Gakpo,Pass (Live),Cody Gakpo,Take-On
+25,63.0,Raúl Jiménez,Wolves,0.01,,Off Target,30.0,Right Foot,Volley,Matheus Nunes,Pass (Live),Raúl Jiménez,Pass (Live)
+26,66.0,Adama Traoré,Wolves,0.05,,Blocked,13.0,Left Foot,,Raúl Jiménez,Pass (Live),,
+27,67.0,Darwin Núñez,Liverpool,0.5,0.49,Saved,11.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Jordan Henderson,Pass (Live)
+28,69.0,Trent Alexander-Arnold,Liverpool,0.04,,Blocked,31.0,Right Foot,Free kick,Stefan Bajcetic,Fouled,Trent Alexander-Arnold,Pass (Live)
+29,69.0,Trent Alexander-Arnold,Liverpool,0.02,,Off Target,30.0,Right Foot,Volley,Trent Alexander-Arnold,Shot,,
+30,71.0,Rúben Neves,Wolves,0.65,0.97,Goal,8.0,Left Foot,,Adama Traoré,Pass (Live),João Moutinho,Pass (Live)
+31,78.0,Raúl Jiménez,Wolves,0.05,,Off Target,35.0,Right Foot,Volley,Max Kilman,Pass (Live),,
+32,85.0,Harvey Elliott,Liverpool,0.02,,Blocked,29.0,Left Foot,,Joël Matip,Pass (Live),Jordan Henderson,Pass (Live)
+33,88.0,Raúl Jiménez,Wolves,0.51,,Off Target,14.0,Right Foot,,Adama Traoré,Pass (Live),,
+34,90.0,Alex Oxlade-Chamberlain,Liverpool,0.02,,Blocked,33.0,Right Foot,,Kostas Tsimikas,Pass (Live),Jordan Henderson,Pass (Live)

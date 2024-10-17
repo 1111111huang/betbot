@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,Phil Foden,Manchester City,0.03,,Off Target,15.0,Head,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+1,29.0,João Cancelo,Manchester City,0.07,,Off Target,11.0,Left Foot,,Phil Foden,Pass (Live),John Stones,Pass (Live)
+2,32.0,Raheem Sterling,Manchester City,0.2,,Off Target,9.0,Right Foot,Volley,Phil Foden,Pass (Live),John Stones,Pass (Live)
+3,35.0,Aymeric Laporte,Manchester City,0.04,,Off Target,14.0,Right Foot,,Rúben Dias,Pass (Live),Kevin De Bruyne,Pass (Dead)
+4,37.0,Mathias Jensen,Brentford,0.02,,Blocked,28.0,Right Foot,,,,,
+5,38.0,Frank Onyeka,Brentford,0.02,0.1,Saved,14.0,Head,,Mathias Jensen,Shot,,
+6,40.0,Riyad Mahrez (pen),Manchester City,0.79,1.0,Goal,13.0,Left Foot,,Raheem Sterling,Fouled,,
+7,42.0,Frank Onyeka,Brentford,0.04,,Off Target,30.0,Right Foot,Volley,Mathias Jensen,Pass (Live),Saman Ghoddos,Pass (Live)
+8,43.0,Rico Henry,Brentford,0.16,,Off Target,11.0,Left Foot,,Saman Ghoddos,Pass (Live),Rico Henry,Pass (Live)
+9,,,,,,,,,,,,,
+10,50.0,João Cancelo,Manchester City,0.02,,Off Target,31.0,Right Foot,,Phil Foden,Pass (Live),Riyad Mahrez,Pass (Dead)
+11,55.0,João Cancelo,Manchester City,0.08,0.04,Saved,11.0,Right Foot,,João Cancelo,Take-On,João Cancelo,Take-On
+12,57.0,Bernardo Silva,Manchester City,0.02,0.22,Saved,31.0,Left Foot,,Phil Foden,Pass (Live),Rodri,Pass (Live)
+13,61.0,Frank Onyeka,Brentford,0.1,0.1,Saved,12.0,Right Foot,,Mads Roerslev,Pass (Live),Mathias Jensen,Pass (Live)
+14,65.0,João Cancelo,Manchester City,0.05,0.07,Saved,18.0,Right Foot,,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+15,69.0,Raheem Sterling,Manchester City,0.41,0.25,Saved,18.0,Right Foot,,,,,
+16,69.0,Kevin De Bruyne,Manchester City,0.09,0.16,Goal,18.0,Right Foot,,Raheem Sterling,Shot,,
+17,76.0,João Cancelo,Manchester City,0.03,,Blocked,26.0,Right Foot,,Rodri,Pass (Live),Raheem Sterling,Pass (Live)
+18,77.0,Rodri,Manchester City,0.01,,Off Target,17.0,Head,,Kevin De Bruyne,Pass (Dead),João Cancelo,Shot
+19,80.0,João Cancelo,Manchester City,0.05,,Blocked,15.0,Right Foot,,Kevin De Bruyne,Pass (Live),Raheem Sterling,Pass (Live)
+20,80.0,Rodri,Manchester City,0.02,0.24,Saved,30.0,Right Foot,,João Cancelo,Shot,,
+21,82.0,Yoane Wissa,Brentford,0.04,,Blocked,15.0,Right Foot,,Christian Nørgaard,Pass (Live),Mathias Jensen,Pass (Dead)

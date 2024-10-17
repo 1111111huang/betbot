@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Jack Harrison,Leeds United,0.35,,Off Target,10.0,Left Foot,,Mateusz Klich,Pass (Live),,
+1,10,Paul Pogba,Manchester Utd,0.02,0.04,Saved,23.0,Right Foot,,Paul Pogba,Take-On,Victor Lindelöf,Pass (Live)
+2,22,Adam Forshaw,Leeds United,0.05,0.23,Saved,15.0,Right Foot,,Adam Forshaw,Take-On,Adam Forshaw,Pass (Live)
+3,24,Paul Pogba,Manchester Utd,0.05,,Off Target,20.0,Right Foot,Volley,Scott McTominay,Pass (Live),Victor Lindelöf,Pass (Live)
+4,26,Cristiano Ronaldo,Manchester Utd,0.67,0.91,Saved,4.0,Left Foot,,Paul Pogba,Pass (Live),Paul Pogba,Take-On
+5,32,Bruno Fernandes,Manchester Utd,0.02,,Blocked,22.0,Right Foot,,Cristiano Ronaldo,Pass (Live),Paul Pogba,Pass (Live)
+6,33,Bruno Fernandes,Manchester Utd,0.06,0.24,Saved,22.0,Right Foot,,Paul Pogba,Pass (Live),Paul Pogba,Take-On
+7,34,Harry Maguire,Manchester Utd,0.11,0.08,Goal,9.0,Head,,Luke Shaw,Pass (Dead),Bruno Fernandes,Shot
+8,38,Cristiano Ronaldo,Manchester Utd,0.03,,Blocked,13.0,Left Foot,,Luke Shaw,Pass (Live),Luke Shaw,Interception
+9,39,Jadon Sancho,Manchester Utd,0.07,,Off Target,12.0,Left Foot,,Cristiano Ronaldo,Shot,,
+10,41,Adam Forshaw,Leeds United,0.03,,Off Target,18.0,Left Foot,,Mateusz Klich,Pass (Live),Junior Firpo,Pass (Live)
+11,45,Mateusz Klich,Leeds United,0.02,,Blocked,25.0,Right Foot,,Rodrigo,Pass (Live),Junior Firpo,Pass (Live)
+12,45+3,Mateusz Klich,Leeds United,0.02,,Off Target,32.0,Right Foot,,Junior Firpo,Pass (Live),Pascal Struijk,Pass (Live)
+13,45+5,Bruno Fernandes,Manchester Utd,0.37,0.2,Goal,7.0,Head,,Jadon Sancho,Pass (Live),Victor Lindelöf,Pass (Live)
+14,45+7,Mateusz Klich,Leeds United,0.1,,Blocked,17.0,Right Foot,,Mateusz Klich,Take-On,Daniel James,Pass (Live)
+15,,,,,,,,,,,,,
+16,46,Mateusz Klich,Leeds United,0.04,,Blocked,27.0,Right Foot,,Joe Gelhardt,Pass (Live),Rodrigo,Tackle
+17,47,Jadon Sancho,Manchester Utd,0.04,0.05,Saved,14.0,Right Foot,,Jesse Lingard,Pass (Live),Cristiano Ronaldo,Pass (Live)
+18,52,Mateusz Klich,Leeds United,0.02,,Off Target,17.0,Right Foot,,Joe Gelhardt,Pass (Live),Raphinha,Pass (Live)
+19,53,Rodrigo,Leeds United,0.04,0.71,Goal,28.0,Left Foot,,Junior Firpo,Pass (Live),Junior Firpo,Take-On
+20,54,Raphinha,Leeds United,0.65,0.89,Goal,4.0,Left Foot,,Daniel James,Pass (Live),,
+21,61,Joe Gelhardt,Leeds United,0.14,0.12,Saved,15.0,Left Foot,,Adam Forshaw,Pass (Live),Pascal Struijk,Pass (Live)
+22,65,Jadon Sancho,Manchester Utd,0.07,,Blocked,11.0,Left Foot,,Cristiano Ronaldo,Pass (Live),Victor Lindelöf,Pass (Live)
+23,69,Joe Gelhardt,Leeds United,0.08,,Off Target,10.0,Other,,Junior Firpo,Pass (Live),Joe Gelhardt,Pass (Live)
+24,70,Fred,Manchester Utd,0.07,0.15,Goal,12.0,Left Foot,,Jadon Sancho,Pass (Live),Fred,Pass (Live)
+25,72,Anthony Elanga,Manchester Utd,0.23,0.1,Saved,14.0,Left Foot,,Jadon Sancho,Pass (Live),Jadon Sancho,Take-On
+26,74,Mateusz Klich,Leeds United,0.14,0.19,Saved,17.0,Left Foot,,Junior Firpo,Pass (Live),Daniel James,Pass (Live)
+27,76,Joe Gelhardt,Leeds United,0.08,,Blocked,17.0,Left Foot,,Rodrigo,Pass (Live),Adam Forshaw,Pass (Live)
+28,82,Mateusz Klich,Leeds United,0.01,0.06,Saved,25.0,Right Foot,Volley,Junior Firpo,Fouled,Rodrigo,Pass (Live)
+29,84,Rodrigo,Leeds United,0.02,,Off Target,32.0,Left Foot,,Raphinha,Pass (Live),Adam Forshaw,Pass (Live)
+30,88,Aaron Wan-Bissaka,Manchester Utd,0.07,,Blocked,17.0,Right Foot,,Bruno Fernandes,Pass (Live),Jadon Sancho,Pass (Live)
+31,88,Anthony Elanga,Manchester Utd,0.31,0.19,Goal,14.0,Right Foot,,Bruno Fernandes,Pass (Live),Bruno Fernandes,Take-On

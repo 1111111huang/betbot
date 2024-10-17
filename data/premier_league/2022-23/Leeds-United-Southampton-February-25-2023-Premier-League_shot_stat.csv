@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Kamaldeen Sulemana,Southampton,0.03,,Off Target,19.0,Left Foot,Volley,Mohamed Elyounoussi,Pass (Live),Paul Onuachu,Pass (Live)
+1,8,Wilfried Gnonto,Leeds United,0.03,,Blocked,23.0,Right Foot,,Brenden Aaronson,Pass (Live),Brenden Aaronson,Take-On
+2,15,Stuart Armstrong,Southampton,0.02,,Blocked,24.0,Left Foot,,Mohamed Elyounoussi,Pass (Live),,
+3,19,Luke Ayling,Leeds United,0.07,,Off Target,12.0,Right Foot,,Wilfried Gnonto,Pass (Live),Junior Firpo,Pass (Live)
+4,20,Stuart Armstrong,Southampton,0.05,,Off Target,15.0,Right Foot,,James Ward-Prowse,Pass (Live),Kamaldeen Sulemana,Pass (Live)
+5,22,Brenden Aaronson,Leeds United,0.09,,Off Target,21.0,Right Foot,,Weston McKennie,Pass (Live),Tyler Adams,Pass (Live)
+6,25,Brenden Aaronson,Leeds United,0.08,,Blocked,10.0,Head,,Patrick Bamford,Pass (Live),Junior Firpo,Pass (Live)
+7,35,Patrick Bamford,Leeds United,0.08,0.06,Saved,12.0,Right Foot,Volley,Junior Firpo,Pass (Live),Tyler Adams,Pass (Live)
+8,36,Jack Harrison,Leeds United,0.05,,Off Target,25.0,Left Foot,,Brenden Aaronson,Pass (Live),Luke Ayling,Pass (Live)
+9,39,Paul Onuachu,Southampton,0.05,0.34,Saved,29.0,Right Foot,,Kamaldeen Sulemana,Pass (Live),Kamaldeen Sulemana,Take-On
+10,44,Weston McKennie,Leeds United,0.07,,Off Target,17.0,Right Foot,Volley,Wilfried Gnonto,Pass (Dead),,
+11,,,,,,,,,,,,,
+12,47,Patrick Bamford,Leeds United,0.04,0.02,Saved,18.0,Left Foot,,Maximilian Wöber,Pass (Live),Illan Meslier,Pass (Live)
+13,56,Paul Onuachu,Southampton,0.03,,Blocked,12.0,Right Foot,Volley,Kamaldeen Sulemana,Pass (Live),James Ward-Prowse,Pass (Live)
+14,58,Wilfried Gnonto,Leeds United,0.03,,Blocked,23.0,Right Foot,,Weston McKennie,Pass (Live),Robin Koch,Pass (Dead)
+15,66,James Ward-Prowse,Southampton,0.04,0.07,Saved,30.0,Right Foot,,Mohamed Elyounoussi,Pass (Live),Ibrahima Diallo,Pass (Live)
+16,68,Theo Walcott,Southampton,0.04,,Blocked,13.0,Right Foot,,Ibrahima Diallo,Pass (Live),Roméo Lavia,Pass (Live)
+17,72,Crysencio Summerville,Leeds United,0.15,,Blocked,13.0,Left Foot,,Weston McKennie,Pass (Live),Jack Harrison,Pass (Live)
+18,77,Junior Firpo,Leeds United,0.07,0.03,Goal,11.0,Right Foot,,Jack Harrison,Pass (Live),Crysencio Summerville,Pass (Live)
+19,81,Maximilian Wöber,Leeds United,0.03,0.07,Saved,10.0,Head,,Jack Harrison,Pass (Dead),Jack Harrison,Pass (Live)
+20,89,Marc Roca,Leeds United,0.03,,Off Target,22.0,Left Foot,,,,,
+21,90,Armel Bella Kotchap,Southampton,0.12,,Off Target,9.0,Head,,James Ward-Prowse,Pass (Dead),Sekou Mara,Take-On
+22,90+5,Crysencio Summerville,Leeds United,0.08,,Off Target,11.0,Right Foot,,Georginio Rutter,Pass (Live),Weston McKennie,Pass (Live)

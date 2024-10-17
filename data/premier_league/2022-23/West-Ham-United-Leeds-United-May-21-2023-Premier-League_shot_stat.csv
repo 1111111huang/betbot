@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Jack Harrison,Leeds United,0.06,0.14,Saved,15.0,Right Foot,Volley,Weston McKennie,Pass (Live),Adam Forshaw,Pass (Live)
+1,9,Lucas Paquetá,West Ham,0.05,,Blocked,21.0,Left Foot,,Vladimír Coufal,Pass (Live),Jarrod Bowen,Pass (Live)
+2,17,Rodrigo,Leeds United,0.1,0.39,Goal,11.0,Left Foot,Volley,Weston McKennie,Pass (Dead),,
+3,24,Declan Rice,West Ham,0.02,,Off Target,29.0,Right Foot,,Pablo Fornals,Pass (Live),Lucas Paquetá,Pass (Live)
+4,27,Declan Rice,West Ham,0.03,,Blocked,23.0,Right Foot,,,,,
+5,28,Tomáš Souček,West Ham,0.2,0.38,Saved,4.0,Left Foot,,Danny Ings,Pass (Live),Lucas Paquetá,Pass (Live)
+6,31,Pablo Fornals,West Ham,0.03,,Blocked,22.0,Right Foot,,Lucas Paquetá,Pass (Live),,
+7,32,Declan Rice,West Ham,0.23,0.65,Goal,5.0,Right Foot,Volley,Jarrod Bowen,Pass (Live),Pablo Fornals,Pass (Live)
+8,35,Pablo Fornals,West Ham,0.06,,Off Target,16.0,Left Foot,,Lucas Paquetá,Pass (Live),Danny Ings,Pass (Live)
+9,40,Emerson Palmieri,West Ham,0.04,0.1,Saved,12.0,Left Foot,,Pablo Fornals,Pass (Live),Declan Rice,Pass (Live)
+10,45+1,Robin Koch,Leeds United,0.04,,Off Target,9.0,Head,,Pascal Struijk,Pass (Live),Adam Forshaw,Pass (Live)
+11,45+3,Robin Koch,Leeds United,0.05,0.23,Saved,10.0,Head,,Adam Forshaw,Pass (Dead),Wilfried Gnonto,Pass (Live)
+12,45+3,Jack Harrison,Leeds United,0.1,,Off Target,21.0,Left Foot,,Rodrigo,Pass (Live),Rodrigo,Tackle
+13,45+4,Lucas Paquetá,West Ham,0.05,,Off Target,20.0,Left Foot,Volley,Pablo Fornals,Pass (Live),,
+14,,,,,,,,,,,,,
+15,51,Lucas Paquetá,West Ham,0.02,0.12,Saved,31.0,Left Foot,,Pablo Fornals,Pass (Live),Vladimír Coufal,Fouled
+16,58,Weston McKennie,Leeds United,0.04,,Off Target,11.0,Head,,Jack Harrison,Pass (Live),Maximilian Wöber,Pass (Live)
+17,59,Danny Ings,West Ham,0.08,,Blocked,10.0,Right Foot,,Pablo Fornals,Pass (Live),Danny Ings,Pass (Live)
+18,59,Jarrod Bowen,West Ham,0.04,0.08,Saved,14.0,Left Foot,,Lucas Paquetá,Pass (Live),Emerson Palmieri,Pass (Dead)
+19,61,Tomáš Souček,West Ham,0.15,0.57,Saved,7.0,Head,,Jarrod Bowen,Pass (Dead),Declan Rice,Pass (Live)
+20,65,Thilo Kehrer,West Ham,0.06,,Blocked,10.0,Head,,Jarrod Bowen,Pass (Dead),,
+21,65,Danny Ings,West Ham,0.04,,Blocked,16.0,Right Foot,,Jarrod Bowen,Pass (Live),Vladimír Coufal,Pass (Live)
+22,72,Jarrod Bowen,West Ham,0.39,0.98,Goal,6.0,Left Foot,,Danny Ings,Pass (Live),Lucas Paquetá,Pass (Live)
+23,76,Robin Koch,Leeds United,0.06,,Off Target,23.0,Right Foot,,Weston McKennie,Pass (Live),Robin Koch,Pass (Live)
+24,83,Danny Ings,West Ham,0.03,,Off Target,14.0,Head,,Emerson Palmieri,Pass (Dead),Emerson Palmieri,Fouled
+25,85,Crysencio Summerville,Leeds United,0.15,,Blocked,12.0,Right Foot,,Marc Roca,Pass (Live),Rodrigo,Pass (Live)
+26,85,Brenden Aaronson,Leeds United,0.2,,Off Target,14.0,Right Foot,,Crysencio Summerville,Shot,,
+27,87,Rodrigo,Leeds United,0.03,,Blocked,14.0,Left Foot,,Wilfried Gnonto,Pass (Live),Sam Greenwood,Pass (Dead)
+28,90,Crysencio Summerville,Leeds United,0.03,,Blocked,16.0,Left Foot,,Sam Greenwood,Pass (Dead),Rasmus Kristensen,Pass (Live)
+29,90+4,Manuel Lanzini,West Ham,0.48,0.61,Goal,7.0,Left Foot,,Lucas Paquetá,Pass (Live),Lucas Paquetá,Take-On
+30,90+8,Lucas Paquetá,West Ham,0.16,0.53,Saved,9.0,Left Foot,Volley,Manuel Lanzini,Pass (Live),Lucas Paquetá,Pass (Live)
+31,90+9,Crysencio Summerville,Leeds United,0.03,,Off Target,30.0,Right Foot,,Crysencio Summerville,Fouled,Crysencio Summerville,Take-On

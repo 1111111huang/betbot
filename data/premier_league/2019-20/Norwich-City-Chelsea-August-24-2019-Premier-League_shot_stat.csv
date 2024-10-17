@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Tammy Abraham,Chelsea,0.07,0.15,Goal,14.0,Right Foot,,César Azpilicueta,Pass (Live),Christian Pulisic,Pass (Live)
+1,6,Todd Cantwell,Norwich City,0.71,0.93,Goal,4.0,Right Foot,,Teemu Pukki,Pass (Live),Todd Cantwell,Pass (Live)
+2,7,Mason Mount,Chelsea,0.04,0.07,Saved,29.0,Right Foot,,Mason Mount,Take-On,Tammy Abraham,Pass (Live)
+3,17,Mason Mount,Chelsea,0.27,0.53,Goal,15.0,Right Foot,,Christian Pulisic,Pass (Live),Jorginho,Pass (Live)
+4,22,Emerson Palmieri,Chelsea,0.03,,Blocked,28.0,Left Foot,,Ross Barkley,Pass (Live),Jorginho,Pass (Live)
+5,24,Mason Mount,Chelsea,0.06,,Blocked,17.0,Right Foot,,Jorginho,Pass (Live),Ross Barkley,Pass (Live)
+6,24,Tammy Abraham,Chelsea,0.08,,Blocked,13.0,Right Foot,,Mason Mount,Shot,,
+7,25,Andreas Christensen,Chelsea,0.07,0.05,Saved,10.0,Head,,Emerson Palmieri,Pass (Live),Ross Barkley,Pass (Live)
+8,31,Teemu Pukki,Norwich City,0.08,0.16,Goal,10.0,Right Foot,,Emi Buendía,Pass (Live),Todd Cantwell,Pass (Live)
+9,34,Emi Buendía,Norwich City,0.02,0.03,Saved,25.0,Right Foot,,Moritz Leitner,Pass (Dead),Emi Buendía,Fouled
+10,34,Grant Hanley,Norwich City,0.1,0.19,Saved,13.0,Right Foot,,Emi Buendía,Shot,,
+11,39,Ross Barkley,Chelsea,0.04,,Blocked,27.0,Right Foot,,Ross Barkley,Take-On,Mateo Kovačić,Pass (Live)
+12,44,Christian Pulisic,Chelsea,0.09,,Blocked,13.0,Right Foot,,Ross Barkley,Pass (Live),Emerson Palmieri,Pass (Live)
+13,45+2,Ross Barkley,Chelsea,0.07,,Off Target,22.0,Right Foot,,Christian Pulisic,Pass (Live),Emerson Palmieri,Pass (Live)
+14,,,,,,,,,,,,,
+15,46,Mason Mount,Chelsea,0.03,,Off Target,27.0,Right Foot,,Ross Barkley,Pass (Live),Ross Barkley,Interception
+16,47,Christian Pulisic,Chelsea,0.05,,Off Target,13.0,Right Foot,,Jorginho,Pass (Live),Jorginho,Tackle
+17,49,Jorginho,Chelsea,0.03,,Blocked,26.0,Right Foot,Volley,Mateo Kovačić,Take-On,Andreas Christensen,Pass (Live)
+18,49,César Azpilicueta,Chelsea,0.12,,Off Target,5.0,Head,,Mason Mount,Pass (Dead),Jorginho,Shot
+19,51,Mateo Kovačić,Chelsea,0.07,,Blocked,17.0,Right Foot,,Ross Barkley,Pass (Live),Mason Mount,Pass (Live)
+20,58,César Azpilicueta,Chelsea,0.05,,Blocked,23.0,Right Foot,,Ross Barkley,Pass (Live),Ross Barkley,Take-On
+21,59,Mason Mount,Chelsea,0.03,,Blocked,26.0,Right Foot,,Emerson Palmieri,Pass (Live),Christian Pulisic,Pass (Live)
+22,61,Emerson Palmieri,Chelsea,0.06,0.05,Saved,11.0,Left Foot,,Mason Mount,Pass (Live),Christian Pulisic,Pass (Live)
+23,66,Ross Barkley,Chelsea,0.03,0.03,Saved,29.0,Right Foot,,Emerson Palmieri,Pass (Live),Mason Mount,Pass (Live)
+24,68,Teemu Pukki,Norwich City,0.04,0.04,Saved,17.0,Right Foot,,Emi Buendía,Pass (Live),Jamal Lewis,Pass (Live)
+25,68,Tammy Abraham,Chelsea,0.07,0.16,Goal,23.0,Right Foot,,Mateo Kovačić,Pass (Live),Ross Barkley,Pass (Live)
+26,72,Ben Godfrey,Norwich City,0.11,,Woodwork,8.0,Head,,Emi Buendía,Pass (Dead),Moritz Leitner,Pass (Live)
+27,78,Ross Barkley,Chelsea,0.07,,Blocked,16.0,Right Foot,,Christian Pulisic,Pass (Live),Mateo Kovačić,Pass (Live)
+28,90+2,Ross Barkley,Chelsea,0.04,0.28,Saved,20.0,Left Foot,,Olivier Giroud,Pass (Live),Jorginho,Pass (Live)
+29,90+4,Willian,Chelsea,0.05,,Off Target,13.0,Right Foot,,Emerson Palmieri,Pass (Live),Willian,Pass (Live)

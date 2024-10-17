@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Gerard Deulofeu,Watford,0.36,0.8,Goal,16.0,Left Foot,,Gerard Deulofeu,Take-On,Gerard Deulofeu,Tackle
+1,4,Daryl Janmaat,Watford,0.13,,Off Target,4.0,Head,,José Holebas,Pass (Dead),Gerard Deulofeu,Take-On
+2,11,José Holebas,Watford,0.02,,Blocked,29.0,Left Foot,,Roberto Pereyra,Pass (Live),Daryl Janmaat,Pass (Live)
+3,12,Gerard Deulofeu,Watford,0.08,,Off Target,13.0,Right Foot,,Will Hughes,Pass (Live),Daryl Janmaat,Pass (Live)
+4,19,Alexander Tettey,Norwich City,0.09,,Off Target,9.0,Right Foot,,Marco Stiepermann,Fouled,Kenny McLean,Pass (Live)
+5,21,Teemu Pukki,Norwich City,0.04,,Blocked,23.0,Right Foot,,Onel Hernández,Take-On,Marco Stiepermann,Pass (Live)
+6,23,Will Hughes,Watford,0.05,,Off Target,18.0,Left Foot,,,,,
+7,24,Ben Godfrey,Norwich City,0.03,,Off Target,32.0,Right Foot,,Marco Stiepermann,Pass (Live),,
+8,24,Onel Hernández,Norwich City,0.06,,Off Target,15.0,Right Foot,,Teemu Pukki,Pass (Live),Alexander Tettey,Pass (Live)
+9,26,Abdoulaye Doucouré,Watford,0.08,,Blocked,14.0,Left Foot,,Abdoulaye Doucouré,Take-On,,
+10,31,Gerard Deulofeu,Watford,0.03,,Off Target,29.0,Right Foot,,Andre Gray,Pass (Live),Ben Foster,Pass (Dead)
+11,33,Andre Gray,Watford,0.1,,Blocked,10.0,Right Foot,,Will Hughes,Pass (Live),José Holebas,Pass (Live)
+12,35,Kenny McLean,Norwich City,0.05,0.03,Saved,10.0,Head,,Onel Hernández,Pass (Live),Onel Hernández,Take-On
+13,36,Étienne Capoue,Watford,0.05,,Off Target,26.0,Right Foot,,José Holebas,Pass (Live),Étienne Capoue,Pass (Live)
+14,38,Emi Buendía,Norwich City,0.1,,Off Target,15.0,Left Foot,,Teemu Pukki,Pass (Live),Teemu Pukki,Take-On
+15,45+1,Teemu Pukki,Norwich City,0.02,0.04,Saved,23.0,Right Foot,Deflected,,,,
+16,45+3,Teemu Pukki,Norwich City,0.06,0.05,Saved,15.0,Right Foot,Volley,Kenny McLean,Pass (Live),Alexander Tettey,Pass (Live)
+17,,,,,,,,,,,,,
+18,47,Abdoulaye Doucouré,Watford,0.03,,Blocked,24.0,Left Foot,,,,,
+19,52,Andre Gray,Watford,0.1,0.39,Goal,11.0,Right Foot,"Deflected, Volley",Gerard Deulofeu,Take-On,Will Hughes,Pass (Live)
+20,59,Teemu Pukki,Norwich City,0.04,,Off Target,18.0,Right Foot,Volley,Emi Buendía,Tackle,,
+21,63,Jamal Lewis,Norwich City,0.03,0.13,Saved,25.0,Left Foot,,Kenny McLean,Pass (Live),Todd Cantwell,Pass (Live)
+22,71,Kenny McLean,Norwich City,0.03,0.09,Saved,29.0,Left Foot,,Teemu Pukki,Pass (Live),Onel Hernández,Pass (Dead)
+23,74,Max Aarons,Norwich City,0.01,,Blocked,31.0,Right Foot,,Teemu Pukki,Pass (Live),Todd Cantwell,Pass (Dead)
+24,76,Jamal Lewis,Norwich City,0.02,,Off Target,22.0,Left Foot,,Todd Cantwell,Pass (Live),Onel Hernández,Pass (Dead)
+25,83,Andre Gray,Watford,0.23,,Off Target,28.0,Right Foot,,Will Hughes,Pass (Live),Abdoulaye Doucouré,Tackle
+26,84,Tom Trybull,Norwich City,0.02,,Blocked,32.0,Right Foot,,Teemu Pukki,Pass (Live),Ben Godfrey,Pass (Live)
+27,84,Tom Trybull,Norwich City,0.03,,Blocked,30.0,Right Foot,,Tom Trybull,Shot,,
+28,86,Mario Vrančić,Norwich City,0.07,,Blocked,25.0,Left Foot,Free kick,Max Aarons,Fouled,Todd Cantwell,Pass (Live)
+29,90+2,Ben Godfrey,Norwich City,0.03,,Off Target,26.0,Right Foot,,Mario Vrančić,Pass (Live),,

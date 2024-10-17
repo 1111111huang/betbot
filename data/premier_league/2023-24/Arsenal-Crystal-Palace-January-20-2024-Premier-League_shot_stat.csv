@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Joachim Andersen,Crystal Palace,0.01,,Off Target,14.0,Head,,Eberechi Eze,Pass (Dead),Marc Guéhi,Fouled
+1,7,Gabriel Jesus,Arsenal,0.08,,Off Target,12.0,Left Foot,,Kai Havertz,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+2,11,Gabriel Magalhães,Arsenal,0.15,0.39,Goal,6.0,Head,,Declan Rice,Pass (Dead),Oleksandr Zinchenko,Pass (Live)
+3,22,Gabriel Magalhães,Arsenal,0.08,,Off Target,7.0,Head,,Bukayo Saka,Pass (Dead),Ben White,Pass (Live)
+4,27,Leandro Trossard,Arsenal,0.01,,Blocked,32.0,Right Foot,,Martin Ødegaard,Pass (Live),Kai Havertz,Pass (Live)
+5,31,Eberechi Eze,Crystal Palace,0.05,,Blocked,30.0,Right Foot,Free kick,Eberechi Eze,Fouled,Jeffrey Schlupp,Pass (Live)
+6,32,Nathaniel Clyne,Crystal Palace,0.01,,Off Target,28.0,Right Foot,,Eberechi Eze,Shot,,
+7,33,Jefferson Lerma,Crystal Palace,0.01,0.25,Saved,29.0,Right Foot,,,,,
+8,37,Gabriel Magalhães,Arsenal,0.8,0.78,Goal,1.0,Head,,Bukayo Saka,Pass (Dead),,
+9,39,Gabriel Jesus,Arsenal,0.02,,Blocked,16.0,Right Foot,,Ben White,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+10,41,Oleksandr Zinchenko,Arsenal,0.02,,Off Target,14.0,Left Foot,Volley,Bukayo Saka,Pass (Dead),Gabriel Jesus,Fouled
+11,41,Jeffrey Schlupp,Crystal Palace,0.02,0.05,Saved,33.0,Left Foot,,Nathaniel Clyne,Pass (Live),,
+12,45+1,Jefferson Lerma,Crystal Palace,0.02,0.04,Saved,29.0,Right Foot,,Eberechi Eze,Pass (Live),Will Hughes,Pass (Live)
+13,45+2,Leandro Trossard,Arsenal,0.18,,Off Target,7.0,Left Foot,,Gabriel Jesus,Pass (Live),Kai Havertz,Pass (Live)
+14,,,,,,,,,,,,,
+15,47,Declan Rice,Arsenal,0.04,0.12,Saved,26.0,Right Foot,,Bukayo Saka,Pass (Live),,
+16,48,Leandro Trossard,Arsenal,0.04,,Blocked,26.0,Right Foot,,Gabriel Jesus,Pass (Live),,
+17,49,Eberechi Eze,Crystal Palace,0.02,0.21,Saved,33.0,Right Foot,,Will Hughes,Pass (Live),Joachim Andersen,Pass (Live)
+18,50,Leandro Trossard,Arsenal,0.2,,Off Target,13.0,Right Foot,,Gabriel Jesus,Pass (Live),Kai Havertz,Pass (Live)
+19,57,Gabriel Jesus,Arsenal,0.03,,Blocked,14.0,Right Foot,,Martin Ødegaard,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+20,58,Bukayo Saka,Arsenal,0.05,,Blocked,22.0,Left Foot,,Oleksandr Zinchenko,Pass (Live),Gabriel Jesus,Pass (Live)
+21,58,Ben White,Arsenal,0.04,,Blocked,22.0,Left Foot,,,,,
+22,59,Leandro Trossard,Arsenal,0.66,0.98,Goal,14.0,Right Foot,,Leandro Trossard,Take-On,Gabriel Jesus,Pass (Live)
+23,63,Eberechi Eze,Crystal Palace,0.03,,Blocked,23.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Jean-Philippe Mateta,Pass (Live)
+24,64,Eberechi Eze,Crystal Palace,0.05,0.08,Saved,26.0,Right Foot,Free kick,Eberechi Eze,Fouled,Eberechi Eze,Shot
+25,65,Will Hughes,Crystal Palace,0.02,,Off Target,21.0,Left Foot,Volley,Eberechi Eze,Pass (Dead),Eberechi Eze,Shot
+26,66,Jeffrey Schlupp,Crystal Palace,0.05,,Off Target,18.0,Right Foot,,Will Hughes,Pass (Live),Eberechi Eze,Pass (Dead)
+27,75,Bukayo Saka,Arsenal,0.03,,Off Target,27.0,Left Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+28,77,Jorginho,Arsenal,0.01,,Off Target,32.0,Right Foot,,Martin Ødegaard,Fouled,,
+29,79,Martin Ødegaard,Arsenal,0.06,,Blocked,21.0,Left Foot,Deflected,Bukayo Saka,Pass (Live),Gabriel Martinelli,Tackle
+30,89,Oleksandr Zinchenko,Arsenal,0.04,0.03,Saved,16.0,Left Foot,,Jakub Kiwior,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+31,90+1,Chris Richards,Crystal Palace,0.06,,Off Target,8.0,Head,,Eberechi Eze,Pass (Dead),,
+32,90+4,Gabriel Martinelli,Arsenal,0.21,0.94,Goal,12.0,Right Foot,,Eddie Nketiah,Pass (Live),Bukayo Saka,Pass (Live)
+33,90+5,Gabriel Martinelli,Arsenal,0.53,0.85,Goal,12.0,Right Foot,,Jorginho,Pass (Live),William Saliba,Pass (Live)

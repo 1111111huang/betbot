@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Dominic Solanke,Bournemouth,0.06,,Off Target,11.0,Head,,Antoine Semenyo,Pass (Live),Adam Smith,Pass (Live)
+1,9,Ryan Christie,Bournemouth,0.09,,Blocked,13.0,Left Foot,,Ryan Christie,Take-On,,
+2,9,Tahith Chong,Luton Town,0.56,0.71,Goal,5.0,Head,,Jordan Clark,Pass (Live),Issa Kaboré,Pass (Live)
+3,13,Carlton Morris,Luton Town,0.22,,Blocked,6.0,Head,,Issa Kaboré,Pass (Live),Ross Barkley,Pass (Live)
+4,16,Luis Sinisterra,Bournemouth,0.22,0.1,Saved,9.0,Left Foot,,Dominic Solanke,Pass (Live),Luis Sinisterra,Pass (Live)
+5,16,Dango Ouattara,Bournemouth,0.06,,Off Target,15.0,Right Foot,,Ryan Christie,Pass (Live),Dango Ouattara,Pass (Live)
+6,24,Luis Sinisterra,Bournemouth,0.08,0.17,Saved,15.0,Right Foot,,Luis Sinisterra,Take-On,Alex Scott,Pass (Live)
+7,27,Ryan Christie,Bournemouth,0.03,,Blocked,17.0,Left Foot,,Ryan Christie,Take-On,Adam Smith,Pass (Live)
+8,31,Chiedozie Ogbene,Luton Town,0.53,0.9,Goal,4.0,Right Foot,,Alfie Doughty,Pass (Live),Tahith Chong,Pass (Live)
+9,34,Luis Sinisterra,Bournemouth,0.08,,Blocked,15.0,Right Foot,Volley,Lewis Cook,Pass (Dead),,
+10,38,Luis Sinisterra,Bournemouth,0.08,,Blocked,5.0,Head,,Lewis Cook,Pass (Live),Adam Smith,Pass (Live)
+11,38,Antoine Semenyo,Bournemouth,0.02,,Blocked,23.0,Left Foot,,Chris Mepham,Pass (Live),Illia Zabarnyi,Pass (Live)
+12,39,Lewis Cook,Bournemouth,0.02,0.03,Saved,29.0,Right Foot,,Alex Scott,Pass (Live),Antoine Semenyo,Shot
+13,40,Antoine Semenyo,Bournemouth,0.03,,Blocked,16.0,Left Foot,,Dominic Solanke,Pass (Live),Ryan Christie,Pass (Live)
+14,45+1,Ross Barkley,Luton Town,0.13,0.77,Goal,13.0,Right Foot,,Issa Kaboré,Pass (Live),Carlton Morris,Pass (Live)
+15,,,,,,,,,,,,,
+16,50,Marcus Tavernier,Bournemouth,0.01,,Blocked,31.0,Left Foot,,Ryan Christie,Pass (Live),Lewis Cook,Pass (Live)
+17,50,Dominic Solanke,Bournemouth,0.35,0.11,Goal,9.0,Right Foot,,Dominic Solanke,Take-On,Chris Mepham,Pass (Live)
+18,52,Antoine Semenyo,Bournemouth,0.08,,Off Target,15.0,Left Foot,,Marcus Tavernier,Pass (Live),Marcus Tavernier,Take-On
+19,54,Carlton Morris,Luton Town,0.05,0.1,Saved,11.0,Head,,Alfie Doughty,Pass (Dead),Carlton Morris,Fouled
+20,61,Dominic Solanke,Bournemouth,0.03,,Off Target,14.0,Head,,Adam Smith,Pass (Live),Antoine Semenyo,Pass (Live)
+21,61,Enes Ünal,Bournemouth,0.04,,Blocked,6.0,Head,,Lewis Cook,Pass (Dead),Enes Ünal,Take-On
+22,62,Illia Zabarnyi,Bournemouth,0.4,0.92,Goal,3.0,Head,,Enes Ünal,Shot,,
+23,64,Antoine Semenyo,Bournemouth,0.06,0.29,Goal,16.0,Left Foot,,Ryan Christie,Pass (Live),Dominic Solanke,Pass (Live)
+24,71,Carlton Morris,Luton Town,0.32,,Off Target,8.0,Other,,Alfie Doughty,Pass (Dead),Tahith Chong,Fouled
+25,71,Ross Barkley,Luton Town,0.24,,Off Target,4.0,Left Foot,,Carlton Morris,Shot,,
+26,76,Ryan Christie,Bournemouth,0.02,,Off Target,24.0,Left Foot,Volley,Antoine Semenyo,Pass (Live),Antoine Semenyo,Pass (Live)
+27,79,Enes Ünal,Bournemouth,0.07,0.11,Saved,21.0,Right Foot,,Dominic Solanke,Pass (Live),Dango Ouattara,Pass (Live)
+28,80,Marcus Tavernier,Bournemouth,0.02,,Blocked,20.0,Left Foot,,Dominic Solanke,Pass (Live),Tyler Adams,Pass (Dead)
+29,83,Antoine Semenyo,Bournemouth,0.21,0.78,Goal,12.0,Right Foot,,Enes Ünal,Pass (Live),Antoine Semenyo,Pass (Live)
+30,88,Reece Burke,Luton Town,0.02,,Off Target,15.0,Head,,Ross Barkley,Pass (Dead),Chiedozie Ogbene,Fouled
+31,90+2,Enes Ünal,Bournemouth,0.08,,Off Target,21.0,Right Foot,,Antoine Semenyo,Pass (Live),,
+32,90+8,Enes Ünal,Bournemouth,0.21,0.33,Saved,12.0,Left Foot,Deflected,Philip Billing,Pass (Live),Marcus Tavernier,Pass (Live)

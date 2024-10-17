@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Jakub Moder,Brighton,0.02,,Blocked,18.0,Right Foot,,Pascal Groß,Pass (Dead),Pascal Groß,Pass (Live)
+1,12,Neal Maupay,Brighton,0.02,,Off Target,33.0,Right Foot,,Lewis Dunk,Pass (Live),Yves Bissouma,Pass (Live)
+2,15,Alexis Mac Allister,Brighton,0.07,,Blocked,21.0,Right Foot,,Neal Maupay,Pass (Live),Alexis Mac Allister,Pass (Live)
+3,16,Shane Duffy,Brighton,0.03,,Off Target,9.0,Other,,Pascal Groß,Pass (Dead),Alexis Mac Allister,Shot
+4,27,Demarai Gray,Everton,0.01,,Blocked,30.0,Right Foot,,Jordan Pickford,Pass (Dead),,
+5,28,Andros Townsend,Everton,0.04,0.27,Saved,23.0,Left Foot,,Demarai Gray,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+6,31,Abdoulaye Doucouré,Everton,0.06,,Off Target,17.0,Right Foot,,Andros Townsend,Pass (Live),,
+7,33,Richarlison,Everton,0.03,,Off Target,24.0,Left Foot,Volley,Dominic Calvert-Lewin,Pass (Live),,
+8,41,Demarai Gray,Everton,0.04,0.23,Goal,14.0,Left Foot,,Allan,Pass (Live),Andros Townsend,Pass (Live)
+9,44,Dominic Calvert-Lewin,Everton,0.05,,Off Target,14.0,Right Foot,,Allan,Pass (Live),Andros Townsend,Pass (Live)
+10,,,,,,,,,,,,,
+11,50,Leandro Trossard,Brighton,0.14,,Off Target,14.0,Right Foot,,Joël Veltman,Pass (Live),Leandro Trossard,Pass (Live)
+12,51,Pascal Groß,Brighton,0.14,0.05,Saved,22.0,Right Foot,"Free kick, Deflected",Adam Lallana,Fouled,Yves Bissouma,Pass (Live)
+13,52,Joël Veltman,Brighton,0.05,,Off Target,22.0,Right Foot,,Pascal Groß,Pass (Live),Adam Webster,Pass (Live)
+14,58,Dominic Calvert-Lewin (pen),Everton,0.79,0.99,Goal,13.0,Right Foot,,Séamus Coleman,Fouled,Allan,Pass (Live)
+15,60,Leandro Trossard,Brighton,0.02,0.02,Saved,31.0,Right Foot,,Neal Maupay,Pass (Live),Adam Webster,Pass (Live)
+16,66,Leandro Trossard,Brighton,0.05,,Blocked,28.0,Right Foot,Free kick,,Fouled,Leandro Trossard,Pass (Live)
+17,67,Demarai Gray,Everton,0.08,,Blocked,24.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),,
+18,73,Leandro Trossard,Brighton,0.04,,Blocked,21.0,Right Foot,,Neal Maupay,Pass (Live),Leandro Trossard,Pass (Live)
+19,76,Richarlison,Everton,0.04,,Off Target,14.0,Right Foot,,Alex Iwobi,Pass (Live),Michael Keane,Interception
+20,78,Abdoulaye Doucouré,Everton,0.17,0.32,Saved,15.0,Right Foot,,Demarai Gray,Pass (Live),Alex Iwobi,Pass (Live)
+21,79,Yves Bissouma,Brighton,0.01,,Blocked,33.0,Right Foot,,Yves Bissouma,Take-On,Yves Bissouma,Take-On
+22,79,Leandro Trossard,Brighton,0.04,0.02,Saved,19.0,Right Foot,,Joël Veltman,Pass (Live),Yves Bissouma,Pass (Live)
+23,83,Neal Maupay,Brighton,0.13,,Off Target,17.0,Right Foot,,Pascal Groß,Pass (Live),Neal Maupay,Pass (Live)
+24,84,Alex Iwobi,Everton,0.05,,Blocked,14.0,Right Foot,,Richarlison,Pass (Live),Lucas Digne,Pass (Live)
+25,84,André Gomes,Everton,0.02,0.04,Saved,27.0,Right Foot,,Alex Iwobi,Shot,,
+26,90,Taylor Richards,Brighton,0.02,,Blocked,24.0,Left Foot,,Leandro Trossard,Pass (Live),Leandro Trossard,Take-On
+27,90+1,André Gomes,Everton,0.02,,Blocked,14.0,Left Foot,,Alex Iwobi,Pass (Live),Lucas Digne,Pass (Live)
+28,90+4,Lucas Digne,Everton,0.02,,Blocked,33.0,Left Foot,,Allan,Pass (Live),,

@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Emile Smith Rowe,Arsenal,0.01,0.12,Saved,24.0,Left Foot,Volley,Bukayo Saka,Pass (Live),Granit Xhaka,Pass (Live)
+1,3.0,Reece James,Chelsea,0.07,,Blocked,25.0,Right Foot,,Marcos Alonso,Pass (Live),Kai Havertz,Pass (Live)
+2,5.0,Kai Havertz,Chelsea,0.03,,Blocked,19.0,Left Foot,,Romelu Lukaku,Pass (Live),Mateo Kovačić,Pass (Live)
+3,15.0,Romelu Lukaku,Chelsea,0.93,0.75,Goal,4.0,Right Foot,,Reece James,Pass (Live),Mateo Kovačić,Pass (Live)
+4,21.0,Romelu Lukaku,Chelsea,0.04,,Off Target,11.0,Head,,Mateo Kovačić,Pass (Live),Reece James,Pass (Live)
+5,23.0,Mason Mount,Chelsea,0.18,,Blocked,15.0,Right Foot,,Reece James,Pass (Live),Kai Havertz,Pass (Live)
+6,27.0,Romelu Lukaku,Chelsea,0.07,,Blocked,19.0,Right Foot,,Mason Mount,Pass (Live),Mateo Kovačić,Pass (Live)
+7,29.0,Albert Sambi Lokonga,Arsenal,0.02,,Off Target,28.0,Right Foot,,Granit Xhaka,Pass (Live),Bukayo Saka,Pass (Live)
+8,30.0,Romelu Lukaku,Chelsea,0.03,,Blocked,24.0,Left Foot,,Marcos Alonso,Pass (Live),Kai Havertz,Pass (Live)
+9,31.0,Mason Mount,Chelsea,0.02,0.06,Saved,24.0,Right Foot,,Reece James,Pass (Live),Kai Havertz,Pass (Live)
+10,35.0,Reece James,Chelsea,0.41,0.85,Goal,12.0,Right Foot,,Mason Mount,Pass (Live),Marcos Alonso,Pass (Live)
+11,39.0,Kai Havertz,Chelsea,0.41,,Off Target,7.0,Head,,Mason Mount,Pass (Live),Kai Havertz,Pass (Live)
+12,,,,,,,,,,,,,
+13,50.0,Romelu Lukaku,Chelsea,0.07,,Blocked,17.0,Left Foot,,Mateo Kovačić,Pass (Live),César Azpilicueta,Pass (Live)
+14,50.0,Kai Havertz,Chelsea,0.04,,Blocked,14.0,Right Foot,,Kai Havertz,Take-On,Marcos Alonso,Pass (Live)
+15,52.0,Bukayo Saka,Arsenal,0.01,0.04,Saved,27.0,Left Foot,Deflected,Granit Xhaka,Pass (Live),Cédric Soares,Pass (Live)
+16,55.0,Romelu Lukaku,Chelsea,0.07,,Blocked,13.0,Right Foot,Volley,Reece James,Pass (Live),Mason Mount,Pass (Live)
+17,57.0,Mason Mount,Chelsea,0.07,,Off Target,24.0,Left Foot,,Romelu Lukaku,Pass (Live),Reece James,Pass (Live)
+18,60.0,Rob Holding,Arsenal,0.13,,Off Target,7.0,Head,,Pablo Marí,Pass (Live),Nicolas Pépé,Pass (Dead)
+19,63.0,Pierre-Emerick Aubameyang,Arsenal,0.03,0.03,Saved,17.0,Left Foot,,Gabriel Martinelli,Tackle,Granit Xhaka,Pass (Live)
+20,68.0,Mateo Kovačić,Chelsea,0.02,,Off Target,22.0,Right Foot,Volley,Marcos Alonso,Pass (Dead),Romelu Lukaku,Fouled
+21,69.0,Emile Smith Rowe,Arsenal,0.12,,Blocked,10.0,Right Foot,,Cédric Soares,Pass (Live),Nicolas Pépé,Pass (Live)
+22,70.0,Reece James,Chelsea,0.06,,Blocked,22.0,Right Foot,,Marcos Alonso,Pass (Live),Kai Havertz,Pass (Live)
+23,71.0,Mateo Kovačić,Chelsea,0.02,,Off Target,18.0,Right Foot,,Reece James,Pass (Live),Reece James,Shot
+24,77.0,Romelu Lukaku,Chelsea,0.18,0.52,Saved,10.0,Head,,Mason Mount,Pass (Live),Reece James,Pass (Live)
+25,80.0,Reece James,Chelsea,0.02,,Blocked,13.0,Right Foot,,Romelu Lukaku,Shot,,
+26,87.0,Kai Havertz,Chelsea,0.24,0.31,Saved,6.0,Right Foot,,Romelu Lukaku,Pass (Live),Kai Havertz,Pass (Live)
+27,88.0,Hakim Ziyech,Chelsea,0.09,,Blocked,22.0,Left Foot,,Jorginho,Pass (Live),,
+28,90.0,Romelu Lukaku,Chelsea,0.06,,Off Target,11.0,Head,,Marcos Alonso,Pass (Live),Romelu Lukaku,Pass (Live)

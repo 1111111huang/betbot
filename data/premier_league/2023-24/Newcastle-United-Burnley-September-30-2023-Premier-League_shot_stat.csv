@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Zeki Amdouni,Burnley,0.27,0.21,Saved,14.0,Right Foot,,Luca Koleosho,Pass (Live),,
+1,4,Sander Berge,Burnley,0.07,,Off Target,13.0,Right Foot,,Zeki Amdouni,Shot,,
+2,11,Alexander Isak,Newcastle Utd,0.06,0.07,Saved,23.0,Right Foot,,Bruno Guimarães,Pass (Live),,
+3,14,Miguel Almirón,Newcastle Utd,0.06,0.43,Goal,24.0,Left Foot,,Kieran Trippier,Tackle,,
+4,17,Jamaal Lascelles,Newcastle Utd,0.03,,Off Target,9.0,Head,,Kieran Trippier,Pass (Dead),Anthony Gordon,Fouled
+5,21,Sean Longstaff,Newcastle Utd,0.03,,Off Target,15.0,Right Foot,Volley,Alexander Isak,Pass (Live),Elliot Anderson,Pass (Live)
+6,24,Dan Burn,Newcastle Utd,0.18,,Off Target,8.0,Right Foot,,Kieran Trippier,Pass (Dead),Kieran Trippier,Fouled
+7,27,Alexander Isak,Newcastle Utd,0.2,0.4,Saved,10.0,Right Foot,,Bruno Guimarães,Pass (Live),Miguel Almirón,Pass (Live)
+8,27,Alexander Isak,Newcastle Utd,0.84,,Off Target,8.0,Left Foot,Volley,Alexander Isak,Shot,,
+9,35,Elliot Anderson,Newcastle Utd,0.28,,Blocked,7.0,Head,Deflected,Sean Longstaff,Pass (Live),Miguel Almirón,Pass (Live)
+10,44,Zeki Amdouni,Burnley,0.03,,Blocked,22.0,Right Foot,,Sander Berge,Pass (Live),Josh Brownhill,Pass (Live)
+11,45+2,Elliot Anderson,Newcastle Utd,0.1,0.05,Saved,22.0,Right Foot,,Elliot Anderson,Take-On,Bruno Guimarães,Pass (Live)
+12,,,,,,,,,,,,,
+13,46,Kieran Trippier,Newcastle Utd,0.04,,Blocked,22.0,Right Foot,,Elliot Anderson,Pass (Live),Sean Longstaff,Pass (Live)
+14,47,Elliot Anderson,Newcastle Utd,0.13,,Off Target,17.0,Right Foot,,Miguel Almirón,Pass (Live),Bruno Guimarães,Pass (Live)
+15,51,Anthony Gordon,Newcastle Utd,0.01,,Blocked,30.0,Right Foot,,Jamaal Lascelles,Pass (Live),Bruno Guimarães,Pass (Live)
+16,51,Jamaal Lascelles,Newcastle Utd,0.05,,Blocked,12.0,Head,,Bruno Guimarães,Pass (Live),Elliot Anderson,Pass (Live)
+17,55,Sean Longstaff,Newcastle Utd,0.06,,Off Target,11.0,Head,,Kieran Trippier,Pass (Live),Miguel Almirón,Pass (Live)
+18,69,Jacob Bruun Larsen,Burnley,0.12,,Blocked,9.0,Right Foot,,Wilson Odobert,Pass (Live),Sander Berge,Pass (Live)
+19,70,Josh Cullen,Burnley,0.02,,Blocked,27.0,Right Foot,,Jacob Bruun Larsen,Shot,,
+20,73,Anthony Gordon,Newcastle Utd,0.01,,Blocked,25.0,Right Foot,,Bruno Guimarães,Pass (Live),Sandro Tonali,Pass (Live)
+21,73,Anthony Gordon,Newcastle Utd,0.03,0.04,Saved,17.0,Right Foot,,Alexander Isak,Pass (Live),Anthony Gordon,Shot
+22,76,Alexander Isak (pen),Newcastle Utd,0.79,0.99,Goal,13.0,Right Foot,,Anthony Gordon,Fouled,,
+23,78,Wilson Odobert,Burnley,0.08,,Blocked,16.0,Right Foot,,Sander Berge,Pass (Live),Jacob Bruun Larsen,Pass (Live)
+24,79,Ameen Al-Dakhil,Burnley,0.06,0.15,Saved,9.0,Head,,Josh Brownhill,Pass (Dead),Wilson Odobert,Shot
+25,80,Alexander Isak,Newcastle Utd,0.06,,Blocked,16.0,Right Foot,,Sandro Tonali,Pass (Live),Bruno Guimarães,Pass (Live)
+26,80,Fabian Schär,Newcastle Utd,0.33,,Blocked,3.0,Head,,Kieran Trippier,Pass (Dead),Alexander Isak,Shot
+27,90,Alexander Isak,Newcastle Utd,0.05,0.1,Saved,9.0,Left Foot,,Bruno Guimarães,Pass (Live),Bruno Guimarães,Tackle
+28,90+4,Vitinho,Burnley,0.01,,Blocked,20.0,Left Foot,,Vitinho,Take-On,Anass Zaroury,Pass (Live)

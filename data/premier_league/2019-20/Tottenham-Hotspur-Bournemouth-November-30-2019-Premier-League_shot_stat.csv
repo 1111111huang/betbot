@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Arnaut Danjuma,Bournemouth,0.03,0.11,Saved,27.0,Left Foot,,Dominic Solanke,Pass (Live),Jack Stacey,Pass (Live)
+1,9,Callum Wilson,Bournemouth,0.04,,Off Target,15.0,Head,,Dominic Solanke,Pass (Live),Jack Stacey,Pass (Live)
+2,10,Diego Rico,Bournemouth,0.02,0.03,Saved,34.0,Left Foot,,Lewis Cook,Pass (Live),Jefferson Lerma,Pass (Live)
+3,14,Tanguy Ndombele,Tottenham,0.03,,Off Target,29.0,Right Foot,,Eric Dier,Pass (Live),Dele Alli,Pass (Live)
+4,15,Dominic Solanke,Bournemouth,0.08,,Blocked,13.0,Right Foot,,Lewis Cook,Pass (Live),Steve Cook,Pass (Live)
+5,19,Son Heung-min,Tottenham,0.09,,Off Target,15.0,Left Foot,,Harry Kane,Pass (Live),Dele Alli,Pass (Live)
+6,21,Dele Alli,Tottenham,0.3,0.2,Goal,16.0,Right Foot,,Son Heung-min,Pass (Live),Toby Alderweireld,Pass (Live)
+7,23,Harry Kane,Tottenham,0.05,,Blocked,17.0,Right Foot,,,,,
+8,25,Harry Kane,Tottenham,0.29,0.3,Saved,9.0,Left Foot,,Son Heung-min,Pass (Live),Harry Kane,Pass (Live)
+9,26,Moussa Sissoko,Tottenham,0.03,,Blocked,22.0,Left Foot,,Moussa Sissoko,Take-On,Son Heung-min,Pass (Live)
+10,30,Jefferson Lerma,Bournemouth,0.02,,Off Target,39.0,Right Foot,,Lewis Cook,Pass (Live),Diego Rico,Pass (Dead)
+11,32,Jack Stacey,Bournemouth,0.07,,Off Target,16.0,Left Foot,,Jack Stacey,Take-On,Jefferson Lerma,Pass (Live)
+12,33,Callum Wilson,Bournemouth,0.04,,Off Target,31.0,Right Foot,,Callum Wilson,Take-On,Diego Rico,Pass (Live)
+13,37,Harry Kane,Tottenham,0.04,,Off Target,19.0,Left Foot,,Dele Alli,Pass (Live),Tanguy Ndombele,Interception
+14,39,Son Heung-min,Tottenham,0.17,,Off Target,5.0,Right Foot,Volley,Harry Kane,Pass (Live),Dele Alli,Pass (Live)
+15,44,Arnaut Danjuma,Bournemouth,0.04,0.02,Saved,20.0,Left Foot,,Jack Stacey,Pass (Live),Arnaut Danjuma,Pass (Live)
+16,,,,,,,,,,,,,
+17,50,Dele Alli,Tottenham,0.62,0.64,Goal,8.0,Right Foot,,Dele Alli,Take-On,Toby Alderweireld,Pass (Live)
+18,52,Steve Cook,Bournemouth,0.04,,Blocked,15.0,Right Foot,,Dominic Solanke,Fouled,Diego Rico,Pass (Live)
+19,53,Callum Wilson,Bournemouth,0.03,,Off Target,10.0,Head,,Ryan Fraser,Pass (Live),Diego Rico,Pass (Live)
+20,56,Moussa Sissoko,Tottenham,0.07,,Off Target,15.0,Right Foot,,Serge Aurier,Pass (Live),Moussa Sissoko,Pass (Live)
+21,56,Dele Alli,Tottenham,0.06,,Off Target,13.0,Right Foot,,Moussa Sissoko,Shot,,
+22,64,Harry Wilson,Bournemouth,0.06,,Off Target,16.0,Left Foot,,Lewis Cook,Pass (Live),Dominic Solanke,Pass (Live)
+23,66,Dele Alli,Tottenham,0.08,,Off Target,10.0,Right Foot,Volley,Serge Aurier,Pass (Live),Tanguy Ndombele,Pass (Live)
+24,69,Moussa Sissoko,Tottenham,0.45,0.95,Goal,5.0,Right Foot,Volley,Son Heung-min,Pass (Live),Dele Alli,Pass (Live)
+25,71,Lewis Cook,Bournemouth,0.03,0.07,Saved,28.0,Right Foot,,Callum Wilson,Pass (Live),Arnaut Danjuma,Pass (Live)
+26,71,Harry Wilson,Bournemouth,0.04,,Blocked,17.0,Left Foot,,Lewis Cook,Shot,,
+27,71,Nathan Aké,Bournemouth,0.13,,Blocked,10.0,Left Foot,,Harry Wilson,Shot,,
+28,73,Harry Wilson,Bournemouth,0.11,0.4,Goal,25.0,Left Foot,Free kick,Lewis Cook,Fouled,Jefferson Lerma,Pass (Live)
+29,78,Dele Alli,Tottenham,0.1,0.18,Saved,17.0,Right Foot,,,,,
+30,81,Harry Wilson,Bournemouth,0.06,,Blocked,22.0,Left Foot,,Harry Wilson,Take-On,Dan Gosling,Pass (Live)
+31,84,Dominic Solanke,Bournemouth,0.07,,Saved off Target,12.0,Left Foot,,Arnaut Danjuma,Pass (Live),Harry Wilson,Pass (Live)
+32,87,Dan Gosling,Bournemouth,0.13,,Blocked,11.0,Right Foot,,Dominic Solanke,Pass (Live),Harry Wilson,Pass (Live)
+33,90+2,Dan Gosling,Bournemouth,0.04,,Off Target,10.0,Head,,Diego Rico,Pass (Dead),,
+34,90+6,Harry Wilson,Bournemouth,0.09,0.13,Goal,13.0,Left Foot,,Arnaut Danjuma,Take-On,Diego Rico,Pass (Dead)

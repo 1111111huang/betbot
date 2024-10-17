@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,William Smallbone,Southampton,0.15,0.0,Blocked,9.0,Right Foot,,Joe Aribo,Pass (Live),William Smallbone,Pass (Live)
+1,14,William Smallbone,Southampton,0.03,0.0,Blocked,23.0,Right Foot,,Jack Stephens,Pass (Live),Jan Bednarek,Pass (Live)
+2,22,Adam Armstrong,Southampton,0.02,0.0,Off Target,28.0,Right Foot,,Taylor Harwood-Bellis,Pass (Live),Jack Stephens,Pass (Live)
+3,24,Fabian Schär,Newcastle Utd,0.04,0.0,Blocked,16.0,Right Foot,,Anthony Gordon,Pass (Live),Jacob Murphy,Fouled
+4,41,Ben Brereton,Southampton,0.2,0.0,Off Target,6.0,Head,,Yukinari Sugawara,Pass (Live),William Smallbone,Pass (Live)
+5,45,Joelinton,Newcastle Utd,0.17,0.63,Goal,15.0,Left Foot,,Alexander Isak,Pass (Live),Alexander Isak,Interception
+6,45+4,Joelinton,Newcastle Utd,0.05,0.0,Blocked,9.0,Head,,Lewis Hall,Pass (Dead),Anthony Gordon,Fouled
+7,,,,,,,,,,,,,
+8,50,Adam Armstrong,Southampton,0.49,0.0,Blocked,9.0,Right Foot,,Joe Aribo,Pass (Live),Samuel Edozie,Pass (Live)
+9,50,Ben Brereton,Southampton,0.1,0.0,Blocked,8.0,Right Foot,,Adam Armstrong,Shot,,
+10,51,Adam Armstrong,Southampton,0.05,0.08,Saved,18.0,Right Foot,,Ben Brereton,Pass (Live),,
+11,62,William Smallbone,Southampton,0.08,0.0,Blocked,18.0,Right Foot,,Flynn Downes,Pass (Live),Kyle Walker-Peters,Pass (Live)
+12,62,Adam Armstrong,Southampton,0.08,0.0,Blocked,17.0,Right Foot,Volley,William Smallbone,Shot,,
+13,63,Flynn Downes,Southampton,0.11,0.0,Blocked,14.0,Right Foot,,Adam Armstrong,Pass (Live),William Smallbone,Pass (Live)
+14,63,Joe Aribo,Southampton,0.05,0.0,Blocked,19.0,Left Foot,,Flynn Downes,Shot,,
+15,69,Kyle Walker-Peters,Southampton,0.02,0.0,Blocked,33.0,Right Foot,Deflected,Flynn Downes,Pass (Live),Samuel Edozie,Pass (Live)
+16,78,Kyle Walker-Peters,Southampton,0.04,0.0,Off Target,17.0,Right Foot,,Jan Bednarek,Pass (Live),Jack Stephens,Pass (Live)
+17,78,Adam Armstrong,Southampton,0.08,0.0,Blocked,16.0,Right Foot,,Flynn Downes,Pass (Live),Kyle Walker-Peters,Shot
+18,86,Samuel Amo-Ameyaw,Southampton,0.02,0.0,Blocked,21.0,Left Foot,,Tyler Dibling,Pass (Live),William Smallbone,Pass (Live)
+19,87,Carlos Alcaraz,Southampton,0.07,0.21,Saved,10.0,Head,,Samuel Amo-Ameyaw,Pass (Live),Tyler Dibling,Pass (Live)
+20,90,Cameron Archer,Southampton,0.1,0.0,Off Target,20.0,Right Foot,,Samuel Amo-Ameyaw,Fouled,William Smallbone,Pass (Live)
+21,90+3,William Smallbone,Southampton,0.04,0.0,Blocked,27.0,Right Foot,Free kick,Samuel Edozie,Fouled,Carlos Alcaraz,Pass (Live)
+22,90+7,Cameron Archer,Southampton,0.1,0.14,Saved,10.0,Head,,Samuel Edozie,Pass (Live),Flynn Downes,Pass (Live)

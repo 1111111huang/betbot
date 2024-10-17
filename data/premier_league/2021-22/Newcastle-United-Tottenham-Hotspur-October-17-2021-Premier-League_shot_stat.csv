@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Callum Wilson,Newcastle Utd,0.2,0.15,Goal,8.0,Head,,Javier Manquillo,Pass (Live),Allan Saint-Maximin,Pass (Live)
+1,9,Ciaran Clark,Newcastle Utd,0.03,,Off Target,11.0,Head,,Callum Wilson,Pass (Live),Matt Ritchie,Pass (Dead)
+2,13,Tanguy Ndombele,Tottenham,0.02,,Blocked,24.0,Left Foot,,Lucas Moura,Pass (Live),Tanguy Ndombele,Pass (Live)
+3,13,Pierre Højbjerg,Tottenham,0.02,0.15,Saved,34.0,Right Foot,,Tanguy Ndombele,Shot,,
+4,17,Tanguy Ndombele,Tottenham,0.09,0.35,Goal,17.0,Right Foot,,Sergio Reguilón,Pass (Live),Eric Dier,Pass (Live)
+5,20,Jamaal Lascelles,Newcastle Utd,0.03,,Off Target,11.0,Head,,Matt Ritchie,Pass (Dead),,
+6,22,Harry Kane,Tottenham,0.43,0.16,Goal,16.0,Right Foot,,Pierre Højbjerg,Pass (Live),Oliver Skipp,Pass (Live)
+7,36,Tanguy Ndombele,Tottenham,0.05,,Blocked,15.0,Right Foot,,Son Heung-min,Pass (Live),Tanguy Ndombele,Pass (Live)
+8,39,Lucas Moura,Tottenham,0.08,,Woodwork,10.0,Head,,Son Heung-min,Pass (Dead),,
+9,45+1,Lucas Moura,Tottenham,0.05,,Blocked,26.0,Right Foot,,Son Heung-min,Pass (Live),Harry Kane,Pass (Live)
+10,45+3,Son Heung-min,Tottenham,0.73,0.89,Goal,4.0,Left Foot,,Harry Kane,Pass (Live),Lucas Moura,Pass (Live)
+11,45+5,Allan Saint-Maximin,Newcastle Utd,0.05,,Off Target,21.0,Right Foot,,Joelinton,Pass (Live),Joe Willock,Pass (Live)
+12,,,,,,,,,,,,,
+13,49,Eric Dier,Tottenham,0.01,,Blocked,9.0,Other,,Son Heung-min,Pass (Dead),Sergio Reguilón,Take-On
+14,49,Lucas Moura,Tottenham,0.05,,Blocked,16.0,Left Foot,Volley,Eric Dier,Shot,,
+15,49,Tanguy Ndombele,Tottenham,0.04,,Blocked,11.0,Left Foot,,Tanguy Ndombele,Take-On,Lucas Moura,Shot
+16,60,Tanguy Ndombele,Tottenham,0.04,,Off Target,17.0,Right Foot,,Harry Kane,Pass (Live),Lucas Moura,Pass (Live)
+17,74,Allan Saint-Maximin,Newcastle Utd,0.01,,Off Target,26.0,Right Foot,,Callum Wilson,Pass (Live),Jamaal Lascelles,Pass (Live)
+18,80,Lucas Moura,Tottenham,0.02,,Off Target,30.0,Right Foot,,Son Heung-min,Pass (Live),Sergio Reguilón,Pass (Live)
+19,82,Ryan Fraser,Newcastle Utd,0.04,,Blocked,20.0,Right Foot,Volley,Allan Saint-Maximin,Pass (Live),,
+20,82,Jacob Murphy,Newcastle Utd,0.02,,Blocked,25.0,Right Foot,,Jamaal Lascelles,Pass (Live),Ryan Fraser,Pass (Live)
+21,84,Harry Kane,Tottenham,0.07,,Blocked,22.0,Right Foot,Free kick,Sergio Reguilón,Fouled,Son Heung-min,Pass (Live)

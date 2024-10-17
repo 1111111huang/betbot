@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Diogo Jota,Liverpool,0.02,,Off Target,15.0,Head,,Alexis Mac Allister,Pass (Live),Mohamed Salah,Pass (Live)
+1,6,Diogo Jota,Liverpool,0.05,,Off Target,15.0,Right Foot,,Mohamed Salah,Pass (Live),Diogo Jota,Pass (Live)
+2,11,Enzo Fernández,Chelsea,0.06,,Blocked,13.0,Right Foot,,Raheem Sterling,Pass (Live),Enzo Fernández,Pass (Live)
+3,12,Mohamed Salah,Liverpool,0.08,,Woodwork,21.0,Right Foot,,Cody Gakpo,Pass (Live),Luis Díaz,Pass (Live)
+4,16,Nicolas Jackson,Chelsea,0.13,0.23,Saved,8.0,Right Foot,,Reece James,Pass (Live),Raheem Sterling,Pass (Live)
+5,18,Luis Díaz,Liverpool,0.51,0.8,Goal,11.0,Left Foot,,Mohamed Salah,Pass (Live),Alexis Mac Allister,Pass (Live)
+6,24,Nicolas Jackson,Chelsea,0.04,,Off Target,14.0,Left Foot,,Levi Colwill,Pass (Live),Levi Colwill,Take-On
+7,26,Mohamed Salah,Liverpool,0.17,,Blocked,17.0,Left Foot,,Luis Díaz,Pass (Live),Andrew Robertson,Pass (Dead)
+8,37,Axel Disasi,Chelsea,0.41,0.86,Goal,6.0,Right Foot,,Ben Chilwell,Pass (Live),Raheem Sterling,Pass (Live)
+9,41,Mohamed Salah,Liverpool,0.03,,Off Target,17.0,Left Foot,,Cody Gakpo,Pass (Live),Diogo Jota,Pass (Live)
+10,43,Nicolas Jackson,Chelsea,0.13,,Off Target,9.0,Right Foot,,Reece James,Pass (Live),Raheem Sterling,Pass (Live)
+11,45+6,Axel Disasi,Chelsea,0.06,,Off Target,11.0,Head,,Enzo Fernández,Pass (Dead),Enzo Fernández,Fouled
+12,,,,,,,,,,,,,
+13,47,Luis Díaz,Liverpool,0.11,,Off Target,13.0,Right Foot,,Dominik Szoboszlai,Pass (Live),,
+14,49,Luis Díaz,Liverpool,0.05,,Off Target,15.0,Right Foot,Volley,Virgil van Dijk,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+15,49,Virgil van Dijk,Liverpool,0.03,,Off Target,23.0,Right Foot,,Diogo Jota,Pass (Live),Luis Díaz,Shot
+16,53,Luis Díaz,Liverpool,0.17,,Blocked,4.0,Head,,Dominik Szoboszlai,Pass (Dead),Luis Díaz,Pass (Live)
+17,54,Dominik Szoboszlai,Liverpool,0.02,,Blocked,26.0,Right Foot,,Andrew Robertson,Pass (Live),,
+18,55,Ben Chilwell,Chelsea,0.16,0.17,Saved,13.0,Left Foot,,Enzo Fernández,Pass (Live),Raheem Sterling,Pass (Live)
+19,62,Reece James,Chelsea,0.03,,Off Target,32.0,Right Foot,Free kick,Ben Chilwell,Fouled,Carney Chukwuemeka,Pass (Live)
+20,65,Levi Colwill,Chelsea,0.08,,Blocked,16.0,Left Foot,,Thiago Silva,Pass (Live),Carney Chukwuemeka,Pass (Live)
+21,71,Nicolas Jackson,Chelsea,0.24,0.18,Saved,11.0,Left Foot,,Levi Colwill,Pass (Live),,
+22,82,Darwin Núñez,Liverpool,0.02,,Blocked,26.0,Left Foot,,Harvey Elliott,Pass (Live),Darwin Núñez,Pass (Live)
+23,90+3,Darwin Núñez,Liverpool,0.01,,Blocked,27.0,Right Foot,,Virgil van Dijk,Pass (Live),Alisson,Pass (Live)

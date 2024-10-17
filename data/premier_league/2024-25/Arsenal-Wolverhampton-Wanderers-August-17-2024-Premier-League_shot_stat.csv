@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Matt Doherty,Wolves,0.05,0.0,Blocked,15.0,Right Foot,,Matt Doherty,Pass (Dead),,
+1,14,Ben White,Arsenal,0.04,0.14,Saved,28.0,Right Foot,Deflected,Thomas Partey,Pass (Live),Declan Rice,Pass (Live)
+2,14,Kai Havertz,Arsenal,0.02,0.0,Blocked,18.0,Left Foot,,Thomas Partey,Pass (Live),Martin Ødegaard,Pass (Live)
+3,15,Bukayo Saka,Arsenal,0.02,0.25,Saved,17.0,Left Foot,,Thomas Partey,Pass (Live),Kai Havertz,Shot
+4,16,Ben White,Arsenal,0.03,0.0,Off Target,21.0,Right Foot,,Gabriel Martinelli,Pass (Live),Declan Rice,Pass (Live)
+5,18,Bukayo Saka,Arsenal,0.03,0.02,Saved,18.0,Right Foot,,Bukayo Saka,Pass (Live),Ben White,Pass (Live)
+6,19,Declan Rice,Arsenal,0.09,0.0,Off Target,17.0,Right Foot,,Bukayo Saka,Pass (Live),Kai Havertz,Pass (Live)
+7,25,Kai Havertz,Arsenal,0.14,0.73,Goal,9.0,Head,,Bukayo Saka,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+8,29,Jean-Ricner Bellegarde,Wolves,0.07,0.0,Off Target,28.0,Right Foot,Free kick,Jean-Ricner Bellegarde,Fouled,João Gomes,Pass (Live)
+9,36,Jørgen Strand Larsen,Wolves,0.08,0.09,Saved,12.0,Head,,Hwang Hee-chan,Pass (Live),João Gomes,Pass (Live)
+10,37,Bukayo Saka,Arsenal,0.22,0.0,Off Target,8.0,Head,,Gabriel Martinelli,Pass (Live),Ben White,Pass (Live)
+11,40,Bukayo Saka,Arsenal,0.05,0.0,Off Target,28.0,Left Foot,,Gabriel Magalhães,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+12,44,Gabriel Martinelli,Arsenal,0.08,0.0,Blocked,11.0,Right Foot,,Gabriel Martinelli,Take-On,Declan Rice,Pass (Live)
+13,,,,,,,,,,,,,
+14,50,Kai Havertz,Arsenal,0.16,0.0,Off Target,13.0,Right Foot,,Gabriel Martinelli,Pass (Live),Declan Rice,Pass (Live)
+15,55,Gabriel Magalhães,Arsenal,0.12,0.0,Blocked,6.0,Head,,Bukayo Saka,Pass (Dead),,
+16,58,Thomas Partey,Arsenal,0.06,0.0,Off Target,22.0,Left Foot,,Gabriel Martinelli,Pass (Live),Declan Rice,Pass (Live)
+17,59,Kai Havertz,Arsenal,0.07,0.0,Blocked,13.0,Right Foot,,Thomas Partey,Pass (Live),Martin Ødegaard,Pass (Live)
+18,62,Rayan Aït-Nouri,Wolves,0.02,0.0,Off Target,35.0,Left Foot,,,,,
+19,65,Rodrigo Gomes,Wolves,0.05,0.0,Off Target,17.0,Right Foot,Volley,Yerson Mosquera,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+20,68,Matheus Cunha,Wolves,0.06,0.03,Saved,18.0,Left Foot,,,,,
+21,70,Martin Ødegaard,Arsenal,0.02,0.33,Saved,25.0,Left Foot,Deflected,Bukayo Saka,Pass (Live),Ben White,Pass (Live)
+22,71,Jurriën Timber,Arsenal,0.02,0.0,Blocked,23.0,Right Foot,,Bukayo Saka,Pass (Dead),Martin Ødegaard,Shot
+23,74,Bukayo Saka,Arsenal,0.03,0.23,Goal,17.0,Left Foot,,Kai Havertz,Pass (Live),Thomas Partey,Pass (Dead)
+24,80,Kai Havertz,Arsenal,0.06,0.0,Blocked,18.0,Left Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+25,90+2,Matt Doherty,Wolves,0.03,0.0,Off Target,8.0,Head,,Chiquinho,Pass (Live),Toti Gomes,Pass (Live)
+26,90+4,Pablo Sarabia,Wolves,0.08,0.07,Saved,16.0,Left Foot,Volley,Matheus Cunha,Pass (Live),Matheus Cunha,Tackle
+27,90+6,Daniel Podence,Wolves,0.04,0.0,Off Target,24.0,Left Foot,,Chiquinho,Pass (Live),José Sá,Pass (Live)

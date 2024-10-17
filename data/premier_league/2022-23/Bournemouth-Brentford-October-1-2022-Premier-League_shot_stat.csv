@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Mikkel Damsgaard,Brentford,0.08,0.08,Saved,17.0,Right Foot,,,,,
+1,12,Pontus Jansson,Brentford,0.02,,Off Target,15.0,Head,,Mathias Jensen,Pass (Dead),,
+2,12,Mikkel Damsgaard,Brentford,0.04,0.02,Saved,20.0,Right Foot,,Pontus Jansson,Shot,,
+3,16,Bryan Mbeumo,Brentford,0.05,,Off Target,25.0,Left Foot,,Vitaly Janelt,Pass (Live),Mathias Jensen,Pass (Live)
+4,18,Ben Mee,Brentford,0.02,0.68,Saved,16.0,Head,,Mathias Jensen,Pass (Dead),Bryan Mbeumo,Pass (Live)
+5,39,Dominic Solanke,Bournemouth,0.06,,Off Target,12.0,Head,,Marcos Senesi,Pass (Live),Jefferson Lerma,Pass (Live)
+6,40,Ivan Toney,Brentford,0.06,0.68,Saved,11.0,Left Foot,Volley,Shandon Baptiste,Pass (Live),,
+7,44,Kristoffer Ajer,Brentford,0.04,,Off Target,6.0,Head,,Mikkel Damsgaard,Pass (Live),,
+8,45,Marcus Tavernier,Bournemouth,0.08,,Blocked,11.0,Left Foot,,Dominic Solanke,Pass (Live),,
+9,45+2,Ivan Toney,Brentford,0.09,,Off Target,9.0,Right Foot,Volley,Vitaly Janelt,Pass (Live),Mikkel Damsgaard,Pass (Live)
+10,,,,,,,,,,,,,
+11,51,Jefferson Lerma,Bournemouth,0.08,,Blocked,7.0,Head,,Kieffer Moore,Pass (Live),Marcus Tavernier,Pass (Dead)
+12,56,Philip Billing,Bournemouth,0.05,,Off Target,29.0,Left Foot,Free kick,Kieffer Moore,Fouled,Chris Mepham,Pass (Live)
+13,74,Ivan Toney,Brentford,0.14,,Off Target,9.0,Right Foot,Volley,Josh Dasilva,Pass (Live),Mathias Jensen,Pass (Live)
+14,79,Ivan Toney,Brentford,0.05,,Blocked,17.0,Right Foot,,Josh Dasilva,Pass (Live),Yoane Wissa,Pass (Live)
+15,81,Ivan Toney,Brentford,0.22,,Blocked,20.0,Right Foot,Free kick,Ivan Toney,Fouled,Mathias Jensen,Pass (Live)
+16,83,Ivan Toney,Brentford,0.01,,Blocked,16.0,Right Foot,,Shandon Baptiste,Pass (Live),Aaron Hickey,Pass (Live)
+17,83,Yoane Wissa,Brentford,0.04,,Blocked,16.0,Right Foot,,Rico Henry,Pass (Live),Rico Henry,Tackle
+18,85,Marcus Tavernier,Bournemouth,0.03,,Off Target,22.0,Left Foot,,Dominic Solanke,Pass (Live),Jefferson Lerma,Pass (Live)
+19,90+4,Jefferson Lerma,Bournemouth,0.05,,Off Target,11.0,Head,,Adam Smith,Pass (Live),Marcus Tavernier,Pass (Live)
+20,90+5,Jefferson Lerma,Bournemouth,0.04,,Blocked,17.0,Right Foot,Volley,Ryan Christie,Pass (Live),,

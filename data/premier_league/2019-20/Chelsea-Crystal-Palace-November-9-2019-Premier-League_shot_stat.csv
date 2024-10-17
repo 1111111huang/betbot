@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Mason Mount,Chelsea,0.06,,Blocked,16.0,Right Foot,,Christian Pulisic,Pass (Live),Christian Pulisic,Take-On
+1,1,Mateo Kovačić,Chelsea,0.05,,Blocked,21.0,Left Foot,,Mason Mount,Shot,,
+2,7,Christian Pulisic,Chelsea,0.03,,Off Target,23.0,Right Foot,,Mason Mount,Pass (Live),Fikayo Tomori,Pass (Live)
+3,12,Christian Pulisic,Chelsea,0.73,0.89,Saved,4.0,Left Foot,,Christian Pulisic,Take-On,Willian,Pass (Live)
+4,14,Willian,Chelsea,0.06,,Off Target,31.0,Right Foot,Free kick,Reece James,Fouled,Mateo Kovačić,Pass (Live)
+5,23,Emerson Palmieri,Chelsea,0.06,,Off Target,26.0,Left Foot,Free kick,Willian,Fouled,Willian,Tackle
+6,27,N'Golo Kanté,Chelsea,0.07,,Off Target,21.0,Right Foot,,Christian Pulisic,Pass (Live),Christian Pulisic,Take-On
+7,29,Mason Mount,Chelsea,0.14,,Blocked,22.0,Right Foot,Free kick,Mason Mount,Fouled,Emerson Palmieri,Pass (Live)
+8,43,Willian,Chelsea,0.01,0.14,Saved,27.0,Right Foot,Deflected,Mason Mount,Pass (Live),Willian,Pass (Live)
+9,45+2,Christian Pulisic,Chelsea,0.06,,Off Target,11.0,Head,,N'Golo Kanté,Pass (Live),Reece James,Pass (Live)
+10,45+5,Willian,Chelsea,0.45,,Blocked,10.0,Right Foot,,Mason Mount,Pass (Live),Tammy Abraham,Pass (Live)
+11,,,,,,,,,,,,,
+12,47,Tammy Abraham,Chelsea,0.39,,Off Target,9.0,Right Foot,Volley,Willian,Pass (Live),Mateo Kovačić,Pass (Live)
+13,52,Tammy Abraham,Chelsea,0.45,0.88,Goal,9.0,Right Foot,,Willian,Pass (Live),Mateo Kovačić,Pass (Live)
+14,54,Mason Mount,Chelsea,0.03,,Blocked,29.0,Right Foot,,,,,
+15,56,Cheikhou Kouyaté,Crystal Palace,0.04,,Blocked,20.0,Right Foot,,Patrick van Aanholt,Pass (Live),Andros Townsend,Pass (Live)
+16,59,Christian Pulisic,Chelsea,0.06,0.34,Saved,22.0,Right Foot,,Christian Pulisic,Take-On,Mateo Kovačić,Pass (Live)
+17,61,Tammy Abraham,Chelsea,0.06,,Off Target,12.0,Left Foot,,Willian,Pass (Live),N'Golo Kanté,Pass (Live)
+18,67,Christian Pulisic,Chelsea,0.05,,Off Target,16.0,Right Foot,,Mateo Kovačić,Pass (Live),Fikayo Tomori,Pass (Live)
+19,70,James Tomkins,Crystal Palace,0.13,,Off Target,9.0,Head,,Luka Milivojević,Pass (Dead),Jordan Ayew,Fouled
+20,76,Mason Mount,Chelsea,0.05,,Blocked,26.0,Right Foot,,Willian,Pass (Live),N'Golo Kanté,Pass (Live)
+21,79,Michy Batshuayi,Chelsea,0.09,,Blocked,13.0,Left Foot,,Christian Pulisic,Pass (Live),Mateo Kovačić,Pass (Live)
+22,79,Christian Pulisic,Chelsea,0.65,0.86,Goal,5.0,Head,,Michy Batshuayi,Shot,,
+23,86,James McCarthy,Crystal Palace,0.06,0.09,Saved,21.0,Left Foot,Deflected,Wilfried Zaha,Pass (Live),Wilfried Zaha,Take-On
+24,88,Callum Hudson-Odoi,Chelsea,0.03,,Off Target,28.0,Right Foot,,Billy Gilmour,Pass (Live),N'Golo Kanté,Pass (Live)
+25,90+1,Michy Batshuayi,Chelsea,0.07,,Blocked,13.0,Left Foot,,N'Golo Kanté,Pass (Live),Willian,Pass (Live)
+26,90+4,Willian,Chelsea,0.07,,Off Target,27.0,Right Foot,Free kick,Emerson Palmieri,Pass (Live),Willian,Pass (Dead)

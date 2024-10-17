@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Wesley Moraes,Aston Villa,0.05,0.17,Saved,19.0,Right Foot,,Jota,Pass (Live),,
+1,6,Douglas Luiz,Aston Villa,0.08,,Off Target,25.0,Right Foot,Free kick,Trézéguet,Fouled,Douglas Luiz,Pass (Live)
+2,12,Jeffrey Schlupp,Crystal Palace,0.07,,Blocked,18.0,Left Foot,,James McArthur,Pass (Live),Patrick van Aanholt,Pass (Live)
+3,22,James McArthur,Crystal Palace,0.3,,Off Target,11.0,Left Foot,,Jeffrey Schlupp,Pass (Live),,
+4,25,Cheikhou Kouyaté,Crystal Palace,0.09,,Off Target,10.0,Head,,Luka Milivojević,Pass (Dead),Jeffrey Schlupp,Fouled
+5,27,Jeffrey Schlupp,Crystal Palace,0.02,0.13,Saved,25.0,Left Foot,Deflected,Jeffrey Schlupp,Fouled,Patrick van Aanholt,Pass (Live)
+6,38,Trézéguet,Aston Villa,0.03,,Blocked,28.0,Right Foot,,John McGinn,Pass (Live),Frederic Guilbert,Pass (Dead)
+7,39,Cheikhou Kouyaté,Crystal Palace,0.08,,Off Target,11.0,Right Foot,,Luka Milivojević,Pass (Dead),,
+8,39,Patrick van Aanholt,Crystal Palace,0.03,,Off Target,16.0,Left Foot,,Cheikhou Kouyaté,Shot,,
+9,41,Luka Milivojević,Crystal Palace,0.06,0.36,Saved,27.0,Right Foot,"Free kick, Deflected",Jeffrey Schlupp,Fouled,Luka Milivojević,Pass (Live)
+10,42,Cheikhou Kouyaté,Crystal Palace,0.07,0.2,Saved,6.0,Head,,Luka Milivojević,Pass (Dead),Luka Milivojević,Shot
+11,,,,,,,,,,,,,
+12,47,Trézéguet,Aston Villa,0.06,,Off Target,27.0,Right Foot,Free kick,Jota,Fouled,Jack Grealish,Pass (Live)
+13,48,Trézéguet,Aston Villa,0.06,0.02,Saved,14.0,Head,,John McGinn,Pass (Live),Frederic Guilbert,Pass (Live)
+14,48,Cheikhou Kouyaté,Crystal Palace,0.06,,Off Target,8.0,Head,,Joel Ward,Pass (Live),Wilfried Zaha,Pass (Live)
+15,51,Cheikhou Kouyaté,Crystal Palace,0.05,,Off Target,15.0,Right Foot,,Jordan Ayew,Pass (Live),Jordan Ayew,Tackle
+16,57,Jeffrey Schlupp,Crystal Palace,0.02,,Blocked,27.0,Left Foot,,Wilfried Zaha,Pass (Live),Luka Milivojević,Pass (Live)
+17,58,Luka Milivojević,Crystal Palace,0.03,0.49,Saved,30.0,Right Foot,,Cheikhou Kouyaté,Pass (Live),Jeffrey Schlupp,Pass (Live)
+18,63,Jack Grealish,Aston Villa,0.02,,Blocked,31.0,Left Foot,,Keinan Davis,Pass (Live),Wesley Moraes,Pass (Live)
+19,65,Patrick van Aanholt,Crystal Palace,0.03,,Blocked,21.0,Left Foot,,Patrick van Aanholt,Pass (Live),Cheikhou Kouyaté,Pass (Live)
+20,67,Jordan Ayew,Crystal Palace,0.05,,Blocked,26.0,Right Foot,,Jordan Ayew,Take-On,Jeffrey Schlupp,Pass (Live)
+21,67,Wilfried Zaha,Crystal Palace,0.03,,Blocked,15.0,Right Foot,,Wilfried Zaha,Take-On,Luka Milivojević,Pass (Dead)
+22,67,James McArthur,Crystal Palace,0.08,,Off Target,9.0,Left Foot,Volley,Wilfried Zaha,Shot,,
+23,68,Wesley Moraes,Aston Villa,0.05,,Blocked,10.0,Head,,Frederic Guilbert,Pass (Live),Douglas Luiz,Pass (Live)
+24,69,Wilfried Zaha,Crystal Palace,0.07,,Blocked,15.0,Right Foot,,Wilfried Zaha,Take-On,James McArthur,Pass (Live)
+25,70,Jordan Ayew,Crystal Palace,0.03,,Off Target,25.0,Right Foot,,Patrick van Aanholt,Pass (Live),Cheikhou Kouyaté,Pass (Live)
+26,72,Jack Grealish,Aston Villa,0.02,,Blocked,26.0,Left Foot,,Conor Hourihane,Pass (Dead),Jack Grealish,Fouled
+27,73,Jordan Ayew,Crystal Palace,0.11,0.21,Goal,10.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Luka Milivojević,Pass (Live)
+28,78,Frederic Guilbert,Aston Villa,0.03,,Blocked,32.0,Left Foot,,Conor Hourihane,Pass (Live),Jack Grealish,Pass (Live)
+29,82,Frederic Guilbert,Aston Villa,0.01,,Off Target,36.0,Right Foot,,John McGinn,Pass (Live),Jack Grealish,Pass (Live)
+30,86,Gary Cahill,Crystal Palace,0.06,,Blocked,10.0,Head,,Luka Milivojević,Pass (Dead),,
+31,87,Cheikhou Kouyaté,Crystal Palace,0.07,,Off Target,9.0,Head,,Luka Milivojević,Pass (Dead),Gary Cahill,Shot
+32,90+5,Christian Benteke,Crystal Palace,0.04,,Off Target,24.0,Right Foot,,Andros Townsend,Pass (Live),Wilfried Zaha,Pass (Live)

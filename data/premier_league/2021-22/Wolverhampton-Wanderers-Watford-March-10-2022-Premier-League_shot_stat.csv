@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,13.0,Raúl Jiménez,Wolves,0.1,0.94,Goal,8.0,Left Foot,,Hwang Hee-chan,Pass (Live),Raúl Jiménez,Pass (Live)
+1,17.0,Daniel Podence,Wolves,0.03,,Off Target,24.0,Right Foot,,Rúben Neves,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+2,21.0,Daniel Podence,Wolves,0.07,0.22,Goal,29.0,Left Foot,,Daniel Podence,Interception,,
+3,25.0,Joshua King,Watford,0.22,,Off Target,13.0,Right Foot,,Moussa Sissoko,Pass (Live),Emmanuel Dennis,Pass (Live)
+4,33.0,Samir Santos,Watford,0.02,,Blocked,15.0,Head,,,Fouled,,
+5,36.0,Cucho,Watford,0.06,,Off Target,25.0,Right Foot,Free kick,Emmanuel Dennis,Fouled,Emmanuel Dennis,Take-On
+6,42.0,Cucho,Watford,0.05,,Blocked,14.0,Right Foot,,Joshua King,Pass (Live),Cucho,Pass (Live)
+7,42.0,Emmanuel Dennis,Watford,0.18,,Blocked,15.0,Right Foot,,Moussa Sissoko,Pass (Live),Cucho,Pass (Live)
+8,42.0,Christian Kabasele,Watford,0.02,,Off Target,26.0,Right Foot,,Emmanuel Dennis,Shot,,
+9,45.0,Hwang Hee-chan,Wolves,0.06,,Blocked,10.0,Right Foot,Volley,Raúl Jiménez,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+10,,,,,,,,,,,,,
+11,50.0,Daniel Podence,Wolves,0.02,0.03,Saved,52.0,Left Foot,,,,,
+12,60.0,Imran Louza,Watford,0.05,,Blocked,23.0,Left Foot,Free kick,Emmanuel Dennis,Fouled,Christian Kabasele,Pass (Live)
+13,61.0,Christian Kabasele,Watford,0.07,,Off Target,11.0,Head,,Imran Louza,Pass (Live),Emmanuel Dennis,Pass (Live)
+14,75.0,Pedro Neto,Wolves,0.09,0.39,Saved,10.0,Head,,Jonny Castro,Pass (Live),Daniel Podence,Pass (Live)
+15,75.0,Fábio Silva,Wolves,0.17,,Off Target,6.0,Right Foot,Volley,Pedro Neto,Pass (Live),Pedro Neto,Take-On
+16,78.0,Pedro Neto,Wolves,0.02,,Off Target,22.0,Left Foot,Volley,Rúben Neves,Pass (Live),Willy Boly,Pass (Live)
+17,80.0,Daniel Podence,Wolves,0.06,,Off Target,12.0,Right Foot,Volley,Rayan Aït-Nouri,Pass (Live),Jonny Castro,Pass (Live)
+18,84.0,Imran Louza,Watford,0.01,,Off Target,53.0,Left Foot,,Moussa Sissoko,Pass (Live),Imran Louza,Tackle
+19,85.0,Rúben Neves,Wolves,0.05,0.26,Goal,17.0,Right Foot,,Chiquinho,Pass (Live),Rayan Aït-Nouri,Pass (Live)

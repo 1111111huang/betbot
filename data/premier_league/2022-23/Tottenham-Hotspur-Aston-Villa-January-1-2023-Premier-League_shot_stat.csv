@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Ashley Young,Aston Villa,0.01,,Blocked,31.0,Right Foot,,Douglas Luiz,Pass (Dead),Douglas Luiz,Fouled
+1,9,Ollie Watkins,Aston Villa,0.11,,Off Target,16.0,Right Foot,,Lucas Digne,Pass (Live),Douglas Luiz,Pass (Live)
+2,13,Matt Doherty,Tottenham,0.08,,Blocked,8.0,Right Foot,,Matt Doherty,Take-On,Bryan Gil,Pass (Live)
+3,40,Harry Kane,Tottenham,0.13,,Blocked,8.0,Head,,Ivan Perišić,Pass (Live),Clément Lenglet,Pass (Live)
+4,44,Son Heung-min,Tottenham,0.04,0.08,Saved,23.0,Right Foot,Free kick,,Fouled,Pierre Højbjerg,Pass (Live)
+5,45+1,Emi Buendía,Aston Villa,0.02,,Off Target,26.0,Right Foot,,Ollie Watkins,Pass (Live),Douglas Luiz,Pass (Live)
+6,,,,,,,,,,,,,
+7,50,Douglas Luiz,Aston Villa,0.02,0.03,Saved,33.0,Right Foot,,Boubacar Kamara,Pass (Live),John McGinn,Pass (Live)
+8,50,Emi Buendía,Aston Villa,0.13,0.21,Goal,12.0,Right Foot,,Ollie Watkins,Pass (Live),Ollie Watkins,Take-On
+9,57,Ivan Perišić,Tottenham,0.23,,Off Target,13.0,Left Foot,,Yves Bissouma,Pass (Live),Pierre Højbjerg,Pass (Live)
+10,60,Douglas Luiz,Aston Villa,0.03,,Blocked,35.0,Right Foot,Free kick,Boubacar Kamara,Fouled,John McGinn,Pass (Live)
+11,64,Ollie Watkins,Aston Villa,0.07,,Blocked,13.0,Left Foot,,Emi Buendía,Pass (Live),Douglas Luiz,Pass (Live)
+12,64,Ollie Watkins,Aston Villa,0.04,,Blocked,11.0,Left Foot,,Lucas Digne,Pass (Dead),Boubacar Kamara,Pass (Live)
+13,68,Harry Kane,Tottenham,0.16,,Off Target,15.0,Left Foot,Volley,Son Heung-min,Pass (Live),Pierre Højbjerg,Pass (Live)
+14,68,Douglas Luiz,Aston Villa,0.05,,Blocked,28.0,Right Foot,,John McGinn,Pass (Live),Matty Cash,Pass (Live)
+15,73,Douglas Luiz,Aston Villa,0.3,0.53,Goal,9.0,Right Foot,,John McGinn,Pass (Live),Douglas Luiz,Pass (Live)
+16,79,Douglas Luiz,Aston Villa,0.04,0.02,Saved,22.0,Left Foot,,Emi Buendía,Pass (Live),,
+17,87,Son Heung-min,Tottenham,0.02,,Blocked,24.0,Right Foot,Deflected,Pierre Højbjerg,Pass (Live),Emerson,Pass (Live)
+18,88,Calum Chambers,Aston Villa,0.03,,Off Target,29.0,Right Foot,,Ollie Watkins,Pass (Live),Philippe Coutinho,Pass (Live)
+19,90+6,Ollie Watkins,Aston Villa,0.18,,Off Target,6.0,Head,,,,,

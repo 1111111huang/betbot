@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,John McGinn,Aston Villa,0.04,,Off Target,8.0,Left Foot,Volley,Matty Cash,Pass (Live),Ollie Watkins,Pass (Live)
+1,4,Tyrone Mings,Aston Villa,0.04,,Off Target,11.0,Head,,Conor Hourihane,Pass (Dead),Trézéguet,Pass (Live)
+2,21,Ollie Watkins,Aston Villa,0.03,,Blocked,14.0,Head,,Matty Cash,Pass (Live),Jack Grealish,Pass (Live)
+3,23,Douglas Luiz,Aston Villa,0.05,0.07,Saved,12.0,Head,,Trézéguet,Pass (Live),Matt Targett,Pass (Live)
+4,28,Matty Cash,Aston Villa,0.02,,Blocked,29.0,Right Foot,,Jack Grealish,Pass (Live),Matt Targett,Pass (Live)
+5,36,John Lundstram (pen),Sheffield Utd,0.79,0.98,Saved,13.0,Right Foot,,Chris Basham,Fouled,Oliver Burke,Pass (Live)
+6,41,Conor Hourihane,Aston Villa,0.05,,Off Target,21.0,Left Foot,,Jack Grealish,Pass (Live),Conor Hourihane,Pass (Live)
+7,45+5,Trézéguet,Aston Villa,0.23,,Off Target,4.0,Right Foot,Volley,Conor Hourihane,Pass (Dead),John McGinn,Fouled
+8,,,,,,,,,,,,,
+9,50,Matty Cash,Aston Villa,0.03,,Blocked,25.0,Right Foot,,Douglas Luiz,Pass (Live),Conor Hourihane,Pass (Live)
+10,55,Ollie Watkins,Aston Villa,0.04,,Off Target,14.0,Head,,Trézéguet,Pass (Live),Douglas Luiz,Pass (Live)
+11,63,Ezri Konsa,Aston Villa,0.09,0.45,Goal,6.0,Head,,Tyrone Mings,Pass (Live),Matt Targett,Pass (Dead)
+12,68,Jack Grealish,Aston Villa,0.04,,Off Target,23.0,Right Foot,,Ollie Watkins,Pass (Live),John McGinn,Pass (Live)
+13,72,Ethan Ampadu,Sheffield Utd,0.03,,Off Target,23.0,Right Foot,Volley,Ben Osborn,Pass (Dead),Oliver McBurnie,Fouled
+14,77,Trézéguet,Aston Villa,0.06,,Off Target,12.0,Right Foot,Volley,Jack Grealish,Pass (Live),Keinan Davis,Pass (Live)
+15,78,Douglas Luiz,Aston Villa,0.03,,Blocked,25.0,Right Foot,,John McGinn,Pass (Live),Jack Grealish,Pass (Live)
+16,78,Ollie Watkins,Aston Villa,0.04,,Off Target,17.0,Right Foot,,John McGinn,Pass (Live),Douglas Luiz,Shot
+17,79,Sander Berge,Sheffield Utd,0.05,,Blocked,15.0,Right Foot,,John Lundstram,Pass (Live),George Baldock,Pass (Live)
+18,81,Jack Grealish,Aston Villa,0.05,,Off Target,18.0,Right Foot,,John McGinn,Pass (Live),Matt Targett,Tackle
+19,85,John McGinn,Aston Villa,0.03,,Off Target,32.0,Left Foot,,Trézéguet,Pass (Live),Jack Grealish,Pass (Live)
+20,90,Sander Berge,Sheffield Utd,0.07,,Off Target,9.0,Left Foot,,Ben Osborn,Pass (Live),George Baldock,Pass (Live)
+21,90+2,Jack Grealish,Aston Villa,0.1,,Blocked,16.0,Left Foot,,Ollie Watkins,Pass (Live),John McGinn,Pass (Live)
+22,90+3,Douglas Luiz,Aston Villa,0.03,,Off Target,27.0,Right Foot,,Keinan Davis,Pass (Live),Jack Grealish,Pass (Live)

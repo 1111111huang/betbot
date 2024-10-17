@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Kevin De Bruyne,Manchester City,0.05,,Off Target,26.0,Left Foot,,Benjamin Mendy,Pass (Live),Benjamin Mendy,Pass (Live)
+1,10.0,Sergio Agüero,Manchester City,0.23,,Blocked,8.0,Left Foot,,Bernardo Silva,Pass (Live),Raheem Sterling,Pass (Live)
+2,10.0,İlkay Gündoğan,Manchester City,0.03,,Off Target,30.0,Right Foot,,,,,
+3,14.0,Kevin De Bruyne,Manchester City,0.07,,Woodwork,28.0,Right Foot,Free kick,Sergio Agüero,Fouled,,
+4,15.0,Sergio Agüero,Manchester City,0.34,0.36,Saved,5.0,Right Foot,,Kevin De Bruyne,Pass (Live),,
+5,15.0,John Stones,Manchester City,0.05,,Blocked,8.0,Head,,Kevin De Bruyne,Pass (Dead),Sergio Agüero,Shot
+6,16.0,Raheem Sterling,Manchester City,0.3,,Off Target,4.0,Head,,Kevin De Bruyne,Pass (Live),David Silva,Pass (Live)
+7,19.0,David Silva,Manchester City,0.05,,Blocked,13.0,Left Foot,,Benjamin Mendy,Pass (Live),Kevin De Bruyne,Pass (Live)
+8,28.0,Raheem Sterling,Manchester City,0.09,,Off Target,4.0,Head,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+9,39.0,Cenk Tosun,Crystal Palace,0.13,0.47,Goal,6.0,Head,,Gary Cahill,Pass (Live),James McCarthy,Pass (Dead)
+10,42.0,Bernardo Silva,Manchester City,0.05,0.13,Saved,15.0,Left Foot,,Kevin De Bruyne,Pass (Live),João Cancelo,Pass (Live)
+11,44.0,David Silva,Manchester City,0.04,0.07,Saved,19.0,Left Foot,,Kevin De Bruyne,Pass (Live),Benjamin Mendy,Pass (Live)
+12,,,,,,,,,,,,,
+13,51.0,Raheem Sterling,Manchester City,0.07,,Off Target,13.0,Right Foot,,David Silva,Pass (Live),John Stones,Pass (Live)
+14,52.0,Sergio Agüero,Manchester City,0.06,,Blocked,14.0,Left Foot,,Benjamin Mendy,Pass (Live),İlkay Gündoğan,Pass (Live)
+15,52.0,Bernardo Silva,Manchester City,0.12,0.13,Saved,6.0,Left Foot,,Sergio Agüero,Shot,,
+16,55.0,Cenk Tosun,Crystal Palace,0.07,0.21,Saved,17.0,Left Foot,,Wilfried Zaha,Pass (Live),Wilfried Zaha,Take-On
+17,56.0,James Tomkins,Crystal Palace,0.1,,Off Target,5.0,Head,,James McCarthy,Pass (Dead),Cenk Tosun,Shot
+18,56.0,Raheem Sterling,Manchester City,0.08,,Blocked,16.0,Right Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+19,57.0,Kevin De Bruyne,Manchester City,0.02,,Blocked,33.0,Right Foot,,İlkay Gündoğan,Pass (Live),Fernandinho,Pass (Live)
+20,59.0,Gary Cahill,Crystal Palace,0.03,,Blocked,26.0,Right Foot,Volley,Jordan Ayew,Fouled,Cheikhou Kouyaté,Pass (Live)
+21,59.0,Wilfried Zaha,Crystal Palace,0.05,0.06,Saved,15.0,Right Foot,,James McArthur,Pass (Live),James McCarthy,Pass (Live)
+22,60.0,Kevin De Bruyne,Manchester City,0.03,,Blocked,25.0,Left Foot,,João Cancelo,Pass (Live),John Stones,Pass (Live)
+23,63.0,Gabriel Jesus,Manchester City,0.08,,Off Target,8.0,Right Foot,,Sergio Agüero,Pass (Live),Gabriel Jesus,Pass (Live)
+24,66.0,Fernandinho,Manchester City,0.02,,Off Target,28.0,Right Foot,,İlkay Gündoğan,Pass (Live),Bernardo Silva,Pass (Live)
+25,70.0,Kevin De Bruyne,Manchester City,0.03,,Blocked,26.0,Right Foot,Deflected,İlkay Gündoğan,Pass (Live),Raheem Sterling,Pass (Live)
+26,74.0,Riyad Mahrez,Manchester City,0.05,,Off Target,17.0,Left Foot,,Raheem Sterling,Take-On,Benjamin Mendy,Pass (Live)
+27,82.0,Sergio Agüero,Manchester City,0.61,0.81,Goal,4.0,Right Foot,Volley,Gabriel Jesus,Pass (Live),Benjamin Mendy,Pass (Live)
+28,85.0,Kevin De Bruyne,Manchester City,0.03,,Off Target,30.0,Right Foot,,John Stones,Pass (Live),Riyad Mahrez,Pass (Live)
+29,87.0,Sergio Agüero,Manchester City,0.03,,Blocked,28.0,Right Foot,,,,,
+30,87.0,Sergio Agüero,Manchester City,0.24,0.69,Goal,10.0,Head,,Benjamin Mendy,Pass (Live),Fernandinho,Pass (Live)

@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Scott McTominay,Manchester Utd,0.06,0.03,Saved,18.0,Left Foot,,Scott McTominay,Take-On,Rasmus Højlund,Pass (Live)
+1,8,Phil Foden,Manchester City,0.25,0.19,Saved,7.0,Head,,Kyle Walker,Pass (Live),Rodri,Pass (Live)
+2,16,Rodri,Manchester City,0.03,,Off Target,21.0,Right Foot,Volley,Jack Grealish,Pass (Live),John Stones,Pass (Live)
+3,20,Jack Grealish,Manchester City,0.02,,Saved off Target,21.0,Right Foot,,John Stones,Pass (Live),Julián Álvarez,Pass (Dead)
+4,26,Erling Haaland (pen),Manchester City,0.79,0.99,Goal,13.0,Left Foot,,Rodri,Fouled,Phil Foden,Fouled
+5,31,Bruno Fernandes,Manchester Utd,0.08,,Off Target,7.0,Right Foot,,Rasmus Højlund,Pass (Live),Rasmus Højlund,Take-On
+6,38,Julián Álvarez,Manchester City,0.04,0.15,Saved,26.0,Right Foot,Free kick,Jack Grealish,Fouled,Rodri,Pass (Live)
+7,40,Jack Grealish,Manchester City,0.02,,Blocked,21.0,Right Foot,,Julián Álvarez,Pass (Live),Kyle Walker,Pass (Live)
+8,45+1,Scott McTominay,Manchester Utd,0.16,0.09,Saved,18.0,Right Foot,Volley,Marcus Rashford,Pass (Live),Harry Maguire,Pass (Live)
+9,45+3,Harry Maguire,Manchester Utd,0.03,,Off Target,12.0,Head,,Bruno Fernandes,Pass (Dead),Bruno Fernandes,Pass (Live)
+10,45+4,Erling Haaland,Manchester City,0.39,0.66,Saved,6.0,Head,,Bernardo Silva,Pass (Live),Jack Grealish,Pass (Live)
+11,,,,,,,,,,,,,
+12,48,Bruno Fernandes,Manchester Utd,0.02,0.05,Saved,27.0,Right Foot,,Marcus Rashford,Pass (Dead),,
+13,48,Phil Foden,Manchester City,0.21,,Off Target,5.0,Left Foot,Volley,Bernardo Silva,Pass (Live),Rodri,Pass (Live)
+14,49,Erling Haaland,Manchester City,0.29,0.33,Goal,5.0,Head,,Bernardo Silva,Pass (Live),Jack Grealish,Pass (Live)
+15,55,Julián Álvarez,Manchester City,0.04,,Blocked,10.0,Right Foot,,,,,
+16,57,Jack Grealish,Manchester City,0.06,0.16,Saved,18.0,Right Foot,,Phil Foden,Pass (Live),Julián Álvarez,Pass (Live)
+17,58,Jack Grealish,Manchester City,0.06,,Off Target,12.0,Left Foot,,Julián Álvarez,Pass (Live),John Stones,Pass (Live)
+18,63,Julián Álvarez,Manchester City,0.03,,Off Target,24.0,Left Foot,,Kyle Walker,Pass (Live),Rodri,Pass (Live)
+19,66,Bernardo Silva,Manchester City,0.05,0.02,Saved,21.0,Left Foot,,John Stones,Pass (Live),Phil Foden,Pass (Live)
+20,69,Marcus Rashford,Manchester Utd,0.54,,Off Target,8.0,Right Foot,Volley,Christian Eriksen,Pass (Live),Diogo Dalot,Pass (Live)
+21,71,Erling Haaland,Manchester City,0.5,0.44,Saved,10.0,Left Foot,,Jack Grealish,Pass (Live),Joško Gvardiol,Pass (Live)
+22,74,Jack Grealish,Manchester City,0.03,,Blocked,27.0,Right Foot,,Joško Gvardiol,Pass (Live),Rodri,Pass (Live)
+23,80,Rodri,Manchester City,0.05,0.09,Saved,25.0,Left Foot,Deflected,Joško Gvardiol,Pass (Live),Jack Grealish,Pass (Live)
+24,80,Phil Foden,Manchester City,0.97,0.91,Goal,2.0,Left Foot,,Erling Haaland,Pass (Live),Rodri,Shot
+25,82,Phil Foden,Manchester City,0.08,,Off Target,15.0,Left Foot,Volley,Kyle Walker,Pass (Live),Rodri,Pass (Live)
+26,85,Christian Eriksen,Manchester Utd,0.05,,Blocked,16.0,Right Foot,Volley,Bruno Fernandes,Pass (Dead),,
+27,90+4,Mateo Kovačić,Manchester City,0.06,,Blocked,23.0,Right Foot,,Kyle Walker,Pass (Live),Jeremy Doku,Pass (Live)
+28,90+6,Erling Haaland,Manchester City,0.05,,Blocked,30.0,Left Foot,Free kick,Rodri,Fouled,Mateo Kovačić,Shot

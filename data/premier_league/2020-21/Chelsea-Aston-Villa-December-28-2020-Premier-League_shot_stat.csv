@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Antonio Rüdiger,Chelsea,0.13,0.08,Saved,10.0,Right Foot,Volley,Mason Mount,Pass (Dead),,
+1,6,Jack Grealish,Aston Villa,0.04,0.35,Saved,20.0,Right Foot,,Anwar El Ghazi,Pass (Live),Ollie Watkins,Pass (Live)
+2,7,Anwar El Ghazi,Aston Villa,0.04,,Blocked,15.0,Right Foot,,Jack Grealish,Pass (Dead),Jack Grealish,Shot
+3,12,Christian Pulisic,Chelsea,0.06,,Off Target,15.0,Right Foot,,,,,
+4,14,Christian Pulisic,Chelsea,0.09,,Blocked,18.0,Right Foot,,Mason Mount,Pass (Live),Ben Chilwell,Pass (Live)
+5,19,Bertrand Traoré,Aston Villa,0.04,,Blocked,18.0,Left Foot,,John McGinn,Pass (Live),John McGinn,Take-On
+6,20,Ollie Watkins,Aston Villa,0.03,,Off Target,25.0,Right Foot,,John McGinn,Pass (Live),,
+7,25,Kortney Hause,Aston Villa,0.07,,Off Target,11.0,Head,,Jack Grealish,Pass (Dead),John McGinn,Fouled
+8,30,Matty Cash,Aston Villa,0.07,,Off Target,12.0,Right Foot,Volley,John McGinn,Pass (Live),Jack Grealish,Pass (Live)
+9,32,Olivier Giroud,Chelsea,0.13,,Blocked,9.0,Other,,César Azpilicueta,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+10,32,Christian Pulisic,Chelsea,0.89,,Off Target,3.0,Right Foot,Volley,Olivier Giroud,Shot,,
+11,34,Olivier Giroud,Chelsea,0.08,0.17,Goal,9.0,Head,,Ben Chilwell,Pass (Live),Christian Pulisic,Pass (Live)
+12,39,Mason Mount,Chelsea,0.06,,Off Target,10.0,Left Foot,,Mason Mount,Take-On,Callum Hudson-Odoi,Pass (Live)
+13,,,,,,,,,,,,,
+14,50,Anwar El Ghazi,Aston Villa,0.3,0.09,Goal,5.0,Right Foot,Volley,Matty Cash,Pass (Live),Jack Grealish,Pass (Live)
+15,58,N'Golo Kanté,Chelsea,0.03,,Off Target,26.0,Left Foot,,Callum Hudson-Odoi,Pass (Live),N'Golo Kanté,Pass (Live)
+16,59,N'Golo Kanté,Chelsea,0.05,0.1,Saved,22.0,Right Foot,,César Azpilicueta,Pass (Live),Christian Pulisic,Pass (Live)
+17,69,John McGinn,Aston Villa,0.03,,Woodwork,30.0,Left Foot,,Anwar El Ghazi,Pass (Live),Ollie Watkins,Pass (Live)
+18,69,Callum Hudson-Odoi,Chelsea,0.05,0.39,Saved,28.0,Right Foot,,N'Golo Kanté,Pass (Live),Mason Mount,Pass (Live)
+19,79,Christian Pulisic,Chelsea,0.03,0.06,Saved,26.0,Right Foot,,N'Golo Kanté,Pass (Live),César Azpilicueta,Pass (Live)
+20,80,Ben Chilwell,Chelsea,0.03,,Blocked,25.0,Left Foot,Volley,Kai Havertz,Pass (Live),N'Golo Kanté,Pass (Live)
+21,82,Jacob Ramsey,Aston Villa,0.03,,Off Target,22.0,Right Foot,,Ollie Watkins,Pass (Live),Matt Targett,Pass (Dead)
+22,83,Timo Werner,Chelsea,0.05,,Off Target,15.0,Right Foot,,Mason Mount,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+23,86,Mason Mount,Chelsea,0.03,,Blocked,30.0,Right Foot,,N'Golo Kanté,Pass (Live),Kai Havertz,Pass (Live)
+24,90,Antonio Rüdiger,Chelsea,0.05,,Off Target,12.0,Head,,Mason Mount,Pass (Dead),Timo Werner,Pass (Live)
+25,90+3,Ben Chilwell,Chelsea,0.05,,Off Target,15.0,Left Foot,Volley,Callum Hudson-Odoi,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+26,90+4,Jacob Ramsey,Aston Villa,0.07,,Blocked,17.0,Left Foot,,Ollie Watkins,Pass (Live),Keinan Davis,Pass (Live)

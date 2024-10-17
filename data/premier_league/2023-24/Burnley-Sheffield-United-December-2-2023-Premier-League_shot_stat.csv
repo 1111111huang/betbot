@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Jay Rodriguez,Burnley,0.12,0.71,Goal,7.0,Head,Deflected,Charlie Taylor,Pass (Live),Zeki Amdouni,Take-On
+1,10,Jay Rodriguez,Burnley,0.1,,Off Target,21.0,Right Foot,,Zeki Amdouni,Pass (Live),James Trafford,Pass (Live)
+2,12,Jacob Bruun Larsen,Burnley,0.03,,Blocked,17.0,Left Foot,,Sander Berge,Pass (Live),Vitinho,Pass (Live)
+3,13,Gustavo Hamer,Sheffield Utd,0.01,,Off Target,30.0,Right Foot,,Cameron Archer,Pass (Live),John Fleck,Pass (Live)
+4,20,Oliver Norwood,Sheffield Utd,0.02,0.15,Saved,33.0,Right Foot,,Wes Foderingham,Pass (Live),,
+5,29,Jacob Bruun Larsen,Burnley,0.41,0.44,Goal,14.0,Left Foot,,Dara O'Shea,Pass (Live),Vitinho,Pass (Live)
+6,31,Cameron Archer,Sheffield Utd,0.12,,Off Target,16.0,Left Foot,,John Fleck,Pass (Live),Auston Trusty,Take-On
+7,40,Jacob Bruun Larsen,Burnley,0.02,,Blocked,25.0,Right Foot,,Jacob Bruun Larsen,Pass (Live),Jay Rodriguez,Pass (Live)
+8,45+4,Dara O'Shea,Burnley,0.02,,Off Target,10.0,Head,,Jacob Bruun Larsen,Pass (Dead),Vitinho,Pass (Live)
+9,,,,,,,,,,,,,
+10,46,Jacob Bruun Larsen,Burnley,0.04,,Blocked,13.0,Right Foot,,Luca Koleosho,Pass (Live),Zeki Amdouni,Pass (Live)
+11,54,Luca Koleosho,Burnley,0.05,,Off Target,26.0,Right Foot,,Luca Koleosho,Take-On,Jacob Bruun Larsen,Pass (Live)
+12,63,Vitinho,Burnley,0.08,,Blocked,11.0,Left Foot,,Vitinho,Take-On,Jacob Bruun Larsen,Pass (Live)
+13,68,William Osula,Sheffield Utd,0.12,0.41,Saved,9.0,Left Foot,,Gustavo Hamer,Pass (Live),Gustavo Hamer,Take-On
+14,69,William Osula,Sheffield Utd,0.09,,Off Target,10.0,Head,,Bénie Traoré,Pass (Live),William Osula,Shot
+15,73,Zeki Amdouni,Burnley,0.19,0.7,Goal,14.0,Left Foot,,Zeki Amdouni,Take-On,Jordan Beyer,Pass (Live)
+16,74,Zeki Amdouni,Burnley,0.06,0.3,Saved,25.0,Right Foot,,Jóhann Berg Guðmundsson,Pass (Live),Jay Rodriguez,Pass (Live)
+17,74,Luca Koleosho,Burnley,0.2,,Woodwork,5.0,Left Foot,,Zeki Amdouni,Shot,,
+18,75,Luca Koleosho,Burnley,0.12,0.19,Goal,13.0,Right Foot,,Zeki Amdouni,Pass (Live),Vitinho,Pass (Live)
+19,78,Michael Obafemi,Burnley,0.06,,Off Target,17.0,Left Foot,,Jóhann Berg Guðmundsson,Pass (Live),Sander Berge,Pass (Live)
+20,80,Josh Brownhill,Burnley,0.06,0.31,Goal,21.0,Right Foot,,Michael Obafemi,Pass (Live),Nathan Redmond,Pass (Live)
+21,86,Vitinho,Burnley,0.08,,Off Target,13.0,Left Foot,,Jóhann Berg Guðmundsson,Pass (Live),Nathan Redmond,Pass (Live)
+22,87,William Osula,Sheffield Utd,0.03,0.05,Saved,15.0,Left Foot,,James Mcatee,Pass (Live),,
+23,89,Jóhann Berg Guðmundsson,Burnley,0.06,,Blocked,15.0,Left Foot,,Nathan Redmond,Pass (Live),Nathan Redmond,Take-On
+24,89,Jordan Beyer,Burnley,0.12,,Blocked,4.0,Head,Deflected,Jóhann Berg Guðmundsson,Pass (Dead),Jóhann Berg Guðmundsson,Shot
+25,90+4,Josh Brownhill,Burnley,0.01,0.11,Saved,30.0,Right Foot,,Jóhann Berg Guðmundsson,Pass (Live),Josh Brownhill,Pass (Dead)

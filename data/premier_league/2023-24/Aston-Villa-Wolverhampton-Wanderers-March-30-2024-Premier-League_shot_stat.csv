@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Nélson Semedo,Wolves,0.04,,Blocked,15.0,Right Foot,Volley,,,,
+1,5,Tommy Doyle,Wolves,0.02,,Off Target,29.0,Right Foot,,Nélson Semedo,Shot,,
+2,10,Pablo Sarabia,Wolves,0.15,,Off Target,11.0,Left Foot,,Nélson Semedo,Pass (Live),Pablo Sarabia,Pass (Live)
+3,15,Rayan Aït-Nouri,Wolves,0.69,0.8,Saved,8.0,Left Foot,,Pablo Sarabia,Pass (Live),Tommy Doyle,Pass (Live)
+4,16,Max Kilman,Wolves,0.01,,Off Target,11.0,Head,,Pablo Sarabia,Pass (Dead),Rayan Aït-Nouri,Shot
+5,22,Pablo Sarabia,Wolves,0.03,0.12,Saved,26.0,Left Foot,,Tommy Doyle,Pass (Live),Mario Lemina,Pass (Live)
+6,28,Ollie Watkins,Aston Villa,0.23,,Off Target,10.0,Left Foot,,Youri Tielemans,Pass (Live),Moussa Diaby,Pass (Live)
+7,33,Pau Torres,Aston Villa,0.05,0.06,Saved,10.0,Head,,Leon Bailey,Pass (Live),Youri Tielemans,Pass (Live)
+8,33,Mario Lemina,Wolves,0.02,,Blocked,19.0,Right Foot,Volley,Pablo Sarabia,Pass (Live),João Gomes,Pass (Live)
+9,36,Moussa Diaby,Aston Villa,0.07,0.13,Goal,21.0,Left Foot,,Douglas Luiz,Pass (Dead),Douglas Luiz,Fouled
+10,45+1,Ezri Konsa,Aston Villa,0.06,,Off Target,23.0,Left Foot,,Diego Carlos,Pass (Live),Youri Tielemans,Pass (Live)
+11,,,,,,,,,,,,,
+12,47,Diego Carlos,Aston Villa,0.26,,Off Target,8.0,Head,,Leon Bailey,Pass (Live),Douglas Luiz,Pass (Dead)
+13,48,Leon Bailey,Aston Villa,0.03,,Off Target,22.0,Left Foot,,Youri Tielemans,Pass (Live),Youri Tielemans,Tackle
+14,52,Pablo Sarabia,Wolves,0.14,,Off Target,22.0,Left Foot,Free kick,João Gomes,Fouled,Toti Gomes,Pass (Live)
+15,56,Mario Lemina,Wolves,0.17,0.47,Saved,9.0,Head,,Pablo Sarabia,Pass (Live),Pablo Sarabia,Tackle
+16,62,Leon Chiwome,Wolves,0.04,,Blocked,11.0,Left Foot,,Mario Lemina,Pass (Live),Santiago Bueno,Pass (Live)
+17,65,Ezri Konsa,Aston Villa,0.07,0.46,Goal,10.0,Right Foot,,Moussa Diaby,Pass (Live),Nicolò Zaniolo,Pass (Live)
+18,66,Nicolò Zaniolo,Aston Villa,0.12,0.04,Saved,15.0,Left Foot,,Moussa Diaby,Pass (Live),Jhon Durán,Pass (Live)
+19,67,Nicolò Zaniolo,Aston Villa,0.05,0.05,Saved,10.0,Left Foot,,Douglas Luiz,Pass (Live),Jhon Durán,Pass (Live)
+20,74,Jhon Durán,Aston Villa,0.03,,Blocked,14.0,Left Foot,,Lucas Digne,Pass (Live),Lucas Digne,Tackle
+21,87,Matt Doherty,Wolves,0.07,,Off Target,7.0,Head,,Hugo Bueno,Pass (Live),Boubacar Traoré,Pass (Live)
+22,90+2,Nicolò Zaniolo,Aston Villa,0.02,,Blocked,20.0,Left Foot,Volley,Leon Bailey,Fouled,Youri Tielemans,Pass (Live)
+23,90+7,Mario Lemina,Wolves,0.06,,Off Target,8.0,Head,,Pablo Sarabia,Pass (Dead),Pablo Sarabia,Pass (Live)
+24,90+9,Nathan Fraser,Wolves,0.05,,Off Target,14.0,Right Foot,,Matt Doherty,Pass (Live),,

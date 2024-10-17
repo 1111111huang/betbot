@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Hwang Hee-chan,Wolves,0.02,,Blocked,32.0,Right Foot,,João Moutinho,Pass (Live),Willy Boly,Tackle
+1,5,João Moutinho,Wolves,0.03,,Blocked,26.0,Left Foot,,Jonny Castro,Pass (Live),Pedro Neto,Pass (Live)
+2,7,Jonny Castro,Wolves,0.04,,Blocked,17.0,Right Foot,Volley,João Moutinho,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+3,7,Teemu Pukki,Norwich City,0.02,,Off Target,29.0,Left Foot,,Pierre Lees-Melou,Pass (Live),Kieran Dowell,Pass (Live)
+4,9,Rayan Aït-Nouri,Wolves,0.03,,Off Target,27.0,Right Foot,,Rúben Neves,Pass (Live),João Moutinho,Pass (Live)
+5,11,Teemu Pukki,Norwich City,0.29,,Off Target,9.0,Right Foot,,Kieran Dowell,Pass (Live),Dimitris Giannoulis,Pass (Live)
+6,15,Teemu Pukki,Norwich City,0.09,0.68,Saved,12.0,Right Foot,,Mathias Normann,Pass (Live),Mathias Normann,Take-On
+7,16,Rúben Neves,Wolves,0.02,,Off Target,23.0,Left Foot,Volley,Rúben Neves,Take-On,Rayan Aït-Nouri,Pass (Live)
+8,22,Mathias Normann,Norwich City,0.04,,Off Target,17.0,Left Foot,,Max Aarons,Pass (Dead),,
+9,28,Mathias Normann,Norwich City,0.02,,Off Target,10.0,Head,,Kieran Dowell,Pass (Dead),Teemu Pukki,Pass (Live)
+10,32,Hwang Hee-chan,Wolves,0.09,,Off Target,11.0,Head,,Raúl Jiménez,Pass (Live),Jonny Castro,Pass (Live)
+11,36,Raúl Jiménez,Wolves,0.02,,Off Target,31.0,Right Foot,Volley,Conor Coady,Pass (Live),,
+12,37,Teemu Pukki,Norwich City,0.03,,Blocked,15.0,Right Foot,,Kieran Dowell,Pass (Live),Dimitris Giannoulis,Pass (Live)
+13,37,Teemu Pukki,Norwich City,0.09,0.18,Goal,14.0,Left Foot,Deflected,Max Aarons,Pass (Live),,
+14,42,Rúben Neves,Wolves,0.03,0.03,Saved,30.0,Right Foot,,Raúl Jiménez,Pass (Live),João Moutinho,Pass (Live)
+15,43,Pedro Neto,Wolves,0.07,,Off Target,19.0,Left Foot,,,,,
+16,,,,,,,,,,,,,
+17,48,Pedro Neto,Wolves,0.04,,Blocked,22.0,Left Foot,Free kick,Hwang Hee-chan,Fouled,Hwang Hee-chan,Interception
+18,48,Pedro Neto,Wolves,0.02,,Off Target,31.0,Left Foot,,Raúl Jiménez,Pass (Live),João Moutinho,Pass (Live)
+19,54,Toti Gomes,Wolves,0.04,,Blocked,9.0,Head,,João Moutinho,Pass (Dead),Chiquinho,Fouled
+20,55,Rayan Aït-Nouri,Wolves,0.1,0.3,Goal,9.0,Head,,,,,
+21,58,Pedro Neto,Wolves,0.27,0.73,Saved,6.0,Head,,Chiquinho,Pass (Live),Raúl Jiménez,Pass (Live)
+22,60,Teemu Pukki,Norwich City,0.06,,Off Target,18.0,Left Foot,,Teemu Pukki,Take-On,Pierre Lees-Melou,Tackle
+23,63,Grant Hanley,Norwich City,0.23,,Off Target,6.0,Head,,Mathias Normann,Pass (Dead),Dimitris Giannoulis,Fouled
+24,65,Pedro Neto,Wolves,0.01,,Blocked,32.0,Left Foot,,João Moutinho,Pass (Dead),Jonny Castro,Fouled
+25,80,Fábio Silva,Wolves,0.03,,Off Target,13.0,Head,,Daniel Podence,Pass (Live),Chiquinho,Pass (Live)
+26,86,Chiquinho,Wolves,0.03,0.14,Saved,15.0,Right Foot,,Raúl Jiménez,Pass (Live),João Moutinho,Pass (Live)
+27,90,Pierre Lees-Melou,Norwich City,0.03,,Off Target,21.0,Right Foot,,Pierre Lees-Melou,Take-On,Jakob Sørensen,Interception
+28,90+4,Grant Hanley,Norwich City,0.14,,Off Target,8.0,Head,,Jon Rowe,Pass (Dead),Dimitris Giannoulis,Pass (Live)

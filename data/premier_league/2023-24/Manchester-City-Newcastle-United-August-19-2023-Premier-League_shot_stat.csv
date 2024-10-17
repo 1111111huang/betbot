@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9.0,Jack Grealish,Manchester City,0.03,,Blocked,16.0,Right Foot,,Julián Álvarez,Pass (Live),Phil Foden,Pass (Live)
+1,14.0,Manuel Akanji,Manchester City,0.03,,Off Target,27.0,Left Foot,,Phil Foden,Pass (Live),Kyle Walker,Pass (Live)
+2,21.0,Joelinton,Newcastle Utd,0.04,,Blocked,19.0,Right Foot,,Alexander Isak,Pass (Live),Miguel Almirón,Pass (Live)
+3,29.0,Jack Grealish,Manchester City,0.02,,Blocked,18.0,Right Foot,,Phil Foden,Pass (Live),Erling Haaland,Pass (Live)
+4,29.0,Mateo Kovačić,Manchester City,0.07,,Blocked,22.0,Left Foot,,Kyle Walker,Pass (Live),Jack Grealish,Shot
+5,30.0,Phil Foden,Manchester City,0.05,,Blocked,21.0,Left Foot,,Manuel Akanji,Pass (Live),Rodri,Pass (Live)
+6,31.0,Julián Álvarez,Manchester City,0.11,0.56,Goal,17.0,Right Foot,,Phil Foden,Pass (Live),Mateo Kovačić,Pass (Live)
+7,35.0,Mateo Kovačić,Manchester City,0.03,,Blocked,29.0,Right Foot,,Julián Álvarez,Take-On,Phil Foden,Pass (Live)
+8,37.0,Miguel Almirón,Newcastle Utd,0.03,,Blocked,18.0,Left Foot,,Kieran Trippier,Pass (Live),Sven Botman,Pass (Live)
+9,38.0,Jack Grealish,Manchester City,0.04,,Blocked,16.0,Right Foot,,Phil Foden,Pass (Live),Mateo Kovačić,Pass (Live)
+10,41.0,Erling Haaland,Manchester City,0.08,,Off Target,16.0,Left Foot,,Phil Foden,Pass (Live),Julián Álvarez,Pass (Live)
+11,,,,,,,,,,,,,
+12,48.0,Anthony Gordon,Newcastle Utd,0.03,,Blocked,19.0,Right Foot,,Joelinton,Pass (Live),Alexander Isak,Pass (Live)
+13,49.0,Anthony Gordon,Newcastle Utd,0.05,,Off Target,13.0,Left Foot,,Joelinton,Pass (Live),Kieran Trippier,Pass (Live)
+14,50.0,Erling Haaland,Manchester City,0.07,0.11,Saved,16.0,Left Foot,Volley,Ederson,Pass (Dead),,
+15,63.0,Erling Haaland,Manchester City,0.17,,Off Target,15.0,Left Foot,,Phil Foden,Pass (Live),Jack Grealish,Pass (Live)
+16,65.0,Erling Haaland,Manchester City,0.1,0.04,Saved,13.0,Right Foot,,Phil Foden,Pass (Live),Rúben Dias,Pass (Live)
+17,66.0,Bruno Guimarães,Newcastle Utd,0.07,,Off Target,22.0,Right Foot,,Miguel Almirón,Pass (Live),Bruno Guimarães,Pass (Live)
+18,70.0,Harvey Barnes,Newcastle Utd,0.03,0.11,Saved,28.0,Right Foot,,Callum Wilson,Pass (Live),Callum Wilson,Take-On
+19,78.0,Miguel Almirón,Newcastle Utd,0.03,,Blocked,22.0,Left Foot,,Elliot Anderson,Pass (Live),Harvey Barnes,Pass (Live)
+20,88.0,Phil Foden,Manchester City,0.07,,Blocked,15.0,Left Foot,,Julián Álvarez,Pass (Live),Rodri,Pass (Live)
+21,89.0,Phil Foden,Manchester City,0.15,0.64,Saved,12.0,Right Foot,,Erling Haaland,Pass (Live),Rodri,Pass (Live)

@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Philip Billing,Bournemouth,0.11,0.03,Saved,9.0,Left Foot,,Jack Stacey,Pass (Live),Ryan Fraser,Pass (Live)
+1,5,Philip Billing,Bournemouth,0.11,,Off Target,9.0,Left Foot,,Philip Billing,Take-On,Jack Stacey,Pass (Dead)
+2,7,Marcos Alonso,Chelsea,0.04,,Blocked,12.0,Left Foot,Volley,Mason Mount,Pass (Live),Pedro,Pass (Live)
+3,8,Mason Mount,Chelsea,0.02,0.2,Saved,28.0,Right Foot,Volley,Reece James,Pass (Dead),Marcos Alonso,Shot
+4,9,Callum Wilson,Bournemouth,0.05,0.07,Saved,9.0,Right Foot,Volley,Joshua King,Pass (Live),Philip Billing,Pass (Live)
+5,25,Mason Mount,Chelsea,0.03,,Off Target,25.0,Right Foot,,Reece James,Pass (Live),Jorginho,Pass (Live)
+6,30,Mason Mount,Chelsea,0.07,0.04,Saved,16.0,Right Foot,Volley,Marcos Alonso,Pass (Live),César Azpilicueta,Pass (Live)
+7,33,Olivier Giroud,Chelsea,0.08,,Woodwork,6.0,Left Foot,Volley,Reece James,Pass (Live),Jorginho,Pass (Live)
+8,33,Marcos Alonso,Chelsea,0.54,0.86,Goal,3.0,Left Foot,Volley,Olivier Giroud,Shot,,
+9,36,Marcos Alonso,Chelsea,0.04,,Off Target,11.0,Head,,Pedro,Pass (Dead),Reece James,Pass (Live)
+10,41,Reece James,Chelsea,0.01,0.1,Saved,32.0,Right Foot,,Jorginho,Pass (Live),Mateo Kovačić,Pass (Live)
+11,41,Andreas Christensen,Chelsea,0.03,,Off Target,13.0,Head,,Marcos Alonso,Pass (Live),César Azpilicueta,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Olivier Giroud,Chelsea,0.44,,Off Target,9.0,Left Foot,,Marcos Alonso,Pass (Live),Mateo Kovačić,Pass (Live)
+14,50,Jack Stacey,Bournemouth,0.04,,Off Target,16.0,Right Foot,,Philip Billing,Pass (Live),Jefferson Lerma,Pass (Live)
+15,53,Reece James,Chelsea,0.03,,Off Target,25.0,Right Foot,,,,,
+16,54,Jefferson Lerma,Bournemouth,0.1,0.24,Goal,7.0,Head,,Ryan Fraser,Pass (Dead),Ryan Fraser,Pass (Dead)
+17,57,Joshua King,Bournemouth,0.75,0.98,Goal,4.0,Right Foot,,Jack Stacey,Pass (Live),Philip Billing,Pass (Live)
+18,63,Nathan Aké,Bournemouth,0.04,,Blocked,9.0,Head,,Ryan Fraser,Pass (Live),Philip Billing,Pass (Live)
+19,63,Callum Wilson,Bournemouth,0.12,0.14,Saved,9.0,Left Foot,Volley,Nathan Aké,Shot,,
+20,64,Callum Wilson,Bournemouth,0.05,,Off Target,13.0,Head,,Lewis Cook,Pass (Live),Adam Smith,Pass (Live)
+21,66,Olivier Giroud,Chelsea,0.09,,Off Target,8.0,Head,,Reece James,Pass (Live),César Azpilicueta,Pass (Live)
+22,71,Ross Barkley,Chelsea,0.03,,Off Target,25.0,Left Foot,,Pedro,Pass (Live),Marcos Alonso,Pass (Live)
+23,75,Ross Barkley,Chelsea,0.04,,Blocked,22.0,Right Foot,,Pedro,Pass (Live),Mason Mount,Pass (Live)
+24,76,Marcos Alonso,Chelsea,0.02,,Blocked,33.0,Left Foot,,Mateo Kovačić,Pass (Live),Reece James,Pass (Dead)
+25,78,Pedro,Chelsea,0.05,,Blocked,14.0,Right Foot,Volley,Ross Barkley,Pass (Live),Mateo Kovačić,Pass (Live)
+26,78,César Azpilicueta,Chelsea,0.1,,Blocked,9.0,Left Foot,,Pedro,Shot,,
+27,83,César Azpilicueta,Chelsea,0.06,,Off Target,9.0,Right Foot,,Andreas Christensen,Pass (Live),Reece James,Pass (Live)
+28,85,Marcos Alonso,Chelsea,0.05,,Off Target,20.0,Left Foot,Volley,Mateo Kovačić,Pass (Live),Marcos Alonso,Pass (Live)
+29,85,Pedro,Chelsea,0.07,0.13,Saved,15.0,Right Foot,,César Azpilicueta,Pass (Live),Andreas Christensen,Pass (Live)
+30,85,Marcos Alonso,Chelsea,0.05,0.19,Goal,10.0,Head,,Pedro,Shot,,
+31,90+1,Ross Barkley,Chelsea,0.03,,Off Target,23.0,Left Foot,,Marcos Alonso,Pass (Live),Marcos Alonso,Take-On
+32,90+2,Marcos Alonso,Chelsea,0.06,,Off Target,9.0,Head,,César Azpilicueta,Pass (Live),Reece James,Pass (Live)

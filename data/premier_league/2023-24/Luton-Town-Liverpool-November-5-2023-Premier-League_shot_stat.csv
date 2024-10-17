@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Ross Barkley,Luton Town,0.02,0.15,Saved,24.0,Right Foot,,Alfie Doughty,Pass (Dead),,
+1,5,Darwin Núñez,Liverpool,0.02,0.5,Saved,27.0,Right Foot,,Joe Gomez,Pass (Live),Ryan Gravenberch,Pass (Live)
+2,6,Joe Gomez,Liverpool,0.11,,Off Target,9.0,Right Foot,Volley,Darwin Núñez,Shot,,
+3,7,Carlton Morris,Luton Town,0.06,,Blocked,19.0,Right Foot,,Tom Lockyer,Tackle,,
+4,10,Darwin Núñez,Liverpool,0.03,,Off Target,27.0,Right Foot,,Diogo Jota,Pass (Live),,
+5,13,Darwin Núñez,Liverpool,0.19,,Woodwork,12.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Virgil van Dijk,Pass (Live)
+6,15,Issa Kaboré,Luton Town,0.07,,Off Target,12.0,Right Foot,,Chiedozie Ogbene,Take-On,Alfie Doughty,Pass (Live)
+7,16,Darwin Núñez,Liverpool,0.01,0.42,Saved,27.0,Right Foot,,Ryan Gravenberch,Pass (Live),Mohamed Salah,Pass (Live)
+8,21,Mohamed Salah,Liverpool,0.11,,Off Target,17.0,Left Foot,,Joe Gomez,Fouled,Trent Alexander-Arnold,Pass (Live)
+9,24,Darwin Núñez,Liverpool,0.03,,Off Target,11.0,Head,,Mohamed Salah,Pass (Live),Diogo Jota,Pass (Live)
+10,33,Diogo Jota,Liverpool,0.26,0.65,Saved,12.0,Right Foot,,Ryan Gravenberch,Pass (Live),Joe Gomez,Pass (Live)
+11,34,Darwin Núñez,Liverpool,0.02,,Blocked,10.0,Head,,Trent Alexander-Arnold,Pass (Live),Ibrahima Konaté,Pass (Live)
+12,36,Trent Alexander-Arnold,Liverpool,0.04,,Blocked,22.0,Right Foot,Volley,Dominik Szoboszlai,Pass (Dead),Darwin Núñez,Shot
+13,41,Ross Barkley,Luton Town,0.03,,Off Target,27.0,Right Foot,,,,,
+14,45,Diogo Jota,Liverpool,0.01,,Off Target,14.0,Head,,Trent Alexander-Arnold,Pass (Live),Dominik Szoboszlai,Pass (Dead)
+15,,,,,,,,,,,,,
+16,53,Chiedozie Ogbene,Luton Town,0.03,0.03,Saved,26.0,Right Foot,,Carlton Morris,Pass (Live),Marvelous Nakamba,Pass (Live)
+17,57,Dominik Szoboszlai,Liverpool,0.02,,Blocked,33.0,Right Foot,,Darwin Núñez,Pass (Live),Alexis Mac Allister,Pass (Live)
+18,63,Trent Alexander-Arnold,Liverpool,0.01,,Off Target,41.0,Right Foot,,Joe Gomez,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+19,65,Carlton Morris,Luton Town,0.17,0.43,Saved,11.0,Left Foot,,Chiedozie Ogbene,Take-On,Chiedozie Ogbene,Take-On
+20,68,Darwin Núñez,Liverpool,0.03,,Blocked,25.0,Right Foot,Volley,Trent Alexander-Arnold,Pass (Live),Virgil van Dijk,Pass (Live)
+21,68,Cody Gakpo,Liverpool,0.57,,Off Target,6.0,Right Foot,Volley,Harvey Elliott,Pass (Live),Ibrahima Konaté,Pass (Live)
+22,70,Mohamed Salah,Liverpool,0.51,,Off Target,4.0,Head,,Trent Alexander-Arnold,Pass (Live),Kostas Tsimikas,Pass (Live)
+23,70,Darwin Núñez,Liverpool,0.48,,Off Target,5.0,Right Foot,,Mohamed Salah,Shot,,
+24,72,Darwin Núñez,Liverpool,0.07,0.49,Saved,16.0,Right Foot,,Mohamed Salah,Pass (Live),Harvey Elliott,Pass (Live)
+25,73,Harvey Elliott,Liverpool,0.02,,Blocked,25.0,Left Foot,,Darwin Núñez,Shot,,
+26,78,Cody Gakpo,Liverpool,0.02,,Blocked,18.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Kostas Tsimikas,Pass (Live)
+27,79,Ryan Gravenberch,Liverpool,0.02,0.29,Saved,29.0,Left Foot,,Alexis Mac Allister,Pass (Live),Ibrahima Konaté,Pass (Live)
+28,80,Virgil van Dijk,Liverpool,0.07,,Off Target,10.0,Head,,Trent Alexander-Arnold,Pass (Dead),Ryan Gravenberch,Shot
+29,80,Tahith Chong,Luton Town,0.42,0.48,Goal,10.0,Left Foot,,Issa Kaboré,Pass (Live),Ross Barkley,Pass (Live)
+30,86,Ibrahima Konaté,Liverpool,0.02,,Off Target,14.0,Head,,Kostas Tsimikas,Pass (Live),Alexis Mac Allister,Pass (Live)
+31,90+5,Luis Díaz,Liverpool,0.15,0.07,Goal,7.0,Other,,Harvey Elliott,Pass (Live),Ibrahima Konaté,Pass (Live)
+32,90+10,Issa Kaboré,Luton Town,0.02,0.14,Saved,14.0,Right Foot,,,,,

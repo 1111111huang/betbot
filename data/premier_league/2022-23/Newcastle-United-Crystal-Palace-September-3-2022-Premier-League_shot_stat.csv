@@ -1,0 +1,44 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Wilfried Zaha,Crystal Palace,0.02,0.02,Saved,30.0,Right Foot,,Jean-Philippe Mateta,Fouled,Marc Guéhi,Pass (Live)
+1,13,Wilfried Zaha,Crystal Palace,0.03,,Blocked,18.0,Right Foot,,Cheick Doucouré,Pass (Live),Joachim Andersen,Pass (Live)
+2,16,Alexander Isak,Newcastle Utd,0.35,0.59,Saved,15.0,Right Foot,,,,,
+3,19,Miguel Almirón,Newcastle Utd,0.08,,Off Target,22.0,Left Foot,Volley,,,,
+4,20,Joelinton,Newcastle Utd,0.21,,Off Target,4.0,Left Foot,Volley,Kieran Trippier,Pass (Live),Ryan Fraser,Pass (Dead)
+5,27,Cheick Doucouré,Crystal Palace,0.02,,Off Target,30.0,Right Foot,,Joel Ward,Pass (Live),Joel Ward,Take-On
+6,27,Jean-Philippe Mateta,Crystal Palace,0.09,0.06,Saved,14.0,Right Foot,,Cheick Doucouré,Shot,,
+7,27,Jean-Philippe Mateta,Crystal Palace,0.08,,Blocked,20.0,Left Foot,,Cheick Doucouré,Tackle,,
+8,28,Jean-Philippe Mateta,Crystal Palace,0.05,0.11,Saved,10.0,Head,,Eberechi Eze,Pass (Dead),Jean-Philippe Mateta,Shot
+9,34,Sean Longstaff,Newcastle Utd,0.11,0.04,Saved,10.0,Head,,Matt Targett,Pass (Dead),,
+10,34,Joelinton,Newcastle Utd,0.44,,Blocked,4.0,Left Foot,,Sean Longstaff,Shot,,
+11,34,Sven Botman,Newcastle Utd,0.16,,Blocked,9.0,Left Foot,,Joelinton,Shot,,
+12,35,Joelinton,Newcastle Utd,0.03,,Blocked,12.0,Head,,Kieran Trippier,Pass (Dead),Sven Botman,Shot
+13,36,Fabian Schär,Newcastle Utd,0.06,,Blocked,13.0,Right Foot,,Sean Longstaff,Fouled,Matt Targett,Pass (Live)
+14,36,Miguel Almirón,Newcastle Utd,0.04,,Blocked,22.0,Left Foot,,Fabian Schär,Shot,,
+15,37,Ryan Fraser,Newcastle Utd,0.03,,Blocked,7.0,Left Foot,,Kieran Trippier,Pass (Live),Miguel Almirón,Pass (Live)
+16,39,Sean Longstaff,Newcastle Utd,0.04,,Blocked,16.0,Right Foot,,Ryan Fraser,Shot,,
+17,40,Fabian Schär,Newcastle Utd,0.06,,Off Target,11.0,Head,,Kieran Trippier,Pass (Dead),Alexander Isak,Pass (Live)
+18,43,Sven Botman,Newcastle Utd,0.05,0.05,Saved,12.0,Left Foot,Volley,Kieran Trippier,Fouled,Joe Willock,Pass (Live)
+19,45,Alexander Isak,Newcastle Utd,0.09,0.22,Saved,19.0,Right Foot,,Miguel Almirón,Pass (Live),Sean Longstaff,Pass (Live)
+20,45+2,Eberechi Eze,Crystal Palace,0.08,0.03,Saved,22.0,Left Foot,,Jean-Philippe Mateta,Pass (Live),Jeffrey Schlupp,Pass (Live)
+21,,,,,,,,,,,,,
+22,59,Miguel Almirón,Newcastle Utd,0.07,,Off Target,13.0,Left Foot,Volley,Sean Longstaff,Pass (Live),Sean Longstaff,Pass (Live)
+23,61,Jean-Philippe Mateta,Crystal Palace,0.06,0.05,Saved,21.0,Right Foot,,Jordan Ayew,Pass (Live),Jean-Philippe Mateta,Pass (Live)
+24,63,Wilfried Zaha,Crystal Palace,0.02,,Blocked,27.0,Right Foot,,Jordan Ayew,Pass (Live),,
+25,64,Jeffrey Schlupp,Crystal Palace,0.05,,Blocked,17.0,Left Foot,,Odsonne Édouard,Pass (Live),Wilfried Zaha,Pass (Live)
+26,64,Cheick Doucouré,Crystal Palace,0.04,,Blocked,18.0,Right Foot,,Odsonne Édouard,Pass (Live),Cheick Doucouré,Pass (Live)
+27,66,Jeffrey Schlupp,Crystal Palace,0.04,,Blocked,24.0,Left Foot,,Michael Olise,Fouled,Jordan Ayew,Pass (Live)
+28,66,Cheick Doucouré,Crystal Palace,0.01,,Off Target,22.0,Right Foot,Volley,Jeffrey Schlupp,Shot,,
+29,68,Jordan Ayew,Crystal Palace,0.07,0.04,Saved,29.0,Left Foot,,Odsonne Édouard,Pass (Live),Cheick Doucouré,Pass (Live)
+30,73,Odsonne Édouard,Crystal Palace,0.11,0.03,Saved,12.0,Right Foot,,Jordan Ayew,Pass (Live),Michael Olise,Pass (Live)
+31,73,Marc Guéhi,Crystal Palace,0.08,0.21,Saved,9.0,Head,,Michael Olise,Pass (Dead),Odsonne Édouard,Shot
+32,76,Joe Willock,Newcastle Utd,0.21,0.21,Saved,14.0,Left Foot,,Alexander Isak,Pass (Live),Sven Botman,Pass (Live)
+33,80,Cheick Doucouré,Crystal Palace,0.04,,Off Target,21.0,Right Foot,,,,,
+34,81,Jacob Murphy,Newcastle Utd,0.1,,Blocked,14.0,Right Foot,,Joelinton,Pass (Live),Jacob Murphy,Pass (Live)
+35,81,Dan Burn,Newcastle Utd,0.02,,Off Target,14.0,Head,,Kieran Trippier,Pass (Dead),,
+36,83,Jeffrey Schlupp,Crystal Palace,0.04,,Off Target,23.0,Left Foot,Volley,,,,
+37,86,Joe Willock,Newcastle Utd,0.24,,Off Target,5.0,Left Foot,Volley,,,,
+38,89,Kieran Trippier,Newcastle Utd,0.07,,Blocked,29.0,Right Foot,Free kick,Sean Longstaff,Fouled,Fabian Schär,Pass (Live)
+39,89,Alexander Isak,Newcastle Utd,0.32,,Blocked,5.0,Right Foot,,Elliot Anderson,Pass (Live),Joelinton,Pass (Live)
+40,90+3,Jacob Murphy,Newcastle Utd,0.02,,Blocked,18.0,Left Foot,,Joelinton,Pass (Live),Chris Wood,Pass (Live)
+41,90+4,Odsonne Édouard,Crystal Palace,0.07,0.76,Saved,11.0,Left Foot,,Wilfried Zaha,Pass (Live),Wilfried Zaha,Take-On
+42,90+6,Fabian Schär,Newcastle Utd,0.16,,Off Target,8.0,Head,,Kieran Trippier,Pass (Dead),Elliot Anderson,Fouled

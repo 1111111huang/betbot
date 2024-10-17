@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Erling Haaland,Manchester City,0.07,,Off Target,6.0,Head,,Bernardo Silva,Pass (Live),Jack Grealish,Pass (Live)
+1,3,Kevin De Bruyne,Manchester City,0.23,0.08,Saved,11.0,Right Foot,,Erling Haaland,Shot,,
+2,3,Bernardo Silva,Manchester City,0.47,,Blocked,8.0,Right Foot,,Kevin De Bruyne,Shot,,
+3,8,Phil Foden,Manchester City,0.18,0.15,Goal,10.0,Left Foot,,Bernardo Silva,Pass (Live),João Cancelo,Pass (Live)
+4,15,Christian Eriksen,Manchester Utd,0.06,0.33,Saved,16.0,Left Foot,,Jadon Sancho,Pass (Live),Bruno Fernandes,Pass (Live)
+5,18,İlkay Gündoğan,Manchester City,0.15,,Woodwork,25.0,Right Foot,Free kick,Jack Grealish,Fouled,Erling Haaland,Pass (Live)
+6,21,Phil Foden,Manchester City,0.14,,Off Target,16.0,Left Foot,,Bernardo Silva,Pass (Live),Jack Grealish,Pass (Live)
+7,29,Kevin De Bruyne,Manchester City,0.03,,Off Target,23.0,Right Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+8,31,Phil Foden,Manchester City,0.03,,Blocked,29.0,Left Foot,,Erling Haaland,Pass (Live),Kyle Walker,Pass (Live)
+9,31,Jack Grealish,Manchester City,0.09,,Blocked,12.0,Right Foot,,Jack Grealish,Take-On,Phil Foden,Shot
+10,31,İlkay Gündoğan,Manchester City,0.08,,Blocked,21.0,Right Foot,Volley,Jack Grealish,Shot,,
+11,31,Bernardo Silva,Manchester City,0.07,,Blocked,17.0,Left Foot,,Jack Grealish,Pass (Live),İlkay Gündoğan,Shot
+12,32,Kevin De Bruyne,Manchester City,0.02,0.06,Saved,32.0,Right Foot,,Jack Grealish,Pass (Live),Bernardo Silva,Shot
+13,34,Erling Haaland,Manchester City,0.16,0.14,Goal,6.0,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Shot
+14,37,Erling Haaland,Manchester City,0.46,0.88,Goal,4.0,Left Foot,,Kevin De Bruyne,Pass (Live),Jack Grealish,Pass (Live)
+15,39,Bruno Fernandes,Manchester Utd,0.02,0.02,Saved,31.0,Right Foot,,Bruno Fernandes,Take-On,Jadon Sancho,Pass (Live)
+16,43,Antony,Manchester Utd,0.03,,Blocked,22.0,Left Foot,,Christian Eriksen,Pass (Live),Marcus Rashford,Pass (Live)
+17,44,Phil Foden,Manchester City,0.41,0.88,Goal,7.0,Right Foot,,Erling Haaland,Pass (Live),Kevin De Bruyne,Pass (Live)
+18,,,,,,,,,,,,,
+19,46,Phil Foden,Manchester City,0.08,0.05,Saved,12.0,Right Foot,,,,,
+20,56,Antony,Manchester Utd,0.03,0.45,Goal,26.0,Left Foot,,Christian Eriksen,Pass (Live),Luke Shaw,Pass (Live)
+21,61,Manuel Akanji,Manchester City,0.02,,Blocked,10.0,Head,,Nathan Aké,Pass (Live),Phil Foden,Pass (Dead)
+22,64,Erling Haaland,Manchester City,0.05,,Off Target,13.0,Left Foot,,Bernardo Silva,Pass (Live),Sergio Gómez,Pass (Live)
+23,64,Erling Haaland,Manchester City,0.34,0.03,Goal,10.0,Left Foot,,Sergio Gómez,Pass (Live),Kevin De Bruyne,Pass (Live)
+24,67,Bruno Fernandes,Manchester Utd,0.02,,Blocked,25.0,Right Foot,,Antony,Pass (Live),Diogo Dalot,Pass (Live)
+25,71,Antony,Manchester Utd,0.03,,Off Target,32.0,Left Foot,,Fred,Pass (Live),Christian Eriksen,Pass (Live)
+26,73,Phil Foden,Manchester City,0.25,0.79,Goal,14.0,Left Foot,,Erling Haaland,Pass (Live),Jack Grealish,Pass (Live)
+27,76,Erling Haaland,Manchester City,0.04,,Blocked,16.0,Left Foot,,Cole Palmer,Pass (Live),João Cancelo,Pass (Live)
+28,84,Fred,Manchester Utd,0.1,0.02,Saved,12.0,Left Foot,,Luke Shaw,Pass (Live),Christian Eriksen,Pass (Live)
+29,84,Anthony Martial,Manchester Utd,0.48,0.96,Goal,5.0,Head,,Fred,Shot,,
+30,85,Aymeric Laporte,Manchester City,0.06,,Off Target,11.0,Head,,Sergio Gómez,Pass (Dead),,
+31,86,Antony,Manchester Utd,0.09,0.1,Saved,14.0,Right Foot,,Diogo Dalot,Pass (Live),Casemiro,Pass (Live)
+32,89,Casemiro,Manchester Utd,0.02,0.02,Saved,35.0,Right Foot,,Fred,Pass (Live),Luke Shaw,Pass (Live)
+33,89,Antony,Manchester Utd,0.05,,Blocked,14.0,Left Foot,,Casemiro,Shot,,
+34,90+1,Anthony Martial (pen),Manchester Utd,0.79,1.0,Goal,13.0,Right Foot,,Anthony Martial,Fouled,,

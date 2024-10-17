@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Craig Dawson,West Ham,0.04,,Off Target,10.0,Head,,Aaron Cresswell,Pass (Dead),,
+1,13,Matheus Pereira,West Brom,0.06,,Off Target,20.0,Left Foot,,Kamil Grosicki,Pass (Live),Matheus Pereira,Pass (Live)
+2,22,Vladimír Coufal,West Ham,0.04,,Blocked,21.0,Left Foot,Volley,Saïd Benrahma,Pass (Live),Craig Dawson,Pass (Live)
+3,24,Manuel Lanzini,West Ham,0.07,0.09,Saved,19.0,Left Foot,,Aaron Cresswell,Pass (Live),Aaron Cresswell,Take-On
+4,31,Callum Robinson,West Brom,0.03,,Off Target,25.0,Right Foot,,Conor Gallagher,Pass (Live),Callum Robinson,Pass (Live)
+5,35,Manuel Lanzini,West Ham,0.08,,Off Target,24.0,Right Foot,Free kick,Michail Antonio,Fouled,Aaron Cresswell,Pass (Live)
+6,41,Saïd Benrahma,West Ham,0.03,0.18,Saved,29.0,Right Foot,,Saïd Benrahma,Take-On,Manuel Lanzini,Pass (Live)
+7,43,Saïd Benrahma,West Ham,0.04,,Blocked,19.0,Right Foot,"Deflected, Volley",Jarrod Bowen,Take-On,Vladimír Coufal,Pass (Live)
+8,45+1,Jarrod Bowen,West Ham,0.65,0.99,Goal,5.0,Other,,Vladimír Coufal,Pass (Live),Saïd Benrahma,Pass (Live)
+9,,,,,,,,,,,,,
+10,51,Matheus Pereira,West Brom,0.03,0.4,Goal,21.0,Left Foot,,Kamil Grosicki,Pass (Live),Romaine Sawyers,Pass (Live)
+11,58,Manuel Lanzini,West Ham,0.36,,Blocked,12.0,Right Foot,,Michail Antonio,Pass (Live),Vladimír Coufal,Pass (Live)
+12,59,Declan Rice,West Ham,0.03,,Off Target,27.0,Right Foot,,Vladimír Coufal,Pass (Live),Manuel Lanzini,Shot
+13,60,Declan Rice,West Ham,0.07,0.39,Saved,10.0,Left Foot,,Aaron Cresswell,Pass (Dead),Michail Antonio,Fouled
+14,66,Michail Antonio,West Ham,0.53,0.95,Goal,7.0,Right Foot,Volley,Andriy Yarmolenko,Pass (Live),Aaron Cresswell,Pass (Live)
+15,67,Andriy Yarmolenko,West Ham,0.05,0.12,Saved,16.0,Left Foot,,Michail Antonio,Pass (Live),Vladimír Coufal,Pass (Live)
+16,74,Declan Rice,West Ham,0.03,,Off Target,29.0,Right Foot,,Pablo Fornals,Pass (Live),Michail Antonio,Pass (Live)
+17,78,Conor Gallagher,West Brom,0.07,0.03,Saved,16.0,Right Foot,Volley,Kieran Gibbs,Pass (Live),Darnell Furlong,Pass (Live)
+18,79,Matheus Pereira,West Brom,0.04,,Off Target,26.0,Left Foot,Volley,Romaine Sawyers,Pass (Live),Conor Gallagher,Pass (Live)
+19,82,Michail Antonio,West Ham,0.03,,Off Target,26.0,Right Foot,,Tomáš Souček,Pass (Live),Pablo Fornals,Pass (Live)
+20,89,Darnell Furlong,West Brom,0.25,,Off Target,15.0,Left Foot,Volley,Kieran Gibbs,Pass (Live),Semi Ajayi,Pass (Live)

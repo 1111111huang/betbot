@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7.0,Denis Odoi,Fulham,0.03,0.12,Saved,25.0,Left Foot,,Ivan Cavaleiro,Pass (Live),Neeskens Kebano,Pass (Live)
+1,8.0,Granit Xhaka,Arsenal,0.06,,Off Target,17.0,Left Foot,,Pierre-Emerick Aubameyang,Pass (Live),Mohamed Elneny,Pass (Live)
+2,8.0,Willian,Arsenal,0.74,0.96,Saved,5.0,Right Foot,,Granit Xhaka,Shot,,
+3,8.0,Alexandre Lacazette,Arsenal,0.84,0.99,Goal,3.0,Left Foot,,Willian,Shot,,
+4,10.0,Neeskens Kebano,Fulham,0.05,,Blocked,11.0,Right Foot,Volley,Ivan Cavaleiro,Pass (Live),Joe Bryan,Pass (Live)
+5,21.0,Mohamed Elneny,Arsenal,0.09,,Blocked,16.0,Right Foot,,Alexandre Lacazette,Pass (Live),Willian,Pass (Live)
+6,21.0,Granit Xhaka,Arsenal,0.04,,Off Target,21.0,Left Foot,Volley,Mohamed Elneny,Shot,,
+7,27.0,Willian,Arsenal,0.13,,Woodwork,23.0,Right Foot,Free kick,Alexandre Lacazette,Fouled,Héctor Bellerín,Pass (Live)
+8,37.0,Pierre-Emerick Aubameyang,Arsenal,0.09,0.22,Saved,11.0,Left Foot,,Granit Xhaka,Pass (Live),Gabriel Magalhães,Pass (Live)
+9,,,,,,,,,,,,,
+10,49.0,Gabriel Magalhães,Arsenal,0.31,0.15,Goal,6.0,Other,,Willian,Pass (Dead),Rob Holding,Pass (Live)
+11,56.0,Aboubakar Kamara,Fulham,0.03,,Off Target,22.0,Right Foot,,Ivan Cavaleiro,Fouled,Ivan Cavaleiro,Pass (Live)
+12,57.0,Pierre-Emerick Aubameyang,Arsenal,0.05,0.44,Goal,15.0,Right Foot,,Willian,Pass (Live),Mohamed Elneny,Pass (Live)
+13,62.0,Granit Xhaka,Arsenal,0.06,,Blocked,29.0,Left Foot,Free kick,Willian,Fouled,Granit Xhaka,Pass (Live)
+14,67.0,Aleksandar Mitrović,Fulham,0.03,0.03,Saved,23.0,Right Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Joe Bryan,Pass (Live)
+15,73.0,Granit Xhaka,Arsenal,0.03,,Blocked,24.0,Left Foot,,Willian,Pass (Dead),Pierre-Emerick Aubameyang,Fouled
+16,78.0,Pierre-Emerick Aubameyang,Arsenal,0.09,,Blocked,8.0,Right Foot,,Héctor Bellerín,Pass (Live),Mohamed Elneny,Pass (Live)
+17,78.0,Alexandre Lacazette,Arsenal,0.05,,Off Target,6.0,Head,,Nicolas Pépé,Pass (Dead),Pierre-Emerick Aubameyang,Shot
+18,90.0,Bobby Reid,Fulham,0.01,,Off Target,45.0,Right Foot,,,,,

@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,David McGoldrick,Sheffield Utd,0.07,,Off Target,15.0,Right Foot,,Oliver Norwood,Pass (Live),Sander Berge,Pass (Live)
+1,4.0,Youri Tielemans,Leicester City,0.01,,Blocked,29.0,Right Foot,,Harvey Barnes,Pass (Live),Harvey Barnes,Pass (Live)
+2,9.0,Ayoze Pérez,Leicester City,0.09,,Off Target,6.0,Head,,Luke Thomas,Pass (Live),Youri Tielemans,Pass (Live)
+3,12.0,Jamie Vardy,Leicester City,0.07,,Blocked,12.0,Right Foot,Volley,James Justin,Pass (Live),Ryan Bennett,Pass (Live)
+4,12.0,Jamie Vardy,Leicester City,0.29,0.32,Saved,10.0,Right Foot,,Jamie Vardy,Shot,,
+5,12.0,Youri Tielemans,Leicester City,0.02,0.07,Saved,29.0,Right Foot,,Luke Thomas,Pass (Live),Youri Tielemans,Pass (Live)
+6,14.0,John Egan,Sheffield Utd,0.15,,Off Target,8.0,Head,,Oliver Norwood,Pass (Dead),George Baldock,Fouled
+7,18.0,Harvey Barnes,Leicester City,0.03,,Blocked,27.0,Left Foot,,Youri Tielemans,Pass (Live),Luke Thomas,Pass (Live)
+8,23.0,Youri Tielemans,Leicester City,0.08,0.04,Saved,9.0,Right Foot,,Jonny Evans,Pass (Live),Luke Thomas,Pass (Live)
+9,23.0,Wilfred Ndidi,Leicester City,0.03,,Blocked,28.0,Right Foot,,Youri Tielemans,Shot,,
+10,29.0,Ayoze Pérez,Leicester City,0.07,0.22,Goal,17.0,Right Foot,,Luke Thomas,Pass (Live),Ayoze Pérez,Pass (Live)
+11,,,,,,,,,,,,,
+12,51.0,Jamie Vardy,Leicester City,0.33,,Woodwork,11.0,Left Foot,,Youri Tielemans,Pass (Live),Wilfred Ndidi,Pass (Live)
+13,57.0,Harvey Barnes,Leicester City,0.56,0.67,Saved,5.0,Left Foot,,Jamie Vardy,Pass (Live),Ryan Bennett,Pass (Live)
+14,61.0,Harvey Barnes,Leicester City,0.35,0.25,Saved,16.0,Right Foot,,Jamie Vardy,Pass (Live),Wilfred Ndidi,Pass (Live)
+15,63.0,John Egan,Sheffield Utd,0.09,,Blocked,6.0,Head,,Oliver Norwood,Pass (Dead),Oliver McBurnie,Pass (Live)
+16,63.0,Billy Sharp,Sheffield Utd,0.42,0.82,Saved,4.0,Right Foot,,John Egan,Shot,,
+17,67.0,Ayoze Pérez,Leicester City,0.07,,Off Target,17.0,Right Foot,,Jamie Vardy,Pass (Live),Ayoze Pérez,Pass (Live)
+18,73.0,John Lundstram,Sheffield Utd,0.02,,Off Target,32.0,Left Foot,,George Baldock,Pass (Live),John Fleck,Pass (Live)
+19,74.0,Youri Tielemans,Leicester City,0.25,,Blocked,10.0,Left Foot,,Jamie Vardy,Pass (Live),Luke Thomas,Pass (Live)
+20,79.0,Demarai Gray,Leicester City,0.35,0.79,Goal,13.0,Right Foot,,Jamie Vardy,Pass (Live),Jonny Evans,Pass (Live)

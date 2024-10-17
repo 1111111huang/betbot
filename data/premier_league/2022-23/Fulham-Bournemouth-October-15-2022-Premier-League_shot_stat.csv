@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Dominic Solanke,Bournemouth,0.3,0.81,Goal,9.0,Right Foot,Volley,Philip Billing,Pass (Live),Dominic Solanke,Pass (Live)
+1,6,Bobby Reid,Fulham,0.04,,Off Target,26.0,Right Foot,,Neeskens Kebano,Pass (Live),Antonee Robinson,Pass (Live)
+2,9,Daniel James,Fulham,0.08,,Blocked,16.0,Left Foot,,Neeskens Kebano,Pass (Live),Harrison Reed,Pass (Live)
+3,15,Neeskens Kebano,Fulham,0.04,,Off Target,10.0,Left Foot,,Harrison Reed,Pass (Live),Harrison Reed,Take-On
+4,16,Andreas Pereira,Fulham,0.05,,Off Target,24.0,Left Foot,,Antonee Robinson,Pass (Live),Tim Ream,Pass (Live)
+5,21,João Palhinha,Fulham,0.02,0.08,Saved,32.0,Right Foot,,Antonee Robinson,Pass (Live),Tim Ream,Pass (Live)
+6,21,Aleksandar Mitrović,Fulham,0.08,,Blocked,17.0,Left Foot,,Aleksandar Mitrović,Take-On,Andreas Pereira,Pass (Live)
+7,22,Issa Diop,Fulham,0.25,0.26,Goal,6.0,Other,,Andreas Pereira,Pass (Dead),Aleksandar Mitrović,Shot
+8,29,Jefferson Lerma,Bournemouth,0.11,0.33,Goal,17.0,Right Foot,,Dominic Solanke,Pass (Live),Ryan Christie,Pass (Live)
+9,30,Bobby Reid,Fulham,0.02,,Off Target,25.0,Right Foot,Volley,Aleksandar Mitrović,Pass (Live),Neeskens Kebano,Pass (Live)
+10,32,Aleksandar Mitrović,Fulham,0.25,,Off Target,5.0,Head,,Andreas Pereira,Pass (Dead),Harrison Reed,Pass (Live)
+11,40,Jefferson Lerma,Bournemouth,0.11,0.07,Saved,8.0,Head,,Lewis Cook,Pass (Live),Ryan Christie,Pass (Live)
+12,40,Adam Smith,Bournemouth,0.26,0.61,Saved,4.0,Head,,Jefferson Lerma,Shot,,
+13,40,Marcus Tavernier,Bournemouth,0.02,,Off Target,11.0,Head,,Ryan Christie,Pass (Dead),Adam Smith,Shot
+14,42,Bobby Reid,Fulham,0.05,,Blocked,19.0,Right Foot,Volley,Harrison Reed,Pass (Live),Neeskens Kebano,Pass (Live)
+15,45,Daniel James,Fulham,0.07,,Blocked,15.0,Right Foot,,Daniel James,Pass (Live),Aleksandar Mitrović,Pass (Live)
+16,45+2,Daniel James,Fulham,0.09,,Blocked,16.0,Right Foot,,Aleksandar Mitrović,Pass (Live),Bobby Reid,Pass (Live)
+17,,,,,,,,,,,,,
+18,52,Aleksandar Mitrović (pen),Fulham,0.79,0.97,Goal,13.0,Right Foot,,Aleksandar Mitrović,Fouled,Andreas Pereira,Pass (Dead)
+19,55,Chris Mepham,Bournemouth,0.05,,Off Target,9.0,Right Foot,Volley,Lewis Cook,Pass (Dead),Ryan Christie,Fouled
+20,59,Marcus Tavernier,Bournemouth,0.02,,Off Target,26.0,Left Foot,Volley,,,,
+21,64,Dominic Solanke,Bournemouth,0.04,0.09,Saved,11.0,Right Foot,,Ryan Christie,Pass (Live),Philip Billing,Pass (Live)
+22,65,Jefferson Lerma,Bournemouth,0.14,,Off Target,8.0,Head,,Lewis Cook,Pass (Live),Ryan Christie,Pass (Live)
+23,66,Harry Wilson,Fulham,0.08,,Off Target,12.0,Head,,Bobby Reid,Pass (Live),Andreas Pereira,Pass (Live)
+24,67,João Palhinha,Fulham,0.05,,Off Target,21.0,Right Foot,Volley,Willian,Pass (Live),Antonee Robinson,Pass (Live)
+25,71,Tom Cairney,Fulham,0.05,,Blocked,29.0,Left Foot,,Issa Diop,Pass (Live),,
+26,82,Jaidon Anthony,Bournemouth,0.03,0.04,Saved,27.0,Right Foot,,Jordan Zemura,Pass (Live),Ryan Christie,Pass (Live)
+27,85,Aleksandar Mitrović,Fulham,0.06,0.41,Saved,17.0,Left Foot,,Willian,Pass (Live),Tom Cairney,Pass (Live)
+28,86,Willian,Fulham,0.02,,Blocked,22.0,Right Foot,Volley,Willian,Pass (Live),Tom Cairney,Pass (Live)
+29,90+3,Aleksandar Mitrović,Fulham,0.05,,Off Target,17.0,Right Foot,,Tom Cairney,Pass (Live),Harry Wilson,Pass (Live)

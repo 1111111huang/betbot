@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Marcus Tavernier,Bournemouth,0.03,,Off Target,22.0,Left Foot,,Justin Kluivert,Pass (Live),Lewis Cook,Pass (Live)
+1,3,Nicolò Zaniolo,Aston Villa,0.03,,Off Target,27.0,Left Foot,,Douglas Luiz,Pass (Live),,
+2,4,Leon Bailey,Aston Villa,0.05,,Blocked,18.0,Left Foot,,Lucas Digne,Pass (Live),Douglas Luiz,Pass (Live)
+3,5,Douglas Luiz,Aston Villa,0.02,,Saved off Target,34.0,Right Foot,,Douglas Luiz,Take-On,Lucas Digne,Pass (Live)
+4,10,Antoine Semenyo,Bournemouth,0.13,0.68,Goal,17.0,Right Foot,,Ryan Christie,Pass (Live),,
+5,16,Antoine Semenyo,Bournemouth,0.12,0.08,Saved,13.0,Left Foot,,Ryan Christie,Pass (Live),Marcus Tavernier,Pass (Live)
+6,19,Douglas Luiz,Aston Villa,0.03,,Blocked,17.0,Right Foot,,Douglas Luiz,Take-On,Pau Torres,Pass (Live)
+7,20,Leon Bailey,Aston Villa,0.07,0.15,Goal,14.0,Left Foot,,Ollie Watkins,Pass (Live),Nicolò Zaniolo,Pass (Live)
+8,27,Antoine Semenyo,Bournemouth,0.02,0.05,Saved,13.0,Left Foot,,Marcus Tavernier,Pass (Live),Adam Smith,Pass (Dead)
+9,27,Ryan Christie,Bournemouth,0.07,,Off Target,9.0,Head,,Adam Smith,Pass (Live),Lewis Cook,Pass (Live)
+10,30,Justin Kluivert,Bournemouth,0.01,,Blocked,21.0,Right Foot,,Antoine Semenyo,Pass (Live),Marcos Senesi,Pass (Live)
+11,32,Dominic Solanke,Bournemouth,0.58,0.77,Saved,5.0,Left Foot,,Ryan Christie,Pass (Live),Ryan Christie,Take-On
+12,37,Illia Zabarnyi,Bournemouth,0.08,,Off Target,8.0,Head,,Lewis Cook,Pass (Dead),,
+13,41,Justin Kluivert,Bournemouth,0.02,,Off Target,12.0,Right Foot,Volley,Lewis Cook,Pass (Live),Milos Kerkez,Pass (Live)
+14,45+4,Douglas Luiz,Aston Villa,0.2,0.26,Saved,13.0,Right Foot,,Leon Bailey,Pass (Live),Youri Tielemans,Pass (Live)
+15,45+6,Douglas Luiz,Aston Villa,0.09,,Blocked,21.0,Right Foot,Free kick,Ezri Konsa,Fouled,Douglas Luiz,Shot
+16,45+6,Lucas Digne,Aston Villa,0.02,,Off Target,24.0,Right Foot,Volley,Douglas Luiz,Shot,,
+17,,,,,,,,,,,,,
+18,52,Dominic Solanke,Bournemouth,0.08,0.38,Goal,16.0,Right Foot,,Milos Kerkez,Pass (Live),Milos Kerkez,Pass (Live)
+19,61,Ollie Watkins,Aston Villa,0.07,,Blocked,10.0,Left Foot,,Douglas Luiz,Pass (Dead),,
+20,63,Dominic Solanke,Bournemouth,0.54,0.93,Saved,4.0,Right Foot,,Marcus Tavernier,Pass (Live),Marcus Tavernier,Take-On
+21,69,Ryan Christie,Bournemouth,0.06,,Blocked,26.0,Right Foot,,Justin Kluivert,Pass (Live),Ryan Christie,Pass (Live)
+22,70,Dominic Solanke,Bournemouth,0.11,,Off Target,6.0,Head,,Lewis Cook,Pass (Dead),Ryan Christie,Shot
+23,72,Jhon Durán,Aston Villa,0.04,,Blocked,22.0,Left Foot,,Ollie Watkins,Pass (Live),Douglas Luiz,Pass (Live)
+24,76,Marcus Tavernier,Bournemouth,0.09,,Blocked,14.0,Left Foot,,Philip Billing,Pass (Live),Luis Sinisterra,Pass (Live)
+25,77,Ryan Christie,Bournemouth,0.07,0.13,Saved,17.0,Right Foot,Volley,Marcus Tavernier,Shot,,
+26,90,Ollie Watkins,Aston Villa,0.07,0.46,Goal,10.0,Head,,Moussa Diaby,Pass (Live),Pau Torres,Pass (Live)

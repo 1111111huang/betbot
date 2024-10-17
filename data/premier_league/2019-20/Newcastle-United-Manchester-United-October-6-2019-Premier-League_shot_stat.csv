@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Fabian Schär,Newcastle Utd,0.06,,Blocked,28.0,Right Foot,Free kick,Miguel Almirón,Fouled,Joelinton,Pass (Live)
+1,12.0,Allan Saint-Maximin,Newcastle Utd,0.04,,Off Target,29.0,Right Foot,,Allan Saint-Maximin,Take-On,Jetro Willems,Pass (Live)
+2,18.0,Allan Saint-Maximin,Newcastle Utd,0.02,,Blocked,26.0,Right Foot,,Sean Longstaff,Pass (Dead),Joelinton,Fouled
+3,26.0,Scott McTominay,Manchester Utd,0.04,,Blocked,22.0,Right Foot,,Ashley Young,Pass (Dead),Juan Mata,Pass (Live)
+4,28.0,Matthew Longstaff,Newcastle Utd,0.03,,Woodwork,26.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Matthew Longstaff,Pass (Live)
+5,28.0,Miguel Almirón,Newcastle Utd,0.03,,Blocked,28.0,Left Foot,,Sean Longstaff,Pass (Live),,
+6,29.0,Fabian Schär,Newcastle Utd,0.04,,Off Target,8.0,Head,,Sean Longstaff,Pass (Dead),Miguel Almirón,Shot
+7,39.0,Miguel Almirón,Newcastle Utd,0.32,,Blocked,12.0,Left Foot,,Sean Longstaff,Pass (Live),Jetro Willems,Pass (Live)
+8,41.0,Andreas Pereira,Manchester Utd,0.04,0.05,Saved,30.0,Right Foot,,Andreas Pereira,Take-On,Harry Maguire,Pass (Live)
+9,42.0,Jetro Willems,Newcastle Utd,0.04,,Blocked,19.0,Left Foot,,Joelinton,Pass (Live),DeAndre Yedlin,Pass (Live)
+10,45.0,Harry Maguire,Manchester Utd,0.23,,Off Target,5.0,Head,,Ashley Young,Pass (Dead),Scott McTominay,Pass (Live)
+11,,,,,,,,,,,,,
+12,48.0,Miguel Almirón,Newcastle Utd,0.07,,Off Target,24.0,Left Foot,,Allan Saint-Maximin,Pass (Live),,
+13,55.0,Harry Maguire,Manchester Utd,0.05,,Off Target,12.0,Head,,Ashley Young,Pass (Dead),Daniel James,Pass (Live)
+14,55.0,Harry Maguire,Manchester Utd,0.06,,Blocked,14.0,Right Foot,Volley,Scott McTominay,Pass (Live),Harry Maguire,Shot
+15,59.0,Daniel James,Manchester Utd,0.05,0.16,Saved,13.0,Right Foot,,Marcus Rashford,Pass (Live),Juan Mata,Pass (Live)
+16,62.0,Scott McTominay,Manchester Utd,0.02,,Blocked,30.0,Right Foot,,Marcus Rashford,Pass (Live),Ashley Young,Pass (Live)
+17,64.0,Andy Carroll,Newcastle Utd,0.06,,Off Target,12.0,Head,,Matthew Longstaff,Pass (Live),DeAndre Yedlin,Pass (Live)
+18,72.0,Scott McTominay,Manchester Utd,0.04,,Off Target,13.0,Head,,Ashley Young,Pass (Dead),Scott McTominay,Pass (Live)
+19,72.0,Matthew Longstaff,Newcastle Utd,0.03,0.34,Goal,25.0,Right Foot,,Jetro Willems,Pass (Live),Jetro Willems,Take-On
+20,75.0,Marcos Rojo,Manchester Utd,0.2,,Off Target,7.0,Head,,Ashley Young,Pass (Dead),Axel Tuanzebe,Fouled
+21,77.0,Sean Longstaff,Newcastle Utd,0.02,0.29,Saved,29.0,Right Foot,Deflected,Jetro Willems,Pass (Live),Allan Saint-Maximin,Pass (Live)
+22,80.0,Fred,Manchester Utd,0.02,,Off Target,32.0,Left Foot,,Harry Maguire,Pass (Live),Marcus Rashford,Pass (Live)
+23,82.0,Andreas Pereira,Manchester Utd,0.08,,Blocked,25.0,Right Foot,"Free kick, Deflected",Ashley Young,Fouled,Andreas Pereira,Pass (Live)
+24,85.0,Mason Greenwood,Manchester Utd,0.06,0.35,Saved,12.0,Head,,Ashley Young,Pass (Live),Andreas Pereira,Pass (Live)

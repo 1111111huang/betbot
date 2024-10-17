@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Idrissa Gana Gueye,Everton,0.08,,Blocked,16.0,Left Foot,,Ashley Young,Pass (Live),,
+1,3,Ashley Young,Everton,0.05,,Blocked,20.0,Right Foot,Volley,Idrissa Gana Gueye,Shot,,
+2,6,Idrissa Gana Gueye,Everton,0.05,,Blocked,26.0,Left Foot,,Séamus Coleman,Take-On,Ashley Young,Pass (Live)
+3,7,Ashley Young,Everton,0.07,,Blocked,13.0,Right Foot,,Idrissa Gana Gueye,Shot,,
+4,7,Jarrad Branthwaite,Everton,0.2,,Off Target,6.0,Head,,Dwight McNeil,Pass (Dead),Ashley Young,Shot
+5,8,Jack Harrison,Everton,0.1,,Blocked,7.0,Right Foot,Volley,Dominic Calvert-Lewin,Pass (Live),,
+6,8,James Tarkowski,Everton,0.02,,Off Target,31.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+7,14,Kieran Trippier,Newcastle Utd,0.06,0.35,Saved,27.0,Right Foot,Free kick,Valentino Livramento,Fouled,Anthony Gordon,Pass (Live)
+8,17,Miguel Almirón,Newcastle Utd,0.18,0.2,Saved,13.0,Left Foot,,Joelinton,Pass (Live),Joelinton,Pass (Live)
+9,18,Dominic Calvert-Lewin,Everton,0.25,,Off Target,8.0,Head,,Jack Harrison,Pass (Live),Ashley Young,Pass (Live)
+10,19,Abdoulaye Doucouré,Everton,0.08,,Off Target,10.0,Head,,Ashley Young,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+11,19,Dominic Calvert-Lewin,Everton,0.19,0.31,Saved,5.0,Head,,Dwight McNeil,Pass (Live),Abdoulaye Doucouré,Shot
+12,20,Dominic Calvert-Lewin,Everton,0.09,0.22,Saved,13.0,Right Foot,,Jack Harrison,Pass (Live),Jack Harrison,Take-On
+13,29,Miguel Almirón,Newcastle Utd,0.02,,Off Target,20.0,Left Foot,Volley,Anthony Gordon,Fouled,Kieran Trippier,Pass (Live)
+14,31,Dwight McNeil,Everton,0.14,,Off Target,14.0,Left Foot,,Jack Harrison,Pass (Live),Dwight McNeil,Interception
+15,31,Bruno Guimarães,Newcastle Utd,0.08,,Blocked,15.0,Right Foot,,Anthony Gordon,Pass (Live),Lewis Miley,Pass (Live)
+16,36,Alexander Isak,Newcastle Utd,0.2,,Off Target,10.0,Head,,Kieran Trippier,Pass (Live),Joelinton,Pass (Live)
+17,39,Dominic Calvert-Lewin,Everton,0.82,,Off Target,5.0,Left Foot,Volley,Jarrad Branthwaite,Pass (Live),Jordan Pickford,Pass (Dead)
+18,,,,,,,,,,,,,
+19,50,Dominic Calvert-Lewin,Everton,0.15,0.05,Saved,6.0,Head,Deflected,Dwight McNeil,Pass (Dead),,
+20,55,Anthony Gordon,Newcastle Utd,0.02,,Off Target,26.0,Right Foot,,Joelinton,Pass (Live),Joelinton,Take-On
+21,58,Lewis Miley,Newcastle Utd,0.03,,Off Target,26.0,Right Foot,,Anthony Gordon,Pass (Live),Bruno Guimarães,Tackle
+22,62,Anthony Gordon,Newcastle Utd,0.23,0.09,Saved,18.0,Right Foot,,Anthony Gordon,Tackle,,
+23,63,Dominic Calvert-Lewin,Everton,0.07,,Off Target,5.0,Head,,Dominic Calvert-Lewin,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+24,65,Anthony Gordon,Newcastle Utd,0.07,,Off Target,29.0,Right Foot,,Alexander Isak,Pass (Live),Alexander Isak,Take-On
+25,67,Idrissa Gana Gueye,Everton,0.07,,Off Target,24.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+26,69,Fabian Schär,Newcastle Utd,0.01,,Blocked,33.0,Right Foot,,Kieran Trippier,Pass (Live),Anthony Gordon,Pass (Live)
+27,75,Abdoulaye Doucouré,Everton,0.09,,Blocked,10.0,Head,,Ashley Young,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+28,79,Dwight McNeil,Everton,0.08,0.1,Goal,16.0,Left Foot,Deflected,,,,
+29,82,Lewis Miley,Newcastle Utd,0.09,,Blocked,14.0,Right Foot,Volley,Valentino Livramento,Pass (Live),Bruno Guimarães,Pass (Live)
+30,82,Miguel Almirón,Newcastle Utd,0.34,,Off Target,6.0,Head,,Lewis Miley,Shot,,
+31,85,Jack Harrison,Everton,0.06,,Blocked,21.0,Right Foot,,James Tarkowski,Pass (Live),Jordan Pickford,Pass (Dead)
+32,86,Abdoulaye Doucouré,Everton,0.37,0.57,Goal,14.0,Right Foot,,Jack Harrison,Pass (Live),,
+33,90+1,Alexander Isak,Newcastle Utd,0.26,,Off Target,16.0,Right Foot,,Joelinton,Pass (Live),Joelinton,Take-On
+34,90+6,Beto,Everton,0.33,0.56,Goal,9.0,Right Foot,,Nathan Patterson,Pass (Live),James Tarkowski,Pass (Live)

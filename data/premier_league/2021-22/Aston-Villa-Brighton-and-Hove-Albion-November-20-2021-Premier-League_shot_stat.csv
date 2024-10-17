@@ -1,0 +1,17 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,12,Matty Cash,Aston Villa,0.04,0.03,Saved,10.0,Head,,Matt Targett,Pass (Live),Ollie Watkins,Pass (Live)
+1,31,Leandro Trossard,Brighton,0.06,0.18,Saved,9.0,Left Foot,Volley,Lewis Dunk,Pass (Live),Yves Bissouma,Pass (Live)
+2,40,Tyrone Mings,Aston Villa,0.02,,Blocked,36.0,Left Foot,,Ezri Konsa,Pass (Live),Matty Cash,Pass (Live)
+3,45+1,Tariq Lamptey,Brighton,0.12,0.09,Saved,12.0,Right Foot,,Jakub Moder,Pass (Live),Jakub Moder,Take-On
+4,45+1,Pascal Groß,Brighton,0.07,,Blocked,21.0,Right Foot,Volley,Tariq Lamptey,Shot,,
+5,,,,,,,,,,,,,
+6,47,Tyrone Mings,Aston Villa,0.07,0.52,Saved,9.0,Head,,John McGinn,Pass (Dead),Jacob Ramsey,Fouled
+7,49,Emi Buendía,Aston Villa,0.02,,Blocked,30.0,Right Foot,,,,,
+8,63,Leandro Trossard,Brighton,0.1,,Blocked,16.0,Right Foot,Volley,Pascal Groß,Pass (Live),Yves Bissouma,Pass (Live)
+9,64,Adam Webster,Brighton,0.02,,Blocked,26.0,Left Foot,,Pascal Groß,Pass (Live),Tariq Lamptey,Pass (Live)
+10,84,Ollie Watkins,Aston Villa,0.15,0.69,Goal,15.0,Right Foot,,Ashley Young,Pass (Live),Ashley Young,Take-On
+11,88,Leon Bailey,Aston Villa,0.09,,Blocked,9.0,Left Foot,,Matt Targett,Pass (Live),Ashley Young,Pass (Live)
+12,89,Tyrone Mings,Aston Villa,0.1,0.07,Goal,12.0,Right Foot,,Tyrone Mings,Pass (Live),Matt Targett,Pass (Live)
+13,90+2,Alexis Mac Allister,Brighton,0.06,,Blocked,22.0,Right Foot,,Leandro Trossard,Pass (Live),Solly March,Pass (Live)
+14,90+4,Leon Bailey,Aston Villa,0.11,0.33,Saved,11.0,Right Foot,Volley,Matt Targett,Pass (Live),Ashley Young,Pass (Live)
+15,90+4,Ollie Watkins,Aston Villa,0.15,,Off Target,15.0,Right Foot,Volley,Leon Bailey,Shot,,

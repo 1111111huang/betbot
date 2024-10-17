@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Marcus Rashford,Manchester Utd,0.29,,Off Target,8.0,Head,,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)
+1,3,Jamie Vardy,Leicester City,0.08,,Off Target,12.0,Right Foot,Volley,James Justin,Pass (Live),Marc Albrighton,Pass (Live)
+2,6,Anthony Martial,Manchester Utd,0.03,0.12,Saved,27.0,Right Foot,Volley,Luke Shaw,Pass (Live),,
+3,21,Youri Tielemans,Leicester City,0.03,,Blocked,25.0,Right Foot,,Marc Albrighton,Fouled,Wilfred Ndidi,Pass (Live)
+4,23,Marcus Rashford,Manchester Utd,0.34,0.86,Goal,13.0,Right Foot,,Bruno Fernandes,Pass (Live),Daniel James,Pass (Live)
+5,25,Bruno Fernandes,Manchester Utd,0.1,,Blocked,8.0,Right Foot,Volley,Anthony Martial,Pass (Live),Marcus Rashford,Pass (Live)
+6,26,Jamie Vardy,Leicester City,0.04,0.3,Saved,19.0,Left Foot,,James Justin,Pass (Live),Marc Albrighton,Pass (Live)
+7,31,Harvey Barnes,Leicester City,0.03,0.15,Goal,24.0,Left Foot,,James Maddison,Pass (Live),,
+8,37,Bruno Fernandes,Manchester Utd,0.11,,Off Target,10.0,Head,,Luke Shaw,Pass (Dead),Fred,Fouled
+9,39,Marc Albrighton,Leicester City,0.06,,Blocked,22.0,Right Foot,,Marc Albrighton,Take-On,James Maddison,Pass (Live)
+10,,,,,,,,,,,,,
+11,53,James Maddison,Leicester City,0.09,,Blocked,25.0,Right Foot,Free kick,,Fouled,,
+12,59,Jonny Evans,Leicester City,0.07,,Off Target,9.0,Head,,James Maddison,Pass (Dead),,
+13,60,Marcus Rashford,Manchester Utd,0.26,0.23,Saved,14.0,Right Foot,,Fred,Pass (Live),Luke Shaw,Pass (Live)
+14,60,Anthony Martial,Manchester Utd,0.08,,Off Target,15.0,Left Foot,Volley,Bruno Fernandes,Pass (Live),Marcus Rashford,Shot
+15,70,Harry Maguire,Manchester Utd,0.1,,Off Target,10.0,Head,,Luke Shaw,Pass (Dead),Paul Pogba,Fouled
+16,79,Bruno Fernandes,Manchester Utd,0.41,0.88,Goal,10.0,Right Foot,,Edinson Cavani,Pass (Live),Eric Bailly,Pass (Live)
+17,85,Jamie Vardy,Leicester City,0.08,,Off Target,12.0,Right Foot,,Ayoze Pérez,Pass (Live),James Justin,Pass (Live)
+18,90+3,Youri Tielemans,Leicester City,0.03,,Blocked,22.0,Left Foot,,James Maddison,Fouled,James Justin,Pass (Live)
+19,90+3,Ayoze Pérez,Leicester City,0.4,,Off Target,6.0,Right Foot,,Youri Tielemans,Shot,,

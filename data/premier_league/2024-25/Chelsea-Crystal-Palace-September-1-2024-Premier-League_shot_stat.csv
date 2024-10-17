@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Jean-Philippe Mateta,Crystal Palace,0.04,0.0,Blocked,22.0,Left Foot,,Eberechi Eze,Pass (Live),Tyrick Mitchell,Pass (Live)
+1,12,Cole Palmer,Chelsea,0.06,0.0,Off Target,24.0,Left Foot,,Wesley Fofana,Pass (Live),Moisés Caicedo,Pass (Live)
+2,16,Adam Wharton,Crystal Palace,0.02,0.26,Saved,24.0,Left Foot,,Daichi Kamada,Pass (Live),Daichi Kamada,Pass (Live)
+3,22,Noni Madueke,Chelsea,0.24,0.0,Off Target,7.0,Left Foot,,Wesley Fofana,Pass (Live),Moisés Caicedo,Pass (Live)
+4,23,Noni Madueke,Chelsea,0.2,0.57,Saved,6.0,Right Foot,Volley,Pedro Neto,Pass (Live),Nicolas Jackson,Pass (Live)
+5,25,Nicolas Jackson,Chelsea,0.97,1.0,Goal,2.0,Right Foot,,Cole Palmer,Pass (Live),Noni Madueke,Pass (Live)
+6,31,Noni Madueke,Chelsea,0.04,0.0,Off Target,25.0,Left Foot,,Cole Palmer,Pass (Live),Noni Madueke,Pass (Live)
+7,41,Nicolas Jackson,Chelsea,0.08,0.02,Saved,11.0,Head,,Cole Palmer,Pass (Live),Wesley Fofana,Pass (Live)
+8,44,Malo Gusto,Chelsea,0.03,0.0,Blocked,30.0,Right Foot,,Cole Palmer,Pass (Live),Pedro Neto,Pass (Live)
+9,45+3,Eberechi Eze,Crystal Palace,0.04,0.0,Off Target,33.0,Right Foot,Free kick,Jean-Philippe Mateta,Fouled,Adam Wharton,Pass (Live)
+10,,,,,,,,,,,,,
+11,48,Cole Palmer,Chelsea,0.04,0.11,Saved,31.0,Left Foot,Free kick,Cole Palmer,Fouled,Levi Colwill,Pass (Live)
+12,49,Levi Colwill,Chelsea,0.04,0.55,Saved,9.0,Head,,Cole Palmer,Pass (Dead),Cole Palmer,Shot
+13,53,Cheick Doucouré,Crystal Palace,0.02,0.0,Blocked,17.0,Left Foot,,Adam Wharton,Pass (Live),Daniel Muñoz,Pass (Live)
+14,53,Eberechi Eze,Crystal Palace,0.06,0.78,Goal,22.0,Right Foot,,Cheick Doucouré,Shot,,
+15,76,Levi Colwill,Chelsea,0.12,0.0,Off Target,5.0,Left Foot,,Cole Palmer,Pass (Dead),Mykhailo Mudryk,Fouled
+16,77,Daichi Kamada,Crystal Palace,0.1,0.03,Saved,21.0,Right Foot,,Daniel Muñoz,Pass (Live),Daichi Kamada,Pass (Live)
+17,84,Daichi Kamada,Crystal Palace,0.04,0.0,Blocked,18.0,Right Foot,,Ismaila Sarr,Pass (Live),Tyrick Mitchell,Pass (Dead)
+18,90+2,Eberechi Eze,Crystal Palace,0.13,0.0,Blocked,18.0,Right Foot,,Ismaila Sarr,Pass (Live),Eberechi Eze,Pass (Live)
+19,90+3,Nicolas Jackson,Chelsea,0.08,0.0,Off Target,19.0,Right Foot,,Christopher Nkunku,Pass (Live),João Félix,Pass (Live)
+20,90+3,Nicolas Jackson,Chelsea,0.46,0.46,Saved,9.0,Left Foot,,Mykhailo Mudryk,Pass (Live),,
+21,90+6,João Félix,Chelsea,0.02,0.04,Saved,29.0,Right Foot,,João Félix,Take-On,Enzo Fernández,Pass (Live)
+22,90+9,Tyrick Mitchell,Crystal Palace,0.09,0.0,Blocked,11.0,Right Foot,,Ismaila Sarr,Pass (Live),Adam Wharton,Pass (Dead)

@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Alex Iwobi,Everton,0.07,0.31,Goal,16.0,Right Foot,Deflected,Lucas Digne,Pass (Live),James Rodríguez,Pass (Live)
+1,14,Rúben Neves,Wolves,0.12,0.12,Goal,8.0,Right Foot,Volley,Rayan Aït-Nouri,Pass (Live),Rúben Neves,Pass (Live)
+2,17,Pedro Neto,Wolves,0.02,,Blocked,27.0,Left Foot,,Nélson Semedo,Pass (Live),Rúben Neves,Pass (Live)
+3,17,Fábio Silva,Wolves,0.08,0.08,Saved,12.0,Right Foot,,Pedro Neto,Pass (Live),Leander Dendoncker,Pass (Live)
+4,20,Alex Iwobi,Everton,0.3,0.3,Saved,13.0,Right Foot,,James Rodríguez,Pass (Live),Alex Iwobi,Pass (Live)
+5,20,Leander Dendoncker,Wolves,0.05,,Blocked,14.0,Right Foot,,Rúben Neves,Pass (Live),Rui Patrício,Pass (Live)
+6,25,Rúben Neves,Wolves,0.02,0.42,Saved,32.0,Right Foot,,Pedro Neto,Pass (Live),Romain Saïss,Pass (Live)
+7,26,Fábio Silva,Wolves,0.06,,Off Target,6.0,Right Foot,Volley,Pedro Neto,Pass (Live),Morgan Gibbs-White,Pass (Live)
+8,44,Leander Dendoncker,Wolves,0.06,,Off Target,22.0,Right Foot,,Rayan Aït-Nouri,Pass (Live),Morgan Gibbs-White,Pass (Live)
+9,45+1,Yerry Mina,Everton,0.04,,Off Target,8.0,Head,,Gylfi Sigurðsson,Pass (Dead),Tom Davies,Pass (Live)
+10,,,,,,,,,,,,,
+11,54,Leander Dendoncker,Wolves,0.09,,Off Target,11.0,Head,,João Moutinho,Pass (Dead),Pedro Neto,Fouled
+12,70,Rúben Neves,Wolves,0.02,,Off Target,33.0,Right Foot,Volley,João Moutinho,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+13,75,Alex Iwobi,Everton,0.09,,Blocked,12.0,Right Foot,,James Rodríguez,Pass (Live),André Gomes,Pass (Live)
+14,77,Michael Keane,Everton,0.05,0.23,Goal,9.0,Head,,André Gomes,Pass (Live),Alex Iwobi,Shot
+15,82,Pedro Neto,Wolves,0.05,,Blocked,14.0,Left Foot,,Rúben Neves,Pass (Live),Nélson Semedo,Tackle
+16,85,Rúben Neves,Wolves,0.11,,Woodwork,25.0,Right Foot,Free kick,,Fouled,Ki-Jana Hoever,Pass (Live)
+17,90+3,Leander Dendoncker,Wolves,0.04,,Off Target,12.0,Head,,Pedro Neto,Pass (Dead),Rayan Aït-Nouri,Pass (Live)

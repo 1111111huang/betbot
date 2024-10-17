@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Gabriel Martinelli,Arsenal,0.07,,Blocked,12.0,Right Foot,,Granit Xhaka,Pass (Live),Ben White,Pass (Live)
+1,7,Eddie Nketiah,Arsenal,0.32,0.6,Saved,8.0,Left Foot,,Gabriel Martinelli,Pass (Live),,
+2,11,Thomas Partey,Arsenal,0.06,,Off Target,12.0,Head,,Martin Ødegaard,Pass (Dead),Eddie Nketiah,Fouled
+3,18,Son Heung-min,Tottenham,0.35,0.76,Saved,8.0,Right Foot,,Ryan Sessegnon,Pass (Live),Eric Dier,Pass (Live)
+4,22,Pierre Højbjerg,Tottenham,0.02,,Blocked,32.0,Right Foot,,Pape Matar Sarr,Pass (Live),Matt Doherty,Pass (Live)
+5,22,Martin Ødegaard,Arsenal,0.04,0.13,Saved,28.0,Left Foot,,Bukayo Saka,Pass (Live),Ben White,Pass (Live)
+6,24,Eddie Nketiah,Arsenal,0.25,,Blocked,6.0,Head,,Gabriel Martinelli,Pass (Live),Bukayo Saka,Pass (Live)
+7,25,Thomas Partey,Arsenal,0.04,,Woodwork,26.0,Right Foot,Volley,Eddie Nketiah,Shot,,
+8,29,Bukayo Saka,Arsenal,0.03,,Off Target,17.0,Left Foot,,Thomas Partey,Pass (Live),Granit Xhaka,Pass (Live)
+9,36,Martin Ødegaard,Arsenal,0.05,0.34,Goal,29.0,Left Foot,,Bukayo Saka,Pass (Live),Thomas Partey,Pass (Live)
+10,42,Martin Ødegaard,Arsenal,0.05,,Blocked,25.0,Left Foot,Free kick,Bukayo Saka,Fouled,Martin Ødegaard,Pass (Live)
+11,45+3,Harry Kane,Tottenham,0.26,0.32,Saved,7.0,Head,,Pierre Højbjerg,Pass (Live),,
+12,45+3,Pierre Højbjerg,Tottenham,0.06,,Off Target,15.0,Right Foot,Volley,Harry Kane,Shot,,
+13,,,,,,,,,,,,,
+14,49,Dejan Kulusevski,Tottenham,0.04,,Off Target,18.0,Left Foot,,Harry Kane,Pass (Live),Matt Doherty,Pass (Live)
+15,50,Harry Kane,Tottenham,0.07,0.24,Saved,20.0,Right Foot,,Dejan Kulusevski,Pass (Live),,
+16,52,Ryan Sessegnon,Tottenham,0.18,0.8,Saved,10.0,Left Foot,,Harry Kane,Pass (Live),Ryan Sessegnon,Pass (Live)
+17,53,Harry Kane,Tottenham,0.03,0.26,Saved,11.0,Head,,Pierre Højbjerg,Pass (Live),Pierre Højbjerg,Tackle
+18,56,Dejan Kulusevski,Tottenham,0.03,,Off Target,19.0,Left Foot,,Harry Kane,Pass (Live),Ryan Sessegnon,Pass (Live)
+19,58,Eddie Nketiah,Arsenal,0.1,0.08,Saved,15.0,Right Foot,,Eddie Nketiah,Take-On,Gabriel Martinelli,Pass (Live)
+20,61,Ryan Sessegnon,Tottenham,0.09,,Off Target,12.0,Left Foot,Volley,Son Heung-min,Pass (Live),Dejan Kulusevski,Pass (Live)
+21,66,Harry Kane,Tottenham,0.09,,Blocked,9.0,Right Foot,,Son Heung-min,Pass (Live),Cristian Romero,Pass (Live)
+22,68,Thomas Partey,Arsenal,0.03,,Off Target,30.0,Right Foot,,Gabriel Martinelli,Pass (Live),Ben White,Pass (Dead)
+23,69,Eddie Nketiah,Arsenal,0.62,0.6,Saved,9.0,Right Foot,,Granit Xhaka,Pass (Live),Gabriel Magalhães,Pass (Live)
+24,73,Eddie Nketiah,Arsenal,0.1,,Blocked,10.0,Right Foot,,Martin Ødegaard,Pass (Dead),Martin Ødegaard,Fouled
+25,79,Granit Xhaka,Arsenal,0.09,,Off Target,24.0,Left Foot,Free kick,Martin Ødegaard,Fouled,Granit Xhaka,Pass (Live)
+26,82,Son Heung-min,Tottenham,0.06,,Blocked,16.0,Right Foot,,Pierre Højbjerg,Pass (Live),Richarlison,Fouled
+27,82,Son Heung-min,Tottenham,0.06,,Blocked,26.0,Left Foot,,Yves Bissouma,Pass (Live),Son Heung-min,Shot
+28,82,Richarlison,Tottenham,0.12,0.15,Saved,12.0,Right Foot,,Son Heung-min,Shot,,
+29,84,Son Heung-min,Tottenham,0.06,,Blocked,14.0,Right Foot,,Harry Kane,Pass (Live),Hugo Lloris,Pass (Live)
+30,87,Son Heung-min,Tottenham,0.05,,Blocked,23.0,Right Foot,Free kick,Clément Lenglet,Fouled,,
+31,88,Dejan Kulusevski,Tottenham,0.02,0.02,Saved,26.0,Left Foot,Deflected,Yves Bissouma,Pass (Live),Yves Bissouma,Pass (Live)

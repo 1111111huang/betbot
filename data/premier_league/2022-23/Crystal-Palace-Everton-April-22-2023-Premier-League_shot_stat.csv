@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Dwight McNeil,Everton,0.05,0.06,Saved,27.0,Left Foot,,Dwight McNeil,Take-On,Alex Iwobi,Pass (Live)
+1,7.0,Dominic Calvert-Lewin,Everton,0.09,0.39,Saved,10.0,Other,,Alex Iwobi,Pass (Live),,
+2,9.0,Jordan Ayew,Crystal Palace,0.08,,Off Target,10.0,Head,,Michael Olise,Pass (Dead),Jordan Ayew,Fouled
+3,23.0,Michael Olise,Crystal Palace,0.02,0.02,Saved,27.0,Left Foot,,Joachim Andersen,Pass (Live),Odsonne Édouard,Pass (Live)
+4,26.0,Tyrick Mitchell,Crystal Palace,0.04,,Off Target,19.0,Left Foot,Volley,Jordan Ayew,Pass (Live),Michael Olise,Pass (Live)
+5,32.0,Alex Iwobi,Everton,0.02,0.35,Saved,28.0,Right Foot,Volley,Idrissa Gana Gueye,Pass (Live),Vitaliy Mykolenko,Fouled
+6,32.0,Dwight McNeil,Everton,0.05,,Blocked,16.0,Right Foot,Volley,Mason Holgate,Pass (Live),Alex Iwobi,Pass (Live)
+7,35.0,Dwight McNeil,Everton,0.02,,Blocked,29.0,Left Foot,,Alex Iwobi,Pass (Live),,
+8,39.0,Dominic Calvert-Lewin,Everton,0.02,0.2,Saved,28.0,Right Foot,,Dwight McNeil,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+9,41.0,Jordan Ayew,Crystal Palace,0.04,,Blocked,17.0,Right Foot,,Joachim Andersen,Pass (Dead),Joachim Andersen,Fouled
+10,41.0,Dwight McNeil,Everton,0.02,0.05,Saved,24.0,Left Foot,,Mason Holgate,Pass (Dead),,
+11,,,,,,,,,,,,,
+12,62.0,Dominic Calvert-Lewin,Everton,0.08,,Off Target,15.0,Left Foot,,Dominic Calvert-Lewin,Take-On,Alex Iwobi,Pass (Live)
+13,65.0,Idrissa Gana Gueye,Everton,0.02,,Off Target,26.0,Right Foot,Volley,Demarai Gray,Fouled,Mason Holgate,Pass (Live)
+14,66.0,Alex Iwobi,Everton,0.02,,Off Target,19.0,Right Foot,Volley,Vitaliy Mykolenko,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+15,76.0,Eberechi Eze,Crystal Palace,0.06,0.34,Saved,21.0,Right Foot,,Jordan Ayew,Pass (Live),Eberechi Eze,Pass (Live)
+16,77.0,Cheick Doucouré,Crystal Palace,0.03,,Blocked,17.0,Right Foot,,Eberechi Eze,Shot,,
+17,78.0,Cheick Doucouré,Crystal Palace,0.04,,Off Target,16.0,Right Foot,Volley,Cheick Doucouré,Shot,,
+18,82.0,Joachim Andersen,Crystal Palace,0.04,,Off Target,12.0,Head,,Michael Olise,Pass (Dead),Jordan Ayew,Fouled
+19,84.0,Michael Olise,Crystal Palace,0.03,,Blocked,32.0,Left Foot,,Michael Olise,Take-On,Joel Ward,Pass (Live)
+20,85.0,Tyrick Mitchell,Crystal Palace,0.05,,Blocked,13.0,Left Foot,,Joel Ward,Pass (Live),Will Hughes,Pass (Live)
+21,85.0,Luka Milivojević,Crystal Palace,0.06,,Blocked,21.0,Right Foot,,Tyrick Mitchell,Pass (Live),,
+22,90.0,Jordan Ayew,Crystal Palace,0.01,,Off Target,32.0,Right Foot,,Marc Guéhi,Pass (Live),,

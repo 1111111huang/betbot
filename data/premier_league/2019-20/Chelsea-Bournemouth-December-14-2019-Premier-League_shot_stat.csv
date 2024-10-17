@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Ryan Fraser,Bournemouth,0.04,0.09,Saved,15.0,Right Foot,,Dan Gosling,Pass (Live),Ryan Fraser,Pass (Live)
+1,8,Mason Mount,Chelsea,0.28,0.54,Saved,8.0,Right Foot,,Jorginho,Pass (Live),César Azpilicueta,Pass (Live)
+2,12,Emerson Palmieri,Chelsea,0.05,0.09,Saved,15.0,Left Foot,Deflected,,,,
+3,16,Tammy Abraham,Chelsea,0.08,,Off Target,9.0,Right Foot,Volley,César Azpilicueta,Pass (Live),N'Golo Kanté,Pass (Live)
+4,24,Christian Pulisic,Chelsea,0.07,,Blocked,10.0,Head,,César Azpilicueta,Pass (Live),Willian,Pass (Live)
+5,24,Antonio Rüdiger,Chelsea,0.05,,Off Target,12.0,Head,,Willian,Pass (Dead),Christian Pulisic,Shot
+6,24,César Azpilicueta,Chelsea,0.07,,Blocked,9.0,Head,,Antonio Rüdiger,Shot,,
+7,32,Willian,Chelsea,0.04,,Blocked,16.0,Left Foot,,N'Golo Kanté,Pass (Live),Jorginho,Pass (Live)
+8,39,Christian Pulisic,Chelsea,0.23,,Blocked,3.0,Head,,Willian,Pass (Live),César Azpilicueta,Pass (Live)
+9,42,Simon Francis,Bournemouth,0.04,,Blocked,9.0,Head,,Diego Rico,Pass (Dead),,
+10,42,Dan Gosling,Bournemouth,0.13,,Blocked,10.0,Right Foot,Deflected,Simon Francis,Shot,,
+11,42,Ryan Fraser,Bournemouth,0.04,,Blocked,16.0,Left Foot,,Jefferson Lerma,Pass (Live),Dan Gosling,Shot
+12,45+2,Tammy Abraham,Chelsea,0.08,,Off Target,9.0,Head,,Willian,Pass (Dead),,
+13,,,,,,,,,,,,,
+14,52,Joshua King,Bournemouth,0.17,,Blocked,9.0,Right Foot,,Ryan Fraser,Pass (Live),Ryan Fraser,Take-On
+15,55,Lewis Cook,Bournemouth,0.07,,Off Target,16.0,Right Foot,,Joshua King,Pass (Live),Philip Billing,Pass (Dead)
+16,55,Chris Mepham,Bournemouth,0.07,,Blocked,19.0,Right Foot,,Lewis Cook,Shot,,
+17,57,Jorginho,Chelsea,0.03,,Off Target,23.0,Right Foot,,,,,
+18,59,Willian,Chelsea,0.08,,Blocked,27.0,Right Foot,Free kick,Kurt Zouma,Fouled,,
+19,59,Christian Pulisic,Chelsea,0.06,,Blocked,17.0,Right Foot,,,,,
+20,60,Tammy Abraham,Chelsea,0.25,0.11,Saved,5.0,Head,,Christian Pulisic,Shot,,
+21,60,Kurt Zouma,Chelsea,0.19,,Blocked,8.0,Right Foot,,Tammy Abraham,Shot,,
+22,60,Willian,Chelsea,0.03,,Blocked,15.0,Left Foot,,Kurt Zouma,Shot,,
+23,66,Joshua King,Bournemouth,0.07,,Blocked,10.0,Right Foot,,Joshua King,Take-On,,
+24,72,Emerson Palmieri,Chelsea,0.51,0.54,Saved,6.0,Head,,César Azpilicueta,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+25,76,Tammy Abraham,Chelsea,0.08,,Off Target,9.0,Head,,César Azpilicueta,Pass (Live),Mateo Kovačić,Pass (Live)
+26,84,Dan Gosling,Bournemouth,0.14,,Blocked,9.0,Left Foot,Volley,Diego Rico,Pass (Dead),Ryan Fraser,Pass (Live)
+27,84,Dan Gosling,Bournemouth,0.15,0.44,Goal,9.0,Right Foot,,Jefferson Lerma,Pass (Live),Dan Gosling,Shot
+28,87,Dominic Solanke,Bournemouth,0.1,,Blocked,6.0,Right Foot,,Dan Gosling,Interception,,
+29,90+3,Mateo Kovačić,Chelsea,0.02,0.13,Saved,24.0,Right Foot,Volley,Callum Hudson-Odoi,Pass (Dead),Michy Batshuayi,Pass (Live)

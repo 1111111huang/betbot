@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,13,Abdoulaye Doucouré,Watford,0.09,0.17,Saved,10.0,Right Foot,,Abdoulaye Doucouré,Take-On,Troy Deeney,Pass (Live)
+1,13,Ismaila Sarr,Watford,0.04,,Blocked,15.0,Right Foot,,,,,
+2,13,Christian Kabasele,Watford,0.13,,Blocked,9.0,Left Foot,,Ismaila Sarr,Shot,,
+3,20,Will Hughes,Watford,0.03,,Off Target,25.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Étienne Capoue,Pass (Live)
+4,28,Étienne Capoue,Watford,0.03,,Blocked,27.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Étienne Capoue,Pass (Live)
+5,28,Jordan Ayew,Crystal Palace,0.07,0.47,Goal,20.0,Right Foot,,James McArthur,Pass (Live),Christian Benteke,Pass (Live)
+6,33,Cheikhou Kouyaté,Crystal Palace,0.07,,Blocked,20.0,Right Foot,,Christian Benteke,Pass (Live),James McArthur,Pass (Live)
+7,38,Patrick van Aanholt,Crystal Palace,0.01,,Blocked,32.0,Left Foot,,James McArthur,Pass (Live),Christian Benteke,Pass (Live)
+8,45+3,Wilfried Zaha,Crystal Palace,0.03,,Blocked,26.0,Right Foot,,Christian Benteke,Pass (Live),James McArthur,Pass (Live)
+9,,,,,,,,,,,,,
+10,51,Jordan Ayew,Crystal Palace,0.04,,Off Target,15.0,Head,,Patrick van Aanholt,Pass (Dead),Wilfried Zaha,Fouled
+11,56,Wilfried Zaha,Crystal Palace,0.33,0.34,Saved,12.0,Right Foot,,Wilfried Zaha,Take-On,Christian Benteke,Pass (Live)
+12,58,Troy Deeney,Watford,0.08,,Blocked,14.0,Right Foot,,Ismaila Sarr,Fouled,Troy Deeney,Pass (Live)
+13,58,Roberto Pereyra,Watford,0.05,0.06,Saved,17.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Troy Deeney,Pass (Live)
+14,63,Wilfried Zaha,Crystal Palace,0.05,,Blocked,25.0,Right Foot,,James McCarthy,Pass (Live),,
+15,64,Christian Benteke,Crystal Palace,0.07,,Off Target,9.0,Head,,James McCarthy,Pass (Dead),Wilfried Zaha,Shot
+16,65,Troy Deeney,Watford,0.03,0.13,Saved,28.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Étienne Capoue,Pass (Live)
+17,68,Abdoulaye Doucouré,Watford,0.04,,Off Target,15.0,Head,,Ismaila Sarr,Pass (Live),Troy Deeney,Pass (Live)
+18,69,Will Hughes,Watford,0.06,,Blocked,16.0,Left Foot,,Étienne Capoue,Pass (Live),Ismaila Sarr,Pass (Live)
+19,73,Christian Benteke,Crystal Palace,0.07,,Off Target,11.0,Right Foot,Volley,Scott Dann,Pass (Live),Patrick van Aanholt,Pass (Dead)
+20,90+5,Jordan Ayew,Crystal Palace,0.08,0.06,Saved,11.0,Right Foot,,Christian Benteke,Pass (Live),Wilfried Zaha,Pass (Live)

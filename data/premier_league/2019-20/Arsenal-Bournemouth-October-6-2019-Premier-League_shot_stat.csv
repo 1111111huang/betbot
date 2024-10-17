@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Pierre-Emerick Aubameyang,Arsenal,0.03,,Off Target,23.0,Right Foot,,Bukayo Saka,Pass (Live),Dani Ceballos,Pass (Live)
+1,9,David Luiz,Arsenal,0.06,0.34,Goal,9.0,Head,Deflected,Nicolas Pépé,Pass (Dead),Pierre-Emerick Aubameyang,Pass (Live)
+2,15,Joshua King,Bournemouth,0.05,,Off Target,11.0,Head,,Diego Rico,Pass (Dead),Dominic Solanke,Pass (Live)
+3,17,Dominic Solanke,Bournemouth,0.11,,Off Target,10.0,Head,,Diego Rico,Pass (Dead),Callum Wilson,Fouled
+4,19,Nicolas Pépé,Arsenal,0.05,,Off Target,19.0,Left Foot,,Bukayo Saka,Pass (Live),Bukayo Saka,Take-On
+5,23,Pierre-Emerick Aubameyang,Arsenal,0.04,,Blocked,14.0,Right Foot,,Nicolas Pépé,Pass (Dead),Mattéo Guendouzi,Pass (Live)
+6,23,Bukayo Saka,Arsenal,0.05,,Blocked,16.0,Right Foot,,Pierre-Emerick Aubameyang,Pass (Live),Bukayo Saka,Pass (Live)
+7,30,Pierre-Emerick Aubameyang,Arsenal,0.08,0.03,Saved,12.0,Head,,Mattéo Guendouzi,Pass (Live),Sokratis Papastathopoulos,Pass (Live)
+8,34,Mattéo Guendouzi,Arsenal,0.04,,Blocked,22.0,Left Foot,,Dani Ceballos,Pass (Live),Bukayo Saka,Tackle
+9,36,Calum Chambers,Arsenal,0.05,,Off Target,15.0,Right Foot,Volley,Dani Ceballos,Pass (Live),Bukayo Saka,Pass (Live)
+10,40,Jefferson Lerma,Bournemouth,0.02,,Off Target,32.0,Right Foot,,Joshua King,Pass (Live),Diego Rico,Pass (Live)
+11,,,,,,,,,,,,,
+12,56,Jack Stacey,Bournemouth,0.08,0.23,Saved,8.0,Right Foot,,Harry Wilson,Pass (Live),Dominic Solanke,Pass (Live)
+13,58,Philip Billing,Bournemouth,0.04,,Off Target,31.0,Left Foot,,Philip Billing,Take-On,Dominic Solanke,Pass (Live)
+14,64,Calum Chambers,Arsenal,0.02,,Off Target,29.0,Right Foot,Volley,,,,
+15,66,Ryan Fraser,Bournemouth,0.04,,Blocked,19.0,Right Foot,,Ryan Fraser,Interception,,
+16,71,Calum Chambers,Arsenal,0.15,,Blocked,5.0,Right Foot,Volley,Dani Ceballos,Pass (Dead),,
+17,77,Jefferson Lerma,Bournemouth,0.03,,Off Target,30.0,Right Foot,,Ryan Fraser,Pass (Live),Jefferson Lerma,Pass (Live)
+18,83,Gabriel Martinelli,Arsenal,0.05,,Off Target,15.0,Right Foot,,Joe Willock,Pass (Live),Bukayo Saka,Pass (Live)
+19,86,Arnaut Danjuma,Bournemouth,0.03,,Off Target,24.0,Right Foot,Volley,Ryan Fraser,Pass (Live),Joshua King,Pass (Live)
+20,90+1,Steve Cook,Bournemouth,0.14,,Off Target,7.0,Head,,Ryan Fraser,Pass (Dead),Diego Rico,Pass (Live)
+21,90+4,Pierre-Emerick Aubameyang,Arsenal,0.59,,Woodwork,5.0,Left Foot,,Calum Chambers,Pass (Live),,
+22,90+5,Callum Wilson,Bournemouth,0.05,0.06,Saved,22.0,Right Foot,,Nathan Aké,Pass (Live),,

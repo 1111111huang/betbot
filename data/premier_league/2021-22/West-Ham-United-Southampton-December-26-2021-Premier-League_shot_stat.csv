@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Oriol Romeu,Southampton,0.03,,Off Target,28.0,Right Foot,,Nathan Redmond,Pass (Live),Jan Bednarek,Pass (Live)
+1,8,Mohamed Elyounoussi,Southampton,0.08,0.14,Goal,22.0,Left Foot,,Kyle Walker-Peters,Pass (Live),Mohamed Elyounoussi,Pass (Live)
+2,20,Craig Dawson,West Ham,0.15,,Blocked,5.0,Head,,Tomáš Souček,Pass (Live),Pablo Fornals,Pass (Live)
+3,20,Declan Rice,West Ham,0.02,,Blocked,29.0,Right Foot,,Craig Dawson,Pass (Live),Vladimír Coufal,Pass (Live)
+4,29,Theo Walcott,Southampton,0.02,,Blocked,24.0,Right Foot,,Kyle Walker-Peters,Pass (Live),Theo Walcott,Pass (Live)
+5,33,Mohamed Elyounoussi,Southampton,0.07,0.07,Saved,17.0,Right Foot,,Mohamed Elyounoussi,Take-On,Nathan Redmond,Pass (Live)
+6,35,Nathan Redmond,Southampton,0.01,0.03,Saved,32.0,Right Foot,Volley,Oriol Romeu,Pass (Live),,
+7,39,Nikola Vlašić,West Ham,0.1,0.14,Saved,22.0,Left Foot,,,,,
+8,41,Armando Broja,Southampton,0.03,,Off Target,11.0,Left Foot,,Kyle Walker-Peters,Pass (Live),Kyle Walker-Peters,Tackle
+9,,,,,,,,,,,,,
+10,47,Michail Antonio,West Ham,0.04,0.04,Saved,14.0,Right Foot,,Manuel Lanzini,Pass (Live),Michail Antonio,Pass (Live)
+11,48,Nathan Redmond,Southampton,0.03,0.1,Saved,26.0,Left Foot,,James Ward-Prowse,Pass (Live),Armando Broja,Pass (Live)
+12,49,Michail Antonio,West Ham,0.76,0.37,Goal,4.0,Head,,Craig Dawson,Pass (Live),,
+13,55,Kyle Walker-Peters,Southampton,0.06,,Blocked,17.0,Right Foot,,Mohamed Elyounoussi,Pass (Live),Jan Bednarek,Pass (Live)
+14,56,Declan Rice,West Ham,0.02,,Off Target,32.0,Right Foot,,Manuel Lanzini,Pass (Live),Jarrod Bowen,Pass (Live)
+15,61,James Ward-Prowse (pen),Southampton,0.79,0.98,Goal,13.0,Right Foot,,Armando Broja,Fouled,Armando Broja,Take-On
+16,64,Saïd Benrahma,West Ham,0.23,0.89,Goal,10.0,Right Foot,Volley,Jarrod Bowen,Pass (Live),Tomáš Souček,Pass (Live)
+17,70,Jan Bednarek,Southampton,0.05,0.36,Goal,11.0,Head,,James Ward-Prowse,Pass (Dead),Kyle Walker-Peters,Fouled
+18,72,Tomáš Souček,West Ham,0.16,,Blocked,6.0,Head,,Manuel Lanzini,Pass (Dead),Craig Dawson,Pass (Live)
+19,79,Saïd Benrahma,West Ham,0.03,,Off Target,26.0,Right Foot,,Manuel Lanzini,Pass (Live),Michail Antonio,Pass (Live)
+20,90,Michail Antonio,West Ham,0.1,,Blocked,9.0,Right Foot,,Andriy Yarmolenko,Pass (Live),Arthur Masuaku,Pass (Live)
+21,90+1,Arthur Masuaku,West Ham,0.01,,Off Target,32.0,Left Foot,,Manuel Lanzini,Pass (Live),Manuel Lanzini,Take-On
+22,90+4,Stuart Armstrong,Southampton,0.02,,Blocked,28.0,Right Foot,,Ibrahima Diallo,Pass (Live),Stuart Armstrong,Pass (Live)

@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Erik Pieters,Burnley,0.01,,Blocked,27.0,Left Foot,,,,,
+1,4.0,Aaron Lennon,Burnley,0.01,,Off Target,27.0,Right Foot,,Erik Pieters,Shot,,
+2,9.0,Jeffrey Schlupp,Crystal Palace,0.53,0.74,Goal,5.0,Left Foot,Volley,Michael Olise,Pass (Live),Nathaniel Clyne,Pass (Live)
+3,13.0,Wilfried Zaha,Crystal Palace,0.04,,Blocked,21.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Wilfried Zaha,Pass (Live)
+4,14.0,Michael Olise,Crystal Palace,0.06,,Off Target,27.0,Left Foot,Free kick,Luka Milivojević,Fouled,,
+5,17.0,Tyrick Mitchell,Crystal Palace,0.06,,Blocked,16.0,Left Foot,Deflected,James McArthur,Pass (Live),Michael Olise,Pass (Live)
+6,18.0,Nathaniel Clyne,Crystal Palace,0.02,0.05,Saved,30.0,Right Foot,,Tyrick Mitchell,Interception,,
+7,20.0,Michael Olise,Crystal Palace,0.09,,Blocked,12.0,Right Foot,,Wilfried Zaha,Pass (Live),Wilfried Zaha,Take-On
+8,31.0,Luka Milivojević,Crystal Palace,0.06,,Blocked,28.0,Right Foot,Free kick,Wilfried Zaha,Fouled,Wilfried Zaha,Take-On
+9,39.0,Michael Olise,Crystal Palace,0.08,0.08,Saved,12.0,Left Foot,,Wilfried Zaha,Pass (Live),Jeffrey Schlupp,Pass (Live)
+10,,,,,,,,,,,,,
+11,56.0,Wout Weghorst,Burnley,0.15,0.32,Saved,7.0,Head,,Josh Brownhill,Pass (Dead),Dwight McNeil,Pass (Live)
+12,68.0,James Tarkowski,Burnley,0.02,,Off Target,11.0,Right Foot,Volley,Connor Roberts,Pass (Dead),,
+13,70.0,Wilfried Zaha,Crystal Palace,0.04,0.05,Saved,16.0,Right Foot,,Michael Olise,Pass (Live),Nathaniel Clyne,Pass (Live)
+14,71.0,Wilfried Zaha,Crystal Palace,0.05,,Woodwork,13.0,Left Foot,,Tyrick Mitchell,Pass (Live),Michael Olise,Pass (Live)
+15,73.0,Michael Olise,Crystal Palace,0.02,,Blocked,25.0,Right Foot,,Conor Gallagher,Pass (Dead),James McArthur,Pass (Live)
+16,75.0,Ben Mee,Burnley,0.01,,Blocked,24.0,Left Foot,,Jay Rodriguez,Fouled,Ben Mee,Pass (Live)

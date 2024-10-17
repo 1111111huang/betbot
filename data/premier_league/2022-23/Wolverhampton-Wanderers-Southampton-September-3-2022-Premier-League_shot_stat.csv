@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Rayan Aït-Nouri,Wolves,0.02,0.09,Saved,13.0,Left Foot,Deflected,Daniel Podence,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+1,14,Pedro Neto,Wolves,0.14,,Off Target,16.0,Left Foot,,Matheus Nunes,Pass (Live),Daniel Podence,Pass (Live)
+2,15,Adam Armstrong,Southampton,0.06,,Off Target,21.0,Right Foot,,Romain Perraud,Pass (Live),Joe Aribo,Pass (Live)
+3,18,Joe Aribo,Southampton,0.36,,Blocked,5.0,Right Foot,,Che Adams,Pass (Live),Mohamed Elyounoussi,Pass (Live)
+4,18,Ibrahima Diallo,Southampton,0.02,,Off Target,33.0,Right Foot,,James Ward-Prowse,Pass (Live),,
+5,22,Armel Bella Kotchap,Southampton,0.04,,Off Target,13.0,Head,,James Ward-Prowse,Pass (Dead),,
+6,24,Sasa Kalajdzic,Wolves,0.27,,Off Target,4.0,Head,,Pedro Neto,Pass (Dead),Matheus Nunes,Pass (Live)
+7,42,Adam Armstrong,Southampton,0.07,,Off Target,10.0,Left Foot,Volley,Che Adams,Pass (Live),James Ward-Prowse,Pass (Live)
+8,45+1,Daniel Podence,Wolves,0.21,0.13,Goal,11.0,Left Foot,,Matheus Nunes,Pass (Live),Pedro Neto,Pass (Live)
+9,45+3,James Ward-Prowse,Southampton,0.07,,Blocked,21.0,Right Foot,,Joe Aribo,Pass (Live),,
+10,,,,,,,,,,,,,
+11,52,Gonçalo Guedes,Wolves,0.1,,Blocked,10.0,Head,,Daniel Podence,Pass (Live),Matheus Nunes,Pass (Live)
+12,56,Mohamed Elyounoussi,Southampton,0.04,,Off Target,12.0,Left Foot,,Mohamed Elyounoussi,Pass (Live),Adam Armstrong,Pass (Live)
+13,60,James Ward-Prowse,Southampton,0.05,0.2,Saved,24.0,Right Foot,Free kick,Stuart Armstrong,Fouled,Joe Aribo,Pass (Live)
+14,63,Che Adams,Southampton,0.38,,Woodwork,4.0,Head,,Stuart Armstrong,Pass (Live),Moussa Djenepo,Pass (Live)
+15,66,Matheus Nunes,Wolves,0.04,,Off Target,12.0,Right Foot,Volley,Daniel Podence,Pass (Live),João Moutinho,Pass (Live)
+16,69,Jonny Castro,Wolves,0.03,,Off Target,24.0,Right Foot,,Pedro Neto,Pass (Live),Jonny Castro,Pass (Live)
+17,85,Sekou Mara,Southampton,0.04,,Blocked,13.0,Left Foot,,Samuel Edozie,Pass (Live),Mohammed Salisu,Pass (Live)
+18,85,Stuart Armstrong,Southampton,0.04,,Blocked,22.0,Right Foot,,Sekou Mara,Pass (Live),Stuart Armstrong,Pass (Live)
+19,90,Sekou Mara,Southampton,0.02,,Off Target,17.0,Head,,Che Adams,Pass (Live),Kyle Walker-Peters,Pass (Live)

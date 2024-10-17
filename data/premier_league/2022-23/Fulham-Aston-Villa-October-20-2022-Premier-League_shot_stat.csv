@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Willian,Fulham,0.12,0.22,Saved,11.0,Right Foot,,Aleksandar Mitrović,Pass (Live),Aleksandar Mitrović,Take-On
+1,11,Aleksandar Mitrović,Fulham,0.03,,Off Target,13.0,Head,,Bobby Reid,Pass (Live),Willian,Pass (Live)
+2,13,Danny Ings,Aston Villa,0.09,0.14,Saved,5.0,Head,,Ezri Konsa,Pass (Live),Ashley Young,Pass (Live)
+3,16,Andreas Pereira,Fulham,0.01,,Blocked,34.0,Right Foot,,Willian,Pass (Live),Willian,Tackle
+4,17,Andreas Pereira,Fulham,0.03,,Blocked,22.0,Right Foot,Volley,Willian,Pass (Dead),Andreas Pereira,Shot
+5,17,Aleksandar Mitrović,Fulham,0.07,,Blocked,7.0,Head,,Andreas Pereira,Pass (Dead),Andreas Pereira,Shot
+6,21,Andreas Pereira,Fulham,0.04,0.37,Saved,31.0,Right Foot,Free kick,Andreas Pereira,Fouled,Willian,Pass (Live)
+7,22,João Palhinha,Fulham,0.04,,Off Target,10.0,Head,,Andreas Pereira,Pass (Dead),Neeskens Kebano,Fouled
+8,24,Willian,Fulham,0.04,0.04,Saved,28.0,Right Foot,,,,,
+9,26,Danny Ings,Aston Villa,0.07,,Off Target,12.0,Head,,Leon Bailey,Pass (Dead),Ollie Watkins,Fouled
+10,31,Leon Bailey,Aston Villa,0.09,,Blocked,17.0,Left Foot,,Ollie Watkins,Pass (Live),Tyrone Mings,Pass (Live)
+11,31,Ollie Watkins,Aston Villa,0.03,0.06,Saved,24.0,Right Foot,,John McGinn,Pass (Live),Jacob Ramsey,Pass (Live)
+12,33,Willian,Fulham,0.05,0.43,Saved,25.0,Right Foot,,Andreas Pereira,Pass (Live),Bobby Reid,Pass (Live)
+13,36,Harrison Reed,Fulham,0.09,0.35,Goal,19.0,Right Foot,Deflected,Neeskens Kebano,Pass (Live),Antonee Robinson,Pass (Live)
+14,37,Danny Ings,Aston Villa,0.15,0.45,Saved,12.0,Right Foot,,Ezri Konsa,Pass (Live),Jacob Ramsey,Pass (Live)
+15,38,Neeskens Kebano,Fulham,0.13,0.17,Saved,11.0,Left Foot,,Willian,Pass (Live),,
+16,38,Willian,Fulham,0.15,,Blocked,8.0,Left Foot,Volley,Neeskens Kebano,Shot,,
+17,38,Aleksandar Mitrović,Fulham,0.21,,Off Target,3.0,Head,,Willian,Shot,,
+18,43,John McGinn,Aston Villa,0.01,0.04,Saved,33.0,Left Foot,,Danny Ings,Pass (Live),Jacob Ramsey,Pass (Live)
+19,43,Ollie Watkins,Aston Villa,0.29,0.24,Saved,5.0,Right Foot,,Ollie Watkins,Take-On,John McGinn,Shot
+20,45+1,Leon Bailey,Aston Villa,0.02,,Off Target,29.0,Left Foot,,Leon Bailey,Take-On,Ashley Young,Pass (Dead)
+21,,,,,,,,,,,,,
+22,48,Aleksandar Mitrović,Fulham,0.09,,Off Target,13.0,Right Foot,,Harrison Reed,Pass (Live),Bobby Reid,Pass (Live)
+23,51,Danny Ings,Aston Villa,0.17,0.13,Saved,9.0,Head,,Ezri Konsa,Pass (Live),Ashley Young,Pass (Live)
+24,53,Danny Ings,Aston Villa,0.02,,Blocked,11.0,Left Foot,,Matty Cash,Pass (Live),Jacob Ramsey,Pass (Live)
+25,54,Aleksandar Mitrović,Fulham,0.12,,Blocked,14.0,Right Foot,Volley,Willian,Pass (Live),João Palhinha,Pass (Live)
+26,54,João Palhinha,Fulham,0.1,,Off Target,9.0,Head,,Andreas Pereira,Pass (Dead),Aleksandar Mitrović,Shot
+27,66,Aleksandar Mitrović,Fulham,0.06,,Blocked,12.0,Left Foot,Volley,Bobby Reid,Pass (Live),Harrison Reed,Pass (Live)
+28,68,Aleksandar Mitrović (pen),Fulham,0.79,0.88,Goal,13.0,Right Foot,,,Fouled,Aleksandar Mitrović,Shot
+29,81,Ollie Watkins,Aston Villa,0.09,,Blocked,10.0,Right Foot,Volley,Ashley Young,Pass (Live),John McGinn,Pass (Live)
+30,90+1,Ollie Watkins,Aston Villa,0.12,,Off Target,13.0,Left Foot,,Emi Buendía,Pass (Live),Tyrone Mings,Pass (Live)

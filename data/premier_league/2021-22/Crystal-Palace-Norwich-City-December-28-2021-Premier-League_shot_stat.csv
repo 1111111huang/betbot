@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Pierre Lees-Melou,Norwich City,0.04,,Blocked,25.0,Right Foot,,,,,
+1,1,Pierre Lees-Melou,Norwich City,0.04,,Blocked,22.0,Right Foot,,Pierre Lees-Melou,Shot,,
+2,6,Jeffrey Schlupp,Crystal Palace,0.03,,Blocked,13.0,Left Foot,Volley,Jordan Ayew,Pass (Live),Will Hughes,Pass (Live)
+3,6,Jeffrey Schlupp,Crystal Palace,0.11,,Blocked,12.0,Right Foot,,Jeffrey Schlupp,Shot,,
+4,8,Odsonne Édouard (pen),Crystal Palace,0.79,0.99,Goal,13.0,Right Foot,,Will Hughes,Fouled,Tyrick Mitchell,Pass (Live)
+5,17,Joachim Andersen,Crystal Palace,0.03,,Blocked,9.0,Head,,Will Hughes,Pass (Dead),,
+6,19,Jean-Philippe Mateta,Crystal Palace,0.03,,Off Target,16.0,Left Foot,,Will Hughes,Pass (Live),Will Hughes,Tackle
+7,20,Jeffrey Schlupp,Crystal Palace,0.08,,Blocked,15.0,Left Foot,,,,,
+8,38,Jean-Philippe Mateta,Crystal Palace,0.09,0.47,Goal,14.0,Left Foot,Deflected,Odsonne Édouard,Pass (Live),Tyrick Mitchell,Pass (Live)
+9,42,Jeffrey Schlupp,Crystal Palace,0.03,0.57,Goal,14.0,Left Foot,,Odsonne Édouard,Take-On,Tyrick Mitchell,Pass (Live)
+10,44,Przemysław Płacheta,Norwich City,0.04,0.04,Saved,27.0,Left Foot,,Pierre Lees-Melou,Pass (Live),Billy Gilmour,Pass (Live)
+11,45+1,Christos Tzolis,Norwich City,0.2,,Blocked,7.0,Left Foot,Volley,Przemysław Płacheta,Pass (Live),Ben Gibson,Pass (Live)
+12,45+1,Billy Gilmour,Norwich City,0.02,,Blocked,34.0,Right Foot,,Ben Gibson,Pass (Live),Dimitris Giannoulis,Pass (Dead)
+13,45+2,Sam Byram,Norwich City,0.23,,Blocked,5.0,Head,,Przemysław Płacheta,Pass (Dead),Przemysław Płacheta,Fouled
+14,45+2,Kenny McLean,Norwich City,0.03,,Blocked,20.0,Left Foot,,Christos Tzolis,Pass (Live),Sam Byram,Shot
+15,45+5,Joel Ward,Crystal Palace,0.03,,Off Target,20.0,Right Foot,,Jordan Ayew,Fouled,Odsonne Édouard,Pass (Live)
+16,,,,,,,,,,,,,
+17,48,Przemysław Płacheta,Norwich City,0.01,,Blocked,11.0,Left Foot,,Sam Byram,Pass (Live),Billy Gilmour,Pass (Live)
+18,51,Marc Guéhi,Crystal Palace,0.07,,Blocked,10.0,Left Foot,Volley,Will Hughes,Pass (Dead),Jordan Ayew,Pass (Live)
+19,55,Kenny McLean,Norwich City,0.05,,Off Target,12.0,Head,,Pierre Lees-Melou,Pass (Live),Sam Byram,Pass (Live)
+20,59,Jeffrey Schlupp,Crystal Palace,0.04,0.06,Saved,15.0,Left Foot,,Marc Guéhi,Fouled,Odsonne Édouard,Pass (Live)
+21,59,Jean-Philippe Mateta,Crystal Palace,0.19,0.41,Saved,4.0,Left Foot,,Jeffrey Schlupp,Shot,,
+22,61,Jean-Philippe Mateta,Crystal Palace,0.11,0.05,Saved,9.0,Head,,Odsonne Édouard,Pass (Live),Tyrick Mitchell,Pass (Live)
+23,62,Przemysław Płacheta,Norwich City,0.12,0.08,Saved,13.0,Left Foot,,Christos Tzolis,Pass (Live),Billy Gilmour,Pass (Live)
+24,64,Odsonne Édouard,Crystal Palace,0.06,,Off Target,17.0,Left Foot,,Jeffrey Schlupp,Pass (Live),Jordan Ayew,Pass (Dead)
+25,69,Pierre Lees-Melou,Norwich City,0.04,,Blocked,22.0,Right Foot,Volley,Brandon Williams,Pass (Live),Przemysław Płacheta,Pass (Live)
+26,70,Pierre Lees-Melou,Norwich City,0.14,,Off Target,15.0,Right Foot,,Jon Rowe,Pass (Live),Adam Idah,Pass (Live)
+27,71,Odsonne Édouard,Crystal Palace,0.04,,Blocked,10.0,Left Foot,,Jordan Ayew,Pass (Live),Jordan Ayew,Take-On
+28,72,Jeffrey Schlupp,Crystal Palace,0.04,,Off Target,22.0,Left Foot,Volley,Odsonne Édouard,Shot,,
+29,86,Odsonne Édouard,Crystal Palace,0.09,,Blocked,9.0,Head,,Luka Milivojević,Pass (Dead),Jordan Ayew,Fouled
+30,86,Odsonne Édouard,Crystal Palace,0.11,,Off Target,7.0,Head,,Luka Milivojević,Pass (Dead),Odsonne Édouard,Shot
+31,89,Odsonne Édouard,Crystal Palace,0.09,,Off Target,9.0,Left Foot,,Tyrick Mitchell,Pass (Live),Cheikhou Kouyaté,Pass (Live)

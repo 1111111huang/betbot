@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Dominic Calvert-Lewin,Everton,0.06,0.1,Saved,20.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),,
+1,2,Richarlison,Everton,0.03,,Blocked,25.0,Right Foot,,Dominic Calvert-Lewin,Shot,,
+2,3,Séamus Coleman,Everton,0.03,0.16,Saved,24.0,Right Foot,,James Rodríguez,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+3,16,Gylfi Sigurðsson,Everton,0.06,,Blocked,12.0,Left Foot,,Lucas Digne,Pass (Live),James Rodríguez,Pass (Live)
+4,16,Dominic Calvert-Lewin,Everton,0.15,0.33,Goal,4.0,Head,,Gylfi Sigurðsson,Pass (Live),James Rodríguez,Pass (Dead)
+5,32,James Rodríguez,Everton,0.03,,Off Target,26.0,Left Foot,,Gylfi Sigurðsson,Pass (Live),Gylfi Sigurðsson,Take-On
+6,41,Leandro Trossard,Brighton,0.05,0.05,Saved,10.0,Left Foot,Volley,Tariq Lamptey,Pass (Live),Steven Alzate,Pass (Live)
+7,41,Neal Maupay,Brighton,0.77,0.88,Goal,5.0,Right Foot,Deflected,Leandro Trossard,Shot,,
+8,44,Lewis Dunk,Brighton,0.06,,Off Target,30.0,Right Foot,Free kick,,Fouled,Solly March,Pass (Live)
+9,45+2,Yerry Mina,Everton,0.31,0.61,Goal,5.0,Head,,James Rodríguez,Pass (Dead),Séamus Coleman,Fouled
+10,,,,,,,,,,,,,
+11,47,James Rodríguez,Everton,0.08,,Blocked,15.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),,
+12,52,James Rodríguez,Everton,0.39,0.65,Goal,9.0,Left Foot,,Alex Iwobi,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+13,58,Dominic Calvert-Lewin,Everton,0.02,,Off Target,32.0,Right Foot,,Jordan Pickford,Pass (Dead),James Rodríguez,Fouled
+14,67,Neal Maupay,Brighton,0.18,,Blocked,8.0,Right Foot,,Joël Veltman,Pass (Live),Steven Alzate,Pass (Live)
+15,68,Yves Bissouma,Brighton,0.02,,Blocked,33.0,Right Foot,,Steven Alzate,Pass (Live),Leandro Trossard,Pass (Live)
+16,70,James Rodríguez,Everton,0.45,0.7,Goal,8.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Alex Iwobi,Pass (Live)
+17,75,Adam Webster,Brighton,0.04,,Blocked,16.0,Right Foot,,Adam Webster,Interception,,
+18,78,Leandro Trossard,Brighton,0.05,,Off Target,22.0,Right Foot,,Adam Lallana,Pass (Live),Leandro Trossard,Pass (Live)
+19,86,Leandro Trossard,Brighton,0.07,,Blocked,15.0,Right Foot,,Solly March,Pass (Live),Pascal Groß,Pass (Live)
+20,90,Neal Maupay,Brighton,0.09,,Blocked,16.0,Right Foot,,Leandro Trossard,Pass (Live),,
+21,90+2,Yves Bissouma,Brighton,0.03,0.38,Goal,28.0,Right Foot,Volley,Solly March,Pass (Live),,
+22,90+3,Leandro Trossard,Brighton,0.03,,Off Target,23.0,Left Foot,Volley,,,,

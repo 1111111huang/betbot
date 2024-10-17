@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Reece James,Chelsea,0.03,,Blocked,18.0,Right Foot,,Nicolas Jackson,Pass (Live),Enzo Fernández,Pass (Live)
+1,12,Cole Palmer,Chelsea,0.04,,Blocked,16.0,Left Foot,,Reece James,Pass (Live),Thiago Silva,Pass (Live)
+2,16,Julián Álvarez,Manchester City,0.04,,Blocked,13.0,Right Foot,,Rodri,Pass (Live),Kyle Walker,Pass (Live)
+3,17,Joško Gvardiol,Manchester City,0.01,0.03,Saved,15.0,Head,Deflected,Julián Álvarez,Pass (Dead),Julián Álvarez,Shot
+4,19,Conor Gallagher,Chelsea,0.05,0.03,Saved,26.0,Right Foot,Volley,,,,
+5,25,Erling Haaland (pen),Manchester City,0.79,0.99,Goal,13.0,Left Foot,,Erling Haaland,Fouled,Julián Álvarez,Pass (Live)
+6,27,Moisés Caicedo,Chelsea,0.03,,Blocked,25.0,Right Foot,,Conor Gallagher,Pass (Live),Raheem Sterling,Pass (Live)
+7,28,Reece James,Chelsea,0.06,0.26,Saved,26.0,Right Foot,Free kick,Enzo Fernández,Fouled,Cole Palmer,Pass (Live)
+8,29,Thiago Silva,Chelsea,0.07,0.14,Goal,7.0,Head,,Conor Gallagher,Pass (Dead),Reece James,Shot
+9,32,Erling Haaland,Manchester City,0.07,,Off Target,3.0,Left Foot,Volley,Phil Foden,Pass (Live),Phil Foden,Take-On
+10,34,Phil Foden,Manchester City,0.07,,Off Target,16.0,Left Foot,,Rodri,Pass (Live),Rodri,Take-On
+11,37,Raheem Sterling,Chelsea,0.43,0.95,Goal,4.0,Right Foot,Deflected,Enzo Fernández,Pass (Live),,
+12,40,Enzo Fernández,Chelsea,0.04,,Blocked,24.0,Left Foot,,Cole Palmer,Pass (Live),Thiago Silva,Pass (Live)
+13,41,Raheem Sterling,Chelsea,0.02,,Off Target,16.0,Right Foot,,Marc Cucurella,Pass (Live),Enzo Fernández,Pass (Live)
+14,42,Erling Haaland,Manchester City,0.31,0.37,Saved,14.0,Left Foot,,Bernardo Silva,Pass (Live),Kyle Walker,Pass (Live)
+15,43,Phil Foden,Manchester City,0.02,0.39,Saved,25.0,Left Foot,,Kyle Walker,Pass (Live),Rodri,Pass (Live)
+16,44,Nicolas Jackson,Chelsea,0.09,0.11,Saved,18.0,Left Foot,,Raheem Sterling,Take-On,Cole Palmer,Pass (Live)
+17,45+1,Manuel Akanji,Manchester City,0.29,0.29,Goal,8.0,Head,,Bernardo Silva,Pass (Live),Julián Álvarez,Pass (Dead)
+18,45+7,Nicolas Jackson,Chelsea,0.04,,Blocked,13.0,Left Foot,,Conor Gallagher,Pass (Live),Enzo Fernández,Pass (Live)
+19,,,,,,,,,,,,,
+20,47,Erling Haaland,Manchester City,0.87,0.98,Goal,3.0,Other,,Phil Foden,Pass (Live),Julián Álvarez,Pass (Live)
+21,52,Julián Álvarez,Manchester City,0.12,0.12,Saved,16.0,Right Foot,,Rodri,Pass (Live),Phil Foden,Pass (Live)
+22,58,Jeremy Doku,Manchester City,0.09,0.08,Saved,12.0,Right Foot,,Erling Haaland,Pass (Live),Phil Foden,Pass (Live)
+23,60,Cole Palmer,Chelsea,0.48,0.92,Saved,13.0,Left Foot,,Cole Palmer,Take-On,Moisés Caicedo,Pass (Live)
+24,61,Phil Foden,Manchester City,0.07,0.12,Saved,17.0,Left Foot,Deflected,Jack Grealish,Pass (Live),Rodri,Pass (Live)
+25,67,Conor Gallagher,Chelsea,0.03,0.1,Saved,31.0,Right Foot,,Moisés Caicedo,Pass (Live),Mykhailo Mudryk,Pass (Live)
+26,67,Nicolas Jackson,Chelsea,0.55,0.58,Goal,11.0,Right Foot,,Conor Gallagher,Shot,,
+27,75,Malo Gusto,Chelsea,0.2,,Off Target,12.0,Left Foot,,Raheem Sterling,Interception,,
+28,81,Conor Gallagher,Chelsea,0.02,,Off Target,33.0,Right Foot,Volley,Nicolas Jackson,Pass (Live),Raheem Sterling,Pass (Live)
+29,86,Mateo Kovačić,Manchester City,0.03,,Blocked,22.0,Right Foot,,Erling Haaland,Pass (Live),Mateo Kovačić,Pass (Live)
+30,86,Rodri,Manchester City,0.03,0.16,Goal,27.0,Left Foot,Deflected,Mateo Kovačić,Shot,,
+31,90+5,Cole Palmer (pen),Chelsea,0.79,1.0,Goal,13.0,Left Foot,,Armando Broja,Fouled,Raheem Sterling,Pass (Live)
+32,90+9,Kyle Walker,Manchester City,0.07,,Off Target,29.0,Right Foot,Free kick,Phil Foden,Fouled,Bernardo Silva,Pass (Live)

@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Mohamed Salah,Liverpool,0.04,0.22,Saved,17.0,Left Foot,,,,,
+1,13,James Milner,Liverpool,0.27,,Off Target,12.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Trent Alexander-Arnold,Take-On
+2,30,Sadio Mané,Liverpool,0.04,0.01,Saved,24.0,Left Foot,,James Milner,Pass (Live),Fabinho,Pass (Live)
+3,33,Roberto Firmino,Liverpool,0.44,,Off Target,5.0,Left Foot,Volley,Trent Alexander-Arnold,Pass (Live),,
+4,40,Sadio Mané,Liverpool,0.33,0.88,Goal,12.0,Right Foot,,James Milner,Pass (Live),Andrew Robertson,Pass (Live)
+5,44,Sadio Mané,Liverpool,0.38,0.33,Saved,11.0,Right Foot,,Roberto Firmino,Pass (Live),Roberto Firmino,Take-On
+6,45,James Milner,Liverpool,0.07,,Off Target,21.0,Right Foot,,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+7,,,,,,,,,,,,,
+8,46,Mohamed Salah,Liverpool,0.67,0.83,Saved,6.0,Left Foot,,James Milner,Pass (Live),Fabinho,Pass (Live)
+9,46,Mohamed Salah,Liverpool,0.18,,Blocked,7.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Mohamed Salah,Shot
+10,54,Mohamed Salah,Liverpool,0.07,,Blocked,24.0,Left Foot,Free kick,Mohamed Salah,Fouled,Trent Alexander-Arnold,Pass (Live)
+11,57,Mohamed Salah,Liverpool,0.05,,Blocked,20.0,Left Foot,,Roberto Firmino,Pass (Live),Georginio Wijnaldum,Pass (Live)
+12,65,Roberto Firmino,Liverpool,0.06,,Off Target,15.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Virgil van Dijk,Pass (Live)
+13,66,Andrew Robertson,Liverpool,0.05,0.04,Saved,17.0,Left Foot,,Mohamed Salah,Pass (Live),Andrew Robertson,Pass (Live)
+14,70,Georginio Wijnaldum,Liverpool,0.05,0.06,Saved,18.0,Right Foot,,Roberto Firmino,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+15,73,Dennis Praet,Leicester City,0.03,,Off Target,24.0,Right Foot,,Marc Albrighton,Pass (Live),James Maddison,Pass (Live)
+16,76,Roberto Firmino,Liverpool,0.05,,Blocked,16.0,Right Foot,,Mohamed Salah,Pass (Live),Dejan Lovren,Pass (Live)
+17,80,James Maddison,Leicester City,0.06,0.02,Goal,15.0,Right Foot,,Ayoze Pérez,Pass (Live),Marc Albrighton,Pass (Live)
+18,84,Dejan Lovren,Liverpool,0.1,,Off Target,8.0,Head,,Trent Alexander-Arnold,Pass (Dead),Divock Origi,Take-On
+19,85,Virgil van Dijk,Liverpool,0.04,,Off Target,12.0,Head,,Andrew Robertson,Pass (Live),Trent Alexander-Arnold,Pass (Dead)
+20,90+5,James Milner (pen),Liverpool,0.79,0.99,Goal,13.0,Right Foot,,Sadio Mané,Fouled,,

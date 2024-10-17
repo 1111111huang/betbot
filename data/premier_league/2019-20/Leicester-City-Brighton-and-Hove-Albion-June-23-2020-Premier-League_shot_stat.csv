@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Alexis Mac Allister,Brighton,0.04,,Blocked,34.0,Right Foot,Free kick,Aaron Connolly,Fouled,,
+1,3,Alexis Mac Allister,Brighton,0.02,,Off Target,21.0,Right Foot,,Alexis Mac Allister,Take-On,Aaron Mooy,Pass (Live)
+2,3,Aaron Connolly,Brighton,0.05,,Blocked,16.0,Right Foot,,Alexis Mac Allister,Shot,,
+3,6,Aaron Connolly,Brighton,0.01,0.01,Saved,61.0,Right Foot,,Dale Stephens,Pass (Live),,
+4,14,Neal Maupay (pen),Brighton,0.79,0.98,Saved,13.0,Right Foot,,Aaron Connolly,Fouled,,
+5,27,Aaron Connolly,Brighton,0.07,,Blocked,16.0,Right Foot,,Neal Maupay,Pass (Live),Mathew Ryan,Pass (Live)
+6,30,Jamie Vardy,Leicester City,0.06,0.07,Saved,8.0,Head,,Ben Chilwell,Pass (Live),Jonny Evans,Pass (Live)
+7,42,Çağlar Söyüncü,Leicester City,0.07,0.39,Saved,10.0,Head,Deflected,Kelechi Iheanacho,Fouled,James Maddison,Pass (Live)
+8,44,Aaron Mooy,Brighton,0.03,,Blocked,24.0,Right Foot,,Aaron Connolly,Pass (Live),Dan Burn,Pass (Dead)
+9,44,Lewis Dunk,Brighton,0.05,,Blocked,7.0,Head,,Dale Stephens,Pass (Live),Aaron Mooy,Pass (Live)
+10,45,Dale Stephens,Brighton,0.02,,Off Target,30.0,Right Foot,Volley,Lewis Dunk,Shot,,
+11,45+1,Demarai Gray,Leicester City,0.05,,Off Target,17.0,Right Foot,,James Maddison,Pass (Dead),Jamie Vardy,Fouled
+12,45+1,Wilfred Ndidi,Leicester City,0.07,,Off Target,16.0,Right Foot,,Jamie Vardy,Pass (Live),Demarai Gray,Shot
+13,45+1,Çağlar Söyüncü,Leicester City,0.08,,Off Target,7.0,Head,,Wilfred Ndidi,Shot,,
+14,,,,,,,,,,,,,
+15,47,Neal Maupay,Brighton,0.03,,Off Target,26.0,Left Foot,,Dale Stephens,Pass (Live),Dale Stephens,Tackle
+16,54,Ben Chilwell,Leicester City,0.07,,Off Target,15.0,Right Foot,Volley,James Justin,Pass (Live),Demarai Gray,Pass (Live)
+17,60,James Maddison,Leicester City,0.05,,Off Target,23.0,Left Foot,,James Maddison,Pass (Live),Demarai Gray,Pass (Live)
+18,76,James Maddison,Leicester City,0.05,,Off Target,28.0,Right Foot,,Jamie Vardy,Pass (Live),Ben Chilwell,Pass (Live)
+19,78,James Maddison,Leicester City,0.04,,Blocked,21.0,Left Foot,,Jamie Vardy,Pass (Live),Harvey Barnes,Pass (Live)
+20,81,James Maddison,Leicester City,0.07,,Off Target,27.0,Right Foot,Free kick,James Maddison,Fouled,Youri Tielemans,Pass (Live)
+21,90+2,Jamie Vardy,Leicester City,0.03,,Blocked,11.0,Head,,James Maddison,Pass (Live),,

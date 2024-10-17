@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Luke Shaw,Manchester Utd,0.04,,Off Target,24.0,Left Foot,,Christian Eriksen,Pass (Live),Bruno Fernandes,Pass (Live)
+1,13,Antony,Manchester Utd,0.06,0.28,Saved,25.0,Left Foot,Deflected,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)
+2,15,Trevoh Chalobah,Chelsea,0.08,,Off Target,12.0,Head,,Raheem Sterling,Pass (Live),Mason Mount,Pass (Live)
+3,24,Marcus Rashford,Manchester Utd,0.03,,Blocked,31.0,Right Foot,Free kick,Antony,Fouled,Antony,Take-On
+4,28,Marcus Rashford,Manchester Utd,0.18,0.26,Saved,11.0,Right Foot,,Bruno Fernandes,Pass (Live),Casemiro,Pass (Live)
+5,33,Marcus Rashford,Manchester Utd,0.09,0.31,Saved,17.0,Right Foot,,Antony,Pass (Live),Casemiro,Pass (Live)
+6,34,Jadon Sancho,Manchester Utd,0.05,0.04,Saved,22.0,Right Foot,,Antony,Pass (Live),Raphaël Varane,Pass (Live)
+7,39,Pierre-Emerick Aubameyang,Chelsea,0.03,,Off Target,17.0,Right Foot,Volley,,,,
+8,41,Christian Eriksen,Manchester Utd,0.01,,Off Target,34.0,Right Foot,,Antony,Pass (Live),Bruno Fernandes,Pass (Live)
+9,43,Ruben Loftus-Cheek,Chelsea,0.02,0.01,Saved,22.0,Left Foot,,,,,
+10,45,Antony,Manchester Utd,0.19,,Off Target,19.0,Right Foot,,Bruno Fernandes,Pass (Live),Lisandro Martínez,Pass (Live)
+11,,,,,,,,,,,,,
+12,49,Ruben Loftus-Cheek,Chelsea,0.02,,Blocked,28.0,Right Foot,,Mateo Kovačić,Pass (Live),,
+13,62,Fred,Manchester Utd,0.04,,Off Target,21.0,Left Foot,,Christian Eriksen,Pass (Live),Antony,Pass (Live)
+14,73,Trevoh Chalobah,Chelsea,0.13,,Woodwork,5.0,Head,,Mason Mount,Pass (Dead),Raheem Sterling,Pass (Live)
+15,76,Bruno Fernandes,Manchester Utd,0.03,0.2,Saved,29.0,Right Foot,,Fred,Pass (Live),Casemiro,Pass (Live)
+16,78,Bruno Fernandes,Manchester Utd,0.03,,Off Target,30.0,Right Foot,,Luke Shaw,Pass (Live),Casemiro,Pass (Live)
+17,87,Jorginho (pen),Chelsea,0.79,0.97,Goal,13.0,Right Foot,,Armando Broja,Fouled,César Azpilicueta,Pass (Live)
+18,88,Scott McTominay,Manchester Utd,0.04,,Off Target,15.0,Head,,Diogo Dalot,Pass (Live),Fred,Pass (Live)
+19,90+4,Casemiro,Manchester Utd,0.05,0.31,Goal,11.0,Head,,Luke Shaw,Pass (Live),Fred,Pass (Live)

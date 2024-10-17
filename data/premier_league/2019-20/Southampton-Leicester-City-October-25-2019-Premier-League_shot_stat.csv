@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Harvey Barnes,Leicester City,0.03,,Off Target,25.0,Right Foot,,Ben Chilwell,Pass (Live),James Maddison,Pass (Live)
+1,10,Ben Chilwell,Leicester City,0.03,,Off Target,25.0,Left Foot,,Wilfred Ndidi,Pass (Live),,
+2,10,Harvey Barnes,Leicester City,0.07,0.24,Saved,16.0,Right Foot,,Ben Chilwell,Shot,,
+3,10,Ben Chilwell,Leicester City,0.27,0.38,Goal,10.0,Left Foot,,Harvey Barnes,Shot,,
+4,15,Wilfred Ndidi,Leicester City,0.04,,Blocked,30.0,Right Foot,,Wilfred Ndidi,Take-On,Wilfred Ndidi,Tackle
+5,17,Youri Tielemans,Leicester City,0.06,0.18,Goal,17.0,Right Foot,,Harvey Barnes,Take-On,Harvey Barnes,Take-On
+6,19,Ayoze Pérez,Leicester City,0.07,0.14,Goal,12.0,Right Foot,,Youri Tielemans,Pass (Live),Ayoze Pérez,Pass (Live)
+7,22,Ayoze Pérez,Leicester City,0.04,,Blocked,22.0,Right Foot,,Harvey Barnes,Pass (Live),James Maddison,Pass (Live)
+8,31,Yan Valery,Southampton,0.08,0.05,Saved,14.0,Right Foot,,Pierre Højbjerg,Pass (Live),Danny Ings,Pass (Live)
+9,33,Jamie Vardy,Leicester City,0.05,,Off Target,29.0,Right Foot,,,,,
+10,35,Harvey Barnes,Leicester City,0.36,0.54,Saved,11.0,Right Foot,,Ben Chilwell,Pass (Live),Harvey Barnes,Pass (Live)
+11,36,Danny Ings,Southampton,0.03,,Off Target,29.0,Right Foot,,Danny Ings,Tackle,,
+12,37,Ayoze Pérez,Leicester City,0.08,0.02,Saved,16.0,Right Foot,,Ayoze Pérez,Take-On,Ayoze Pérez,Pass (Live)
+13,39,Ayoze Pérez,Leicester City,0.24,0.24,Goal,6.0,Right Foot,,Ben Chilwell,Pass (Live),Wilfred Ndidi,Pass (Live)
+14,44,James Maddison,Leicester City,0.07,,Blocked,16.0,Right Foot,,Harvey Barnes,Pass (Live),Harvey Barnes,Take-On
+15,44,Ayoze Pérez,Leicester City,0.04,,Blocked,21.0,Right Foot,,Harvey Barnes,Pass (Live),James Maddison,Shot
+16,45,Jamie Vardy,Leicester City,0.54,0.9,Goal,10.0,Right Foot,,Jamie Vardy,Take-On,,
+17,,,,,,,,,,,,,
+18,48,Jamie Vardy,Leicester City,0.07,0.06,Saved,14.0,Left Foot,,Jamie Vardy,Tackle,,
+19,54,Ayoze Pérez,Leicester City,0.04,0.04,Saved,15.0,Right Foot,,Youri Tielemans,Pass (Live),Ayoze Pérez,Pass (Live)
+20,57,Ayoze Pérez,Leicester City,0.47,0.78,Goal,10.0,Left Foot,Volley,Harvey Barnes,Pass (Live),Ben Chilwell,Pass (Live)
+21,58,Jamie Vardy,Leicester City,0.47,0.92,Goal,6.0,Head,,Ben Chilwell,Pass (Live),Harvey Barnes,Pass (Live)
+22,67,James Ward-Prowse,Southampton,0.05,0.19,Saved,31.0,Right Foot,Free kick,Nathan Redmond,Fouled,,
+23,68,James Ward-Prowse,Southampton,0.03,,Blocked,30.0,Right Foot,,Pierre Højbjerg,Pass (Live),Kevin Danso,Pass (Live)
+24,69,Nathan Redmond,Southampton,0.12,0.08,Saved,17.0,Right Foot,,Nathan Redmond,Take-On,Pierre Højbjerg,Pass (Live)
+25,74,Jonny Evans,Leicester City,0.66,,Off Target,3.0,Left Foot,,Ayoze Pérez,Pass (Live),Ayoze Pérez,Take-On
+26,77,Nathan Redmond,Southampton,0.05,,Off Target,13.0,Right Foot,Volley,James Ward-Prowse,Pass (Dead),James Ward-Prowse,Pass (Live)
+27,80,Ben Chilwell,Leicester City,0.05,,Off Target,23.0,Left Foot,,Youri Tielemans,Pass (Live),Marc Albrighton,Pass (Live)
+28,85,James Maddison,Leicester City,0.11,0.35,Goal,25.0,Right Foot,Free kick,Jamie Vardy,Fouled,James Maddison,Pass (Live)
+29,87,Marc Albrighton,Leicester City,0.01,0.2,Saved,33.0,Right Foot,,Ben Chilwell,Pass (Live),James Maddison,Pass (Live)
+30,90+2,Youri Tielemans,Leicester City,0.04,,Blocked,14.0,Right Foot,Volley,Marc Albrighton,Pass (Live),Ben Chilwell,Pass (Live)
+31,90+4,Jamie Vardy (pen),Leicester City,0.79,0.98,Goal,13.0,Right Foot,,Jamie Vardy,Fouled,Marc Albrighton,Pass (Live)

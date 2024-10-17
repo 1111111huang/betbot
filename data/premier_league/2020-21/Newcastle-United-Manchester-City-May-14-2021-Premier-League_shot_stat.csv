@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Nathan Aké,Manchester City,0.03,,Off Target,29.0,Left Foot,,Rodri,Pass (Live),Raheem Sterling,Pass (Live)
+1,8,Gabriel Jesus,Manchester City,0.04,,Off Target,22.0,Right Foot,Volley,Nathan Aké,Pass (Live),João Cancelo,Pass (Live)
+2,12,İlkay Gündoğan,Manchester City,0.04,,Off Target,19.0,Right Foot,,Ferrán Torres,Pass (Live),Ferrán Torres,Take-On
+3,13,Ferrán Torres,Manchester City,0.14,,Off Target,8.0,Right Foot,,João Cancelo,Pass (Live),İlkay Gündoğan,Pass (Live)
+4,20,João Cancelo,Manchester City,0.03,0.09,Saved,24.0,Right Foot,,İlkay Gündoğan,Pass (Live),Gabriel Jesus,Pass (Live)
+5,24,Joelinton,Newcastle Utd,0.12,,Blocked,12.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Emil Krafth,Pass (Live)
+6,25,Emil Krafth,Newcastle Utd,0.1,0.19,Goal,8.0,Head,,Jonjo Shelvey,Pass (Dead),Joelinton,Shot
+7,32,İlkay Gündoğan,Manchester City,0.08,0.14,Saved,25.0,Right Foot,Free kick,Ferrán Torres,Fouled,Bernardo Silva,Pass (Live)
+8,35,Jonjo Shelvey,Newcastle Utd,0.07,,Woodwork,29.0,Right Foot,Free kick,Miguel Almirón,Fouled,Miguel Almirón,Take-On
+9,39,João Cancelo,Manchester City,0.03,0.35,Goal,21.0,Right Foot,Deflected,Rodri,Pass (Live),Rodri,Take-On
+10,42,Ferrán Torres,Manchester City,0.08,0.08,Goal,13.0,Right Foot,Volley,İlkay Gündoğan,Pass (Dead),João Cancelo,Fouled
+11,44,Joelinton,Newcastle Utd,0.05,,Off Target,14.0,Head,,Matt Ritchie,Pass (Live),Miguel Almirón,Pass (Live)
+12,45+6,Joelinton (pen),Newcastle Utd,0.79,0.99,Goal,13.0,Right Foot,,Joelinton,Fouled,Joelinton,Take-On
+13,,,,,,,,,,,,,
+14,55,Jacob Murphy,Newcastle Utd,0.04,0.26,Saved,18.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Pass (Live)
+15,57,Joe Willock,Newcastle Utd,0.05,,Blocked,18.0,Right Foot,,Miguel Almirón,Pass (Live),Paul Dummett,Pass (Live)
+16,62,Joe Willock (pen),Newcastle Utd,0.79,0.98,Saved,13.0,Right Foot,,Joe Willock,Fouled,Miguel Almirón,Pass (Live)
+17,62,Joe Willock,Newcastle Utd,0.43,0.62,Goal,5.0,Left Foot,,Joe Willock,Shot,,
+18,64,Ferrán Torres,Manchester City,0.42,0.9,Goal,7.0,Left Foot,,Gabriel Jesus,Pass (Live),Bernardo Silva,Pass (Live)
+19,66,Jacob Murphy,Newcastle Utd,0.07,,Blocked,15.0,Right Foot,,Jacob Murphy,Take-On,Miguel Almirón,Pass (Live)
+20,66,João Cancelo,Manchester City,0.03,,Woodwork,28.0,Right Foot,,İlkay Gündoğan,Pass (Live),Gabriel Jesus,Pass (Live)
+21,66,Ferrán Torres,Manchester City,0.37,0.5,Goal,12.0,Right Foot,Volley,João Cancelo,Shot,,
+22,74,Joe Willock,Newcastle Utd,0.05,,Off Target,15.0,Right Foot,,Jacob Murphy,Pass (Live),Allan Saint-Maximin,Pass (Live)
+23,77,İlkay Gündoğan,Manchester City,0.05,,Off Target,24.0,Right Foot,,İlkay Gündoğan,Take-On,Raheem Sterling,Pass (Live)
+24,90,Ferrán Torres,Manchester City,0.04,,Blocked,29.0,Right Foot,,Ferrán Torres,Take-On,İlkay Gündoğan,Pass (Live)
+25,90+1,Gabriel Jesus,Manchester City,0.07,,Blocked,14.0,Right Foot,,Gabriel Jesus,Take-On,Bernardo Silva,Pass (Live)
+26,90+4,İlkay Gündoğan,Manchester City,0.03,,Off Target,26.0,Right Foot,,Rodri,Pass (Live),Gabriel Jesus,Pass (Live)

@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,15,Brandon Williams,Manchester Utd,0.04,,Off Target,20.0,Right Foot,,Andreas Pereira,Pass (Live),Brandon Williams,Pass (Live)
+1,27,Marcus Rashford,Manchester Utd,0.75,0.97,Goal,3.0,Left Foot,Volley,Juan Mata,Pass (Live),Victor Lindelöf,Pass (Live)
+2,29,Anthony Martial,Manchester Utd,0.07,,Blocked,16.0,Right Foot,,Andreas Pereira,Pass (Live),Juan Mata,Pass (Live)
+3,30,Andreas Pereira,Manchester Utd,0.03,0.02,Saved,27.0,Right Foot,,Andreas Pereira,Pass (Live),Nemanja Matić,Pass (Live)
+4,32,Marcus Rashford,Manchester Utd,0.03,0.09,Saved,20.0,Right Foot,,Nemanja Matić,Pass (Live),,
+5,34,Fred,Manchester Utd,0.03,,Off Target,29.0,Left Foot,,Brandon Williams,Pass (Live),Juan Mata,Pass (Live)
+6,44,Todd Cantwell,Norwich City,0.06,0.25,Saved,15.0,Right Foot,,Emi Buendía,Pass (Live),,
+7,,,,,,,,,,,,,
+8,52,Marcus Rashford (pen),Manchester Utd,0.79,0.99,Goal,13.0,Right Foot,,Brandon Williams,Fouled,Marcus Rashford,Pass (Live)
+9,54,Anthony Martial,Manchester Utd,0.08,0.17,Goal,9.0,Head,,Juan Mata,Pass (Live),Andreas Pereira,Pass (Dead)
+10,56,Anthony Martial,Manchester Utd,0.15,,Blocked,10.0,Right Foot,,Andreas Pereira,Pass (Live),Juan Mata,Pass (Live)
+11,56,Mario Vrančić,Norwich City,0.04,,Blocked,22.0,Left Foot,,Emi Buendía,Pass (Live),Todd Cantwell,Pass (Live)
+12,56,Alexander Tettey,Norwich City,0.02,,Off Target,30.0,Right Foot,,Mario Vrančić,Shot,,
+13,57,Brandon Williams,Manchester Utd,0.71,,Off Target,3.0,Right Foot,,Andreas Pereira,Pass (Live),Anthony Martial,Pass (Live)
+14,76,Mason Greenwood,Manchester Utd,0.04,0.42,Goal,22.0,Left Foot,,Fred,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+15,83,Emi Buendía,Norwich City,0.07,,Off Target,29.0,Right Foot,Free kick,Emi Buendía,Fouled,Todd Cantwell,Pass (Live)
+16,86,Todd Cantwell,Norwich City,0.02,,Blocked,25.0,Right Foot,Volley,Todd Cantwell,Pass (Live),Alexander Tettey,Pass (Live)
+17,86,Christoph Zimmermann,Norwich City,0.03,0.33,Saved,30.0,Right Foot,,,,,
+18,87,Ibrahim Amadou,Norwich City,0.02,0.07,Saved,27.0,Left Foot,,Sam Byram,Pass (Live),,
+19,90,Onel Hernández,Norwich City,0.03,,Blocked,23.0,Right Foot,,Alexander Tettey,Pass (Live),Sam Byram,Pass (Live)
+20,90+1,Daniel James,Manchester Utd,0.09,,Blocked,11.0,Left Foot,,Angel Gomes,Pass (Live),Fred,Pass (Live)
+21,90+2,Juan Mata,Manchester Utd,0.05,,Off Target,11.0,Left Foot,,Angel Gomes,Pass (Live),Mason Greenwood,Pass (Live)

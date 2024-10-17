@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Saïd Benrahma,West Ham,0.03,,Off Target,22.0,Right Foot,,Jarrod Bowen,Pass (Live),Jarrod Bowen,Take-On
+1,7,Ben Johnson,West Ham,0.04,0.46,Goal,19.0,Left Foot,,Declan Rice,Pass (Live),Angelo Ogbonna,Pass (Live)
+2,15,Leon Bailey,Aston Villa,0.04,0.06,Saved,13.0,Left Foot,,Ollie Watkins,Fouled,Jacob Ramsey,Pass (Live)
+3,16,Jarrod Bowen,West Ham,0.07,,Blocked,9.0,Left Foot,Volley,,,,
+4,16,Jarrod Bowen,West Ham,0.16,,Blocked,12.0,Left Foot,,Jarrod Bowen,Shot,,
+5,16,Tomáš Souček,West Ham,0.04,0.19,Saved,7.0,Head,,Jarrod Bowen,Pass (Live),Aaron Cresswell,Pass (Live)
+6,28,Michail Antonio,West Ham,0.06,,Off Target,11.0,Head,,Aaron Cresswell,Pass (Dead),Saïd Benrahma,Fouled
+7,32,Matty Cash,Aston Villa,0.02,,Off Target,30.0,Right Foot,,,,,
+8,34,Ollie Watkins,Aston Villa,0.32,0.52,Goal,12.0,Right Foot,,Emi Buendía,Pass (Live),Emi Buendía,Take-On
+9,36,Michail Antonio,West Ham,0.04,,Blocked,12.0,Left Foot,,Michail Antonio,Take-On,Saïd Benrahma,Pass (Live)
+10,37,Declan Rice,West Ham,0.06,,Blocked,7.0,Head,,Aaron Cresswell,Pass (Dead),Michail Antonio,Shot
+11,37,Jarrod Bowen,West Ham,0.03,,Off Target,18.0,Right Foot,Volley,Declan Rice,Shot,,
+12,38,Declan Rice,West Ham,0.02,0.45,Goal,30.0,Right Foot,,Saïd Benrahma,Pass (Live),Tomáš Souček,Pass (Live)
+13,41,John McGinn,Aston Villa,0.05,,Off Target,12.0,Head,,Matt Targett,Pass (Live),Leon Bailey,Pass (Live)
+14,44,Ezri Konsa,Aston Villa,0.01,,Off Target,9.0,Head,,Matt Targett,Pass (Dead),Matt Targett,Pass (Live)
+15,45+1,John McGinn,Aston Villa,0.06,,Off Target,22.0,Right Foot,,John McGinn,Pass (Live),Marvelous Nakamba,Pass (Live)
+16,45+2,Saïd Benrahma,West Ham,0.04,,Blocked,24.0,Right Foot,,Pablo Fornals,Pass (Live),Michail Antonio,Pass (Live)
+17,,,,,,,,,,,,,
+18,52,Aaron Cresswell,West Ham,0.1,,Blocked,23.0,Left Foot,Free kick,Jarrod Bowen,Fouled,Michail Antonio,Pass (Live)
+19,55,Tomáš Souček,West Ham,0.05,,Blocked,18.0,Left Foot,,Declan Rice,Pass (Live),Pablo Fornals,Pass (Live)
+20,55,Tomáš Souček,West Ham,0.04,,Off Target,30.0,Right Foot,,Pablo Fornals,Pass (Live),Aaron Cresswell,Pass (Live)
+21,57,Ollie Watkins,Aston Villa,0.12,0.14,Saved,11.0,Head,,John McGinn,Pass (Live),Tyrone Mings,Pass (Live)
+22,62,Leon Bailey,Aston Villa,0.03,,Blocked,7.0,Head,,Ashley Young,Pass (Dead),Ashley Young,Fouled
+23,68,Declan Rice,West Ham,0.06,0.36,Saved,26.0,Right Foot,Free kick,Manuel Lanzini,Fouled,Jarrod Bowen,Take-On
+24,69,Pablo Fornals,West Ham,0.02,,Blocked,22.0,Right Foot,,Declan Rice,Shot,,
+25,71,Jarrod Bowen,West Ham,0.07,0.12,Saved,12.0,Left Foot,,Pablo Fornals,Pass (Live),Manuel Lanzini,Pass (Live)
+26,73,Matty Cash,Aston Villa,0.03,,Off Target,31.0,Right Foot,,Anwar El Ghazi,Pass (Live),Matt Targett,Pass (Live)
+27,80,Jarrod Bowen,West Ham,0.27,0.89,Saved,12.0,Right Foot,,Michail Antonio,Pass (Live),Declan Rice,Pass (Live)
+28,80,Pablo Fornals,West Ham,0.32,0.9,Goal,3.0,Right Foot,,Jarrod Bowen,Shot,,
+29,84,Jarrod Bowen,West Ham,0.9,0.93,Goal,4.0,Left Foot,,Manuel Lanzini,Pass (Live),Michail Antonio,Pass (Live)
+30,88,Manuel Lanzini,West Ham,0.06,,Off Target,28.0,Right Foot,Free kick,Michail Antonio,Fouled,Ben Johnson,Tackle

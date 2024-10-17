@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Gabriel Martinelli,Arsenal,0.1,,Off Target,11.0,Right Foot,Volley,Bukayo Saka,Pass (Live),Héctor Bellerín,Pass (Live)
+1,13,Mason Mount,Chelsea,0.07,,Woodwork,29.0,Right Foot,Free kick,Christian Pulisic,Fouled,N'Golo Kanté,Pass (Live)
+2,20,Timo Werner,Chelsea,0.09,,Blocked,12.0,Left Foot,,N'Golo Kanté,Pass (Live),,
+3,22,Kurt Zouma,Chelsea,0.06,,Off Target,10.0,Head,,Mason Mount,Pass (Dead),,
+4,24,Granit Xhaka,Arsenal,0.02,,Blocked,31.0,Left Foot,,Héctor Bellerín,Pass (Live),Granit Xhaka,Pass (Live)
+5,25,Emile Smith Rowe,Arsenal,0.44,,Off Target,10.0,Left Foot,,Héctor Bellerín,Pass (Live),,
+6,25,Gabriel Martinelli,Arsenal,0.05,,Blocked,12.0,Left Foot,,Emile Smith Rowe,Shot,,
+7,29,Tammy Abraham,Chelsea,0.04,,Blocked,22.0,Right Foot,,Timo Werner,Pass (Live),,
+8,30,Reece James,Chelsea,0.02,,Off Target,22.0,Right Foot,,Tammy Abraham,Shot,,
+9,31,Mason Mount,Chelsea,0.03,,Off Target,27.0,Right Foot,,Christian Pulisic,Pass (Live),Tammy Abraham,Pass (Live)
+10,35,Alexandre Lacazette (pen),Arsenal,0.79,0.94,Goal,13.0,Right Foot,,Kieran Tierney,Fouled,Kieran Tierney,Take-On
+11,36,Héctor Bellerín,Arsenal,0.05,,Blocked,16.0,Right Foot,,Bukayo Saka,Pass (Live),Alexandre Lacazette,Pass (Live)
+12,41,Timo Werner,Chelsea,0.04,,Off Target,22.0,Right Foot,,Mason Mount,Pass (Live),,
+13,44,Granit Xhaka,Arsenal,0.06,0.28,Goal,30.0,Left Foot,Free kick,Bukayo Saka,Fouled,Héctor Bellerín,Pass (Live)
+14,,,,,,,,,,,,,
+15,51,Christian Pulisic,Chelsea,0.06,,Off Target,13.0,Left Foot,,Christian Pulisic,Take-On,Mason Mount,Pass (Live)
+16,56,Bukayo Saka,Arsenal,0.04,0.69,Goal,18.0,Right Foot,,Emile Smith Rowe,Pass (Live),Héctor Bellerín,Pass (Live)
+17,58,Kurt Zouma,Chelsea,0.06,,Off Target,10.0,Head,,Reece James,Pass (Live),N'Golo Kanté,Pass (Live)
+18,60,Mason Mount,Chelsea,0.04,,Off Target,22.0,Right Foot,,Christian Pulisic,Fouled,Kurt Zouma,Pass (Live)
+19,60,Gabriel Martinelli,Arsenal,0.06,0.07,Saved,16.0,Right Foot,Volley,Granit Xhaka,Pass (Live),Bukayo Saka,Pass (Live)
+20,61,Christian Pulisic,Chelsea,0.03,,Blocked,23.0,Right Foot,,Mason Mount,Pass (Live),N'Golo Kanté,Pass (Live)
+21,64,Gabriel Martinelli,Arsenal,0.07,0.11,Saved,17.0,Right Foot,,Kieran Tierney,Pass (Live),Gabriel Martinelli,Pass (Live)
+22,67,Bukayo Saka,Arsenal,0.03,,Blocked,24.0,Left Foot,,Joe Willock,Pass (Live),Bukayo Saka,Pass (Live)
+23,67,Joe Willock,Arsenal,0.07,,Off Target,8.0,Right Foot,,Bukayo Saka,Shot,,
+24,75,Thiago Silva,Chelsea,0.07,,Off Target,10.0,Head,,Mason Mount,Pass (Dead),Kai Havertz,Pass (Live)
+25,80,Tammy Abraham,Chelsea,0.09,,Off Target,9.0,Head,,Callum Hudson-Odoi,Pass (Live),Reece James,Pass (Live)
+26,83,Alexandre Lacazette,Arsenal,0.17,0.79,Saved,19.0,Right Foot,,,,,
+27,84,Mohamed Elneny,Arsenal,0.04,,Woodwork,17.0,Right Foot,,Alexandre Lacazette,Shot,,
+28,84,Rob Holding,Arsenal,0.07,0.15,Saved,8.0,Right Foot,Volley,Granit Xhaka,Pass (Live),Mohamed Elneny,Shot
+29,85,Tammy Abraham,Chelsea,0.69,0.97,Goal,4.0,Other,,Callum Hudson-Odoi,Pass (Live),Callum Hudson-Odoi,Take-On
+30,89,Thiago Silva,Chelsea,0.28,,Off Target,9.0,Head,,Christian Pulisic,Pass (Live),Reece James,Pass (Live)
+31,90+1,Jorginho (pen),Chelsea,0.79,0.98,Saved,13.0,Right Foot,,Mason Mount,Fouled,Jorginho,Pass (Live)
+32,90+5,Christian Pulisic,Chelsea,0.06,0.22,Saved,22.0,Left Foot,,Christian Pulisic,Take-On,Christian Pulisic,Take-On
+33,90+5,Callum Hudson-Odoi,Chelsea,0.05,,Blocked,17.0,Right Foot,,Jorginho,Pass (Live),Kai Havertz,Pass (Dead)
+34,90+6,Kurt Zouma,Chelsea,0.04,,Blocked,10.0,Head,,Christian Pulisic,Pass (Dead),Mason Mount,Pass (Dead)

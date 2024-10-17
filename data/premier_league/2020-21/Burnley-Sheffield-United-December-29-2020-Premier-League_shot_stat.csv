@@ -1,0 +1,14 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1.0,Ashley Barnes,Burnley,0.44,0.5,Saved,7.0,Right Foot,,Chris Wood,Pass (Live),Matthew Lowton,Pass (Live)
+1,29.0,Rhian Brewster,Sheffield Utd,0.25,,Blocked,5.0,Head,,Ethan Ampadu,Pass (Dead),Enda Stevens,Pass (Live)
+2,31.0,Chris Wood,Burnley,0.26,0.1,Saved,8.0,Head,,Robbie Brady,Pass (Live),James Tarkowski,Pass (Dead)
+3,32.0,Ben Mee,Burnley,0.18,0.3,Goal,6.0,Head,,Robbie Brady,Pass (Dead),Chris Wood,Shot
+4,34.0,Rhian Brewster,Sheffield Utd,0.04,0.13,Saved,21.0,Right Foot,,Ben Osborn,Pass (Live),John Egan,Pass (Live)
+5,37.0,Robbie Brady,Burnley,0.08,,Off Target,27.0,Left Foot,Free kick,Ashley Barnes,Fouled,,
+6,38.0,David McGoldrick,Sheffield Utd,0.06,,Blocked,15.0,Right Foot,,Lys Mousset,Pass (Live),,
+7,,,,,,,,,,,,,
+8,50.0,David McGoldrick,Sheffield Utd,0.21,0.14,Saved,11.0,Right Foot,,Enda Stevens,Pass (Live),George Baldock,Pass (Live)
+9,52.0,Ben Mee,Burnley,0.06,,Off Target,11.0,Head,,Matthew Lowton,Pass (Live),Ashley Westwood,Pass (Dead)
+10,75.0,George Baldock,Sheffield Utd,0.03,,Blocked,31.0,Right Foot,,Oliver Burke,Pass (Live),Ben Osborn,Pass (Live)
+11,75.0,John Egan,Sheffield Utd,0.03,,Off Target,28.0,Left Foot,,George Baldock,Pass (Live),John Fleck,Pass (Live)
+12,80.0,David McGoldrick,Sheffield Utd,0.07,,Off Target,5.0,Head,,Oliver Norwood,Pass (Dead),John Egan,Pass (Live)

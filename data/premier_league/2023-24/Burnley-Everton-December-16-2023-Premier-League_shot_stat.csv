@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Dwight McNeil,Everton,0.04,,Off Target,9.0,Head,,Jack Harrison,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+1,18,Dominic Calvert-Lewin,Everton,0.25,0.23,Saved,9.0,Head,,Nathan Patterson,Pass (Live),Jack Harrison,Pass (Live)
+2,19,Amadou Onana,Everton,0.26,0.17,Goal,3.0,Head,,Dwight McNeil,Pass (Dead),Dominic Calvert-Lewin,Shot
+3,21,Jacob Bruun Larsen,Burnley,0.12,,Blocked,13.0,Left Foot,,Zeki Amdouni,Pass (Live),Vitinho,Pass (Live)
+4,22,Jay Rodriguez,Burnley,0.09,,Blocked,9.0,Right Foot,,Wilson Odobert,Pass (Live),Zeki Amdouni,Pass (Live)
+5,24,Dwight McNeil,Everton,0.02,,Off Target,27.0,Left Foot,,James Garner,Pass (Live),Dwight McNeil,Pass (Live)
+6,25,Michael Keane,Everton,0.06,0.16,Saved,17.0,Right Foot,Volley,James Tarkowski,Pass (Live),Jordan Pickford,Pass (Dead)
+7,25,Michael Keane,Everton,0.45,0.22,Goal,8.0,Right Foot,,Michael Keane,Shot,,
+8,28,Jay Rodriguez,Burnley,0.11,,Blocked,5.0,Head,,Jacob Bruun Larsen,Pass (Dead),Jay Rodriguez,Pass (Live)
+9,28,Jordan Beyer,Burnley,0.07,,Blocked,10.0,Left Foot,Volley,Jay Rodriguez,Shot,,
+10,45+4,Zeki Amdouni,Burnley,0.03,,Off Target,17.0,Left Foot,Volley,,,,
+11,,,,,,,,,,,,,
+12,48,Sander Berge,Burnley,0.04,,Blocked,25.0,Right Foot,,Jacob Bruun Larsen,Pass (Live),Vitinho,Pass (Live)
+13,50,Wilson Odobert,Burnley,0.03,,Blocked,19.0,Right Foot,,Sander Berge,Pass (Live),Jacob Bruun Larsen,Pass (Live)
+14,50,Lyle Foster,Burnley,0.02,0.09,Saved,16.0,Right Foot,,Hannes Delcroix,Pass (Live),Josh Brownhill,Pass (Live)
+15,52,James Garner,Everton,0.03,0.69,Saved,25.0,Right Foot,Free kick,Jack Harrison,Fouled,Dwight McNeil,Pass (Dead)
+16,57,Jacob Bruun Larsen,Burnley,0.04,,Blocked,32.0,Right Foot,Free kick,Wilson Odobert,Fouled,,
+17,63,Michael Keane,Everton,0.11,,Woodwork,3.0,Left Foot,Volley,Amadou Onana,Pass (Live),Ben Godfrey,Pass (Live)
+18,64,Zeki Amdouni,Burnley,0.02,0.06,Saved,28.0,Right Foot,,Josh Brownhill,Pass (Live),Vitinho,Pass (Live)
+19,79,Sander Berge,Burnley,0.04,,Blocked,21.0,Right Foot,,Jacob Bruun Larsen,Pass (Live),Zeki Amdouni,Pass (Live)
+20,81,Sander Berge,Burnley,0.03,,Blocked,26.0,Right Foot,,Wilson Odobert,Pass (Live),Jordan Beyer,Pass (Live)
+21,83,Lyle Foster,Burnley,0.05,,Off Target,11.0,Head,,Josh Brownhill,Pass (Dead),Zeki Amdouni,Fouled
+22,90,Beto,Everton,0.27,0.38,Saved,5.0,Left Foot,,James Garner,Pass (Live),Dwight McNeil,Pass (Live)
+23,90+2,Mike Trésor,Burnley,0.01,,Off Target,31.0,Right Foot,,Mike Trésor,Take-On,Josh Brownhill,Pass (Live)

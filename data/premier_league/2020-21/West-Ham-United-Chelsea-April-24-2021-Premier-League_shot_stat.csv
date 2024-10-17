@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Timo Werner,Chelsea,0.08,,Off Target,13.0,Right Foot,Volley,Mason Mount,Pass (Live),César Azpilicueta,Pass (Live)
+1,10,Mason Mount,Chelsea,0.07,0.21,Saved,16.0,Left Foot,,Mason Mount,Take-On,César Azpilicueta,Pass (Live)
+2,15,Christian Pulisic,Chelsea,0.09,0.12,Saved,12.0,Right Foot,,Timo Werner,Pass (Live),Andreas Christensen,Pass (Live)
+3,22,Timo Werner,Chelsea,0.03,,Blocked,23.0,Right Foot,,Ben Chilwell,Pass (Live),Christian Pulisic,Pass (Live)
+4,31,Timo Werner,Chelsea,0.09,,Off Target,13.0,Right Foot,,Mason Mount,Pass (Live),Andreas Christensen,Pass (Live)
+5,34,Jesse Lingard,West Ham,0.03,,Blocked,31.0,Left Foot,,Pablo Fornals,Pass (Live),Tomáš Souček,Pass (Live)
+6,36,Tomáš Souček,West Ham,0.11,,Off Target,10.0,Right Foot,Volley,Jesse Lingard,Fouled,,
+7,37,Fabián Balbuena,West Ham,0.03,,Off Target,12.0,Head,,Vladimír Coufal,Pass (Live),Jesse Lingard,Pass (Live)
+8,43,Timo Werner,Chelsea,0.39,0.48,Goal,9.0,Right Foot,,Ben Chilwell,Pass (Live),Christian Pulisic,Pass (Live)
+9,,,,,,,,,,,,,
+10,55,Mason Mount,Chelsea,0.03,0.24,Saved,29.0,Right Foot,,Timo Werner,Pass (Live),Ben Chilwell,Pass (Live)
+11,55,Timo Werner,Chelsea,0.6,,Off Target,6.0,Left Foot,,Mason Mount,Shot,,
+12,56,Pablo Fornals,West Ham,0.03,0.05,Saved,26.0,Right Foot,,Jesse Lingard,Pass (Live),Ryan Fredericks,Pass (Live)
+13,57,Jarrod Bowen,West Ham,0.05,,Blocked,15.0,Left Foot,,Tomáš Souček,Pass (Live),Angelo Ogbonna,Interception
+14,59,Jesse Lingard,West Ham,0.02,0.1,Saved,40.0,Right Foot,Free kick,Ryan Fredericks,Fouled,Issa Diop,Pass (Live)
+15,60,Ryan Fredericks,West Ham,0.08,,Blocked,20.0,Right Foot,,Mark Noble,Pass (Live),Pablo Fornals,Pass (Live)
+16,60,Jesse Lingard,West Ham,0.03,,Off Target,21.0,Right Foot,Volley,Ryan Fredericks,Shot,,
+17,62,Mason Mount,Chelsea,0.07,,Blocked,14.0,Left Foot,,Christian Pulisic,Pass (Live),,
+18,63,Mason Mount,Chelsea,0.03,0.42,Saved,30.0,Right Foot,,Christian Pulisic,Pass (Live),N'Golo Kanté,Pass (Live)
+19,67,Timo Werner,Chelsea,0.05,0.21,Saved,14.0,Left Foot,,César Azpilicueta,Pass (Live),Jorginho,Pass (Live)
+20,83,Hakim Ziyech,Chelsea,0.03,,Blocked,19.0,Right Foot,,Andreas Christensen,Pass (Live),Mason Mount,Pass (Dead)
+21,83,Hakim Ziyech,Chelsea,0.03,,Off Target,22.0,Left Foot,Volley,Hakim Ziyech,Shot,,
+22,85,Mason Mount,Chelsea,0.04,,Blocked,34.0,Right Foot,Free kick,Mason Mount,Fouled,Mason Mount,Pass (Live)
+23,88,Hakim Ziyech,Chelsea,0.02,,Off Target,31.0,Left Foot,,Ben Chilwell,Pass (Live),Mason Mount,Pass (Live)
+24,90+1,Mason Mount,Chelsea,0.02,,Blocked,32.0,Right Foot,,Reece James,Pass (Live),Hakim Ziyech,Pass (Live)
+25,90+3,Saïd Benrahma,West Ham,0.02,,Off Target,35.0,Right Foot,,Jarrod Bowen,Pass (Live),Manuel Lanzini,Pass (Live)
+26,90+6,Tammy Abraham,Chelsea,0.89,,Off Target,2.0,Head,,Mason Mount,Pass (Live),Mason Mount,Take-On

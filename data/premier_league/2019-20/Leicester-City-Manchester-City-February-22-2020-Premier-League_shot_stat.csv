@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Riyad Mahrez,Manchester City,0.03,,Blocked,20.0,Left Foot,,Kevin De Bruyne,Pass (Live),Benjamin Mendy,Pass (Live)
+1,8,Jamie Vardy,Leicester City,0.36,,Woodwork,19.0,Right Foot,,Youri Tielemans,Pass (Live),,
+2,9,Riyad Mahrez,Manchester City,0.03,0.24,Saved,29.0,Left Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+3,17,İlkay Gündoğan,Manchester City,0.25,0.55,Saved,15.0,Left Foot,,Sergio Agüero,Pass (Live),Kyle Walker,Pass (Live)
+4,19,Benjamin Mendy,Manchester City,0.02,,Blocked,29.0,Left Foot,,Rodri,Pass (Live),Kevin De Bruyne,Pass (Dead)
+5,24,Kevin De Bruyne,Manchester City,0.07,,Off Target,21.0,Right Foot,,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+6,29,James Maddison,Leicester City,0.08,,Blocked,26.0,Right Foot,"Free kick, Deflected",Kelechi Iheanacho,Fouled,Kelechi Iheanacho,Take-On
+7,33,Kevin De Bruyne,Manchester City,0.05,,Off Target,33.0,Right Foot,Free kick,Rodri,Fouled,Bernardo Silva,Pass (Live)
+8,37,James Maddison,Leicester City,0.05,0.17,Saved,30.0,Right Foot,Free kick,James Maddison,Fouled,Dennis Praet,Pass (Live)
+9,39,Kelechi Iheanacho,Leicester City,0.11,0.1,Saved,10.0,Head,,James Maddison,Pass (Live),Christian Fuchs,Pass (Live)
+10,42,Youri Tielemans,Leicester City,0.03,,Blocked,23.0,Right Foot,Volley,Kelechi Iheanacho,Shot,,
+11,43,Ricardo Pereira,Leicester City,0.03,0.03,Saved,24.0,Left Foot,,Jonny Evans,Pass (Live),Christian Fuchs,Pass (Live)
+12,45+3,Riyad Mahrez,Manchester City,0.07,,Off Target,28.0,Left Foot,Free kick,Sergio Agüero,Fouled,Riyad Mahrez,Pass (Live)
+13,,,,,,,,,,,,,
+14,49,Jamie Vardy,Leicester City,0.06,,Off Target,14.0,Right Foot,Volley,Ricardo Pereira,Pass (Live),Youri Tielemans,Pass (Live)
+15,53,Kevin De Bruyne,Manchester City,0.06,0.26,Saved,17.0,Right Foot,,Rodri,Pass (Live),Rodri,Interception
+16,60,Bernardo Silva,Manchester City,0.04,,Blocked,15.0,Right Foot,,Riyad Mahrez,Pass (Live),Sergio Agüero,Pass (Live)
+17,60,İlkay Gündoğan,Manchester City,0.03,,Blocked,19.0,Right Foot,,Bernardo Silva,Shot,,
+18,62,Sergio Agüero (pen),Manchester City,0.79,0.92,Saved,13.0,Right Foot,,,Fouled,İlkay Gündoğan,Shot
+19,63,Rodri,Manchester City,0.02,,Off Target,27.0,Right Foot,,Bernardo Silva,Pass (Live),,
+20,63,Sergio Agüero,Manchester City,0.33,0.58,Saved,11.0,Right Foot,,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+21,64,Fernandinho,Manchester City,0.13,,Off Target,7.0,Head,,Riyad Mahrez,Pass (Dead),Sergio Agüero,Shot
+22,66,Benjamin Mendy,Manchester City,0.03,,Blocked,25.0,Left Foot,,Rodri,Pass (Live),İlkay Gündoğan,Pass (Live)
+23,70,Jamie Vardy,Leicester City,0.04,,Off Target,15.0,Left Foot,Volley,Ricardo Pereira,Pass (Live),,
+24,74,Jamie Vardy,Leicester City,0.03,,Blocked,25.0,Left Foot,,Çağlar Söyüncü,Pass (Live),Jonny Evans,Pass (Live)
+25,75,Ricardo Pereira,Leicester City,0.06,,Off Target,13.0,Right Foot,,Harvey Barnes,Pass (Live),Ricardo Pereira,Take-On
+26,79,Gabriel Jesus,Manchester City,0.05,0.05,Saved,18.0,Left Foot,,Rodri,Pass (Live),Bernardo Silva,Pass (Live)
+27,80,Gabriel Jesus,Manchester City,0.49,0.89,Goal,10.0,Right Foot,,Riyad Mahrez,Pass (Live),İlkay Gündoğan,Pass (Live)
+28,87,Bernardo Silva,Manchester City,0.03,,Off Target,20.0,Left Foot,,İlkay Gündoğan,Tackle,,

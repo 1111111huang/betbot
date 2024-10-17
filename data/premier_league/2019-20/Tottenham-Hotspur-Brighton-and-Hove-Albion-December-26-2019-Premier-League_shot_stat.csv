@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Steven Alzate,Brighton,0.07,,Off Target,20.0,Left Foot,,Steven Alzate,Take-On,Aaron Connolly,Pass (Live)
+1,6,Lucas Moura,Tottenham,0.03,,Blocked,28.0,Right Foot,,,,,
+2,13,Steven Alzate,Brighton,0.02,0.18,Saved,33.0,Right Foot,,Pascal Groß,Pass (Live),Bernardo,Pass (Live)
+3,22,Aaron Mooy,Brighton,0.04,,Blocked,22.0,Left Foot,,Dale Stephens,Pass (Live),Steven Alzate,Pass (Live)
+4,26,Lucas Moura,Tottenham,0.03,,Off Target,28.0,Left Foot,,Moussa Sissoko,Pass (Live),Dele Alli,Pass (Live)
+5,32,Harry Kane,Tottenham,0.06,,Blocked,26.0,Right Foot,Free kick,Lucas Moura,Fouled,,
+6,36,Moussa Sissoko,Tottenham,0.2,0.26,Saved,8.0,Left Foot,,Jan Vertonghen,Pass (Dead),Lucas Moura,Fouled
+7,37,Adam Webster,Brighton,0.2,0.55,Goal,7.0,Head,,Pascal Groß,Pass (Dead),Ezequiel Schelotto,Fouled
+8,40,Bernardo,Brighton,0.05,0.23,Saved,12.0,Head,,Pascal Groß,Pass (Dead),Aaron Connolly,Fouled
+9,45+2,Lucas Moura,Tottenham,0.03,,Blocked,31.0,Right Foot,,Toby Alderweireld,Pass (Live),Dele Alli,Pass (Live)
+10,,,,,,,,,,,,,
+11,49,Aaron Connolly,Brighton,0.42,,Off Target,8.0,Other,,Bernardo,Pass (Live),Aaron Mooy,Pass (Live)
+12,53,Harry Kane,Tottenham,0.07,0.04,Saved,12.0,Left Foot,,,,,
+13,53,Harry Kane,Tottenham,0.08,0.3,Goal,10.0,Right Foot,Volley,Harry Kane,Shot,,
+14,55,Pascal Groß,Brighton,0.03,,Off Target,26.0,Left Foot,,Aaron Mooy,Pass (Live),Steven Alzate,Pass (Live)
+15,67,Pascal Groß,Brighton,0.11,0.36,Saved,23.0,Right Foot,Free kick,Pascal Groß,Fouled,,
+16,67,Dale Stephens,Brighton,0.02,,Off Target,31.0,Right Foot,,Pascal Groß,Shot,,
+17,72,Dele Alli,Tottenham,0.09,0.79,Goal,12.0,Right Foot,Volley,Serge Aurier,Pass (Live),Christian Eriksen,Pass (Live)
+18,76,Aaron Mooy,Brighton,0.02,,Off Target,27.0,Right Foot,,Ezequiel Schelotto,Fouled,Steven Alzate,Pass (Live)
+19,81,Pascal Groß,Brighton,0.03,0.2,Saved,27.0,Right Foot,Deflected,Leandro Trossard,Pass (Live),Aaron Mooy,Pass (Live)
+20,90,Harry Kane,Tottenham,0.08,,Off Target,15.0,Right Foot,,Dele Alli,Pass (Live),Eric Dier,Interception
+21,90,Dele Alli,Tottenham,0.07,0.13,Saved,15.0,Left Foot,,Harry Kane,Pass (Live),Eric Dier,Pass (Live)
+22,90+3,Christian Eriksen,Tottenham,0.1,,Blocked,15.0,Left Foot,,Moussa Sissoko,Pass (Live),Serge Aurier,Pass (Dead)

@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Ryan Fraser,Bournemouth,0.28,,Blocked,12.0,Right Foot,,Callum Wilson,Pass (Live),Lewis Cook,Pass (Live)
+1,11,Alexandre Lacazette,Arsenal,0.07,,Off Target,15.0,Left Foot,,Mesut Özil,Pass (Live),Reiss Nelson,Pass (Live)
+2,12,Callum Wilson,Bournemouth,0.05,,Off Target,18.0,Left Foot,Volley,,,,
+3,16,Jefferson Lerma,Bournemouth,0.03,,Off Target,21.0,Left Foot,Volley,Ryan Fraser,Pass (Live),Lewis Cook,Pass (Dead)
+4,19,Reiss Nelson,Arsenal,0.06,,Blocked,19.0,Right Foot,,Alexandre Lacazette,Pass (Live),Reiss Nelson,Pass (Live)
+5,19,Pierre-Emerick Aubameyang,Arsenal,0.07,,Blocked,15.0,Right Foot,Volley,Reiss Nelson,Shot,,
+6,19,Lucas Torreira,Arsenal,0.03,,Blocked,24.0,Right Foot,Volley,Pierre-Emerick Aubameyang,Shot,,
+7,21,David Luiz,Arsenal,0.02,,Off Target,30.0,Left Foot,,Lucas Torreira,Pass (Live),Alexandre Lacazette,Pass (Live)
+8,24,Alexandre Lacazette,Arsenal,0.07,,Blocked,12.0,Right Foot,,Mesut Özil,Pass (Live),Alexandre Lacazette,Pass (Live)
+9,26,Pierre-Emerick Aubameyang,Arsenal,0.03,,Off Target,27.0,Right Foot,,Mesut Özil,Pass (Live),Lucas Torreira,Pass (Live)
+10,31,Reiss Nelson,Arsenal,0.06,,Off Target,14.0,Right Foot,Volley,Granit Xhaka,Pass (Live),,
+11,35,Dan Gosling,Bournemouth,0.61,0.83,Goal,4.0,Right Foot,,Jack Stacey,Pass (Live),Callum Wilson,Pass (Live)
+12,37,Alexandre Lacazette,Arsenal,0.03,,Blocked,29.0,Right Foot,,Granit Xhaka,Pass (Live),Mesut Özil,Pass (Live)
+13,43,Joshua King,Bournemouth,0.68,0.91,Saved,3.0,Right Foot,,Joshua King,Take-On,Lewis Cook,Pass (Live)
+14,43,Chris Mepham,Bournemouth,0.1,,Off Target,8.0,Head,,Ryan Fraser,Pass (Dead),Joshua King,Shot
+15,,,,,,,,,,,,,
+16,48,Pierre-Emerick Aubameyang,Arsenal,0.05,,Off Target,17.0,Right Foot,,Mesut Özil,Pass (Live),Alexandre Lacazette,Pass (Live)
+17,61,Pierre-Emerick Aubameyang,Arsenal,0.17,,Blocked,6.0,Left Foot,,Mesut Özil,Pass (Live),Lucas Torreira,Pass (Live)
+18,62,Callum Wilson,Bournemouth,0.03,,Saved off Target,25.0,Left Foot,,Jefferson Lerma,Pass (Live),Dan Gosling,Pass (Live)
+19,63,Reiss Nelson,Arsenal,0.06,,Blocked,20.0,Left Foot,,Mesut Özil,Pass (Live),Alexandre Lacazette,Pass (Live)
+20,63,Pierre-Emerick Aubameyang,Arsenal,0.37,0.8,Goal,9.0,Right Foot,,Reiss Nelson,Shot,,
+21,70,Alexandre Lacazette,Arsenal,0.18,,Blocked,17.0,Right Foot,,Alexandre Lacazette,Take-On,David Luiz,Pass (Live)
+22,70,David Luiz,Arsenal,0.04,,Off Target,14.0,Right Foot,,Mesut Özil,Pass (Dead),Alexandre Lacazette,Shot
+23,74,Mesut Özil,Arsenal,0.08,,Blocked,13.0,Right Foot,Volley,Reiss Nelson,Pass (Live),Mesut Özil,Pass (Live)
+24,74,Jack Stacey,Bournemouth,0.07,,Off Target,11.0,Right Foot,,Harry Wilson,Pass (Live),Lewis Cook,Pass (Live)
+25,81,Harry Wilson,Bournemouth,0.04,0.33,Saved,19.0,Left Foot,,Jefferson Lerma,Pass (Live),Lewis Cook,Pass (Live)
+26,90+1,Jack Simpson,Bournemouth,0.04,,Blocked,15.0,Head,,Philip Billing,Pass (Dead),Philip Billing,Pass (Live)
+27,90+1,Joe Willock,Arsenal,0.08,0.17,Saved,23.0,Right Foot,,Alexandre Lacazette,Pass (Live),,
+28,90+2,Ryan Fraser,Bournemouth,0.06,,Blocked,17.0,Right Foot,,Ryan Fraser,Take-On,Jack Simpson,Pass (Live)
+29,90+4,Harry Wilson,Bournemouth,0.05,0.04,Saved,27.0,Left Foot,Free kick,Harry Wilson,Fouled,Chris Mepham,Pass (Live)

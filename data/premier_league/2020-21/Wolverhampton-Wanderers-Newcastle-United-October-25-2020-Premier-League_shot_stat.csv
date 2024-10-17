@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,Daniel Podence,Wolves,0.03,0.19,Saved,26.0,Left Foot,,Nélson Semedo,Pass (Live),Leander Dendoncker,Pass (Live)
+1,9.0,Daniel Podence,Wolves,0.03,,Off Target,30.0,Right Foot,,Rúben Neves,Tackle,,
+2,11.0,Raúl Jiménez,Wolves,0.05,,Off Target,24.0,Right Foot,,Nélson Semedo,Pass (Live),Rúben Neves,Pass (Live)
+3,13.0,Raúl Jiménez,Wolves,0.1,,Off Target,9.0,Left Foot,,Pedro Neto,Pass (Live),Raúl Jiménez,Pass (Live)
+4,17.0,Callum Wilson,Newcastle Utd,0.05,,Blocked,10.0,Right Foot,,Jacob Murphy,Pass (Live),Jeff Hendrick,Pass (Live)
+5,41.0,Allan Saint-Maximin,Newcastle Utd,0.03,0.08,Saved,27.0,Right Foot,Deflected,Allan Saint-Maximin,Take-On,Allan Saint-Maximin,Take-On
+6,,,,,,,,,,,,,
+7,46.0,Raúl Jiménez,Wolves,0.03,,Off Target,27.0,Right Foot,,Daniel Podence,Pass (Live),Max Kilman,Pass (Live)
+8,51.0,Pedro Neto,Wolves,0.08,,Off Target,16.0,Right Foot,,Daniel Podence,Pass (Live),Leander Dendoncker,Pass (Live)
+9,53.0,Pedro Neto,Wolves,0.03,,Off Target,28.0,Left Foot,,Raúl Jiménez,Pass (Live),Leander Dendoncker,Pass (Live)
+10,56.0,Daniel Podence,Wolves,0.07,,Blocked,16.0,Right Foot,,Raúl Jiménez,Pass (Live),Pedro Neto,Pass (Live)
+11,56.0,Rúben Neves,Wolves,0.03,,Off Target,32.0,Right Foot,,Daniel Podence,Shot,,
+12,61.0,Miguel Almirón,Newcastle Utd,0.09,,Blocked,15.0,Left Foot,Deflected,Callum Wilson,Pass (Live),,
+13,66.0,Rúben Neves,Wolves,0.02,,Off Target,30.0,Right Foot,,Pedro Neto,Fouled,Romain Saïss,Pass (Live)
+14,69.0,Jeff Hendrick,Newcastle Utd,0.03,,Blocked,30.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Callum Wilson,Pass (Live)
+15,71.0,Pedro Neto,Wolves,0.03,,Blocked,28.0,Left Foot,,Rúben Neves,Pass (Live),Nélson Semedo,Pass (Live)
+16,76.0,Pedro Neto,Wolves,0.07,,Blocked,17.0,Left Foot,,Fernando Marçal,Pass (Live),Pedro Neto,Pass (Live)
+17,77.0,Raúl Jiménez,Wolves,0.04,,Blocked,20.0,Right Foot,,Pedro Neto,Pass (Live),Pedro Neto,Pass (Live)
+18,77.0,Raúl Jiménez,Wolves,0.04,0.17,Saved,21.0,Right Foot,,Raúl Jiménez,Shot,,
+19,77.0,Fernando Marçal,Wolves,0.04,,Blocked,21.0,Left Foot,,Adama Traoré,Pass (Live),Nélson Semedo,Pass (Live)
+20,80.0,Raúl Jiménez,Wolves,0.03,0.27,Goal,26.0,Right Foot,,Pedro Neto,Fouled,Pedro Neto,Interception
+21,89.0,Jacob Murphy,Newcastle Utd,0.08,0.34,Goal,24.0,Right Foot,Free kick,Callum Wilson,Fouled,Jeff Hendrick,Pass (Live)

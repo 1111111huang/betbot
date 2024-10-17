@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Alexandre Lacazette,Arsenal,0.37,0.39,Saved,17.0,Right Foot,,Granit Xhaka,Pass (Live),,
+1,3,Danny Ings,Southampton,0.06,,Blocked,11.0,Head,,Yan Valery,Pass (Live),Jack Stephens,Pass (Live)
+2,3,Stuart Armstrong,Southampton,0.05,0.16,Goal,15.0,Right Foot,,James Ward-Prowse,Pass (Dead),Danny Ings,Shot
+3,6,Rob Holding,Arsenal,0.05,,Off Target,11.0,Head,,Bukayo Saka,Pass (Dead),,
+4,8,Nicolas Pépé,Arsenal,0.36,0.87,Goal,10.0,Left Foot,,Granit Xhaka,Pass (Live),Thomas Partey,Pass (Live)
+5,14,Cédric Soares,Arsenal,0.03,,Off Target,21.0,Right Foot,Volley,Alexandre Lacazette,Pass (Live),Thomas Partey,Take-On
+6,17,Theo Walcott,Southampton,0.06,,Off Target,18.0,Right Foot,,Che Adams,Pass (Live),Alex McCarthy,Pass (Live)
+7,19,Danny Ings,Southampton,0.1,0.06,Saved,13.0,Right Foot,Volley,James Ward-Prowse,Pass (Dead),Stuart Armstrong,Fouled
+8,24,Che Adams,Southampton,0.06,0.12,Saved,12.0,Head,,Jake Vokins,Pass (Live),Ibrahima Diallo,Pass (Live)
+9,27,Yan Valery,Southampton,0.06,,Off Target,17.0,Left Foot,,Danny Ings,Pass (Live),Che Adams,Pass (Live)
+10,28,Stuart Armstrong,Southampton,0.04,,Off Target,15.0,Right Foot,,Stuart Armstrong,Interception,,
+11,39,Bukayo Saka,Arsenal,0.38,0.66,Goal,23.0,Right Foot,,Bukayo Saka,Take-On,Alexandre Lacazette,Pass (Live)
+12,45+1,Ibrahima Diallo,Southampton,0.03,,Off Target,30.0,Left Foot,,Stuart Armstrong,Pass (Live),James Ward-Prowse,Pass (Live)
+13,,,,,,,,,,,,,
+14,50,Theo Walcott,Southampton,0.04,0.03,Saved,22.0,Right Foot,,Stuart Armstrong,Pass (Live),Stuart Armstrong,Take-On
+15,51,Danny Ings,Southampton,0.03,,Blocked,24.0,Right Foot,,Stuart Armstrong,Pass (Live),Danny Ings,Pass (Live)
+16,53,Emile Smith Rowe,Arsenal,0.05,,Blocked,14.0,Left Foot,,Cédric Soares,Pass (Live),Nicolas Pépé,Pass (Live)
+17,63,Bukayo Saka,Arsenal,0.07,,Off Target,20.0,Left Foot,,Cédric Soares,Pass (Live),Cédric Soares,Take-On
+18,72,Alexandre Lacazette,Arsenal,0.82,0.98,Goal,3.0,Left Foot,,Bukayo Saka,Pass (Live),Cédric Soares,Pass (Live)
+19,83,Che Adams,Southampton,0.03,,Blocked,23.0,Right Foot,,Jack Stephens,Pass (Live),,
+20,86,James Ward-Prowse,Southampton,0.09,0.7,Saved,23.0,Right Foot,Free kick,Caleb Watts,Fouled,Ibrahima Diallo,Pass (Live)
+21,86,Ibrahima Diallo,Southampton,0.2,,Off Target,5.0,Left Foot,Volley,James Ward-Prowse,Shot,,
+22,90,Nicolas Pépé,Arsenal,0.07,,Off Target,17.0,Left Foot,,Mohamed Elneny,Pass (Live),,

@@ -1,0 +1,40 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Christian Benteke,Crystal Palace,0.05,,Woodwork,12.0,Head,,James McArthur,Pass (Live),Conor Gallagher,Pass (Dead)
+1,3,Diogo Jota,Liverpool,0.17,,Off Target,7.0,Head,,James Milner,Pass (Live),Jordan Henderson,Pass (Live)
+2,9,Diogo Jota,Liverpool,0.25,,Off Target,7.0,Left Foot,,Diogo Jota,Take-On,Kostas Tsimikas,Pass (Live)
+3,16,Jordan Henderson,Liverpool,0.09,0.12,Saved,10.0,Right Foot,Volley,Kostas Tsimikas,Pass (Live),Virgil van Dijk,Pass (Live)
+4,18,Joel Ward,Crystal Palace,0.04,,Off Target,21.0,Right Foot,,James McArthur,Pass (Live),Tyrick Mitchell,Pass (Dead)
+5,20,Christian Benteke,Crystal Palace,0.01,,Off Target,14.0,Head,,Conor Gallagher,Pass (Dead),Jordan Ayew,Pass (Live)
+6,26,Christian Benteke,Crystal Palace,0.07,,Blocked,12.0,Right Foot,,Jordan Ayew,Pass (Live),Cheikhou Kouyaté,Tackle
+7,27,James McArthur,Crystal Palace,0.03,,Blocked,22.0,Right Foot,Volley,Christian Benteke,Pass (Live),Conor Gallagher,Pass (Dead)
+8,31,Thiago Alcántara,Liverpool,0.17,,Blocked,15.0,Left Foot,,Mohamed Salah,Pass (Live),Kostas Tsimikas,Pass (Live)
+9,31,Kostas Tsimikas,Liverpool,0.04,,Blocked,21.0,Left Foot,,Thiago Alcántara,Shot,,
+10,31,Mohamed Salah,Liverpool,0.05,0.04,Saved,14.0,Left Foot,Volley,Kostas Tsimikas,Pass (Live),Thiago Alcántara,Pass (Live)
+11,32,James Milner,Liverpool,0.04,,Blocked,16.0,Left Foot,,James Milner,Take-On,Mohamed Salah,Pass (Live)
+12,32,Fabinho,Liverpool,0.11,,Blocked,18.0,Right Foot,Volley,James Milner,Shot,,
+13,33,Diogo Jota,Liverpool,0.05,,Blocked,22.0,Right Foot,,Thiago Alcántara,Pass (Live),,
+14,34,Sadio Mané,Liverpool,0.06,,Blocked,17.0,Right Foot,Volley,Jordan Henderson,Pass (Live),Diogo Jota,Shot
+15,38,Thiago Alcántara,Liverpool,0.17,0.09,Saved,10.0,Head,,Jordan Henderson,Pass (Live),Mohamed Salah,Pass (Live)
+16,38,Diogo Jota,Liverpool,0.76,,Off Target,4.0,Right Foot,,Thiago Alcántara,Shot,,
+17,43,Mohamed Salah,Liverpool,0.04,0.17,Saved,12.0,Head,,Kostas Tsimikas,Pass (Dead),Sadio Mané,Pass (Live)
+18,43,Sadio Mané,Liverpool,0.62,0.37,Goal,3.0,Right Foot,,Mohamed Salah,Shot,,
+19,45+1,Jordan Ayew,Crystal Palace,0.02,,Blocked,21.0,Right Foot,,Conor Gallagher,Pass (Live),Marc Guéhi,Pass (Live)
+20,45+2,Joel Ward,Crystal Palace,0.02,0.01,Saved,21.0,Right Foot,"Deflected, Volley",Jordan Ayew,Fouled,Joel Ward,Pass (Live)
+21,,,,,,,,,,,,,
+22,46,Mohamed Salah,Liverpool,0.02,0.08,Saved,28.0,Left Foot,,Jordan Henderson,Pass (Live),Jordan Henderson,Take-On
+23,47,Jordan Henderson,Liverpool,0.02,,Off Target,27.0,Left Foot,,,,,
+24,55,Thiago Alcántara,Liverpool,0.03,,Blocked,27.0,Right Foot,,Diogo Jota,Pass (Live),Diogo Jota,Pass (Live)
+25,59,Fabinho,Liverpool,0.06,,Blocked,30.0,Right Foot,Free kick,Thiago Alcántara,Pass (Live),James Milner,Pass (Dead)
+26,59,Mohamed Salah,Liverpool,0.05,,Blocked,16.0,Right Foot,,Fabinho,Shot,,
+27,62,Jordan Ayew,Crystal Palace,0.12,,Blocked,21.0,Right Foot,Free kick,Conor Gallagher,Fouled,Tyrick Mitchell,Pass (Live)
+28,64,Virgil van Dijk,Liverpool,0.04,,Off Target,13.0,Head,,Kostas Tsimikas,Pass (Dead),Sadio Mané,Fouled
+29,68,Naby Keïta,Liverpool,0.03,0.02,Saved,28.0,Right Foot,,Jordan Henderson,Pass (Live),Diogo Jota,Pass (Live)
+30,68,Mohamed Salah,Liverpool,0.04,0.06,Saved,10.0,Right Foot,,Naby Keïta,Shot,,
+31,71,Odsonne Édouard,Crystal Palace,0.04,,Blocked,24.0,Right Foot,,Jaïro Riedewald,Pass (Live),Jaïro Riedewald,Take-On
+32,72,Jordan Ayew,Crystal Palace,0.04,,Off Target,21.0,Right Foot,,Odsonne Édouard,Pass (Live),,
+33,78,Mohamed Salah,Liverpool,0.29,0.36,Goal,6.0,Left Foot,Volley,Kostas Tsimikas,Pass (Dead),James Milner,Pass (Dead)
+34,80,Odsonne Édouard,Crystal Palace,0.08,0.1,Saved,14.0,Right Foot,Deflected,Joachim Andersen,Pass (Live),Joel Ward,Pass (Live)
+35,81,Wilfried Zaha,Crystal Palace,0.03,,Off Target,17.0,Right Foot,,Odsonne Édouard,Shot,,
+36,89,Curtis Jones,Liverpool,0.03,,Blocked,28.0,Left Foot,,,,,
+37,89,Naby Keïta,Liverpool,0.03,0.44,Goal,23.0,Left Foot,Volley,Curtis Jones,Shot,,
+38,90+2,Jordan Ayew,Crystal Palace,0.05,,Blocked,26.0,Right Foot,,Jaïro Riedewald,Pass (Live),Tyrick Mitchell,Tackle

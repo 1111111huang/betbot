@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Che Adams,Southampton,0.5,,Off Target,4.0,Right Foot,Volley,Yan Valery,Pass (Live),Nathan Redmond,Pass (Live)
+1,9,Oriol Romeu,Southampton,0.02,,Off Target,22.0,Left Foot,Volley,,,,
+2,12,Che Adams,Southampton,0.02,,Blocked,28.0,Right Foot,,,,,
+3,13,James Ward-Prowse,Southampton,0.03,0.03,Saved,30.0,Right Foot,,,,,
+4,21,James Ward-Prowse,Southampton,0.04,,Blocked,22.0,Right Foot,Volley,Ryan Bertrand,Pass (Live),Nathan Redmond,Pass (Live)
+5,27,Jóhann Berg Guðmundsson,Burnley,0.03,,Off Target,24.0,Left Foot,,Matthew Lowton,Pass (Live),Jack Cork,Pass (Live)
+6,43,Nathan Redmond,Southampton,0.06,0.14,Saved,13.0,Right Foot,,Oriol Romeu,Pass (Live),James Ward-Prowse,Pass (Live)
+7,45+1,Ashley Barnes,Burnley,0.07,,Off Target,11.0,Left Foot,Volley,,,,
+8,,,,,,,,,,,,,
+9,48,Erik Pieters,Burnley,0.02,,Off Target,33.0,Left Foot,,Ashley Westwood,Pass (Live),,
+10,53,Ryan Bertrand,Southampton,0.1,,Off Target,25.0,Left Foot,Free kick,Nathan Redmond,Fouled,Nathan Redmond,Take-On
+11,54,Chris Wood,Burnley,0.04,,Off Target,16.0,Right Foot,Volley,Nick Pope,Pass (Dead),,
+12,58,James Tarkowski,Burnley,0.03,,Blocked,14.0,Head,,Jóhann Berg Guðmundsson,Pass (Dead),James Tarkowski,Pass (Live)
+13,59,Nathan Redmond,Southampton,0.05,,Off Target,17.0,Right Foot,,Danny Ings,Pass (Live),Angus Gunn,Pass (Dead)
+14,63,Ashley Barnes,Burnley,0.06,0.04,Goal,16.0,Right Foot,,Erik Pieters,Pass (Live),James Tarkowski,Pass (Live)
+15,67,Oriol Romeu,Southampton,0.03,,Blocked,26.0,Right Foot,,Nathan Redmond,Fouled,Nathan Redmond,Take-On
+16,70,Ashley Barnes,Burnley,0.42,0.3,Goal,6.0,Right Foot,Volley,Erik Pieters,Pass (Live),Ashley Westwood,Pass (Live)
+17,75,Jóhann Berg Guðmundsson,Burnley,0.07,0.5,Goal,14.0,Left Foot,,Jóhann Berg Guðmundsson,Take-On,,
+18,79,Ashley Barnes,Burnley,0.13,0.08,Saved,6.0,Left Foot,,Ashley Barnes,Take-On,,
+19,79,James Tarkowski,Burnley,0.02,,Blocked,11.0,Head,,Jóhann Berg Guðmundsson,Pass (Dead),Ashley Barnes,Shot
+20,82,Jannik Vestergaard,Southampton,0.27,0.36,Saved,3.0,Right Foot,,Jan Bednarek,Pass (Live),James Ward-Prowse,Pass (Dead)
+21,90,Jan Bednarek,Southampton,0.05,,Off Target,15.0,Right Foot,,Sofiane Boufal,Pass (Live),James Ward-Prowse,Pass (Dead)

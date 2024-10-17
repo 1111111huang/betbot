@@ -1,0 +1,13 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,18.0,Ferrán Torres,Manchester City,0.33,0.47,Saved,12.0,Right Foot,,João Cancelo,Pass (Live),Bernardo Silva,Pass (Live)
+1,26.0,Ferrán Torres,Manchester City,0.02,,Off Target,26.0,Right Foot,,Bernardo Silva,Pass (Live),John Stones,Pass (Live)
+2,34.0,Bernardo Silva,Manchester City,0.08,0.24,Saved,11.0,Left Foot,,Bernardo Silva,Take-On,Rodri,Pass (Live)
+3,42.0,Kenny Tete,Fulham,0.06,,Blocked,10.0,Right Foot,,Ola Aina,Pass (Live),Harrison Reed,Pass (Live)
+4,45.0,Sergio Agüero,Manchester City,0.05,0.06,Saved,13.0,Right Foot,,Ferrán Torres,Pass (Live),João Cancelo,Pass (Live)
+5,,,,,,,,,,,,,
+6,47.0,John Stones,Manchester City,0.41,0.57,Goal,6.0,Right Foot,,João Cancelo,Pass (Dead),,Fouled
+7,53.0,Rodri,Manchester City,0.06,0.11,Saved,18.0,Right Foot,,Bernardo Silva,Pass (Live),Aymeric Laporte,Pass (Live)
+8,56.0,Gabriel Jesus,Manchester City,0.47,0.6,Goal,8.0,Right Foot,,Gabriel Jesus,Take-On,,
+9,60.0,Sergio Agüero (pen),Manchester City,0.79,0.99,Goal,13.0,Right Foot,,Ferrán Torres,Fouled,,
+10,83.0,Josh Onomah,Fulham,0.14,,Blocked,10.0,Left Foot,,Aleksandar Mitrović,Pass (Live),Antonee Robinson,Pass (Live)
+11,87.0,Aleksandar Mitrović,Fulham,0.06,,Blocked,13.0,Right Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Aleksandar Mitrović,Pass (Live)

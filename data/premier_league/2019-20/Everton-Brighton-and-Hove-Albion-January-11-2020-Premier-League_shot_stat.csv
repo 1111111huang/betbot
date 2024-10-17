@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Lewis Dunk,Brighton,0.44,0.78,Saved,6.0,Right Foot,Volley,Alireza Jahanbakhsh,Fouled,Martín Montoya,Pass (Live)
+1,4.0,Theo Walcott,Everton,0.23,0.09,Saved,13.0,Left Foot,,Richarlison,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+2,15.0,Dominic Calvert-Lewin,Everton,0.08,0.07,Saved,10.0,Left Foot,,Bernard,Pass (Live),Lucas Digne,Pass (Live)
+3,17.0,Alireza Jahanbakhsh,Brighton,0.08,,Off Target,19.0,Right Foot,Volley,Martín Montoya,Pass (Live),Leandro Trossard,Pass (Live)
+4,18.0,Richarlison,Everton,0.03,,Off Target,26.0,Right Foot,,Bernard,Pass (Live),Lucas Digne,Pass (Live)
+5,27.0,Bernard,Everton,0.06,,Blocked,22.0,Right Foot,,Bernard,Take-On,Djibril Sidibé,Pass (Live)
+6,28.0,Djibril Sidibé,Everton,0.03,,Off Target,23.0,Left Foot,,Theo Walcott,Pass (Live),Djibril Sidibé,Pass (Live)
+7,37.0,Richarlison,Everton,0.06,0.37,Saved,18.0,Right Foot,,Bernard,Pass (Live),Tom Davies,Pass (Live)
+8,38.0,Richarlison,Everton,0.13,0.64,Goal,11.0,Right Foot,,Richarlison,Take-On,Lucas Digne,Pass (Live)
+9,,,,,,,,,,,,,
+10,46.0,Leandro Trossard,Brighton,0.04,,Off Target,29.0,Left Foot,,Leandro Trossard,Take-On,Leandro Trossard,Take-On
+11,50.0,Dominic Calvert-Lewin,Everton,0.08,,Blocked,10.0,Head,,Michael Keane,Pass (Live),Theo Walcott,Pass (Live)
+12,53.0,Neal Maupay,Brighton,0.06,,Blocked,19.0,Right Foot,,Davy Pröpper,Pass (Live),Lewis Dunk,Pass (Live)
+13,53.0,Leandro Trossard,Brighton,0.04,,Woodwork,18.0,Right Foot,,Shane Duffy,Pass (Live),Shane Duffy,Take-On
+14,55.0,Richarlison,Everton,0.14,,Blocked,8.0,Right Foot,,Lucas Digne,Pass (Live),Bernard,Pass (Live)
+15,62.0,Michael Keane,Everton,0.09,,Off Target,7.0,Head,,Gylfi Sigurðsson,Pass (Dead),Richarlison,Pass (Live)
+16,66.0,Dominic Calvert-Lewin,Everton,0.54,0.82,Saved,5.0,Right Foot,,Bernard,Pass (Live),Bernard,Take-On
+17,67.0,Dale Stephens,Brighton,0.03,,Off Target,28.0,Left Foot,Volley,Pascal Groß,Pass (Live),Steven Alzate,Pass (Live)
+18,68.0,Dominic Calvert-Lewin,Everton,0.1,0.09,Saved,17.0,Right Foot,,Lucas Digne,Pass (Live),Mason Holgate,Pass (Live)
+19,75.0,Richarlison,Everton,0.08,,Blocked,10.0,Left Foot,Volley,Tom Davies,Pass (Live),Richarlison,Pass (Live)
+20,77.0,Michael Keane,Everton,0.09,,Woodwork,4.0,Head,,Richarlison,Shot,,
+21,82.0,Glenn Murray,Brighton,0.06,0.31,Saved,11.0,Head,,Leandro Trossard,Pass (Live),Steven Alzate,Pass (Live)
+22,83.0,Lewis Dunk,Brighton,0.11,,Off Target,4.0,Head,,Pascal Groß,Pass (Dead),Glenn Murray,Pass (Live)
+23,88.0,Glenn Murray,Brighton,0.42,,Off Target,11.0,Right Foot,,Steven Alzate,Pass (Live),Neal Maupay,Pass (Live)

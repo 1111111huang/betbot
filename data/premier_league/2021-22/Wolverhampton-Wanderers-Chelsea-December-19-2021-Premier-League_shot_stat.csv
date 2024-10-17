@@ -1,0 +1,14 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Daniel Podence,Wolves,0.03,,Blocked,28.0,Right Foot,,Raúl Jiménez,Take-On,,
+1,4,Daniel Podence,Wolves,0.01,,Blocked,21.0,Left Foot,Volley,Daniel Podence,Shot,,
+2,13,César Azpilicueta,Chelsea,0.14,,Blocked,8.0,Head,,Mason Mount,Pass (Dead),Reece James,Pass (Live)
+3,29,Mason Mount,Chelsea,0.04,,Blocked,24.0,Right Foot,,Reece James,Pass (Live),Christian Pulisic,Pass (Live)
+4,41,Leander Dendoncker,Wolves,0.18,0.38,Saved,10.0,Head,,Daniel Podence,Pass (Live),Romain Saïss,Pass (Live)
+5,43,Daniel Podence,Wolves,0.02,,Off Target,50.0,Right Foot,,João Moutinho,Pass (Live),João Moutinho,Interception
+6,45+3,Antonio Rüdiger,Chelsea,0.01,,Blocked,33.0,Right Foot,,Hakim Ziyech,Pass (Live),Mason Mount,Pass (Live)
+7,,,,,,,,,,,,,
+8,74,Mason Mount,Chelsea,0.04,,Blocked,13.0,Right Foot,,Mason Mount,Fouled,Reece James,Pass (Live)
+9,77,N'Golo Kanté,Chelsea,0.1,,Blocked,12.0,Right Foot,,Mason Mount,Pass (Live),Thiago Silva,Pass (Live)
+10,78,Christian Pulisic,Chelsea,0.35,0.18,Saved,10.0,Left Foot,,Marcos Alonso,Pass (Live),N'Golo Kanté,Pass (Live)
+11,89,Antonio Rüdiger,Chelsea,0.07,,Off Target,9.0,Head,,Mason Mount,Pass (Dead),Marcos Alonso,Take-On
+12,90+3,N'Golo Kanté,Chelsea,0.13,,Blocked,11.0,Right Foot,,César Azpilicueta,Pass (Live),Antonio Rüdiger,Pass (Live)

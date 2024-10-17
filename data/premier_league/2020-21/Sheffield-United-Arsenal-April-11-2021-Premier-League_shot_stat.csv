@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Bukayo Saka,Arsenal,0.06,,Off Target,15.0,Left Foot,,Gabriel Martinelli,Pass (Live),Pablo Marí,Pass (Live)
+1,10.0,David McGoldrick,Sheffield Utd,0.07,,Off Target,17.0,Left Foot,,Ben Osborn,Pass (Live),,
+2,19.0,Thomas Partey,Arsenal,0.02,,Blocked,31.0,Right Foot,,Nicolas Pépé,Pass (Live),Calum Chambers,Pass (Live)
+3,24.0,Gabriel Martinelli,Arsenal,0.08,,Off Target,13.0,Left Foot,,Alexandre Lacazette,Pass (Live),Dani Ceballos,Pass (Live)
+4,31.0,Gabriel Martinelli,Arsenal,0.03,0.02,Saved,24.0,Right Foot,Deflected,Bukayo Saka,Pass (Live),,
+5,32.0,Calum Chambers,Arsenal,0.05,,Blocked,15.0,Right Foot,,Bukayo Saka,Pass (Live),Alexandre Lacazette,Pass (Live)
+6,33.0,Alexandre Lacazette,Arsenal,0.37,0.86,Goal,11.0,Right Foot,,Dani Ceballos,Pass (Live),Bukayo Saka,Pass (Live)
+7,42.0,Gabriel Martinelli,Arsenal,0.05,,Blocked,16.0,Left Foot,,Nicolas Pépé,Pass (Dead),,
+8,43.0,Alexandre Lacazette,Arsenal,0.03,,Blocked,22.0,Right Foot,,Dani Ceballos,Pass (Live),,
+9,44.0,John Egan,Sheffield Utd,0.03,0.04,Saved,16.0,Left Foot,Volley,John Fleck,Pass (Live),Oliver Norwood,Pass (Dead)
+10,,,,,,,,,,,,,
+11,46.0,David McGoldrick,Sheffield Utd,0.02,,Blocked,33.0,Right Foot,,,,,
+12,47.0,John Egan,Sheffield Utd,0.06,0.09,Saved,8.0,Head,Deflected,Oliver Norwood,Pass (Live),John Fleck,Pass (Live)
+13,56.0,Alexandre Lacazette,Arsenal,0.06,,Off Target,21.0,Right Foot,,Nicolas Pépé,Pass (Live),Calum Chambers,Pass (Live)
+14,58.0,David McGoldrick,Sheffield Utd,0.04,,Blocked,17.0,Right Foot,,Enda Stevens,Pass (Live),,
+15,63.0,Nicolas Pépé,Arsenal,0.03,,Blocked,25.0,Left Foot,,Bukayo Saka,Pass (Live),Nicolas Pépé,Pass (Live)
+16,71.0,Nicolas Pépé,Arsenal,0.06,0.14,Saved,14.0,Left Foot,,Nicolas Pépé,Take-On,,
+17,71.0,Gabriel Martinelli,Arsenal,0.59,0.71,Goal,6.0,Left Foot,,Nicolas Pépé,Shot,,
+18,76.0,Willian,Arsenal,0.07,,Blocked,23.0,Right Foot,Free kick,Alexandre Lacazette,Fouled,Dani Ceballos,Pass (Live)
+19,78.0,Rhian Brewster,Sheffield Utd,0.02,,Blocked,33.0,Right Foot,,John Fleck,Pass (Live),Oliver McBurnie,Pass (Live)
+20,85.0,Alexandre Lacazette,Arsenal,0.28,0.77,Goal,19.0,Right Foot,,Thomas Partey,Pass (Live),Rob Holding,Pass (Live)
+21,88.0,Lys Mousset,Sheffield Utd,0.08,,Off Target,15.0,Right Foot,,Enda Stevens,Pass (Live),John Egan,Pass (Live)

@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Karlan Grant,West Brom,0.3,0.71,Saved,13.0,Right Foot,,,,,
+1,8,Darnell Furlong,West Brom,0.06,,Off Target,10.0,Head,,Matt Phillips,Pass (Live),Karlan Grant,Pass (Live)
+2,21,Benjamin Mendy,Manchester City,0.03,,Off Target,21.0,Left Foot,Volley,João Cancelo,Pass (Live),Rodri,Pass (Live)
+3,25,Rodri,Manchester City,0.05,,Off Target,12.0,Head,,Kevin De Bruyne,Pass (Dead),João Cancelo,Pass (Live)
+4,27,Phil Foden,Manchester City,0.04,,Blocked,22.0,Left Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)
+5,30,İlkay Gündoğan,Manchester City,0.38,0.44,Goal,11.0,Right Foot,,Raheem Sterling,Pass (Live),João Cancelo,Pass (Live)
+6,32,Conor Gallagher,West Brom,0.03,,Off Target,27.0,Right Foot,,Jake Livermore,Pass (Live),Grady Diangana,Pass (Live)
+7,36,João Cancelo,Manchester City,0.02,0.02,Saved,34.0,Right Foot,,İlkay Gündoğan,Pass (Live),Benjamin Mendy,Pass (Live)
+8,38,João Cancelo,Manchester City,0.04,,Off Target,14.0,Right Foot,Volley,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Pass (Live)
+9,43,Semi Ajayi,West Brom,0.06,,Off Target,18.0,Right Foot,,Matt Phillips,Pass (Dead),Grady Diangana,Fouled
+10,,,,,,,,,,,,,
+11,47,João Cancelo,Manchester City,0.05,,Blocked,19.0,Right Foot,Deflected,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+12,52,Rodri,Manchester City,0.02,,Off Target,30.0,Right Foot,,Gabriel Jesus,Pass (Live),Rodri,Pass (Live)
+13,53,Kevin De Bruyne,Manchester City,0.06,,Off Target,18.0,Right Foot,,İlkay Gündoğan,Pass (Live),Phil Foden,Pass (Live)
+14,55,İlkay Gündoğan,Manchester City,0.05,,Blocked,13.0,Right Foot,,,,,
+15,56,Gabriel Jesus,Manchester City,0.04,,Off Target,10.0,Head,,İlkay Gündoğan,Pass (Dead),İlkay Gündoğan,Shot
+16,57,Gabriel Jesus,Manchester City,0.07,,Blocked,10.0,Head,,Phil Foden,Pass (Live),Ederson,Pass (Live)
+17,57,Raheem Sterling,Manchester City,0.14,0.16,Saved,4.0,Right Foot,Volley,Gabriel Jesus,Shot,,
+18,62,Matt Phillips,West Brom,0.02,,Off Target,31.0,Right Foot,,Dara O'Shea,Pass (Live),Romaine Sawyers,Pass (Live)
+19,64,Rodri,Manchester City,0.05,,Blocked,25.0,Right Foot,,João Cancelo,Pass (Live),Raheem Sterling,Pass (Live)
+20,66,Phil Foden,Manchester City,0.07,,Off Target,14.0,Left Foot,Volley,João Cancelo,Pass (Live),Benjamin Mendy,Pass (Live)
+21,68,Kevin De Bruyne,Manchester City,0.06,0.19,Saved,9.0,Right Foot,,Raheem Sterling,Pass (Live),Rodri,Pass (Live)
+22,69,Rodri,Manchester City,0.03,,Off Target,28.0,Right Foot,,Phil Foden,Pass (Live),Gabriel Jesus,Pass (Live)
+23,77,Kyle Walker,Manchester City,0.02,,Blocked,31.0,Right Foot,,İlkay Gündoğan,Pass (Live),Rúben Dias,Pass (Live)
+24,81,Sergio Agüero,Manchester City,0.06,,Off Target,9.0,Head,,Kevin De Bruyne,Pass (Dead),Kyle Walker,Pass (Live)
+25,82,Kevin De Bruyne,Manchester City,0.03,,Blocked,23.0,Left Foot,,Kevin De Bruyne,Take-On,İlkay Gündoğan,Pass (Live)
+26,86,Kevin De Bruyne,Manchester City,0.07,0.28,Saved,29.0,Right Foot,Free kick,İlkay Gündoğan,Fouled,İlkay Gündoğan,Take-On
+27,87,Sergio Agüero,Manchester City,0.08,,Off Target,14.0,Right Foot,,Raheem Sterling,Pass (Live),Rodri,Pass (Live)
+28,90+1,İlkay Gündoğan,Manchester City,0.24,0.2,Saved,5.0,Head,,Kevin De Bruyne,Pass (Live),Kyle Walker,Pass (Live)
+29,90+1,Rúben Dias,Manchester City,0.05,,Blocked,7.0,Head,,Rodri,Pass (Live),João Cancelo,Pass (Dead)
+30,90+3,İlkay Gündoğan,Manchester City,0.07,,Off Target,26.0,Right Foot,Free kick,Raheem Sterling,Fouled,Kyle Walker,Pass (Live)
+31,90+4,Raheem Sterling,Manchester City,0.4,0.52,Saved,6.0,Head,,Kevin De Bruyne,Pass (Live),Rúben Dias,Pass (Live)

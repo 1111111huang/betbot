@@ -1,0 +1,38 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Joelinton,Newcastle Utd,0.14,0.23,Saved,17.0,Right Foot,,Joelinton,Take-On,Bruno Guimarães,Pass (Live)
+1,2,Jacob Murphy,Newcastle Utd,0.29,0.77,Goal,3.0,Right Foot,,Joelinton,Shot,,
+2,4,Alexander Isak,Newcastle Utd,0.04,,Blocked,12.0,Right Foot,,Alexander Isak,Take-On,Jacob Murphy,Pass (Live)
+3,5,Fabian Schär,Newcastle Utd,0.03,,Off Target,12.0,Head,,Kieran Trippier,Pass (Dead),Alexander Isak,Shot
+4,6,Joelinton,Newcastle Utd,0.95,0.82,Goal,8.0,Right Foot,,Joelinton,Take-On,Fabian Schär,Pass (Live)
+5,9,Jacob Murphy,Newcastle Utd,0.02,0.37,Goal,31.0,Right Foot,,Fabian Schär,Tackle,,
+6,13,Harry Kane,Tottenham,0.1,,Off Target,15.0,Right Foot,,Oliver Skipp,Pass (Live),Pedro Porro,Pass (Live)
+7,17,Sven Botman,Newcastle Utd,0.02,,Blocked,11.0,Head,,Kieran Trippier,Pass (Dead),Bruno Guimarães,Pass (Live)
+8,19,Alexander Isak,Newcastle Utd,0.38,0.94,Goal,15.0,Right Foot,,Joe Willock,Pass (Live),Bruno Guimarães,Pass (Live)
+9,21,Alexander Isak,Newcastle Utd,0.04,0.22,Goal,13.0,Right Foot,,Sean Longstaff,Pass (Live),Jacob Murphy,Pass (Live)
+10,26,Dejan Kulusevski,Tottenham,0.04,,Off Target,15.0,Left Foot,,Dejan Kulusevski,Take-On,Dejan Kulusevski,Take-On
+11,30,Harry Kane,Tottenham,0.15,0.07,Saved,12.0,Left Foot,,Son Heung-min,Shot,,
+12,30,Son Heung-min,Tottenham,0.05,,Off Target,23.0,Right Foot,,Pedro Porro,Pass (Live),Pierre Højbjerg,Pass (Live)
+13,39,Joe Willock,Newcastle Utd,0.27,,Off Target,17.0,Right Foot,,,,,
+14,41,Joe Willock,Newcastle Utd,0.02,,Blocked,26.0,Right Foot,,Joe Willock,Take-On,Joelinton,Pass (Live)
+15,42,Dan Burn,Newcastle Utd,0.09,,Off Target,11.0,Head,,Kieran Trippier,Pass (Live),Sean Longstaff,Pass (Live)
+16,43,Sean Longstaff,Newcastle Utd,0.07,,Blocked,21.0,Right Foot,,Joe Willock,Pass (Live),Bruno Guimarães,Pass (Live)
+17,45+2,Jacob Murphy,Newcastle Utd,0.05,,Off Target,23.0,Left Foot,,Jacob Murphy,Take-On,Bruno Guimarães,Pass (Live)
+18,,,,,,,,,,,,,
+19,47,Sean Longstaff,Newcastle Utd,0.13,,Blocked,11.0,Left Foot,,Joelinton,Pass (Live),Bruno Guimarães,Pass (Live)
+20,47,Alexander Isak,Newcastle Utd,0.22,,Off Target,5.0,Head,,Bruno Guimarães,Pass (Live),Jacob Murphy,Pass (Live)
+21,49,Harry Kane,Tottenham,0.11,0.84,Goal,12.0,Left Foot,,Harry Kane,Take-On,Pierre Højbjerg,Pass (Live)
+22,51,Ivan Perišić,Tottenham,0.04,,Off Target,23.0,Right Foot,,Son Heung-min,Pass (Live),Cristian Romero,Pass (Live)
+23,52,Sean Longstaff,Newcastle Utd,0.07,,Blocked,11.0,Right Foot,,Bruno Guimarães,Pass (Live),Bruno Guimarães,Take-On
+24,53,Dan Burn,Newcastle Utd,0.09,,Blocked,10.0,Head,,Kieran Trippier,Pass (Dead),Sean Longstaff,Shot
+25,54,Pedro Porro,Tottenham,0.03,,Blocked,20.0,Right Foot,,Dejan Kulusevski,Pass (Live),Oliver Skipp,Pass (Live)
+26,61,Son Heung-min,Tottenham,0.04,,Blocked,27.0,Left Foot,,Cristian Romero,Pass (Live),Dejan Kulusevski,Pass (Live)
+27,64,Son Heung-min,Tottenham,0.07,,Blocked,17.0,Right Foot,,Ivan Perišić,Pass (Live),Eric Dier,Pass (Live)
+28,64,Pedro Porro,Tottenham,0.05,,Off Target,13.0,Right Foot,Volley,Son Heung-min,Shot,,
+29,67,Miguel Almirón,Newcastle Utd,0.04,,Blocked,14.0,Left Foot,,Kieran Trippier,Pass (Live),Sean Longstaff,Pass (Live)
+30,67,Callum Wilson,Newcastle Utd,0.29,0.94,Goal,10.0,Right Foot,,Miguel Almirón,Shot,,
+31,70,Joelinton,Newcastle Utd,0.05,,Blocked,20.0,Left Foot,,Callum Wilson,Pass (Live),Dan Burn,Pass (Dead)
+32,79,Anthony Gordon,Newcastle Utd,0.28,0.76,Saved,10.0,Right Foot,,Joe Willock,Pass (Live),Anthony Gordon,Pass (Live)
+33,80,Jamaal Lascelles,Newcastle Utd,0.04,,Blocked,11.0,Head,,Anthony Gordon,Pass (Dead),Joelinton,Pass (Live)
+34,80,Joelinton,Newcastle Utd,0.16,,Blocked,15.0,Right Foot,,Jamaal Lascelles,Shot,,
+35,88,Arnaut Danjuma,Tottenham,0.34,0.16,Saved,12.0,Right Foot,,Richarlison,Pass (Live),Richarlison,Take-On
+36,90+1,Joe Willock,Newcastle Utd,0.1,,Blocked,21.0,Right Foot,,Miguel Almirón,Pass (Live),Joelinton,Pass (Live)

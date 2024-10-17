@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1.0,Gabriel Martinelli,Arsenal,0.25,0.14,Saved,12.0,Left Foot,,Lucas Torreira,Pass (Live),Pierre-Emerick Aubameyang,Pass (Live)
+1,2.0,Kevin De Bruyne,Manchester City,0.08,0.14,Goal,16.0,Right Foot,,Gabriel Jesus,Pass (Live),Fernandinho,Pass (Live)
+2,8.0,Nicolas Pépé,Arsenal,0.04,,Off Target,20.0,Left Foot,Volley,Mesut Özil,Pass (Live),Lucas Torreira,Pass (Live)
+3,15.0,Raheem Sterling,Manchester City,0.48,0.36,Goal,8.0,Left Foot,,Gabriel Jesus,Pass (Live),Kevin De Bruyne,Pass (Live)
+4,22.0,İlkay Gündoğan,Manchester City,0.02,,Off Target,31.0,Right Foot,,,,,
+5,27.0,Mattéo Guendouzi,Arsenal,0.04,,Blocked,21.0,Right Foot,,Lucas Torreira,Pass (Live),Gabriel Martinelli,Tackle
+6,40.0,Kevin De Bruyne,Manchester City,0.06,0.35,Goal,22.0,Left Foot,,Kevin De Bruyne,Take-On,Phil Foden,Pass (Live)
+7,43.0,Kevin De Bruyne,Manchester City,0.03,0.46,Saved,28.0,Right Foot,,Phil Foden,Take-On,Kyle Walker,Pass (Live)
+8,45.0,Phil Foden,Manchester City,0.04,,Blocked,10.0,Head,,Benjamin Mendy,Pass (Live),Raheem Sterling,Pass (Live)
+9,,,,,,,,,,,,,
+10,48.0,Pierre-Emerick Aubameyang,Arsenal,0.08,,Off Target,9.0,Head,,Ainsley Maitland-Niles,Pass (Live),Nicolas Pépé,Pass (Live)
+11,50.0,Lucas Torreira,Arsenal,0.03,,Off Target,28.0,Right Foot,,Mesut Özil,Pass (Live),Ainsley Maitland-Niles,Pass (Live)
+12,52.0,Gabriel Jesus,Manchester City,0.06,,Off Target,15.0,Right Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)
+13,55.0,Kevin De Bruyne,Manchester City,0.05,,Blocked,20.0,Left Foot,,İlkay Gündoğan,Pass (Live),Gabriel Jesus,Pass (Live)
+14,62.0,Gabriel Jesus,Manchester City,0.25,0.1,Saved,17.0,Left Foot,,Gabriel Jesus,Tackle,,
+15,62.0,Raheem Sterling,Manchester City,0.05,,Blocked,18.0,Right Foot,,Kevin De Bruyne,Pass (Live),Gabriel Jesus,Shot
+16,73.0,Pierre-Emerick Aubameyang,Arsenal,0.04,,Off Target,23.0,Left Foot,Volley,Lucas Torreira,Pass (Live),Gabriel Martinelli,Pass (Live)
+17,75.0,Raheem Sterling,Manchester City,0.03,,Blocked,28.0,Right Foot,,Bernardo Silva,Pass (Live),Nicolás Otamendi,Pass (Live)
+18,77.0,Kevin De Bruyne,Manchester City,0.03,0.28,Saved,27.0,Right Foot,,Rodri,Pass (Live),Bernardo Silva,Pass (Live)
+19,86.0,Riyad Mahrez,Manchester City,0.06,0.08,Saved,9.0,Right Foot,,Raheem Sterling,Pass (Live),Gabriel Jesus,Pass (Live)
+20,90.0,Raheem Sterling,Manchester City,0.06,,Off Target,15.0,Left Foot,,Kevin De Bruyne,Pass (Live),Gabriel Jesus,Pass (Live)

@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Che Adams,Southampton,0.1,0.07,Saved,14.0,Right Foot,,Stuart Armstrong,Fouled,Ryan Bertrand,Pass (Live)
+1,20,Che Adams,Southampton,0.71,,Blocked,5.0,Right Foot,,Moussa Djenepo,Take-On,Stuart Armstrong,Pass (Live)
+2,20,James Ward-Prowse,Southampton,0.1,0.69,Saved,11.0,Right Foot,Volley,Che Adams,Shot,,
+3,26,Moussa Djenepo,Southampton,0.03,,Woodwork,25.0,Left Foot,,Kyle Walker-Peters,Fouled,Alex McCarthy,Pass (Live)
+4,29,Moussa Djenepo,Southampton,0.04,,Blocked,23.0,Right Foot,,Che Adams,Pass (Live),Che Adams,Take-On
+5,32,Danny Ings,Southampton,0.05,0.64,Goal,12.0,Right Foot,,Kyle Walker-Peters,Pass (Live),Oriol Romeu,Pass (Live)
+6,45+2,Son Heung-min,Tottenham,0.08,0.25,Goal,12.0,Right Foot,Deflected,Harry Kane,Pass (Live),Tanguy Ndombele,Pass (Live)
+7,,,,,,,,,,,,,
+8,46,Che Adams,Southampton,0.07,0.11,Saved,17.0,Right Foot,,Stuart Armstrong,Pass (Live),Moussa Djenepo,Pass (Live)
+9,47,Son Heung-min,Tottenham,0.4,0.75,Goal,16.0,Left Foot,,Son Heung-min,Take-On,Harry Kane,Pass (Live)
+10,49,Stuart Armstrong,Southampton,0.04,,Off Target,19.0,Left Foot,,James Ward-Prowse,Pass (Live),Danny Ings,Pass (Live)
+11,50,James Ward-Prowse,Southampton,0.03,0.04,Saved,31.0,Right Foot,,Oriol Romeu,Pass (Live),Jan Bednarek,Pass (Live)
+12,54,Harry Kane,Tottenham,0.01,,Off Target,59.0,Right Foot,,Harry Kane,Take-On,Son Heung-min,Interception
+13,64,Che Adams,Southampton,0.05,,Off Target,15.0,Right Foot,,Jack Stephens,Pass (Live),William Smallbone,Pass (Live)
+14,64,Son Heung-min,Tottenham,0.27,0.19,Goal,12.0,Right Foot,,Harry Kane,Pass (Live),Davinson Sánchez,Pass (Live)
+15,71,Nathan Tella,Southampton,0.03,,Off Target,28.0,Right Foot,,Che Adams,Pass (Live),Ryan Bertrand,Pass (Live)
+16,73,Son Heung-min,Tottenham,0.49,0.73,Goal,6.0,Left Foot,,Harry Kane,Pass (Live),Giovani Lo Celso,Pass (Live)
+17,74,Érik Lamela,Tottenham,0.09,,Blocked,16.0,Left Foot,,Son Heung-min,Pass (Live),Harry Kane,Pass (Dead)
+18,82,Érik Lamela,Tottenham,0.05,0.05,Saved,9.0,Left Foot,,Giovani Lo Celso,Pass (Live),Pierre Højbjerg,Pass (Live)
+19,82,Harry Kane,Tottenham,0.69,0.88,Goal,6.0,Left Foot,,Érik Lamela,Shot,,
+20,83,Shane Long,Southampton,0.05,,Off Target,13.0,Head,,James Ward-Prowse,Pass (Dead),Nathan Tella,Fouled
+21,86,James Ward-Prowse,Southampton,0.05,0.16,Saved,33.0,Right Foot,Free kick,Nathan Tella,Fouled,,
+22,90,Danny Ings (pen),Southampton,0.79,0.88,Goal,13.0,Right Foot,,,Fouled,Moussa Djenepo,Pass (Live)
+23,90+4,Giovani Lo Celso,Tottenham,0.05,,Blocked,20.0,Left Foot,,Steven Bergwijn,Pass (Live),Ben Davies,Pass (Live)

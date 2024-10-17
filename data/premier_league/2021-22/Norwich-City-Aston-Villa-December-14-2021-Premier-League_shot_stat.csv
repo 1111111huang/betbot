@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Ollie Watkins,Aston Villa,0.02,0.04,Saved,16.0,Head,,Emi Buendía,Pass (Live),,
+1,8,John McGinn,Aston Villa,0.02,0.07,Saved,35.0,Left Foot,,Jacob Ramsey,Pass (Live),Douglas Luiz,Pass (Live)
+2,12,Todd Cantwell,Norwich City,0.03,,Blocked,20.0,Right Foot,Volley,Brandon Williams,Fouled,Ben Gibson,Pass (Live)
+3,15,Kenny McLean,Norwich City,0.02,,Blocked,17.0,Left Foot,Volley,Przemysław Płacheta,Pass (Live),Billy Gilmour,Pass (Live)
+4,17,Ollie Watkins,Aston Villa,0.08,,Blocked,6.0,Right Foot,,John McGinn,Pass (Live),Matty Cash,Pass (Live)
+5,20,Jacob Ramsey,Aston Villa,0.05,,Blocked,19.0,Right Foot,,Matty Cash,Take-On,Matt Targett,Pass (Live)
+6,20,Matt Targett,Aston Villa,0.02,,Off Target,24.0,Left Foot,Volley,Jacob Ramsey,Shot,,
+7,26,Ollie Watkins,Aston Villa,0.05,,Blocked,19.0,Left Foot,,Emi Buendía,Pass (Live),Ashley Young,Pass (Live)
+8,27,Ashley Young,Aston Villa,0.17,,Blocked,5.0,Left Foot,,Matty Cash,Pass (Live),Emi Buendía,Pass (Live)
+9,31,Jakob Sørensen,Norwich City,0.01,0.05,Saved,14.0,Head,,Billy Gilmour,Pass (Dead),Przemysław Płacheta,Fouled
+10,34,Jacob Ramsey,Aston Villa,0.16,0.28,Goal,15.0,Left Foot,Deflected,Ollie Watkins,Pass (Live),Jacob Ramsey,Pass (Live)
+11,40,Jacob Ramsey,Aston Villa,0.05,,Off Target,21.0,Left Foot,,Matt Targett,Pass (Live),Tyrone Mings,Pass (Live)
+12,43,Matty Cash,Aston Villa,0.02,,Blocked,19.0,Right Foot,,John McGinn,Pass (Live),Ollie Watkins,Pass (Live)
+13,,,,,,,,,,,,,
+14,51,Ben Gibson,Norwich City,0.05,0.1,Saved,10.0,Head,,Billy Gilmour,Pass (Dead),,
+15,51,Kenny McLean,Norwich City,0.24,,Off Target,17.0,Left Foot,,,,,
+16,52,Emi Buendía,Aston Villa,0.03,,Blocked,30.0,Right Foot,,John McGinn,Pass (Dead),,
+17,54,Matt Targett,Aston Villa,0.04,,Off Target,21.0,Right Foot,,Matty Cash,Pass (Live),Emi Buendía,Pass (Live)
+18,55,Ollie Watkins,Aston Villa,0.12,0.11,Saved,5.0,Head,,John McGinn,Pass (Live),Matty Cash,Pass (Live)
+19,60,Ollie Watkins,Aston Villa,0.03,,Blocked,19.0,Right Foot,,Jacob Ramsey,Pass (Live),John McGinn,Pass (Live)
+20,72,Adam Idah,Norwich City,0.03,0.03,Saved,15.0,Head,,Billy Gilmour,Pass (Dead),Przemysław Płacheta,Fouled
+21,75,Emi Buendía,Aston Villa,0.11,,Blocked,15.0,Right Foot,,Ollie Watkins,Pass (Live),John McGinn,Pass (Live)
+22,82,Jakob Sørensen,Norwich City,0.06,,Blocked,7.0,Head,,Kieran Dowell,Pass (Live),Billy Gilmour,Pass (Live)
+23,87,Ollie Watkins,Aston Villa,0.92,0.96,Goal,3.0,Right Foot,,Carney Chukwuemeka,Pass (Live),Matty Cash,Pass (Live)
+24,90+5,Jacob Ramsey,Aston Villa,0.11,0.22,Saved,12.0,Left Foot,,Ollie Watkins,Pass (Live),Douglas Luiz,Pass (Live)

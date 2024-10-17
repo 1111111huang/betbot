@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,John McGinn,Aston Villa,0.03,,Blocked,28.0,Left Foot,,Ollie Watkins,Pass (Live),Matt Targett,Pass (Live)
+1,4,Jack Grealish,Aston Villa,0.31,0.38,Goal,7.0,Right Foot,,John McGinn,Pass (Live),,
+2,8,Ivan Cavaleiro,Fulham,0.03,,Blocked,18.0,Right Foot,,Tom Cairney,Pass (Live),Joe Bryan,Pass (Live)
+3,12,Aleksandar Mitrović,Fulham,0.05,0.08,Saved,11.0,Head,Deflected,Kenny Tete,Pass (Live),Denis Odoi,Pass (Live)
+4,14,Aleksandar Mitrović,Fulham,0.05,,Off Target,6.0,Head,,Kenny Tete,Pass (Live),Denis Odoi,Pass (Live)
+5,15,Conor Hourihane,Aston Villa,0.42,0.95,Goal,9.0,Right Foot,,John McGinn,Pass (Live),Jack Grealish,Pass (Live)
+6,17,Ivan Cavaleiro,Fulham,0.03,,Off Target,15.0,Head,,Andre-Frank Zambo Anguissa,Pass (Live),Kenny Tete,Pass (Live)
+7,19,Aleksandar Mitrović,Fulham,0.05,,Off Target,9.0,Head,,Joe Bryan,Pass (Live),Tom Cairney,Pass (Live)
+8,32,Ivan Cavaleiro,Fulham,0.03,,Off Target,28.0,Right Foot,,,,,
+9,35,Ollie Watkins,Aston Villa,0.04,,Off Target,19.0,Right Foot,,Ollie Watkins,Take-On,Jack Grealish,Pass (Live)
+10,45+1,Conor Hourihane,Aston Villa,0.02,,Off Target,31.0,Left Foot,,John McGinn,Pass (Live),Matty Cash,Pass (Live)
+11,45+2,Ollie Watkins,Aston Villa,0.16,,Off Target,6.0,Head,,Conor Hourihane,Pass (Live),Jack Grealish,Pass (Live)
+12,,,,,,,,,,,,,
+13,48,Tyrone Mings,Aston Villa,0.16,0.22,Goal,10.0,Left Foot,,Conor Hourihane,Pass (Dead),Jack Grealish,Fouled
+14,52,Jack Grealish,Aston Villa,0.04,,Blocked,17.0,Right Foot,,Matty Cash,Pass (Live),John McGinn,Pass (Live)
+15,53,John McGinn,Aston Villa,0.05,0.06,Saved,12.0,Left Foot,,Jack Grealish,Pass (Live),Ollie Watkins,Pass (Live)
+16,60,Aleksandar Mitrović,Fulham,0.08,,Off Target,8.0,Head,,Tom Cairney,Pass (Live),Joe Bryan,Pass (Dead)
+17,62,Aleksandar Mitrović,Fulham,0.07,,Off Target,9.0,Head,,Aboubakar Kamara,Pass (Live),Denis Odoi,Pass (Live)
+18,63,Bobby Reid,Fulham,0.06,,Blocked,17.0,Right Foot,,Bobby Reid,Take-On,Aboubakar Kamara,Pass (Live)
+19,64,Aleksandar Mitrović,Fulham,0.06,,Off Target,11.0,Head,,Denis Odoi,Pass (Live),Aboubakar Kamara,Pass (Live)
+20,66,Jack Grealish,Aston Villa,0.05,,Off Target,8.0,Right Foot,Volley,Matty Cash,Pass (Live),John McGinn,Pass (Live)
+21,67,Andre-Frank Zambo Anguissa,Fulham,0.04,,Blocked,18.0,Left Foot,,Aleksandar Mitrović,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+22,68,Joe Bryan,Fulham,0.03,,Off Target,27.0,Left Foot,,Aboubakar Kamara,Pass (Live),Joe Bryan,Pass (Live)
+23,82,Trézéguet,Aston Villa,0.05,,Blocked,16.0,Right Foot,,Jacob Ramsey,Fouled,Jack Grealish,Pass (Live)
+24,84,Neeskens Kebano,Fulham,0.03,,Blocked,29.0,Right Foot,,Ivan Cavaleiro,Pass (Live),Neeskens Kebano,Pass (Live)
+25,86,Tyrone Mings,Aston Villa,0.1,0.18,Saved,10.0,Head,,John McGinn,Pass (Dead),Matt Targett,Fouled
+26,90,Ivan Cavaleiro,Fulham,0.03,,Blocked,21.0,Right Foot,,Tom Cairney,Pass (Live),Joe Bryan,Pass (Live)
+27,90,Joe Bryan,Fulham,0.04,0.22,Saved,16.0,Left Foot,,Ivan Cavaleiro,Shot,,
+28,90+1,Tom Cairney,Fulham,0.03,,Off Target,24.0,Left Foot,,Aboubakar Kamara,Fouled,Joe Bryan,Shot

@@ -1,0 +1,16 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,16,Ryan Christie,Bournemouth,0.02,,Blocked,29.0,Left Foot,,Alex Scott,Pass (Live),Ryan Christie,Pass (Live)
+1,26,Jean-Philippe Mateta,Crystal Palace,0.12,0.24,Saved,17.0,Right Foot,,Eberechi Eze,Pass (Live),Will Hughes,Tackle
+2,28,Philip Billing,Bournemouth,0.05,,Off Target,16.0,Left Foot,,Dango Ouattara,Pass (Live),Philip Billing,Pass (Live)
+3,34,Jordan Ayew,Crystal Palace,0.03,0.03,Saved,18.0,Right Foot,,Eberechi Eze,Pass (Live),Eberechi Eze,Take-On
+4,36,Philip Billing,Bournemouth,0.03,0.25,Saved,36.0,Left Foot,Free kick,Ryan Christie,Fouled,Marcus Tavernier,Pass (Live)
+5,37,Philip Billing,Bournemouth,0.09,0.07,Saved,10.0,Head,,Adam Smith,Pass (Live),Lewis Cook,Pass (Live)
+6,38,Lloyd Kelly,Bournemouth,0.14,,Off Target,5.0,Head,,Philip Billing,Pass (Dead),Philip Billing,Shot
+7,45,Philip Billing,Bournemouth,0.14,,Blocked,23.0,Left Foot,Free kick,Alex Scott,Fouled,,
+8,,,,,,,,,,,,,
+9,66,Milos Kerkez,Bournemouth,0.03,0.17,Saved,32.0,Left Foot,,Antoine Semenyo,Pass (Live),Lewis Cook,Pass (Live)
+10,66,Dominic Solanke,Bournemouth,0.1,,Off Target,6.0,Right Foot,,Milos Kerkez,Shot,,
+11,79,Justin Kluivert,Bournemouth,0.36,0.61,Goal,13.0,Left Foot,,Antoine Semenyo,Pass (Live),Adam Smith,Pass (Live)
+12,83,Antoine Semenyo,Bournemouth,0.11,0.15,Saved,10.0,Left Foot,,Milos Kerkez,Pass (Live),Marcus Tavernier,Pass (Live)
+13,90+2,Justin Kluivert,Bournemouth,0.03,0.13,Saved,25.0,Right Foot,,Enes Ünal,Pass (Live),Antoine Semenyo,Pass (Live)
+14,90+4,Joachim Andersen,Crystal Palace,0.03,,Off Target,10.0,Head,,,,,

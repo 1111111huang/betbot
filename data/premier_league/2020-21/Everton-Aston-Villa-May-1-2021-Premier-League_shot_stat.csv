@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Alex Iwobi,Everton,0.05,,Blocked,20.0,Left Foot,,Richarlison,Pass (Live),Gylfi Sigurðsson,Pass (Live)
+1,6,John McGinn,Aston Villa,0.03,,Off Target,30.0,Left Foot,,Bertrand Traoré,Pass (Live),John McGinn,Pass (Live)
+2,13,Ollie Watkins,Aston Villa,0.33,0.9,Goal,14.0,Right Foot,,Ollie Watkins,Take-On,,
+3,19,Dominic Calvert-Lewin,Everton,0.09,0.04,Goal,4.0,Head,,Lucas Digne,Pass (Dead),Allan,Pass (Live)
+4,22,John McGinn,Aston Villa,0.03,,Blocked,26.0,Left Foot,,Tyrone Mings,Pass (Live),Tyrone Mings,Interception
+5,23,Gylfi Sigurðsson,Everton,0.03,,Blocked,28.0,Right Foot,,Allan,Pass (Live),André Gomes,Pass (Live)
+6,23,Dominic Calvert-Lewin,Everton,0.31,0.13,Saved,8.0,Head,,Lucas Digne,Pass (Live),André Gomes,Pass (Live)
+7,28,Ross Barkley,Aston Villa,0.06,,Off Target,27.0,Right Foot,Free kick,Bertrand Traoré,Fouled,John McGinn,Pass (Live)
+8,29,Bertrand Traoré,Aston Villa,0.24,0.29,Saved,13.0,Left Foot,,John McGinn,Pass (Live),Matt Targett,Pass (Live)
+9,29,Bertrand Traoré,Aston Villa,0.03,0.28,Saved,18.0,Left Foot,,Bertrand Traoré,Shot,,
+10,32,Ollie Watkins,Aston Villa,0.4,0.2,Saved,5.0,Right Foot,Volley,Matty Cash,Pass (Live),Ollie Watkins,Pass (Live)
+11,32,Anwar El Ghazi,Aston Villa,0.45,,Woodwork,9.0,Right Foot,,Ollie Watkins,Shot,,
+12,33,Gylfi Sigurðsson,Everton,0.03,,Off Target,27.0,Left Foot,,Alex Iwobi,Pass (Live),André Gomes,Pass (Live)
+13,35,Gylfi Sigurðsson,Everton,0.07,,Blocked,16.0,Right Foot,,Lucas Digne,Pass (Live),André Gomes,Pass (Live)
+14,37,Ross Barkley,Aston Villa,0.05,,Woodwork,29.0,Left Foot,,Bertrand Traoré,Pass (Live),Bertrand Traoré,Take-On
+15,42,Séamus Coleman,Everton,0.03,,Off Target,32.0,Right Foot,,André Gomes,Pass (Live),,
+16,43,Ollie Watkins,Aston Villa,0.06,,Blocked,13.0,Left Foot,,Ross Barkley,Pass (Live),Douglas Luiz,Pass (Live)
+17,45+2,Richarlison,Everton,0.1,,Blocked,15.0,Left Foot,,Richarlison,Take-On,Séamus Coleman,Pass (Live)
+18,45+4,Gylfi Sigurðsson,Everton,0.07,,Blocked,15.0,Right Foot,,Lucas Digne,Pass (Live),Alex Iwobi,Pass (Live)
+19,,,,,,,,,,,,,
+20,51,Ollie Watkins,Aston Villa,0.07,,Blocked,18.0,Right Foot,,Ross Barkley,Pass (Live),Ross Barkley,Take-On
+21,53,Alex Iwobi,Everton,0.03,,Off Target,22.0,Right Foot,,,,,
+22,54,Allan,Everton,0.04,,Off Target,19.0,Right Foot,,Séamus Coleman,Pass (Live),,
+23,55,Richarlison,Everton,0.05,,Off Target,12.0,Left Foot,,,,,
+24,62,Richarlison,Everton,0.05,0.06,Saved,16.0,Left Foot,Volley,Allan,Pass (Live),Alex Iwobi,Pass (Live)
+25,79,Dominic Calvert-Lewin,Everton,0.03,,Off Target,29.0,Right Foot,,Bernard,Pass (Live),Séamus Coleman,Pass (Live)
+26,80,Anwar El Ghazi,Aston Villa,0.04,0.14,Goal,22.0,Right Foot,,Bertrand Traoré,Pass (Live),John McGinn,Pass (Live)
+27,84,Bertrand Traoré,Aston Villa,0.03,,Off Target,31.0,Left Foot,,John McGinn,Pass (Live),Bertrand Traoré,Pass (Live)
+28,85,Joshua King,Everton,0.04,,Off Target,25.0,Right Foot,,Fabian Delph,Pass (Live),Allan,Pass (Live)
+29,90+3,Lucas Digne,Everton,0.02,,Blocked,25.0,Left Foot,,Bernard,Pass (Live),Fabian Delph,Fouled

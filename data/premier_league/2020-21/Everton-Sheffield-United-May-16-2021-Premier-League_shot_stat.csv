@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Daniel Jebbison,Sheffield Utd,0.6,0.68,Goal,6.0,Right Foot,,Jack Robinson,Pass (Live),Jack Robinson,Take-On
+1,11,Dominic Calvert-Lewin,Everton,0.03,,Blocked,26.0,Right Foot,Deflected,Richarlison,Pass (Live),Dominic Calvert-Lewin,Tackle
+2,11,Allan,Everton,0.03,0.12,Saved,22.0,Right Foot,,Dominic Calvert-Lewin,Shot,,
+3,16,David McGoldrick,Sheffield Utd,0.03,,Off Target,30.0,Right Foot,,Ben Osborn,Pass (Live),David McGoldrick,Pass (Live)
+4,20,Dominic Calvert-Lewin,Everton,0.05,0.02,Saved,14.0,Head,,Lucas Digne,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+5,29,David McGoldrick,Sheffield Utd,0.03,,Blocked,27.0,Left Foot,,Daniel Jebbison,Pass (Live),David McGoldrick,Pass (Live)
+6,29,John Fleck,Sheffield Utd,0.02,0.06,Saved,29.0,Left Foot,,David McGoldrick,Shot,,
+7,34,Daniel Jebbison,Sheffield Utd,0.17,0.32,Saved,23.0,Right Foot,,,,,
+8,34,Daniel Jebbison,Sheffield Utd,0.1,,Blocked,11.0,Left Foot,,Ben Osborn,Pass (Live),Daniel Jebbison,Shot
+9,37,James Rodríguez,Everton,0.07,,Blocked,17.0,Left Foot,,Allan,Pass (Live),Mason Holgate,Pass (Live)
+10,40,Richarlison,Everton,0.24,0.45,Saved,10.0,Head,,James Rodríguez,Pass (Live),Michael Keane,Pass (Live)
+11,40,Dominic Calvert-Lewin,Everton,0.7,0.87,Saved,4.0,Right Foot,,Richarlison,Shot,,
+12,41,Ben Godfrey,Everton,0.05,,Off Target,7.0,Head,,James Rodríguez,Pass (Dead),Dominic Calvert-Lewin,Shot
+13,45+2,Richarlison,Everton,0.07,,Off Target,16.0,Right Foot,Volley,Michael Keane,Pass (Live),Allan,Pass (Live)
+14,,,,,,,,,,,,,
+15,54,Dominic Calvert-Lewin,Everton,0.06,,Blocked,15.0,Right Foot,,Gylfi Sigurðsson,Pass (Live),Michael Keane,Pass (Live)
+16,64,John Egan,Sheffield Utd,0.08,,Off Target,10.0,Head,,Oliver Norwood,Pass (Dead),John Fleck,Fouled
+17,71,Richarlison,Everton,0.04,0.09,Saved,15.0,Left Foot,,Gylfi Sigurðsson,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+18,71,Michael Keane,Everton,0.03,0.02,Saved,16.0,Head,,Séamus Coleman,Pass (Live),Allan,Pass (Live)
+19,73,Ben Godfrey,Everton,0.02,,Off Target,32.0,Right Foot,,Allan,Pass (Live),Lucas Digne,Pass (Live)
+20,76,Gylfi Sigurðsson,Everton,0.05,,Off Target,14.0,Head,,Lucas Digne,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+21,77,David McGoldrick,Sheffield Utd,0.13,,Blocked,10.0,Left Foot,,Enda Stevens,Pass (Live),Ben Osborn,Pass (Live)
+22,77,John Egan,Sheffield Utd,0.03,,Blocked,12.0,Head,,John Fleck,Pass (Dead),David McGoldrick,Shot
+23,80,Ben Osborn,Sheffield Utd,0.02,,Off Target,27.0,Left Foot,,,,,
+24,89,Gylfi Sigurðsson,Everton,0.04,,Blocked,23.0,Right Foot,,Michael Keane,Pass (Live),Ben Godfrey,Pass (Live)
+25,90+1,Richarlison,Everton,0.05,,Blocked,12.0,Right Foot,,Bernard,Pass (Live),André Gomes,Pass (Live)
+26,90+2,Ben Godfrey,Everton,0.06,,Off Target,11.0,Head,,Gylfi Sigurðsson,Pass (Dead),Richarlison,Shot

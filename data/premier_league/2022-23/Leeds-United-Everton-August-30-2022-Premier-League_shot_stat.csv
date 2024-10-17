@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,17.0,Anthony Gordon,Everton,0.28,0.24,Goal,13.0,Left Foot,,Dwight McNeil,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+1,24.0,Rodrigo,Leeds United,0.03,,Off Target,14.0,Head,,Brenden Aaronson,Pass (Live),Rasmus Kristensen,Pass (Live)
+2,32.0,Demarai Gray,Everton,0.04,,Blocked,23.0,Right Foot,Free kick,Anthony Gordon,Fouled,Vitaliy Mykolenko,Pass (Live)
+3,33.0,Vitaliy Mykolenko,Everton,0.02,,Blocked,30.0,Left Foot,Volley,Demarai Gray,Shot,,
+4,33.0,Tom Davies,Everton,0.02,,Off Target,28.0,Right Foot,Volley,Vitaliy Mykolenko,Shot,,
+5,43.0,Robin Koch,Leeds United,0.03,,Off Target,32.0,Right Foot,,Luis Sinisterra,Pass (Live),Jack Harrison,Pass (Dead)
+6,,,,,,,,,,,,,
+7,46.0,Brenden Aaronson,Leeds United,0.05,0.07,Saved,15.0,Right Foot,,Jack Harrison,Pass (Live),Pascal Struijk,Pass (Live)
+8,49.0,Diego Llorente,Leeds United,0.02,,Off Target,12.0,Head,,Jack Harrison,Pass (Dead),Brenden Aaronson,Pass (Dead)
+9,51.0,Jack Harrison,Leeds United,0.16,0.03,Saved,14.0,Right Foot,,,,,
+10,56.0,Luis Sinisterra,Leeds United,0.02,0.26,Goal,26.0,Left Foot,,Brenden Aaronson,Pass (Live),Joe Gelhardt,Pass (Live)
+11,63.0,Robin Koch,Leeds United,0.01,0.02,Saved,8.0,Head,,Brenden Aaronson,Pass (Live),Jack Harrison,Pass (Dead)
+12,64.0,Dwight McNeil,Everton,0.06,,Off Target,26.0,Left Foot,,Anthony Gordon,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+13,68.0,Joe Gelhardt,Leeds United,0.08,,Off Target,15.0,Left Foot,,Rasmus Kristensen,Take-On,Mateusz Klich,Pass (Live)
+14,73.0,Diego Llorente,Leeds United,0.04,,Off Target,10.0,Head,,Jack Harrison,Pass (Dead),Marc Roca,Pass (Live)
+15,74.0,Joe Gelhardt,Leeds United,0.28,0.44,Saved,11.0,Right Foot,,Jack Harrison,Pass (Live),Marc Roca,Pass (Live)
+16,74.0,Mateusz Klich,Leeds United,0.02,,Blocked,24.0,Right Foot,,Marc Roca,Pass (Live),Jack Harrison,Pass (Live)
+17,79.0,Amadou Onana,Everton,0.42,,Blocked,3.0,Left Foot,Volley,Dwight McNeil,Pass (Dead),Anthony Gordon,Pass (Live)
+18,81.0,Daniel James,Leeds United,0.11,,Off Target,14.0,Left Foot,,Rasmus Kristensen,Pass (Live),Mateusz Klich,Pass (Live)
+19,84.0,Nathan Patterson,Everton,0.15,0.17,Saved,11.0,Right Foot,,Anthony Gordon,Pass (Live),Demarai Gray,Pass (Live)
+20,85.0,Jack Harrison,Leeds United,0.04,,Off Target,29.0,Left Foot,,Marc Roca,Tackle,,
+21,90.0,Patrick Bamford,Leeds United,0.09,,Off Target,12.0,Left Foot,Volley,Pascal Struijk,Pass (Live),Jack Harrison,Pass (Live)

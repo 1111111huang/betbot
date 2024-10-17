@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Antoine Semenyo,Bournemouth,0.01,,Off Target,17.0,Other,,Marcos Senesi,Pass (Live),Illia Zabarnyi,Pass (Live)
+1,12,Marcus Tavernier,Bournemouth,0.53,0.5,Goal,11.0,Left Foot,,Antoine Semenyo,Pass (Live),Adam Smith,Pass (Live)
+2,14,Marcus Tavernier,Bournemouth,0.07,0.13,Saved,12.0,Left Foot,Deflected,Marcus Tavernier,Pass (Live),Illia Zabarnyi,Pass (Live)
+3,19,Justin Kluivert,Bournemouth,0.04,,Off Target,23.0,Right Foot,,Lloyd Kelly,Pass (Live),,
+4,21,Dominic Solanke,Bournemouth,0.06,,Off Target,8.0,Left Foot,,Marcus Tavernier,Pass (Live),Lloyd Kelly,Pass (Live)
+5,23,Marcus Tavernier,Bournemouth,0.01,0.06,Saved,24.0,Left Foot,Volley,Justin Kluivert,Pass (Live),Lloyd Kelly,Pass (Dead)
+6,26,Justin Kluivert,Bournemouth,0.03,0.05,Saved,18.0,Right Foot,,Dominic Solanke,Pass (Live),Ryan Christie,Pass (Live)
+7,28,Dominic Solanke,Bournemouth,0.08,,Off Target,9.0,Right Foot,,Lloyd Kelly,Pass (Live),Lloyd Kelly,Take-On
+8,29,Dominic Solanke,Bournemouth,0.04,,Blocked,22.0,Left Foot,,Justin Kluivert,Pass (Live),,
+9,36,Luke Thomas,Sheffield Utd,0.02,,Off Target,17.0,Left Foot,Volley,,,,
+10,44,Oliver Norwood,Sheffield Utd,0.03,,Blocked,28.0,Right Foot,,Cameron Archer,Pass (Live),Cameron Archer,Take-On
+11,45+1,Marcus Tavernier,Bournemouth,0.21,,Off Target,10.0,Left Foot,,Antoine Semenyo,Take-On,Lloyd Kelly,Pass (Live)
+12,45+3,Justin Kluivert,Bournemouth,0.25,0.83,Goal,18.0,Right Foot,,Justin Kluivert,Tackle,,
+13,,,,,,,,,,,,,
+14,46,Antoine Semenyo,Bournemouth,0.02,,Blocked,21.0,Left Foot,,Antoine Semenyo,Take-On,Adam Smith,Pass (Dead)
+15,51,Marcus Tavernier,Bournemouth,0.38,0.83,Goal,6.0,Left Foot,,Adam Smith,Pass (Live),Antoine Semenyo,Pass (Live)
+16,54,Antoine Semenyo,Bournemouth,0.04,0.16,Saved,23.0,Left Foot,Deflected,,,,
+17,54,Dominic Solanke,Bournemouth,0.46,,Off Target,5.0,Right Foot,,Antoine Semenyo,Shot,,
+18,54,Oliver McBurnie,Sheffield Utd,0.09,,Off Target,15.0,Right Foot,Volley,George Baldock,Pass (Live),Cameron Archer,Pass (Live)
+19,60,Oliver McBurnie,Sheffield Utd,0.15,,Blocked,10.0,Right Foot,,George Baldock,Pass (Live),Anel Ahmedhodžić,Pass (Live)
+20,60,James Mcatee,Sheffield Utd,0.09,,Off Target,17.0,Left Foot,,Oliver McBurnie,Shot,,
+21,61,Justin Kluivert,Bournemouth,0.06,0.29,Saved,17.0,Left Foot,,,,,
+22,63,Ryan Christie,Bournemouth,0.1,0.35,Saved,10.0,Left Foot,,Marcus Tavernier,Pass (Live),Justin Kluivert,Pass (Live)
+23,68,Philip Billing,Bournemouth,0.14,,Off Target,17.0,Left Foot,Volley,Milos Kerkez,Pass (Live),Dominic Solanke,Pass (Live)
+24,74,Luis Sinisterra,Bournemouth,0.14,,Off Target,10.0,Right Foot,,Luis Sinisterra,Take-On,Lewis Cook,Pass (Live)
+25,78,Marcus Tavernier,Bournemouth,0.02,0.17,Saved,30.0,Left Foot,,Milos Kerkez,Pass (Live),Marcos Senesi,Pass (Live)
+26,81,Luis Sinisterra,Bournemouth,0.03,0.03,Saved,27.0,Left Foot,,Philip Billing,Pass (Live),Dominic Solanke,Pass (Live)
+27,83,William Osula,Sheffield Utd,0.05,,Blocked,13.0,Right Foot,Volley,Oliver Norwood,Pass (Live),,
+28,84,Oliver McBurnie,Sheffield Utd,0.02,,Off Target,13.0,Head,,Oliver Norwood,Pass (Dead),William Osula,Shot
+29,85,William Osula,Sheffield Utd,0.02,,Blocked,13.0,Head,,Ben Osborn,Pass (Live),John Fleck,Pass (Live)
+30,87,Luis Sinisterra,Bournemouth,0.06,,Off Target,7.0,Head,,Lewis Cook,Pass (Dead),Philip Billing,Pass (Live)
+31,88,William Osula,Sheffield Utd,0.04,0.17,Saved,14.0,Right Foot,,,,,
+32,90+3,Milos Kerkez,Bournemouth,0.09,,Off Target,16.0,Left Foot,,Philip Billing,Pass (Live),Luis Sinisterra,Pass (Live)
+33,90+7,Oliver McBurnie,Sheffield Utd,0.27,0.66,Goal,8.0,Head,,George Baldock,Pass (Live),Oliver Norwood,Pass (Live)

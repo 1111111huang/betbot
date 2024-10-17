@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8.0,Teemu Pukki,Norwich City,0.32,0.43,Saved,14.0,Right Foot,,Teemu Pukki,Take-On,,
+1,10.0,Chris Wood,Burnley,0.38,0.63,Goal,3.0,Head,,Ashley Westwood,Pass (Dead),Jeff Hendrick,Fouled
+2,14.0,Chris Wood,Burnley,0.59,0.81,Goal,4.0,Left Foot,,Dwight McNeil,Pass (Live),Jack Cork,Pass (Live)
+3,18.0,Jack Cork,Burnley,0.12,0.11,Saved,10.0,Right Foot,Volley,Ashley Westwood,Pass (Dead),Chris Wood,Fouled
+4,19.0,Ashley Barnes,Burnley,0.07,0.26,Saved,9.0,Head,,Ashley Westwood,Pass (Dead),Jack Cork,Shot
+5,22.0,Moritz Leitner,Norwich City,0.03,,Woodwork,28.0,Right Foot,,Todd Cantwell,Pass (Live),Emi Buendía,Pass (Live)
+6,25.0,Ashley Barnes,Burnley,0.04,,Blocked,13.0,Left Foot,Volley,Ashley Westwood,Pass (Live),,
+7,34.0,Jeff Hendrick,Burnley,0.02,0.05,Saved,28.0,Right Foot,,Matthew Lowton,Pass (Live),Ashley Westwood,Pass (Dead)
+8,35.0,Todd Cantwell,Norwich City,0.08,,Off Target,10.0,Head,,,,,
+9,38.0,Emi Buendía,Norwich City,0.11,,Blocked,11.0,Left Foot,,Emi Buendía,Take-On,Moritz Leitner,Pass (Live)
+10,42.0,Teemu Pukki,Norwich City,0.09,,Off Target,10.0,Head,,Jamal Lewis,Pass (Live),Marco Stiepermann,Pass (Live)
+11,,,,,,,,,,,,,
+12,46.0,Emi Buendía,Norwich City,0.04,,Off Target,23.0,Right Foot,,Moritz Leitner,Pass (Live),Todd Cantwell,Pass (Live)
+13,57.0,Ashley Westwood,Burnley,0.15,,Blocked,21.0,Right Foot,Free kick,Chris Wood,Fouled,Dwight McNeil,Pass (Live)
+14,60.0,Ashley Barnes,Burnley,0.07,,Off Target,21.0,Left Foot,,Chris Wood,Pass (Live),Ashley Barnes,Pass (Live)
+15,67.0,Jeff Hendrick,Burnley,0.04,,Blocked,22.0,Right Foot,,Jack Cork,Pass (Live),Erik Pieters,Pass (Live)
+16,67.0,Chris Wood,Burnley,0.39,0.31,Saved,10.0,Left Foot,,Dwight McNeil,Pass (Live),Dwight McNeil,Take-On
+17,68.0,Teemu Pukki,Norwich City,0.04,0.12,Saved,20.0,Right Foot,Deflected,Marco Stiepermann,Pass (Live),Emi Buendía,Pass (Live)
+18,68.0,Ashley Barnes,Burnley,0.04,,Off Target,13.0,Head,,Matthew Lowton,Pass (Live),Ashley Westwood,Pass (Live)
+19,70.0,Ashley Barnes,Burnley,0.04,,Blocked,22.0,Right Foot,,Erik Pieters,Pass (Live),Ashley Westwood,Pass (Live)
+20,70.0,Todd Cantwell,Norwich City,0.05,,Blocked,13.0,Right Foot,,Moritz Leitner,Pass (Live),Teemu Pukki,Pass (Live)
+21,75.0,Moritz Leitner,Norwich City,0.03,,Off Target,23.0,Right Foot,,Jamal Lewis,Pass (Live),Marco Stiepermann,Pass (Live)
+22,82.0,Chris Wood,Burnley,0.07,,Blocked,10.0,Head,,Matthew Lowton,Pass (Live),Aaron Lennon,Pass (Live)
+23,83.0,Teemu Pukki,Norwich City,0.03,,Blocked,31.0,Right Foot,,Emi Buendía,Pass (Live),Kenny McLean,Pass (Live)
+24,84.0,Moritz Leitner,Norwich City,0.03,,Off Target,24.0,Right Foot,,Emi Buendía,Pass (Live),Todd Cantwell,Pass (Live)

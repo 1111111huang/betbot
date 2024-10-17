@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Erik Pieters,Burnley,0.03,,Off Target,28.0,Left Foot,,Chris Wood,Pass (Live),,
+1,5,Dani Ceballos,Arsenal,0.03,,Off Target,26.0,Right Foot,,Reiss Nelson,Pass (Live),Dani Ceballos,Pass (Live)
+2,12,Alexandre Lacazette,Arsenal,0.12,0.07,Saved,9.0,Head,,Sokratis Papastathopoulos,Pass (Live),,Fouled
+3,13,Alexandre Lacazette,Arsenal,0.12,0.21,Goal,5.0,Right Foot,,Dani Ceballos,Pass (Dead),Alexandre Lacazette,Shot
+4,14,Ashley Barnes,Burnley,0.05,,Off Target,15.0,Left Foot,Volley,Nick Pope,Pass (Live),Ben Mee,Pass (Live)
+5,18,James Tarkowski,Burnley,0.03,,Blocked,11.0,Head,,Jóhann Berg Guðmundsson,Pass (Dead),Jóhann Berg Guðmundsson,Pass (Live)
+6,20,Jack Cork,Burnley,0.18,,Blocked,8.0,Right Foot,Deflected,Dwight McNeil,Pass (Dead),Dwight McNeil,Fouled
+7,20,Ben Mee,Burnley,0.04,0.18,Saved,13.0,Head,,Jóhann Berg Guðmundsson,Pass (Live),Jack Cork,Shot
+8,25,Jack Cork,Burnley,0.03,,Blocked,31.0,Right Foot,,,,,
+9,28,Dwight McNeil,Burnley,0.02,,Blocked,21.0,Right Foot,,Jóhann Berg Guðmundsson,Pass (Live),Matthew Lowton,Pass (Live)
+10,35,Reiss Nelson,Arsenal,0.05,0.09,Saved,14.0,Left Foot,,Nacho Monreal,Pass (Live),Nacho Monreal,Take-On
+11,35,Joe Willock,Arsenal,0.04,,Blocked,20.0,Right Foot,,Reiss Nelson,Shot,,
+12,38,Ashley Barnes,Burnley,0.08,0.07,Saved,10.0,Head,,Ben Mee,Pass (Live),Dwight McNeil,Pass (Dead)
+13,41,Mattéo Guendouzi,Arsenal,0.06,0.07,Saved,14.0,Right Foot,,Dani Ceballos,Pass (Live),Joe Willock,Pass (Live)
+14,43,Reiss Nelson,Arsenal,0.06,,Blocked,18.0,Right Foot,,Pierre-Emerick Aubameyang,Pass (Live),Alexandre Lacazette,Pass (Live)
+15,43,Dwight McNeil,Burnley,0.04,,Blocked,24.0,Left Foot,,Dwight McNeil,Take-On,Chris Wood,Pass (Live)
+16,43,Ashley Barnes,Burnley,0.46,0.67,Goal,9.0,Right Foot,,Dwight McNeil,Shot,,
+17,,,,,,,,,,,,,
+18,51,Pierre-Emerick Aubameyang,Arsenal,0.04,,Off Target,23.0,Right Foot,,Nacho Monreal,Pass (Live),Dani Ceballos,Pass (Live)
+19,53,Dwight McNeil,Burnley,0.03,,Off Target,19.0,Left Foot,,,,,
+20,55,Dani Ceballos,Arsenal,0.03,,Blocked,27.0,Right Foot,,Nicolas Pépé,Pass (Live),Alexandre Lacazette,Pass (Live)
+21,58,Ainsley Maitland-Niles,Arsenal,0.02,,Off Target,26.0,Right Foot,,Joe Willock,Pass (Live),Dani Ceballos,Pass (Dead)
+22,60,Pierre-Emerick Aubameyang,Arsenal,0.1,0.04,Saved,12.0,Right Foot,,Nicolas Pépé,Pass (Live),Alexandre Lacazette,Pass (Live)
+23,61,Ashley Westwood,Burnley,0.08,,Off Target,7.0,Head,,Dwight McNeil,Pass (Live),Jóhann Berg Guðmundsson,Pass (Live)
+24,63,Dani Ceballos,Arsenal,0.03,0.36,Saved,27.0,Right Foot,,Alexandre Lacazette,Pass (Live),Ainsley Maitland-Niles,Pass (Live)
+25,64,Pierre-Emerick Aubameyang,Arsenal,0.04,0.15,Goal,20.0,Right Foot,,Dani Ceballos,Tackle,,
+26,68,Ashley Barnes,Burnley,0.22,0.07,Saved,6.0,Head,,Jóhann Berg Guðmundsson,Pass (Dead),Jóhann Berg Guðmundsson,Pass (Live)
+27,71,Matthew Lowton,Burnley,0.03,,Off Target,24.0,Right Foot,,Ashley Westwood,Pass (Live),Erik Pieters,Pass (Dead)
+28,71,Dwight McNeil,Burnley,0.06,,Off Target,6.0,Head,,Jóhann Berg Guðmundsson,Pass (Live),Matthew Lowton,Shot
+29,74,Ashley Barnes,Burnley,0.04,,Off Target,17.0,Head,,Matthew Lowton,Pass (Live),Ashley Westwood,Pass (Dead)
+30,75,Ben Mee,Burnley,0.04,,Off Target,12.0,Head,,Ashley Westwood,Pass (Dead),Aaron Lennon,Fouled
+31,76,Nicolas Pépé,Arsenal,0.03,0.1,Saved,26.0,Left Foot,,Ainsley Maitland-Niles,Pass (Live),Dani Ceballos,Pass (Live)
+32,90,Lucas Torreira,Arsenal,0.09,0.04,Saved,13.0,Right Foot,,Joe Willock,Pass (Live),Ainsley Maitland-Niles,Pass (Live)
+33,90+4,Jay Rodriguez,Burnley,0.05,,Off Target,10.0,Right Foot,Volley,Nick Pope,Pass (Live),Dwight McNeil,Pass (Dead)

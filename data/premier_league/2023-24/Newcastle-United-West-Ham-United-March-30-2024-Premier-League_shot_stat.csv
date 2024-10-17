@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Alexander Isak (pen),Newcastle Utd,0.79,0.99,Goal,13.0,Right Foot,,Anthony Gordon,Fouled,Anthony Gordon,Pass (Live)
+1,10,Alexander Isak,Newcastle Utd,0.07,,Off Target,16.0,Right Foot,Volley,Bruno Guimarães,Pass (Live),Jacob Murphy,Pass (Live)
+2,18,Michail Antonio,West Ham,0.04,,Off Target,26.0,Left Foot,,Michail Antonio,Take-On,Tomáš Souček,Pass (Live)
+3,20,Joe Willock,Newcastle Utd,0.06,,Blocked,10.0,Left Foot,,Anthony Gordon,Pass (Live),Jacob Murphy,Pass (Live)
+4,20,Anthony Gordon,Newcastle Utd,0.02,,Blocked,24.0,Right Foot,,Valentino Livramento,Pass (Live),Joe Willock,Shot
+5,21,Michail Antonio,West Ham,0.46,0.54,Goal,15.0,Right Foot,,Lucas Paquetá,Pass (Live),James Ward-Prowse,Pass (Live)
+6,24,Anthony Gordon,Newcastle Utd,0.05,0.12,Saved,17.0,Right Foot,,Jacob Murphy,Pass (Live),Bruno Guimarães,Pass (Live)
+7,25,Mohammed Kudus,West Ham,0.04,,Blocked,18.0,Right Foot,,,,,
+8,36,Anthony Gordon,Newcastle Utd,0.14,,Off Target,11.0,Head,,Jacob Murphy,Pass (Live),Sean Longstaff,Pass (Live)
+9,38,Jarrod Bowen,West Ham,0.08,0.08,Saved,16.0,Right Foot,,Lucas Paquetá,Fouled,,
+10,38,Anthony Gordon,Newcastle Utd,0.03,,Blocked,14.0,Right Foot,,Alexander Isak,Pass (Live),Bruno Guimarães,Pass (Live)
+11,44,Joe Willock,Newcastle Utd,0.06,,Off Target,15.0,Left Foot,,Bruno Guimarães,Pass (Live),Valentino Livramento,Pass (Live)
+12,45+1,Sean Longstaff,Newcastle Utd,0.05,0.05,Saved,10.0,Right Foot,,Jacob Murphy,Pass (Live),Alexander Isak,Pass (Live)
+13,45+4,Joe Willock,Newcastle Utd,0.04,0.13,Saved,26.0,Right Foot,,Bruno Guimarães,Pass (Live),Sean Longstaff,Pass (Live)
+14,45+5,Anthony Gordon,Newcastle Utd,0.06,,Blocked,16.0,Right Foot,,Joe Willock,Pass (Live),Valentino Livramento,Tackle
+15,45+5,Bruno Guimarães,Newcastle Utd,0.07,,Woodwork,24.0,Right Foot,,Jacob Murphy,Pass (Live),Bruno Guimarães,Pass (Live)
+16,45+7,Lucas Paquetá,West Ham,0.11,,Off Target,5.0,Head,,Tomáš Souček,Pass (Live),James Ward-Prowse,Pass (Live)
+17,45+10,Mohammed Kudus,West Ham,0.16,0.66,Goal,11.0,Right Foot,,Lucas Paquetá,Pass (Dead),Mohammed Kudus,Fouled
+18,,,,,,,,,,,,,
+19,48,Jarrod Bowen,West Ham,0.2,0.17,Goal,19.0,Right Foot,,Mohammed Kudus,Pass (Live),Mohammed Kudus,Take-On
+20,51,Jacob Murphy,Newcastle Utd,0.04,,Blocked,18.0,Left Foot,,Sean Longstaff,Pass (Live),Anthony Gordon,Pass (Live)
+21,53,Jarrod Bowen,West Ham,0.02,,Blocked,17.0,Right Foot,,Vladimír Coufal,Pass (Live),Łukasz Fabiański,Pass (Live)
+22,61,Jacob Murphy,Newcastle Utd,0.02,,Blocked,29.0,Right Foot,,Elliot Anderson,Pass (Live),Elliot Anderson,Pass (Live)
+23,63,Alexander Isak,Newcastle Utd,0.22,,Off Target,12.0,Left Foot,,Miguel Almirón,Pass (Live),Bruno Guimarães,Pass (Live)
+24,65,Sean Longstaff,Newcastle Utd,0.37,,Off Target,11.0,Right Foot,,Miguel Almirón,Pass (Live),Bruno Guimarães,Pass (Live)
+25,72,Harvey Barnes,Newcastle Utd,0.22,0.11,Saved,9.0,Left Foot,,Anthony Gordon,Pass (Live),Sean Longstaff,Pass (Live)
+26,74,Harvey Barnes,Newcastle Utd,0.12,0.09,Saved,10.0,Right Foot,,Jacob Murphy,Pass (Live),Fabian Schär,Pass (Live)
+27,74,Bruno Guimarães,Newcastle Utd,0.18,,Blocked,8.0,Left Foot,,Harvey Barnes,Shot,,
+28,77,Alexander Isak (pen),Newcastle Utd,0.79,1.0,Goal,13.0,Right Foot,,Anthony Gordon,Fouled,Bruno Guimarães,Shot
+29,83,Harvey Barnes,Newcastle Utd,0.57,0.67,Goal,13.0,Right Foot,,Alexander Isak,Pass (Live),Fabian Schär,Pass (Live)
+30,87,Bruno Guimarães,Newcastle Utd,0.01,,Blocked,27.0,Right Foot,,Harvey Barnes,Pass (Live),Bruno Guimarães,Pass (Live)
+31,89,Anthony Gordon,Newcastle Utd,0.05,,Off Target,12.0,Right Foot,,Jacob Murphy,Pass (Live),Sean Longstaff,Pass (Live)
+32,90,Harvey Barnes,Newcastle Utd,0.06,0.41,Goal,26.0,Right Foot,,Harvey Barnes,Take-On,Anthony Gordon,Pass (Live)
+33,90+7,Tomáš Souček,West Ham,0.22,,Off Target,4.0,Other,,Mohammed Kudus,Pass (Live),Lucas Paquetá,Pass (Live)
+34,90+10,Mohammed Kudus,West Ham,0.08,,Off Target,10.0,Right Foot,,Lucas Paquetá,Pass (Live),Ben Johnson,Pass (Live)

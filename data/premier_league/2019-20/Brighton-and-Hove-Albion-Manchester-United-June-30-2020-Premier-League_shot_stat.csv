@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6.0,Dale Stephens,Brighton,0.02,,Off Target,32.0,Right Foot,,Tariq Lamptey,Pass (Live),Yves Bissouma,Pass (Live)
+1,12.0,Bruno Fernandes,Manchester Utd,0.03,,Woodwork,27.0,Right Foot,,Paul Pogba,Pass (Live),Mason Greenwood,Pass (Live)
+2,12.0,Paul Pogba,Manchester Utd,0.05,,Blocked,15.0,Right Foot,,Bruno Fernandes,Shot,,
+3,16.0,Mason Greenwood,Manchester Utd,0.05,0.16,Goal,14.0,Left Foot,,Aaron Wan-Bissaka,Pass (Live),Victor Lindelöf,Pass (Live)
+4,21.0,Bruno Fernandes,Manchester Utd,0.08,,Off Target,24.0,Right Foot,Free kick,Paul Pogba,Fouled,Marcus Rashford,Pass (Live)
+5,23.0,Harry Maguire,Manchester Utd,0.04,,Off Target,10.0,Head,,Bruno Fernandes,Pass (Dead),,
+6,29.0,Bruno Fernandes,Manchester Utd,0.06,0.24,Goal,21.0,Right Foot,Deflected,Paul Pogba,Pass (Live),Marcus Rashford,Pass (Live)
+7,32.0,Alexis Mac Allister,Brighton,0.05,,Blocked,14.0,Right Foot,,Dale Stephens,Pass (Live),Alexis Mac Allister,Pass (Live)
+8,39.0,Marcus Rashford,Manchester Utd,0.05,,Off Target,23.0,Right Foot,,Marcus Rashford,Take-On,Harry Maguire,Pass (Live)
+9,,,,,,,,,,,,,
+10,50.0,Bruno Fernandes,Manchester Utd,0.43,0.5,Goal,9.0,Right Foot,Volley,Mason Greenwood,Pass (Live),Nemanja Matić,Pass (Live)
+11,60.0,Leandro Trossard,Brighton,0.05,,Off Target,14.0,Left Foot,,Alexis Mac Allister,Pass (Dead),Leandro Trossard,Fouled
+12,61.0,Leandro Trossard,Brighton,0.04,,Off Target,13.0,Right Foot,Volley,Alexis Mac Allister,Pass (Live),Martín Montoya,Pass (Live)
+13,66.0,Brandon Williams,Manchester Utd,0.06,,Blocked,12.0,Head,,Aaron Wan-Bissaka,Pass (Live),Mason Greenwood,Pass (Live)
+14,69.0,Aaron Connolly,Brighton,0.04,0.16,Saved,22.0,Right Foot,,Leandro Trossard,Pass (Live),Dale Stephens,Pass (Live)
+15,70.0,Leandro Trossard,Brighton,0.04,,Off Target,23.0,Right Foot,,,,,
+16,76.0,Shane Duffy,Brighton,0.09,,Off Target,8.0,Head,,Alexis Mac Allister,Pass (Dead),Leandro Trossard,Pass (Live)
+17,76.0,Neal Maupay,Brighton,0.05,0.13,Saved,15.0,Left Foot,Deflected,,,,
+18,84.0,Scott McTominay,Manchester Utd,0.03,0.02,Saved,25.0,Right Foot,"Deflected, Volley",Brandon Williams,Pass (Live),Andreas Pereira,Pass (Live)
+19,86.0,Daniel James,Manchester Utd,0.05,0.07,Saved,15.0,Right Foot,,Brandon Williams,Pass (Live),Nemanja Matić,Pass (Live)
+20,86.0,Daniel James,Manchester Utd,0.05,0.25,Saved,15.0,Right Foot,,Andreas Pereira,Pass (Live),Odion Ighalo,Pass (Live)

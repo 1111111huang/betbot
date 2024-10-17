@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Callum Wilson,Newcastle Utd,0.04,,Off Target,12.0,Head,,Jamal Lewis,Pass (Live),Allan Saint-Maximin,Pass (Live)
+1,14,Angelo Ogbonna,West Ham,0.05,,Woodwork,11.0,Head,,Mark Noble,Pass (Dead),Michail Antonio,Fouled
+2,17,Andy Carroll,Newcastle Utd,0.06,,Blocked,19.0,Right Foot,,Callum Wilson,Pass (Live),Jeff Hendrick,Pass (Live)
+3,21,Callum Wilson,Newcastle Utd,0.07,,Off Target,12.0,Left Foot,Volley,Jamal Lewis,Pass (Live),Allan Saint-Maximin,Pass (Live)
+4,23,Jonjo Shelvey,Newcastle Utd,0.05,,Blocked,32.0,Right Foot,Free kick,Isaac Hayden,Fouled,,
+5,25,Andy Carroll,Newcastle Utd,0.03,,Off Target,14.0,Head,,Jonjo Shelvey,Pass (Dead),Jonjo Shelvey,Pass (Live)
+6,27,Michail Antonio,West Ham,0.09,0.19,Saved,14.0,Right Foot,,Tomáš Souček,Pass (Live),,
+7,29,Tomáš Souček,West Ham,0.06,,Off Target,10.0,Head,,Ryan Fredericks,Pass (Live),Tomáš Souček,Pass (Live)
+8,31,Tomáš Souček,West Ham,0.03,,Blocked,25.0,Left Foot,,Michail Antonio,Pass (Live),Pablo Fornals,Pass (Live)
+9,31,Jonjo Shelvey,Newcastle Utd,0.09,,Off Target,17.0,Right Foot,,Callum Wilson,Pass (Live),Isaac Hayden,Pass (Live)
+10,32,Andy Carroll,Newcastle Utd,0.11,,Blocked,17.0,Right Foot,Volley,Andy Carroll,Take-On,Jonjo Shelvey,Pass (Live)
+11,33,Michail Antonio,West Ham,0.04,,Blocked,16.0,Right Foot,,Declan Rice,Pass (Live),Jarrod Bowen,Pass (Live)
+12,34,Pablo Fornals,West Ham,0.09,,Blocked,13.0,Right Foot,,Tomáš Souček,Pass (Live),Mark Noble,Pass (Live)
+13,36,Andy Carroll,Newcastle Utd,0.04,,Off Target,15.0,Head,,Javier Manquillo,Pass (Live),Callum Wilson,Pass (Live)
+14,38,Jarrod Bowen,West Ham,0.09,,Off Target,13.0,Right Foot,,Ryan Fredericks,Pass (Live),Declan Rice,Pass (Live)
+15,39,Callum Wilson,Newcastle Utd,0.03,,Off Target,24.0,Right Foot,,Jamal Lewis,Pass (Live),Allan Saint-Maximin,Pass (Live)
+16,44,Michail Antonio,West Ham,0.03,,Blocked,23.0,Right Foot,,Ryan Fredericks,Pass (Live),Michail Antonio,Pass (Live)
+17,,,,,,,,,,,,,
+18,56,Callum Wilson,Newcastle Utd,0.76,0.96,Goal,3.0,Right Foot,Volley,Jeff Hendrick,Pass (Live),Allan Saint-Maximin,Pass (Live)
+19,68,Tomáš Souček,West Ham,0.3,,Blocked,6.0,Right Foot,,Declan Rice,Pass (Live),Aaron Cresswell,Pass (Dead)
+20,68,Sébastien Haller,West Ham,0.13,,Off Target,5.0,Right Foot,,Sébastien Haller,Pass (Live),Tomáš Souček,Shot
+21,75,Allan Saint-Maximin,Newcastle Utd,0.03,,Off Target,28.0,Right Foot,,Andy Carroll,Pass (Live),Jeff Hendrick,Pass (Live)
+22,78,Joelinton,Newcastle Utd,0.03,,Blocked,23.0,Right Foot,,Jonjo Shelvey,Pass (Live),Joelinton,Pass (Live)
+23,78,Jonjo Shelvey,Newcastle Utd,0.06,,Blocked,21.0,Right Foot,,Joelinton,Pass (Live),Jeff Hendrick,Pass (Live)
+24,79,Andriy Yarmolenko,West Ham,0.03,,Off Target,30.0,Left Foot,,Ryan Fredericks,Pass (Live),Andriy Yarmolenko,Pass (Live)
+25,80,Andriy Yarmolenko,West Ham,0.02,,Blocked,24.0,Left Foot,,Aaron Cresswell,Pass (Live),Angelo Ogbonna,Pass (Live)
+26,81,Michail Antonio,West Ham,0.03,,Blocked,29.0,Right Foot,,,,,
+27,83,Sébastien Haller,West Ham,0.06,0.3,Saved,10.0,Head,,Ryan Fredericks,Pass (Live),Andriy Yarmolenko,Pass (Dead)
+28,87,Jeff Hendrick,Newcastle Utd,0.07,0.37,Goal,15.0,Right Foot,,Miguel Almirón,Pass (Live),Andy Carroll,Pass (Live)
+29,90+3,Andriy Yarmolenko,West Ham,0.04,0.04,Saved,17.0,Left Foot,,Tomáš Souček,Pass (Live),Sébastien Haller,Pass (Live)
+30,90+3,Miguel Almirón,Newcastle Utd,0.1,,Blocked,13.0,Left Foot,,,,,

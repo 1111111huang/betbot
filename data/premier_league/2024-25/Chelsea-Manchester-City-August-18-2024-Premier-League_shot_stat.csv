@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Bernardo Silva,Manchester City,0.09,0.0,Blocked,12.0,Left Foot,,Sávio,Pass (Live),Joško Gvardiol,Pass (Live)
+1,10,Wesley Fofana,Chelsea,0.04,0.0,Off Target,15.0,Right Foot,Volley,Cole Palmer,Pass (Live),Malo Gusto,Pass (Live)
+2,11,Jeremy Doku,Manchester City,0.1,0.0,Off Target,14.0,Left Foot,,Joško Gvardiol,Pass (Live),Sávio,Pass (Live)
+3,18,Erling Haaland,Manchester City,0.17,0.18,Goal,9.0,Left Foot,,Erling Haaland,Take-On,Bernardo Silva,Pass (Live)
+4,22,Kevin De Bruyne,Manchester City,0.04,0.0,Off Target,27.0,Right Foot,,Sávio,Pass (Live),Rico Lewis,Pass (Live)
+5,35,Mateo Kovačić,Manchester City,0.05,0.0,Blocked,23.0,Right Foot,,Sávio,Pass (Live),Sávio,Take-On
+6,37,Jeremy Doku,Manchester City,0.03,0.29,Saved,28.0,Right Foot,Deflected,,,,
+7,38,Joško Gvardiol,Manchester City,0.03,0.0,Blocked,18.0,Left Foot,,Jeremy Doku,Pass (Live),Mateo Kovačić,Pass (Live)
+8,39,Enzo Fernández,Chelsea,0.07,0.0,Blocked,13.0,Left Foot,,Nicolas Jackson,Pass (Live),Christopher Nkunku,Pass (Live)
+9,40,Bernardo Silva,Manchester City,0.04,0.07,Saved,14.0,Left Foot,,Kevin De Bruyne,Pass (Live),Sávio,Pass (Live)
+10,44,Cole Palmer,Chelsea,0.04,0.16,Saved,24.0,Left Foot,,Christopher Nkunku,Pass (Live),Nicolas Jackson,Pass (Live)
+11,45+6,Christopher Nkunku,Chelsea,0.15,0.0,Blocked,14.0,Right Foot,,Nicolas Jackson,Pass (Live),Cole Palmer,Pass (Live)
+12,,,,,,,,,,,,,
+13,52,Erling Haaland,Manchester City,0.11,0.22,Saved,17.0,Left Foot,,Bernardo Silva,Pass (Live),Jeremy Doku,Pass (Live)
+14,59,Moisés Caicedo,Chelsea,0.03,0.0,Blocked,28.0,Right Foot,,Cole Palmer,Pass (Live),Enzo Fernández,Pass (Live)
+15,61,Enzo Fernández,Chelsea,0.13,0.0,Off Target,7.0,Head,,Pedro Neto,Pass (Live),Marc Cucurella,Pass (Live)
+16,61,Nicolas Jackson,Chelsea,0.47,0.48,Saved,9.0,Right Foot,Volley,Roméo Lavia,Pass (Live),Enzo Fernández,Shot
+17,73,Kevin De Bruyne,Manchester City,0.03,0.0,Off Target,26.0,Right Foot,,Bernardo Silva,Pass (Live),Joško Gvardiol,Pass (Live)
+18,84,Mateo Kovačić,Manchester City,0.08,0.07,Goal,23.0,Right Foot,,Mateo Kovačić,Take-On,,
+19,90,Pedro Neto,Chelsea,0.04,0.0,Blocked,13.0,Left Foot,,Cole Palmer,Pass (Live),Enzo Fernández,Pass (Live)
+20,90+2,Cole Palmer,Chelsea,0.03,0.0,Off Target,24.0,Left Foot,,Cole Palmer,Take-On,Moisés Caicedo,Pass (Live)
+21,90+5,Enzo Fernández,Chelsea,0.03,0.05,Saved,23.0,Right Foot,,Pedro Neto,Pass (Live),Levi Colwill,Pass (Live)

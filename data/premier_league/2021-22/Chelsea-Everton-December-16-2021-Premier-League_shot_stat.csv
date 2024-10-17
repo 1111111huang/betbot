@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6.0,Reece James,Chelsea,0.5,,Off Target,10.0,Right Foot,,Jorginho,Pass (Live),Hakim Ziyech,Pass (Live)
+1,8.0,Mason Mount,Chelsea,0.08,,Off Target,12.0,Right Foot,,Reece James,Pass (Live),Jorginho,Pass (Live)
+2,11.0,Christian Pulisic,Chelsea,0.28,0.27,Saved,8.0,Left Foot,,Hakim Ziyech,Pass (Live),Antonio Rüdiger,Pass (Live)
+3,12.0,Hakim Ziyech,Chelsea,0.09,0.61,Saved,11.0,Left Foot,,Christian Pulisic,Pass (Live),,
+4,16.0,Reece James,Chelsea,0.04,0.37,Saved,31.0,Right Foot,Free kick,Hakim Ziyech,Fouled,Ruben Loftus-Cheek,Pass (Live)
+5,16.0,Jorginho,Chelsea,0.1,0.14,Saved,5.0,Right Foot,Volley,Hakim Ziyech,Pass (Live),Reece James,Shot
+6,17.0,André Gomes,Everton,0.02,,Blocked,29.0,Left Foot,,Ben Godfrey,Pass (Live),Michael Keane,Pass (Live)
+7,18.0,Marcos Alonso,Chelsea,0.07,,Blocked,30.0,Left Foot,Free kick,Christian Pulisic,Fouled,César Azpilicueta,Pass (Live)
+8,18.0,Reece James,Chelsea,0.01,,Off Target,31.0,Right Foot,,Marcos Alonso,Shot,,
+9,23.0,Hakim Ziyech,Chelsea,0.02,,Off Target,21.0,Left Foot,,Christian Pulisic,Pass (Live),,
+10,29.0,Mason Mount,Chelsea,0.19,0.26,Saved,10.0,Right Foot,Deflected,Marcos Alonso,Pass (Live),Hakim Ziyech,Pass (Live)
+11,34.0,Hakim Ziyech,Chelsea,0.08,,Off Target,21.0,Left Foot,,Hakim Ziyech,Take-On,Hakim Ziyech,Pass (Live)
+12,36.0,Hakim Ziyech,Chelsea,0.01,,Blocked,25.0,Left Foot,,Mason Mount,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+13,36.0,Mason Mount,Chelsea,0.59,0.15,Saved,8.0,Right Foot,,Mason Mount,Pass (Live),Marcos Alonso,Pass (Live)
+14,43.0,Anthony Gordon,Everton,0.02,0.14,Saved,31.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Ben Godfrey,Pass (Live)
+15,,,,,,,,,,,,,
+16,51.0,Mason Mount,Chelsea,0.02,0.31,Saved,28.0,Right Foot,Deflected,Hakim Ziyech,Pass (Live),Thiago Silva,Pass (Live)
+17,51.0,Ruben Loftus-Cheek,Chelsea,0.14,,Off Target,6.0,Other,,Marcos Alonso,Pass (Dead),Mason Mount,Shot
+18,53.0,Jonjoe Kenny,Everton,0.03,,Off Target,23.0,Right Foot,,Ellis Simms,Pass (Live),Alex Iwobi,Pass (Live)
+19,56.0,Ben Godfrey,Everton,0.02,0.2,Saved,18.0,Left Foot,Volley,,,,
+20,57.0,Christian Pulisic,Chelsea,0.02,,Off Target,12.0,Head,,Reece James,Pass (Dead),Reece James,Fouled
+21,57.0,César Azpilicueta,Chelsea,0.06,,Off Target,11.0,Right Foot,,Christian Pulisic,Shot,,
+22,61.0,Antonio Rüdiger,Chelsea,0.17,,Off Target,4.0,Head,,Reece James,Pass (Dead),Ruben Loftus-Cheek,Fouled
+23,69.0,Mason Mount,Chelsea,0.08,,Blocked,16.0,Left Foot,,Reece James,Pass (Live),César Azpilicueta,Pass (Live)
+24,70.0,Mason Mount,Chelsea,0.18,0.44,Goal,9.0,Right Foot,,Reece James,Pass (Live),Ross Barkley,Pass (Live)
+25,74.0,Jarrad Branthwaite,Everton,0.47,0.82,Goal,5.0,Right Foot,Volley,Anthony Gordon,Pass (Dead),Anthony Gordon,Fouled
+26,80.0,Thiago Silva,Chelsea,0.03,0.29,Saved,12.0,Head,,Ross Barkley,Pass (Dead),César Azpilicueta,Pass (Live)
+27,80.0,Antonio Rüdiger,Chelsea,0.05,0.09,Saved,10.0,Head,,Mason Mount,Pass (Dead),Thiago Silva,Shot
+28,85.0,Christian Pulisic,Chelsea,0.1,,Off Target,10.0,Head,,Reece James,Pass (Dead),Jorginho,Fouled

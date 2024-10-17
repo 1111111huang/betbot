@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Moussa Djenepo,Southampton,0.03,,Off Target,22.0,Left Foot,,Che Adams,Pass (Live),James Ward-Prowse,Pass (Live)
+1,4,Danny Welbeck,Brighton,0.07,0.12,Saved,14.0,Right Foot,,Danny Welbeck,Pass (Live),Solly March,Interception
+2,12,Lewis Dunk,Brighton,0.06,,Off Target,12.0,Head,,Pascal Groß,Pass (Dead),Tariq Lamptey,Fouled
+3,26,Pascal Groß (pen),Brighton,0.79,0.99,Goal,13.0,Right Foot,,,Fouled,Aaron Connolly,Pass (Live)
+4,30,Jannik Vestergaard,Southampton,0.03,,Blocked,16.0,Head,,James Ward-Prowse,Pass (Dead),Kyle Walker-Peters,Fouled
+5,32,Pascal Groß,Brighton,0.08,,Off Target,14.0,Right Foot,Volley,Adam Webster,Pass (Live),Aaron Connolly,Pass (Live)
+6,38,Kyle Walker-Peters,Southampton,0.05,,Blocked,15.0,Right Foot,,James Ward-Prowse,Pass (Live),Jannik Vestergaard,Pass (Live)
+7,40,Theo Walcott,Southampton,0.04,,Off Target,19.0,Right Foot,,Oriol Romeu,Pass (Live),Jan Bednarek,Pass (Live)
+8,45,Jannik Vestergaard,Southampton,0.05,0.37,Goal,11.0,Head,,James Ward-Prowse,Pass (Dead),Ryan Bertrand,Pass (Live)
+9,45+2,Adam Webster,Brighton,0.09,,Off Target,11.0,Left Foot,Volley,Pascal Groß,Pass (Dead),Aaron Connolly,Fouled
+10,,,,,,,,,,,,,
+11,53,Yves Bissouma,Brighton,0.03,,Off Target,32.0,Right Foot,,Danny Welbeck,Pass (Live),Pascal Groß,Pass (Live)
+12,53,Aaron Connolly,Brighton,0.53,0.65,Saved,6.0,Right Foot,Volley,Danny Welbeck,Pass (Live),Yves Bissouma,Shot
+13,59,Theo Walcott,Southampton,0.04,,Off Target,24.0,Right Foot,,Stuart Armstrong,Pass (Live),Danny Ings,Pass (Live)
+14,62,Oriol Romeu,Southampton,0.03,,Blocked,32.0,Left Foot,,Oriol Romeu,Pass (Live),Kyle Walker-Peters,Pass (Live)
+15,63,Danny Ings,Southampton,0.03,0.06,Saved,12.0,Head,,Stuart Armstrong,Pass (Live),Ryan Bertrand,Pass (Live)
+16,66,Pascal Groß,Brighton,0.06,,Off Target,17.0,Right Foot,,Tariq Lamptey,Pass (Live),,
+17,68,Solly March,Brighton,0.05,,Off Target,18.0,Left Foot,,Neal Maupay,Pass (Live),Joël Veltman,Pass (Dead)
+18,73,Nathan Redmond,Southampton,0.34,,Off Target,9.0,Right Foot,Volley,Nathan Redmond,Pass (Live),Jannik Vestergaard,Pass (Live)
+19,81,Danny Ings (pen),Southampton,0.79,0.99,Goal,13.0,Right Foot,,Kyle Walker-Peters,Fouled,Jannik Vestergaard,Pass (Live)
+20,82,Alireza Jahanbakhsh,Brighton,0.07,,Off Target,10.0,Right Foot,,Leandro Trossard,Pass (Live),Solly March,Pass (Live)
+21,84,Neal Maupay,Brighton,0.07,,Off Target,16.0,Left Foot,,Pascal Groß,Pass (Live),Yves Bissouma,Pass (Live)
+22,90+2,Leandro Trossard,Brighton,0.04,0.07,Saved,11.0,Head,,Solly March,Pass (Live),Adam Webster,Pass (Live)

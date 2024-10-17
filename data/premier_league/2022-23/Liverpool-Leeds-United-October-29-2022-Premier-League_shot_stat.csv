@@ -1,0 +1,38 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Mohamed Salah,Liverpool,0.03,,Off Target,12.0,Left Foot,,,,,
+1,4,Rodrigo,Leeds United,0.8,0.89,Goal,5.0,Left Foot,,,,,
+2,6,Virgil van Dijk,Liverpool,0.03,,Off Target,11.0,Head,,Trent Alexander-Arnold,Pass (Dead),,
+3,11,Jack Harrison,Leeds United,0.04,,Off Target,20.0,Left Foot,,Tyler Adams,Pass (Live),Rodrigo,Pass (Live)
+4,13,Roberto Firmino,Liverpool,0.09,0.2,Saved,6.0,Right Foot,,Darwin Núñez,Pass (Live),Andrew Robertson,Pass (Live)
+5,14,Mohamed Salah,Liverpool,0.35,0.17,Goal,6.0,Left Foot,Volley,Andrew Robertson,Pass (Live),Mohamed Salah,Pass (Live)
+6,20,Brenden Aaronson,Leeds United,0.15,,Woodwork,11.0,Left Foot,Volley,Rasmus Kristensen,Pass (Live),Liam Cooper,Pass (Dead)
+7,21,Jack Harrison,Leeds United,0.16,0.09,Saved,13.0,Right Foot,,Rodrigo,Pass (Live),Brenden Aaronson,Pass (Live)
+8,25,Rasmus Kristensen,Leeds United,0.07,,Off Target,16.0,Left Foot,Volley,Pascal Struijk,Pass (Live),Brenden Aaronson,Fouled
+9,34,Jack Harrison,Leeds United,0.02,,Off Target,32.0,Left Foot,Free kick,,Fouled,Marc Roca,Pass (Live)
+10,37,Crysencio Summerville,Leeds United,0.03,,Blocked,24.0,Right Foot,,Rodrigo,Pass (Live),Pascal Struijk,Pass (Live)
+11,39,Mohamed Salah,Liverpool,0.15,0.22,Saved,23.0,Left Foot,,Mohamed Salah,Pass (Live),Andrew Robertson,Pass (Live)
+12,41,Harvey Elliott,Liverpool,0.03,,Off Target,24.0,Left Foot,,Darwin Núñez,Pass (Live),Andrew Robertson,Pass (Live)
+13,45+1,Rodrigo,Leeds United,0.16,0.06,Saved,14.0,Left Foot,,Brenden Aaronson,Pass (Live),Rasmus Kristensen,Pass (Live)
+14,45+3,Brenden Aaronson,Leeds United,0.06,,Off Target,27.0,Right Foot,Free kick,Crysencio Summerville,Fouled,Pascal Struijk,Pass (Dead)
+15,,,,,,,,,,,,,
+16,58,Mohamed Salah,Liverpool,0.04,,Off Target,23.0,Left Foot,,Mohamed Salah,Take-On,Thiago Alcántara,Pass (Live)
+17,59,Marc Roca,Leeds United,0.02,0.04,Saved,44.0,Left Foot,Free kick,Crysencio Summerville,Fouled,Rasmus Kristensen,Pass (Live)
+18,60,Patrick Bamford,Leeds United,0.12,0.05,Saved,25.0,Left Foot,,Jack Harrison,Pass (Live),Crysencio Summerville,Pass (Live)
+19,60,Darwin Núñez,Liverpool,0.03,,Off Target,30.0,Right Foot,,Roberto Firmino,Pass (Live),Roberto Firmino,Take-On
+20,61,Curtis Jones,Liverpool,0.05,,Blocked,17.0,Left Foot,,Curtis Jones,Take-On,Roberto Firmino,Pass (Live)
+21,61,Andrew Robertson,Liverpool,0.06,0.07,Saved,17.0,Left Foot,,Thiago Alcántara,Pass (Live),Curtis Jones,Shot
+22,63,Pascal Struijk,Leeds United,0.03,,Blocked,24.0,Left Foot,Volley,Crysencio Summerville,Pass (Live),Brenden Aaronson,Pass (Live)
+23,67,Darwin Núñez,Liverpool,0.21,0.42,Saved,12.0,Right Foot,,Mohamed Salah,Pass (Live),Darwin Núñez,Pass (Live)
+24,68,Mohamed Salah,Liverpool,0.03,,Blocked,20.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Andrew Robertson,Pass (Live)
+25,69,Darwin Núñez,Liverpool,0.09,,Off Target,10.0,Head,,Trent Alexander-Arnold,Pass (Dead),Mohamed Salah,Shot
+26,69,Jordan Henderson,Liverpool,0.06,0.21,Saved,7.0,Left Foot,Volley,Darwin Núñez,Shot,,
+27,71,Mohamed Salah,Liverpool,0.09,,Blocked,13.0,Left Foot,,Curtis Jones,Pass (Live),Curtis Jones,Tackle
+28,79,Darwin Núñez,Liverpool,0.04,0.27,Saved,24.0,Right Foot,,Andrew Robertson,Pass (Live),Mohamed Salah,Pass (Live)
+29,81,Rasmus Kristensen,Leeds United,0.03,,Off Target,8.0,Head,,Marc Roca,Pass (Dead),Brenden Aaronson,Pass (Live)
+30,82,Roberto Firmino,Liverpool,0.06,0.29,Saved,16.0,Left Foot,Volley,Darwin Núñez,Pass (Live),Mohamed Salah,Pass (Live)
+31,86,Mohamed Salah,Liverpool,0.09,0.03,Saved,18.0,Left Foot,,Roberto Firmino,Pass (Live),Thiago Alcántara,Pass (Live)
+32,87,Curtis Jones,Liverpool,0.02,,Blocked,19.0,Left Foot,,James Milner,Pass (Live),Darwin Núñez,Pass (Dead)
+33,88,Joe Gomez,Liverpool,0.05,,Off Target,11.0,Head,,Andrew Robertson,Pass (Dead),Curtis Jones,Pass (Live)
+34,88,Roberto Firmino,Liverpool,0.12,0.03,Saved,10.0,Head,,Andrew Robertson,Pass (Live),James Milner,Pass (Live)
+35,89,Crysencio Summerville,Leeds United,0.09,0.58,Goal,11.0,Right Foot,,Wilfried Gnonto,Pass (Live),Tyler Adams,Pass (Live)
+36,90+5,Jordan Henderson,Liverpool,0.03,,Off Target,30.0,Right Foot,,Roberto Firmino,Pass (Live),Joe Gomez,Pass (Live)

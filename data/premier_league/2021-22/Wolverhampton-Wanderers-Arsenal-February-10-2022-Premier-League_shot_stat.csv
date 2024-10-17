@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Thomas Partey,Arsenal,0.02,,Blocked,26.0,Right Foot,Volley,Kieran Tierney,Pass (Live),Thomas Partey,Pass (Live)
+1,16,Fernando Marçal,Wolves,0.04,,Blocked,9.0,Left Foot,,Fernando Marçal,Pass (Live),Rúben Neves,Pass (Live)
+2,22,Ben White,Arsenal,0.21,,Blocked,15.0,Right Foot,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+3,22,Gabriel Magalhães,Arsenal,0.09,,Blocked,12.0,Left Foot,,Ben White,Shot,,
+4,22,Raúl Jiménez,Wolves,0.02,0.02,Saved,52.0,Right Foot,Free kick,Raúl Jiménez,Fouled,Daniel Podence,Pass (Live)
+5,25,Alexandre Lacazette,Arsenal,0.31,,Off Target,5.0,Left Foot,Volley,Ben White,Pass (Live),Cédric Soares,Pass (Live)
+6,25,Gabriel Magalhães,Arsenal,0.73,0.81,Goal,3.0,Right Foot,,Alexandre Lacazette,Shot,,
+7,37,Raúl Jiménez,Wolves,0.06,0.07,Saved,11.0,Head,,Nélson Semedo,Pass (Live),Rúben Neves,Pass (Live)
+8,42,Alexandre Lacazette,Arsenal,0.11,,Blocked,5.0,Head,,Martin Ødegaard,Pass (Dead),Martin Ødegaard,Pass (Live)
+9,42,Nélson Semedo,Wolves,0.02,,Off Target,25.0,Left Foot,,Daniel Podence,Pass (Live),Francisco Trincão,Pass (Live)
+10,43,Alexandre Lacazette,Arsenal,0.12,0.03,Saved,16.0,Right Foot,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+11,44,Thomas Partey,Arsenal,0.04,,Blocked,27.0,Right Foot,,Alexandre Lacazette,Pass (Live),Martin Ødegaard,Pass (Live)
+12,45,Gabriel Magalhães,Arsenal,0.01,,Off Target,45.0,Left Foot,,,,,
+13,45+2,Rúben Neves,Wolves,0.04,,Off Target,27.0,Right Foot,Free kick,Francisco Trincão,Fouled,Nélson Semedo,Pass (Live)
+14,,,,,,,,,,,,,
+15,52,Daniel Podence,Wolves,0.02,,Off Target,36.0,Right Foot,,Romain Saïss,Pass (Live),Max Kilman,Pass (Live)
+16,54,Daniel Podence,Wolves,0.07,,Blocked,22.0,Right Foot,,Nélson Semedo,Pass (Live),Rúben Neves,Pass (Live)
+17,54,Leander Dendoncker,Wolves,0.07,,Off Target,9.0,Head,,Daniel Podence,Pass (Live),Francisco Trincão,Pass (Dead)
+18,58,Thomas Partey,Arsenal,0.03,,Blocked,16.0,Right Foot,,Gabriel Magalhães,Pass (Live),Gabriel Martinelli,Pass (Live)
+19,63,Bukayo Saka,Arsenal,0.01,,Blocked,23.0,Left Foot,,Martin Ødegaard,Pass (Live),Gabriel Martinelli,Pass (Live)
+20,72,Alexandre Lacazette,Arsenal,0.41,,Off Target,14.0,Right Foot,,Gabriel Magalhães,Pass (Live),,
+21,74,Romain Saïss,Wolves,0.05,0.15,Saved,19.0,Left Foot,,Daniel Podence,Pass (Live),Nélson Semedo,Pass (Live)
+22,83,Fábio Silva,Wolves,0.09,,Off Target,8.0,Left Foot,,Nélson Semedo,Pass (Live),Leander Dendoncker,Pass (Live)
+23,83,Chiquinho,Wolves,0.16,,Blocked,4.0,Head,,Raúl Jiménez,Pass (Live),Fábio Silva,Shot
+24,83,Leander Dendoncker,Wolves,0.06,0.11,Saved,12.0,Head,,Daniel Podence,Pass (Live),Raúl Jiménez,Pass (Live)
+25,84,Rúben Neves,Wolves,0.02,,Blocked,26.0,Right Foot,,Daniel Podence,Pass (Live),Rayan Aït-Nouri,Pass (Dead)
+26,84,Leander Dendoncker,Wolves,0.03,,Off Target,11.0,Head,,Daniel Podence,Pass (Live),Rúben Neves,Pass (Live)
+27,90+3,Raúl Jiménez,Wolves,0.05,,Off Target,14.0,Right Foot,Volley,Chiquinho,Pass (Live),Fábio Silva,Pass (Live)

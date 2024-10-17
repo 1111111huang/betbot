@@ -1,0 +1,17 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,16,Miguel Almirón,Newcastle Utd,0.07,,Off Target,16.0,Left Foot,Volley,Dan Burn,Pass (Live),Joe Willock,Pass (Live)
+1,29,Armando Broja,Chelsea,0.11,0.18,Saved,11.0,Left Foot,,Lewis Hall,Pass (Live),Mason Mount,Pass (Live)
+2,35,Bruno Guimarães,Newcastle Utd,0.03,,Blocked,33.0,Right Foot,,Joe Willock,Pass (Live),Dan Burn,Pass (Live)
+3,39,Joe Willock,Newcastle Utd,0.04,,Blocked,22.0,Right Foot,,Kieran Trippier,Pass (Dead),Miguel Almirón,Pass (Live)
+4,40,Dan Burn,Newcastle Utd,0.05,,Blocked,19.0,Left Foot,,Sean Longstaff,Pass (Live),Joelinton,Pass (Live)
+5,45+3,Joelinton,Newcastle Utd,0.11,,Off Target,3.0,Head,,Kieran Trippier,Pass (Dead),Joe Willock,Pass (Live)
+6,,,,,,,,,,,,,
+7,51,Sean Longstaff,Newcastle Utd,0.23,0.79,Saved,5.0,Left Foot,,Joelinton,Pass (Live),Kieran Trippier,Pass (Live)
+8,51,Bruno Guimarães,Newcastle Utd,0.17,,Blocked,17.0,Right Foot,,Chris Wood,Pass (Live),Sean Longstaff,Shot
+9,51,Sean Longstaff,Newcastle Utd,0.21,,Off Target,9.0,Right Foot,,Miguel Almirón,Pass (Live),Kieran Trippier,Pass (Live)
+10,63,Mateo Kovačić,Chelsea,0.06,,Blocked,24.0,Right Foot,,Conor Gallagher,Pass (Live),Kalidou Koulibaly,Pass (Live)
+11,65,Conor Gallagher,Chelsea,0.05,0.35,Saved,19.0,Right Foot,,Armando Broja,Pass (Live),Conor Gallagher,Tackle
+12,66,Thiago Silva,Chelsea,0.03,,Off Target,7.0,Head,,Lewis Hall,Pass (Dead),Conor Gallagher,Shot
+13,67,Joe Willock,Newcastle Utd,0.1,0.36,Goal,19.0,Right Foot,,Joelinton,Pass (Live),Kieran Trippier,Pass (Live)
+14,70,Fabian Schär,Newcastle Utd,0.06,0.57,Saved,10.0,Head,,Kieran Trippier,Pass (Dead),Joelinton,Fouled
+15,79,Kai Havertz,Chelsea,0.04,,Off Target,10.0,Head,,Hakim Ziyech,Pass (Dead),Mateo Kovačić,Pass (Live)

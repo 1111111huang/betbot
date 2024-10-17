@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Jacob Bruun Larsen,Burnley,0.02,,Blocked,29.0,Right Foot,,Sander Berge,Pass (Live),Josh Cullen,Pass (Live)
+1,11,David Datro Fofana,Burnley,0.03,0.31,Goal,31.0,Right Foot,,David Datro Fofana,Take-On,Sander Berge,Pass (Live)
+2,28,Jarrod Bowen,West Ham,0.02,,Off Target,17.0,Head,,Mohammed Kudus,Pass (Live),Tomáš Souček,Pass (Live)
+3,32,Konstantinos Mavropanos,West Ham,0.02,,Off Target,17.0,Left Foot,,Konstantinos Mavropanos,Tackle,,
+4,44,Jacob Bruun Larsen,Burnley,0.03,0.03,Saved,35.0,Right Foot,Free kick,Wilson Odobert,Fouled,,
+5,45+1,Mohammed Kudus,West Ham,0.03,,Off Target,27.0,Left Foot,,Vladimír Coufal,Pass (Dead),,
+6,45+4,Sander Berge,Burnley,0.03,,Blocked,25.0,Right Foot,,Josh Cullen,Pass (Live),,
+7,,,,,,,,,,,,,
+8,46,Lucas Paquetá,West Ham,0.53,0.69,Goal,16.0,Left Foot,,Lucas Paquetá,Take-On,,
+9,49,Edson Álvarez,West Ham,0.03,,Blocked,23.0,Left Foot,Volley,Jarrod Bowen,Pass (Live),Tomáš Souček,Pass (Live)
+10,50,Charlie Taylor,Burnley,0.02,,Blocked,40.0,Left Foot,,Josh Cullen,Pass (Live),Josh Brownhill,Pass (Live)
+11,53,Konstantinos Mavropanos,West Ham,0.03,,Blocked,8.0,Head,,Aaron Cresswell,Pass (Dead),Vladimír Coufal,Pass (Live)
+12,53,Jarrod Bowen,West Ham,0.19,,Blocked,5.0,Right Foot,,Konstantinos Mavropanos,Shot,,
+13,54,David Datro Fofana,Burnley,0.12,0.02,Saved,22.0,Right Foot,,David Datro Fofana,Take-On,Josh Brownhill,Pass (Live)
+14,55,Lucas Paquetá,West Ham,0.12,,Off Target,14.0,Left Foot,,Michail Antonio,Pass (Live),Mohammed Kudus,Pass (Live)
+15,56,Josh Brownhill,Burnley,0.06,,Blocked,16.0,Left Foot,,Wilson Odobert,Pass (Live),Dara O'Shea,Pass (Live)
+16,57,Vitinho,Burnley,0.03,,Blocked,29.0,Right Foot,,,,,
+17,60,Lucas Paquetá,West Ham,0.03,0.05,Saved,28.0,Left Foot,,Tomáš Souček,Pass (Live),Vladimír Coufal,Pass (Live)
+18,64,Mohammed Kudus,West Ham,0.22,,Off Target,11.0,Right Foot,,Mohammed Kudus,Take-On,Jarrod Bowen,Pass (Live)
+19,73,Michail Antonio,West Ham,0.07,,Blocked,5.0,Right Foot,,Aaron Cresswell,Pass (Live),Nayef Aguerd,Pass (Live)
+20,74,Edson Álvarez,West Ham,0.06,,Off Target,23.0,Right Foot,,Michail Antonio,Shot,,
+21,77,Konstantinos Mavropanos,West Ham,0.14,,Off Target,6.0,Head,,Aaron Cresswell,Pass (Dead),Vladimír Coufal,Pass (Live)
+22,81,Tomáš Souček,West Ham,0.09,0.03,Saved,12.0,Left Foot,,Edson Álvarez,Pass (Live),Aaron Cresswell,Pass (Live)
+23,85,Michail Antonio,West Ham,0.04,,Blocked,10.0,Head,,Vladimír Coufal,Pass (Live),Lucas Paquetá,Fouled
+24,90,Lucas Paquetá,West Ham,0.05,,Off Target,26.0,Left Foot,,Mohammed Kudus,Pass (Live),Jarrod Bowen,Pass (Live)
+25,90+1,Mohammed Kudus,West Ham,0.04,,Blocked,13.0,Left Foot,Volley,Alphonse Areola,Pass (Dead),Aaron Cresswell,Fouled
+26,90+1,Danny Ings,West Ham,0.13,0.05,Goal,9.0,Right Foot,Volley,Mohammed Kudus,Take-On,Aaron Cresswell,Pass (Live)
+27,90+3,David Datro Fofana,Burnley,0.07,,Blocked,12.0,Right Foot,,Sander Berge,Pass (Live),Charlie Taylor,Pass (Live)
+28,90+3,Sander Berge,Burnley,0.09,,Off Target,22.0,Right Foot,,Vitinho,Pass (Live),Josh Brownhill,Pass (Live)
+29,90+4,Michail Antonio,West Ham,0.1,,Off Target,8.0,Left Foot,,Jarrod Bowen,Pass (Live),,
+30,90+5,Tomáš Souček,West Ham,0.07,,Off Target,10.0,Head,,Lucas Paquetá,Pass (Live),Aaron Cresswell,Pass (Live)
+31,90+6,Danny Ings,West Ham,0.07,,Woodwork,17.0,Right Foot,Volley,Konstantinos Mavropanos,Pass (Live),Mohammed Kudus,Fouled
+32,90+6,Michail Antonio,West Ham,0.04,,Off Target,21.0,Right Foot,Volley,Danny Ings,Shot,,
+33,90+8,Josh Brownhill,Burnley,0.19,0.19,Saved,11.0,Right Foot,,Sander Berge,Pass (Live),David Datro Fofana,Take-On

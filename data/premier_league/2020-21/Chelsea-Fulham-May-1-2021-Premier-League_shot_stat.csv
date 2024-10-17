@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Antonee Robinson,Fulham,0.03,0.06,Saved,24.0,Left Foot,,,,,
+1,5,Joachim Andersen,Fulham,0.01,,Off Target,33.0,Right Foot,,Tosin Adarabioyo,Pass (Live),Ivan Cavaleiro,Pass (Live)
+2,10,Kai Havertz,Chelsea,0.28,0.39,Goal,11.0,Left Foot,,Mason Mount,Pass (Live),Thiago Silva,Pass (Live)
+3,13,Hakim Ziyech,Chelsea,0.05,,Blocked,25.0,Left Foot,,Kai Havertz,Pass (Live),Mason Mount,Pass (Live)
+4,20,Ola Aina,Fulham,0.02,,Off Target,29.0,Left Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Ola Aina,Pass (Dead)
+5,22,Bobby Reid,Fulham,0.05,,Blocked,16.0,Right Foot,,Josh Maja,Pass (Live),Josh Maja,Take-On
+6,22,Ademola Lookman,Fulham,0.03,0.07,Saved,18.0,Right Foot,,Antonee Robinson,Pass (Live),Bobby Reid,Shot
+7,23,Tosin Adarabioyo,Fulham,0.03,,Blocked,10.0,Head,,Ademola Lookman,Pass (Dead),Ademola Lookman,Shot
+8,39,Hakim Ziyech,Chelsea,0.47,0.56,Saved,11.0,Left Foot,,Timo Werner,Pass (Live),Mason Mount,Pass (Live)
+9,40,Timo Werner,Chelsea,0.06,0.13,Saved,13.0,Left Foot,,Hakim Ziyech,Pass (Live),,
+10,45+2,Ola Aina,Fulham,0.04,0.02,Saved,22.0,Right Foot,"Deflected, Volley",Ademola Lookman,Pass (Live),Antonee Robinson,Pass (Live)
+11,,,,,,,,,,,,,
+12,49,Kai Havertz,Chelsea,0.54,0.92,Goal,10.0,Left Foot,,Kai Havertz,Pass (Live),Ben Chilwell,Pass (Live)
+13,78,Bobby Reid,Fulham,0.06,,Blocked,13.0,Left Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Josh Maja,Pass (Live)
+14,85,Tosin Adarabioyo,Fulham,0.04,,Off Target,13.0,Head,,Ademola Lookman,Pass (Dead),Ademola Lookman,Fouled
+15,87,Antonee Robinson,Fulham,0.03,,Off Target,27.0,Left Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Josh Onomah,Tackle
+16,90+5,Marcos Alonso,Chelsea,0.15,,Blocked,21.0,Left Foot,Free kick,Timo Werner,Fouled,Timo Werner,Take-On
+17,90+5,Timo Werner,Chelsea,0.06,,Blocked,18.0,Right Foot,,Marcos Alonso,Shot,,
+18,90+5,Marcos Alonso,Chelsea,0.06,,Off Target,13.0,Head,,Billy Gilmour,Pass (Live),Reece James,Pass (Live)
+19,90+5,Timo Werner,Chelsea,0.14,0.19,Saved,7.0,Right Foot,Volley,Marcos Alonso,Shot,,

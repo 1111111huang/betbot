@@ -1,0 +1,17 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Bernardo Silva,Manchester City,0.06,0.11,Saved,12.0,Left Foot,,Raheem Sterling,Pass (Live),Aymeric Laporte,Pass (Live)
+1,3.0,Gabriel Jesus,Manchester City,0.45,0.91,Goal,7.0,Head,,Bernardo Silva,Shot,,
+2,16.0,João Cancelo,Manchester City,0.04,,Blocked,23.0,Right Foot,Volley,Bernardo Silva,Pass (Live),João Cancelo,Pass (Live)
+3,28.0,Gabriel Jesus,Manchester City,0.06,,Blocked,13.0,Right Foot,,Raheem Sterling,Pass (Live),İlkay Gündoğan,Pass (Live)
+4,38.0,Raheem Sterling,Manchester City,0.76,0.9,Goal,3.0,Right Foot,,İlkay Gündoğan,Pass (Live),Riyad Mahrez,Pass (Live)
+5,41.0,João Cancelo,Manchester City,0.08,0.05,Saved,18.0,Right Foot,,Riyad Mahrez,Pass (Live),Ederson,Pass (Dead)
+6,,,,,,,,,,,,,
+7,46.0,João Cancelo,Manchester City,0.05,,Blocked,21.0,Right Foot,,Riyad Mahrez,Pass (Live),Raheem Sterling,Pass (Live)
+8,48.0,İlkay Gündoğan,Manchester City,0.03,,Off Target,22.0,Right Foot,,İlkay Gündoğan,Interception,,
+9,50.0,Raheem Sterling,Manchester City,0.25,0.38,Saved,13.0,Right Foot,,İlkay Gündoğan,Pass (Live),İlkay Gündoğan,Tackle
+10,61.0,Riyad Mahrez,Manchester City,0.04,,Blocked,22.0,Left Foot,,İlkay Gündoğan,Pass (Live),,
+11,64.0,Matěj Vydra,Burnley,0.05,,Off Target,13.0,Right Foot,Volley,Ashley Westwood,Pass (Live),Matthew Lowton,Pass (Live)
+12,66.0,Bernardo Silva,Manchester City,0.04,,Blocked,22.0,Left Foot,,Rodri,Pass (Live),Rodri,Take-On
+13,70.0,Gabriel Jesus,Manchester City,0.11,,Blocked,12.0,Left Foot,,İlkay Gündoğan,Pass (Live),Riyad Mahrez,Pass (Live)
+14,88.0,Jóhann Berg Guðmundsson,Burnley,0.02,,Off Target,33.0,Left Foot,,Matthew Lowton,Interception,,
+15,90.0,Raheem Sterling,Manchester City,0.08,0.03,Saved,14.0,Right Foot,,İlkay Gündoğan,Pass (Live),Bernardo Silva,Pass (Live)

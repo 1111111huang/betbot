@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Riyad Mahrez,Manchester City,0.06,0.08,Saved,13.0,Left Foot,,João Cancelo,Pass (Live),Bernardo Silva,Pass (Live)
+1,2,Phil Foden,Manchester City,0.41,0.06,Saved,7.0,Left Foot,Volley,Riyad Mahrez,Shot,,
+2,13,Riyad Mahrez,Manchester City,0.06,,Off Target,10.0,Left Foot,Volley,João Cancelo,Pass (Live),Phil Foden,Pass (Live)
+3,14,Erling Haaland,Manchester City,0.34,,Woodwork,18.0,Right Foot,,Phil Foden,Pass (Live),João Cancelo,Pass (Live)
+4,19,Riyad Mahrez,Manchester City,0.04,,Off Target,20.0,Left Foot,Volley,,,,
+5,20,João Cancelo,Manchester City,0.17,0.04,Goal,12.0,Left Foot,,João Cancelo,Take-On,Phil Foden,Pass (Live)
+6,29,Erling Haaland,Manchester City,0.06,,Blocked,12.0,Left Foot,,Riyad Mahrez,Pass (Live),Riyad Mahrez,Take-On
+7,31,Phil Foden,Manchester City,0.11,0.09,Saved,13.0,Left Foot,,Rodri,Pass (Live),,
+8,32,Phil Foden,Manchester City,0.2,0.15,Goal,11.0,Left Foot,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+9,39,Erling Haaland,Manchester City,0.09,,Blocked,17.0,Right Foot,,Kevin De Bruyne,Pass (Live),Manuel Akanji,Pass (Live)
+10,44,Phil Foden,Manchester City,0.05,,Off Target,15.0,Left Foot,,,,,
+11,45,Stuart Armstrong,Southampton,0.05,,Off Target,28.0,Right Foot,,Adam Armstrong,Pass (Live),Romain Perraud,Pass (Live)
+12,45+1,Manuel Akanji,Manchester City,0.01,,Off Target,22.0,Right Foot,Volley,Riyad Mahrez,Pass (Live),Rodri,Pass (Live)
+13,,,,,,,,,,,,,
+14,47,Bernardo Silva,Manchester City,0.05,,Off Target,19.0,Left Foot,Volley,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+15,49,Riyad Mahrez,Manchester City,0.12,0.51,Goal,11.0,Left Foot,Volley,Rodri,Pass (Live),João Cancelo,Pass (Live)
+16,52,Erling Haaland,Manchester City,0.06,,Off Target,15.0,Left Foot,,Phil Foden,Pass (Live),Rodri,Pass (Live)
+17,56,Manuel Akanji,Manchester City,0.05,,Blocked,9.0,Head,,Phil Foden,Pass (Dead),,
+18,65,Erling Haaland,Manchester City,0.15,0.15,Goal,11.0,Left Foot,,João Cancelo,Pass (Live),Kevin De Bruyne,Pass (Live)
+19,77,Jack Grealish,Manchester City,0.21,0.27,Saved,13.0,Left Foot,,Erling Haaland,Pass (Live),Rodri,Pass (Live)
+20,78,Rúben Dias,Manchester City,0.16,,Off Target,8.0,Head,,Jack Grealish,Pass (Dead),Jack Grealish,Shot
+21,81,Sergio Gómez,Manchester City,0.04,,Off Target,19.0,Left Foot,,Jack Grealish,Pass (Live),Jack Grealish,Take-On
+22,84,Romain Perraud,Southampton,0.01,,Blocked,31.0,Left Foot,,,,,
+23,84,Romain Perraud,Southampton,0.03,,Blocked,28.0,Right Foot,,Romain Perraud,Shot,,
+24,84,Romain Perraud,Southampton,0.02,,Off Target,24.0,Left Foot,Volley,Romain Perraud,Shot,,
+25,86,Mohamed Elyounoussi,Southampton,0.04,,Off Target,30.0,Left Foot,,James Ward-Prowse,Pass (Live),,
+26,90+1,Cole Palmer,Manchester City,0.04,,Blocked,18.0,Left Foot,,Julián Álvarez,Pass (Live),Rodri,Pass (Live)

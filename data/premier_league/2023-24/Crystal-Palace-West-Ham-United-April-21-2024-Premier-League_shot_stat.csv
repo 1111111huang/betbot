@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Michael Olise,Crystal Palace,0.18,0.15,Goal,6.0,Head,,Joachim Andersen,Pass (Live),Will Hughes,Pass (Live)
+1,9,Tyrick Mitchell,Crystal Palace,0.06,,Off Target,15.0,Right Foot,,Eberechi Eze,Pass (Live),Daniel Muñoz,Pass (Live)
+2,11,Eberechi Eze,Crystal Palace,0.06,,Off Target,24.0,Right Foot,,Eberechi Eze,Take-On,Jean-Philippe Mateta,Pass (Live)
+3,16,Jean-Philippe Mateta,Crystal Palace,0.14,0.43,Saved,12.0,Right Foot,,Michael Olise,Pass (Live),Chris Richards,Pass (Live)
+4,16,Eberechi Eze,Crystal Palace,0.36,0.85,Goal,8.0,Right Foot,Volley,Jean-Philippe Mateta,Shot,,
+5,24,Eberechi Eze,Crystal Palace,0.02,,Off Target,32.0,Right Foot,,Jean-Philippe Mateta,Pass (Live),Eberechi Eze,Pass (Live)
+6,26,Michael Olise,Crystal Palace,0.04,0.33,Saved,29.0,Left Foot,Free kick,Michael Olise,Fouled,Adam Wharton,Pass (Live)
+7,27,Eberechi Eze,Crystal Palace,0.09,,Off Target,18.0,Left Foot,,Will Hughes,Pass (Live),Adam Wharton,Pass (Live)
+8,30,Michael Olise,Crystal Palace,0.07,,Blocked,21.0,Right Foot,,Tyrick Mitchell,Pass (Live),,
+9,30,Michael Olise,Crystal Palace,0.02,,Off Target,30.0,Left Foot,,Joachim Andersen,Pass (Live),Chris Richards,Pass (Live)
+10,31,Jean-Philippe Mateta,Crystal Palace,0.55,0.35,Goal,9.0,Right Foot,,Michael Olise,Pass (Live),Eberechi Eze,Pass (Live)
+11,33,Angelo Ogbonna,West Ham,0.04,,Off Target,13.0,Head,,Edson Álvarez,Pass (Live),Mohammed Kudus,Pass (Live)
+12,35,Michail Antonio,West Ham,0.78,,Off Target,4.0,Right Foot,Volley,James Ward-Prowse,Pass (Dead),Emerson Palmieri,Fouled
+13,40,Michail Antonio,West Ham,0.42,0.58,Goal,5.0,Right Foot,Volley,Tomáš Souček,Pass (Live),Vladimír Coufal,Pass (Live)
+14,45,Eberechi Eze,Crystal Palace,0.06,,Blocked,18.0,Right Foot,,Daniel Muñoz,Pass (Live),Michael Olise,Pass (Live)
+15,45+2,Joachim Andersen,Crystal Palace,0.32,,Off Target,4.0,Head,,Adam Wharton,Pass (Live),Will Hughes,Pass (Live)
+16,,,,,,,,,,,,,
+17,49,Eberechi Eze,Crystal Palace,0.12,0.67,Saved,11.0,Right Foot,,Daniel Muñoz,Pass (Live),Michael Olise,Pass (Live)
+18,62,Mohammed Kudus,West Ham,0.03,,Blocked,22.0,Left Foot,,Lucas Paquetá,Pass (Live),Lucas Paquetá,Tackle
+19,64,Jean-Philippe Mateta,Crystal Palace,0.13,0.59,Goal,15.0,Right Foot,,Eberechi Eze,Pass (Live),Will Hughes,Pass (Live)
+20,80,Eberechi Eze,Crystal Palace,0.13,,Off Target,16.0,Right Foot,,Joachim Andersen,Pass (Live),Will Hughes,Pass (Live)
+21,82,Jaïro Riedewald,Crystal Palace,0.02,,Off Target,15.0,Left Foot,,Jordan Ayew,Take-On,Jordan Ayew,Interception
+22,83,Tyrick Mitchell,Crystal Palace,0.03,,Off Target,17.0,Left Foot,Volley,Naouirou Ahamada,Pass (Live),Tyrick Mitchell,Pass (Live)

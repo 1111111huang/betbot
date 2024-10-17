@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Leandro Trossard,Brighton,0.06,0.06,Saved,18.0,Left Foot,,Neal Maupay,Pass (Live),Pascal Groß,Pass (Live)
+1,7,Yves Bissouma,Brighton,0.04,,Blocked,23.0,Right Foot,,Danny Welbeck,Pass (Live),Pascal Groß,Pass (Live)
+2,7,Neal Maupay,Brighton,0.06,,Off Target,17.0,Right Foot,,Pascal Groß,Pass (Live),Joël Veltman,Pass (Live)
+3,7,Leandro Trossard,Brighton,0.04,0.05,Saved,23.0,Right Foot,,Pascal Groß,Pass (Live),Danny Welbeck,Pass (Live)
+4,10,Pascal Groß,Brighton,0.03,,Blocked,27.0,Right Foot,,Leandro Trossard,Pass (Live),Neal Maupay,Pass (Live)
+5,14,Pascal Groß (pen),Brighton,0.79,1.0,Goal,14.0,Right Foot,,Danny Welbeck,Fouled,Leandro Trossard,Pass (Live)
+6,20,Diego Llorente,Leeds United,0.01,,Off Target,53.0,Right Foot,,Pascal Struijk,Pass (Live),Jack Harrison,Pass (Live)
+7,22,Pascal Struijk,Leeds United,0.2,0.69,Saved,6.0,Head,,Stuart Dallas,Pass (Dead),Patrick Bamford,Pass (Live)
+8,22,Jack Harrison,Leeds United,0.03,0.02,Saved,17.0,Left Foot,,Tyler Roberts,Pass (Live),Jack Harrison,Pass (Live)
+9,29,Jack Harrison,Leeds United,0.03,,Off Target,24.0,Left Foot,Volley,Patrick Bamford,Pass (Live),Tyler Roberts,Pass (Live)
+10,34,Tyler Roberts,Leeds United,0.04,,Blocked,15.0,Right Foot,,Mateusz Klich,Pass (Live),Jack Harrison,Pass (Dead)
+11,40,Leandro Trossard,Brighton,0.3,,Off Target,14.0,Right Foot,,Danny Welbeck,Pass (Live),,
+12,42,Danny Welbeck,Brighton,0.05,,Off Target,14.0,Left Foot,,Leandro Trossard,Pass (Live),Pascal Groß,Pass (Live)
+13,44,Luke Ayling,Leeds United,0.08,,Blocked,17.0,Left Foot,,Luke Ayling,Take-On,Diego Llorente,Pass (Live)
+14,,,,,,,,,,,,,
+15,46,Joël Veltman,Brighton,0.1,,Off Target,15.0,Left Foot,,Dan Burn,Pass (Live),,
+16,52,Danny Welbeck,Brighton,0.18,0.59,Saved,13.0,Left Foot,Volley,Lewis Dunk,Pass (Dead),Yves Bissouma,Fouled
+17,57,Luke Ayling,Leeds United,0.03,,Blocked,32.0,Left Foot,,Stuart Dallas,Pass (Live),Jack Harrison,Pass (Live)
+18,61,Ben White,Brighton,0.09,,Off Target,12.0,Head,,Adam Webster,Fouled,Lewis Dunk,Pass (Live)
+19,66,Joël Veltman,Brighton,0.04,,Blocked,16.0,Right Foot,Volley,Dan Burn,Pass (Live),Adam Webster,Pass (Live)
+20,67,Neal Maupay,Brighton,0.29,,Off Target,13.0,Right Foot,,Leandro Trossard,Pass (Live),Ben White,Pass (Live)
+21,73,Rodrigo,Leeds United,0.07,,Blocked,12.0,Left Foot,,Mateusz Klich,Pass (Live),Pascal Struijk,Pass (Live)
+22,76,Rodrigo,Leeds United,0.06,,Off Target,14.0,Left Foot,,Jack Harrison,Pass (Live),Stuart Dallas,Pass (Live)
+23,76,Stuart Dallas,Leeds United,0.04,,Off Target,20.0,Right Foot,Volley,Rodrigo,Shot,,
+24,79,Yves Bissouma,Brighton,0.05,,Off Target,23.0,Right Foot,,Leandro Trossard,Pass (Live),,
+25,79,Danny Welbeck,Brighton,0.06,0.48,Goal,13.0,Left Foot,,,,,
+26,83,Mateusz Klich,Leeds United,0.03,,Off Target,27.0,Right Foot,,Ian Poveda,Pass (Live),Pablo Hernández,Pass (Live)
+27,89,Adam Webster,Brighton,0.07,,Off Target,13.0,Head,,Pascal Groß,Pass (Dead),Adam Webster,Fouled
+28,90+3,Alireza Jahanbakhsh,Brighton,0.03,,Blocked,29.0,Right Foot,,Pascal Groß,Pass (Live),Dan Burn,Pass (Live)

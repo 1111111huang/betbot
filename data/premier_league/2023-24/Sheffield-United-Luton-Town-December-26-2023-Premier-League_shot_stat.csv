@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Vinicius Souza,Sheffield Utd,0.03,,Blocked,29.0,Right Foot,,Cameron Archer,Pass (Live),Gustavo Hamer,Pass (Live)
+1,11,Gustavo Hamer,Sheffield Utd,0.05,,Blocked,24.0,Right Foot,,Jack Robinson,Pass (Live),Anel Ahmedhodžić,Pass (Live)
+2,11,Oliver McBurnie,Sheffield Utd,0.14,,Blocked,7.0,Head,,Gustavo Hamer,Pass (Dead),Gustavo Hamer,Shot
+3,15,Ross Barkley,Luton Town,0.04,,Blocked,12.0,Right Foot,,Ross Barkley,Take-On,Ryan John Giles,Pass (Live)
+4,17,Alfie Doughty,Luton Town,0.06,0.15,Goal,9.0,Left Foot,,Alfie Doughty,Take-On,Albert Sambi Lokonga,Pass (Live)
+5,23,Elijah Adebayo,Luton Town,0.08,0.35,Saved,8.0,Head,Deflected,Andros Townsend,Pass (Live),Elijah Adebayo,Pass (Live)
+6,26,Albert Sambi Lokonga,Luton Town,0.03,,Blocked,25.0,Right Foot,,Ross Barkley,Pass (Live),Elijah Adebayo,Pass (Live)
+7,26,Teden Mengi,Luton Town,0.09,,Off Target,16.0,Left Foot,,Albert Sambi Lokonga,Shot,,
+8,30,Gustavo Hamer,Sheffield Utd,0.05,0.68,Saved,23.0,Right Foot,Free kick,Oliver McBurnie,Fouled,,
+9,31,Andre Brooks,Sheffield Utd,0.02,,Off Target,27.0,Left Foot,,Andre Brooks,Take-On,George Baldock,Pass (Live)
+10,33,James Mcatee,Sheffield Utd,0.03,,Off Target,26.0,Left Foot,,James Mcatee,Take-On,Gustavo Hamer,Pass (Live)
+11,36,Gustavo Hamer,Sheffield Utd,0.03,,Blocked,25.0,Left Foot,,,,,
+12,38,Alfie Doughty,Luton Town,0.05,,Blocked,17.0,Left Foot,,Elijah Adebayo,Pass (Live),Jacob Brown,Pass (Live)
+13,38,Ross Barkley,Luton Town,0.04,,Off Target,8.0,Head,,Alfie Doughty,Pass (Dead),Alfie Doughty,Shot
+14,42,Andros Townsend,Luton Town,0.07,,Blocked,22.0,Left Foot,Free kick,Albert Sambi Lokonga,Fouled,Teden Mengi,Pass (Live)
+15,42,Ross Barkley,Luton Town,0.03,0.08,Saved,26.0,Right Foot,,Ross Barkley,Take-On,Andros Townsend,Shot
+16,44,Cameron Archer,Sheffield Utd,0.09,,Blocked,18.0,Right Foot,,James Mcatee,Pass (Live),,
+17,45,Andre Brooks,Sheffield Utd,0.07,,Blocked,22.0,Right Foot,,,,,
+18,45+1,Auston Trusty,Sheffield Utd,0.1,,Woodwork,4.0,Head,,Gustavo Hamer,Pass (Dead),Andre Brooks,Shot
+19,,,,,,,,,,,,,
+20,51,Max Lowe,Sheffield Utd,0.34,,Blocked,13.0,Left Foot,,Cameron Archer,Pass (Live),Oliver McBurnie,Pass (Live)
+21,56,Gustavo Hamer,Sheffield Utd,0.02,,Off Target,27.0,Right Foot,,Anel Ahmedhodžić,Pass (Live),Vinicius Souza,Pass (Live)
+22,59,Andros Townsend,Luton Town,0.04,0.28,Saved,28.0,Right Foot,,Andros Townsend,Take-On,Ross Barkley,Pass (Live)
+23,60,Andros Townsend,Luton Town,0.06,,Off Target,23.0,Right Foot,,,,,
+24,61,Oliver McBurnie,Sheffield Utd,0.47,0.86,Goal,8.0,Right Foot,,James Mcatee,Pass (Live),,
+25,67,Jacob Brown,Luton Town,0.05,,Blocked,21.0,Right Foot,,Andros Townsend,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+26,69,Max Lowe,Sheffield Utd,0.24,,Blocked,8.0,Right Foot,,Oliver McBurnie,Pass (Live),Auston Trusty,Pass (Live)
+27,69,Cameron Archer,Sheffield Utd,0.37,,Blocked,2.0,Left Foot,,Max Lowe,Shot,,
+28,69,Cameron Archer,Sheffield Utd,0.48,,Blocked,2.0,Right Foot,,Cameron Archer,Shot,,
+29,69,Anel Ahmedhodžić,Sheffield Utd,0.32,0.95,Goal,9.0,Right Foot,,Cameron Archer,Shot,,
+30,87,William Osula,Sheffield Utd,0.03,0.15,Saved,11.0,Right Foot,Volley,Anis Ben Slimane,Pass (Live),William Osula,Pass (Live)
+31,90+1,Anis Ben Slimane,Sheffield Utd,0.05,,Off Target,15.0,Right Foot,,George Baldock,Pass (Live),James Mcatee,Pass (Live)
+32,90+5,Anel Ahmedhodžić,Sheffield Utd,0.01,,Off Target,27.0,Right Foot,Volley,Oliver Norwood,Pass (Live),,
+33,90+10,Auston Trusty,Sheffield Utd,0.05,,Off Target,16.0,Left Foot,Volley,James Mcatee,Pass (Live),Rhian Brewster,Pass (Live)

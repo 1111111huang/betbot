@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Anthony Martial,Manchester Utd,0.1,0.06,Saved,9.0,Head,,Juan Mata,Pass (Dead),Anthony Martial,Fouled
+1,16,Anthony Martial,Manchester Utd,0.37,0.6,Saved,12.0,Right Foot,,Bruno Fernandes,Pass (Live),Marcus Rashford,Pass (Live)
+2,20,Karlan Grant,West Brom,0.05,0.53,Saved,18.0,Right Foot,Deflected,Matheus Pereira,Pass (Live),Matheus Pereira,Take-On
+3,21,Branislav Ivanović,West Brom,0.07,,Off Target,9.0,Head,,Matheus Pereira,Pass (Live),Conor Gallagher,Pass (Dead)
+4,35,Anthony Martial,Manchester Utd,0.04,,Blocked,22.0,Right Foot,,Anthony Martial,Take-On,Victor Lindelöf,Pass (Live)
+5,36,Harry Maguire,Manchester Utd,0.1,,Blocked,11.0,Right Foot,Volley,Anthony Martial,Pass (Live),Nemanja Matić,Pass (Live)
+6,41,Grady Diangana,West Brom,0.04,,Blocked,18.0,Left Foot,,Conor Gallagher,Pass (Live),Conor Townsend,Pass (Live)
+7,42,Kyle Bartley,West Brom,0.1,,Off Target,8.0,Head,,Conor Gallagher,Pass (Dead),Grady Diangana,Shot
+8,45,Bruno Fernandes,Manchester Utd,0.02,0.05,Saved,39.0,Right Foot,Free kick,Alex Telles,Fouled,Fred,Pass (Live)
+9,,,,,,,,,,,,,
+10,49,Marcus Rashford,Manchester Utd,0.03,0.23,Saved,27.0,Right Foot,,Nemanja Matić,Pass (Live),Alex Telles,Pass (Live)
+11,52,Conor Townsend,West Brom,0.31,0.19,Saved,9.0,Left Foot,,Matheus Pereira,Pass (Live),Romaine Sawyers,Pass (Live)
+12,56,Bruno Fernandes (pen),Manchester Utd,0.79,0.98,Goal,13.0,Right Foot,,,Fouled,Fred,Pass (Live)
+13,58,Matheus Pereira,West Brom,0.03,,Off Target,25.0,Left Foot,,Conor Gallagher,Pass (Live),Grady Diangana,Pass (Live)
+14,64,Fred,Manchester Utd,0.03,,Blocked,27.0,Left Foot,,Marcus Rashford,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+15,65,Callum Robinson,West Brom,0.03,,Woodwork,21.0,Right Foot,,Conor Gallagher,Pass (Live),Hal Robson-Kanu,Pass (Live)
+16,67,Marcus Rashford,Manchester Utd,0.45,0.53,Saved,5.0,Right Foot,,Bruno Fernandes,Pass (Live),Anthony Martial,Pass (Live)
+17,67,Alex Telles,Manchester Utd,0.02,,Off Target,28.0,Left Foot,Volley,Bruno Fernandes,Pass (Live),Fred,Pass (Live)
+18,71,Edinson Cavani,Manchester Utd,0.06,,Blocked,8.0,Head,,Bruno Fernandes,Pass (Dead),Aaron Wan-Bissaka,Pass (Live)
+19,71,Harry Maguire,Manchester Utd,0.08,0.1,Saved,10.0,Right Foot,,Edinson Cavani,Shot,,
+20,71,Bruno Fernandes,Manchester Utd,0.03,,Blocked,18.0,Right Foot,,Harry Maguire,Shot,,
+21,72,Edinson Cavani,Manchester Utd,0.12,,Blocked,13.0,Left Foot,,Bruno Fernandes,Pass (Live),Anthony Martial,Pass (Live)
+22,75,Bruno Fernandes,Manchester Utd,0.07,,Blocked,21.0,Right Foot,,Fred,Pass (Live),Anthony Martial,Pass (Live)
+23,77,Alex Telles,Manchester Utd,0.03,,Off Target,17.0,Left Foot,Volley,Bruno Fernandes,Pass (Dead),Bruno Fernandes,Pass (Live)
+24,90+2,Anthony Martial,Manchester Utd,0.08,,Blocked,14.0,Left Foot,,Aaron Wan-Bissaka,Pass (Live),Bruno Fernandes,Pass (Live)

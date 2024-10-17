@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Jonny Evans,Leicester City,0.09,0.16,Saved,7.0,Head,,James Maddison,Pass (Dead),James Maddison,Pass (Live)
+1,3,Jonny Evans,Leicester City,0.15,,Off Target,3.0,Head,,Jonny Evans,Shot,,
+2,7,Isaac Hayden,Newcastle Utd,0.02,,Blocked,34.0,Right Foot,,Yoshinori Mutō,Pass (Live),,
+3,15,Youri Tielemans,Leicester City,0.03,0.16,Saved,25.0,Left Foot,,Kelechi Iheanacho,Pass (Live),Ricardo Pereira,Pass (Live)
+4,19,Fabian Schär,Newcastle Utd,0.03,0.16,Saved,29.0,Right Foot,,Jonjo Shelvey,Pass (Live),Jetro Willems,Pass (Live)
+5,25,Joelinton,Newcastle Utd,0.58,0.59,Saved,12.0,Left Foot,,Jonjo Shelvey,Pass (Live),Fabian Schär,Interception
+6,32,Christian Fuchs,Leicester City,0.03,,Blocked,20.0,Left Foot,,James Maddison,Pass (Dead),James Maddison,Fouled
+7,33,Wilfred Ndidi,Leicester City,0.25,,Off Target,5.0,Head,,James Maddison,Pass (Dead),,
+8,36,Ayoze Pérez,Leicester City,0.43,0.89,Goal,11.0,Right Foot,Deflected,Ayoze Pérez,Take-On,,
+9,39,James Maddison,Leicester City,0.04,0.35,Goal,23.0,Left Foot,,Ayoze Pérez,Pass (Live),Ricardo Pereira,Pass (Live)
+10,41,Miguel Almirón,Newcastle Utd,0.07,,Off Target,11.0,Head,,Jonjo Shelvey,Pass (Live),Jetro Willems,Pass (Live)
+11,43,Kelechi Iheanacho,Leicester City,0.51,0.59,Saved,7.0,Left Foot,Deflected,Ayoze Pérez,Pass (Live),Youri Tielemans,Pass (Live)
+12,45,James Maddison,Leicester City,0.08,,Blocked,12.0,Right Foot,Deflected,Ayoze Pérez,Pass (Live),Ricardo Pereira,Pass (Live)
+13,,,,,,,,,,,,,
+14,53,James Maddison,Leicester City,0.06,,Off Target,25.0,Right Foot,Free kick,Ayoze Pérez,Fouled,Ricardo Pereira,Pass (Live)
+15,55,James Maddison,Leicester City,0.03,0.27,Saved,30.0,Left Foot,,Ayoze Pérez,Pass (Live),Ricardo Pereira,Pass (Live)
+16,59,Joelinton,Newcastle Utd,0.04,,Off Target,19.0,Left Foot,,Miguel Almirón,Pass (Live),Federico Fernández,Fouled
+17,60,Kelechi Iheanacho,Leicester City,0.39,0.46,Saved,15.0,Left Foot,,Ayoze Pérez,Pass (Live),Youri Tielemans,Pass (Live)
+18,60,Ayoze Pérez,Leicester City,0.41,0.32,Saved,12.0,Right Foot,Volley,Kelechi Iheanacho,Shot,,
+19,60,Ayoze Pérez,Leicester City,0.26,0.22,Saved,2.0,Right Foot,Deflected,Ayoze Pérez,Shot,,
+20,68,Demarai Gray,Leicester City,0.11,,Off Target,11.0,Right Foot,,Youri Tielemans,Pass (Live),Çağlar Söyüncü,Pass (Live)
+21,87,Hamza Choudhury,Leicester City,0.05,0.21,Goal,25.0,Right Foot,,Wilfred Ndidi,Pass (Live),Demarai Gray,Pass (Live)
+22,90+3,Demarai Gray,Leicester City,0.07,,Off Target,21.0,Right Foot,,Youri Tielemans,Pass (Live),Demarai Gray,Pass (Live)

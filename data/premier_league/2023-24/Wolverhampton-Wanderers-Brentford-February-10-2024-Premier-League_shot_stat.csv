@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Ethan Pinnock,Brentford,0.04,,Off Target,10.0,Head,,Mads Roerslev,Pass (Live),Mathias Jensen,Pass (Dead)
+1,9,Rayan Aït-Nouri,Wolves,0.05,,Off Target,26.0,Left Foot,,Pedro Neto,Pass (Live),Max Kilman,Pass (Live)
+2,11,Neal Maupay,Brentford,0.37,0.25,Saved,12.0,Left Foot,,Nathan Collins,Interception,,
+3,12,Neal Maupay,Brentford,0.09,0.05,Saved,10.0,Head,,Sergio Reguilón,Pass (Live),Mathias Jensen,Pass (Dead)
+4,14,Matheus Cunha,Wolves,0.04,0.06,Saved,15.0,Left Foot,,Pedro Neto,Pass (Live),Nélson Semedo,Tackle
+5,14,Matheus Cunha,Wolves,0.08,0.34,Saved,10.0,Right Foot,,Nélson Semedo,Pass (Live),João Gomes,Pass (Live)
+6,20,Mads Roerslev,Brentford,0.12,,Off Target,7.0,Right Foot,,Nathan Collins,Pass (Live),Neal Maupay,Pass (Live)
+7,26,Mathias Jensen,Brentford,0.02,,Off Target,33.0,Right Foot,,,,,
+8,31,Neal Maupay,Brentford,0.18,0.53,Saved,15.0,Right Foot,,Neal Maupay,Take-On,Christian Nørgaard,Pass (Live)
+9,35,Christian Nørgaard,Brentford,0.7,0.49,Goal,3.0,Head,,Sergio Reguilón,Pass (Dead),,
+10,44,Pedro Neto,Wolves,0.12,0.56,Saved,8.0,Head,,Pablo Sarabia,Pass (Live),Jean-Ricner Bellegarde,Pass (Live)
+11,45+1,Mario Lemina,Wolves,0.02,,Off Target,33.0,Right Foot,,Rayan Aït-Nouri,Pass (Live),Toti Gomes,Pass (Live)
+12,,,,,,,,,,,,,
+13,50,Pedro Neto,Wolves,0.09,,Blocked,14.0,Left Foot,,Rayan Aït-Nouri,Pass (Live),Pablo Sarabia,Pass (Live)
+14,54,Mario Lemina,Wolves,0.07,,Blocked,21.0,Right Foot,,Pablo Sarabia,Pass (Live),Nathan Fraser,Pass (Live)
+15,61,Pablo Sarabia,Wolves,0.04,,Blocked,17.0,Right Foot,Volley,Rayan Aït-Nouri,Pass (Live),Rayan Aït-Nouri,Pass (Dead)
+16,61,Pedro Neto,Wolves,0.03,0.22,Saved,12.0,Right Foot,,Pablo Sarabia,Shot,,
+17,61,Max Kilman,Wolves,0.14,,Off Target,7.0,Head,,Pedro Neto,Pass (Dead),Pedro Neto,Take-On
+18,66,Pablo Sarabia,Wolves,0.04,0.18,Saved,23.0,Left Foot,Free kick,Pablo Sarabia,Fouled,Nathan Fraser,Pass (Live)
+19,66,Rayan Aït-Nouri,Wolves,0.15,,Off Target,9.0,Head,,Max Kilman,Pass (Live),Max Kilman,Take-On
+20,67,Mario Lemina,Wolves,0.05,,Blocked,15.0,Right Foot,Volley,Jean-Ricner Bellegarde,Pass (Live),Max Kilman,Pass (Live)
+21,70,Jean-Ricner Bellegarde,Wolves,0.04,,Off Target,24.0,Right Foot,,Nathan Fraser,Pass (Live),Mario Lemina,Pass (Live)
+22,73,Ivan Toney,Brentford,0.01,0.13,Saved,24.0,Right Foot,,Nathan Collins,Pass (Live),Christian Nørgaard,Pass (Live)
+23,77,Ivan Toney,Brentford,0.4,0.5,Goal,12.0,Right Foot,,Vitaly Janelt,Pass (Live),Yehor Yarmoliuk,Pass (Live)
+24,82,Tommy Doyle,Wolves,0.02,,Off Target,27.0,Right Foot,,Nélson Semedo,Pass (Live),Pedro Neto,Pass (Live)
+25,90+6,Mario Lemina,Wolves,0.03,,Off Target,22.0,Left Foot,Volley,Craig Dawson,Pass (Live),Matt Doherty,Pass (Live)
+26,90+8,Matt Doherty,Wolves,0.02,,Off Target,9.0,Head,,Pablo Sarabia,Pass (Dead),,

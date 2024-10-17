@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Ashley Barnes,Burnley,0.38,,Off Target,16.0,Right Foot,,Matthew Lowton,Pass (Live),Ashley Westwood,Pass (Live)
+1,10,Kai Havertz,Chelsea,0.04,0.16,Saved,13.0,Head,,Kai Havertz,Pass (Live),Reece James,Pass (Live)
+2,16,Tammy Abraham,Chelsea,0.04,0.22,Saved,16.0,Head,,N'Golo Kanté,Pass (Live),Thiago Silva,Pass (Live)
+3,17,Reece James,Chelsea,0.02,,Blocked,28.0,Right Foot,,Mason Mount,Pass (Dead),Tammy Abraham,Shot
+4,26,Hakim Ziyech,Chelsea,0.06,0.09,Goal,19.0,Left Foot,,Tammy Abraham,Pass (Live),Timo Werner,Pass (Live)
+5,38,Tammy Abraham,Chelsea,0.05,,Blocked,12.0,Head,,Timo Werner,Pass (Live),Hakim Ziyech,Pass (Live)
+6,44,Mason Mount,Chelsea,0.03,,Blocked,31.0,Right Foot,,Timo Werner,Pass (Live),Timo Werner,Take-On
+7,45,Timo Werner,Chelsea,0.1,0.37,Saved,9.0,Left Foot,Volley,,,,
+8,,,,,,,,,,,,,
+9,50,Mason Mount,Chelsea,0.05,0.21,Saved,33.0,Right Foot,Free kick,Timo Werner,Fouled,Kai Havertz,Pass (Live)
+10,52,Mason Mount,Chelsea,0.03,0.08,Saved,23.0,Right Foot,,Kai Havertz,Pass (Live),Hakim Ziyech,Pass (Live)
+11,57,Ashley Barnes,Burnley,0.03,,Off Target,30.0,Left Foot,,Josh Brownhill,Pass (Live),,
+12,59,James Tarkowski,Burnley,0.03,,Off Target,21.0,Left Foot,,Jay Rodriguez,Pass (Live),Ashley Barnes,Pass (Live)
+13,63,Kurt Zouma,Chelsea,0.1,0.24,Goal,8.0,Head,,,,,
+14,69,Jay Rodriguez,Burnley,0.04,,Blocked,28.0,Right Foot,,Jay Rodriguez,Take-On,Ashley Barnes,Pass (Live)
+15,70,Timo Werner,Chelsea,0.25,0.84,Goal,14.0,Right Foot,,Hakim Ziyech,Pass (Live),Reece James,Pass (Live)
+16,74,Reece James,Chelsea,0.03,,Off Target,22.0,Left Foot,,Callum Hudson-Odoi,Pass (Live),Reece James,Pass (Live)
+17,87,N'Golo Kanté,Chelsea,0.04,,Blocked,25.0,Left Foot,,Callum Hudson-Odoi,Pass (Live),Olivier Giroud,Pass (Live)
+18,88,Thiago Silva,Chelsea,0.05,0.04,Saved,10.0,Head,,Mason Mount,Pass (Dead),N'Golo Kanté,Shot
+19,90+2,Matthew Lowton,Burnley,0.03,,Off Target,27.0,Right Foot,,Matthew Lowton,Pass (Live),Robbie Brady,Pass (Live)

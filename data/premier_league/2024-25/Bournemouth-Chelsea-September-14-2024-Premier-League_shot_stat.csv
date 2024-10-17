@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Marcus Tavernier,Bournemouth,0.02,0.0,Woodwork,30.0,Left Foot,,Lewis Cook,Pass (Live),,
+1,6,Noni Madueke,Chelsea,0.05,0.0,Blocked,24.0,Right Foot,,,,,
+2,8,Evanilson,Bournemouth,0.09,0.0,Off Target,9.0,Head,,Marcus Tavernier,Pass (Live),Justin Kluivert,Pass (Live)
+3,13,Antoine Semenyo,Bournemouth,0.01,0.0,Off Target,34.0,Right Foot,,Ryan Christie,Pass (Live),Marcus Tavernier,Pass (Live)
+4,16,Renato Veiga,Chelsea,0.03,0.0,Off Target,12.0,Head,,Pedro Neto,Pass (Live),Marc Cucurella,Pass (Live)
+5,17,Noni Madueke,Chelsea,0.01,0.0,Off Target,27.0,Left Foot,,Levi Colwill,Pass (Live),Renato Veiga,Shot
+6,17,Marcus Tavernier,Bournemouth,0.08,0.05,Saved,17.0,Left Foot,,Justin Kluivert,Pass (Live),Lewis Cook,Pass (Live)
+7,20,Noni Madueke,Chelsea,0.05,0.0,Blocked,12.0,Left Foot,,Wesley Fofana,Pass (Live),Wesley Fofana,Take-On
+8,23,Justin Kluivert,Bournemouth,0.17,0.84,Saved,13.0,Right Foot,,Evanilson,Pass (Live),Marcus Tavernier,Pass (Live)
+9,24,Lewis Cook,Bournemouth,0.02,0.03,Saved,31.0,Right Foot,,Justin Kluivert,Pass (Live),Marcos Senesi,Pass (Live)
+10,34,Nicolas Jackson,Chelsea,0.04,0.13,Saved,13.0,Left Foot,,Levi Colwill,Pass (Live),Noni Madueke,Pass (Live)
+11,38,Evanilson (pen),Bournemouth,0.79,0.9,Saved,13.0,Right Foot,,Evanilson,Fouled,,
+12,39,Milos Kerkez,Bournemouth,0.05,0.0,Blocked,22.0,Left Foot,,Evanilson,Shot,,
+13,44,Lewis Cook,Bournemouth,0.02,0.0,Off Target,31.0,Right Foot,,,,,
+14,45+1,Lewis Cook,Bournemouth,0.01,0.0,Off Target,34.0,Right Foot,,Adam Smith,Take-On,Adam Smith,Interception
+15,45+2,Evanilson,Bournemouth,0.03,0.0,Off Target,15.0,Right Foot,,Ryan Christie,Pass (Live),Marcus Tavernier,Pass (Live)
+16,,,,,,,,,,,,,
+17,50,Milos Kerkez,Bournemouth,0.02,0.0,Off Target,27.0,Left Foot,,Milos Kerkez,Tackle,,
+18,52,Justin Kluivert,Bournemouth,0.12,0.57,Saved,13.0,Right Foot,,Justin Kluivert,Take-On,Lewis Cook,Pass (Live)
+19,56,Nicolas Jackson,Chelsea,0.08,0.0,Off Target,17.0,Right Foot,,Jadon Sancho,Pass (Live),Marc Cucurella,Pass (Live)
+20,58,Antoine Semenyo,Bournemouth,0.04,0.0,Off Target,26.0,Right Foot,,Marcus Tavernier,Pass (Dead),Antoine Semenyo,Fouled
+21,59,Ryan Christie,Bournemouth,0.08,0.0,Blocked,17.0,Left Foot,,Ryan Christie,Pass (Live),Marcus Tavernier,Pass (Live)
+22,64,Moisés Caicedo,Chelsea,0.02,0.0,Blocked,29.0,Right Foot,,Cole Palmer,Pass (Live),João Félix,Pass (Live)
+23,66,Nicolas Jackson,Chelsea,0.19,0.0,Blocked,8.0,Right Foot,,Jadon Sancho,Pass (Live),Marc Cucurella,Pass (Live)
+24,78,Renato Veiga,Chelsea,0.01,0.09,Saved,31.0,Left Foot,,Levi Colwill,Pass (Live),Tosin Adarabioyo,Pass (Live)
+25,84,Luis Sinisterra,Bournemouth,0.09,0.0,Blocked,17.0,Right Foot,,Illia Zabarnyi,Pass (Live),Marcos Senesi,Pass (Live)
+26,86,Christopher Nkunku,Chelsea,0.3,0.96,Goal,10.0,Right Foot,,Christopher Nkunku,Take-On,Jadon Sancho,Pass (Live)
+27,89,Antoine Semenyo,Bournemouth,0.05,0.0,Blocked,16.0,Right Foot,,Enes Ünal,Pass (Live),Lewis Cook,Pass (Live)
+28,90+5,Enes Ünal,Bournemouth,0.03,0.05,Saved,27.0,Right Foot,,Luis Sinisterra,Pass (Live),Marcos Senesi,Pass (Live)
+29,90+5,Enes Ünal,Bournemouth,0.06,0.05,Saved,11.0,Head,,Philip Billing,Pass (Live),Enes Ünal,Shot

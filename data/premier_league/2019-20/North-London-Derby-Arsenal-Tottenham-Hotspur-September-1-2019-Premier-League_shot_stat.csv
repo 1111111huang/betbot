@@ -1,0 +1,41 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Nicolas Pépé,Arsenal,0.05,,Off Target,19.0,Left Foot,,Sead Kolašinac,Pass (Live),Alexandre Lacazette,Pass (Live)
+1,5,Ainsley Maitland-Niles,Arsenal,0.03,,Blocked,21.0,Right Foot,,,,,
+2,10,Alexandre Lacazette,Arsenal,0.05,,Off Target,26.0,Right Foot,,Alexandre Lacazette,Take-On,Granit Xhaka,Pass (Live)
+3,10,Érik Lamela,Tottenham,0.07,0.22,Saved,20.0,Right Foot,,Son Heung-min,Pass (Live),Harry Kane,Pass (Live)
+4,10,Christian Eriksen,Tottenham,0.69,0.93,Goal,4.0,Left Foot,,Érik Lamela,Shot,,
+5,15,Christian Eriksen,Tottenham,0.03,0.11,Saved,30.0,Right Foot,,Harry Winks,Pass (Live),,
+6,18,Son Heung-min,Tottenham,0.06,0.46,Saved,22.0,Right Foot,,Christian Eriksen,Pass (Live),Harry Winks,Pass (Live)
+7,23,Nicolas Pépé,Arsenal,0.05,,Blocked,6.0,Head,,Pierre-Emerick Aubameyang,Pass (Live),Sead Kolašinac,Pass (Live)
+8,24,Lucas Torreira,Arsenal,0.03,,Off Target,21.0,Right Foot,,Nicolas Pépé,Shot,,
+9,27,Nicolas Pépé,Arsenal,0.06,,Off Target,31.0,Left Foot,Free kick,Alexandre Lacazette,Fouled,Mattéo Guendouzi,Pass (Live)
+10,36,Harry Kane,Tottenham,0.04,0.14,Saved,25.0,Right Foot,,Harry Kane,Take-On,Harry Winks,Pass (Live)
+11,38,Christian Eriksen,Tottenham,0.05,0.21,Saved,31.0,Right Foot,Free kick,Érik Lamela,Fouled,Christian Eriksen,Pass (Live)
+12,40,Harry Kane (pen),Tottenham,0.79,0.99,Goal,13.0,Right Foot,,Son Heung-min,Fouled,Harry Winks,Pass (Live)
+13,43,Nicolas Pépé,Arsenal,0.07,0.2,Saved,12.0,Left Foot,,Ainsley Maitland-Niles,Pass (Live),Mattéo Guendouzi,Pass (Live)
+14,44,Moussa Sissoko,Tottenham,0.03,,Off Target,17.0,Right Foot,,Érik Lamela,Pass (Live),Christian Eriksen,Pass (Dead)
+15,45+1,Alexandre Lacazette,Arsenal,0.06,0.06,Saved,25.0,Right Foot,Free kick,Pierre-Emerick Aubameyang,Fouled,Pierre-Emerick Aubameyang,Take-On
+16,45+2,Alexandre Lacazette,Arsenal,0.49,0.81,Goal,6.0,Left Foot,,Alexandre Lacazette,Take-On,Nicolas Pépé,Pass (Live)
+17,,,,,,,,,,,,,
+18,46,Alexandre Lacazette,Arsenal,0.07,0.09,Saved,10.0,Head,,Ainsley Maitland-Niles,Pass (Live),Sead Kolašinac,Pass (Live)
+19,52,Son Heung-min,Tottenham,0.06,0.52,Saved,18.0,Left Foot,Deflected,Érik Lamela,Pass (Live),Son Heung-min,Pass (Live)
+20,52,Danny Rose,Tottenham,0.02,,Blocked,25.0,Left Foot,,Christian Eriksen,Pass (Dead),Son Heung-min,Shot
+21,56,Mattéo Guendouzi,Arsenal,0.09,0.39,Saved,15.0,Right Foot,,Lucas Torreira,Pass (Live),Ainsley Maitland-Niles,Pass (Live)
+22,56,Sead Kolašinac,Arsenal,0.28,,Off Target,3.0,Left Foot,,Alexandre Lacazette,Shot,,
+23,56,Alexandre Lacazette,Arsenal,0.04,,Off Target,8.0,Head,,Lucas Torreira,Pass (Dead),Mattéo Guendouzi,Shot
+24,57,Alexandre Lacazette,Arsenal,0.03,,Off Target,27.0,Right Foot,Volley,,,,
+25,59,Harry Kane,Tottenham,0.05,,Woodwork,14.0,Right Foot,,Christian Eriksen,Pass (Live),Harry Kane,Pass (Live)
+26,60,Christian Eriksen,Tottenham,0.02,0.14,Saved,25.0,Left Foot,,Son Heung-min,Pass (Live),Christian Eriksen,Pass (Dead)
+27,62,Pierre-Emerick Aubameyang,Arsenal,0.03,,Blocked,25.0,Right Foot,,Granit Xhaka,Pass (Live),Lucas Torreira,Pass (Live)
+28,65,Dani Ceballos,Arsenal,0.03,0.12,Saved,32.0,Right Foot,,Ainsley Maitland-Niles,Pass (Live),Pierre-Emerick Aubameyang,Pass (Live)
+29,68,Mattéo Guendouzi,Arsenal,0.03,,Blocked,27.0,Right Foot,,Dani Ceballos,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+30,68,Pierre-Emerick Aubameyang,Arsenal,0.06,,Off Target,10.0,Head,,Sead Kolašinac,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+31,71,Pierre-Emerick Aubameyang,Arsenal,0.5,0.77,Goal,10.0,Right Foot,Volley,Mattéo Guendouzi,Pass (Live),Dani Ceballos,Pass (Live)
+32,75,Granit Xhaka,Arsenal,0.02,0.12,Saved,32.0,Left Foot,,Dani Ceballos,Pass (Dead),Mattéo Guendouzi,Fouled
+33,77,Nicolas Pépé,Arsenal,0.03,,Off Target,20.0,Left Foot,,Nicolas Pépé,Pass (Live),Ainsley Maitland-Niles,Interception
+34,83,Pierre-Emerick Aubameyang,Arsenal,0.12,,Blocked,13.0,Right Foot,,Henrikh Mkhitaryan,Pass (Live),Sead Kolašinac,Pass (Live)
+35,85,Nicolas Pépé,Arsenal,0.05,,Off Target,17.0,Left Foot,,Granit Xhaka,Pass (Live),Granit Xhaka,Pass (Dead)
+36,90+1,Henrikh Mkhitaryan,Arsenal,0.07,,Blocked,13.0,Right Foot,,Nicolas Pépé,Pass (Live),Granit Xhaka,Pass (Live)
+37,90+1,Dani Ceballos,Arsenal,0.04,,Blocked,21.0,Right Foot,,Henrikh Mkhitaryan,Shot,,
+38,90+5,Nicolas Pépé,Arsenal,0.03,,Blocked,23.0,Left Foot,,Nicolas Pépé,Pass (Live),Granit Xhaka,Pass (Live)
+39,90+5,Moussa Sissoko,Tottenham,0.11,,Off Target,12.0,Right Foot,,Harry Kane,Pass (Live),Dele Alli,Pass (Live)

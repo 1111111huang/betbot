@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,İlkay Gündoğan,Manchester City,0.03,,Off Target,27.0,Left Foot,,Rodri,Pass (Live),Phil Foden,Pass (Live)
+1,6,Julián Álvarez,Manchester City,0.02,,Blocked,15.0,Right Foot,,İlkay Gündoğan,Pass (Dead),Bernardo Silva,Take-On
+2,6,Rodri,Manchester City,0.07,,Off Target,8.0,Other,,İlkay Gündoğan,Pass (Dead),Julián Álvarez,Shot
+3,6,Julián Álvarez,Manchester City,0.18,0.13,Saved,8.0,Right Foot,,Rodri,Shot,,
+4,12,Erling Haaland,Manchester City,0.27,0.75,Goal,6.0,Left Foot,Volley,İlkay Gündoğan,Pass (Dead),Phil Foden,Pass (Live)
+5,17,Renan Lodi,Nott'ham Forest,0.24,,Off Target,3.0,Head,,Neco Williams,Pass (Live),Joe Worrall,Pass (Live)
+6,23,Erling Haaland,Manchester City,0.84,0.56,Goal,9.0,Right Foot,,Erling Haaland,Pass (Live),İlkay Gündoğan,Pass (Live)
+7,29,Erling Haaland,Manchester City,0.07,,Off Target,9.0,Head,,İlkay Gündoğan,Pass (Dead),João Cancelo,Fouled
+8,38,Erling Haaland,Manchester City,0.45,0.91,Goal,2.0,Head,,John Stones,Pass (Live),Phil Foden,Pass (Live)
+9,44,Julián Álvarez,Manchester City,0.07,,Woodwork,21.0,Left Foot,,Julián Álvarez,Take-On,Phil Foden,Pass (Live)
+10,,,,,,,,,,,,,
+11,46,İlkay Gündoğan,Manchester City,0.02,,Off Target,30.0,Left Foot,,Julián Álvarez,Pass (Live),İlkay Gündoğan,Pass (Live)
+12,50,João Cancelo,Manchester City,0.05,0.31,Goal,22.0,Right Foot,,Bernardo Silva,Pass (Live),İlkay Gündoğan,Pass (Live)
+13,54,Brennan Johnson,Nott'ham Forest,0.08,,Off Target,22.0,Right Foot,,Neco Williams,Pass (Live),Neco Williams,Interception
+14,57,Morgan Gibbs-White,Nott'ham Forest,0.04,0.11,Saved,22.0,Right Foot,,Morgan Gibbs-White,Take-On,Remo Freuler,Pass (Live)
+15,60,Bernardo Silva,Manchester City,0.05,0.05,Saved,23.0,Left Foot,,Riyad Mahrez,Pass (Live),Cole Palmer,Pass (Live)
+16,65,Julián Álvarez,Manchester City,0.27,0.72,Goal,11.0,Right Foot,,,,,
+17,70,Riyad Mahrez,Manchester City,0.45,,Off Target,17.0,Left Foot,,İlkay Gündoğan,Pass (Live),Ederson,Pass (Live)
+18,72,Emmanuel Dennis,Nott'ham Forest,0.02,,Blocked,17.0,Left Foot,,Dean Henderson,Pass (Live),Taiwo Awoniyi,Pass (Live)
+19,85,Remo Freuler,Nott'ham Forest,0.04,,Blocked,26.0,Right Foot,,Lewis O'Brien,Pass (Live),Harry Toffolo,Pass (Live)
+20,87,Emmanuel Dennis,Nott'ham Forest,0.03,,Blocked,28.0,Right Foot,Free kick,Lewis O'Brien,Fouled,Taiwo Awoniyi,Pass (Live)
+21,87,Riyad Mahrez,Manchester City,0.08,,Blocked,18.0,Left Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Tackle
+22,87,Julián Álvarez,Manchester City,0.15,0.43,Goal,14.0,Left Foot,,Riyad Mahrez,Shot,,
+23,89,Kevin De Bruyne,Manchester City,0.25,0.32,Saved,11.0,Right Foot,,Julián Álvarez,Pass (Live),Riyad Mahrez,Pass (Live)
+24,90+2,Taiwo Awoniyi,Nott'ham Forest,0.15,,Off Target,10.0,Head,,Jack Colback,Pass (Live),Lewis O'Brien,Pass (Live)
+25,90+3,Harry Toffolo,Nott'ham Forest,0.05,,Off Target,19.0,Left Foot,,Lewis O'Brien,Pass (Live),Giulian Biancone,Pass (Live)

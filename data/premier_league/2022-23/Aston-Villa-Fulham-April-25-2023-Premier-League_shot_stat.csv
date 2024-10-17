@@ -1,0 +1,17 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Andreas Pereira,Fulham,0.1,,Off Target,15.0,Right Foot,Volley,Harrison Reed,Pass (Live),Daniel James,Pass (Live)
+1,6,Emi Buendía,Aston Villa,0.1,,Blocked,17.0,Left Foot,,Álex Moreno,Pass (Live),Douglas Luiz,Pass (Live)
+2,10,Ashley Young,Aston Villa,0.02,,Blocked,23.0,Right Foot,Deflected,Ashley Young,Pass (Live),Douglas Luiz,Pass (Live)
+3,10,Jacob Ramsey,Aston Villa,0.04,,Off Target,23.0,Right Foot,Volley,Ashley Young,Shot,,
+4,20,Ollie Watkins,Aston Villa,0.08,,Blocked,14.0,Right Foot,,,,,
+5,21,Tyrone Mings,Aston Villa,0.09,0.55,Goal,6.0,Head,,John McGinn,Pass (Dead),Ollie Watkins,Shot
+6,26,Álex Moreno,Aston Villa,0.02,,Blocked,15.0,Left Foot,Volley,Ashley Young,Pass (Live),John McGinn,Pass (Live)
+7,35,Ollie Watkins,Aston Villa,0.05,0.03,Saved,23.0,Right Foot,,Jacob Ramsey,Pass (Live),Emiliano Martínez,Pass (Live)
+8,38,Emi Buendía,Aston Villa,0.07,,Blocked,23.0,Right Foot,,,,,
+9,45+3,John McGinn,Aston Villa,0.04,0.15,Saved,10.0,Head,,Jacob Ramsey,Pass (Live),Emi Buendía,Pass (Live)
+10,,,,,,,,,,,,,
+11,56,Ezri Konsa,Aston Villa,0.22,,Blocked,5.0,Head,,John McGinn,Pass (Dead),,
+12,73,Ollie Watkins,Aston Villa,0.09,,Off Target,9.0,Left Foot,,John McGinn,Pass (Live),Leander Dendoncker,Pass (Live)
+13,80,Douglas Luiz,Aston Villa,0.08,,Off Target,24.0,Right Foot,,Ezri Konsa,Pass (Live),Douglas Luiz,Pass (Live)
+14,87,Ollie Watkins,Aston Villa,0.04,,Blocked,17.0,Right Foot,,Emi Buendía,Pass (Live),,
+15,90+1,John McGinn,Aston Villa,0.08,,Off Target,20.0,Left Foot,,Douglas Luiz,Pass (Live),Douglas Luiz,Take-On

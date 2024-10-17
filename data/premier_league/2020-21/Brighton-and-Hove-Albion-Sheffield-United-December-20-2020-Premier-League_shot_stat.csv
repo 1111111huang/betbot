@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Leandro Trossard,Brighton,0.06,,Blocked,11.0,Right Foot,,Neal Maupay,Pass (Live),Aaron Connolly,Pass (Live)
+1,11,Lewis Dunk,Brighton,0.04,,Off Target,12.0,Head,,Leandro Trossard,Pass (Dead),,
+2,12,John Lundstram,Sheffield Utd,0.01,0.02,Saved,63.0,Right Foot,Free kick,Rhian Brewster,Fouled,John Lundstram,Pass (Live)
+3,20,Adam Lallana,Brighton,0.04,,Blocked,27.0,Left Foot,,Solly March,Pass (Live),Leandro Trossard,Pass (Live)
+4,23,Aaron Connolly,Brighton,0.04,0.08,Saved,16.0,Right Foot,,Adam Lallana,Pass (Live),,
+5,26,Neal Maupay,Brighton,0.31,,Blocked,9.0,Right Foot,,Leandro Trossard,Pass (Live),Yves Bissouma,Take-On
+6,31,Neal Maupay,Brighton,0.24,,Blocked,5.0,Right Foot,,Adam Webster,Pass (Live),Leandro Trossard,Pass (Dead)
+7,34,David McGoldrick,Sheffield Utd,0.02,0.33,Saved,26.0,Right Foot,,John Lundstram,Pass (Live),David McGoldrick,Pass (Dead)
+8,42,Aaron Connolly,Brighton,0.05,,Off Target,11.0,Other,,Solly March,Pass (Live),Neal Maupay,Pass (Live)
+9,,,,,,,,,,,,,
+10,49,Leandro Trossard,Brighton,0.07,,Off Target,15.0,Left Foot,,Alireza Jahanbakhsh,Pass (Live),Adam Lallana,Pass (Live)
+11,57,Enda Stevens,Sheffield Utd,0.1,,Off Target,16.0,Left Foot,,Oliver Burke,Pass (Live),David McGoldrick,Pass (Live)
+12,63,Jayden Bogle,Sheffield Utd,0.09,0.05,Goal,13.0,Left Foot,Deflected,David McGoldrick,Pass (Live),Enda Stevens,Pass (Live)
+13,66,Adam Webster,Brighton,0.03,0.07,Saved,25.0,Left Foot,,Yves Bissouma,Pass (Live),Solly March,Pass (Live)
+14,68,Yves Bissouma,Brighton,0.03,,Blocked,25.0,Left Foot,,Solly March,Pass (Live),Lewis Dunk,Pass (Live)
+15,73,Adam Webster,Brighton,0.07,,Off Target,9.0,Head,,Leandro Trossard,Pass (Dead),Yves Bissouma,Pass (Live)
+16,74,Andi Zeqiri,Brighton,0.03,,Blocked,24.0,Right Foot,,Solly March,Pass (Live),Yves Bissouma,Pass (Live)
+17,78,Solly March,Brighton,0.02,,Blocked,20.0,Left Foot,,Leandro Trossard,Pass (Live),Solly March,Pass (Dead)
+18,78,Adam Webster,Brighton,0.05,0.1,Saved,11.0,Head,,Leandro Trossard,Pass (Dead),Solly March,Shot
+19,82,Aaron Connolly,Brighton,0.53,,Off Target,3.0,Head,,Alireza Jahanbakhsh,Pass (Live),Leandro Trossard,Pass (Live)
+20,84,Oliver Burke,Sheffield Utd,0.32,,Off Target,11.0,Right Foot,,Ben Osborn,Pass (Live),Oliver Burke,Pass (Live)
+21,85,Andi Zeqiri,Brighton,0.06,,Off Target,9.0,Head,,Solly March,Pass (Dead),Leandro Trossard,Pass (Live)
+22,87,Danny Welbeck,Brighton,0.49,0.72,Goal,5.0,Left Foot,Volley,Yves Bissouma,Pass (Live),Leandro Trossard,Pass (Dead)
+23,90,Leandro Trossard,Brighton,0.03,,Off Target,30.0,Right Foot,,Aaron Connolly,Pass (Live),Yves Bissouma,Pass (Live)
+24,90+5,Danny Welbeck,Brighton,0.08,,Blocked,9.0,Head,Deflected,Adam Lallana,Pass (Live),Alireza Jahanbakhsh,Pass (Live)
+25,90+5,Alireza Jahanbakhsh,Brighton,0.5,,Woodwork,4.0,Head,,Danny Welbeck,Shot,,
+26,90+5,Alireza Jahanbakhsh,Brighton,0.08,,Blocked,12.0,Left Foot,,Lewis Dunk,Pass (Live),Leandro Trossard,Pass (Dead)

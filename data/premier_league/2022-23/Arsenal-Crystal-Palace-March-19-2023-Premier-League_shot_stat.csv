@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Wilfried Zaha,Crystal Palace,0.03,0.25,Saved,20.0,Right Foot,,Jeffrey Schlupp,Pass (Live),,
+1,12,Michael Olise,Crystal Palace,0.04,,Blocked,19.0,Left Foot,,Odsonne Édouard,Pass (Live),,
+2,18,Martin Ødegaard,Arsenal,0.09,0.06,Saved,21.0,Left Foot,,Thomas Partey,Pass (Live),Leandro Trossard,Pass (Live)
+3,28,Gabriel Martinelli,Arsenal,0.11,0.26,Goal,13.0,Left Foot,,Bukayo Saka,Pass (Live),Ben White,Pass (Live)
+4,30,Granit Xhaka,Arsenal,0.21,,Blocked,6.0,Head,,Leandro Trossard,Pass (Dead),,
+5,35,Bukayo Saka,Arsenal,0.05,,Blocked,18.0,Left Foot,,Martin Ødegaard,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+6,39,Thomas Partey,Arsenal,0.12,,Off Target,9.0,Head,,Martin Ødegaard,Pass (Dead),Granit Xhaka,Fouled
+7,41,Martin Ødegaard,Arsenal,0.11,,Off Target,17.0,Left Foot,,Ben White,Pass (Live),Martin Ødegaard,Pass (Live)
+8,43,Bukayo Saka,Arsenal,0.14,0.11,Goal,11.0,Left Foot,,Ben White,Pass (Live),Bukayo Saka,Pass (Live)
+9,44,Leandro Trossard,Arsenal,0.03,,Blocked,27.0,Left Foot,,Granit Xhaka,Tackle,,
+10,45+1,Thomas Partey,Arsenal,0.03,,Off Target,29.0,Right Foot,,Gabriel Magalhães,Pass (Live),Martin Ødegaard,Pass (Live)
+11,,,,,,,,,,,,,
+12,47,Oleksandr Zinchenko,Arsenal,0.05,,Blocked,27.0,Left Foot,,Martin Ødegaard,Pass (Live),Ben White,Pass (Live)
+13,53,Wilfried Zaha,Crystal Palace,0.03,0.06,Saved,16.0,Left Foot,,Joel Ward,Pass (Live),Jeffrey Schlupp,Pass (Live)
+14,55,Granit Xhaka,Arsenal,0.19,0.91,Goal,9.0,Left Foot,,Leandro Trossard,Pass (Live),Granit Xhaka,Pass (Live)
+15,63,Jeffrey Schlupp,Crystal Palace,0.25,0.2,Goal,5.0,Left Foot,,Michael Olise,Pass (Dead),Marc Guéhi,Pass (Live)
+16,67,Rob Holding,Arsenal,0.03,,Blocked,17.0,Right Foot,,Rob Holding,Take-On,Thomas Partey,Pass (Live)
+17,68,Gabriel Jesus,Arsenal,0.2,,Off Target,4.0,Head,,Bukayo Saka,Pass (Dead),Rob Holding,Shot
+18,72,Wilfried Zaha,Crystal Palace,0.07,,Off Target,10.0,Left Foot,,Jeffrey Schlupp,Pass (Live),,
+19,74,Bukayo Saka,Arsenal,0.17,0.16,Goal,16.0,Left Foot,,Kieran Tierney,Pass (Live),,
+20,78,Michael Olise,Crystal Palace,0.09,,Blocked,27.0,Left Foot,Free kick,Wilfried Zaha,Fouled,Jordan Ayew,Pass (Live)
+21,86,Martin Ødegaard,Arsenal,0.04,,Off Target,23.0,Left Foot,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+22,88,James Tomkins,Crystal Palace,0.14,0.3,Saved,10.0,Right Foot,Volley,Eberechi Eze,Pass (Dead),Wilfried Zaha,Fouled
+23,90+1,Jordan Ayew,Crystal Palace,0.04,,Blocked,10.0,Left Foot,,Wilfried Zaha,Pass (Live),Cheick Doucouré,Pass (Live)
+24,90+4,Eberechi Eze,Crystal Palace,0.1,0.37,Saved,15.0,Left Foot,,Jordan Ayew,Pass (Live),Wilfried Zaha,Pass (Live)

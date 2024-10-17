@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Ayoze Pérez,Leicester City,0.03,,Blocked,24.0,Right Foot,,James Maddison,Pass (Live),Ayoze Pérez,Pass (Live)
+1,10,Jamie Vardy,Leicester City,0.06,,Woodwork,15.0,Right Foot,,Ayoze Pérez,Pass (Live),James Maddison,Pass (Live)
+2,14,James Maddison,Leicester City,0.03,,Off Target,38.0,Right Foot,Free kick,James Maddison,Fouled,Marc Albrighton,Pass (Live)
+3,24,Marc Albrighton,Leicester City,0.06,,Blocked,14.0,Left Foot,,Jamie Vardy,Pass (Live),Nampalys Mendy,Pass (Live)
+4,24,Ayoze Pérez,Leicester City,0.51,0.9,Goal,8.0,Right Foot,Volley,Marc Albrighton,Shot,,
+5,26,Oliver McBurnie,Sheffield Utd,0.1,0.42,Goal,8.0,Head,,John Lundstram,Pass (Dead),John Lundstram,Pass (Live)
+6,45,Ayoze Pérez,Leicester City,0.05,,Blocked,15.0,Right Foot,,Ayoze Pérez,Take-On,Ayoze Pérez,Fouled
+7,45,James Justin,Leicester City,0.05,,Blocked,17.0,Right Foot,,Jonny Evans,Pass (Live),Ayoze Pérez,Shot
+8,45+1,James Maddison,Leicester City,0.07,,Woodwork,14.0,Right Foot,,Ayoze Pérez,Pass (Live),Nampalys Mendy,Tackle
+9,,,,,,,,,,,,,
+10,49,Marc Albrighton,Leicester City,0.04,0.03,Saved,26.0,Right Foot,,Marc Albrighton,Take-On,Marc Albrighton,Pass (Live)
+11,65,Oliver McBurnie,Sheffield Utd,0.06,,Blocked,11.0,Head,,Chris Basham,Pass (Live),George Baldock,Pass (Live)
+12,65,Oliver McBurnie,Sheffield Utd,0.06,,Off Target,10.0,Head,,John Fleck,Pass (Dead),Oliver McBurnie,Shot
+13,68,Youri Tielemans,Leicester City,0.09,0.06,Saved,14.0,Right Foot,,James Justin,Fouled,,
+14,76,Kelechi Iheanacho,Leicester City,0.06,,Blocked,12.0,Left Foot,,James Maddison,Pass (Live),Kelechi Iheanacho,Pass (Live)
+15,77,Christian Fuchs,Leicester City,0.03,,Off Target,28.0,Left Foot,,Wilfred Ndidi,Pass (Live),Youri Tielemans,Pass (Live)
+16,84,Rhian Brewster,Sheffield Utd,0.02,,Off Target,30.0,Right Foot,,Sander Berge,Pass (Live),John Egan,Pass (Live)
+17,90,Jamie Vardy,Leicester City,0.35,0.68,Goal,15.0,Right Foot,,James Maddison,Pass (Live),,

@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10.0,Harvey Barnes,Leicester City,0.09,,Blocked,14.0,Right Foot,,Youri Tielemans,Pass (Live),Timothy Castagne,Pass (Live)
+1,10.0,Patson Daka,Leicester City,0.26,0.65,Goal,9.0,Right Foot,,Harvey Barnes,Shot,,
+2,16.0,Ryan Christie,Bournemouth,0.02,,Blocked,16.0,Left Foot,Volley,Jefferson Lerma,Pass (Live),Marcus Tavernier,Pass (Dead)
+3,16.0,Lewis Cook,Bournemouth,0.02,,Blocked,27.0,Right Foot,Volley,Ryan Christie,Shot,,
+4,19.0,Ryan Christie,Bournemouth,0.07,,Blocked,16.0,Left Foot,,Philip Billing,Pass (Live),,
+5,26.0,Patson Daka,Leicester City,0.24,0.77,Saved,5.0,Right Foot,,James Maddison,Pass (Live),Youri Tielemans,Pass (Live)
+6,32.0,Wout Faes,Leicester City,0.18,,Off Target,7.0,Head,,James Maddison,Pass (Dead),,
+7,32.0,Jonny Evans,Leicester City,0.17,0.05,Saved,4.0,Right Foot,Volley,Wout Faes,Shot,,
+8,36.0,Ryan Christie,Bournemouth,0.12,0.11,Saved,12.0,Left Foot,,Lewis Cook,Pass (Live),Ryan Christie,Pass (Live)
+9,43.0,Ryan Christie,Bournemouth,0.09,0.03,Saved,9.0,Head,,Lewis Cook,Pass (Live),Lewis Cook,Pass (Live)
+10,,,,,,,,,,,,,
+11,51.0,James Maddison,Leicester City,0.03,,Blocked,18.0,Left Foot,,Kiernan Dewsbury-Hall,Pass (Live),Timothy Castagne,Pass (Live)
+12,60.0,Marcus Tavernier,Bournemouth,0.06,,Off Target,28.0,Left Foot,Free kick,Philip Billing,Fouled,Lewis Cook,Pass (Live)
+13,62.0,Chris Mepham,Bournemouth,0.13,,Off Target,14.0,Left Foot,,Marcus Tavernier,Pass (Dead),Ryan Fredericks,Take-On
+14,64.0,James Maddison,Leicester City,0.04,0.37,Saved,31.0,Right Foot,Free kick,Patson Daka,Fouled,James Maddison,Pass (Live)
+15,67.0,Dominic Solanke,Bournemouth,0.06,,Blocked,13.0,Left Foot,Deflected,,,,
+16,68.0,Philip Billing,Bournemouth,0.16,0.51,Goal,10.0,Left Foot,Volley,Dominic Solanke,Shot,,
+17,70.0,Harvey Barnes,Leicester City,0.04,0.08,Saved,15.0,Right Foot,,James Maddison,Pass (Live),Jamie Vardy,Pass (Live)
+18,71.0,Ryan Christie,Bournemouth,0.42,0.65,Goal,5.0,Left Foot,,Dominic Solanke,Pass (Live),Philip Billing,Pass (Live)
+19,76.0,Jamie Vardy,Leicester City,0.03,,Off Target,17.0,Left Foot,Volley,James Justin,Pass (Live),Jamie Vardy,Pass (Live)

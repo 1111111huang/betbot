@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Gabriel Martinelli,Arsenal,0.04,,Blocked,14.0,Right Foot,,Thomas Partey,Pass (Live),Ben White,Pass (Live)
+1,3,Martin Ødegaard,Arsenal,0.09,,Off Target,14.0,Left Foot,Volley,Gabriel Martinelli,Shot,,
+2,5,Bukayo Saka,Arsenal,0.11,0.1,Saved,8.0,Left Foot,,Martin Ødegaard,Pass (Live),Eddie Nketiah,Pass (Live)
+3,5,Granit Xhaka,Arsenal,0.09,,Blocked,14.0,Right Foot,,Gabriel Martinelli,Pass (Live),Granit Xhaka,Pass (Live)
+4,7,Granit Xhaka,Arsenal,0.22,,Off Target,5.0,Left Foot,,Gabriel Martinelli,Pass (Live),Bukayo Saka,Pass (Live)
+5,11,Callum Wilson,Newcastle Utd,0.03,0.29,Saved,27.0,Right Foot,,Fabian Schär,Pass (Live),Sean Longstaff,Pass (Live)
+6,17,Fabian Schär,Newcastle Utd,0.14,,Off Target,8.0,Head,,Kieran Trippier,Pass (Dead),Miguel Almirón,Pass (Live)
+7,35,Gabriel Magalhães,Arsenal,0.07,,Off Target,11.0,Head,,Martin Ødegaard,Pass (Dead),Martin Ødegaard,Fouled
+8,38,Thomas Partey,Arsenal,0.03,,Blocked,29.0,Right Foot,,Bukayo Saka,Pass (Live),Eddie Nketiah,Pass (Live)
+9,43,Bruno Guimarães,Newcastle Utd,0.03,,Blocked,25.0,Right Foot,Volley,Fabian Schär,Fouled,,
+10,45+1,Sean Longstaff,Newcastle Utd,0.04,,Blocked,20.0,Right Foot,,Joelinton,Pass (Live),Joelinton,Pass (Live)
+11,45+2,Fabian Schär,Newcastle Utd,0.12,,Off Target,6.0,Head,,Kieran Trippier,Pass (Dead),Sean Longstaff,Shot
+12,45+2,Joelinton,Newcastle Utd,0.47,,Off Target,2.0,Head,,Fabian Schär,Shot,,
+13,,,,,,,,,,,,,
+14,49,Fabian Schär,Newcastle Utd,0.06,,Off Target,11.0,Head,,Kieran Trippier,Pass (Dead),Callum Wilson,Fouled
+15,49,Callum Wilson,Newcastle Utd,0.19,,Off Target,8.0,Right Foot,,Miguel Almirón,Pass (Live),Kieran Trippier,Pass (Live)
+16,56,Martin Ødegaard,Arsenal,0.09,,Off Target,21.0,Left Foot,,Granit Xhaka,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+17,59,Oleksandr Zinchenko,Arsenal,0.06,,Off Target,15.0,Right Foot,Volley,Bukayo Saka,Fouled,Granit Xhaka,Pass (Live)
+18,63,Gabriel Martinelli,Arsenal,0.02,0.48,Saved,26.0,Right Foot,,Ben White,Pass (Live),Bukayo Saka,Pass (Live)
+19,71,Gabriel Martinelli,Arsenal,0.02,,Blocked,16.0,Left Foot,,Bukayo Saka,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+20,79,Gabriel Martinelli,Arsenal,0.09,,Off Target,6.0,Head,,Martin Ødegaard,Pass (Dead),Martin Ødegaard,Pass (Live)
+21,85,Thomas Partey,Arsenal,0.05,,Blocked,28.0,Right Foot,,Bukayo Saka,Pass (Live),Takehiro Tomiyasu,Pass (Live)
+22,85,Gabriel Magalhães,Arsenal,0.02,,Off Target,33.0,Left Foot,,Thomas Partey,Pass (Live),Thomas Partey,Shot
+23,87,Eddie Nketiah,Arsenal,0.07,0.04,Saved,11.0,Left Foot,,Gabriel Magalhães,Pass (Live),Thomas Partey,Pass (Live)
+24,88,Eddie Nketiah,Arsenal,0.03,0.02,Saved,14.0,Head,,Granit Xhaka,Pass (Dead),Thomas Partey,Fouled
+25,90+7,Bukayo Saka,Arsenal,0.03,,Off Target,24.0,Left Foot,Volley,Gabriel Martinelli,Pass (Live),Granit Xhaka,Pass (Live)

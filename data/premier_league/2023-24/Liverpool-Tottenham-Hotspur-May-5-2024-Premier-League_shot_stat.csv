@@ -1,0 +1,38 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Yves Bissouma,Tottenham,0.04,,Off Target,23.0,Right Foot,,Son Heung-min,Fouled,Emerson,Pass (Live)
+1,8,Trent Alexander-Arnold,Liverpool,0.04,,Off Target,16.0,Right Foot,Volley,Harvey Elliott,Pass (Live),Andrew Robertson,Pass (Live)
+2,9,Mohamed Salah,Liverpool,0.08,0.05,Saved,11.0,Right Foot,,Harvey Elliott,Pass (Live),,
+3,9,Harvey Elliott,Liverpool,0.17,,Blocked,10.0,Right Foot,,Mohamed Salah,Shot,,
+4,16,Mohamed Salah,Liverpool,0.49,0.73,Goal,3.0,Head,,Cody Gakpo,Pass (Live),Wataru Endo,Pass (Live)
+5,22,Luis Díaz,Liverpool,0.18,0.21,Saved,3.0,Left Foot,,Andrew Robertson,Pass (Live),,
+6,34,Mohamed Salah,Liverpool,0.13,,Off Target,14.0,Left Foot,,Luis Díaz,Pass (Live),Alexis Mac Allister,Pass (Live)
+7,36,Andrew Robertson,Liverpool,0.05,,Blocked,15.0,Left Foot,Volley,Trent Alexander-Arnold,Pass (Live),Wataru Endo,Pass (Live)
+8,37,Cody Gakpo,Liverpool,0.02,0.02,Saved,26.0,Right Foot,,Wataru Endo,Pass (Live),Andrew Robertson,Pass (Live)
+9,41,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,25.0,Right Foot,,,,,
+10,41,Luis Díaz,Liverpool,0.09,,Off Target,10.0,Right Foot,Volley,Trent Alexander-Arnold,Pass (Live),Trent Alexander-Arnold,Shot
+11,42,Trent Alexander-Arnold,Liverpool,0.05,,Off Target,16.0,Left Foot,,Alexis Mac Allister,Pass (Live),,
+12,44,Harvey Elliott,Liverpool,0.08,0.02,Saved,13.0,Right Foot,,Cody Gakpo,Pass (Live),,
+13,45,Mohamed Salah,Liverpool,0.29,0.44,Saved,10.0,Left Foot,,Andrew Robertson,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+14,45,Andrew Robertson,Liverpool,0.86,0.99,Goal,3.0,Right Foot,,Mohamed Salah,Shot,,
+15,,,,,,,,,,,,,
+16,47,Mohamed Salah,Liverpool,0.13,0.07,Saved,10.0,Right Foot,,Harvey Elliott,Pass (Live),Wataru Endo,Pass (Live)
+17,50,Cody Gakpo,Liverpool,0.06,0.2,Goal,10.0,Head,,Harvey Elliott,Pass (Live),Harvey Elliott,Tackle
+18,52,Mohamed Salah,Liverpool,0.05,,Blocked,16.0,Left Foot,,Harvey Elliott,Pass (Live),Luis Díaz,Pass (Live)
+19,54,Brennan Johnson,Tottenham,0.1,0.37,Saved,11.0,Head,,Pedro Porro,Pass (Live),Pape Matar Sarr,Pass (Live)
+20,58,Pedro Porro,Tottenham,0.0,,Off Target,55.0,Right Foot,,Yves Bissouma,Pass (Dead),,
+21,59,Harvey Elliott,Liverpool,0.04,0.51,Goal,25.0,Left Foot,,Harvey Elliott,Take-On,Mohamed Salah,Pass (Live)
+22,62,James Maddison,Tottenham,0.12,,Blocked,25.0,Right Foot,Free kick,James Maddison,Fouled,,
+23,63,James Maddison,Tottenham,0.03,0.02,Saved,27.0,Left Foot,,Brennan Johnson,Pass (Live),Pape Matar Sarr,Pass (Live)
+24,66,James Maddison,Tottenham,0.05,,Off Target,22.0,Left Foot,,Richarlison,Pass (Live),Son Heung-min,Pass (Live)
+25,72,Harvey Elliott,Liverpool,0.06,0.02,Saved,23.0,Left Foot,,Luis Díaz,Pass (Live),Harvey Elliott,Pass (Live)
+26,72,Richarlison,Tottenham,0.47,0.38,Goal,9.0,Right Foot,,Brennan Johnson,Pass (Live),Yves Bissouma,Pass (Live)
+27,77,Son Heung-min,Tottenham,0.32,0.77,Goal,14.0,Right Foot,,Richarlison,Pass (Live),Oliver Skipp,Pass (Live)
+28,80,Ryan Gravenberch,Liverpool,0.1,,Off Target,11.0,Right Foot,Volley,Harvey Elliott,Pass (Live),Cody Gakpo,Pass (Live)
+29,82,Trent Alexander-Arnold,Liverpool,0.01,,Off Target,53.0,Right Foot,,Trent Alexander-Arnold,Interception,,
+30,85,Giovani Lo Celso,Tottenham,0.03,0.05,Saved,26.0,Left Foot,,Son Heung-min,Pass (Live),James Maddison,Pass (Live)
+31,86,Dominik Szoboszlai,Liverpool,0.06,,Off Target,12.0,Right Foot,,Mohamed Salah,Pass (Live),Dominik Szoboszlai,Pass (Live)
+32,87,Richarlison,Tottenham,0.05,0.33,Saved,12.0,Left Foot,,Son Heung-min,Pass (Live),Giovani Lo Celso,Pass (Live)
+33,90,Virgil van Dijk,Liverpool,0.05,,Off Target,10.0,Head,,Trent Alexander-Arnold,Pass (Dead),Mohamed Salah,Pass (Live)
+34,90+1,Son Heung-min,Tottenham,0.03,,Blocked,13.0,Right Foot,,Giovani Lo Celso,Pass (Live),James Maddison,Pass (Live)
+35,90+3,Virgil van Dijk,Liverpool,0.03,,Blocked,12.0,Head,,Dominik Szoboszlai,Pass (Dead),Trent Alexander-Arnold,Pass (Dead)
+36,90+7,Darwin Núñez,Liverpool,0.47,0.1,Saved,24.0,Right Foot,,Mohamed Salah,Pass (Live),Dominik Szoboszlai,Pass (Live)

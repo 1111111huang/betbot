@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,12.0,Virgil van Dijk,Liverpool,0.06,,Blocked,9.0,Head,,Trent Alexander-Arnold,Pass (Live),Trent Alexander-Arnold,Take-On
+1,13.0,Naby Keïta,Liverpool,0.03,,Blocked,24.0,Right Foot,Deflected,Sadio Mané,Pass (Live),Fabinho,Pass (Live)
+2,13.0,Mohamed Salah,Liverpool,0.05,,Off Target,13.0,Left Foot,,Andrew Robertson,Pass (Dead),Naby Keïta,Shot
+3,15.0,Sadio Mané,Liverpool,0.3,0.34,Saved,9.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Naby Keïta,Pass (Live)
+4,21.0,Trent Alexander-Arnold,Liverpool,0.02,,Blocked,29.0,Right Foot,,Roberto Firmino,Pass (Live),Sadio Mané,Pass (Live)
+5,21.0,Mohamed Salah,Liverpool,0.02,,Off Target,23.0,Left Foot,,Andrew Robertson,Pass (Live),Roberto Firmino,Pass (Dead)
+6,24.0,Georginio Wijnaldum,Liverpool,0.06,0.05,Saved,22.0,Right Foot,,Naby Keïta,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+7,25.0,Alexandre Lacazette,Arsenal,0.47,0.88,Goal,10.0,Left Foot,Volley,Alexandre Lacazette,Pass (Live),Granit Xhaka,Pass (Live)
+8,28.0,Mohamed Salah,Liverpool,0.05,0.03,Saved,13.0,Left Foot,,Mohamed Salah,Take-On,Roberto Firmino,Pass (Live)
+9,28.0,Sadio Mané,Liverpool,0.83,0.96,Goal,4.0,Left Foot,Volley,Mohamed Salah,Shot,,
+10,34.0,Andrew Robertson,Liverpool,0.56,0.67,Goal,8.0,Left Foot,,Mohamed Salah,Pass (Live),Roberto Firmino,Pass (Live)
+11,36.0,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,28.0,Right Foot,,Fabinho,Pass (Live),,
+12,,,,,,,,,,,,,
+13,47.0,Sadio Mané,Liverpool,0.05,,Off Target,23.0,Left Foot,,Georginio Wijnaldum,Pass (Live),,
+14,49.0,Ainsley Maitland-Niles,Arsenal,0.04,,Off Target,19.0,Right Foot,,Alexandre Lacazette,Pass (Live),Pierre-Emerick Aubameyang,Pass (Live)
+15,59.0,Alexandre Lacazette,Arsenal,0.36,0.3,Saved,13.0,Right Foot,,Willian,Pass (Live),Mohamed Elneny,Pass (Live)
+16,61.0,Mohamed Salah,Liverpool,0.05,,Blocked,15.0,Left Foot,,Joe Gomez,Pass (Live),,
+17,62.0,Virgil van Dijk,Liverpool,0.02,0.06,Saved,31.0,Right Foot,,Andrew Robertson,Pass (Live),Fabinho,Pass (Live)
+18,63.0,Alexandre Lacazette,Arsenal,0.4,0.77,Saved,17.0,Right Foot,,Dani Ceballos,Pass (Live),Héctor Bellerín,Pass (Live)
+19,64.0,Sadio Mané,Liverpool,0.08,,Off Target,14.0,Left Foot,,Sadio Mané,Pass (Live),Naby Keïta,Pass (Live)
+20,69.0,Naby Keïta,Liverpool,0.03,,Blocked,26.0,Left Foot,,Mohamed Salah,Pass (Live),Georginio Wijnaldum,Pass (Live)
+21,70.0,Sadio Mané,Liverpool,0.06,0.04,Saved,17.0,Right Foot,,Sadio Mané,Take-On,Naby Keïta,Pass (Live)
+22,76.0,Roberto Firmino,Liverpool,0.04,,Blocked,17.0,Right Foot,,Sadio Mané,Pass (Live),Georginio Wijnaldum,Pass (Live)
+23,82.0,Diogo Jota,Liverpool,0.03,,Off Target,23.0,Right Foot,,Roberto Firmino,Pass (Live),Mohamed Salah,Tackle
+24,83.0,Diogo Jota,Liverpool,0.33,,Off Target,11.0,Left Foot,,Mohamed Salah,Pass (Live),Virgil van Dijk,Pass (Live)
+25,88.0,Diogo Jota,Liverpool,0.05,0.44,Goal,19.0,Right Foot,Volley,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)

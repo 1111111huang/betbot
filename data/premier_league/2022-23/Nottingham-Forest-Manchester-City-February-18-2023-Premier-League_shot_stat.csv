@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Jack Grealish,Manchester City,0.12,,Blocked,12.0,Right Foot,,Phil Foden,Pass (Live),Rodri,Pass (Live)
+1,9,İlkay Gündoğan,Manchester City,0.08,,Blocked,14.0,Left Foot,Volley,Aymeric Laporte,Pass (Live),Kevin De Bruyne,Pass (Dead)
+2,9,Brennan Johnson,Nott'ham Forest,0.03,,Blocked,16.0,Right Foot,,,,,
+3,16,Kevin De Bruyne,Manchester City,0.04,,Blocked,29.0,Right Foot,Free kick,Jack Grealish,Fouled,,
+4,24,Brennan Johnson,Nott'ham Forest,0.05,,Off Target,15.0,Right Foot,,Danilo,Pass (Live),,
+5,25,Kevin De Bruyne,Manchester City,0.02,,Off Target,28.0,Right Foot,,Jack Grealish,Pass (Live),Aymeric Laporte,Pass (Live)
+6,27,Aymeric Laporte,Manchester City,0.03,,Blocked,13.0,Left Foot,Volley,Kevin De Bruyne,Pass (Dead),Phil Foden,Pass (Live)
+7,28,Kevin De Bruyne,Manchester City,0.04,,Off Target,25.0,Right Foot,,Jack Grealish,Fouled,Aymeric Laporte,Pass (Live)
+8,33,Rodri,Manchester City,0.21,,Off Target,10.0,Head,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+9,39,Bernardo Silva,Manchester City,0.05,,Off Target,25.0,Left Foot,,İlkay Gündoğan,Pass (Live),Bernardo Silva,Pass (Live)
+10,41,Bernardo Silva,Manchester City,0.02,0.09,Goal,24.0,Left Foot,,Jack Grealish,Pass (Live),İlkay Gündoğan,Pass (Live)
+11,,,,,,,,,,,,,
+12,47,İlkay Gündoğan,Manchester City,0.02,,Off Target,25.0,Right Foot,,Jack Grealish,Pass (Live),Aymeric Laporte,Pass (Live)
+13,51,Kevin De Bruyne,Manchester City,0.02,,Off Target,28.0,Left Foot,,Phil Foden,Pass (Live),Aymeric Laporte,Pass (Live)
+14,52,Aymeric Laporte,Manchester City,0.17,0.07,Saved,7.0,Head,,Kevin De Bruyne,Pass (Dead),Rodri,Take-On
+15,52,Rúben Dias,Manchester City,0.37,0.5,Saved,4.0,Left Foot,,Aymeric Laporte,Shot,,
+16,54,Morgan Gibbs-White,Nott'ham Forest,0.03,,Off Target,25.0,Right Foot,,Brennan Johnson,Pass (Live),Danilo,Pass (Live)
+17,56,Kevin De Bruyne,Manchester City,0.04,0.08,Saved,21.0,Right Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+18,62,Kevin De Bruyne,Manchester City,0.05,,Off Target,22.0,Right Foot,,Rodri,Pass (Live),Aymeric Laporte,Pass (Live)
+19,64,Rodri,Manchester City,0.1,,Off Target,9.0,Head,,Kevin De Bruyne,Pass (Dead),Rúben Dias,Pass (Live)
+20,67,Phil Foden,Manchester City,0.03,0.06,Saved,25.0,Left Foot,,Kyle Walker,Pass (Live),İlkay Gündoğan,Tackle
+21,67,Erling Haaland,Manchester City,0.44,,Woodwork,10.0,Left Foot,Volley,Phil Foden,Shot,,
+22,67,Erling Haaland,Manchester City,0.51,,Off Target,6.0,Left Foot,,Erling Haaland,Shot,,
+23,73,İlkay Gündoğan,Manchester City,0.1,0.29,Saved,26.0,Right Foot,Free kick,Jack Grealish,Fouled,Phil Foden,Pass (Live)
+24,83,Kevin De Bruyne,Manchester City,0.1,,Off Target,20.0,Right Foot,,Jack Grealish,Pass (Live),Erling Haaland,Pass (Live)
+25,84,Chris Wood,Nott'ham Forest,0.84,0.97,Goal,3.0,Left Foot,,Morgan Gibbs-White,Pass (Live),Brennan Johnson,Pass (Live)
+26,86,Jack Grealish,Manchester City,0.05,,Blocked,22.0,Right Foot,,Jack Grealish,Take-On,Bernardo Silva,Pass (Live)
+27,90+4,Rúben Dias,Manchester City,0.09,,Blocked,9.0,Head,,Nathan Aké,Pass (Live),Jack Grealish,Pass (Live)

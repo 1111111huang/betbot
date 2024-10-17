@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Jannik Vestergaard,Southampton,0.04,,Off Target,13.0,Head,,James Ward-Prowse,Pass (Dead),Theo Walcott,Pass (Live)
+1,10.0,Sadio Mané,Liverpool,0.1,,Off Target,18.0,Right Foot,,Sadio Mané,Take-On,Trent Alexander-Arnold,Pass (Live)
+2,19.0,Mohamed Salah,Liverpool,0.31,0.2,Saved,6.0,Right Foot,,Sadio Mané,Pass (Live),Thiago Alcántara,Pass (Live)
+3,19.0,Nathaniel Phillips,Liverpool,0.05,,Off Target,10.0,Head,,Trent Alexander-Arnold,Pass (Live),Sadio Mané,Pass (Live)
+4,21.0,Nathan Redmond,Southampton,0.03,,Off Target,19.0,Right Foot,,James Ward-Prowse,Pass (Live),Kyle Walker-Peters,Pass (Live)
+5,25.0,Diogo Jota,Liverpool,0.28,0.41,Saved,14.0,Right Foot,,Sadio Mané,Pass (Live),Andrew Robertson,Pass (Live)
+6,25.0,Mohamed Salah,Liverpool,0.03,0.05,Saved,15.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Diogo Jota,Shot
+7,26.0,Georginio Wijnaldum,Liverpool,0.05,,Woodwork,11.0,Head,,Trent Alexander-Arnold,Pass (Dead),Andrew Robertson,Pass (Live)
+8,27.0,Stuart Armstrong,Southampton,0.02,,Blocked,28.0,Right Foot,,Nathan Tella,Pass (Live),Nathan Redmond,Pass (Live)
+9,28.0,Nathan Redmond,Southampton,0.03,,Off Target,28.0,Right Foot,,Theo Walcott,Pass (Live),Che Adams,Pass (Live)
+10,30.0,Che Adams,Southampton,0.4,0.23,Saved,13.0,Right Foot,,Nathan Tella,Pass (Live),Theo Walcott,Pass (Live)
+11,30.0,Nathan Redmond,Southampton,0.04,0.06,Saved,21.0,Right Foot,,,,,
+12,31.0,Sadio Mané,Liverpool,0.44,0.56,Goal,4.0,Head,,Mohamed Salah,Pass (Live),Fabinho,Pass (Live)
+13,36.0,Mohamed Salah,Liverpool,0.07,,Blocked,15.0,Left Foot,,Georginio Wijnaldum,Pass (Live),Sadio Mané,Pass (Live)
+14,36.0,Thiago Alcántara,Liverpool,0.03,,Blocked,26.0,Right Foot,,Thiago Alcántara,Pass (Live),Mohamed Salah,Shot
+15,38.0,Nathan Redmond,Southampton,0.04,,Off Target,19.0,Right Foot,Volley,Theo Walcott,Pass (Live),Stuart Armstrong,Pass (Live)
+16,44.0,Nathan Tella,Southampton,0.24,0.09,Saved,10.0,Head,,Nathan Redmond,Pass (Live),Jack Stephens,Pass (Live)
+17,,,,,,,,,,,,,
+18,49.0,Diogo Jota,Liverpool,0.05,0.11,Saved,13.0,Left Foot,,Andrew Robertson,Pass (Live),Thiago Alcántara,Pass (Live)
+19,50.0,Nathaniel Phillips,Liverpool,0.08,,Off Target,9.0,Head,,Trent Alexander-Arnold,Pass (Live),Andrew Robertson,Pass (Live)
+20,69.0,Mohamed Salah,Liverpool,0.06,,Blocked,16.0,Left Foot,,Sadio Mané,Pass (Live),,
+21,69.0,Kyle Walker-Peters,Southampton,0.04,,Blocked,21.0,Left Foot,,Nathan Redmond,Pass (Live),Stuart Armstrong,Pass (Live)
+22,69.0,James Ward-Prowse,Southampton,0.03,0.09,Saved,30.0,Right Foot,Deflected,,,,
+23,71.0,Ibrahima Diallo,Southampton,0.07,0.09,Saved,17.0,Left Foot,,Michael Obafemi,Pass (Live),Che Adams,Pass (Live)
+24,77.0,Che Adams,Southampton,0.14,0.31,Saved,24.0,Right Foot,,,,,
+25,78.0,Diogo Jota,Liverpool,0.12,,Off Target,11.0,Right Foot,,Mohamed Salah,Pass (Live),Fabinho,Pass (Live)
+26,90.0,Thiago Alcántara,Liverpool,0.04,0.34,Goal,22.0,Right Foot,,Roberto Firmino,Pass (Live),,

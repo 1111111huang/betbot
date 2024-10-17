@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Cristiano Ronaldo,Manchester Utd,0.06,,Blocked,15.0,Left Foot,,Jadon Sancho,Pass (Live),Harry Maguire,Pass (Live)
+1,12,Cristiano Ronaldo,Manchester Utd,0.03,0.24,Goal,31.0,Right Foot,,Raphaël Varane,Pass (Live),Fred,Pass (Live)
+2,16,Son Heung-min,Tottenham,0.09,,Blocked,19.0,Left Foot,,Sergio Reguilón,Pass (Live),Son Heung-min,Pass (Live)
+3,16,Paul Pogba,Manchester Utd,0.04,,Off Target,25.0,Right Foot,,Fred,Pass (Live),Cristiano Ronaldo,Pass (Live)
+4,17,Pierre Højbjerg,Tottenham,0.03,0.02,Saved,29.0,Right Foot,,Pierre Højbjerg,Tackle,,
+5,23,Cristiano Ronaldo,Manchester Utd,0.04,,Off Target,12.0,Head,,Alex Telles,Pass (Live),Harry Maguire,Pass (Live)
+6,26,Eric Dier,Tottenham,0.17,,Blocked,5.0,Head,,Rodrigo Bentancur,Pass (Live),Son Heung-min,Pass (Dead)
+7,26,Pierre Højbjerg,Tottenham,0.03,,Off Target,16.0,Right Foot,Volley,Cristian Romero,Pass (Live),Eric Dier,Shot
+8,29,Matt Doherty,Tottenham,0.07,,Blocked,16.0,Left Foot,,Rodrigo Bentancur,Pass (Live),Son Heung-min,Pass (Live)
+9,30,Rodrigo Bentancur,Tottenham,0.09,,Blocked,14.0,Right Foot,,Dejan Kulusevski,Pass (Live),Harry Kane,Pass (Live)
+10,33,Eric Dier,Tottenham,0.06,,Blocked,26.0,Right Foot,Free kick,Harry Kane,Fouled,,
+11,35,Harry Kane (pen),Tottenham,0.79,0.99,Goal,13.0,Right Foot,,,Fouled,Eric Dier,Shot
+12,38,Cristiano Ronaldo,Manchester Utd,0.5,0.57,Goal,7.0,Right Foot,,Jadon Sancho,Pass (Live),Nemanja Matić,Pass (Live)
+13,41,Harry Kane,Tottenham,0.01,,Blocked,26.0,Right Foot,,Rodrigo Bentancur,Pass (Live),Cristian Romero,Pass (Live)
+14,45+1,Jadon Sancho,Manchester Utd,0.04,0.14,Saved,16.0,Right Foot,,Fred,Pass (Live),Cristiano Ronaldo,Pass (Live)
+15,,,,,,,,,,,,,
+16,61,Son Heung-min,Tottenham,0.22,,Off Target,14.0,Right Foot,,Dejan Kulusevski,Pass (Live),Harry Kane,Pass (Live)
+17,63,Cristiano Ronaldo,Manchester Utd,0.05,,Off Target,10.0,Head,,Jadon Sancho,Fouled,Fred,Pass (Live)
+18,66,Cristiano Ronaldo,Manchester Utd,0.07,0.1,Saved,18.0,Right Foot,,Jadon Sancho,Pass (Live),Fred,Pass (Live)
+19,77,Cristiano Ronaldo,Manchester Utd,0.12,0.18,Saved,16.0,Right Foot,,Jadon Sancho,Pass (Live),Cristiano Ronaldo,Pass (Live)
+20,81,Cristiano Ronaldo,Manchester Utd,0.04,0.3,Goal,11.0,Head,,Alex Telles,Pass (Dead),Paul Pogba,Pass (Live)

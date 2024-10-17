@@ -1,0 +1,48 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Raúl Jiménez,Fulham,0.05,,Off Target,23.0,Right Foot,,Andreas Pereira,Pass (Live),Bobby Reid,Pass (Live)
+1,2,Jack Harrison,Everton,0.06,,Off Target,14.0,Left Foot,,Dominic Calvert-Lewin,Pass (Live),Ben Godfrey,Pass (Live)
+2,4,Dominic Calvert-Lewin,Everton,0.12,,Blocked,11.0,Left Foot,,Vitaliy Mykolenko,Pass (Live),Dwight McNeil,Pass (Live)
+3,5,Andreas Pereira,Fulham,0.03,,Off Target,25.0,Left Foot,,Willian,Pass (Dead),,
+4,9,Antonee Robinson,Fulham,0.04,0.19,Saved,23.0,Right Foot,Deflected,Bobby Reid,Pass (Live),Timothy Castagne,Pass (Live)
+5,17,Arnaut Danjuma,Everton,0.03,0.12,Saved,31.0,Right Foot,,Jack Harrison,Pass (Live),Arnaut Danjuma,Interception
+6,20,Willian,Fulham,0.02,,Blocked,28.0,Right Foot,,Timothy Castagne,Pass (Live),Bobby Reid,Pass (Live)
+7,21,João Palhinha,Fulham,0.12,,Off Target,8.0,Head,,Andreas Pereira,Pass (Dead),,Fouled
+8,24,Ashley Young,Everton,0.04,,Off Target,25.0,Right Foot,Free kick,Ashley Young,Fouled,James Garner,Pass (Live)
+9,24,James Tarkowski,Everton,0.18,,Blocked,13.0,Left Foot,,Ashley Young,Shot,,
+10,24,Dominic Calvert-Lewin,Everton,0.03,,Off Target,14.0,Head,,Dwight McNeil,Pass (Live),James Tarkowski,Shot
+11,28,Jack Harrison,Everton,0.1,,Blocked,26.0,Left Foot,Free kick,Jack Harrison,Fouled,Ben Godfrey,Tackle
+12,32,Bobby Reid,Fulham,0.08,,Blocked,17.0,Right Foot,,Tom Cairney,Pass (Live),Antonee Robinson,Pass (Live)
+13,32,Arnaut Danjuma,Everton,0.14,,Off Target,13.0,Right Foot,,Arnaut Danjuma,Take-On,Jack Harrison,Pass (Live)
+14,35,Willian,Fulham,0.04,,Blocked,18.0,Right Foot,,Tom Cairney,Pass (Live),Willian,Pass (Live)
+15,38,Andreas Pereira,Fulham,0.01,,Off Target,28.0,Right Foot,,Tom Cairney,Pass (Live),Andreas Pereira,Pass (Live)
+16,39,Dominic Calvert-Lewin,Everton,0.02,,Off Target,13.0,Head,,Ashley Young,Pass (Live),James Garner,Pass (Live)
+17,40,Jack Harrison,Everton,0.03,0.02,Saved,30.0,Left Foot,,Dominic Calvert-Lewin,Pass (Live),Jordan Pickford,Pass (Live)
+18,41,Timothy Castagne,Fulham,0.05,,Blocked,17.0,Right Foot,"Deflected, Volley",Antonee Robinson,Pass (Live),Tom Cairney,Pass (Live)
+19,41,Raúl Jiménez,Fulham,0.24,,Off Target,4.0,Right Foot,Volley,Timothy Castagne,Shot,,
+20,,,,,,,,,,,,,
+21,51,Bobby Reid,Fulham,0.01,0.07,Saved,27.0,Right Foot,Volley,Andreas Pereira,Pass (Live),Tom Cairney,Pass (Live)
+22,52,Andreas Pereira,Fulham,0.02,,Off Target,31.0,Right Foot,,,,,
+23,54,Ben Godfrey,Everton,0.04,,Blocked,17.0,Right Foot,Deflected,James Tarkowski,Pass (Live),Jordan Pickford,Pass (Dead)
+24,55,Dominic Calvert-Lewin,Everton,0.09,,Woodwork,5.0,Head,,James Garner,Pass (Dead),Ben Godfrey,Shot
+25,56,Dominic Calvert-Lewin,Everton,0.05,,Off Target,13.0,Head,,Ashley Young,Pass (Live),James Garner,Pass (Live)
+26,58,Andreas Pereira,Fulham,0.08,,Off Target,5.0,Right Foot,,Tosin Adarabioyo,Pass (Live),Tom Cairney,Pass (Live)
+27,59,João Palhinha,Fulham,0.08,,Off Target,15.0,Left Foot,,,,,
+28,62,João Palhinha,Fulham,0.12,,Off Target,4.0,Head,,Tom Cairney,Pass (Live),Willian,Pass (Live)
+29,63,Andreas Pereira,Fulham,0.02,,Blocked,28.0,Right Foot,,Timothy Castagne,Pass (Live),Timothy Castagne,Interception
+30,64,João Palhinha,Fulham,0.02,0.38,Saved,16.0,Head,,Andreas Pereira,Pass (Dead),Timothy Castagne,Pass (Live)
+31,65,Rodrigo Muniz,Fulham,0.1,,Blocked,21.0,Right Foot,,Andreas Pereira,Pass (Live),Rodrigo Muniz,Pass (Live)
+32,66,Timothy Castagne,Fulham,0.17,,Woodwork,8.0,Head,,Bobby Reid,Pass (Live),Andreas Pereira,Pass (Dead)
+33,74,Andreas Pereira,Fulham,0.03,,Blocked,12.0,Right Foot,,Bobby Reid,Pass (Live),Tom Cairney,Pass (Live)
+34,76,Tosin Adarabioyo,Fulham,0.06,0.29,Saved,9.0,Head,,Willian,Pass (Live),Tom Cairney,Pass (Live)
+35,76,Tom Cairney,Fulham,0.02,,Off Target,20.0,Left Foot,,Tosin Adarabioyo,Shot,,
+36,83,Bobby Reid,Fulham,0.07,,Off Target,15.0,Left Foot,,Antonee Robinson,Pass (Live),Tim Ream,Pass (Live)
+37,85,Bobby Reid,Fulham,0.01,,Off Target,22.0,Left Foot,,Tom Cairney,Pass (Live),Willian,Pass (Dead)
+38,90+1,Rodrigo Muniz,Fulham,0.17,0.06,Saved,9.0,Head,,Bobby Reid,Pass (Live),Willian,Pass (Live)
+39,90+3,Beto,Everton,0.04,,Blocked,23.0,Right Foot,,Dwight McNeil,Pass (Live),,
+40,90+4,Beto,Everton,0.31,,Off Target,4.0,Head,,James Tarkowski,Pass (Live),Dwight McNeil,Pass (Dead)
+41,90+4,James Garner,Everton,0.09,,Blocked,21.0,Left Foot,,Beto,Pass (Live),Nathan Patterson,Tackle
+42,90+5,Lewis Dobbin,Everton,0.05,,Off Target,6.0,Head,,James Garner,Pass (Dead),James Garner,Shot
+43,90+5,Ben Godfrey,Everton,0.25,,Blocked,6.0,Right Foot,,Ben Godfrey,Shot,,
+44,90+5,Ben Godfrey,Everton,0.14,,Blocked,6.0,Right Foot,Volley,Lewis Dobbin,Shot,,
+45,90+5,Beto,Everton,0.2,,Off Target,6.0,Right Foot,,Ben Godfrey,Shot,,
+46,90+5,Ben Godfrey,Everton,0.26,,Off Target,6.0,Right Foot,Volley,Ben Godfrey,Shot,,

@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Teemu Pukki,Norwich City,0.09,0.23,Saved,18.0,Right Foot,,Pierre Lees-Melou,Pass (Live),Kenny McLean,Pass (Live)
+1,4,Anthony Elanga,Manchester Utd,0.08,0.07,Saved,13.0,Right Foot,Volley,Harry Maguire,Pass (Live),Diogo Dalot,Pass (Live)
+2,5,Jadon Sancho,Manchester Utd,0.05,,Blocked,21.0,Right Foot,,Jesse Lingard,Pass (Live),Bruno Fernandes,Pass (Live)
+3,7,Cristiano Ronaldo,Manchester Utd,0.02,0.14,Saved,29.0,Right Foot,,Jesse Lingard,Pass (Live),Paul Pogba,Pass (Live)
+4,7,Cristiano Ronaldo,Manchester Utd,0.76,0.25,Goal,10.0,Right Foot,,Anthony Elanga,Pass (Live),Anthony Elanga,Tackle
+5,10,Jesse Lingard,Manchester Utd,0.07,,Off Target,16.0,Right Foot,,Anthony Elanga,Pass (Live),Jadon Sancho,Pass (Live)
+6,17,Bruno Fernandes,Manchester Utd,0.02,,Blocked,31.0,Right Foot,,Cristiano Ronaldo,Pass (Live),Jesse Lingard,Pass (Live)
+7,17,Diogo Dalot,Manchester Utd,0.06,,Off Target,11.0,Right Foot,,Jadon Sancho,Pass (Live),Jesse Lingard,Pass (Live)
+8,21,Jadon Sancho,Manchester Utd,0.04,,Off Target,21.0,Right Foot,,Jadon Sancho,Take-On,Jesse Lingard,Pass (Live)
+9,30,Jadon Sancho,Manchester Utd,0.11,,Blocked,5.0,Right Foot,,Anthony Elanga,Pass (Live),Paul Pogba,Pass (Live)
+10,31,Jesse Lingard,Manchester Utd,0.08,0.08,Saved,8.0,Right Foot,,Diogo Dalot,Pass (Live),Cristiano Ronaldo,Pass (Live)
+11,32,Cristiano Ronaldo,Manchester Utd,0.09,0.11,Goal,7.0,Head,,Alex Telles,Pass (Dead),Jesse Lingard,Shot
+12,35,Mathias Normann,Norwich City,0.04,,Off Target,34.0,Right Foot,Free kick,Mathias Normann,Fouled,Kenny McLean,Pass (Live)
+13,36,Pierre Lees-Melou,Norwich City,0.08,,Blocked,26.0,Right Foot,,Kenny McLean,Pass (Live),,
+14,39,Cristiano Ronaldo,Manchester Utd,0.22,,Off Target,11.0,Right Foot,,Diogo Dalot,Pass (Live),Anthony Elanga,Pass (Live)
+15,45,Teemu Pukki,Norwich City,0.06,,Off Target,14.0,Right Foot,,Sam Byram,Pass (Live),Kieran Dowell,Pass (Dead)
+16,45+1,Kieran Dowell,Norwich City,0.36,0.35,Goal,5.0,Head,,Teemu Pukki,Pass (Live),Dimitris Giannoulis,Pass (Live)
+17,45+3,Teemu Pukki,Norwich City,0.16,,Off Target,11.0,Head,,Dimitris Giannoulis,Pass (Live),Kieran Dowell,Pass (Live)
+18,,,,,,,,,,,,,
+19,46,Cristiano Ronaldo,Manchester Utd,0.04,,Off Target,15.0,Right Foot,,Jesse Lingard,Pass (Live),Cristiano Ronaldo,Pass (Live)
+20,50,Jesse Lingard,Manchester Utd,0.01,0.06,Saved,30.0,Right Foot,Volley,Paul Pogba,Take-On,Victor Lindelöf,Pass (Live)
+21,52,Teemu Pukki,Norwich City,0.41,0.54,Goal,12.0,Right Foot,,Kieran Dowell,Pass (Live),Kenny McLean,Pass (Live)
+22,56,Bruno Fernandes,Manchester Utd,0.05,,Blocked,22.0,Right Foot,,Harry Maguire,Pass (Live),Jesse Lingard,Pass (Live)
+23,56,Milot Rashica,Norwich City,0.06,0.26,Saved,24.0,Right Foot,,Teemu Pukki,Pass (Live),Pierre Lees-Melou,Pass (Live)
+24,61,Cristiano Ronaldo,Manchester Utd,0.1,0.07,Saved,9.0,Head,,Alex Telles,Pass (Dead),Alex Telles,Pass (Live)
+25,63,Kieran Dowell,Norwich City,0.02,,Off Target,36.0,Left Foot,,,,,
+26,66,Milot Rashica,Norwich City,0.01,,Blocked,22.0,Right Foot,,Pierre Lees-Melou,Pass (Live),Kenny McLean,Pass (Live)
+27,70,Milot Rashica,Norwich City,0.09,,Blocked,10.0,Right Foot,,Mathias Normann,Pass (Live),Pierre Lees-Melou,Pass (Live)
+28,71,Sam Byram,Norwich City,0.11,,Off Target,8.0,Head,,Kieran Dowell,Pass (Dead),Milot Rashica,Shot
+29,76,Cristiano Ronaldo,Manchester Utd,0.03,0.47,Goal,32.0,Right Foot,Free kick,Anthony Elanga,Fouled,Anthony Elanga,Take-On
+30,78,Pierre Lees-Melou,Norwich City,0.01,,Off Target,31.0,Right Foot,Volley,Pierre Lees-Melou,Pass (Live),Mathias Normann,Pass (Live)
+31,82,Bruno Fernandes,Manchester Utd,0.02,0.02,Saved,23.0,Right Foot,,Jadon Sancho,Pass (Live),Bruno Fernandes,Pass (Dead)
+32,83,Cristiano Ronaldo,Manchester Utd,0.04,,Blocked,15.0,Right Foot,,Jadon Sancho,Pass (Live),Juan Mata,Pass (Live)
+33,89,Milot Rashica,Norwich City,0.02,,Off Target,29.0,Right Foot,,Przemysław Płacheta,Take-On,Milot Rashica,Pass (Live)
+34,90+4,Juan Mata,Manchester Utd,0.07,,Blocked,17.0,Left Foot,,Bruno Fernandes,Pass (Live),Juan Mata,Pass (Live)
+35,90+4,Sam Byram,Norwich City,0.02,,Blocked,17.0,Left Foot,,Sam Byram,Take-On,Billy Gilmour,Pass (Live)

@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Bobby Reid,Fulham,0.02,0.2,Saved,31.0,Right Foot,,Kenny Tete,Pass (Live),,
+1,12,Andreas Pereira,Fulham,0.04,0.02,Saved,33.0,Right Foot,Free kick,Bobby Reid,Fouled,,
+2,14,Pierre Højbjerg,Tottenham,0.03,,Off Target,17.0,Left Foot,Volley,Dejan Kulusevski,Pass (Live),Eric Dier,Pass (Live)
+3,14,Ben Davies,Tottenham,0.14,,Off Target,10.0,Left Foot,,Pierre Højbjerg,Shot,,
+4,19,Harrison Reed,Fulham,0.15,0.03,Saved,10.0,Right Foot,Volley,Andreas Pereira,Pass (Live),Bobby Reid,Pass (Live)
+5,22,Harrison Reed,Fulham,0.07,,Blocked,22.0,Left Foot,,João Palhinha,Pass (Live),Antonee Robinson,Pass (Live)
+6,25,Aleksandar Mitrović,Fulham,0.02,,Off Target,17.0,Head,,Kenny Tete,Pass (Live),Issa Diop,Pass (Live)
+7,33,Harry Kane,Tottenham,0.02,,Off Target,30.0,Right Foot,,Harry Kane,Take-On,Rodrigo Bentancur,Pass (Live)
+8,36,Emerson,Tottenham,0.03,0.16,Saved,15.0,Right Foot,,Dejan Kulusevski,Pass (Live),Dejan Kulusevski,Take-On
+9,41,Willian,Fulham,0.04,0.07,Saved,18.0,Left Foot,,Andreas Pereira,Pass (Live),João Palhinha,Tackle
+10,42,João Palhinha,Fulham,0.27,,Off Target,6.0,Head,,Andreas Pereira,Pass (Dead),Bobby Reid,Fouled
+11,44,Harry Kane,Tottenham,0.07,,Blocked,25.0,Right Foot,Free kick,Son Heung-min,Fouled,Emerson,Pass (Live)
+12,45+1,Dejan Kulusevski,Tottenham,0.04,,Blocked,14.0,Left Foot,,Ivan Perišić,Pass (Live),Dejan Kulusevski,Pass (Dead)
+13,45+1,Harry Kane,Tottenham,0.05,0.3,Goal,21.0,Right Foot,,Son Heung-min,Pass (Live),Pierre Højbjerg,Pass (Live)
+14,,,,,,,,,,,,,
+15,50,João Palhinha,Fulham,0.23,,Off Target,6.0,Head,,Andreas Pereira,Pass (Dead),Aleksandar Mitrović,Fouled
+16,57,Harry Kane,Tottenham,0.41,0.35,Saved,4.0,Head,,Ben Davies,Pass (Live),Dejan Kulusevski,Pass (Live)
+17,60,Harry Kane,Tottenham,0.03,,Blocked,19.0,Right Foot,,Son Heung-min,Pass (Live),Ivan Perišić,Pass (Live)
+18,75,Aleksandar Mitrović,Fulham,0.12,,Off Target,7.0,Head,,Tom Cairney,Pass (Live),Willian,Pass (Live)
+19,79,Harry Kane,Tottenham,0.09,,Off Target,14.0,Right Foot,,Eric Dier,Pass (Live),Pierre Højbjerg,Pass (Live)
+20,89,Manor Solomon,Fulham,0.03,0.46,Saved,22.0,Right Foot,,Tom Cairney,Pass (Live),Carlos Vinícius,Pass (Live)

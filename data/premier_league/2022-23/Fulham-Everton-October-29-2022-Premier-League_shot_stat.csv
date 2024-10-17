@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,Willian,Fulham,0.27,,Off Target,12.0,Other,,Andreas Pereira,Pass (Live),Harrison Reed,Pass (Live)
+1,5.0,Anthony Gordon,Everton,0.01,,Blocked,13.0,Right Foot,Volley,Jordan Pickford,Pass (Dead),,
+2,6.0,Demarai Gray,Everton,0.08,0.15,Saved,14.0,Right Foot,,Idrissa Gana Gueye,Pass (Live),Anthony Gordon,Shot
+3,6.0,Conor Coady,Everton,0.02,,Blocked,11.0,Head,,Demarai Gray,Pass (Dead),Demarai Gray,Shot
+4,8.0,Willian,Fulham,0.36,0.74,Saved,7.0,Right Foot,,Antonee Robinson,Pass (Live),Andreas Pereira,Pass (Live)
+5,9.0,Aleksandar Mitrović,Fulham,0.03,0.3,Saved,13.0,Head,,Andreas Pereira,Pass (Dead),Willian,Shot
+6,10.0,Harrison Reed,Fulham,0.03,0.24,Saved,26.0,Right Foot,,Willian,Pass (Live),Andreas Pereira,Pass (Dead)
+7,12.0,Aleksandar Mitrović,Fulham,0.01,,Blocked,15.0,Right Foot,Volley,Andreas Pereira,Pass (Live),Andreas Pereira,Pass (Dead)
+8,19.0,Dominic Calvert-Lewin,Everton,0.5,,Off Target,5.0,Right Foot,Volley,Demarai Gray,Pass (Live),Alex Iwobi,Pass (Live)
+9,21.0,Demarai Gray,Everton,0.03,0.03,Saved,17.0,Right Foot,,Alex Iwobi,Pass (Live),,
+10,26.0,Andreas Pereira,Fulham,0.03,,Off Target,22.0,Right Foot,Volley,Willian,Pass (Dead),Willian,Pass (Live)
+11,31.0,Aleksandar Mitrović,Fulham,0.07,,Blocked,14.0,Right Foot,,Neeskens Kebano,Pass (Live),Antonee Robinson,Pass (Live)
+12,32.0,Harrison Reed,Fulham,0.05,,Off Target,22.0,Left Foot,,Andreas Pereira,Pass (Dead),Aleksandar Mitrović,Shot
+13,32.0,Bobby Reid,Fulham,0.23,0.09,Saved,12.0,Left Foot,,Harrison Reed,Shot,,
+14,33.0,Conor Coady,Everton,0.04,0.15,Saved,13.0,Right Foot,Volley,Vitaliy Mykolenko,Pass (Live),Demarai Gray,Pass (Live)
+15,35.0,Aleksandar Mitrović,Fulham,0.05,,Blocked,21.0,Right Foot,,Willian,Pass (Live),Bobby Reid,Pass (Live)
+16,36.0,Tim Ream,Fulham,0.03,,Off Target,16.0,Head,,Andreas Pereira,Pass (Live),Harrison Reed,Pass (Live)
+17,41.0,James Tarkowski,Everton,0.14,0.02,Saved,11.0,Head,,Demarai Gray,Pass (Live),Alex Iwobi,Pass (Dead)
+18,43.0,Anthony Gordon,Everton,0.07,,Off Target,11.0,Left Foot,,Amadou Onana,Pass (Live),Alex Iwobi,Pass (Live)
+19,,,,,,,,,,,,,
+20,46.0,Aleksandar Mitrović,Fulham,0.02,,Blocked,22.0,Right Foot,,Issa Diop,Pass (Live),Tim Ream,Pass (Live)
+21,48.0,Aleksandar Mitrović,Fulham,0.1,,Off Target,9.0,Head,,Andreas Pereira,Pass (Live),Willian,Pass (Live)
+22,52.0,Willian,Fulham,0.06,0.16,Saved,16.0,Right Foot,,Andreas Pereira,Pass (Live),Willian,Pass (Live)
+23,59.0,Amadou Onana,Everton,0.05,,Off Target,15.0,Right Foot,,James Tarkowski,Pass (Live),Demarai Gray,Pass (Dead)
+24,60.0,Aleksandar Mitrović,Fulham,0.11,,Off Target,17.0,Right Foot,Volley,Antonee Robinson,Pass (Live),Bernd Leno,Pass (Live)
+25,62.0,Aleksandar Mitrović,Fulham,0.04,,Off Target,12.0,Right Foot,Volley,Bobby Reid,Pass (Live),Harrison Reed,Pass (Live)
+26,66.0,Harrison Reed,Fulham,0.05,,Blocked,25.0,Right Foot,,Aleksandar Mitrović,Pass (Live),Antonee Robinson,Pass (Live)
+27,67.0,Bobby Reid,Fulham,0.1,,Blocked,13.0,Right Foot,,Andreas Pereira,Pass (Live),Harrison Reed,Pass (Live)
+28,71.0,Harry Wilson,Fulham,0.05,,Off Target,13.0,Head,,Aleksandar Mitrović,Pass (Live),Andreas Pereira,Pass (Live)
+29,78.0,Tom Cairney,Fulham,0.07,,Blocked,17.0,Left Foot,,Harry Wilson,Pass (Live),Aleksandar Mitrović,Pass (Live)
+30,79.0,Harrison Reed,Fulham,0.03,,Blocked,24.0,Right Foot,,Willian,Pass (Dead),Tom Cairney,Shot
+31,80.0,Willian,Fulham,0.09,0.1,Saved,16.0,Right Foot,,Tom Cairney,Pass (Live),Tom Cairney,Take-On
+32,86.0,Aleksandar Mitrović,Fulham,0.02,,Off Target,14.0,Head,,Harrison Reed,Pass (Live),Tim Ream,Pass (Live)
+33,90.0,Aleksandar Mitrović,Fulham,0.06,,Off Target,14.0,Right Foot,Volley,Kenny Tete,Pass (Live),Antonee Robinson,Pass (Live)

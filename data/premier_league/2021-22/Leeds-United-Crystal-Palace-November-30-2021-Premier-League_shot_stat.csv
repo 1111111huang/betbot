@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Daniel James,Leeds United,0.03,,Blocked,22.0,Right Foot,,Tyler Roberts,Pass (Live),Liam Cooper,Pass (Live)
+1,6,Daniel James,Leeds United,0.03,,Blocked,18.0,Right Foot,,Kalvin Phillips,Pass (Live),Adam Forshaw,Pass (Live)
+2,8,Raphinha,Leeds United,0.02,,Blocked,24.0,Left Foot,,,,,
+3,12,Jordan Ayew,Crystal Palace,0.11,,Blocked,26.0,Right Foot,,Jordan Ayew,Take-On,Wilfried Zaha,Pass (Live)
+4,15,Adam Forshaw,Leeds United,0.04,,Off Target,22.0,Left Foot,,Kalvin Phillips,Pass (Live),Stuart Dallas,Pass (Live)
+5,21,Jeffrey Schlupp,Crystal Palace,0.03,,Off Target,24.0,Left Foot,,Jeffrey Schlupp,Take-On,Jeffrey Schlupp,Take-On
+6,23,Kalvin Phillips,Leeds United,0.06,,Off Target,18.0,Right Foot,,Kalvin Phillips,Tackle,,
+7,,,,,,,,,,,,,
+8,49,Conor Gallagher,Crystal Palace,0.1,,Blocked,22.0,Right Foot,Free kick,Jordan Ayew,Fouled,Jeffrey Schlupp,Pass (Live)
+9,49,Wilfried Zaha,Crystal Palace,0.03,,Off Target,23.0,Right Foot,Volley,Conor Gallagher,Shot,,
+10,55,Daniel James,Leeds United,0.13,,Blocked,13.0,Left Foot,,Rodrigo,Pass (Live),Junior Firpo,Pass (Live)
+11,57,Adam Forshaw,Leeds United,0.07,0.03,Saved,14.0,Right Foot,Deflected,Daniel James,Pass (Live),Junior Firpo,Pass (Live)
+12,58,Wilfried Zaha,Crystal Palace,0.03,,Blocked,18.0,Right Foot,,Tyrick Mitchell,Pass (Live),Jordan Ayew,Pass (Live)
+13,60,Stuart Dallas,Leeds United,0.05,,Blocked,16.0,Right Foot,Volley,Daniel James,Pass (Live),Junior Firpo,Pass (Live)
+14,61,Kalvin Phillips,Leeds United,0.02,,Blocked,27.0,Right Foot,,Stuart Dallas,Shot,,
+15,64,Adam Forshaw,Leeds United,0.03,,Off Target,32.0,Right Foot,,Tyler Roberts,Pass (Live),Tyler Roberts,Take-On
+16,74,Conor Gallagher,Crystal Palace,0.15,,Blocked,13.0,Right Foot,,Cheikhou Kouyaté,Pass (Live),Conor Gallagher,Interception
+17,74,Christian Benteke,Crystal Palace,0.24,,Off Target,5.0,Head,,Wilfried Zaha,Pass (Live),Conor Gallagher,Shot
+18,75,Daniel James,Leeds United,0.02,,Blocked,23.0,Right Foot,,Rodrigo,Pass (Live),Stuart Dallas,Pass (Live)
+19,78,Rodrigo,Leeds United,0.07,,Blocked,6.0,Left Foot,,Stuart Dallas,Pass (Dead),Raphinha,Pass (Dead)
+20,79,Christian Benteke,Crystal Palace,0.41,0.07,Saved,10.0,Left Foot,,Jordan Ayew,Pass (Live),Cheikhou Kouyaté,Pass (Live)
+21,83,Christian Benteke,Crystal Palace,0.05,,Off Target,21.0,Right Foot,,Wilfried Zaha,Pass (Live),Will Hughes,Pass (Live)
+22,89,Tyler Roberts,Leeds United,0.02,0.4,Saved,22.0,Right Foot,,Junior Firpo,Pass (Live),Raphinha,Pass (Live)
+23,90+1,Liam Cooper,Leeds United,0.04,,Blocked,11.0,Head,,Raphinha,Pass (Dead),Tyler Roberts,Pass (Live)
+24,90+4,Raphinha (pen),Leeds United,0.79,0.94,Goal,13.0,Left Foot,,,Fouled,Liam Cooper,Shot

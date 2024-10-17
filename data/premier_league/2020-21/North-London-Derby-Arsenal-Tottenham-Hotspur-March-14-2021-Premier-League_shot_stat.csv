@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Alexandre Lacazette,Arsenal,0.04,,Blocked,25.0,Right Foot,,Alexandre Lacazette,Take-On,Kieran Tierney,Pass (Live)
+1,5,Kieran Tierney,Arsenal,0.03,,Off Target,25.0,Left Foot,,Alexandre Lacazette,Shot,,
+2,15,Granit Xhaka,Arsenal,0.02,,Off Target,32.0,Left Foot,,Thomas Partey,Pass (Live),Martin Ødegaard,Pass (Live)
+3,16,Emile Smith Rowe,Arsenal,0.03,,Woodwork,30.0,Right Foot,,Thomas Partey,Pass (Live),Martin Ødegaard,Pass (Live)
+4,23,Thomas Partey,Arsenal,0.04,,Off Target,29.0,Right Foot,,Emile Smith Rowe,Pass (Live),Kieran Tierney,Pass (Live)
+5,26,Alexandre Lacazette,Arsenal,0.35,,Off Target,10.0,Right Foot,,Emile Smith Rowe,Pass (Live),Emile Smith Rowe,Take-On
+6,33,Érik Lamela,Tottenham,0.07,0.66,Goal,14.0,Left Foot,,Lucas Moura,Pass (Live),Sergio Reguilón,Pass (Live)
+7,37,Cédric Soares,Arsenal,0.07,,Woodwork,19.0,Right Foot,,Emile Smith Rowe,Pass (Live),Kieran Tierney,Pass (Live)
+8,37,Alexandre Lacazette,Arsenal,0.2,,Blocked,6.0,Right Foot,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+9,43,Martin Ødegaard,Arsenal,0.07,,Off Target,12.0,Head,,Emile Smith Rowe,Pass (Live),Bukayo Saka,Pass (Live)
+10,44,Martin Ødegaard,Arsenal,0.06,0.15,Goal,16.0,Left Foot,Deflected,Kieran Tierney,Pass (Live),Kieran Tierney,Take-On
+11,,,,,,,,,,,,,
+12,56,Alexandre Lacazette,Arsenal,0.03,0.03,Saved,24.0,Right Foot,,Alexandre Lacazette,Take-On,Martin Ødegaard,Pass (Live)
+13,61,Thomas Partey,Arsenal,0.02,,Off Target,29.0,Right Foot,,Martin Ødegaard,Pass (Live),Cédric Soares,Pass (Live)
+14,64,Alexandre Lacazette (pen),Arsenal,0.79,1.0,Goal,13.0,Right Foot,,Alexandre Lacazette,Fouled,Nicolas Pépé,Pass (Live)
+15,71,Érik Lamela,Tottenham,0.05,0.1,Saved,16.0,Head,,Pierre Højbjerg,Pass (Live),Sergio Reguilón,Pass (Live)
+16,79,Harry Kane,Tottenham,0.04,0.03,Saved,11.0,Head,,Lucas Moura,Pass (Dead),,
+17,89,Harry Kane,Tottenham,0.05,,Woodwork,30.0,Right Foot,Free kick,Harry Kane,Fouled,Davinson Sánchez,Pass (Dead)
+18,90,Davinson Sánchez,Tottenham,0.1,,Blocked,13.0,Right Foot,,Harry Kane,Shot,,
+19,90+5,Harry Kane,Tottenham,0.07,,Off Target,30.0,Right Foot,Free kick,Lucas Moura,Fouled,Davinson Sánchez,Pass (Live)

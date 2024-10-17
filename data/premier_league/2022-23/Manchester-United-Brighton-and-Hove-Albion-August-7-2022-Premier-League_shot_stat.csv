@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1.0,Leandro Trossard,Brighton,0.06,,Off Target,12.0,Left Foot,Volley,,,,
+1,7.0,Scott McTominay,Manchester Utd,0.03,,Blocked,12.0,Right Foot,,Jadon Sancho,Pass (Live),Diogo Dalot,Pass (Live)
+2,7.0,Bruno Fernandes,Manchester Utd,0.19,,Off Target,15.0,Right Foot,,Scott McTominay,Shot,,
+3,14.0,Danny Welbeck,Brighton,0.03,,Blocked,24.0,Left Foot,,Adam Lallana,Pass (Live),Pascal Groß,Pass (Live)
+4,18.0,Leandro Trossard,Brighton,0.03,,Blocked,35.0,Right Foot,,,,,
+5,18.0,Pascal Groß,Brighton,0.06,,Blocked,29.0,Right Foot,,Leandro Trossard,Shot,,
+6,20.0,Danny Welbeck,Brighton,0.05,,Off Target,12.0,Head,,Moisés Caicedo,Pass (Live),Adam Lallana,Pass (Live)
+7,24.0,Danny Welbeck,Brighton,0.06,,Blocked,14.0,Head,,Moisés Caicedo,Pass (Live),Leandro Trossard,Pass (Live)
+8,24.0,Christian Eriksen,Manchester Utd,0.09,0.05,Saved,14.0,Left Foot,,Bruno Fernandes,Pass (Live),Jadon Sancho,Pass (Live)
+9,28.0,Alexis Mac Allister,Brighton,0.02,,Blocked,30.0,Right Foot,,Danny Welbeck,Pass (Live),Leandro Trossard,Pass (Live)
+10,29.0,Lewis Dunk,Brighton,0.07,,Off Target,11.0,Head,,Pascal Groß,Pass (Dead),Alexis Mac Allister,Shot
+11,30.0,Pascal Groß,Brighton,0.51,0.8,Goal,6.0,Right Foot,,Danny Welbeck,Pass (Live),Leandro Trossard,Pass (Live)
+12,35.0,Fred,Manchester Utd,0.03,,Off Target,28.0,Left Foot,,Marcus Rashford,Pass (Live),Christian Eriksen,Pass (Live)
+13,37.0,Danny Welbeck,Brighton,0.06,,Off Target,12.0,Right Foot,Volley,Adam Lallana,Pass (Live),Solly March,Pass (Live)
+14,39.0,Solly March,Brighton,0.03,0.02,Saved,18.0,Left Foot,,Adam Lallana,Pass (Live),Pascal Groß,Pass (Live)
+15,39.0,Pascal Groß,Brighton,0.34,0.67,Goal,5.0,Left Foot,,Solly March,Shot,,
+16,45.0,Luke Shaw,Manchester Utd,0.08,0.08,Saved,8.0,Left Foot,,Lisandro Martínez,Pass (Live),Harry Maguire,Pass (Live)
+17,,,,,,,,,,,,,
+18,48.0,Danny Welbeck,Brighton,0.16,,Off Target,9.0,Head,,Leandro Trossard,Pass (Live),Moisés Caicedo,Pass (Live)
+19,50.0,Marcus Rashford,Manchester Utd,0.05,,Blocked,15.0,Right Foot,,Diogo Dalot,Pass (Live),Jadon Sancho,Pass (Live)
+20,52.0,Marcus Rashford,Manchester Utd,0.05,,Off Target,13.0,Left Foot,,Christian Eriksen,Pass (Live),Jadon Sancho,Pass (Live)
+21,63.0,Adam Webster,Brighton,0.02,0.07,Saved,15.0,Head,,Leandro Trossard,Pass (Live),,
+22,65.0,Marcus Rashford,Manchester Utd,0.21,,Off Target,5.0,Left Foot,Volley,Bruno Fernandes,Pass (Live),Christian Eriksen,Pass (Live)
+23,67.0,Christian Eriksen,Manchester Utd,0.02,0.49,Saved,27.0,Right Foot,,Diogo Dalot,Pass (Live),Jadon Sancho,Pass (Live)
+24,68.0,Diogo Dalot,Manchester Utd,0.23,0.17,Saved,6.0,Head,,Christian Eriksen,Shot,,
+25,71.0,Harry Maguire,Manchester Utd,0.22,,Blocked,6.0,Head,,Luke Shaw,Pass (Dead),Lisandro Martínez,Pass (Live)
+26,73.0,Diogo Dalot,Manchester Utd,0.04,0.06,Saved,19.0,Right Foot,,Christian Eriksen,Pass (Live),Bruno Fernandes,Pass (Live)
+27,76.0,Lisandro Martínez,Manchester Utd,0.01,,Off Target,35.0,Left Foot,,Luke Shaw,Pass (Live),Christian Eriksen,Pass (Live)
+28,83.0,Alexis Mac Allister,Brighton,0.02,,Off Target,30.0,Right Foot,,Enock Mwepu,Pass (Live),Adam Webster,Pass (Live)
+29,86.0,Christian Eriksen,Manchester Utd,0.03,,Blocked,25.0,Right Foot,,Cristiano Ronaldo,Pass (Live),Donny van de Beek,Pass (Live)
+30,87.0,Cristiano Ronaldo,Manchester Utd,0.03,,Blocked,13.0,Right Foot,,Donny van de Beek,Pass (Live),Bruno Fernandes,Pass (Live)
+31,87.0,Lisandro Martínez,Manchester Utd,0.01,,Blocked,14.0,Head,,Christian Eriksen,Pass (Dead),Jadon Sancho,Pass (Live)
+32,87.0,Lisandro Martínez,Manchester Utd,0.06,,Blocked,10.0,Left Foot,,Lisandro Martínez,Shot,,

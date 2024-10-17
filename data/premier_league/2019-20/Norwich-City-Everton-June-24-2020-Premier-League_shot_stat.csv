@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Dominic Calvert-Lewin,Everton,0.12,0.35,Saved,6.0,Head,,Bernard,Pass (Live),Bernard,Pass (Live)
+1,18,Onel Hernández,Norwich City,0.04,,Blocked,21.0,Right Foot,,Lukas Rupp,Pass (Live),Josip Drmić,Pass (Live)
+2,25,Dominic Calvert-Lewin,Everton,0.03,0.04,Saved,25.0,Right Foot,,Michael Keane,Pass (Live),Tom Davies,Pass (Live)
+3,28,Alexander Tettey,Norwich City,0.04,,Off Target,32.0,Left Foot,,Onel Hernández,Pass (Live),Ondrej Duda,Pass (Live)
+4,31,Ondrej Duda,Norwich City,0.07,,Blocked,30.0,Right Foot,Free kick,Ondrej Duda,Fouled,Ondrej Duda,Take-On
+5,45+2,Lukas Rupp,Norwich City,0.02,0.09,Saved,34.0,Right Foot,,Ondrej Duda,Pass (Live),Kenny McLean,Pass (Live)
+6,45+2,Onel Hernández,Norwich City,0.08,,Blocked,18.0,Right Foot,,Onel Hernández,Take-On,Lukas Rupp,Shot
+7,,,,,,,,,,,,,
+8,46,Richarlison,Everton,0.05,,Blocked,14.0,Left Foot,,Alex Iwobi,Pass (Live),Alex Iwobi,Pass (Live)
+9,47,Gylfi Sigurðsson,Everton,0.02,,Blocked,29.0,Right Foot,,Richarlison,Shot,,
+10,55,Michael Keane,Everton,0.15,0.68,Goal,6.0,Head,,Lucas Digne,Pass (Dead),Michael Keane,Pass (Live)
+11,58,Dominic Calvert-Lewin,Everton,0.05,0.07,Saved,22.0,Right Foot,,Alex Iwobi,Pass (Live),,
+12,60,Richarlison,Everton,0.06,,Blocked,13.0,Left Foot,,Bernard,Pass (Live),Gylfi Sigurðsson,Pass (Live)
+13,60,Dominic Calvert-Lewin,Everton,0.03,,Off Target,13.0,Head,,Lucas Digne,Pass (Dead),Richarlison,Shot
+14,65,Kenny McLean,Norwich City,0.04,,Blocked,17.0,Right Foot,,Josip Drmić,Pass (Live),Kenny McLean,Pass (Live)
+15,66,Alexander Tettey,Norwich City,0.02,,Blocked,33.0,Right Foot,,Kenny McLean,Shot,,
+16,68,Dominic Calvert-Lewin,Everton,0.06,,Off Target,11.0,Head,,Alex Iwobi,Pass (Live),Séamus Coleman,Pass (Live)
+17,84,Dominic Calvert-Lewin,Everton,0.04,0.07,Saved,31.0,Right Foot,,Bernard,Pass (Live),Bernard,Tackle
+18,90,Adam Idah,Norwich City,0.05,,Blocked,20.0,Right Foot,,Max Aarons,Pass (Live),Emi Buendía,Pass (Live)
+19,90+1,Josip Drmić,Norwich City,0.06,,Off Target,10.0,Head,,Emi Buendía,Pass (Dead),Adam Idah,Shot
+20,90+2,Lucas Digne,Everton,0.08,,Off Target,23.0,Left Foot,Free kick,Moise Kean,Fouled,André Gomes,Pass (Live)
+21,90+4,Dominic Calvert-Lewin,Everton,0.09,,Blocked,9.0,Head,,Lucas Digne,Pass (Dead),,

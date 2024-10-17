@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Eddie Nketiah,Arsenal,0.03,,Blocked,25.0,Right Foot,,Thomas Partey,Pass (Live),,
+1,2,Dani Ceballos,Arsenal,0.07,,Blocked,13.0,Right Foot,,Nicolas Pépé,Pass (Live),Bukayo Saka,Pass (Live)
+2,12,Dominic Calvert-Lewin,Everton,0.1,,Off Target,7.0,Head,,Lucas Digne,Pass (Live),Gylfi Sigurðsson,Pass (Live)
+3,18,Thomas Partey,Arsenal,0.02,,Blocked,31.0,Right Foot,,Bukayo Saka,Pass (Live),Calum Chambers,Pass (Live)
+4,18,Bukayo Saka,Arsenal,0.08,0.06,Saved,13.0,Left Foot,,Eddie Nketiah,Pass (Live),Calum Chambers,Pass (Live)
+5,24,Eddie Nketiah,Arsenal,0.11,,Blocked,11.0,Left Foot,,Calum Chambers,Pass (Live),Dani Ceballos,Pass (Live)
+6,25,Bukayo Saka,Arsenal,0.06,,Blocked,13.0,Left Foot,,Thomas Partey,Pass (Live),Bukayo Saka,Pass (Live)
+7,29,Richarlison,Everton,0.11,0.11,Saved,15.0,Left Foot,,Richarlison,Take-On,Allan,Pass (Live)
+8,34,André Gomes,Everton,0.03,,Blocked,28.0,Left Foot,,Séamus Coleman,Pass (Live),Séamus Coleman,Take-On
+9,35,Lucas Digne,Everton,0.02,,Off Target,25.0,Left Foot,Volley,André Gomes,Shot,,
+10,35,James Rodríguez,Everton,0.04,,Blocked,17.0,Left Foot,,Lucas Digne,Shot,,
+11,39,Gylfi Sigurðsson,Everton,0.05,,Woodwork,33.0,Right Foot,Free kick,Richarlison,Fouled,Gylfi Sigurðsson,Pass (Live)
+12,41,Lucas Digne,Everton,0.05,,Blocked,29.0,Left Foot,Free kick,James Rodríguez,Fouled,Richarlison,Pass (Live)
+13,,,,,,,,,,,,,
+14,47,Gylfi Sigurðsson,Everton,0.13,,Blocked,11.0,Left Foot,,Séamus Coleman,Pass (Live),Richarlison,Pass (Live)
+15,59,Calum Chambers,Arsenal,0.03,,Blocked,17.0,Right Foot,,Eddie Nketiah,Pass (Live),Dani Ceballos,Pass (Dead)
+16,61,Nicolas Pépé,Arsenal,0.07,,Blocked,13.0,Left Foot,Volley,Granit Xhaka,Pass (Live),Eddie Nketiah,Pass (Live)
+17,64,Calum Chambers,Arsenal,0.12,,Off Target,11.0,Right Foot,Volley,Bukayo Saka,Pass (Dead),Nicolas Pépé,Fouled
+18,66,Dani Ceballos,Arsenal,0.03,0.07,Saved,26.0,Right Foot,,Nicolas Pépé,Pass (Live),Dani Ceballos,Pass (Live)
+19,69,Thomas Partey,Arsenal,0.02,,Off Target,33.0,Right Foot,,Dani Ceballos,Pass (Live),Bukayo Saka,Pass (Live)
+20,78,Thomas Partey,Arsenal,0.05,,Off Target,28.0,Right Foot,Volley,Dani Ceballos,Pass (Live),Dani Ceballos,Pass (Live)
+21,90+3,Gabriel Martinelli,Arsenal,0.07,0.03,Saved,9.0,Right Foot,,Thomas Partey,Pass (Live),Willian,Pass (Live)
+22,90+3,Dani Ceballos,Arsenal,0.05,,Blocked,11.0,Left Foot,,Gabriel Martinelli,Shot,,

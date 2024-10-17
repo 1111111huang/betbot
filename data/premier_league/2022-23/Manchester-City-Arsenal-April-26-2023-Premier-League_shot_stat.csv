@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Kevin De Bruyne,Manchester City,0.09,0.25,Goal,24.0,Right Foot,,Erling Haaland,Pass (Live),John Stones,Pass (Live)
+1,22,Bernardo Silva,Manchester City,0.04,0.16,Saved,15.0,Left Foot,,,,,
+2,24,Gabriel Magalhães,Arsenal,0.02,,Off Target,14.0,Head,,Granit Xhaka,Pass (Dead),Granit Xhaka,Fouled
+3,26,Kevin De Bruyne,Manchester City,0.24,,Blocked,14.0,Left Foot,,Kevin De Bruyne,Take-On,Erling Haaland,Pass (Live)
+4,28,Erling Haaland,Manchester City,0.46,0.74,Saved,12.0,Left Foot,,Erling Haaland,Take-On,Erling Haaland,Take-On
+5,32,Erling Haaland,Manchester City,0.03,0.03,Saved,13.0,Left Foot,Volley,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+6,35,Thomas Partey,Arsenal,0.1,,Off Target,20.0,Right Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+7,36,Erling Haaland,Manchester City,0.17,,Off Target,17.0,Left Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+8,41,Erling Haaland,Manchester City,0.18,0.35,Saved,10.0,Left Foot,,İlkay Gündoğan,Pass (Live),İlkay Gündoğan,Take-On
+9,45+1,John Stones,Manchester City,0.16,0.27,Goal,7.0,Head,,Kevin De Bruyne,Pass (Dead),Erling Haaland,Fouled
+10,,,,,,,,,,,,,
+11,46,Kevin De Bruyne,Manchester City,0.12,,Off Target,14.0,Right Foot,Volley,Bernardo Silva,Pass (Live),Erling Haaland,Pass (Live)
+12,48,Granit Xhaka,Arsenal,0.03,0.04,Saved,21.0,Left Foot,,Oleksandr Zinchenko,Pass (Live),Granit Xhaka,Pass (Live)
+13,53,Erling Haaland,Manchester City,0.46,0.26,Saved,19.0,Left Foot,,Rúben Dias,Pass (Dead),,
+14,53,Bernardo Silva,Manchester City,0.1,,Blocked,20.0,Left Foot,,Jack Grealish,Pass (Live),Erling Haaland,Shot
+15,54,Kevin De Bruyne,Manchester City,0.1,0.24,Goal,13.0,Right Foot,,Erling Haaland,Pass (Live),Kevin De Bruyne,Pass (Live)
+16,57,Gabriel Magalhães,Arsenal,0.06,,Blocked,13.0,Left Foot,Volley,Gabriel Jesus,Fouled,Gabriel Magalhães,Pass (Live)
+17,57,Oleksandr Zinchenko,Arsenal,0.05,,Blocked,23.0,Left Foot,Deflected,Thomas Partey,Pass (Live),Rob Holding,Pass (Live)
+18,57,Rob Holding,Arsenal,0.09,,Blocked,11.0,Right Foot,,Oleksandr Zinchenko,Shot,,
+19,64,İlkay Gündoğan,Manchester City,0.04,,Off Target,27.0,Right Foot,,Jack Grealish,Pass (Live),Erling Haaland,Pass (Live)
+20,80,Bukayo Saka,Arsenal,0.06,,Off Target,26.0,Left Foot,Free kick,,Fouled,,
+21,86,Rob Holding,Arsenal,0.07,0.12,Goal,16.0,Right Foot,,Jorginho,Pass (Live),Reiss Nelson,Pass (Live)
+22,90+5,Erling Haaland,Manchester City,0.33,0.32,Goal,16.0,Left Foot,,John Stones,Pass (Live),,

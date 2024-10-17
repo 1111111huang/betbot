@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Wilfried Zaha,Crystal Palace,0.06,,Blocked,14.0,Left Foot,,Eberechi Eze,Pass (Live),Wilfried Zaha,Pass (Live)
+1,9,Son Heung-min,Tottenham,0.08,,Off Target,9.0,Right Foot,,Toby Alderweireld,Pass (Live),Serge Aurier,Pass (Live)
+2,14,Wilfried Zaha,Crystal Palace,0.03,0.1,Saved,23.0,Right Foot,Deflected,Christian Benteke,Pass (Live),Wilfried Zaha,Pass (Live)
+3,16,Wilfried Zaha,Crystal Palace,0.05,,Off Target,16.0,Right Foot,,Eberechi Eze,Pass (Live),Patrick van Aanholt,Pass (Live)
+4,18,Tanguy Ndombele,Tottenham,0.09,0.03,Saved,11.0,Right Foot,,Moussa Sissoko,Pass (Live),Serge Aurier,Pass (Live)
+5,19,Sergio Reguilón,Tottenham,0.03,,Blocked,24.0,Right Foot,,Moussa Sissoko,Pass (Live),Harry Kane,Pass (Live)
+6,20,Harry Kane,Tottenham,0.06,0.03,Saved,9.0,Head,,Son Heung-min,Pass (Dead),Sergio Reguilón,Shot
+7,23,Harry Kane,Tottenham,0.03,0.04,Goal,32.0,Right Foot,,Son Heung-min,Pass (Live),Tanguy Ndombele,Pass (Live)
+8,26,Jeffrey Schlupp,Crystal Palace,0.07,0.03,Saved,12.0,Right Foot,Volley,Gary Cahill,Pass (Live),Eberechi Eze,Pass (Dead)
+9,28,Harry Kane,Tottenham,0.04,,Off Target,33.0,Right Foot,Free kick,Steven Bergwijn,Fouled,,
+10,31,Eberechi Eze,Crystal Palace,0.06,,Blocked,29.0,Right Foot,Free kick,Eberechi Eze,Fouled,Eberechi Eze,Pass (Live)
+11,33,Tanguy Ndombele,Tottenham,0.28,0.42,Saved,10.0,Left Foot,,,,,
+12,36,Sergio Reguilón,Tottenham,0.03,,Blocked,23.0,Left Foot,,Harry Kane,Pass (Dead),Steven Bergwijn,Fouled
+13,40,Patrick van Aanholt,Crystal Palace,0.1,,Blocked,21.0,Left Foot,Free kick,Wilfried Zaha,Fouled,Christian Benteke,Pass (Live)
+14,41,Luka Milivojević,Crystal Palace,0.03,,Blocked,24.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Jeffrey Schlupp,Take-On
+15,43,Eberechi Eze,Crystal Palace,0.05,,Woodwork,16.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Christian Benteke,Pass (Live)
+16,,,,,,,,,,,,,
+17,56,Wilfried Zaha,Crystal Palace,0.05,,Off Target,13.0,Right Foot,,Eberechi Eze,Pass (Live),Christian Benteke,Pass (Live)
+18,60,Christian Benteke,Crystal Palace,0.04,0.04,Saved,13.0,Head,,Luka Milivojević,Pass (Dead),,Fouled
+19,64,Christian Benteke,Crystal Palace,0.03,,Blocked,15.0,Head,,Eberechi Eze,Pass (Dead),,
+20,66,Pierre Højbjerg,Tottenham,0.02,,Off Target,32.0,Right Foot,,Tanguy Ndombele,Pass (Live),Moussa Sissoko,Pass (Live)
+21,69,Jeffrey Schlupp,Crystal Palace,0.19,,Off Target,8.0,Right Foot,Volley,James McArthur,Pass (Live),Christian Benteke,Pass (Live)
+22,71,Luka Milivojević,Crystal Palace,0.03,,Blocked,28.0,Left Foot,,Christian Benteke,Pass (Live),Patrick van Aanholt,Pass (Live)
+23,73,Eric Dier,Tottenham,0.04,,Off Target,16.0,Head,,Giovani Lo Celso,Pass (Dead),Sergio Reguilón,Fouled
+24,78,Christian Benteke,Crystal Palace,0.06,,Off Target,10.0,Head,,Eberechi Eze,Pass (Dead),Eberechi Eze,Pass (Live)
+25,80,Christian Benteke,Crystal Palace,0.06,0.02,Saved,10.0,Head,,Gary Cahill,Pass (Live),Eberechi Eze,Pass (Dead)
+26,81,Jeffrey Schlupp,Crystal Palace,0.71,0.97,Goal,4.0,Left Foot,,Wilfried Zaha,Fouled,Wilfried Zaha,Take-On
+27,84,Harry Kane,Tottenham,0.06,,Blocked,27.0,Right Foot,Free kick,Harry Kane,Fouled,Steven Bergwijn,Pass (Live)
+28,86,Serge Aurier,Tottenham,0.03,,Off Target,20.0,Right Foot,,Eric Dier,Pass (Live),Pierre Højbjerg,Pass (Live)
+29,86,Harry Kane,Tottenham,0.09,0.04,Saved,9.0,Head,,Serge Aurier,Shot,,
+30,90+3,Eric Dier,Tottenham,0.04,0.25,Saved,32.0,Right Foot,Free kick,Dele Alli,Fouled,Son Heung-min,Pass (Live)

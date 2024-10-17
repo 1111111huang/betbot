@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Harvey Barnes,Leicester City,0.11,,Off Target,9.0,Right Foot,Volley,James Maddison,Pass (Dead),Harvey Barnes,Pass (Live)
+1,15,Harvey Barnes,Leicester City,0.07,,Blocked,15.0,Right Foot,,James Maddison,Pass (Live),Boubakary Soumaré,Pass (Live)
+2,16,Luis Sinisterra,Leeds United,0.22,,Off Target,8.0,Right Foot,Volley,Jack Harrison,Pass (Live),Rodrigo,Pass (Live)
+3,17,James Maddison,Leicester City,0.49,,Off Target,7.0,Left Foot,,Kelechi Iheanacho,Pass (Live),James Maddison,Pass (Live)
+4,20,Luis Sinisterra,Leeds United,0.31,0.31,Goal,3.0,Head,,Jack Harrison,Pass (Live),Weston McKennie,Pass (Live)
+5,25,Luke Ayling,Leeds United,0.05,,Off Target,38.0,Right Foot,,Junior Firpo,Pass (Live),Luis Sinisterra,Pass (Live)
+6,,,,,,,,,,,,,
+7,49,Patrick Bamford,Leeds United,0.03,,Blocked,23.0,Left Foot,,Weston McKennie,Pass (Live),Junior Firpo,Tackle
+8,50,Rodrigo,Leeds United,0.17,,Blocked,14.0,Right Foot,,Crysencio Summerville,Pass (Live),Junior Firpo,Pass (Dead)
+9,50,Weston McKennie,Leeds United,0.04,,Blocked,23.0,Right Foot,,Rodrigo,Shot,,
+10,50,Rodrigo,Leeds United,0.04,,Off Target,12.0,Head,,Weston McKennie,Pass (Live),,
+11,57,Wout Faes,Leicester City,0.08,,Off Target,11.0,Right Foot,,Timothy Castagne,Pass (Live),Youri Tielemans,Pass (Live)
+12,57,Harvey Barnes,Leicester City,0.07,,Off Target,14.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Wout Faes,Shot
+13,61,James Maddison,Leicester City,0.08,,Blocked,24.0,Right Foot,Free kick,Kelechi Iheanacho,Fouled,James Maddison,Pass (Live)
+14,62,Harvey Barnes,Leicester City,0.14,,Blocked,6.0,Right Foot,Volley,Tetê,Pass (Dead),James Maddison,Shot
+15,65,Çağlar Söyüncü,Leicester City,0.05,,Off Target,10.0,Head,,Tetê,Pass (Live),Wout Faes,Pass (Live)
+16,68,Weston McKennie,Leeds United,0.03,,Off Target,23.0,Right Foot,Volley,Crysencio Summerville,Fouled,Liam Cooper,Pass (Live)
+17,73,Kelechi Iheanacho,Leicester City,0.04,0.12,Saved,27.0,Left Foot,,Patson Daka,Pass (Live),Boubakary Soumaré,Pass (Live)
+18,75,Kelechi Iheanacho,Leicester City,0.35,0.5,Saved,5.0,Left Foot,,James Maddison,Pass (Live),Kelechi Iheanacho,Pass (Live)
+19,76,Wout Faes,Leicester City,0.12,,Off Target,10.0,Right Foot,Volley,James Maddison,Pass (Dead),James Maddison,Fouled
+20,80,Jamie Vardy,Leicester City,0.41,0.85,Goal,13.0,Right Foot,,James Maddison,Pass (Live),James Maddison,Take-On
+21,88,Luke Ayling,Leeds United,0.06,,Blocked,19.0,Right Foot,,Luke Ayling,Tackle,Jack Harrison,Take-On
+22,89,Marc Roca,Leeds United,0.3,0.13,Saved,5.0,Head,,Jack Harrison,Pass (Dead),Luke Ayling,Shot
+23,89,Brenden Aaronson,Leeds United,0.06,0.22,Saved,15.0,Right Foot,,Marc Roca,Pass (Live),Luke Ayling,Pass (Live)
+24,90,Marc Roca,Leeds United,0.1,,Off Target,8.0,Head,,Jack Harrison,Pass (Dead),Brenden Aaronson,Shot
+25,90,Patrick Bamford,Leeds United,0.27,,Off Target,4.0,Right Foot,Volley,Marc Roca,Shot,,
+26,90+5,Patson Daka,Leicester City,0.07,,Blocked,12.0,Right Foot,,Jamie Vardy,Pass (Live),Patson Daka,Pass (Live)
+27,90+5,Dennis Praet,Leicester City,0.07,,Blocked,12.0,Right Foot,Volley,Patson Daka,Shot,,
+28,90+5,Youri Tielemans,Leicester City,0.05,,Blocked,24.0,Right Foot,,Dennis Praet,Shot,,

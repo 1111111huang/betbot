@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Ruben Loftus-Cheek,Chelsea,0.04,,Off Target,10.0,Head,,César Azpilicueta,Pass (Live),Jorginho,Pass (Live)
+1,16,Marcos Alonso,Chelsea,0.04,,Off Target,18.0,Left Foot,,Mateo Kovačić,Pass (Live),Marcos Alonso,Pass (Live)
+2,20,Olivier Giroud,Chelsea,0.33,0.17,Saved,12.0,Left Foot,Volley,,,,
+3,27,Christian Pulisic,Chelsea,0.08,,Off Target,12.0,Left Foot,,Marcos Alonso,Pass (Live),Kurt Zouma,Pass (Live)
+4,30,Olivier Giroud,Chelsea,0.24,,Off Target,11.0,Right Foot,,César Azpilicueta,Pass (Live),Mateo Kovačić,Pass (Live)
+5,35,César Azpilicueta,Chelsea,0.04,,Off Target,8.0,Head,,Willian,Pass (Dead),Willian,Pass (Live)
+6,36,Christian Pulisic,Chelsea,0.05,0.08,Saved,15.0,Left Foot,Volley,Antonio Rüdiger,Pass (Live),César Azpilicueta,Pass (Live)
+7,37,Kurt Zouma,Chelsea,0.06,,Off Target,10.0,Head,,Willian,Pass (Dead),Christian Pulisic,Shot
+8,39,Marcos Alonso,Chelsea,0.03,,Blocked,23.0,Left Foot,,Willian,Pass (Live),Mateo Kovačić,Pass (Live)
+9,41,Olivier Giroud,Chelsea,0.1,,Off Target,10.0,Left Foot,Volley,Kurt Zouma,Pass (Live),Christian Pulisic,Pass (Live)
+10,45+3,Olivier Giroud,Chelsea,0.08,,Blocked,9.0,Head,,Marcos Alonso,Pass (Live),Antonio Rüdiger,Pass (Live)
+11,45+3,Olivier Giroud,Chelsea,0.49,0.88,Goal,5.0,Head,,Christian Pulisic,Pass (Live),Marcos Alonso,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Antonio Rüdiger,Chelsea,0.07,,Off Target,8.0,Head,,Willian,Pass (Dead),Ruben Loftus-Cheek,Pass (Live)
+14,52,Willian,Chelsea,0.05,,Blocked,16.0,Right Foot,,Willian,Tackle,,
+15,53,Olivier Giroud,Chelsea,0.07,,Off Target,9.0,Head,,Willian,Pass (Dead),Willian,Shot
+16,55,Kenny McLean,Norwich City,0.03,,Blocked,22.0,Left Foot,,,,,
+17,62,Jamal Lewis,Norwich City,0.04,,Blocked,19.0,Left Foot,,Kenny McLean,Pass (Live),Lukas Rupp,Pass (Live)
+18,66,César Azpilicueta,Chelsea,0.03,,Off Target,24.0,Left Foot,,Marcos Alonso,Pass (Live),Christian Pulisic,Pass (Live)
+19,72,Olivier Giroud,Chelsea,0.06,,Off Target,10.0,Head,,César Azpilicueta,Pass (Live),Ross Barkley,Pass (Live)
+20,75,Christian Pulisic,Chelsea,0.12,0.19,Saved,8.0,Left Foot,Volley,Olivier Giroud,Pass (Live),Christian Pulisic,Pass (Live)
+21,77,Marcos Alonso,Chelsea,0.27,0.23,Saved,6.0,Head,,César Azpilicueta,Pass (Live),Willian,Pass (Live)
+22,85,Olivier Giroud,Chelsea,0.18,,Off Target,4.0,Left Foot,,Willian,Pass (Live),Reece James,Pass (Live)
+23,87,Ross Barkley,Chelsea,0.03,,Blocked,26.0,Left Foot,,Willian,Pass (Live),Jorginho,Pass (Live)
+24,89,Willian,Chelsea,0.05,0.14,Saved,27.0,Right Foot,Free kick,Callum Hudson-Odoi,Fouled,,

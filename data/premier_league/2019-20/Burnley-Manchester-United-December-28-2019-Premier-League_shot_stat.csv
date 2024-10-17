@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,13,Marcus Rashford,Manchester Utd,0.04,0.06,Saved,36.0,Right Foot,Free kick,Fred,Fouled,Marcus Rashford,Pass (Live)
+1,17,Fred,Manchester Utd,0.07,,Off Target,22.0,Left Foot,Free kick,Daniel James,Fouled,Anthony Martial,Pass (Live)
+2,19,Marcus Rashford,Manchester Utd,0.04,,Woodwork,23.0,Right Foot,,Andreas Pereira,Pass (Live),Anthony Martial,Pass (Live)
+3,26,Anthony Martial,Manchester Utd,0.03,,Blocked,25.0,Left Foot,,Andreas Pereira,Pass (Live),Anthony Martial,Pass (Live)
+4,29,Marcus Rashford,Manchester Utd,0.06,,Blocked,31.0,Right Foot,Free kick,Anthony Martial,Fouled,Nemanja Matić,Pass (Live)
+5,34,Daniel James,Manchester Utd,0.06,,Blocked,10.0,Right Foot,,Brandon Williams,Pass (Live),Harry Maguire,Pass (Live)
+6,34,Anthony Martial,Manchester Utd,0.47,,Blocked,8.0,Right Foot,,Daniel James,Shot,,
+7,42,Ashley Barnes,Burnley,0.05,,Off Target,14.0,Right Foot,,Ashley Westwood,Pass (Live),Phil Bardsley,Pass (Dead)
+8,44,Anthony Martial,Manchester Utd,0.37,0.73,Goal,12.0,Right Foot,,Andreas Pereira,Pass (Live),,
+9,,,,,,,,,,,,,
+10,49,Jeff Hendrick,Burnley,0.02,,Off Target,34.0,Right Foot,,Dwight McNeil,Pass (Live),Chris Wood,Pass (Live)
+11,55,Anthony Martial,Manchester Utd,0.08,0.06,Saved,16.0,Right Foot,,Andreas Pereira,Pass (Live),,
+12,56,Jeff Hendrick,Burnley,0.02,,Off Target,28.0,Right Foot,,Ashley Barnes,Pass (Live),Dwight McNeil,Pass (Live)
+13,58,Dwight McNeil,Burnley,0.03,,Off Target,16.0,Left Foot,,Phil Bardsley,Tackle,Jack Cork,Pass (Live)
+14,60,Marcus Rashford,Manchester Utd,0.03,,Blocked,30.0,Right Foot,,Marcus Rashford,Take-On,Harry Maguire,Pass (Live)
+15,65,Daniel James,Manchester Utd,0.02,,Blocked,30.0,Right Foot,,Brandon Williams,Pass (Live),Andreas Pereira,Pass (Live)
+16,65,Nemanja Matić,Manchester Utd,0.02,,Off Target,26.0,Right Foot,,Daniel James,Shot,,
+17,69,Phil Bardsley,Burnley,0.03,0.05,Saved,23.0,Right Foot,Volley,Chris Wood,Fouled,Charlie Taylor,Pass (Live)
+18,76,Jóhann Berg Guðmundsson,Burnley,0.1,,Off Target,23.0,Left Foot,Free kick,Jack Cork,Fouled,Ashley Westwood,Pass (Live)
+19,80,Jay Rodriguez,Burnley,0.04,,Blocked,15.0,Head,,Jóhann Berg Guðmundsson,Pass (Live),Ashley Westwood,Pass (Live)
+20,83,Fred,Manchester Utd,0.04,,Blocked,16.0,Left Foot,,,,,
+21,90+4,Robbie Brady,Burnley,0.18,,Blocked,5.0,Head,,Ashley Westwood,Pass (Live),Chris Wood,Pass (Live)
+22,90+5,Marcus Rashford,Manchester Utd,0.89,0.97,Goal,4.0,Right Foot,,Marcus Rashford,Take-On,Daniel James,Pass (Live)

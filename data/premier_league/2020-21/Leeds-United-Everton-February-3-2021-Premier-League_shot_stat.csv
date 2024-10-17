@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Raphinha,Leeds United,0.12,,Blocked,8.0,Left Foot,,Luke Ayling,Pass (Dead),Kalvin Phillips,Pass (Live)
+1,9,Gylfi Sigurðsson,Everton,0.44,0.5,Goal,7.0,Right Foot,,Lucas Digne,Pass (Live),André Gomes,Pass (Live)
+2,11,Dominic Calvert-Lewin,Everton,0.05,0.22,Saved,19.0,Left Foot,,Alex Iwobi,Pass (Live),Mason Holgate,Tackle
+3,12,Mateusz Klich,Leeds United,0.03,0.13,Saved,26.0,Right Foot,,Patrick Bamford,Pass (Live),Raphinha,Pass (Live)
+4,13,Luke Ayling,Leeds United,0.03,,Off Target,10.0,Head,,Kalvin Phillips,Pass (Dead),Mateusz Klich,Shot
+5,18,Patrick Bamford,Leeds United,0.05,,Off Target,14.0,Head,,Luke Ayling,Pass (Live),Kalvin Phillips,Pass (Live)
+6,19,Ezgjan Alioski,Leeds United,0.02,,Woodwork,23.0,Left Foot,Volley,Raphinha,Pass (Dead),Raphinha,Pass (Live)
+7,20,Patrick Bamford,Leeds United,0.09,0.4,Saved,13.0,Left Foot,Volley,Stuart Dallas,Pass (Live),Ezgjan Alioski,Pass (Dead)
+8,25,Pascal Struijk,Leeds United,0.06,0.14,Saved,13.0,Head,Deflected,Kalvin Phillips,Pass (Dead),Ezgjan Alioski,Fouled
+9,29,Gylfi Sigurðsson,Everton,0.03,0.04,Saved,22.0,Right Foot,,,,,
+10,36,Dominic Calvert-Lewin,Everton,0.07,,Off Target,20.0,Right Foot,,Alex Iwobi,Pass (Live),,
+11,41,Ben Godfrey,Everton,0.14,,Off Target,8.0,Other,,Gylfi Sigurðsson,Pass (Dead),Lucas Digne,Pass (Dead)
+12,41,Dominic Calvert-Lewin,Everton,0.37,0.56,Goal,3.0,Head,,Ben Godfrey,Shot,,
+13,45,Alex Iwobi,Everton,0.03,,Off Target,24.0,Right Foot,Volley,Gylfi Sigurðsson,Fouled,Gylfi Sigurðsson,Take-On
+14,,,,,,,,,,,,,
+15,48,Raphinha,Leeds United,0.07,0.36,Goal,14.0,Left Foot,,Patrick Bamford,Pass (Live),Pascal Struijk,Pass (Live)
+16,52,Stuart Dallas,Leeds United,0.03,,Blocked,25.0,Right Foot,,Raphinha,Pass (Live),Ezgjan Alioski,Pass (Live)
+17,53,Patrick Bamford,Leeds United,0.04,,Off Target,14.0,Head,,Jack Harrison,Pass (Live),Stuart Dallas,Pass (Live)
+18,62,Mateusz Klich,Leeds United,0.04,0.03,Saved,21.0,Left Foot,"Deflected, Volley",Ezgjan Alioski,Pass (Live),,
+19,62,Raphinha,Leeds United,0.43,0.44,Saved,4.0,Right Foot,,Mateusz Klich,Shot,,
+20,62,Jack Harrison,Leeds United,0.05,0.05,Saved,18.0,Left Foot,Volley,Kalvin Phillips,Pass (Live),,
+21,66,Richarlison,Everton,0.03,,Off Target,25.0,Right Foot,,André Gomes,Pass (Live),,
+22,72,Patrick Bamford,Leeds United,0.1,,Woodwork,6.0,Head,,Stuart Dallas,Pass (Live),Tyler Roberts,Pass (Live)
+23,81,Dominic Calvert-Lewin,Everton,0.05,0.04,Saved,14.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+24,85,Dominic Calvert-Lewin,Everton,0.45,0.41,Saved,15.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Abdoulaye Doucouré,Interception
+25,90+2,Luke Ayling,Leeds United,0.07,,Blocked,11.0,Right Foot,,Tyler Roberts,Pass (Live),Tyler Roberts,Take-On
+26,90+5,Tyler Roberts,Leeds United,0.06,,Off Target,16.0,Right Foot,Volley,Patrick Bamford,Pass (Live),Raphinha,Pass (Live)

@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Carlos Vinícius,Fulham,0.04,,Blocked,15.0,Head,,Tosin Adarabioyo,Pass (Live),João Palhinha,Pass (Live)
+1,19,Andreas Pereira,Fulham,0.09,,Blocked,21.0,Right Foot,,Tosin Adarabioyo,Pass (Live),Andreas Pereira,Pass (Live)
+2,26,Willian,Fulham,0.03,,Blocked,21.0,Right Foot,,Andreas Pereira,Pass (Live),Willian,Pass (Live)
+3,28,Declan Rice,West Ham,0.03,0.04,Saved,23.0,Right Foot,,Pablo Fornals,Pass (Live),Declan Rice,Pass (Live)
+4,34,Andreas Pereira,Fulham,0.05,,Blocked,20.0,Right Foot,,Andreas Pereira,Pass (Live),Harrison Reed,Pass (Live)
+5,39,Tosin Adarabioyo,Fulham,0.03,,Blocked,33.0,Right Foot,,Willian,Pass (Live),Antonee Robinson,Pass (Live)
+6,39,Antonee Robinson,Fulham,0.03,,Off Target,24.0,Left Foot,,Willian,Pass (Live),Tosin Adarabioyo,Shot
+7,40,Bobby Reid,Fulham,0.04,,Blocked,13.0,Head,,Antonee Robinson,Pass (Live),João Palhinha,Pass (Live)
+8,42,Cédric Soares,Fulham,0.02,,Blocked,25.0,Right Foot,,Willian,Pass (Live),Andreas Pereira,Pass (Live)
+9,,,,,,,,,,,,,
+10,47,João Palhinha,Fulham,0.07,,Blocked,10.0,Head,,Tosin Adarabioyo,Pass (Live),Tim Ream,Pass (Live)
+11,48,Andreas Pereira,Fulham,0.03,0.06,Saved,22.0,Right Foot,,Willian,Pass (Live),Andreas Pereira,Pass (Live)
+12,52,Andreas Pereira,Fulham,0.02,0.37,Saved,29.0,Right Foot,,João Palhinha,Pass (Live),Tom Cairney,Pass (Live)
+13,56,Danny Ings,West Ham,0.12,0.2,Saved,7.0,Right Foot,,Jarrod Bowen,Pass (Live),,
+14,58,Andreas Pereira,Fulham,0.06,,Blocked,16.0,Right Foot,Volley,Cédric Soares,Pass (Live),Tom Cairney,Pass (Live)
+15,59,Andreas Pereira,Fulham,0.03,,Blocked,30.0,Left Foot,,João Palhinha,Pass (Live),Willian,Pass (Live)
+16,65,João Palhinha,Fulham,0.03,,Blocked,24.0,Left Foot,,Willian,Pass (Live),Antonee Robinson,Pass (Live)
+17,67,Kurt Zouma,West Ham,0.04,,Off Target,10.0,Other,,Aaron Cresswell,Pass (Dead),Flynn Downes,Fouled
+18,70,Angelo Ogbonna,West Ham,0.08,,Off Target,9.0,Left Foot,Volley,Tomáš Souček,Pass (Live),Aaron Cresswell,Pass (Dead)
+19,77,Saïd Benrahma,West Ham,0.03,,Off Target,27.0,Right Foot,,,,,
+20,78,Tom Cairney,Fulham,0.05,,Off Target,15.0,Head,,Andreas Pereira,Pass (Live),Tom Cairney,Pass (Live)
+21,82,Kurt Zouma,West Ham,0.05,0.08,Saved,11.0,Head,,Aaron Cresswell,Pass (Dead),Tomáš Souček,Pass (Live)
+22,86,Tosin Adarabioyo,Fulham,0.06,0.06,Saved,10.0,Head,,Harry Wilson,Pass (Dead),Daniel James,Pass (Live)
+23,89,Jarrod Bowen,West Ham,0.2,0.13,Saved,15.0,Left Foot,,Saïd Benrahma,Pass (Live),Flynn Downes,Pass (Live)
+24,90+3,Maxwel Cornet,West Ham,0.48,0.36,Saved,15.0,Left Foot,,Maxwel Cornet,Tackle,,
+25,90+4,Saïd Benrahma,West Ham,0.07,,Off Target,10.0,Left Foot,,Maxwel Cornet,Pass (Live),Jarrod Bowen,Pass (Live)

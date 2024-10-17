@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10.0,Mohamed Salah,Liverpool,0.03,,Off Target,19.0,Left Foot,,Cody Gakpo,Pass (Live),Jordan Henderson,Pass (Live)
+1,13.0,Jean-Philippe Mateta,Crystal Palace,0.29,,Off Target,21.0,Left Foot,,,,,
+2,18.0,Diogo Jota,Liverpool,0.05,0.04,Saved,21.0,Right Foot,Volley,Jordan Henderson,Pass (Live),James Milner,Pass (Live)
+3,22.0,Diogo Jota,Liverpool,0.19,,Woodwork,3.0,Head,,Joël Matip,Pass (Live),Cody Gakpo,Fouled
+4,24.0,Marc Guéhi,Crystal Palace,0.12,,Off Target,12.0,Head,,Michael Olise,Pass (Dead),Michael Olise,Fouled
+5,29.0,Trent Alexander-Arnold,Liverpool,0.13,,Blocked,22.0,Right Foot,Free kick,Mohamed Salah,Pass (Dead),Diogo Jota,Fouled
+6,32.0,Cody Gakpo,Liverpool,0.02,,Blocked,27.0,Right Foot,,Diogo Jota,Pass (Live),Andrew Robertson,Pass (Live)
+7,41.0,Mohamed Salah,Liverpool,0.07,0.09,Saved,15.0,Left Foot,,Mohamed Salah,Take-On,Naby Keïta,Pass (Live)
+8,41.0,Jean-Philippe Mateta,Crystal Palace,0.1,,Woodwork,8.0,Left Foot,,Jeffrey Schlupp,Pass (Live),Tyrick Mitchell,Pass (Live)
+9,,,,,,,,,,,,,
+10,48.0,Jeffrey Schlupp,Crystal Palace,0.08,,Blocked,10.0,Head,,Jordan Ayew,Pass (Live),Michael Olise,Pass (Live)
+11,49.0,Diogo Jota,Liverpool,0.08,,Blocked,15.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Joël Matip,Pass (Live)
+12,49.0,Mohamed Salah,Liverpool,0.05,,Woodwork,15.0,Left Foot,,Diogo Jota,Shot,,
+13,52.0,Trent Alexander-Arnold,Liverpool,0.01,0.07,Saved,21.0,Right Foot,,Mohamed Salah,Pass (Live),Harvey Elliott,Pass (Live)
+14,57.0,Joël Matip,Liverpool,0.06,0.15,Saved,11.0,Left Foot,,Trent Alexander-Arnold,Pass (Dead),Joël Matip,Pass (Live)
+15,57.0,Diogo Jota,Liverpool,0.05,,Off Target,13.0,Left Foot,,Diogo Jota,Take-On,James Milner,Pass (Live)
+16,65.0,Jean-Philippe Mateta,Crystal Palace,0.1,,Blocked,9.0,Head,,Michael Olise,Pass (Live),Michael Olise,Take-On
+17,78.0,Cheick Doucouré,Crystal Palace,0.01,,Off Target,29.0,Right Foot,Volley,Nathaniel Clyne,Pass (Live),Michael Olise,Pass (Live)
+18,81.0,Cody Gakpo,Liverpool,0.16,,Off Target,11.0,Right Foot,,Mohamed Salah,Pass (Live),,

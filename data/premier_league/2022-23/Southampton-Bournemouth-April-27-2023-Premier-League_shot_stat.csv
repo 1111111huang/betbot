@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Theo Walcott,Southampton,0.08,0.29,Saved,17.0,Left Foot,,Mohamed Elyounoussi,Pass (Live),Jan Bednarek,Pass (Live)
+1,7,Ryan Christie,Bournemouth,0.06,,Blocked,14.0,Right Foot,,Matías Viña,Pass (Live),Marcus Tavernier,Pass (Live)
+2,9,Romain Perraud,Southampton,0.01,,Blocked,29.0,Right Foot,,Adam Armstrong,Pass (Live),Kyle Walker-Peters,Pass (Dead)
+3,9,Marcus Tavernier,Bournemouth,0.14,,Blocked,13.0,Left Foot,,Ryan Christie,Pass (Live),,
+4,13,Adam Armstrong,Southampton,0.09,,Woodwork,6.0,Right Foot,,Adam Armstrong,Pass (Live),,
+5,13,Theo Walcott,Southampton,0.02,,Off Target,25.0,Right Foot,,James Ward-Prowse,Pass (Live),Kyle Walker-Peters,Pass (Live)
+6,20,Adam Armstrong,Southampton,0.03,,Blocked,21.0,Right Foot,,Adam Armstrong,Take-On,Adam Armstrong,Take-On
+7,21,Theo Walcott,Southampton,0.07,,Blocked,11.0,Head,,Kyle Walker-Peters,Pass (Live),James Ward-Prowse,Pass (Live)
+8,22,Philip Billing,Bournemouth,0.09,,Off Target,22.0,Left Foot,,Dominic Solanke,Pass (Live),Lloyd Kelly,Pass (Live)
+9,25,Dominic Solanke,Bournemouth,0.02,,Blocked,26.0,Right Foot,,Jefferson Lerma,Pass (Live),Joe Rothwell,Pass (Live)
+10,25,Dominic Solanke,Bournemouth,0.07,,Off Target,12.0,Left Foot,,Dominic Solanke,Pass (Live),Marcos Senesi,Pass (Live)
+11,37,Jefferson Lerma,Bournemouth,0.03,,Off Target,12.0,Head,,Ryan Christie,Pass (Dead),Joe Rothwell,Pass (Live)
+12,,,,,,,,,,,,,
+13,50,Marcus Tavernier,Bournemouth,0.14,0.46,Goal,16.0,Left Foot,Deflected,Dominic Solanke,Pass (Live),Jefferson Lerma,Pass (Live)
+14,53,Marcus Tavernier,Bournemouth,0.06,,Blocked,12.0,Left Foot,,Marcus Tavernier,Take-On,,
+15,53,Ryan Christie,Bournemouth,0.02,,Blocked,14.0,Left Foot,,Marcus Tavernier,Shot,,
+16,56,Ryan Christie,Bournemouth,0.06,,Blocked,14.0,Right Foot,,Ryan Christie,Take-On,Marcus Tavernier,Pass (Live)
+17,56,Philip Billing,Bournemouth,0.07,,Blocked,13.0,Left Foot,,Philip Billing,Pass (Live),Ryan Christie,Pass (Live)
+18,57,Matías Viña,Bournemouth,0.01,,Blocked,29.0,Left Foot,,Philip Billing,Shot,,
+19,59,Ryan Christie,Bournemouth,0.02,,Blocked,19.0,Right Foot,,Philip Billing,Pass (Live),Joe Rothwell,Pass (Live)
+20,60,Matías Viña,Bournemouth,0.04,,Off Target,22.0,Left Foot,Volley,Ryan Christie,Shot,,
+21,60,Philip Billing,Bournemouth,0.08,,Blocked,16.0,Left Foot,Volley,Marcus Tavernier,Pass (Live),Ryan Christie,Pass (Live)
+22,63,Duje Ćaleta-Car,Southampton,0.01,,Off Target,26.0,Left Foot,Volley,Ainsley Maitland-Niles,Pass (Live),Stuart Armstrong,Pass (Live)
+23,66,Adam Armstrong,Southampton,0.04,0.2,Saved,16.0,Head,,Stuart Armstrong,Pass (Live),Che Adams,Pass (Live)
+24,71,Joe Rothwell,Bournemouth,0.03,0.04,Saved,26.0,Right Foot,,Joe Rothwell,Take-On,,
+25,84,Kyle Walker-Peters,Southampton,0.04,,Off Target,25.0,Right Foot,,Roméo Lavia,Pass (Live),Ainsley Maitland-Niles,Pass (Live)
+26,87,Carlos Alcaraz,Southampton,0.05,,Off Target,18.0,Left Foot,,Roméo Lavia,Pass (Live),Duje Ćaleta-Car,Pass (Live)
+27,90+2,Roméo Lavia,Southampton,0.05,,Off Target,25.0,Right Foot,,Lyanco,Pass (Live),Lyanco,Take-On

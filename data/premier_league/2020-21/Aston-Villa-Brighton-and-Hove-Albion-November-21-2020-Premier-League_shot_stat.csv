@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7.0,John McGinn,Aston Villa,0.03,,Off Target,31.0,Left Foot,,Douglas Luiz,Pass (Live),Trézéguet,Pass (Live)
+1,9.0,Trézéguet,Aston Villa,0.05,,Blocked,14.0,Right Foot,,Bertrand Traoré,Pass (Dead),Bertrand Traoré,Fouled
+2,12.0,Danny Welbeck,Brighton,0.33,0.48,Goal,16.0,Right Foot,,Adam Lallana,Pass (Live),Neal Maupay,Pass (Live)
+3,19.0,Trézéguet,Aston Villa,0.38,,Blocked,10.0,Left Foot,,Jack Grealish,Pass (Live),Ollie Watkins,Pass (Live)
+4,19.0,Trézéguet,Aston Villa,0.51,,Off Target,8.0,Left Foot,,Trézéguet,Shot,,
+5,23.0,Bertrand Traoré,Aston Villa,0.03,0.3,Saved,23.0,Left Foot,,Trézéguet,Pass (Live),Matty Cash,Pass (Live)
+6,24.0,Neal Maupay,Brighton,0.31,0.72,Saved,23.0,Left Foot,,Danny Welbeck,Pass (Live),Adam Webster,Pass (Live)
+7,25.0,Douglas Luiz,Aston Villa,0.03,,Blocked,28.0,Right Foot,,Jack Grealish,Pass (Live),Matt Targett,Pass (Dead)
+8,26.0,Trézéguet,Aston Villa,0.03,,Off Target,21.0,Right Foot,Volley,Jack Grealish,Pass (Live),Trézéguet,Pass (Live)
+9,31.0,Adam Lallana,Brighton,0.1,,Off Target,12.0,Left Foot,,Tariq Lamptey,Pass (Live),Solly March,Pass (Live)
+10,35.0,Trézéguet,Aston Villa,0.04,,Off Target,18.0,Right Foot,,Trézéguet,Take-On,John McGinn,Pass (Live)
+11,38.0,Tyrone Mings,Aston Villa,0.23,0.73,Saved,7.0,Left Foot,Volley,Jack Grealish,Pass (Dead),Jack Grealish,Fouled
+12,42.0,Jack Grealish,Aston Villa,0.03,,Blocked,29.0,Left Foot,,Matty Cash,Pass (Live),Bertrand Traoré,Pass (Live)
+13,,,,,,,,,,,,,
+14,47.0,Ezri Konsa,Aston Villa,0.19,0.31,Goal,8.0,Right Foot,Volley,Bertrand Traoré,Pass (Dead),Matt Targett,Fouled
+15,55.0,Douglas Luiz,Aston Villa,0.02,0.06,Saved,27.0,Right Foot,,Ollie Watkins,Pass (Live),Jack Grealish,Pass (Dead)
+16,56.0,Solly March,Brighton,0.06,0.47,Goal,18.0,Right Foot,,Pascal Groß,Pass (Live),Ben White,Pass (Live)
+17,59.0,Douglas Luiz,Aston Villa,0.03,,Off Target,26.0,Right Foot,,,,,
+18,73.0,Neal Maupay,Brighton,0.11,,Blocked,7.0,Right Foot,,,,,
+19,73.0,Danny Welbeck,Brighton,0.19,,Off Target,7.0,Left Foot,Volley,Neal Maupay,Shot,,
+20,77.0,Trézéguet,Aston Villa,0.05,,Blocked,6.0,Head,,Anwar El Ghazi,Pass (Live),Jack Grealish,Pass (Live)
+21,78.0,Neal Maupay,Brighton,0.34,,Off Target,10.0,Head,,Pascal Groß,Pass (Live),Solly March,Pass (Live)
+22,87.0,Trézéguet,Aston Villa,0.05,,Off Target,17.0,Right Foot,,Ollie Watkins,Pass (Live),Trézéguet,Pass (Live)

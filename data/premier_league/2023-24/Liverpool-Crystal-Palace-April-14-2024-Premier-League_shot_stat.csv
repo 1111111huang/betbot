@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Eberechi Eze,Crystal Palace,0.06,0.08,Saved,17.0,Right Foot,,Adam Wharton,Pass (Live),,
+1,8,Darwin Núñez,Liverpool,0.05,0.06,Saved,19.0,Right Foot,,Andrew Robertson,Pass (Live),Luis Díaz,Pass (Live)
+2,14,Eberechi Eze,Crystal Palace,0.53,0.25,Goal,8.0,Right Foot,,Tyrick Mitchell,Pass (Live),Michael Olise,Pass (Live)
+3,18,Jean-Philippe Mateta,Crystal Palace,0.54,,Blocked,17.0,Left Foot,,Eberechi Eze,Pass (Live),Jefferson Lerma,Pass (Live)
+4,27,Wataru Endo,Liverpool,0.15,,Woodwork,8.0,Left Foot,,Luis Díaz,Pass (Live),Andrew Robertson,Pass (Live)
+5,28,Darwin Núñez,Liverpool,0.06,,Blocked,10.0,Head,,Mohamed Salah,Pass (Live),Luis Díaz,Pass (Live)
+6,29,Luis Díaz,Liverpool,0.21,0.16,Saved,5.0,Right Foot,Volley,Andrew Robertson,Pass (Live),Curtis Jones,Pass (Live)
+7,30,Ibrahima Konaté,Liverpool,0.14,,Off Target,8.0,Head,,Alexis Mac Allister,Pass (Dead),Luis Díaz,Shot
+8,33,Alexis Mac Allister,Liverpool,0.12,,Blocked,21.0,Right Foot,Free kick,Mohamed Salah,Pass (Dead),Alexis Mac Allister,Fouled
+9,34,Mohamed Salah,Liverpool,0.03,0.24,Saved,16.0,Left Foot,,Alexis Mac Allister,Pass (Live),Andrew Robertson,Pass (Live)
+10,42,Michael Olise,Crystal Palace,0.03,0.07,Saved,24.0,Left Foot,,Jean-Philippe Mateta,Pass (Live),Will Hughes,Pass (Live)
+11,44,Michael Olise,Crystal Palace,0.05,,Blocked,16.0,Left Foot,,Eberechi Eze,Pass (Live),Daniel Muñoz,Pass (Live)
+12,45,Jean-Philippe Mateta,Crystal Palace,0.13,,Off Target,8.0,Head,,Eberechi Eze,Pass (Live),Will Hughes,Pass (Live)
+13,,,,,,,,,,,,,
+14,52,Adam Wharton,Crystal Palace,0.08,,Blocked,18.0,Left Foot,,Michael Olise,Pass (Live),Daniel Muñoz,Pass (Live)
+15,55,Curtis Jones,Liverpool,0.15,,Blocked,9.0,Right Foot,Volley,Mohamed Salah,Pass (Live),Darwin Núñez,Pass (Live)
+16,55,Virgil van Dijk,Liverpool,0.04,,Blocked,11.0,Head,,Andrew Robertson,Pass (Dead),Curtis Jones,Shot
+17,55,Darwin Núñez,Liverpool,0.13,0.03,Saved,9.0,Right Foot,Volley,Virgil van Dijk,Shot,,
+18,60,Ibrahima Konaté,Liverpool,0.05,,Off Target,10.0,Head,,Andrew Robertson,Pass (Live),Virgil van Dijk,Pass (Live)
+19,60,Dominik Szoboszlai,Liverpool,0.02,,Off Target,31.0,Right Foot,,Mohamed Salah,Pass (Live),,
+20,62,Trent Alexander-Arnold,Liverpool,0.04,,Off Target,26.0,Right Foot,,Mohamed Salah,Pass (Live),Dominik Szoboszlai,Pass (Live)
+21,69,Virgil van Dijk,Liverpool,0.03,,Off Target,11.0,Head,,Dominik Szoboszlai,Pass (Dead),Mohamed Salah,Pass (Live)
+22,72,Diogo Jota,Liverpool,0.45,,Blocked,10.0,Right Foot,,Dominik Szoboszlai,Pass (Live),Dominik Szoboszlai,Pass (Live)
+23,73,Virgil van Dijk,Liverpool,0.03,,Off Target,11.0,Head,,Andrew Robertson,Pass (Dead),Diogo Jota,Shot
+24,74,Jean-Philippe Mateta,Crystal Palace,0.57,0.77,Saved,4.0,Right Foot,Volley,Joachim Andersen,Pass (Live),Eberechi Eze,Pass (Dead)
+25,75,Curtis Jones,Liverpool,0.52,,Off Target,17.0,Right Foot,,Cody Gakpo,Pass (Live),,
+26,83,Virgil van Dijk,Liverpool,0.04,,Off Target,10.0,Head,,Dominik Szoboszlai,Pass (Dead),Virgil van Dijk,Pass (Live)
+27,86,Harvey Elliott,Liverpool,0.13,0.02,Saved,4.0,Head,,Cody Gakpo,Pass (Live),Cody Gakpo,Take-On
+28,87,Diogo Jota,Liverpool,0.04,,Off Target,12.0,Head,,Trent Alexander-Arnold,Pass (Live),Alexis Mac Allister,Pass (Live)
+29,90+1,Mohamed Salah,Liverpool,0.36,,Blocked,4.0,Left Foot,Volley,Cody Gakpo,Pass (Live),Dominik Szoboszlai,Pass (Live)

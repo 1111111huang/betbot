@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,15,Eberechi Eze,Crystal Palace,0.04,,Off Target,31.0,Right Foot,,Cheick Doucouré,Pass (Live),Joachim Andersen,Pass (Live)
+1,19,Jeffrey Schlupp,Crystal Palace,0.05,0.06,Saved,31.0,Left Foot,,Jeffrey Schlupp,Take-On,Nathaniel Clyne,Pass (Live)
+2,20,Keane Lewis-Potter,Brentford,0.03,,Blocked,27.0,Right Foot,,Rico Henry,Pass (Live),Ivan Toney,Pass (Live)
+3,28,Michael Olise,Crystal Palace,0.03,0.04,Saved,24.0,Left Foot,,Jean-Philippe Mateta,Pass (Live),Michael Olise,Pass (Live)
+4,30,Mathias Jørgensen,Brentford,0.36,,Off Target,5.0,Head,,Ivan Toney,Pass (Live),Vitaly Janelt,Pass (Live)
+5,32,Jean-Philippe Mateta,Crystal Palace,0.07,,Off Target,9.0,Head,,Eberechi Eze,Pass (Dead),,
+6,34,Wilfried Zaha,Crystal Palace,0.24,,Blocked,10.0,Right Foot,,Michael Olise,Pass (Live),Michael Olise,Take-On
+7,38,Jean-Philippe Mateta,Crystal Palace,0.04,,Blocked,17.0,Left Foot,,Joachim Andersen,Pass (Live),Michael Olise,Pass (Live)
+8,43,Wilfried Zaha,Crystal Palace,0.21,,Blocked,8.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Cheick Doucouré,Pass (Live)
+9,,,,,,,,,,,,,
+10,49,Jeffrey Schlupp,Crystal Palace,0.08,0.17,Saved,16.0,Right Foot,,,,,
+11,52,Michael Olise,Crystal Palace,0.03,,Woodwork,26.0,Left Foot,,Nathaniel Clyne,Pass (Live),Joel Ward,Pass (Live)
+12,53,Ivan Toney,Brentford,0.17,,Off Target,9.0,Left Foot,Volley,Mathias Jensen,Pass (Dead),Shandon Baptiste,Fouled
+13,56,Michael Olise,Crystal Palace,0.03,,Off Target,22.0,Left Foot,,Eberechi Eze,Pass (Live),Eberechi Eze,Tackle
+14,59,Wilfried Zaha,Crystal Palace,0.05,0.66,Goal,20.0,Right Foot,,Cheick Doucouré,Pass (Live),Odsonne Édouard,Pass (Live)
+15,71,Josh Dasilva,Brentford,0.07,0.03,Saved,12.0,Left Foot,,Frank Onyeka,Pass (Live),Josh Dasilva,Pass (Live)
+16,75,Michael Olise,Crystal Palace,0.08,,Off Target,17.0,Left Foot,,Michael Olise,Take-On,Michael Olise,Interception
+17,78,Ivan Toney,Brentford,0.04,,Off Target,9.0,Head,,Mathias Jensen,Pass (Dead),Mathias Jørgensen,Pass (Live)
+18,78,Ben Mee,Brentford,0.11,,Off Target,7.0,Left Foot,Volley,Frank Onyeka,Pass (Live),Mikkel Damsgaard,Pass (Live)
+19,84,Wilfried Zaha,Crystal Palace,0.03,,Off Target,18.0,Left Foot,,Jordan Ayew,Pass (Live),Nathaniel Clyne,Pass (Dead)
+20,88,Yoane Wissa,Brentford,0.26,0.43,Goal,9.0,Head,,Vitaly Janelt,Pass (Live),Frank Onyeka,Pass (Live)
+21,90+3,Rico Henry,Brentford,0.2,0.17,Saved,11.0,Left Foot,,Ivan Toney,Pass (Live),Mikkel Damsgaard,Pass (Live)
+22,90+4,Ben Mee,Brentford,0.18,,Woodwork,7.0,Head,,Mikkel Damsgaard,Pass (Dead),Rico Henry,Shot

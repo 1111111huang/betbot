@@ -1,0 +1,17 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Elliot Anderson,Newcastle Utd,0.07,,Off Target,6.0,Head,,Kieran Trippier,Pass (Live),,
+1,8,Tomáš Souček,West Ham,0.93,0.85,Goal,5.0,Right Foot,,Emerson Palmieri,Pass (Live),Emerson Palmieri,Take-On
+2,29,Miguel Almirón,Newcastle Utd,0.02,,Off Target,27.0,Left Foot,,Sandro Tonali,Pass (Live),,
+3,32,Dan Burn,Newcastle Utd,0.01,,Off Target,15.0,Head,,Kieran Trippier,Pass (Dead),Jamaal Lascelles,Fouled
+4,,,,,,,,,,,,,
+5,51,Edson Álvarez,West Ham,0.05,,Off Target,10.0,Head,,James Ward-Prowse,Pass (Dead),Vladimír Coufal,Pass (Live)
+6,56,Dan Burn,Newcastle Utd,0.19,0.2,Saved,4.0,Head,,Bruno Guimarães,Pass (Live),Kieran Trippier,Pass (Live)
+7,57,Alexander Isak,Newcastle Utd,0.55,0.32,Goal,6.0,Right Foot,,Sandro Tonali,Fouled,Kieran Trippier,Pass (Live)
+8,60,Bruno Guimarães,Newcastle Utd,0.02,,Off Target,26.0,Right Foot,,Elliot Anderson,Pass (Live),Dan Burn,Pass (Live)
+9,62,Alexander Isak,Newcastle Utd,0.69,0.97,Goal,4.0,Left Foot,Volley,Kieran Trippier,Pass (Live),Sean Longstaff,Pass (Live)
+10,65,Elliot Anderson,Newcastle Utd,0.06,,Off Target,10.0,Right Foot,Volley,Kieran Trippier,Pass (Live),Jamaal Lascelles,Pass (Live)
+11,73,Alexander Isak,Newcastle Utd,0.36,,Woodwork,8.0,Left Foot,,Alexander Isak,Take-On,Dan Burn,Pass (Live)
+12,74,Dan Burn,Newcastle Utd,0.03,,Blocked,14.0,Left Foot,Volley,Kieran Trippier,Pass (Dead),Alexander Isak,Shot
+13,80,James Ward-Prowse,West Ham,0.1,,Off Target,22.0,Right Foot,Free kick,Emerson Palmieri,Fouled,Saïd Benrahma,Pass (Live)
+14,89,Mohammed Kudus,West Ham,0.05,0.2,Goal,21.0,Left Foot,Volley,Vladimír Coufal,Pass (Live),Kurt Zouma,Pass (Live)
+15,90+1,Jarrod Bowen,West Ham,0.03,0.27,Saved,16.0,Left Foot,,Mohammed Kudus,Pass (Live),James Ward-Prowse,Pass (Live)

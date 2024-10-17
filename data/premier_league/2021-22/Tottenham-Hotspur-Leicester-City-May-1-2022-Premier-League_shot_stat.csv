@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Eric Dier,Tottenham,0.04,,Off Target,10.0,Head,,Son Heung-min,Pass (Dead),Rodrigo Bentancur,Pass (Live)
+1,8,Ayoze Pérez,Leicester City,0.03,,Off Target,19.0,Right Foot,,Ayoze Pérez,Take-On,Luke Thomas,Pass (Live)
+2,14,Patson Daka,Leicester City,0.22,0.44,Saved,16.0,Right Foot,,Boubakary Soumaré,Pass (Live),Boubakary Soumaré,Take-On
+3,21,Lucas Moura,Tottenham,0.02,,Blocked,27.0,Right Foot,,Son Heung-min,Pass (Live),Ben Davies,Pass (Live)
+4,21,Ben Davies,Tottenham,0.07,,Blocked,14.0,Left Foot,,Harry Kane,Fouled,Cristian Romero,Pass (Live)
+5,22,Harry Kane,Tottenham,0.11,0.28,Goal,9.0,Head,,Son Heung-min,Pass (Dead),Ben Davies,Shot
+6,33,Harry Kane,Tottenham,0.39,0.82,Saved,15.0,Right Foot,,,,,
+7,36,Kelechi Iheanacho,Leicester City,0.04,,Off Target,25.0,Left Foot,,Patson Daka,Pass (Live),Marc Albrighton,Pass (Live)
+8,39,Ayoze Pérez,Leicester City,0.05,,Blocked,24.0,Right Foot,,Ayoze Pérez,Take-On,,
+9,42,Cristian Romero,Tottenham,0.07,,Off Target,10.0,Head,,Rodrigo Bentancur,Pass (Live),Ben Davies,Pass (Live)
+10,45,Lucas Moura,Tottenham,0.1,,Off Target,9.0,Head,,Ryan Sessegnon,Pass (Live),Ben Davies,Pass (Live)
+11,,,,,,,,,,,,,
+12,60,Son Heung-min,Tottenham,0.11,0.36,Goal,10.0,Left Foot,,Dejan Kulusevski,Pass (Live),Cristian Romero,Tackle
+13,64,Harry Kane,Tottenham,0.06,0.04,Saved,16.0,Left Foot,,Ben Davies,Pass (Live),Eric Dier,Pass (Live)
+14,66,Son Heung-min,Tottenham,0.09,0.12,Saved,9.0,Head,,Pierre Højbjerg,Pass (Live),Dejan Kulusevski,Pass (Live)
+15,71,Eric Dier,Tottenham,0.05,0.02,Saved,10.0,Head,,Son Heung-min,Pass (Dead),Dejan Kulusevski,Pass (Live)
+16,79,Son Heung-min,Tottenham,0.01,0.43,Goal,25.0,Left Foot,,Dejan Kulusevski,Pass (Live),Emerson,Pass (Live)
+17,89,Jamie Vardy,Leicester City,0.13,,Off Target,11.0,Head,,Timothy Castagne,Pass (Live),Jamie Vardy,Pass (Live)
+18,90+1,Kelechi Iheanacho,Leicester City,0.04,0.24,Goal,28.0,Left Foot,,Youri Tielemans,Pass (Live),Nampalys Mendy,Pass (Live)
+19,90+2,Harry Kane,Tottenham,0.11,,Off Target,20.0,Right Foot,,Pierre Højbjerg,Pass (Live),Cristian Romero,Pass (Live)

@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9.0,Conor Gallagher,Chelsea,0.05,,Off Target,17.0,Right Foot,,Marc Cucurella,Pass (Live),Enzo Fernández,Pass (Live)
+1,13.0,Alexander Isak,Newcastle Utd,0.64,0.56,Goal,12.0,Right Foot,,Lewis Miley,Pass (Live),Anthony Gordon,Pass (Live)
+2,17.0,Lewis Miley,Newcastle Utd,0.05,,Blocked,17.0,Right Foot,Volley,Miguel Almirón,Pass (Live),Anthony Gordon,Fouled
+3,23.0,Raheem Sterling,Chelsea,0.11,0.49,Goal,24.0,Right Foot,Free kick,Raheem Sterling,Fouled,Enzo Fernández,Pass (Live)
+4,25.0,Raheem Sterling,Chelsea,0.03,0.04,Saved,24.0,Right Foot,,Cole Palmer,Pass (Live),Reece James,Pass (Live)
+5,26.0,Joelinton,Newcastle Utd,0.22,,Off Target,4.0,Head,,Kieran Trippier,Pass (Dead),,
+6,29.0,Anthony Gordon,Newcastle Utd,0.02,,Blocked,24.0,Right Foot,,Valentino Livramento,Pass (Live),Alexander Isak,Pass (Live)
+7,31.0,Enzo Fernández,Chelsea,0.07,0.39,Saved,18.0,Right Foot,,Reece James,Pass (Live),Cole Palmer,Pass (Live)
+8,32.0,Benoît Badiashile,Chelsea,0.1,0.24,Saved,10.0,Head,,Conor Gallagher,Pass (Dead),Enzo Fernández,Shot
+9,36.0,Conor Gallagher,Chelsea,0.1,,Off Target,14.0,Left Foot,,,,,
+10,43.0,Kieran Trippier,Newcastle Utd,0.05,,Woodwork,25.0,Right Foot,Free kick,Anthony Gordon,Fouled,Valentino Livramento,Pass (Live)
+11,44.0,Joelinton,Newcastle Utd,0.04,,Off Target,28.0,Left Foot,,Miguel Almirón,Pass (Live),Kieran Trippier,Pass (Live)
+12,,,,,,,,,,,,,
+13,47.0,Reece James,Chelsea,0.07,,Off Target,22.0,Right Foot,Free kick,Nicolas Jackson,Fouled,Raheem Sterling,Interception
+14,51.0,Jamaal Lascelles,Newcastle Utd,0.08,,Off Target,12.0,Right Foot,Volley,Kieran Trippier,Pass (Dead),,
+15,52.0,Anthony Gordon,Newcastle Utd,0.01,,Blocked,29.0,Right Foot,Volley,,,,
+16,60.0,Jamaal Lascelles,Newcastle Utd,0.26,0.36,Goal,9.0,Head,,Anthony Gordon,Pass (Live),Joelinton,Pass (Live)
+17,61.0,Joelinton,Newcastle Utd,0.64,0.87,Goal,10.0,Right Foot,,,,,
+18,76.0,Bruno Guimarães,Newcastle Utd,0.06,,Blocked,18.0,Right Foot,,Miguel Almirón,Pass (Live),Valentino Livramento,Pass (Live)
+19,76.0,Bruno Guimarães,Newcastle Utd,0.13,,Blocked,15.0,Left Foot,,Bruno Guimarães,Tackle,,
+20,76.0,Fabian Schär,Newcastle Utd,0.05,0.26,Saved,22.0,Left Foot,,Fabian Schär,Take-On,Fabian Schär,Take-On
+21,83.0,Anthony Gordon,Newcastle Utd,0.1,0.42,Goal,12.0,Right Foot,,Miguel Almirón,Pass (Live),Valentino Livramento,Pass (Live)

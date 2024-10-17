@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Son Heung-min,Tottenham,0.11,,Blocked,18.0,Right Foot,,Harry Kane,Pass (Live),Pierre Højbjerg,Pass (Live)
+1,8,Marc Cucurella,Chelsea,0.04,,Blocked,21.0,Left Foot,Volley,Ruben Loftus-Cheek,Pass (Live),Jorginho,Pass (Live)
+2,16,N'Golo Kanté,Chelsea,0.05,,Blocked,24.0,Right Foot,,Reece James,Pass (Live),Thiago Silva,Pass (Live)
+3,18,Kalidou Koulibaly,Chelsea,0.02,,Off Target,29.0,Left Foot,,,,,
+4,19,Kai Havertz,Chelsea,0.06,0.59,Saved,13.0,Right Foot,,Raheem Sterling,Pass (Live),N'Golo Kanté,Pass (Live)
+5,19,Kalidou Koulibaly,Chelsea,0.05,0.34,Goal,14.0,Right Foot,Volley,Marc Cucurella,Pass (Dead),Kai Havertz,Shot
+6,22,Ryan Sessegnon,Tottenham,0.12,0.06,Saved,11.0,Left Foot,,Harry Kane,Pass (Dead),Harry Kane,Fouled
+7,27,Kalidou Koulibaly,Chelsea,0.06,,Off Target,14.0,Right Foot,Volley,N'Golo Kanté,Pass (Live),Mason Mount,Pass (Live)
+8,30,Raheem Sterling,Chelsea,0.07,,Blocked,18.0,Right Foot,,Ruben Loftus-Cheek,Pass (Live),Kalidou Koulibaly,Tackle
+9,37,Mason Mount,Chelsea,0.05,,Off Target,19.0,Right Foot,,Jorginho,Pass (Live),Raheem Sterling,Pass (Live)
+10,,,,,,,,,,,,,
+11,48,Son Heung-min,Tottenham,0.1,0.21,Saved,11.0,Left Foot,,Harry Kane,Pass (Live),Rodrigo Bentancur,Pass (Live)
+12,49,Reece James,Chelsea,0.06,,Blocked,23.0,Right Foot,,Jorginho,Pass (Live),N'Golo Kanté,Pass (Live)
+13,55,Marc Cucurella,Chelsea,0.03,,Blocked,18.0,Right Foot,Volley,Kalidou Koulibaly,Pass (Live),Marc Cucurella,Pass (Dead)
+14,61,Ruben Loftus-Cheek,Chelsea,0.06,,Blocked,15.0,Left Foot,,Mason Mount,Pass (Live),Jorginho,Pass (Live)
+15,61,Raheem Sterling,Chelsea,0.12,,Off Target,12.0,Right Foot,,Ruben Loftus-Cheek,Pass (Live),Ruben Loftus-Cheek,Take-On
+16,61,Harry Kane,Tottenham,0.2,,Off Target,17.0,Right Foot,,Pierre Højbjerg,Pass (Live),Emerson,Pass (Live)
+17,63,Jorginho,Chelsea,0.05,,Blocked,23.0,Right Foot,,N'Golo Kanté,Pass (Live),,
+18,65,Eric Dier,Tottenham,0.0,,Blocked,11.0,Head,,Son Heung-min,Pass (Dead),,
+19,68,Pierre Højbjerg,Tottenham,0.04,0.54,Goal,24.0,Right Foot,,Ben Davies,Pass (Live),,
+20,75,Kai Havertz,Chelsea,0.32,,Off Target,7.0,Left Foot,Volley,Reece James,Pass (Live),César Azpilicueta,Pass (Live)
+21,77,Reece James,Chelsea,0.43,0.13,Goal,12.0,Right Foot,,Raheem Sterling,Pass (Live),N'Golo Kanté,Pass (Live)
+22,85,Mason Mount,Chelsea,0.11,,Off Target,16.0,Right Foot,,Conor Gallagher,Pass (Live),Kai Havertz,Pass (Live)
+23,90+1,Harry Kane,Tottenham,0.03,,Off Target,8.0,Head,,Eric Dier,Pass (Live),Hugo Lloris,Pass (Live)
+24,90+4,Yves Bissouma,Tottenham,0.04,,Blocked,22.0,Right Foot,Volley,Harry Kane,Fouled,Ivan Perišić,Pass (Live)
+25,90+4,Ben Davies,Tottenham,0.08,0.15,Saved,7.0,Head,Deflected,Ivan Perišić,Pass (Dead),Yves Bissouma,Shot
+26,90+6,Harry Kane,Tottenham,0.26,0.7,Goal,5.0,Head,Deflected,Ivan Perišić,Pass (Dead),Ben Davies,Shot

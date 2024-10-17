@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7.0,Christian Benteke,Crystal Palace,0.02,,Off Target,16.0,Head,,Conor Gallagher,Pass (Dead),Wilfried Zaha,Pass (Live)
+1,15.0,Odsonne Édouard,Crystal Palace,0.08,0.06,Saved,15.0,Right Foot,Deflected,Wilfried Zaha,Pass (Live),Odsonne Édouard,Pass (Live)
+2,18.0,Francisco Trincão,Wolves,0.11,,Off Target,17.0,Left Foot,,João Moutinho,Pass (Live),Rúben Neves,Pass (Live)
+3,35.0,Odsonne Édouard,Crystal Palace,0.04,,Off Target,13.0,Head,,Conor Gallagher,Pass (Dead),James McArthur,Fouled
+4,39.0,Raúl Jiménez,Wolves,0.11,0.03,Saved,10.0,Head,,João Moutinho,Pass (Dead),Nélson Semedo,Fouled
+5,,,,,,,,,,,,,
+6,54.0,Christian Benteke,Crystal Palace,0.06,0.06,Saved,15.0,Right Foot,,Christian Benteke,Take-On,Wilfried Zaha,Pass (Live)
+7,54.0,Odsonne Édouard,Crystal Palace,0.12,,Blocked,14.0,Left Foot,,Odsonne Édouard,Take-On,Odsonne Édouard,Take-On
+8,55.0,Cheikhou Kouyaté,Crystal Palace,0.02,,Off Target,30.0,Right Foot,,Cheikhou Kouyaté,Take-On,Odsonne Édouard,Shot
+9,56.0,Christian Benteke,Crystal Palace,0.05,0.09,Saved,12.0,Head,,Conor Gallagher,Pass (Dead),Tyrick Mitchell,Pass (Live)
+10,61.0,Wilfried Zaha,Crystal Palace,0.32,0.87,Goal,9.0,Right Foot,,James McArthur,Pass (Live),,
+11,72.0,Odsonne Édouard,Crystal Palace,0.1,0.19,Saved,10.0,Left Foot,,Tyrick Mitchell,Pass (Live),James McArthur,Pass (Live)
+12,72.0,Conor Gallagher,Crystal Palace,0.71,,Off Target,3.0,Left Foot,,Odsonne Édouard,Pass (Live),Odsonne Édouard,Shot
+13,78.0,Conor Gallagher,Crystal Palace,0.08,0.16,Goal,16.0,Left Foot,Deflected,Christian Benteke,Fouled,James McArthur,Pass (Live)
+14,82.0,João Moutinho,Wolves,0.06,0.25,Saved,24.0,Right Foot,Free kick,Daniel Podence,Fouled,Romain Saïss,Pass (Live)
+15,83.0,Rúben Neves,Wolves,0.02,,Off Target,25.0,Right Foot,Volley,João Moutinho,Shot,,
+16,86.0,Wilfried Zaha,Crystal Palace,0.4,,Off Target,11.0,Left Foot,,Jeffrey Schlupp,Pass (Live),Joel Ward,Pass (Live)
+17,90.0,Jordan Ayew,Crystal Palace,0.02,,Blocked,8.0,Left Foot,,Tyrick Mitchell,Pass (Live),Joachim Andersen,Pass (Dead)

@@ -1,0 +1,43 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Luis Díaz,Liverpool,0.21,,Off Target,16.0,Left Foot,,Luis Díaz,Take-On,Harvey Elliott,Pass (Live)
+1,10,Luis Díaz,Liverpool,0.02,,Blocked,18.0,Right Foot,,Harvey Elliott,Pass (Dead),Joe Gomez,Pass (Live)
+2,10,Cody Gakpo,Liverpool,0.18,0.15,Saved,9.0,Right Foot,Volley,Harvey Elliott,Pass (Live),Luis Díaz,Pass (Live)
+3,11,Alfie Doughty,Luton Town,0.02,,Off Target,17.0,Left Foot,,Tahith Chong,Pass (Live),Ross Barkley,Pass (Live)
+4,12,Tahith Chong,Luton Town,0.04,0.03,Saved,13.0,Left Foot,,Cauley Woodrow,Pass (Live),Alfie Doughty,Pass (Live)
+5,12,Chiedozie Ogbene,Luton Town,0.32,0.85,Goal,3.0,Head,,Tahith Chong,Shot,,
+6,14,Cody Gakpo,Liverpool,0.04,,Blocked,26.0,Right Foot,,Cody Gakpo,Take-On,,
+7,16,Luis Díaz,Liverpool,0.03,,Blocked,19.0,Right Foot,,Luis Díaz,Pass (Live),Luis Díaz,Take-On
+8,21,Chiedozie Ogbene,Luton Town,0.13,,Blocked,14.0,Left Foot,,Chiedozie Ogbene,Take-On,Ross Barkley,Pass (Live)
+9,25,Ryan Gravenberch,Liverpool,0.04,,Blocked,27.0,Left Foot,,Alexis Mac Allister,Interception,,
+10,28,Joe Gomez,Liverpool,0.04,,Off Target,23.0,Right Foot,,Wataru Endo,Pass (Live),Virgil van Dijk,Pass (Live)
+11,29,Luis Díaz,Liverpool,0.02,0.05,Saved,18.0,Right Foot,,Cody Gakpo,Pass (Live),Wataru Endo,Pass (Live)
+12,32,Luis Díaz,Liverpool,0.57,,Off Target,7.0,Left Foot,,Wataru Endo,Pass (Live),Wataru Endo,Take-On
+13,32,Ryan Gravenberch,Liverpool,0.03,0.03,Saved,26.0,Right Foot,,Alexis Mac Allister,Pass (Live),Alexis Mac Allister,Take-On
+14,35,Luis Díaz,Liverpool,0.03,,Off Target,27.0,Right Foot,,,,,
+15,40,Harvey Elliott,Liverpool,0.02,,Off Target,28.0,Left Foot,,Conor Bradley,Pass (Live),Ryan Gravenberch,Pass (Live)
+16,45+2,Cauley Woodrow,Luton Town,0.16,,Off Target,13.0,Right Foot,Volley,Chiedozie Ogbene,Pass (Live),Chiedozie Ogbene,Take-On
+17,,,,,,,,,,,,,
+18,50,Harvey Elliott,Liverpool,0.03,,Off Target,28.0,Left Foot,,Luis Díaz,Pass (Live),Wataru Endo,Pass (Live)
+19,51,Luis Díaz,Liverpool,0.17,,Blocked,11.0,Right Foot,,Conor Bradley,Pass (Live),Conor Bradley,Take-On
+20,51,Luis Díaz,Liverpool,0.12,,Blocked,10.0,Right Foot,,Joe Gomez,Pass (Live),Conor Bradley,Tackle
+21,55,Harvey Elliott,Liverpool,0.03,,Blocked,25.0,Left Foot,,Conor Bradley,Pass (Live),Conor Bradley,Take-On
+22,55,Cody Gakpo,Liverpool,0.05,,Off Target,9.0,Head,,Harvey Elliott,Pass (Live),Alexis Mac Allister,Pass (Live)
+23,56,Cody Gakpo,Liverpool,0.04,0.25,Saved,16.0,Right Foot,,Cody Gakpo,Tackle,Jarell Quansah,Pass (Live)
+24,56,Virgil van Dijk,Liverpool,0.12,0.07,Goal,10.0,Head,,Alexis Mac Allister,Pass (Dead),Cody Gakpo,Shot
+25,58,Conor Bradley,Liverpool,0.1,0.12,Saved,15.0,Right Foot,Deflected,Harvey Elliott,Pass (Live),Cody Gakpo,Pass (Dead)
+26,58,Cody Gakpo,Liverpool,0.33,0.17,Goal,6.0,Head,,Alexis Mac Allister,Pass (Live),Conor Bradley,Pass (Dead)
+27,60,Cody Gakpo,Liverpool,0.11,0.41,Saved,10.0,Right Foot,,Harvey Elliott,Pass (Live),Ryan Gravenberch,Pass (Live)
+28,60,Virgil van Dijk,Liverpool,0.04,0.07,Saved,9.0,Other,,Alexis Mac Allister,Pass (Dead),Cody Gakpo,Shot
+29,62,Andros Townsend,Luton Town,0.01,,Blocked,31.0,Right Foot,,Amari'i Bell,Fouled,Alfie Doughty,Pass (Live)
+30,62,Chiedozie Ogbene,Luton Town,0.04,,Blocked,23.0,Left Foot,,Andros Townsend,Shot,,
+31,66,Alfie Doughty,Luton Town,0.04,,Blocked,11.0,Left Foot,,Ross Barkley,Pass (Live),,
+32,70,Cody Gakpo,Liverpool,0.06,,Blocked,18.0,Right Foot,,Ryan Gravenberch,Pass (Live),Luis Díaz,Pass (Live)
+33,71,Luis Díaz,Liverpool,0.47,0.79,Goal,9.0,Left Foot,,,,,
+34,75,Luis Díaz,Liverpool,0.11,0.36,Saved,13.0,Left Foot,,Harvey Elliott,Pass (Live),Harvey Elliott,Take-On
+35,76,Harvey Elliott,Liverpool,0.03,0.12,Saved,17.0,Right Foot,,Luis Díaz,Pass (Live),Andrew Robertson,Pass (Dead)
+36,81,Cody Gakpo,Liverpool,0.09,,Off Target,22.0,Right Foot,,Wataru Endo,Pass (Live),,
+37,83,Andros Townsend,Luton Town,0.05,,Blocked,22.0,Right Foot,,Issa Kaboré,Pass (Live),Ross Barkley,Pass (Live)
+38,84,Ross Barkley,Luton Town,0.03,0.08,Saved,26.0,Right Foot,,Pelly Ruddock Mpanzu,Pass (Dead),Amari'i Bell,Fouled
+39,88,Andros Townsend,Luton Town,0.05,,Blocked,27.0,Left Foot,Free kick,Ross Barkley,Fouled,Ross Barkley,Take-On
+40,88,Ross Barkley,Luton Town,0.05,,Off Target,27.0,Right Foot,,Ross Barkley,Take-On,Amari'i Bell,Pass (Live)
+41,90,Harvey Elliott,Liverpool,0.18,0.44,Goal,16.0,Left Foot,,,,,

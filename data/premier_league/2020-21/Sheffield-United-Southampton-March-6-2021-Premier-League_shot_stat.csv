@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Stuart Armstrong,Southampton,0.02,,Blocked,32.0,Right Foot,,Ibrahima Diallo,Pass (Live),James Ward-Prowse,Pass (Live)
+1,15,Enda Stevens,Sheffield Utd,0.02,,Off Target,25.0,Left Foot,,David McGoldrick,Pass (Live),Enda Stevens,Pass (Live)
+2,24,Nathan Tella,Southampton,0.03,,Off Target,30.0,Right Foot,Volley,Ryan Bertrand,Pass (Live),Stuart Armstrong,Pass (Live)
+3,26,Nathan Tella,Southampton,0.05,,Blocked,13.0,Left Foot,,Stuart Armstrong,Pass (Live),Stuart Armstrong,Take-On
+4,30,Nathan Tella,Southampton,0.06,,Blocked,14.0,Right Foot,,Stuart Armstrong,Pass (Dead),Stuart Armstrong,Pass (Live)
+5,30,Takumi Minamino,Southampton,0.02,,Off Target,30.0,Left Foot,,Nathan Tella,Shot,,
+6,32,James Ward-Prowse (pen),Southampton,0.79,0.98,Goal,13.0,Right Foot,,Nathan Tella,Fouled,Ibrahima Diallo,Pass (Live)
+7,35,Kean Bryan,Sheffield Utd,0.15,,Off Target,7.0,Head,,John Fleck,Pass (Dead),Enda Stevens,Fouled
+8,39,Nathan Tella,Southampton,0.03,0.2,Saved,28.0,Right Foot,,,,,
+9,45+2,David McGoldrick,Sheffield Utd,0.29,0.19,Saved,20.0,Right Foot,,Rhian Brewster,Pass (Live),,
+10,,,,,,,,,,,,,
+11,49,Che Adams,Southampton,0.06,0.07,Saved,10.0,Right Foot,,Kyle Walker-Peters,Pass (Live),Stuart Armstrong,Pass (Live)
+12,49,Che Adams,Southampton,0.05,0.19,Goal,23.0,Right Foot,,Stuart Armstrong,Pass (Live),Ryan Bertrand,Interception
+13,59,Enda Stevens,Sheffield Utd,0.05,,Off Target,10.0,Head,,John Lundstram,Pass (Live),George Baldock,Pass (Live)
+14,65,John Fleck,Sheffield Utd,0.03,,Blocked,25.0,Left Foot,,John Fleck,Take-On,Enda Stevens,Pass (Live)
+15,66,Nathan Tella,Southampton,0.03,0.23,Saved,29.0,Left Foot,,,,,
+16,69,Jayden Bogle,Sheffield Utd,0.08,,Off Target,12.0,Left Foot,Volley,Enda Stevens,Pass (Live),,
+17,70,Takumi Minamino,Southampton,0.35,,Off Target,10.0,Left Foot,,Ryan Bertrand,Pass (Live),Stuart Armstrong,Pass (Live)
+18,72,John Lundstram,Sheffield Utd,0.03,,Off Target,27.0,Left Foot,Volley,Ethan Ampadu,Pass (Dead),John Lundstram,Fouled
+19,74,Che Adams,Southampton,0.29,0.27,Saved,13.0,Right Foot,,Takumi Minamino,Pass (Live),,
+20,77,Nathan Redmond,Southampton,0.07,0.14,Saved,16.0,Right Foot,,Stuart Armstrong,Pass (Live),,
+21,78,Takumi Minamino,Southampton,0.03,,Blocked,22.0,Right Foot,Volley,Nathan Redmond,Shot,,
+22,80,Stuart Armstrong,Southampton,0.05,,Off Target,26.0,Right Foot,,Stuart Armstrong,Take-On,Ibrahima Diallo,Pass (Live)
+23,82,Oliver McBurnie,Sheffield Utd,0.07,0.12,Saved,7.0,Head,,John Fleck,Pass (Dead),Billy Sharp,Pass (Live)

@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11.0,Marcus Rashford,Manchester Utd,0.06,,Off Target,19.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Mason Greenwood,Pass (Live)
+1,16.0,Billy Sharp,Sheffield Utd,0.08,0.07,Saved,17.0,Left Foot,,John Fleck,Pass (Live),Oliver Norwood,Pass (Live)
+2,17.0,Mason Greenwood,Manchester Utd,0.04,,Blocked,14.0,Left Foot,,Bruno Fernandes,Pass (Live),Nemanja Matić,Pass (Live)
+3,23.0,Kean Bryan,Sheffield Utd,0.72,0.99,Goal,2.0,Head,,John Fleck,Pass (Dead),,
+4,27.0,Mason Greenwood,Manchester Utd,0.03,0.02,Saved,29.0,Left Foot,,Aaron Wan-Bissaka,Pass (Live),Marcus Rashford,Pass (Live)
+5,28.0,Mason Greenwood,Manchester Utd,0.06,,Blocked,13.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Aaron Wan-Bissaka,Take-On
+6,30.0,Harry Maguire,Manchester Utd,0.07,,Off Target,9.0,Head,,Paul Pogba,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+7,39.0,Bruno Fernandes,Manchester Utd,0.03,,Blocked,27.0,Right Foot,,Paul Pogba,Pass (Live),Anthony Martial,Pass (Live)
+8,41.0,Anthony Martial,Manchester Utd,0.14,0.25,Saved,8.0,Head,Deflected,Bruno Fernandes,Pass (Live),Alex Telles,Pass (Live)
+9,,,,,,,,,,,,,
+10,49.0,Mason Greenwood,Manchester Utd,0.25,,Off Target,10.0,Right Foot,,Bruno Fernandes,Pass (Live),Nemanja Matić,Pass (Live)
+11,52.0,Aaron Wan-Bissaka,Manchester Utd,0.03,,Blocked,26.0,Right Foot,,Paul Pogba,Pass (Live),Alex Telles,Pass (Live)
+12,56.0,David McGoldrick,Sheffield Utd,0.04,,Off Target,19.0,Right Foot,,George Baldock,Pass (Live),David McGoldrick,Pass (Live)
+13,62.0,Marcus Rashford,Manchester Utd,0.04,0.02,Saved,36.0,Right Foot,Free kick,Anthony Martial,Fouled,Nemanja Matić,Pass (Live)
+14,64.0,Bruno Fernandes,Manchester Utd,0.07,,Blocked,26.0,Right Foot,Free kick,Bruno Fernandes,Fouled,Paul Pogba,Pass (Live)
+15,64.0,Harry Maguire,Manchester Utd,0.07,0.17,Goal,9.0,Head,,Alex Telles,Pass (Dead),Bruno Fernandes,Shot
+16,74.0,Oliver Burke,Sheffield Utd,0.06,,Blocked,15.0,Right Foot,,John Lundstram,Pass (Live),,
+17,74.0,Oliver Burke,Sheffield Utd,0.06,0.1,Goal,14.0,Right Foot,Deflected,John Lundstram,Pass (Live),Oliver Norwood,Pass (Live)
+18,77.0,Alex Telles,Manchester Utd,0.03,,Blocked,27.0,Left Foot,,Harry Maguire,Pass (Live),Anthony Martial,Pass (Live)
+19,77.0,Paul Pogba,Manchester Utd,0.09,,Off Target,9.0,Head,,Alex Telles,Pass (Dead),Alex Telles,Shot
+20,82.0,Edinson Cavani,Manchester Utd,0.06,,Off Target,16.0,Left Foot,Volley,Anthony Martial,Pass (Live),Anthony Martial,Take-On
+21,86.0,Bruno Fernandes,Manchester Utd,0.02,,Blocked,22.0,Right Foot,,Luke Shaw,Pass (Live),Bruno Fernandes,Pass (Dead)

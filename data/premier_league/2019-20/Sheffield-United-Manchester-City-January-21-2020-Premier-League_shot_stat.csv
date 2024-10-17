@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Oleksandr Zinchenko,Manchester City,0.01,,Off Target,32.0,Left Foot,,Rodri,Pass (Live),Riyad Mahrez,Pass (Dead)
+1,19,Raheem Sterling,Manchester City,0.42,0.37,Saved,13.0,Right Foot,,Riyad Mahrez,Pass (Live),Raheem Sterling,Pass (Live)
+2,25,Nicolás Otamendi,Manchester City,0.09,0.06,Saved,11.0,Right Foot,Volley,Fernandinho,Pass (Live),Riyad Mahrez,Pass (Live)
+3,26,Raheem Sterling,Manchester City,0.02,,Off Target,25.0,Right Foot,,Fernandinho,Pass (Live),Kevin De Bruyne,Pass (Live)
+4,31,Kevin De Bruyne,Manchester City,0.05,,Blocked,27.0,Right Foot,,Gabriel Jesus,Pass (Live),Raheem Sterling,Pass (Live)
+5,36,Gabriel Jesus (pen),Manchester City,0.79,0.95,Saved,13.0,Right Foot,,Riyad Mahrez,Fouled,Riyad Mahrez,Take-On
+6,38,Chris Basham,Sheffield Utd,0.02,,Off Target,15.0,Head,,George Baldock,Pass (Live),Muhamed Bešić,Pass (Live)
+7,40,John Egan,Sheffield Utd,0.07,,Blocked,16.0,Left Foot,,Oliver Norwood,Pass (Live),Enda Stevens,Pass (Live)
+8,45,Kevin De Bruyne,Manchester City,0.03,,Off Target,25.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),Kevin De Bruyne,Pass (Live)
+9,,,,,,,,,,,,,
+10,51,Riyad Mahrez,Manchester City,0.06,,Blocked,26.0,Left Foot,Free kick,Raheem Sterling,Fouled,,
+11,59,Rodri,Manchester City,0.03,,Off Target,11.0,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Pass (Live)
+12,61,Gabriel Jesus,Manchester City,0.08,0.09,Saved,9.0,Head,,Rodri,Pass (Live),Kyle Walker,Pass (Live)
+13,62,Lys Mousset,Sheffield Utd,0.13,0.03,Saved,10.0,Right Foot,,,,,
+14,65,Raheem Sterling,Manchester City,0.04,,Off Target,14.0,Right Foot,,Fernandinho,Pass (Live),Aymeric Laporte,Pass (Live)
+15,72,Oliver McBurnie,Sheffield Utd,0.55,,Off Target,6.0,Right Foot,,Enda Stevens,Pass (Live),Muhamed Bešić,Pass (Live)
+16,73,Sergio Agüero,Manchester City,0.74,0.97,Goal,3.0,Left Foot,,Kevin De Bruyne,Pass (Live),Raheem Sterling,Pass (Live)
+17,77,Rodri,Manchester City,0.06,,Off Target,6.0,Head,,Riyad Mahrez,Pass (Dead),Kyle Walker,Fouled
+18,80,Riyad Mahrez,Manchester City,0.09,,Blocked,14.0,Left Foot,,Sergio Agüero,Pass (Live),Raheem Sterling,Pass (Live)
+19,85,Raheem Sterling,Manchester City,0.09,,Off Target,10.0,Right Foot,,Nicolás Otamendi,Pass (Live),Raheem Sterling,Pass (Live)
+20,88,Raheem Sterling,Manchester City,0.09,,Blocked,14.0,Right Foot,,Riyad Mahrez,Pass (Live),Raheem Sterling,Pass (Live)
+21,89,Riyad Mahrez,Manchester City,0.1,,Blocked,14.0,Right Foot,,Riyad Mahrez,Take-On,Riyad Mahrez,Take-On
+22,90+4,Rodri,Manchester City,0.05,,Off Target,27.0,Right Foot,,Sergio Agüero,Pass (Live),Sergio Agüero,Take-On

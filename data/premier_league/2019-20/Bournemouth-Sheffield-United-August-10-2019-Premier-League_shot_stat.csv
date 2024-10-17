@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,David McGoldrick,Sheffield Utd,0.19,0.2,Saved,21.0,Right Foot,Volley,John Lundstram,Pass (Live),John Lundstram,Interception
+1,5,Jefferson Lerma,Bournemouth,0.04,,Off Target,34.0,Right Foot,Volley,Jefferson Lerma,Take-On,Nathan Aké,Pass (Live)
+2,21,Callum Robinson,Sheffield Utd,0.03,0.13,Saved,28.0,Right Foot,,John Fleck,Pass (Live),Jack O'Connell,Pass (Live)
+3,26,Philip Billing,Bournemouth,0.02,,Off Target,29.0,Left Foot,,Diego Rico,Pass (Live),Ryan Fraser,Pass (Live)
+4,42,John Lundstram,Sheffield Utd,0.01,,Off Target,29.0,Left Foot,,John Fleck,Pass (Live),John Lundstram,Pass (Live)
+5,45,Chris Mepham,Bournemouth,0.09,,Off Target,12.0,Right Foot,,Philip Billing,Tackle,Philip Billing,Pass (Live)
+6,45+2,Callum Robinson,Sheffield Utd,0.07,,Blocked,15.0,Left Foot,,Oliver Norwood,Pass (Live),John Lundstram,Pass (Live)
+7,,,,,,,,,,,,,
+8,47,George Baldock,Sheffield Utd,0.02,,Off Target,24.0,Right Foot,,,,,
+9,49,David McGoldrick,Sheffield Utd,0.22,,Off Target,22.0,Right Foot,,John Lundstram,Pass (Live),,
+10,53,Jefferson Lerma,Bournemouth,0.03,,Blocked,24.0,Right Foot,,Joshua King,Pass (Live),Ryan Fraser,Pass (Live)
+11,56,Joshua King,Bournemouth,0.06,,Blocked,18.0,Right Foot,Volley,Ryan Fraser,Fouled,Callum Wilson,Pass (Live)
+12,59,Philip Billing,Bournemouth,0.03,0.16,Saved,29.0,Left Foot,,,,,
+13,61,Nathan Aké,Bournemouth,0.04,,Off Target,13.0,Head,,Ryan Fraser,Pass (Dead),Philip Billing,Shot
+14,62,Nathan Aké,Bournemouth,0.21,,Blocked,9.0,Right Foot,Volley,Philip Billing,Pass (Live),Ryan Fraser,Pass (Dead)
+15,62,Callum Wilson,Bournemouth,0.69,0.91,Saved,4.0,Left Foot,,Nathan Aké,Shot,,
+16,62,Chris Mepham,Bournemouth,0.39,0.68,Goal,5.0,Right Foot,,Callum Wilson,Shot,,
+17,76,Steve Cook,Bournemouth,0.05,,Off Target,17.0,Right Foot,Volley,Chris Mepham,Fouled,Adam Smith,Pass (Live)
+18,78,Diego Rico,Bournemouth,0.01,,Off Target,29.0,Left Foot,Volley,Joshua King,Pass (Live),Jefferson Lerma,Pass (Live)
+19,88,Oliver McBurnie,Sheffield Utd,0.21,,Off Target,9.0,Right Foot,,Oliver Norwood,Pass (Dead),Luke Freeman,Fouled
+20,88,Billy Sharp,Sheffield Utd,0.66,0.97,Goal,4.0,Left Foot,Deflected,Oliver McBurnie,Shot,,
+21,90+2,Ryan Fraser,Bournemouth,0.11,,Off Target,22.0,Right Foot,Free kick,Dominic Solanke,Fouled,Adam Smith,Pass (Live)

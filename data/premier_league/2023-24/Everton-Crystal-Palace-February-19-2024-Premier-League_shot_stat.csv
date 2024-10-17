@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Idrissa Gana Gueye,Everton,0.02,,Blocked,31.0,Right Foot,,Idrissa Gana Gueye,Tackle,Idrissa Gana Gueye,Tackle
+1,12,Odsonne Édouard,Crystal Palace,0.12,0.04,Saved,15.0,Left Foot,,Jean-Philippe Mateta,Pass (Live),,
+2,15,Abdoulaye Doucouré,Everton,0.05,,Off Target,22.0,Right Foot,Volley,Jordan Pickford,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+3,23,Dominic Calvert-Lewin,Everton,0.05,,Off Target,12.0,Head,,Dwight McNeil,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+4,26,James Garner,Everton,0.05,,Off Target,23.0,Right Foot,Free kick,Dominic Calvert-Lewin,Fouled,James Garner,Pass (Dead)
+5,28,Ashley Young,Everton,0.07,,Off Target,9.0,Head,,Vitaliy Mykolenko,Pass (Live),Dwight McNeil,Pass (Live)
+6,34,Jefferson Lerma,Crystal Palace,0.17,,Off Target,17.0,Left Foot,,Daniel Muñoz,Pass (Live),Jordan Ayew,Pass (Live)
+7,38,Chris Richards,Crystal Palace,0.03,,Blocked,11.0,Head,,Tyrick Mitchell,Pass (Live),Adam Wharton,Pass (Live)
+8,38,Jean-Philippe Mateta,Crystal Palace,0.02,,Blocked,10.0,Head,Deflected,Adam Wharton,Pass (Dead),Chris Richards,Shot
+9,40,Jean-Philippe Mateta,Crystal Palace,0.08,,Blocked,17.0,Left Foot,,Daniel Muñoz,Pass (Live),,
+10,44,Dominic Calvert-Lewin,Everton,0.01,,Off Target,22.0,Head,,Vitaliy Mykolenko,Pass (Live),James Garner,Pass (Live)
+11,,,,,,,,,,,,,
+12,55,James Garner,Everton,0.04,,Off Target,17.0,Right Foot,,Dwight McNeil,Pass (Live),Ashley Young,Pass (Live)
+13,56,Tyrick Mitchell,Crystal Palace,0.11,0.09,Saved,13.0,Left Foot,,Jean-Philippe Mateta,Pass (Live),,
+14,57,Chris Richards,Crystal Palace,0.01,,Off Target,9.0,Head,,Adam Wharton,Pass (Dead),Joachim Andersen,Pass (Live)
+15,58,Odsonne Édouard,Crystal Palace,0.09,,Off Target,5.0,Right Foot,Volley,Chris Richards,Shot,,
+16,60,Vitaliy Mykolenko,Everton,0.04,,Blocked,17.0,Left Foot,Volley,James Garner,Fouled,Ben Godfrey,Pass (Live)
+17,60,Idrissa Gana Gueye,Everton,0.01,,Off Target,34.0,Right Foot,,Vitaliy Mykolenko,Shot,,
+18,64,James Tarkowski,Everton,0.1,0.09,Saved,8.0,Head,,James Garner,Pass (Dead),Ben Godfrey,Pass (Live)
+19,64,Idrissa Gana Gueye,Everton,0.01,,Blocked,15.0,Right Foot,,James Tarkowski,Shot,,
+20,64,Abdoulaye Doucouré,Everton,0.6,0.12,Saved,4.0,Left Foot,,Idrissa Gana Gueye,Shot,,
+21,66,Jordan Ayew,Crystal Palace,0.05,0.31,Goal,21.0,Right Foot,,Odsonne Édouard,Pass (Live),Sam Johnstone,Pass (Dead)
+22,68,Abdoulaye Doucouré,Everton,0.02,,Blocked,24.0,Right Foot,Volley,Ben Godfrey,Pass (Live),James Garner,Pass (Dead)
+23,77,Chris Richards,Crystal Palace,0.04,,Blocked,11.0,Head,,Adam Wharton,Pass (Dead),Jordan Ayew,Pass (Live)
+24,79,Amadou Onana,Everton,0.01,,Blocked,27.0,Right Foot,Volley,Dominic Calvert-Lewin,Pass (Live),Ben Godfrey,Pass (Live)
+25,80,Dominic Calvert-Lewin,Everton,0.11,,Off Target,9.0,Head,,Dwight McNeil,Pass (Live),James Garner,Pass (Live)
+26,83,James Garner,Everton,0.12,0.15,Saved,16.0,Right Foot,,Dominic Calvert-Lewin,Pass (Live),James Tarkowski,Pass (Live)
+27,84,Amadou Onana,Everton,0.18,0.14,Goal,4.0,Head,,Dwight McNeil,Pass (Dead),James Garner,Shot
+28,87,James Tarkowski,Everton,0.28,,Off Target,4.0,Head,,Dwight McNeil,Pass (Dead),Dwight McNeil,Fouled
+29,90+1,Beto,Everton,0.02,,Off Target,15.0,Head,,Vitaliy Mykolenko,Pass (Live),James Garner,Pass (Live)

@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,João Félix,Chelsea,0.02,,Off Target,27.0,Right Foot,,,,,
+1,12,Hakim Ziyech,Chelsea,0.02,,Blocked,24.0,Left Foot,,Kai Havertz,Pass (Live),Hakim Ziyech,Pass (Live)
+2,18,João Félix,Chelsea,0.06,0.03,Saved,24.0,Left Foot,,Kai Havertz,Pass (Live),Hakim Ziyech,Pass (Live)
+3,20,Harry Kane,Tottenham,0.04,,Off Target,24.0,Left Foot,,Ben Davies,Pass (Live),Pierre Højbjerg,Pass (Live)
+4,25,Enzo Fernández,Chelsea,0.1,,Blocked,22.0,Right Foot,,Ruben Loftus-Cheek,Pass (Live),Raheem Sterling,Pass (Live)
+5,27,Pierre Højbjerg,Tottenham,0.04,,Blocked,22.0,Right Foot,,Richarlison,Pass (Live),Oliver Skipp,Pass (Live)
+6,41,Richarlison,Tottenham,0.03,,Off Target,17.0,Right Foot,,,,,
+7,,,,,,,,,,,,,
+8,46,Emerson,Tottenham,0.14,0.08,Saved,12.0,Right Foot,,Dejan Kulusevski,Pass (Live),Richarlison,Pass (Live)
+9,46,Oliver Skipp,Tottenham,0.04,0.24,Goal,22.0,Right Foot,,,,,
+10,52,Hakim Ziyech,Chelsea,0.02,,Off Target,26.0,Left Foot,,Ben Chilwell,Pass (Live),João Félix,Pass (Live)
+11,60,João Félix,Chelsea,0.04,,Blocked,25.0,Right Foot,,Kai Havertz,Pass (Live),Ben Chilwell,Pass (Live)
+12,70,Raheem Sterling,Chelsea,0.04,0.02,Saved,10.0,Head,,Enzo Fernández,Pass (Live),Raheem Sterling,Pass (Live)
+13,75,Richarlison,Tottenham,0.03,,Off Target,25.0,Right Foot,,Emerson,Pass (Live),,
+14,78,Reece James,Chelsea,0.01,,Off Target,32.0,Right Foot,,Raheem Sterling,Pass (Live),Reece James,Pass (Live)
+15,82,Eric Dier,Tottenham,0.11,,Off Target,8.0,Head,,Son Heung-min,Pass (Dead),Emerson,Pass (Live)
+16,82,Harry Kane,Tottenham,0.37,0.56,Goal,4.0,Right Foot,,Eric Dier,Shot,,
+17,86,Mykhailo Mudryk,Chelsea,0.04,,Off Target,29.0,Right Foot,,Denis Zakaria,Tackle,,
+18,90+2,Ben Chilwell,Chelsea,0.08,,Off Target,20.0,Right Foot,Volley,Reece James,Pass (Live),Wesley Fofana,Pass (Live)

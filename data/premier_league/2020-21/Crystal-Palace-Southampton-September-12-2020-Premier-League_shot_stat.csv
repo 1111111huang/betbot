@@ -1,0 +1,16 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Jack Stephens,Southampton,0.07,0.09,Saved,10.0,Head,,James Ward-Prowse,Pass (Dead),Kyle Walker-Peters,Pass (Dead)
+1,13,Wilfried Zaha,Crystal Palace,0.44,0.73,Goal,9.0,Right Foot,Volley,Andros Townsend,Pass (Live),James McCarthy,Interception
+2,32,Danny Ings,Southampton,0.04,0.12,Saved,10.0,Head,,Kyle Walker-Peters,Pass (Live),William Smallbone,Pass (Live)
+3,36,Cheikhou Kouyaté,Crystal Palace,0.15,0.09,Saved,11.0,Right Foot,,Andros Townsend,Pass (Dead),Wilfried Zaha,Fouled
+4,,,,,,,,,,,,,
+5,46,Nathan Redmond,Southampton,0.07,0.03,Saved,14.0,Right Foot,,Che Adams,Pass (Live),Danny Ings,Pass (Live)
+6,53,Che Adams,Southampton,0.22,0.09,Saved,9.0,Right Foot,Volley,Jannik Vestergaard,Pass (Live),Ryan Bertrand,Pass (Dead)
+7,56,Danny Ings,Southampton,0.07,,Blocked,15.0,Right Foot,Volley,Ryan Bertrand,Pass (Live),Oriol Romeu,Pass (Live)
+8,57,Nathan Redmond,Southampton,0.06,,Off Target,13.0,Left Foot,,Danny Ings,Pass (Live),Che Adams,Pass (Live)
+9,74,James Ward-Prowse,Southampton,0.06,,Off Target,27.0,Right Foot,Free kick,Danny Ings,Fouled,Nathan Redmond,Pass (Live)
+10,75,Jordan Ayew,Crystal Palace,0.06,0.02,Saved,11.0,Head,,Luka Milivojević,Pass (Dead),Jordan Ayew,Fouled
+11,80,James McArthur,Crystal Palace,0.05,,Off Target,10.0,Head,,Luka Milivojević,Pass (Dead),James McArthur,Pass (Live)
+12,87,James Ward-Prowse,Southampton,0.06,,Off Target,30.0,Right Foot,Free kick,James Ward-Prowse,Fouled,,
+13,90+5,Wilfried Zaha,Crystal Palace,0.41,,Off Target,11.0,Right Foot,,Wilfried Zaha,Take-On,James McArthur,Pass (Live)
+14,90+5,Danny Ings,Southampton,0.25,0.08,Saved,10.0,Head,,Kyle Walker-Peters,Pass (Live),Oriol Romeu,Pass (Live)

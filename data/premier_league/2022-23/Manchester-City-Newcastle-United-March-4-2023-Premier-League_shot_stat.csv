@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,İlkay Gündoğan,Manchester City,0.35,,Off Target,8.0,Head,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+1,12,Kevin De Bruyne,Manchester City,0.09,,Off Target,24.0,Right Foot,Free kick,İlkay Gündoğan,Fouled,Erling Haaland,Pass (Live)
+2,15,Phil Foden,Manchester City,0.14,0.9,Goal,6.0,Right Foot,Deflected,Phil Foden,Take-On,Phil Foden,Take-On
+3,17,Sean Longstaff,Newcastle Utd,0.1,,Blocked,10.0,Right Foot,,Callum Wilson,Pass (Live),Miguel Almirón,Pass (Live)
+4,27,Kevin De Bruyne,Manchester City,0.08,,Blocked,22.0,Right Foot,,Jack Grealish,Pass (Live),Nathan Aké,Pass (Live)
+5,28,Phil Foden,Manchester City,0.04,,Blocked,16.0,Left Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+6,34,Erling Haaland,Manchester City,0.29,,Off Target,6.0,Head,,Kevin De Bruyne,Pass (Live),Kyle Walker,Pass (Live)
+7,37,Callum Wilson,Newcastle Utd,0.16,,Off Target,10.0,Right Foot,Volley,Kieran Trippier,Pass (Live),Sean Longstaff,Pass (Live)
+8,,,,,,,,,,,,,
+9,53,Jack Grealish,Manchester City,0.03,,Off Target,23.0,Right Foot,,Phil Foden,Pass (Live),Rúben Dias,Pass (Live)
+10,60,Erling Haaland,Manchester City,0.04,,Off Target,14.0,Left Foot,Volley,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+11,64,Alexander Isak,Newcastle Utd,0.04,,Blocked,15.0,Right Foot,,Joe Willock,Pass (Live),Bruno Guimarães,Pass (Live)
+12,64,Alexander Isak,Newcastle Utd,0.1,0.1,Saved,7.0,Left Foot,,Alexander Isak,Shot,,
+13,67,Bernardo Silva,Manchester City,0.07,0.18,Goal,17.0,Left Foot,,Erling Haaland,Pass (Live),İlkay Gündoğan,Pass (Live)
+14,77,İlkay Gündoğan,Manchester City,0.06,,Off Target,26.0,Right Foot,Free kick,,Fouled,,
+15,86,Phil Foden,Manchester City,0.15,0.09,Saved,13.0,Left Foot,,Jack Grealish,Pass (Live),Erling Haaland,Pass (Live)
+16,90+4,Kieran Trippier,Newcastle Utd,0.03,0.34,Saved,34.0,Right Foot,"Free kick, Deflected",Jacob Murphy,Fouled,Joelinton,Pass (Live)

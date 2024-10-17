@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Enzo Fernández,Chelsea,0.06,,Off Target,17.0,Right Foot,,Cole Palmer,Pass (Live),Conor Gallagher,Pass (Live)
+1,9,Axel Disasi,Chelsea,0.04,,Off Target,11.0,Head,,Enzo Fernández,Pass (Live),Conor Gallagher,Pass (Live)
+2,10,Ivan Toney,Brentford,0.09,,Blocked,8.0,Right Foot,Volley,Sergio Reguilón,Pass (Live),Mathias Jørgensen,Pass (Live)
+3,11,Yoane Wissa,Brentford,0.02,,Off Target,32.0,Right Foot,,Christian Nørgaard,Interception,,
+4,24,Yoane Wissa,Brentford,0.15,,Off Target,9.0,Right Foot,,Ivan Toney,Pass (Live),Mathias Jørgensen,Pass (Live)
+5,25,Yoane Wissa,Brentford,0.18,0.04,Saved,12.0,Right Foot,Volley,Mathias Jørgensen,Pass (Live),Mark Flekken,Pass (Dead)
+6,30,Nicolas Jackson,Chelsea,0.81,,Blocked,9.0,Left Foot,,Nicolas Jackson,Take-On,Enzo Fernández,Pass (Live)
+7,35,Nicolas Jackson,Chelsea,0.12,0.45,Goal,8.0,Head,,Malo Gusto,Pass (Live),Cole Palmer,Pass (Live)
+8,39,Ben Chilwell,Chelsea,0.07,,Blocked,19.0,Left Foot,,Enzo Fernández,Pass (Live),Cole Palmer,Pass (Live)
+9,41,Nicolas Jackson,Chelsea,0.08,0.05,Saved,13.0,Left Foot,,Enzo Fernández,Pass (Live),Levi Colwill,Pass (Live)
+10,42,Conor Gallagher,Chelsea,0.03,,Blocked,29.0,Right Foot,,Trevoh Chalobah,Pass (Live),Levi Colwill,Pass (Live)
+11,43,Enzo Fernández,Chelsea,0.02,,Blocked,27.0,Right Foot,,Conor Gallagher,Pass (Live),Malo Gusto,Pass (Live)
+12,,,,,,,,,,,,,
+13,48,Vitaly Janelt,Brentford,0.04,0.26,Saved,23.0,Left Foot,Deflected,Mads Roerslev,Pass (Live),Christian Nørgaard,Pass (Dead)
+14,50,Sergio Reguilón,Brentford,0.11,,Blocked,11.0,Right Foot,,Ivan Toney,Pass (Live),Vitaly Janelt,Pass (Live)
+15,50,Mads Roerslev,Brentford,0.56,0.98,Goal,4.0,Right Foot,,Sergio Reguilón,Shot,,
+16,52,Vitaly Janelt,Brentford,0.08,,Woodwork,20.0,Left Foot,,Yoane Wissa,Pass (Live),,
+17,53,Frank Onyeka,Brentford,0.09,0.02,Saved,21.0,Right Foot,,,,,
+18,54,Cole Palmer,Chelsea,0.04,,Off Target,13.0,Head,,Enzo Fernández,Pass (Live),Cole Palmer,Pass (Live)
+19,59,Enzo Fernández,Chelsea,0.02,,Off Target,30.0,Right Foot,,Ben Chilwell,Pass (Live),Levi Colwill,Pass (Live)
+20,61,Mathias Jørgensen,Brentford,0.03,,Off Target,21.0,Right Foot,,Frank Onyeka,Pass (Live),Christian Nørgaard,Pass (Live)
+21,61,Cole Palmer,Chelsea,0.15,,Off Target,17.0,Left Foot,,Malo Gusto,Pass (Live),Malo Gusto,Take-On
+22,63,Yoane Wissa,Brentford,0.26,,Off Target,8.0,Right Foot,,Mads Roerslev,Pass (Live),,
+23,66,Sergio Reguilón,Brentford,0.08,,Off Target,10.0,Left Foot,,Mads Roerslev,Pass (Live),Ivan Toney,Pass (Live)
+24,69,Yoane Wissa,Brentford,0.1,0.33,Goal,12.0,Right Foot,Volley,Yoane Wissa,Pass (Live),Christian Nørgaard,Pass (Live)
+25,77,Sergio Reguilón,Brentford,0.07,,Woodwork,11.0,Head,,Mads Roerslev,Pass (Live),Vitaly Janelt,Pass (Live)
+26,83,Cole Palmer,Chelsea,0.03,0.17,Saved,31.0,Left Foot,,Malo Gusto,Tackle,,
+27,83,Axel Disasi,Chelsea,0.24,0.21,Goal,4.0,Head,,Cole Palmer,Pass (Live),Mykhailo Mudryk,Pass (Live)
+28,88,Ben Chilwell,Chelsea,0.01,,Off Target,33.0,Left Foot,,Conor Gallagher,Pass (Live),Moisés Caicedo,Pass (Live)
+29,89,Cole Palmer,Chelsea,0.02,,Blocked,21.0,Left Foot,,,,,
+30,89,Cole Palmer,Chelsea,0.05,0.33,Saved,21.0,Left Foot,,Raheem Sterling,Pass (Live),Cole Palmer,Pass (Live)
+31,90+3,Cole Palmer,Chelsea,0.01,,Blocked,28.0,Left Foot,,Conor Gallagher,Pass (Live),Cole Palmer,Pass (Dead)

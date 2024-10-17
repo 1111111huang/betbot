@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Enzo Fernández,Chelsea,0.01,,Blocked,29.0,Right Foot,,,,,
+1,1,Bukayo Saka,Arsenal,0.04,,Blocked,17.0,Left Foot,Deflected,Gabriel Jesus,Pass (Live),,
+2,5,Granit Xhaka,Arsenal,0.18,0.67,Saved,8.0,Left Foot,,,,,
+3,15,Bukayo Saka,Arsenal,0.11,0.34,Saved,8.0,Head,,Leandro Trossard,Pass (Live),Jorginho,Pass (Live)
+4,15,Gabriel Jesus,Arsenal,0.03,,Blocked,10.0,Right Foot,,Bukayo Saka,Shot,,
+5,18,Martin Ødegaard,Arsenal,0.13,0.15,Goal,17.0,Left Foot,,Granit Xhaka,Pass (Live),Gabriel Jesus,Pass (Live)
+6,25,Ben Chilwell,Chelsea,0.22,0.35,Saved,13.0,Left Foot,,N'Golo Kanté,Pass (Live),Enzo Fernández,Pass (Live)
+7,31,Martin Ødegaard,Arsenal,0.16,0.5,Goal,13.0,Left Foot,,Granit Xhaka,Pass (Live),Leandro Trossard,Pass (Live)
+8,34,Granit Xhaka,Arsenal,0.19,,Blocked,5.0,Left Foot,,Gabriel Jesus,Pass (Live),Ben White,Pass (Live)
+9,34,Gabriel Jesus,Arsenal,0.1,0.68,Goal,6.0,Right Foot,,Granit Xhaka,Shot,,
+10,,,,,,,,,,,,,
+11,51,Gabriel Magalhães,Arsenal,0.24,,Blocked,4.0,Head,,Leandro Trossard,Pass (Dead),Gabriel Jesus,Fouled
+12,52,Granit Xhaka,Arsenal,0.15,0.35,Saved,16.0,Left Foot,,Granit Xhaka,Take-On,Bukayo Saka,Pass (Live)
+13,53,Gabriel Jesus,Arsenal,0.15,,Off Target,4.0,Right Foot,Volley,Granit Xhaka,Shot,,
+14,56,Bukayo Saka,Arsenal,0.1,0.26,Saved,9.0,Right Foot,,Martin Ødegaard,Pass (Live),Jorginho,Pass (Live)
+15,57,Bukayo Saka,Arsenal,0.03,,Off Target,27.0,Left Foot,,Bukayo Saka,Take-On,Bukayo Saka,Take-On
+16,63,Bukayo Saka,Arsenal,0.04,,Off Target,22.0,Left Foot,,Gabriel Jesus,Pass (Live),Bukayo Saka,Pass (Live)
+17,65,Noni Madueke,Chelsea,0.17,0.38,Goal,11.0,Left Foot,,Mateo Kovačić,Pass (Live),Enzo Fernández,Pass (Live)
+18,78,Thiago Silva,Chelsea,0.04,,Blocked,14.0,Head,,Mykhailo Mudryk,Pass (Dead),Conor Gallagher,Fouled
+19,84,Martin Ødegaard,Arsenal,0.07,0.02,Saved,14.0,Left Foot,,Ben White,Pass (Live),Jorginho,Pass (Live)
+20,90+1,Hakim Ziyech,Chelsea,0.03,,Off Target,28.0,Left Foot,,Mateo Kovačić,Pass (Live),Mateo Kovačić,Take-On
+21,90+3,Kai Havertz,Chelsea,0.07,0.07,Saved,19.0,Left Foot,,Mykhailo Mudryk,Pass (Live),Thiago Silva,Pass (Live)
+22,90+4,Kai Havertz,Chelsea,0.21,0.55,Saved,6.0,Other,,Mykhailo Mudryk,Pass (Live),Kai Havertz,Pass (Live)
+23,90+5,Granit Xhaka,Arsenal,0.04,0.1,Saved,28.0,Left Foot,,Martin Ødegaard,Pass (Live),Rob Holding,Pass (Live)

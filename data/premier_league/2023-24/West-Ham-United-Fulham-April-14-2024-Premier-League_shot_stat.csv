@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Michail Antonio,West Ham,0.21,,Off Target,10.0,Right Foot,,Lucas Paquetá,Pass (Live),Danny Ings,Pass (Live)
+1,5,Mohammed Kudus,West Ham,0.04,,Off Target,22.0,Left Foot,,James Ward-Prowse,Pass (Live),Mohammed Kudus,Pass (Dead)
+2,8,Lucas Paquetá,West Ham,0.05,,Off Target,11.0,Left Foot,Volley,James Ward-Prowse,Pass (Dead),,Fouled
+3,9,Andreas Pereira,Fulham,0.43,0.85,Goal,11.0,Left Foot,,Andreas Pereira,Take-On,Andreas Pereira,Pass (Live)
+4,14,Andreas Pereira,Fulham,0.37,,Off Target,14.0,Right Foot,,Willian,Pass (Live),Antonee Robinson,Pass (Live)
+5,16,Konstantinos Mavropanos,West Ham,0.05,0.07,Saved,10.0,Head,,Mohammed Kudus,Pass (Live),Lucas Paquetá,Pass (Live)
+6,18,João Palhinha,Fulham,0.03,0.38,Saved,31.0,Right Foot,,Andreas Pereira,Pass (Live),Willian,Pass (Live)
+7,19,James Ward-Prowse,West Ham,0.02,0.05,Saved,30.0,Right Foot,,Emerson Palmieri,Pass (Live),Edson Álvarez,Pass (Live)
+8,28,Lucas Paquetá,West Ham,0.02,,Blocked,31.0,Left Foot,,Michail Antonio,Pass (Live),Vladimír Coufal,Pass (Live)
+9,31,Andreas Pereira,Fulham,0.05,0.07,Saved,17.0,Right Foot,,Willian,Pass (Live),Andreas Pereira,Pass (Live)
+10,32,Vladimír Coufal,West Ham,0.07,,Off Target,12.0,Right Foot,Volley,Michail Antonio,Pass (Live),Emerson Palmieri,Pass (Live)
+11,35,João Palhinha,Fulham,0.05,,Off Target,22.0,Right Foot,,Willian,Pass (Live),Antonee Robinson,Pass (Live)
+12,38,Rodrigo Muniz,Fulham,0.09,,Off Target,13.0,Right Foot,,Alex Iwobi,Pass (Live),Andreas Pereira,Pass (Live)
+13,38,Willian,Fulham,0.05,0.05,Saved,11.0,Right Foot,,Rodrigo Muniz,Shot,,
+14,39,Rodrigo Muniz,Fulham,0.17,0.08,Saved,6.0,Head,,Andreas Pereira,Pass (Dead),Willian,Shot
+15,39,Rodrigo Muniz,Fulham,0.05,0.28,Saved,23.0,Right Foot,,,,,
+16,40,Mohammed Kudus,West Ham,0.03,,Blocked,19.0,Left Foot,,Mohammed Kudus,Take-On,Lucas Paquetá,Pass (Live)
+17,41,Danny Ings,West Ham,0.06,0.07,Saved,11.0,Head,,Mohammed Kudus,Pass (Live),Emerson Palmieri,Pass (Live)
+18,43,Mohammed Kudus,West Ham,0.09,,Off Target,18.0,Left Foot,,Mohammed Kudus,Take-On,Edson Álvarez,Pass (Live)
+19,44,Danny Ings,West Ham,0.06,,Off Target,11.0,Head,,James Ward-Prowse,Pass (Live),Emerson Palmieri,Pass (Live)
+20,45,Alex Iwobi,Fulham,0.05,,Off Target,17.0,Right Foot,,Saša Lukić,Pass (Live),Rodrigo Muniz,Pass (Live)
+21,45+2,James Ward-Prowse,West Ham,0.06,,Off Target,10.0,Head,,Lucas Paquetá,Pass (Live),Danny Ings,Pass (Live)
+22,,,,,,,,,,,,,
+23,46,Rodrigo Muniz,Fulham,0.24,0.1,Saved,10.0,Right Foot,,Rodrigo Muniz,Take-On,Alex Iwobi,Pass (Live)
+24,57,Alex Iwobi,Fulham,0.22,0.79,Saved,13.0,Right Foot,,Willian,Pass (Live),Calvin Bassey,Pass (Live)
+25,63,João Palhinha,Fulham,0.13,,Off Target,7.0,Right Foot,,Andreas Pereira,Pass (Dead),Andreas Pereira,Pass (Live)
+26,68,Lucas Paquetá,West Ham,0.12,0.06,Saved,5.0,Head,,James Ward-Prowse,Pass (Dead),Lucas Paquetá,Pass (Live)
+27,69,Danny Ings,West Ham,0.04,,Off Target,18.0,Right Foot,Volley,Mohammed Kudus,Pass (Live),Mohammed Kudus,Take-On
+28,72,Andreas Pereira,Fulham,0.84,0.99,Goal,5.0,Right Foot,,Alex Iwobi,Pass (Live),Rodrigo Muniz,Pass (Live)
+29,75,Saša Lukić,Fulham,0.09,,Blocked,14.0,Left Foot,,Antonee Robinson,Pass (Live),Willian,Pass (Live)
+30,75,Rodrigo Muniz,Fulham,0.23,,Blocked,12.0,Left Foot,,Saša Lukić,Shot,,
+31,78,Willian,Fulham,0.14,,Blocked,21.0,Right Foot,,Antonee Robinson,Pass (Live),Willian,Pass (Live)
+32,83,Mohammed Kudus,West Ham,0.02,,Off Target,25.0,Left Foot,,Tomáš Souček,Pass (Live),,
+33,90+10,Adama Traoré,Fulham,0.05,0.29,Saved,24.0,Right Foot,,Bobby Reid,Pass (Live),Tosin Adarabioyo,Pass (Live)

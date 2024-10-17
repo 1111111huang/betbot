@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Neco Williams,Nott'ham Forest,0.02,,Blocked,20.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Neco Williams,Pass (Dead)
+1,9.0,Simon Adingra,Brighton,0.05,0.07,Saved,18.0,Left Foot,,Simon Adingra,Take-On,Pascal Groß,Pass (Live)
+2,11.0,Carlos Baleba,Brighton,0.02,,Off Target,30.0,Left Foot,,Jakub Moder,Pass (Live),Jan Paul van Hecke,Pass (Live)
+3,14.0,Ansu Fati,Brighton,0.08,,Blocked,14.0,Right Foot,Deflected,Simon Adingra,Pass (Live),Simon Adingra,Take-On
+4,15.0,Jakub Moder,Brighton,0.02,0.17,Saved,11.0,Head,,Pascal Groß,Pass (Dead),Joël Veltman,Fouled
+5,15.0,Carlos Baleba,Brighton,0.08,,Off Target,10.0,Right Foot,Volley,Jakub Moder,Shot,,
+6,20.0,Ansu Fati,Brighton,0.06,,Blocked,5.0,Head,,Joël Veltman,Fouled,Jakub Moder,Pass (Live)
+7,21.0,Simon Adingra,Brighton,0.04,,Off Target,22.0,Left Foot,Volley,Pascal Groß,Pass (Dead),Ansu Fati,Shot
+8,31.0,Divock Origi,Nott'ham Forest,0.34,0.74,Saved,13.0,Right Foot,,Morgan Gibbs-White,Pass (Live),,
+9,37.0,Morgan Gibbs-White,Nott'ham Forest,0.01,,Off Target,27.0,Right Foot,,Nicolás Domínguez,Pass (Live),Morgan Gibbs-White,Pass (Live)
+10,,,,,,,,,,,,,
+11,47.0,Divock Origi,Nott'ham Forest,0.04,,Off Target,17.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Chris Wood,Pass (Live)
+12,50.0,Murillo,Nott'ham Forest,0.04,0.04,Saved,32.0,Left Foot,Free kick,Ryan Yates,Fouled,Nicolás Domínguez,Pass (Live)
+13,59.0,Ansu Fati,Brighton,0.04,0.02,Saved,21.0,Left Foot,Volley,Joël Veltman,Pass (Live),Pascal Groß,Pass (Live)
+14,71.0,Chris Wood,Nott'ham Forest,0.18,0.46,Saved,13.0,Left Foot,,Morgan Gibbs-White,Pass (Live),Ryan Yates,Pass (Live)
+15,72.0,Murillo,Nott'ham Forest,0.02,,Off Target,12.0,Right Foot,,Chris Wood,Shot,,
+16,79.0,Morgan Gibbs-White,Nott'ham Forest,0.05,0.07,Saved,22.0,Right Foot,Free kick,Callum Hudson-Odoi,Fouled,Morgan Gibbs-White,Pass (Live)
+17,83.0,Lewis Dunk,Brighton,0.02,,Blocked,12.0,Head,,Pascal Groß,Pass (Dead),Carlos Baleba,Pass (Live)
+18,87.0,Julio Enciso,Brighton,0.02,,Off Target,32.0,Right Foot,,Carlos Baleba,Pass (Live),Pascal Groß,Pass (Live)
+19,90.0,Cheikhou Kouyaté,Nott'ham Forest,0.01,,Off Target,18.0,Other,,Callum Hudson-Odoi,Pass (Dead),Taiwo Awoniyi,Fouled

@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Wesley Fofana,Chelsea,0.15,,Off Target,9.0,Other,,Reece James,Pass (Dead),Enzo Fernández,Pass (Live)
+1,8,Mario Lemina,Wolves,0.05,,Blocked,30.0,Right Foot,,João Gomes,Pass (Live),,
+2,19,Conor Gallagher,Chelsea,0.04,,Blocked,15.0,Right Foot,,Mateo Kovačić,Pass (Live),Conor Gallagher,Pass (Live)
+3,21,Toti Gomes,Wolves,0.04,0.02,Saved,12.0,Head,,Matheus Nunes,Pass (Dead),Nélson Semedo,Pass (Live)
+4,27,Mario Lemina,Wolves,0.01,,Blocked,24.0,Right Foot,Volley,João Gomes,Fouled,Mario Lemina,Pass (Live)
+5,32,Matheus Nunes,Wolves,0.04,0.37,Goal,17.0,Right Foot,Volley,Daniel Podence,Pass (Live),Mario Lemina,Pass (Live)
+6,37,Diego Costa,Wolves,0.25,0.43,Saved,11.0,Left Foot,,,,,
+7,41,João Félix,Chelsea,0.06,,Blocked,12.0,Right Foot,Volley,Reece James,Pass (Live),Enzo Fernández,Pass (Dead)
+8,42,João Félix,Chelsea,0.04,0.01,Saved,26.0,Right Foot,,Kai Havertz,Pass (Live),Mateo Kovačić,Pass (Live)
+9,,,,,,,,,,,,,
+10,50,Craig Dawson,Wolves,0.05,,Off Target,16.0,Head,,Daniel Podence,Pass (Dead),Matheus Nunes,Fouled
+11,53,Kai Havertz,Chelsea,0.2,,Blocked,6.0,Left Foot,,Reece James,Pass (Live),Conor Gallagher,Pass (Live)
+12,54,Mateo Kovačić,Chelsea,0.05,,Blocked,26.0,Right Foot,,João Félix,Pass (Live),Reece James,Pass (Live)
+13,55,João Félix,Chelsea,0.05,,Blocked,22.0,Right Foot,,Conor Gallagher,Pass (Live),Wesley Fofana,Pass (Live)
+14,55,Matheus Cunha,Wolves,0.03,,Off Target,81.0,Right Foot,,,,,
+15,56,João Félix,Chelsea,0.04,,Blocked,18.0,Left Foot,Volley,Reece James,Pass (Live),Enzo Fernández,Pass (Live)
+16,60,Reece James,Chelsea,0.01,,Off Target,27.0,Right Foot,,Mateo Kovačić,Pass (Live),Enzo Fernández,Pass (Dead)
+17,62,Matheus Cunha,Wolves,0.03,0.06,Saved,12.0,Right Foot,Volley,Daniel Podence,Pass (Dead),Diego Costa,Fouled
+18,64,Matheus Cunha,Wolves,0.05,,Off Target,14.0,Right Foot,,Matheus Cunha,Take-On,Nélson Semedo,Pass (Live)
+19,65,Conor Gallagher,Chelsea,0.2,,Blocked,16.0,Right Foot,,Raheem Sterling,Pass (Live),Conor Gallagher,Pass (Live)
+20,70,Pierre-Emerick Aubameyang,Chelsea,0.08,,Off Target,10.0,Head,,Reece James,Pass (Live),Enzo Fernández,Pass (Live)
+21,85,Pierre-Emerick Aubameyang,Chelsea,0.13,,Blocked,8.0,Right Foot,,Reece James,Pass (Live),Enzo Fernández,Pass (Live)
+22,90+1,Ben Chilwell,Chelsea,0.05,,Off Target,23.0,Left Foot,,Pierre-Emerick Aubameyang,Pass (Live),Mykhailo Mudryk,Pass (Live)

@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Fábio Silva,Wolves,0.1,,Blocked,15.0,Right Foot,,Raúl Jiménez,Pass (Live),João Moutinho,Pass (Live)
+1,8,Raúl Jiménez,Wolves,0.17,0.02,Saved,16.0,Left Foot,,Jonny Castro,Tackle,,
+2,11,Dwight McNeil,Burnley,0.06,,Off Target,16.0,Left Foot,,Josh Brownhill,Pass (Live),Connor Roberts,Pass (Live)
+3,18,Matěj Vydra,Burnley,0.04,0.28,Saved,30.0,Right Foot,,Wout Weghorst,Pass (Live),Josh Brownhill,Pass (Live)
+4,20,Jonny Castro,Wolves,0.06,0.04,Saved,16.0,Right Foot,Deflected,Nélson Semedo,Pass (Live),Fábio Silva,Pass (Live)
+5,24,João Moutinho,Wolves,0.02,,Off Target,32.0,Right Foot,,João Moutinho,Take-On,Hwang Hee-chan,Pass (Live)
+6,26,Wout Weghorst,Burnley,0.16,,Off Target,17.0,Right Foot,,Connor Roberts,Pass (Live),Dwight McNeil,Pass (Live)
+7,29,Jay Rodriguez,Burnley,0.05,,Off Target,22.0,Right Foot,Volley,Jack Cork,Pass (Live),Connor Roberts,Pass (Live)
+8,32,Fábio Silva,Wolves,0.08,,Blocked,11.0,Right Foot,,Fábio Silva,Take-On,,
+9,38,Dwight McNeil,Burnley,0.03,0.1,Saved,18.0,Left Foot,,Josh Brownhill,Pass (Live),Matěj Vydra,Pass (Live)
+10,43,Nathan Collins,Burnley,0.02,,Off Target,13.0,Head,,Jack Cork,Pass (Live),Dwight McNeil,Pass (Live)
+11,,,,,,,,,,,,,
+12,51,Nélson Semedo,Wolves,0.05,0.57,Saved,15.0,Right Foot,Deflected,Hwang Hee-chan,Pass (Live),Hwang Hee-chan,Take-On
+13,58,Hwang Hee-chan,Wolves,0.01,,Blocked,26.0,Right Foot,Volley,João Moutinho,Pass (Dead),Jonny Castro,Pass (Live)
+14,62,Matěj Vydra,Burnley,0.56,0.92,Goal,8.0,Right Foot,,Wout Weghorst,Pass (Live),Dwight McNeil,Pass (Live)
+15,68,Pedro Neto,Wolves,0.06,,Blocked,18.0,Left Foot,,Pedro Neto,Take-On,Hwang Hee-chan,Pass (Live)
+16,75,Aaron Lennon,Burnley,0.05,,Blocked,15.0,Right Foot,,Dwight McNeil,Pass (Live),Dwight McNeil,Take-On
+17,78,Wout Weghorst,Burnley,0.15,,Blocked,10.0,Right Foot,,Dwight McNeil,Pass (Live),Jack Cork,Pass (Live)
+18,78,Wout Weghorst,Burnley,0.01,,Off Target,25.0,Right Foot,Volley,Aaron Lennon,Pass (Live),Wout Weghorst,Shot
+19,87,Aaron Lennon,Burnley,0.2,,Blocked,10.0,Left Foot,,Wout Weghorst,Pass (Live),Ashley Barnes,Pass (Live)
+20,88,Wout Weghorst,Burnley,0.03,,Blocked,12.0,Head,,Josh Brownhill,Pass (Dead),Aaron Lennon,Shot
+21,88,Wout Weghorst,Burnley,0.03,0.02,Saved,13.0,Right Foot,Volley,Aaron Lennon,Pass (Live),Wout Weghorst,Shot
+22,89,Francisco Trincão,Wolves,0.03,,Blocked,20.0,Left Foot,,Nélson Semedo,Pass (Live),Francisco Trincão,Pass (Live)
+23,90+1,Hwang Hee-chan,Wolves,0.06,0.06,Saved,20.0,Right Foot,Volley,Raúl Jiménez,Pass (Live),João Moutinho,Pass (Live)
+24,90+1,James Tarkowski,Burnley,0.01,0.02,Saved,54.0,Left Foot,,,,,

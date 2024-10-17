@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Harry Kane,Tottenham,0.02,,Off Target,32.0,Right Foot,,Emerson,Pass (Live),,
+1,22,Enock Mwepu,Brighton,0.04,,Blocked,18.0,Right Foot,Volley,Pascal Groß,Pass (Dead),Alexis Mac Allister,Fouled
+2,23,Marc Cucurella,Brighton,0.04,,Off Target,18.0,Left Foot,Volley,Pascal Groß,Pass (Dead),Enock Mwepu,Shot
+3,23,Joël Veltman,Brighton,0.08,,Blocked,11.0,Right Foot,,Pascal Groß,Pass (Live),Marc Cucurella,Shot
+4,29,Joël Veltman,Brighton,0.04,,Blocked,8.0,Head,,Pascal Groß,Pass (Dead),Alexis Mac Allister,Pass (Live)
+5,45+3,Enock Mwepu,Brighton,0.02,0.03,Saved,32.0,Right Foot,,Leandro Trossard,Pass (Live),Yves Bissouma,Pass (Live)
+6,,,,,,,,,,,,,
+7,51,Son Heung-min,Tottenham,0.13,,Blocked,15.0,Left Foot,,Harry Kane,Pass (Dead),Ben Davies,Pass (Live)
+8,58,Son Heung-min,Tottenham,0.09,,Blocked,14.0,Right Foot,,Son Heung-min,Pass (Live),Harry Kane,Pass (Live)
+9,58,Rodrigo Bentancur,Tottenham,0.02,,Off Target,30.0,Right Foot,,Son Heung-min,Shot,,
+10,59,Danny Welbeck,Brighton,0.06,,Off Target,14.0,Right Foot,Volley,Joël Veltman,Pass (Live),,
+11,64,Alexis Mac Allister,Brighton,0.06,,Off Target,23.0,Left Foot,,Leandro Trossard,Pass (Live),Danny Welbeck,Pass (Live)
+12,74,Tariq Lamptey,Brighton,0.02,0.41,Saved,23.0,Right Foot,,Pascal Groß,Pass (Live),Alexis Mac Allister,Pass (Live)
+13,79,Danny Welbeck,Brighton,0.11,,Off Target,9.0,Head,,Tariq Lamptey,Pass (Live),Alexis Mac Allister,Pass (Live)
+14,83,Lewis Dunk,Brighton,0.01,0.08,Saved,14.0,Head,,Pascal Groß,Pass (Dead),Alexis Mac Allister,Pass (Live)
+15,87,Leandro Trossard,Brighton,0.02,,Off Target,24.0,Right Foot,,Danny Welbeck,Pass (Live),Yves Bissouma,Pass (Live)
+16,90,Leandro Trossard,Brighton,0.12,0.7,Goal,9.0,Right Foot,,Leandro Trossard,Pass (Live),Adam Lallana,Pass (Live)
+17,90+1,Steven Bergwijn,Tottenham,0.25,,Off Target,12.0,Right Foot,Volley,Harry Kane,Pass (Live),Cristian Romero,Pass (Live)

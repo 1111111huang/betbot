@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,19,Erling Haaland,Manchester City,0.12,0.04,Saved,12.0,Left Foot,,Kevin De Bruyne,Pass (Live),Jack Grealish,Pass (Live)
+1,23,Jack Grealish,Manchester City,0.38,,Off Target,2.0,Right Foot,Volley,Rico Lewis,Pass (Live),Riyad Mahrez,Pass (Live)
+2,29,Jack Grealish,Manchester City,0.04,0.1,Saved,27.0,Right Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+3,30,İlkay Gündoğan,Manchester City,0.11,,Off Target,9.0,Head,,Rico Lewis,Pass (Live),Riyad Mahrez,Pass (Live)
+4,33,Rodri,Manchester City,0.04,,Off Target,28.0,Right Foot,,Jack Grealish,Pass (Live),Manuel Akanji,Pass (Live)
+5,40,Erling Haaland,Manchester City,0.15,0.67,Goal,8.0,Head,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+6,45+1,Jack Grealish,Manchester City,0.1,,Blocked,17.0,Right Foot,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Pass (Live)
+7,,,,,,,,,,,,,
+8,48,Pablo Sarabia,Wolves,0.13,,Blocked,7.0,Head,,Mario Lemina,Pass (Live),Matheus Cunha,Pass (Live)
+9,48,Hugo Bueno,Wolves,0.02,,Off Target,22.0,Left Foot,Volley,Pablo Sarabia,Pass (Dead),Pablo Sarabia,Shot
+10,50,Erling Haaland (pen),Manchester City,0.79,0.95,Goal,13.0,Left Foot,,İlkay Gündoğan,Fouled,Nathan Aké,Pass (Live)
+11,52,Riyad Mahrez,Manchester City,0.14,,Off Target,5.0,Head,,Jack Grealish,Pass (Live),Riyad Mahrez,Pass (Live)
+12,54,Erling Haaland,Manchester City,0.32,0.77,Goal,10.0,Left Foot,,Riyad Mahrez,Pass (Live),Riyad Mahrez,Interception
+13,63,Pablo Sarabia,Wolves,0.07,,Blocked,11.0,Left Foot,,Rúben Neves,Pass (Live),Matheus Nunes,Pass (Live)
+14,65,João Moutinho,Wolves,0.02,,Off Target,25.0,Right Foot,,Pablo Sarabia,Shot,,
+15,68,Daniel Podence,Wolves,0.15,0.2,Saved,22.0,Right Foot,,Matheus Cunha,Pass (Live),João Moutinho,Pass (Live)
+16,73,Julián Álvarez,Manchester City,0.2,0.08,Saved,15.0,Right Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Take-On
+17,80,Kalvin Phillips,Manchester City,0.04,,Blocked,28.0,Right Foot,,Riyad Mahrez,Pass (Live),Bernardo Silva,Pass (Live)
+18,80,İlkay Gündoğan,Manchester City,0.33,,Off Target,3.0,Head,,Bernardo Silva,Pass (Live),Kalvin Phillips,Shot
+19,82,Daniel Podence,Wolves,0.11,,Blocked,14.0,Right Foot,,Matheus Cunha,Pass (Live),Daniel Podence,Pass (Live)
+20,82,Daniel Podence,Wolves,0.07,,Off Target,16.0,Right Foot,,Daniel Podence,Shot,,
+21,85,Pablo Sarabia,Wolves,0.06,,Off Target,20.0,Left Foot,,Daniel Podence,Pass (Live),Matheus Nunes,Pass (Live)
+22,86,Max Kilman,Wolves,0.03,,Off Target,9.0,Head,,João Moutinho,Pass (Live),Pablo Sarabia,Pass (Live)
+23,90+3,Matheus Nunes,Wolves,0.12,,Blocked,17.0,Left Foot,,Daniel Podence,Pass (Live),Matheus Cunha,Pass (Dead)

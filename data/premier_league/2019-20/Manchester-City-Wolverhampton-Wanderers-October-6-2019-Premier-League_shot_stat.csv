@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Sergio Agüero,Manchester City,0.07,,Blocked,11.0,Left Foot,,Raheem Sterling,Pass (Live),João Cancelo,Pass (Live)
+1,5,Patrick Cutrone,Wolves,0.08,,Off Target,21.0,Right Foot,,Adama Traoré,Pass (Live),Conor Coady,Pass (Live)
+2,18,Riyad Mahrez,Manchester City,0.05,,Blocked,17.0,Left Foot,,Riyad Mahrez,Pass (Live),İlkay Gündoğan,Pass (Live)
+3,19,Raúl Jiménez,Wolves,0.07,,Blocked,15.0,Right Foot,,,,,
+4,19,Patrick Cutrone,Wolves,0.04,,Blocked,21.0,Right Foot,,Raúl Jiménez,Shot,,
+5,27,Rúben Vinagre,Wolves,0.04,,Off Target,19.0,Left Foot,,Raúl Jiménez,Pass (Live),Raúl Jiménez,Take-On
+6,30,İlkay Gündoğan,Manchester City,0.08,,Off Target,28.0,Right Foot,Free kick,Raheem Sterling,Fouled,David Silva,Pass (Live)
+7,33,Raheem Sterling,Manchester City,0.04,0.14,Saved,21.0,Right Foot,,David Silva,Pass (Live),Fernandinho,Pass (Live)
+8,34,João Cancelo,Manchester City,0.02,,Off Target,27.0,Right Foot,,Rodri,Pass (Live),Raheem Sterling,Pass (Live)
+9,45,Kyle Walker,Manchester City,0.03,0.52,Saved,27.0,Right Foot,,Rodri,Pass (Live),David Silva,Pass (Live)
+10,,,,,,,,,,,,,
+11,63,Raúl Jiménez,Wolves,0.05,,Off Target,8.0,Head,,João Moutinho,Pass (Dead),Raúl Jiménez,Take-On
+12,63,Raheem Sterling,Manchester City,0.04,,Blocked,18.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),David Silva,Pass (Live)
+13,65,Oleksandr Zinchenko,Manchester City,0.05,,Blocked,22.0,Left Foot,,İlkay Gündoğan,Pass (Live),David Silva,Pass (Live)
+14,67,David Silva,Manchester City,0.09,,Woodwork,23.0,Left Foot,Free kick,David Silva,Fouled,João Cancelo,Pass (Live)
+15,68,Sergio Agüero,Manchester City,0.11,,Blocked,13.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),João Cancelo,Pass (Live)
+16,68,Raheem Sterling,Manchester City,0.05,,Blocked,18.0,Right Foot,,Sergio Agüero,Shot,,
+17,68,David Silva,Manchester City,0.23,,Off Target,4.0,Left Foot,Volley,Raheem Sterling,Shot,,
+18,75,Oleksandr Zinchenko,Manchester City,0.03,,Blocked,22.0,Left Foot,,Rodri,Pass (Live),Sergio Agüero,Pass (Live)
+19,76,Bernardo Silva,Manchester City,0.42,,Blocked,10.0,Left Foot,,João Cancelo,Pass (Live),Gabriel Jesus,Pass (Live)
+20,80,Adama Traoré,Wolves,0.41,0.86,Goal,18.0,Right Foot,,Raúl Jiménez,Pass (Live),Raúl Jiménez,Take-On
+21,82,João Cancelo,Manchester City,0.03,,Blocked,29.0,Right Foot,Deflected,İlkay Gündoğan,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+22,90+2,Gabriel Jesus,Manchester City,0.04,,Blocked,21.0,Right Foot,,Bernardo Silva,Pass (Live),İlkay Gündoğan,Pass (Dead)
+23,90+2,Fernandinho,Manchester City,0.05,,Off Target,12.0,Head,,Oleksandr Zinchenko,Pass (Live),Raheem Sterling,Pass (Live)
+24,90+3,Sergio Agüero,Manchester City,0.07,,Off Target,13.0,Left Foot,,Oleksandr Zinchenko,Pass (Live),Rodri,Pass (Live)
+25,90+4,Adama Traoré,Wolves,0.31,0.79,Goal,20.0,Right Foot,,Raúl Jiménez,Pass (Live),Jonny Castro,Pass (Live)

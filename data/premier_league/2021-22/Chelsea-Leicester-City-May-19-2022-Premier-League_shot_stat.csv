@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Hakim Ziyech,Chelsea,0.03,,Off Target,28.0,Left Foot,,Jorginho,Pass (Live),Christian Pulisic,Pass (Live)
+1,6,James Maddison,Leicester City,0.06,0.17,Goal,23.0,Right Foot,,Kasper Schmeichel,Pass (Live),Daniel Amartey,Pass (Live)
+2,10,Trevoh Chalobah,Chelsea,0.02,0.17,Saved,29.0,Right Foot,,Jorginho,Pass (Live),N'Golo Kanté,Pass (Live)
+3,11,Hakim Ziyech,Chelsea,0.02,,Blocked,20.0,Right Foot,,Reece James,Pass (Live),Trevoh Chalobah,Shot
+4,14,Reece James,Chelsea,0.01,,Off Target,27.0,Right Foot,Volley,,,,
+5,16,Romelu Lukaku,Chelsea,0.08,,Blocked,13.0,Right Foot,,N'Golo Kanté,Pass (Live),N'Golo Kanté,Interception
+6,18,Hakim Ziyech,Chelsea,0.02,,Blocked,28.0,Left Foot,,Jorginho,Pass (Live),N'Golo Kanté,Pass (Live)
+7,18,Christian Pulisic,Chelsea,0.03,,Blocked,21.0,Right Foot,,Hakim Ziyech,Shot,,
+8,31,Hakim Ziyech,Chelsea,0.03,,Blocked,21.0,Left Foot,,Hakim Ziyech,Take-On,,
+9,31,Thiago Silva,Chelsea,0.05,,Off Target,12.0,Head,,Reece James,Pass (Live),Marcos Alonso,Pass (Dead)
+10,35,Marcos Alonso,Chelsea,0.24,0.61,Goal,9.0,Left Foot,Volley,Reece James,Pass (Live),N'Golo Kanté,Pass (Live)
+11,,,,,,,,,,,,,
+12,55,Kelechi Iheanacho,Leicester City,0.02,,Off Target,28.0,Left Foot,,James Maddison,Pass (Live),Kelechi Iheanacho,Pass (Live)
+13,59,Hakim Ziyech,Chelsea,0.04,0.16,Saved,32.0,Left Foot,Free kick,Christian Pulisic,Fouled,N'Golo Kanté,Pass (Live)
+14,59,Hakim Ziyech,Chelsea,0.07,0.09,Saved,23.0,Left Foot,,Romelu Lukaku,Pass (Live),Marcos Alonso,Pass (Live)
+15,62,Romelu Lukaku,Chelsea,0.07,,Off Target,11.0,Head,,Hakim Ziyech,Pass (Live),Thiago Silva,Pass (Live)
+16,63,Christian Pulisic,Chelsea,0.55,,Off Target,9.0,Right Foot,,Romelu Lukaku,Pass (Live),Reece James,Pass (Live)
+17,65,Reece James,Chelsea,0.04,,Blocked,25.0,Right Foot,Free kick,Christian Pulisic,Fouled,Christian Pulisic,Take-On
+18,66,Antonio Rüdiger,Chelsea,0.04,0.07,Saved,15.0,Left Foot,,Jorginho,Pass (Live),N'Golo Kanté,Pass (Live)
+19,71,Reece James,Chelsea,0.02,0.12,Saved,21.0,Right Foot,,Marcos Alonso,Pass (Live),Thiago Silva,Pass (Live)
+20,73,Trevoh Chalobah,Chelsea,0.21,0.26,Saved,5.0,Head,,Marcos Alonso,Pass (Dead),,
+21,81,Hakim Ziyech,Chelsea,0.02,,Blocked,32.0,Left Foot,,Thiago Silva,Pass (Live),Antonio Rüdiger,Pass (Live)
+22,90+4,Reece James,Chelsea,0.06,,Blocked,17.0,Right Foot,,Ruben Loftus-Cheek,Pass (Live),César Azpilicueta,Pass (Live)

@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Patrick Bamford,Leeds United,0.11,0.16,Saved,5.0,Left Foot,,Maximilian Wöber,Pass (Live),Luke Ayling,Pass (Live)
+1,4,Crysencio Summerville,Leeds United,0.21,,Off Target,7.0,Left Foot,,Patrick Bamford,Shot,,
+2,20,Bruno Fernandes,Manchester Utd,0.09,,Off Target,16.0,Right Foot,,Jadon Sancho,Pass (Live),Bruno Fernandes,Pass (Live)
+3,21,Patrick Bamford,Leeds United,0.07,,Blocked,11.0,Right Foot,,Crysencio Summerville,Fouled,Crysencio Summerville,Take-On
+4,39,Bruno Fernandes,Manchester Utd,0.08,0.09,Saved,25.0,Right Foot,Deflected,Marcus Rashford,Pass (Live),Marcel Sabitzer,Pass (Live)
+5,44,Crysencio Summerville,Leeds United,0.07,0.04,Saved,9.0,Right Foot,,,,,
+6,45+1,Bruno Fernandes,Manchester Utd,0.3,0.77,Saved,10.0,Right Foot,,,,,
+7,,,,,,,,,,,,,
+8,47,Crysencio Summerville,Leeds United,0.06,0.24,Saved,23.0,Right Foot,,Weston McKennie,Pass (Live),,
+9,48,Weston McKennie,Leeds United,0.17,,Off Target,6.0,Other,,Wilfried Gnonto,Pass (Live),Jack Harrison,Pass (Dead)
+10,48,Jack Harrison,Leeds United,0.28,,Off Target,11.0,Left Foot,,Luke Ayling,Pass (Live),Crysencio Summerville,Pass (Live)
+11,51,Luke Ayling,Leeds United,0.05,,Blocked,22.0,Right Foot,Volley,Patrick Bamford,Fouled,Junior Firpo,Pass (Dead)
+12,58,Robin Koch,Leeds United,0.24,,Blocked,5.0,Head,,Jack Harrison,Pass (Dead),,
+13,63,Diogo Dalot,Manchester Utd,0.04,,Woodwork,23.0,Right Foot,,Fred,Pass (Live),Alejandro Garnacho,Pass (Live)
+14,65,Fred,Manchester Utd,0.02,,Off Target,27.0,Left Foot,,Wout Weghorst,Pass (Live),Bruno Fernandes,Pass (Live)
+15,66,Wilfried Gnonto,Leeds United,0.08,0.02,Saved,24.0,Right Foot,,Junior Firpo,Pass (Live),Tyler Adams,Pass (Live)
+16,70,Luke Ayling,Leeds United,0.09,0.06,Saved,8.0,Right Foot,Volley,Georginio Rutter,Pass (Live),Jack Harrison,Pass (Dead)
+17,78,Crysencio Summerville,Leeds United,0.12,0.05,Saved,12.0,Right Foot,,,,,
+18,80,Marcus Rashford,Manchester Utd,0.21,0.71,Goal,10.0,Head,,Luke Shaw,Pass (Live),Marcel Sabitzer,Pass (Live)
+19,85,Alejandro Garnacho,Manchester Utd,0.09,0.28,Goal,16.0,Right Foot,,Alejandro Garnacho,Take-On,Wout Weghorst,Pass (Live)
+20,88,Maximilian Wöber,Leeds United,0.13,,Blocked,8.0,Head,,Wilfried Gnonto,Fouled,,
+21,88,Wilfried Gnonto,Leeds United,0.04,,Blocked,11.0,Right Foot,Volley,Sam Greenwood,Pass (Dead),Maximilian Wöber,Shot
+22,88,Brenden Aaronson,Leeds United,0.05,,Blocked,16.0,Right Foot,,Wilfried Gnonto,Shot,,
+23,89,Maximilian Wöber,Leeds United,0.07,,Off Target,10.0,Head,,Sam Greenwood,Pass (Dead),Brenden Aaronson,Shot
+24,89,Alejandro Garnacho,Manchester Utd,0.12,,Blocked,15.0,Left Foot,,Bruno Fernandes,Pass (Live),Marcus Rashford,Pass (Live)
+25,89,Bruno Fernandes,Manchester Utd,0.03,0.12,Saved,18.0,Right Foot,,Luke Shaw,Pass (Live),Harry Maguire,Pass (Live)
+26,90+3,Anthony Elanga,Manchester Utd,0.04,,Off Target,10.0,Other,,Bruno Fernandes,Pass (Dead),,
+27,90+3,Harry Maguire,Manchester Utd,0.1,,Blocked,9.0,Head,,Anthony Elanga,Shot,,

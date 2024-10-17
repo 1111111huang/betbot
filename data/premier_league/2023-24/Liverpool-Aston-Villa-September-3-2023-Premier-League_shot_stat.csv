@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Dominik Szoboszlai,Liverpool,0.03,0.39,Goal,20.0,Left Foot,Deflected,Trent Alexander-Arnold,Pass (Dead),,
+1,16,Luis Díaz,Liverpool,0.03,,Blocked,14.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Mohamed Salah,Pass (Live)
+2,22,Darwin Núñez,Liverpool,0.32,,Woodwork,9.0,Right Foot,,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+3,27,Joël Matip,Liverpool,0.3,,Off Target,10.0,Head,,Trent Alexander-Arnold,Pass (Dead),Luis Díaz,Fouled
+4,33,John McGinn,Aston Villa,0.11,,Off Target,15.0,Left Foot,,Moussa Diaby,Pass (Live),Leon Bailey,Pass (Live)
+5,34,Darwin Núñez,Liverpool,0.1,,Blocked,16.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Darwin Núñez,Pass (Live)
+6,38,Ollie Watkins,Aston Villa,0.12,,Off Target,10.0,Left Foot,,Lucas Digne,Pass (Live),Douglas Luiz,Pass (Live)
+7,39,Darwin Núñez,Liverpool,0.07,,Woodwork,9.0,Right Foot,,Mohamed Salah,Pass (Live),Dominik Szoboszlai,Pass (Live)
+8,42,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,28.0,Right Foot,,Dominik Szoboszlai,Pass (Live),Luis Díaz,Pass (Live)
+9,43,Moussa Diaby,Aston Villa,0.09,,Off Target,15.0,Left Foot,,Ollie Watkins,Pass (Live),Moussa Diaby,Pass (Live)
+10,45+3,Mohamed Salah,Liverpool,0.16,0.04,Saved,11.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Joël Matip,Pass (Live)
+11,,,,,,,,,,,,,
+12,47,Mohamed Salah,Liverpool,0.09,,Off Target,23.0,Left Foot,,Dominik Szoboszlai,Pass (Live),Dominik Szoboszlai,Take-On
+13,48,Matty Cash,Aston Villa,0.06,0.1,Saved,7.0,Head,,Lucas Digne,Pass (Live),Boubacar Kamara,Pass (Live)
+14,49,Ollie Watkins,Aston Villa,0.08,,Off Target,9.0,Head,,Lucas Digne,Pass (Dead),Matty Cash,Shot
+15,49,Darwin Núñez,Liverpool,0.61,,Off Target,5.0,Head,,Trent Alexander-Arnold,Pass (Live),Alisson,Pass (Dead)
+16,55,Darwin Núñez,Liverpool,0.03,,Off Target,8.0,Head,,Andrew Robertson,Pass (Dead),Joël Matip,Pass (Live)
+17,55,Mohamed Salah,Liverpool,0.5,0.48,Goal,3.0,Left Foot,,Darwin Núñez,Shot,,
+18,62,John McGinn,Aston Villa,0.08,0.02,Saved,12.0,Head,,Leon Bailey,Pass (Live),Douglas Luiz,Pass (Live)
+19,63,Pau Torres,Aston Villa,0.03,0.09,Saved,9.0,Other,,Lucas Digne,Pass (Dead),,
+20,69,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,29.0,Right Foot,,Joe Gomez,Pass (Live),Dominik Szoboszlai,Pass (Live)
+21,72,Dominik Szoboszlai,Liverpool,0.04,,Off Target,22.0,Left Foot,,Joël Matip,Pass (Live),Andrew Robertson,Pass (Live)
+22,74,Mohamed Salah,Liverpool,0.04,0.04,Saved,11.0,Right Foot,Volley,Joe Gomez,Pass (Live),Andrew Robertson,Pass (Live)
+23,75,Harvey Elliott,Liverpool,0.03,,Blocked,22.0,Left Foot,,Dominik Szoboszlai,Pass (Dead),Mohamed Salah,Shot
+24,76,Jhon Durán,Aston Villa,0.02,,Off Target,21.0,Left Foot,,Nicolò Zaniolo,Pass (Live),Nicolò Zaniolo,Take-On
+25,77,Jhon Durán,Aston Villa,0.06,,Off Target,15.0,Left Foot,,Boubacar Kamara,Pass (Live),John McGinn,Pass (Live)
+26,88,Joe Gomez,Liverpool,0.05,,Off Target,10.0,Head,,Dominik Szoboszlai,Pass (Dead),Mohamed Salah,Pass (Live)

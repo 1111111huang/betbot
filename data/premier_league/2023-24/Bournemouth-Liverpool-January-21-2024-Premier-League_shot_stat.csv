@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,19,Alexis Mac Allister,Liverpool,0.02,,Off Target,33.0,Right Foot,,Ibrahima Konaté,Pass (Live),Virgil van Dijk,Pass (Live)
+1,25,Darwin Núñez,Liverpool,0.02,0.03,Saved,33.0,Right Foot,,Alexis Mac Allister,Pass (Live),Alexis Mac Allister,Tackle
+2,34,Luis Díaz,Liverpool,0.02,0.11,Saved,34.0,Right Foot,Deflected,Alexis Mac Allister,Pass (Live),Harvey Elliott,Pass (Live)
+3,39,Conor Bradley,Liverpool,0.03,,Blocked,24.0,Right Foot,,Darwin Núñez,Pass (Live),Curtis Jones,Pass (Live)
+4,39,Ryan Christie,Bournemouth,0.03,0.16,Saved,24.0,Left Foot,,Marcus Tavernier,Pass (Live),Chris Mepham,Pass (Live)
+5,41,Justin Kluivert,Bournemouth,0.07,,Blocked,22.0,Right Foot,,Justin Kluivert,Take-On,Ryan Christie,Pass (Live)
+6,41,Ryan Christie,Bournemouth,0.03,,Blocked,25.0,Right Foot,,Justin Kluivert,Shot,,
+7,,,,,,,,,,,,,
+8,47,Joe Gomez,Liverpool,0.02,,Blocked,26.0,Right Foot,,Joe Gomez,Take-On,Darwin Núñez,Pass (Live)
+9,49,Darwin Núñez,Liverpool,0.44,0.86,Goal,16.0,Right Foot,,Diogo Jota,Pass (Live),Curtis Jones,Pass (Live)
+10,50,Justin Kluivert,Bournemouth,0.13,,Blocked,19.0,Right Foot,,Lewis Cook,Pass (Live),James Hill,Pass (Live)
+11,53,Conor Bradley,Liverpool,0.17,,Off Target,5.0,Head,,Darwin Núñez,Pass (Live),Alexis Mac Allister,Pass (Live)
+12,53,Conor Bradley,Liverpool,0.07,0.45,Saved,18.0,Left Foot,,Conor Bradley,Shot,,
+13,54,Harvey Elliott,Liverpool,0.17,,Blocked,9.0,Left Foot,,,,,
+14,60,Marcus Tavernier,Bournemouth,0.02,,Blocked,20.0,Left Foot,,Max Aarons,Pass (Live),Marcus Tavernier,Pass (Live)
+15,62,Justin Kluivert,Bournemouth,0.08,,Blocked,11.0,Left Foot,,,,,
+16,70,Ryan Gravenberch,Liverpool,0.04,,Blocked,28.0,Left Foot,,Ryan Gravenberch,Take-On,Alexis Mac Allister,Pass (Live)
+17,70,Diogo Jota,Liverpool,0.06,0.27,Goal,12.0,Right Foot,,Cody Gakpo,Pass (Live),Diogo Jota,Pass (Live)
+18,77,Curtis Jones,Liverpool,0.1,,Off Target,14.0,Right Foot,,Alexis Mac Allister,Pass (Dead),,
+19,78,Dominic Solanke,Bournemouth,0.06,,Blocked,11.0,Right Foot,Volley,Marcus Tavernier,Pass (Live),David Brooks,Pass (Live)
+20,79,Diogo Jota,Liverpool,0.08,0.19,Goal,11.0,Right Foot,,Conor Bradley,Pass (Live),Darwin Núñez,Pass (Live)
+21,90,David Brooks,Bournemouth,0.48,,Off Target,15.0,Left Foot,,Ryan Christie,Pass (Live),Alex Scott,Tackle
+22,90+1,David Brooks,Bournemouth,0.03,,Off Target,10.0,Head,,Ryan Christie,Pass (Live),Marcus Tavernier,Fouled
+23,90+3,Darwin Núñez,Liverpool,0.34,0.96,Goal,5.0,Right Foot,,Joe Gomez,Pass (Live),Alexis Mac Allister,Pass (Live)
+24,90+5,Kieffer Moore,Bournemouth,0.41,,Off Target,31.0,Right Foot,,David Brooks,Pass (Live),Chris Mepham,Tackle
+25,90+7,Alex Scott,Bournemouth,0.03,,Off Target,29.0,Right Foot,,Kieffer Moore,Pass (Live),David Brooks,Pass (Live)

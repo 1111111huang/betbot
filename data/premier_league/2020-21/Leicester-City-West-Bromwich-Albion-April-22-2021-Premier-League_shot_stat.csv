@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Kelechi Iheanacho,Leicester City,0.06,0.02,Saved,12.0,Left Foot,,Kelechi Iheanacho,Take-On,Luke Thomas,Pass (Live)
+1,3,James Maddison,Leicester City,0.05,,Off Target,23.0,Right Foot,,Timothy Castagne,Pass (Live),,
+2,23,Jamie Vardy,Leicester City,0.25,0.33,Goal,17.0,Right Foot,,Timothy Castagne,Pass (Live),Youri Tielemans,Pass (Live)
+3,25,Jamie Vardy,Leicester City,0.06,,Blocked,11.0,Right Foot,,Youri Tielemans,Pass (Dead),Timothy Castagne,Pass (Live)
+4,26,Jonny Evans,Leicester City,0.19,0.53,Goal,6.0,Head,,Jamie Vardy,Shot,,
+5,29,Timothy Castagne,Leicester City,0.06,,Woodwork,20.0,Right Foot,,James Maddison,Pass (Live),Çağlar Söyüncü,Pass (Dead)
+6,29,Jamie Vardy,Leicester City,0.06,0.05,Saved,14.0,Right Foot,,James Maddison,Pass (Live),Wilfred Ndidi,Pass (Live)
+7,33,Kelechi Iheanacho,Leicester City,0.03,,Blocked,29.0,Left Foot,,Timothy Castagne,Pass (Live),James Maddison,Pass (Live)
+8,33,James Maddison,Leicester City,0.03,0.07,Saved,27.0,Left Foot,,Timothy Castagne,Pass (Live),James Maddison,Pass (Live)
+9,36,Kelechi Iheanacho,Leicester City,0.4,0.33,Goal,9.0,Left Foot,Deflected,Jamie Vardy,Pass (Live),Jamie Vardy,Take-On
+10,40,Ainsley Maitland-Niles,West Brom,0.04,,Off Target,21.0,Left Foot,,Callum Robinson,Pass (Live),Callum Robinson,Take-On
+11,42,Kelechi Iheanacho,Leicester City,0.48,,Off Target,10.0,Right Foot,,Kelechi Iheanacho,Take-On,Timothy Castagne,Pass (Live)
+12,45,Kelechi Iheanacho,Leicester City,0.05,,Blocked,25.0,Left Foot,,Jamie Vardy,Pass (Live),Wesley Fofana,Pass (Live)
+13,45+2,Matt Phillips,West Brom,0.06,0.05,Saved,23.0,Left Foot,,Matt Phillips,Take-On,Matheus Pereira,Pass (Live)
+14,,,,,,,,,,,,,
+15,52,Youri Tielemans,Leicester City,0.02,,Off Target,28.0,Right Foot,,James Maddison,Pass (Live),Wilfred Ndidi,Pass (Live)
+16,53,Kelechi Iheanacho,Leicester City,0.07,,Blocked,16.0,Left Foot,,James Maddison,Pass (Live),Kelechi Iheanacho,Pass (Live)
+17,72,Jamie Vardy,Leicester City,0.1,,Off Target,49.0,Right Foot,,,,,
+18,77,Okay Yokuşlu,West Brom,0.08,,Off Target,11.0,Head,,Matt Phillips,Pass (Dead),Karlan Grant,Fouled
+19,81,Kelechi Iheanacho,Leicester City,0.14,0.48,Saved,22.0,Left Foot,Free kick,Ayoze Pérez,Fouled,Wilfred Ndidi,Pass (Live)
+20,84,Semi Ajayi,West Brom,0.37,,Off Target,5.0,Other,,Matt Phillips,Pass (Dead),Hal Robson-Kanu,Fouled
+21,86,Kelechi Iheanacho,Leicester City,0.03,,Blocked,29.0,Left Foot,,Marc Albrighton,Pass (Live),Youri Tielemans,Pass (Live)

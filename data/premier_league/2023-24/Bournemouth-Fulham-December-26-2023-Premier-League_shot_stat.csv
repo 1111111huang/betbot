@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Antoine Semenyo,Bournemouth,0.02,,Blocked,25.0,Left Foot,,Antoine Semenyo,Take-On,Justin Kluivert,Pass (Live)
+1,7,Bobby Reid,Fulham,0.04,,Blocked,21.0,Right Foot,Volley,Andreas Pereira,Pass (Dead),Tom Cairney,Pass (Live)
+2,7,Antonee Robinson,Fulham,0.01,0.36,Saved,32.0,Left Foot,Volley,Bobby Reid,Shot,,
+3,9,Kenny Tete,Fulham,0.04,,Off Target,18.0,Left Foot,,Kenny Tete,Take-On,Kenny Tete,Take-On
+4,10,Dominic Solanke,Bournemouth,0.12,,Blocked,15.0,Right Foot,,Justin Kluivert,Pass (Live),Ryan Christie,Pass (Live)
+5,11,Dango Ouattara,Bournemouth,0.13,,Blocked,8.0,Head,,Alex Scott,Pass (Live),Ryan Christie,Pass (Live)
+6,16,Rodrigo Muniz,Fulham,0.09,,Blocked,9.0,Right Foot,,Antonee Robinson,Pass (Live),Alex Iwobi,Pass (Live)
+7,28,Rodrigo Muniz,Fulham,0.02,,Blocked,33.0,Right Foot,,Andreas Pereira,Pass (Live),Bobby Reid,Pass (Live)
+8,29,Rodrigo Muniz,Fulham,0.03,,Blocked,13.0,Head,,Antonee Robinson,Pass (Live),Tom Cairney,Pass (Live)
+9,31,Justin Kluivert,Bournemouth,0.14,,Blocked,11.0,Right Foot,,Antoine Semenyo,Pass (Live),Antoine Semenyo,Take-On
+10,34,Marcus Tavernier,Bournemouth,0.01,,Off Target,17.0,Left Foot,Volley,,,,
+11,37,Marcus Tavernier,Bournemouth,0.03,,Blocked,19.0,Left Foot,,Marcus Tavernier,Pass (Live),Adam Smith,Pass (Live)
+12,41,Dango Ouattara,Bournemouth,0.03,,Off Target,27.0,Left Foot,,Marcus Tavernier,Pass (Live),Alex Scott,Pass (Live)
+13,44,Justin Kluivert,Bournemouth,0.15,0.21,Goal,11.0,Right Foot,,Alex Scott,Pass (Live),Alex Scott,Take-On
+14,,,,,,,,,,,,,
+15,58,Andreas Pereira,Fulham,0.03,0.14,Saved,34.0,Right Foot,Free kick,Rodrigo Muniz,Fouled,Bobby Reid,Pass (Live)
+16,59,Marcus Tavernier,Bournemouth,0.04,,Blocked,21.0,Left Foot,,Justin Kluivert,Pass (Live),Ryan Christie,Pass (Live)
+17,62,Dominic Solanke (pen),Bournemouth,0.79,0.97,Goal,13.0,Right Foot,,Antoine Semenyo,Fouled,Dango Ouattara,Pass (Live)
+18,67,Dominic Solanke,Bournemouth,0.1,,Blocked,9.0,Right Foot,,Illia Zabarnyi,Pass (Live),Marcos Senesi,Pass (Live)
+19,70,Rodrigo Muniz,Fulham,0.03,0.08,Saved,13.0,Right Foot,Volley,Calvin Bassey,Pass (Live),Andreas Pereira,Pass (Live)
+20,75,Marcus Tavernier,Bournemouth,0.04,,Off Target,24.0,Left Foot,,Luis Sinisterra,Pass (Live),Luis Sinisterra,Take-On
+21,76,Marcus Tavernier,Bournemouth,0.13,,Off Target,14.0,Right Foot,,Philip Billing,Pass (Live),Marcus Tavernier,Pass (Live)
+22,76,Ryan Christie,Bournemouth,0.04,,Blocked,22.0,Left Foot,,Ryan Christie,Take-On,Marcus Tavernier,Shot
+23,90,David Brooks,Bournemouth,0.01,0.02,Saved,18.0,Left Foot,,Luis Sinisterra,Pass (Live),David Brooks,Pass (Live)
+24,90+3,Luis Sinisterra,Bournemouth,0.05,0.37,Goal,26.0,Right Foot,,David Brooks,Pass (Live),Alex Scott,Pass (Live)

@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Simon Adingra,Brighton,0.03,0.1,Saved,18.0,Right Foot,,Lewis Dunk,Pass (Live),Adam Webster,Pass (Live)
+1,6,Moussa Diaby,Aston Villa,0.03,0.67,Saved,14.0,Left Foot,,Morgan Rogers,Pass (Live),,
+2,8,Simon Adingra,Brighton,0.06,0.04,Saved,25.0,Right Foot,,Simon Adingra,Take-On,Simon Adingra,Take-On
+3,8,Joël Veltman,Brighton,0.05,,Off Target,10.0,Head,,Pascal Groß,Pass (Dead),Simon Adingra,Shot
+4,10,João Pedro,Brighton,0.04,,Blocked,17.0,Right Foot,,Billy Gilmour,Pass (Live),Pascal Groß,Pass (Live)
+5,45+3,Simon Adingra,Brighton,0.18,0.57,Saved,7.0,Left Foot,Volley,João Pedro,Pass (Live),Billy Gilmour,Pass (Live)
+6,45+4,Pascal Groß,Brighton,0.52,0.75,Saved,9.0,Left Foot,,Simon Adingra,Pass (Live),Danny Welbeck,Pass (Live)
+7,,,,,,,,,,,,,
+8,56,Matty Cash,Aston Villa,0.02,,Off Target,32.0,Right Foot,,,,,
+9,62,João Pedro,Brighton,0.31,0.46,Saved,11.0,Left Foot,,Simon Adingra,Pass (Live),Danny Welbeck,Pass (Live)
+10,67,Julio Enciso,Brighton,0.16,,Off Target,21.0,Right Foot,,Simon Adingra,Pass (Live),Bart Verbruggen,Pass (Live)
+11,68,Julio Enciso,Brighton,0.02,,Blocked,28.0,Right Foot,,João Pedro,Pass (Live),Pascal Groß,Pass (Live)
+12,80,Simon Adingra,Brighton,0.04,0.07,Saved,14.0,Left Foot,,Julio Enciso,Pass (Live),,
+13,82,Pascal Groß,Brighton,0.03,,Blocked,26.0,Right Foot,,Simon Adingra,Pass (Live),Adam Webster,Pass (Live)
+14,83,Danny Welbeck,Brighton,0.11,,Off Target,6.0,Head,,Julio Enciso,Pass (Live),Simon Adingra,Pass (Live)
+15,87,João Pedro (pen),Brighton,0.79,0.99,Saved,13.0,Right Foot,,Simon Adingra,Fouled,João Pedro,Pass (Live)
+16,87,João Pedro,Brighton,0.58,0.32,Goal,6.0,Head,,João Pedro,Shot,,
+17,90+1,Julio Enciso,Brighton,0.05,,Blocked,16.0,Left Foot,,Julio Enciso,Take-On,Simon Adingra,Pass (Live)

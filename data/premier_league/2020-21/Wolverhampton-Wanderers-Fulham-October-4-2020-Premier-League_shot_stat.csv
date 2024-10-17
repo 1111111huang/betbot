@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6.0,Antonee Robinson,Fulham,0.04,0.11,Saved,16.0,Left Foot,,Antonee Robinson,Take-On,Andre-Frank Zambo Anguissa,Pass (Live)
+1,12.0,Romain Saïss,Wolves,0.05,,Blocked,12.0,Head,,Pedro Neto,Pass (Dead),Daniel Podence,Pass (Live)
+2,27.0,Pedro Neto,Wolves,0.04,0.37,Saved,21.0,Right Foot,,,,,
+3,27.0,Nélson Semedo,Wolves,0.37,0.34,Saved,9.0,Right Foot,,Pedro Neto,Shot,,
+4,27.0,Willy Boly,Wolves,0.09,,Blocked,7.0,Head,,Leander Dendoncker,Pass (Live),Nélson Semedo,Pass (Live)
+5,32.0,Raúl Jiménez,Wolves,0.05,,Off Target,14.0,Head,,Leander Dendoncker,Pass (Live),Nélson Semedo,Pass (Live)
+6,,,,,,,,,,,,,
+7,48.0,Aleksandar Mitrović,Fulham,0.07,,Off Target,16.0,Right Foot,Volley,Antonee Robinson,Pass (Live),Ola Aina,Pass (Dead)
+8,50.0,Rúben Neves,Wolves,0.04,,Off Target,30.0,Right Foot,,Leander Dendoncker,Pass (Live),Nélson Semedo,Pass (Live)
+9,55.0,Raúl Jiménez,Wolves,0.35,0.21,Saved,15.0,Right Foot,,Max Kilman,Pass (Live),,
+10,55.0,Leander Dendoncker,Wolves,0.05,0.02,Saved,27.0,Right Foot,,Raúl Jiménez,Shot,,
+11,56.0,Leander Dendoncker,Wolves,0.05,,Blocked,18.0,Left Foot,,Daniel Podence,Pass (Live),Pedro Neto,Pass (Live)
+12,56.0,Pedro Neto,Wolves,0.05,0.32,Goal,17.0,Left Foot,,Leander Dendoncker,Shot,,
+13,63.0,Aleksandar Mitrović,Fulham,0.07,,Off Target,10.0,Head,,Joe Bryan,Pass (Dead),,
+14,63.0,Aleksandar Mitrović,Fulham,0.05,,Blocked,13.0,Right Foot,,Ola Aina,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+15,65.0,Nélson Semedo,Wolves,0.02,,Off Target,25.0,Left Foot,,Pedro Neto,Pass (Live),Daniel Podence,Pass (Live)
+16,69.0,Raúl Jiménez,Wolves,0.04,,Blocked,20.0,Right Foot,,Raúl Jiménez,Take-On,Max Kilman,Pass (Live)
+17,73.0,Aboubakar Kamara,Fulham,0.46,0.76,Saved,11.0,Right Foot,,Aleksandar Mitrović,Pass (Live),Ademola Lookman,Pass (Live)
+18,77.0,Aboubakar Kamara,Fulham,0.02,,Blocked,20.0,Right Foot,,Ademola Lookman,Pass (Live),Tom Cairney,Pass (Live)
+19,78.0,Pedro Neto,Wolves,0.03,,Blocked,27.0,Left Foot,,,,,
+20,80.0,Rúben Neves,Wolves,0.06,,Blocked,31.0,Right Foot,Free kick,Raúl Jiménez,Fouled,João Moutinho,Pass (Live)
+21,84.0,Neeskens Kebano,Fulham,0.06,,Off Target,11.0,Left Foot,,Ademola Lookman,Pass (Live),Maxime Le Marchand,Pass (Live)
+22,87.0,Neeskens Kebano,Fulham,0.06,,Blocked,30.0,Right Foot,Free kick,Tom Cairney,Fouled,Tom Cairney,Take-On
+23,87.0,Maxime Le Marchand,Fulham,0.02,,Off Target,34.0,Left Foot,,Neeskens Kebano,Shot,,
+24,89.0,Neeskens Kebano,Fulham,0.04,,Off Target,21.0,Left Foot,,Aleksandar Mitrović,Pass (Live),Maxime Le Marchand,Pass (Live)

@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Bobby Reid,Fulham,0.1,,Off Target,12.0,Head,,Kenny Tete,Pass (Live),Willian,Pass (Live)
+1,18,Mason Mount,Chelsea,0.03,,Blocked,25.0,Right Foot,,Marc Cucurella,Pass (Live),Mason Mount,Pass (Live)
+2,25,Andreas Pereira,Fulham,0.08,0.32,Saved,23.0,Right Foot,,João Palhinha,Pass (Live),João Palhinha,Interception
+3,32,Kai Havertz,Chelsea,0.47,,Off Target,10.0,Right Foot,,Enzo Fernández,Pass (Live),Benoît Badiashile,Pass (Live)
+4,33,Kai Havertz,Chelsea,0.05,,Off Target,22.0,Left Foot,,Benoît Badiashile,Pass (Live),,
+5,36,Hakim Ziyech,Chelsea,0.06,,Off Target,17.0,Right Foot,,Enzo Fernández,Pass (Live),,
+6,45,Kai Havertz,Chelsea,0.2,,Woodwork,11.0,Left Foot,Volley,Hakim Ziyech,Pass (Live),Mason Mount,Pass (Live)
+7,,,,,,,,,,,,,
+8,46,Willian,Fulham,0.1,0.67,Saved,19.0,Right Foot,,Willian,Take-On,Willian,Take-On
+9,59,Andreas Pereira,Fulham,0.08,,Blocked,16.0,Right Foot,,Willian,Pass (Live),João Palhinha,Pass (Live)
+10,59,João Palhinha,Fulham,0.06,,Off Target,23.0,Left Foot,,,,,
+11,66,Thiago Silva,Chelsea,0.05,0.02,Saved,10.0,Head,Deflected,Conor Gallagher,Pass (Dead),,
+12,69,Bobby Reid,Fulham,0.11,0.03,Saved,11.0,Right Foot,,Willian,Pass (Live),Harrison Reed,Pass (Live)
+13,70,Aleksandar Mitrović,Fulham,0.03,0.07,Saved,52.0,Right Foot,,Aleksandar Mitrović,Interception,,
+14,72,Enzo Fernández,Chelsea,0.03,,Off Target,29.0,Right Foot,,,,,
+15,73,Mason Mount,Chelsea,0.05,,Blocked,15.0,Right Foot,,Noni Madueke,Pass (Live),Raheem Sterling,Pass (Live)
+16,79,Conor Gallagher,Chelsea,0.05,,Off Target,25.0,Right Foot,,,,,
+17,79,David Datro Fofana,Chelsea,0.2,,Blocked,11.0,Left Foot,,David Datro Fofana,Take-On,David Datro Fofana,Take-On
+18,82,João Palhinha,Fulham,0.01,,Blocked,33.0,Right Foot,,Manor Solomon,Pass (Live),Aleksandar Mitrović,Pass (Live)
+19,90+1,Tom Cairney,Fulham,0.04,,Blocked,25.0,Left Foot,Volley,Harrison Reed,Fouled,Kenny Tete,Pass (Live)
+20,90+1,João Palhinha,Fulham,0.04,,Off Target,17.0,Right Foot,Volley,Tom Cairney,Shot,,
+21,90+5,Benoît Badiashile,Chelsea,0.1,,Off Target,9.0,Head,,Ben Chilwell,Pass (Dead),Ben Chilwell,Pass (Dead)
+22,90+5,Raheem Sterling,Chelsea,0.05,0.75,Saved,19.0,Right Foot,,,,,

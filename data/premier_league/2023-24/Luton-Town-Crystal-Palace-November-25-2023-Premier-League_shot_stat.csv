@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Michael Olise,Crystal Palace,0.02,,Off Target,21.0,Left Foot,,Eberechi Eze,Pass (Live),Jeffrey Schlupp,Pass (Live)
+1,6,Odsonne Édouard,Crystal Palace,0.06,0.02,Saved,16.0,Left Foot,,Cheick Doucouré,Pass (Live),Marc Guéhi,Interception
+2,9,Tom Lockyer,Luton Town,0.25,,Off Target,8.0,Head,,Amari'i Bell,Pass (Live),Pelly Ruddock Mpanzu,Pass (Live)
+3,21,Michael Olise,Crystal Palace,0.03,,Blocked,17.0,Left Foot,,Jeffrey Schlupp,Pass (Live),,
+4,22,Eberechi Eze,Crystal Palace,0.04,0.09,Saved,28.0,Left Foot,Deflected,Cheick Doucouré,Pass (Live),Jefferson Lerma,Pass (Live)
+5,22,Jeffrey Schlupp,Crystal Palace,0.13,0.09,Saved,12.0,Left Foot,Volley,Eberechi Eze,Shot,,
+6,29,Amari'i Bell,Luton Town,0.01,0.14,Saved,34.0,Left Foot,,Ross Barkley,Fouled,Chiedozie Ogbene,Pass (Dead)
+7,39,Jeffrey Schlupp,Crystal Palace,0.04,,Blocked,29.0,Left Foot,,Odsonne Édouard,Pass (Live),Eberechi Eze,Pass (Live)
+8,42,Tom Lockyer,Luton Town,0.04,,Off Target,11.0,Head,,Alfie Doughty,Pass (Dead),Alfie Doughty,Pass (Live)
+9,45,Eberechi Eze,Crystal Palace,0.06,0.14,Saved,27.0,Right Foot,Free kick,Eberechi Eze,Fouled,Joel Ward,Pass (Live)
+10,,,,,,,,,,,,,
+11,57,Chiedozie Ogbene,Luton Town,0.03,,Blocked,14.0,Left Foot,,Amari'i Bell,Pass (Live),,
+12,66,Odsonne Édouard,Crystal Palace,0.21,,Blocked,10.0,Left Foot,,Michael Olise,Pass (Live),Joel Ward,Pass (Live)
+13,72,Carlton Morris,Luton Town,0.05,,Off Target,10.0,Head,,Gabriel Osho,Pass (Live),Gabriel Osho,Take-On
+14,72,Teden Mengi,Luton Town,0.07,0.56,Goal,7.0,Right Foot,,Carlton Morris,Shot,,
+15,74,Michael Olise,Crystal Palace,0.05,0.6,Goal,18.0,Left Foot,,Michael Olise,Take-On,Joel Ward,Pass (Live)
+16,79,Ross Barkley,Luton Town,0.03,,Blocked,24.0,Right Foot,,Jordan Clark,Pass (Live),Alfie Doughty,Pass (Live)
+17,83,Jean-Philippe Mateta,Crystal Palace,0.05,0.03,Saved,17.0,Right Foot,,Jordan Ayew,Pass (Live),Naouirou Ahamada,Pass (Live)
+18,83,Jacob Brown,Luton Town,0.46,0.78,Goal,5.0,Right Foot,,Chiedozie Ogbene,Pass (Live),Ross Barkley,Pass (Live)
+19,87,Joachim Andersen,Crystal Palace,0.06,0.23,Saved,10.0,Left Foot,Volley,Michael Olise,Pass (Live),Joel Ward,Pass (Live)
+20,88,Jefferson Lerma,Crystal Palace,0.28,0.38,Saved,5.0,Left Foot,,Michael Olise,Pass (Dead),Joachim Andersen,Shot
+21,90+10,Michael Olise,Crystal Palace,0.05,,Off Target,11.0,Head,,Jefferson Lerma,Pass (Live),Jordan Ayew,Pass (Live)
+22,90+11,Naouirou Ahamada,Crystal Palace,0.02,,Blocked,23.0,Right Foot,,Jean-Philippe Mateta,Pass (Live),Naouirou Ahamada,Pass (Live)
+23,90+12,Michael Olise,Crystal Palace,0.14,,Blocked,10.0,Left Foot,,Jean-Philippe Mateta,Pass (Live),Will Hughes,Pass (Live)
+24,90+13,Jefferson Lerma,Crystal Palace,0.43,,Woodwork,6.0,Head,,Michael Olise,Pass (Live),Joel Ward,Pass (Live)

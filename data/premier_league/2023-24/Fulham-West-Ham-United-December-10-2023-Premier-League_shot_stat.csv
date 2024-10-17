@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,James Ward-Prowse,West Ham,0.04,0.34,Saved,36.0,Right Foot,Free kick,Mohammed Kudus,Fouled,Tomáš Souček,Interception
+1,11,Jarrod Bowen,West Ham,0.03,0.36,Saved,27.0,Left Foot,,Jarrod Bowen,Take-On,Lucas Paquetá,Pass (Live)
+2,13,Alex Iwobi,Fulham,0.02,,Off Target,33.0,Right Foot,,Andreas Pereira,Pass (Live),Alex Iwobi,Pass (Live)
+3,15,Willian,Fulham,0.32,0.52,Saved,10.0,Right Foot,,Raúl Jiménez,Pass (Live),Willian,Pass (Live)
+4,19,Alex Iwobi,Fulham,0.06,,Off Target,8.0,Head,,Andreas Pereira,Pass (Dead),Andreas Pereira,Pass (Live)
+5,20,João Palhinha,Fulham,0.03,,Off Target,29.0,Right Foot,,Antonee Robinson,Pass (Live),Willian,Pass (Live)
+6,22,Raúl Jiménez,Fulham,0.09,0.41,Goal,8.0,Head,,João Palhinha,Pass (Live),Willian,Pass (Live)
+7,29,Lucas Paquetá,West Ham,0.02,,Off Target,33.0,Left Foot,,,,,
+8,31,Alex Iwobi,Fulham,0.09,0.17,Saved,20.0,Right Foot,,Willian,Pass (Live),Raúl Jiménez,Pass (Live)
+9,31,Alex Iwobi,Fulham,0.23,,Off Target,9.0,Right Foot,,Andreas Pereira,Pass (Live),Alex Iwobi,Shot
+10,31,Willian,Fulham,0.15,0.9,Goal,11.0,Right Foot,,Alex Iwobi,Shot,,
+11,39,Jarrod Bowen,West Ham,0.43,0.37,Saved,9.0,Right Foot,Volley,Vladimír Coufal,Pass (Live),Tomáš Souček,Pass (Live)
+12,40,Alex Iwobi,Fulham,0.12,,Blocked,12.0,Right Foot,Volley,Raúl Jiménez,Pass (Live),Antonee Robinson,Pass (Live)
+13,41,Tosin Adarabioyo,Fulham,0.03,0.35,Goal,12.0,Head,Deflected,Andreas Pereira,Pass (Dead),Alex Iwobi,Shot
+14,,,,,,,,,,,,,
+15,56,Harry Wilson,Fulham,0.4,0.22,Saved,9.0,Left Foot,,Harry Wilson,Take-On,Andreas Pereira,Pass (Live)
+16,57,Andreas Pereira,Fulham,0.02,,Off Target,50.0,Right Foot,,Alex Iwobi,Pass (Live),Antonee Robinson,Pass (Live)
+17,60,Harry Wilson,Fulham,0.03,0.63,Goal,24.0,Left Foot,,Tom Cairney,Pass (Live),Alex Iwobi,Pass (Live)
+18,65,Jarrod Bowen,West Ham,0.1,0.04,Saved,14.0,Right Foot,,Konstantinos Mavropanos,Pass (Live),Vladimír Coufal,Pass (Dead)
+19,66,Saïd Benrahma,West Ham,0.32,0.21,Saved,9.0,Right Foot,,Jarrod Bowen,Pass (Live),Vladimír Coufal,Pass (Live)
+20,69,Saïd Benrahma,West Ham,0.04,,Off Target,22.0,Right Foot,Volley,Jarrod Bowen,Pass (Live),Vladimír Coufal,Pass (Dead)
+21,84,Divin Mubama,West Ham,0.15,,Blocked,12.0,Left Foot,,Emerson Palmieri,Pass (Live),Saïd Benrahma,Pass (Live)
+22,89,Carlos Vinícius,Fulham,0.8,0.82,Goal,12.0,Left Foot,,Harry Wilson,Pass (Live),Harrison Reed,Pass (Live)
+23,90+3,Jarrod Bowen,West Ham,0.21,,Off Target,9.0,Left Foot,,Vladimír Coufal,Pass (Live),Jarrod Bowen,Pass (Live)

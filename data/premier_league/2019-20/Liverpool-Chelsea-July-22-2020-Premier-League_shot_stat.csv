@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Mason Mount,Chelsea,0.31,,Off Target,7.0,Head,,Reece James,Pass (Live),Willian,Pass (Live)
+1,16,Reece James,Chelsea,0.03,,Off Target,25.0,Right Foot,,Jorginho,Pass (Live),Marcos Alonso,Pass (Dead)
+2,23,Naby Keïta,Liverpool,0.03,0.26,Goal,26.0,Right Foot,,,,,
+3,32,Georginio Wijnaldum,Liverpool,0.03,0.03,Saved,10.0,Head,,Trent Alexander-Arnold,Pass (Dead),,
+4,38,Trent Alexander-Arnold,Liverpool,0.05,0.46,Goal,34.0,Right Foot,Free kick,Sadio Mané,Fouled,Sadio Mané,Take-On
+5,40,Olivier Giroud,Chelsea,0.05,0.02,Saved,12.0,Head,,Reece James,Pass (Live),Jorginho,Pass (Live)
+6,43,Georginio Wijnaldum,Liverpool,0.08,0.28,Goal,11.0,Right Foot,Volley,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+7,45+3,Willian,Chelsea,0.36,0.72,Saved,10.0,Left Foot,,Marcos Alonso,Pass (Live),César Azpilicueta,Pass (Live)
+8,45+3,Olivier Giroud,Chelsea,0.95,0.99,Goal,2.0,Left Foot,Volley,Willian,Shot,,
+9,,,,,,,,,,,,,
+10,50,Mohamed Salah,Liverpool,0.4,,Off Target,16.0,Left Foot,,Mohamed Salah,Take-On,Roberto Firmino,Pass (Live)
+11,53,Mohamed Salah,Liverpool,0.08,0.03,Saved,12.0,Left Foot,,Andrew Robertson,Pass (Dead),Sadio Mané,Pass (Live)
+12,55,Roberto Firmino,Liverpool,0.29,0.49,Goal,8.0,Head,,Trent Alexander-Arnold,Pass (Live),Joe Gomez,Pass (Live)
+13,57,Mohamed Salah,Liverpool,0.06,,Blocked,13.0,Left Foot,,,,,
+14,61,Tammy Abraham,Chelsea,0.63,0.95,Goal,5.0,Right Foot,,Christian Pulisic,Pass (Live),Christian Pulisic,Take-On
+15,64,Christian Pulisic,Chelsea,0.25,,Off Target,13.0,Right Foot,,Reece James,Pass (Live),Mateo Kovačić,Pass (Live)
+16,68,Christian Pulisic,Chelsea,0.04,,Off Target,18.0,Left Foot,,César Azpilicueta,Pass (Live),Kurt Zouma,Pass (Live)
+17,73,Christian Pulisic,Chelsea,0.1,0.57,Goal,11.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),César Azpilicueta,Pass (Dead)
+18,80,César Azpilicueta,Chelsea,0.04,,Off Target,19.0,Left Foot,,Reece James,Pass (Live),Jorginho,Pass (Live)
+19,84,Alex Oxlade-Chamberlain,Liverpool,0.36,0.5,Goal,12.0,Right Foot,,Andrew Robertson,Pass (Live),Andrew Robertson,Take-On
+20,90+2,Virgil van Dijk,Liverpool,0.32,,Off Target,3.0,Right Foot,,Andrew Robertson,Pass (Dead),Divock Origi,Fouled

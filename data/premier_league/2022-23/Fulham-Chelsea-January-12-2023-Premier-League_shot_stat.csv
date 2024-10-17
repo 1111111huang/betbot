@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Kai Havertz,Chelsea,0.18,,Blocked,11.0,Right Foot,,João Félix,Pass (Live),João Félix,Take-On
+1,2,Lewis Hall,Chelsea,0.23,0.47,Saved,11.0,Left Foot,,Kai Havertz,Pass (Live),Kai Havertz,Shot
+2,8,Carlos Vinícius,Fulham,0.11,,Off Target,15.0,Left Foot,,Antonee Robinson,Pass (Live),Andreas Pereira,Pass (Live)
+3,10,Mateo Kovačić,Chelsea,0.03,,Blocked,25.0,Right Foot,Volley,João Félix,Fouled,,
+4,10,Trevoh Chalobah,Chelsea,0.07,,Blocked,16.0,Right Foot,,Mateo Kovačić,Shot,,
+5,10,João Félix,Chelsea,0.06,,Off Target,17.0,Right Foot,,Mateo Kovačić,Pass (Live),Trevoh Chalobah,Shot
+6,17,João Félix,Chelsea,0.03,,Blocked,29.0,Right Foot,,,,,
+7,17,Mateo Kovačić,Chelsea,0.04,,Blocked,22.0,Right Foot,Volley,Mason Mount,Pass (Live),Mason Mount,Take-On
+8,17,Thiago Silva,Chelsea,0.1,,Off Target,9.0,Head,,Mason Mount,Pass (Dead),Mateo Kovačić,Shot
+9,21,Harrison Reed,Fulham,0.03,,Blocked,26.0,Right Foot,,Willian,Pass (Live),Andreas Pereira,Pass (Dead)
+10,23,Bobby Reid,Fulham,0.09,,Woodwork,16.0,Right Foot,,Carlos Vinícius,Pass (Live),,
+11,23,Willian,Fulham,0.03,,Blocked,22.0,Right Foot,,Bobby Reid,Shot,,
+12,25,Willian,Fulham,0.06,0.56,Goal,15.0,Right Foot,Deflected,Bobby Reid,Tackle,,
+13,28,João Félix,Chelsea,0.07,0.21,Saved,16.0,Left Foot,,Mateo Kovačić,Pass (Live),Mason Mount,Pass (Live)
+14,33,João Félix,Chelsea,0.56,0.58,Saved,5.0,Right Foot,Volley,Mateo Kovačić,Pass (Live),Kalidou Koulibaly,Pass (Live)
+15,34,Lewis Hall,Chelsea,0.07,0.13,Saved,16.0,Left Foot,"Deflected, Volley",Mateo Kovačić,Pass (Live),Mason Mount,Pass (Live)
+16,35,Mateo Kovačić,Chelsea,0.02,,Off Target,24.0,Right Foot,Volley,Lewis Hall,Shot,,
+17,38,César Azpilicueta,Chelsea,0.04,,Blocked,13.0,Right Foot,,,,,
+18,40,João Félix,Chelsea,0.07,0.09,Saved,16.0,Right Foot,,Kai Havertz,Pass (Live),,
+19,44,Carlos Vinícius,Fulham,0.11,0.58,Saved,9.0,Head,,Kenny Tete,Pass (Live),,
+20,,,,,,,,,,,,,
+21,47,Mason Mount,Chelsea,0.04,0.06,Saved,25.0,Right Foot,Free kick,Lewis Hall,Fouled,Mateo Kovačić,Pass (Dead)
+22,47,Kalidou Koulibaly,Chelsea,0.38,0.94,Goal,3.0,Left Foot,,Mason Mount,Shot,,
+23,50,João Félix,Chelsea,0.03,0.02,Saved,27.0,Right Foot,,Kai Havertz,Pass (Live),Mason Mount,Pass (Live)
+24,53,Andreas Pereira,Fulham,0.04,,Saved off Target,13.0,Left Foot,,Antonee Robinson,Pass (Live),Tim Ream,Pass (Live)
+25,64,Kai Havertz,Chelsea,0.09,0.03,Saved,12.0,Left Foot,,Mason Mount,Pass (Live),Kai Havertz,Pass (Live)
+26,73,Carlos Vinícius,Fulham,0.51,0.32,Goal,6.0,Head,,Andreas Pereira,Pass (Live),Kenny Tete,Pass (Live)
+27,82,Marc Cucurella,Chelsea,0.05,,Blocked,16.0,Right Foot,,Carney Chukwuemeka,Pass (Live),Jorginho,Pass (Live)
+28,90+2,Kai Havertz,Chelsea,0.05,0.17,Saved,20.0,Left Foot,Volley,Kalidou Koulibaly,Pass (Live),Jorginho,Pass (Live)

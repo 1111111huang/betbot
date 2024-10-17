@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Dominic Calvert-Lewin,Everton,0.03,0.15,Saved,15.0,Right Foot,Volley,Dominic Calvert-Lewin,Take-On,,
+1,6,Amadou Onana,Everton,0.03,,Blocked,26.0,Right Foot,,Idrissa Gana Gueye,Pass (Live),,
+2,11,Abdoulaye Doucouré,Everton,0.12,0.08,Saved,9.0,Head,,Dwight McNeil,Pass (Live),Dwight McNeil,Pass (Dead)
+3,13,Abdoulaye Doucouré,Everton,0.48,0.38,Saved,10.0,Right Foot,,Dominic Calvert-Lewin,Pass (Live),James Tarkowski,Pass (Live)
+4,28,Dominic Calvert-Lewin,Everton,0.03,0.38,Saved,27.0,Right Foot,Deflected,Dwight McNeil,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+5,30,Cameron Archer,Sheffield Utd,0.02,,Off Target,35.0,Right Foot,,Cameron Archer,Tackle,,
+6,31,Abdoulaye Doucouré,Everton,0.95,0.89,Goal,4.0,Head,,Dominic Calvert-Lewin,Pass (Live),Dwight McNeil,Pass (Live)
+7,41,Andre Brooks,Sheffield Utd,0.04,0.02,Saved,16.0,Left Foot,,Ben Brereton,Pass (Live),Cameron Archer,Pass (Live)
+8,44,Cameron Archer,Sheffield Utd,0.02,,Blocked,19.0,Right Foot,,Jayden Bogle,Take-On,Andre Brooks,Pass (Live)
+9,45+2,Abdoulaye Doucouré,Everton,0.14,,Off Target,5.0,Head,,James Garner,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+10,,,,,,,,,,,,,
+11,51,Amadou Onana,Everton,0.1,,Blocked,19.0,Right Foot,,Idrissa Gana Gueye,Pass (Live),Amadou Onana,Pass (Live)
+12,51,Idrissa Gana Gueye,Everton,0.04,,Off Target,23.0,Right Foot,,Dwight McNeil,Pass (Live),Séamus Coleman,Pass (Live)
+13,52,James Garner,Everton,0.03,,Off Target,24.0,Left Foot,,Séamus Coleman,Pass (Live),,
+14,53,James Garner,Everton,0.03,,Blocked,26.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),James Garner,Pass (Live)
+15,57,Ben Brereton,Sheffield Utd,0.02,,Off Target,27.0,Right Foot,,Gustavo Hamer,Pass (Live),Anis Ben Slimane,Pass (Dead)
+16,58,Cameron Archer,Sheffield Utd,0.06,,Blocked,23.0,Left Foot,,Gustavo Hamer,Pass (Live),Anis Ben Slimane,Pass (Live)
+17,58,Ben Brereton,Sheffield Utd,0.07,,Blocked,11.0,Right Foot,,Gustavo Hamer,Pass (Live),Max Lowe,Pass (Live)
+18,59,Jayden Bogle,Sheffield Utd,0.02,,Blocked,29.0,Right Foot,,Oliver Arblaster,Pass (Live),Gustavo Hamer,Pass (Dead)
+19,65,Ben Brereton,Sheffield Utd,0.12,,Off Target,8.0,Head,,Jack Robinson,Pass (Live),Max Lowe,Pass (Live)
+20,72,Jack Robinson,Sheffield Utd,0.05,,Off Target,17.0,Left Foot,,Gustavo Hamer,Pass (Dead),,
+21,74,Gustavo Hamer,Sheffield Utd,0.03,,Blocked,29.0,Right Foot,,Ben Brereton,Pass (Live),Anis Ben Slimane,Pass (Live)
+22,78,James Garner,Everton,0.02,,Off Target,23.0,Right Foot,,James Tarkowski,Pass (Live),André Gomes,Pass (Live)
+23,80,Cameron Archer,Sheffield Utd,0.04,,Off Target,28.0,Right Foot,,Jayden Bogle,Pass (Live),Max Lowe,Pass (Live)
+24,87,Youssef Chermiti,Everton,0.03,,Off Target,19.0,Right Foot,,James Garner,Pass (Live),,
+25,89,Anis Ben Slimane,Sheffield Utd,0.09,,Blocked,15.0,Right Foot,,Rhian Brewster,Pass (Live),Ben Brereton,Pass (Live)
+26,89,Gustavo Hamer,Sheffield Utd,0.02,,Off Target,17.0,Head,,Anis Ben Slimane,Shot,,
+27,90+5,Youssef Chermiti,Everton,0.12,0.13,Saved,11.0,Left Foot,,,,,
+28,90+7,James Garner,Everton,0.19,,Off Target,15.0,Left Foot,,Youssef Chermiti,Pass (Live),Youssef Chermiti,Take-On

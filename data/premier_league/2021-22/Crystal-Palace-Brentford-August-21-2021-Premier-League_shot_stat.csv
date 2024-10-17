@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Conor Gallagher,Crystal Palace,0.23,,Woodwork,8.0,Right Foot,,Wilfried Zaha,Pass (Live),Conor Gallagher,Pass (Live)
+1,9,Ivan Toney,Brentford,0.04,,Off Target,29.0,Left Foot,,Christian Nørgaard,Pass (Live),Kristoffer Ajer,Pass (Dead)
+2,21,Kristoffer Ajer,Brentford,0.07,,Blocked,10.0,Right Foot,,Sergi Canós,Pass (Live),Ethan Pinnock,Pass (Live)
+3,21,Vitaly Janelt,Brentford,0.02,,Blocked,24.0,Right Foot,,Kristoffer Ajer,Shot,,
+4,21,Bryan Mbeumo,Brentford,0.03,,Off Target,15.0,Left Foot,,Rico Henry,Pass (Live),Vitaly Janelt,Shot
+5,32,Conor Gallagher,Crystal Palace,0.07,0.07,Saved,19.0,Left Foot,,Jeffrey Schlupp,Pass (Live),Jeffrey Schlupp,Take-On
+6,36,Frank Onyeka,Brentford,0.05,,Blocked,19.0,Left Foot,,Bryan Mbeumo,Pass (Live),Ivan Toney,Pass (Live)
+7,40,Bryan Mbeumo,Brentford,0.04,,Woodwork,22.0,Left Foot,Free kick,Frank Onyeka,Fouled,Sergi Canós,Pass (Live)
+8,45,Ivan Toney,Brentford,0.07,0.04,Saved,13.0,Left Foot,Volley,Rico Henry,Pass (Live),Rico Henry,Take-On
+9,45+2,Vitaly Janelt,Brentford,0.02,,Blocked,25.0,Left Foot,,Frank Onyeka,Pass (Live),,
+10,45+2,Ethan Pinnock,Brentford,0.01,,Off Target,17.0,Head,,Sergi Canós,Pass (Live),Frank Onyeka,Pass (Live)
+11,45+2,Frank Onyeka,Brentford,0.06,0.26,Saved,30.0,Right Foot,,Vitaly Janelt,Pass (Live),Rico Henry,Pass (Live)
+12,,,,,,,,,,,,,
+13,48,Ivan Toney,Brentford,0.24,0.61,Saved,6.0,Other,,Bryan Mbeumo,Pass (Dead),,
+14,54,Christian Benteke,Crystal Palace,0.08,,Off Target,10.0,Head,,Joel Ward,Pass (Live),Joel Ward,Pass (Dead)
+15,60,Bryan Mbeumo,Brentford,0.03,,Off Target,24.0,Left Foot,,Vitaly Janelt,Pass (Dead),Frank Onyeka,Fouled
+16,67,Ivan Toney,Brentford,0.17,,Off Target,6.0,Head,,Bryan Mbeumo,Pass (Dead),Sergi Canós,Pass (Live)
+17,69,James McArthur,Crystal Palace,0.04,0.3,Saved,22.0,Right Foot,,Wilfried Zaha,Pass (Live),Jordan Ayew,Pass (Live)
+18,70,Joel Ward,Crystal Palace,0.01,,Off Target,29.0,Left Foot,Volley,James McArthur,Shot,,
+19,77,Ivan Toney,Brentford,0.01,,Off Target,14.0,Left Foot,Volley,Pontus Jansson,Pass (Live),Rico Henry,Fouled
+20,84,Jordan Ayew,Crystal Palace,0.04,,Off Target,12.0,Right Foot,Volley,Christian Benteke,Pass (Live),Wilfried Zaha,Pass (Live)
+21,90+4,Joachim Andersen,Crystal Palace,0.05,,Off Target,13.0,Head,,Conor Gallagher,Pass (Dead),Conor Gallagher,Fouled

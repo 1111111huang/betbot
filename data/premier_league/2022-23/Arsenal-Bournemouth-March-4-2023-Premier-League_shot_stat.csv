@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Philip Billing,Bournemouth,0.54,0.64,Goal,8.0,Right Foot,,Joe Rothwell,Pass (Live),Dominic Solanke,Pass (Dead)
+1,4,Martin Ødegaard,Arsenal,0.09,0.33,Saved,20.0,Left Foot,,,,,
+2,4,Bukayo Saka,Arsenal,0.37,0.72,Saved,5.0,Right Foot,,Martin Ødegaard,Shot,,
+3,5,Martin Ødegaard,Arsenal,0.09,0.11,Saved,18.0,Left Foot,,Gabriel Martinelli,Pass (Live),Leandro Trossard,Pass (Live)
+4,19,Bukayo Saka,Arsenal,0.02,,Blocked,22.0,Left Foot,,Fabio Vieira,Pass (Live),Bukayo Saka,Pass (Dead)
+5,20,Dango Ouattara,Bournemouth,0.54,0.74,Saved,10.0,Left Foot,,Philip Billing,Pass (Live),Dominic Solanke,Pass (Live)
+6,23,Martin Ødegaard,Arsenal,0.06,,Off Target,31.0,Left Foot,Free kick,Martin Ødegaard,Fouled,Thomas Partey,Pass (Live)
+7,29,Martin Ødegaard,Arsenal,0.04,,Blocked,22.0,Left Foot,,Fabio Vieira,Pass (Live),Fabio Vieira,Take-On
+8,31,Takehiro Tomiyasu,Arsenal,0.02,,Blocked,12.0,Head,,Oleksandr Zinchenko,Pass (Live),Martin Ødegaard,Pass (Live)
+9,38,Oleksandr Zinchenko,Arsenal,0.05,,Off Target,19.0,Left Foot,,Emile Smith Rowe,Pass (Live),Martin Ødegaard,Pass (Live)
+10,39,Oleksandr Zinchenko,Arsenal,0.02,,Blocked,28.0,Left Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+11,39,Martin Ødegaard,Arsenal,0.02,,Blocked,24.0,Left Foot,,Bukayo Saka,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+12,42,Emile Smith Rowe,Arsenal,0.04,,Blocked,22.0,Right Foot,,Fabio Vieira,Pass (Live),Bukayo Saka,Pass (Dead)
+13,42,Gabriel Martinelli,Arsenal,0.03,,Blocked,15.0,Right Foot,Volley,Emile Smith Rowe,Shot,,
+14,45+2,Martin Ødegaard,Arsenal,0.04,,Off Target,32.0,Left Foot,Free kick,Gabriel Martinelli,Fouled,Emile Smith Rowe,Pass (Live)
+15,45+4,Gabriel Martinelli,Arsenal,0.02,,Off Target,12.0,Left Foot,,Gabriel Martinelli,Take-On,Martin Ødegaard,Pass (Live)
+16,,,,,,,,,,,,,
+17,52,Martin Ødegaard,Arsenal,0.02,0.07,Saved,23.0,Left Foot,,Bukayo Saka,Pass (Live),Ben White,Pass (Live)
+18,54,Gabriel Martinelli,Arsenal,0.06,,Off Target,16.0,Right Foot,,Bukayo Saka,Pass (Live),,
+19,57,Marcos Senesi,Bournemouth,0.17,0.07,Goal,6.0,Head,,Joe Rothwell,Pass (Dead),Dango Ouattara,Fouled
+20,59,Martin Ødegaard,Arsenal,0.04,,Blocked,16.0,Left Foot,,Ben White,Pass (Live),Bukayo Saka,Pass (Live)
+21,59,Fabio Vieira,Arsenal,0.04,,Blocked,21.0,Left Foot,,Oleksandr Zinchenko,Pass (Live),Fabio Vieira,Pass (Live)
+22,62,Thomas Partey,Arsenal,0.28,0.09,Goal,4.0,Right Foot,Volley,Emile Smith Rowe,Pass (Live),Ben White,Pass (Live)
+23,65,Dominic Solanke,Bournemouth,0.07,0.03,Saved,8.0,Right Foot,,Joe Rothwell,Pass (Live),Dominic Solanke,Pass (Live)
+24,70,Ben White,Arsenal,0.12,0.03,Goal,11.0,Right Foot,,Reiss Nelson,Pass (Live),Thomas Partey,Pass (Live)
+25,75,Gabriel Martinelli,Arsenal,0.06,,Off Target,13.0,Right Foot,,Thomas Partey,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+26,78,Fabio Vieira,Arsenal,0.03,,Off Target,24.0,Left Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Dead)
+27,79,Martin Ødegaard,Arsenal,0.07,,Blocked,11.0,Left Foot,Volley,Reiss Nelson,Pass (Live),Reiss Nelson,Take-On
+28,80,Gabriel Magalhães,Arsenal,0.24,0.35,Saved,2.0,Head,Deflected,Martin Ødegaard,Shot,,
+29,83,Bukayo Saka,Arsenal,0.07,,Off Target,14.0,Left Foot,Volley,Reiss Nelson,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+30,87,Bukayo Saka,Arsenal,0.08,,Blocked,21.0,Right Foot,Deflected,Bukayo Saka,Take-On,Ben White,Pass (Live)
+31,87,Martin Ødegaard,Arsenal,0.02,,Off Target,27.0,Left Foot,,Oleksandr Zinchenko,Pass (Live),Gabriel Martinelli,Pass (Live)
+32,90+5,Reiss Nelson,Arsenal,0.03,0.09,Saved,23.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),Gabriel Magalhães,Pass (Live)
+33,90+6,Martin Ødegaard,Arsenal,0.07,,Blocked,23.0,Left Foot,,William Saliba,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+34,90+7,Oleksandr Zinchenko,Arsenal,0.04,,Off Target,17.0,Left Foot,,Reiss Nelson,Pass (Live),Granit Xhaka,Pass (Live)
+35,90+7,Reiss Nelson,Arsenal,0.04,0.28,Goal,17.0,Left Foot,,Oleksandr Zinchenko,Shot,,

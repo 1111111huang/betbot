@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Youri Tielemans,Leicester City,0.05,0.14,Saved,27.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Luke Thomas,Interception
+1,8.0,Patson Daka,Leicester City,0.07,,Off Target,15.0,Left Foot,,Kiernan Dewsbury-Hall,Pass (Live),Harvey Barnes,Pass (Live)
+2,8.0,James Maddison,Leicester City,0.22,0.12,Goal,10.0,Left Foot,,Patson Daka,Shot,,
+3,18.0,Declan Rice,West Ham,0.01,,Off Target,31.0,Right Foot,Volley,,,,
+4,21.0,Daniel Amartey,Leicester City,0.03,0.07,Saved,27.0,Right Foot,,Boubakary Soumaré,Pass (Live),Luke Thomas,Pass (Dead)
+5,27.0,Saïd Benrahma,West Ham,0.23,0.08,Saved,9.0,Right Foot,,Tomáš Souček,Pass (Live),Declan Rice,Pass (Live)
+6,29.0,Lucas Paquetá,West Ham,0.05,0.03,Saved,14.0,Left Foot,,Jarrod Bowen,Pass (Live),Gianluca Scamacca,Pass (Live)
+7,30.0,Lucas Paquetá,West Ham,0.13,,Off Target,17.0,Right Foot,,Craig Dawson,Pass (Live),Declan Rice,Pass (Live)
+8,32.0,Lucas Paquetá,West Ham,0.1,,Off Target,10.0,Head,,Aaron Cresswell,Pass (Live),Saïd Benrahma,Pass (Live)
+9,33.0,Jarrod Bowen,West Ham,0.06,,Blocked,19.0,Left Foot,,Declan Rice,Interception,,
+10,34.0,Nayef Aguerd,West Ham,0.05,,Off Target,12.0,Head,,Lucas Paquetá,Pass (Live),Saïd Benrahma,Pass (Live)
+11,38.0,Lucas Paquetá,West Ham,0.02,0.37,Saved,16.0,Head,,Aaron Cresswell,Pass (Dead),Aaron Cresswell,Fouled
+12,42.0,Youri Tielemans (pen),Leicester City,0.79,0.98,Saved,13.0,Right Foot,,Patson Daka,Fouled,Youri Tielemans,Pass (Live)
+13,,,,,,,,,,,,,
+14,46.0,Saïd Benrahma,West Ham,0.04,0.07,Saved,26.0,Right Foot,,Declan Rice,Pass (Live),,
+15,51.0,Jarrod Bowen,West Ham,0.07,,Blocked,9.0,Left Foot,,Lucas Paquetá,Pass (Live),Declan Rice,Pass (Live)
+16,52.0,Gianluca Scamacca,West Ham,0.24,,Off Target,4.0,Head,,Jarrod Bowen,Pass (Dead),Jarrod Bowen,Shot
+17,56.0,Tomáš Souček,West Ham,0.05,,Off Target,22.0,Right Foot,,Saïd Benrahma,Pass (Live),Gianluca Scamacca,Pass (Live)
+18,59.0,Declan Rice,West Ham,0.13,,Off Target,8.0,Head,,Aaron Cresswell,Pass (Dead),Thilo Kehrer,Pass (Live)
+19,72.0,Harvey Barnes,Leicester City,0.05,,Blocked,24.0,Right Foot,,Ayoze Pérez,Pass (Live),Luke Thomas,Pass (Live)
+20,72.0,Jamie Vardy,Leicester City,0.07,0.13,Saved,12.0,Left Foot,Deflected,Ayoze Pérez,Pass (Live),Luke Thomas,Pass (Live)
+21,72.0,Nampalys Mendy,Leicester City,0.1,,Off Target,22.0,Right Foot,,Harvey Barnes,Pass (Live),Nampalys Mendy,Pass (Live)
+22,76.0,Declan Rice,West Ham,0.04,,Off Target,26.0,Right Foot,,Pablo Fornals,Pass (Dead),,
+23,78.0,Harvey Barnes,Leicester City,0.39,0.34,Goal,20.0,Left Foot,,Ayoze Pérez,Pass (Live),Harvey Barnes,Pass (Live)
+24,82.0,Gianluca Scamacca,West Ham,0.03,,Blocked,26.0,Right Foot,Volley,Saïd Benrahma,Pass (Live),Craig Dawson,Pass (Live)
+25,83.0,Jarrod Bowen,West Ham,0.05,0.18,Saved,8.0,Head,Deflected,Nayef Aguerd,Pass (Live),Aaron Cresswell,Pass (Live)
+26,88.0,Saïd Benrahma,West Ham,0.05,,Off Target,15.0,Right Foot,,Pablo Fornals,Pass (Live),Lucas Paquetá,Pass (Live)
+27,90.0,Gianluca Scamacca,West Ham,0.03,0.04,Saved,22.0,Right Foot,Deflected,Aaron Cresswell,Pass (Live),Lucas Paquetá,Pass (Live)

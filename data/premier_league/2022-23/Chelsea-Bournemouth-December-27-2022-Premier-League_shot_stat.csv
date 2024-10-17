@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Philip Billing,Bournemouth,0.03,0.04,Saved,33.0,Left Foot,Free kick,Dominic Solanke,Fouled,Dominic Solanke,Take-On
+1,3,Reece James,Chelsea,0.06,,Blocked,23.0,Right Foot,,Mason Mount,Pass (Dead),Reece James,Pass (Live)
+2,8,Kai Havertz,Chelsea,0.1,,Off Target,9.0,Head,,Marc Cucurella,Pass (Live),Kai Havertz,Pass (Live)
+3,12,Christian Pulisic,Chelsea,0.08,,Off Target,11.0,Left Foot,,Kalidou Koulibaly,Pass (Live),,
+4,16,Kai Havertz,Chelsea,0.63,0.88,Goal,4.0,Left Foot,,Raheem Sterling,Pass (Live),Mason Mount,Pass (Live)
+5,24,Mason Mount,Chelsea,0.07,0.32,Goal,25.0,Right Foot,,Kai Havertz,Pass (Live),Mason Mount,Pass (Live)
+6,45+1,Reece James,Chelsea,0.09,0.11,Saved,10.0,Right Foot,,Reece James,Take-On,Mason Mount,Pass (Live)
+7,45+2,Raheem Sterling,Chelsea,0.07,0.2,Saved,13.0,Right Foot,,Mason Mount,Pass (Live),Kai Havertz,Pass (Live)
+8,,,,,,,,,,,,,
+9,53,Denis Zakaria,Chelsea,0.07,,Off Target,16.0,Left Foot,,Raheem Sterling,Pass (Live),Kai Havertz,Pass (Live)
+10,55,Denis Zakaria,Chelsea,0.12,,Blocked,18.0,Right Foot,,Mason Mount,Pass (Live),Jorginho,Pass (Live)
+11,57,Christian Pulisic,Chelsea,0.07,,Off Target,22.0,Right Foot,,Jorginho,Pass (Live),Marc Cucurella,Pass (Dead)
+12,59,Jaidon Anthony,Bournemouth,0.03,0.02,Saved,31.0,Right Foot,Deflected,,,,
+13,60,Kai Havertz,Chelsea,0.09,,Off Target,14.0,Left Foot,,Raheem Sterling,Pass (Live),Jorginho,Pass (Live)
+14,64,Mason Mount,Chelsea,0.06,0.18,Saved,22.0,Right Foot,,Christian Pulisic,Pass (Live),Marc Cucurella,Pass (Live)
+15,72,Jefferson Lerma,Bournemouth,0.03,,Off Target,28.0,Right Foot,,Kieffer Moore,Pass (Live),Jaidon Anthony,Pass (Live)
+16,73,Kalidou Koulibaly,Chelsea,0.04,,Off Target,12.0,Head,,César Azpilicueta,Pass (Live),Raheem Sterling,Pass (Live)
+17,74,Christian Pulisic,Chelsea,0.07,,Off Target,19.0,Right Foot,,Jorginho,Pass (Live),,
+18,78,Dominic Solanke,Bournemouth,0.09,,Off Target,15.0,Right Foot,Volley,Jaidon Anthony,Pass (Live),Jefferson Lerma,Pass (Live)
+19,79,Ryan Christie,Bournemouth,0.1,0.07,Saved,10.0,Right Foot,,Jefferson Lerma,Pass (Live),,
+20,81,Lloyd Kelly,Bournemouth,0.1,,Off Target,8.0,Head,,Jaidon Anthony,Pass (Dead),Dominic Solanke,Pass (Live)
+21,84,Conor Gallagher,Chelsea,0.22,,Blocked,16.0,Right Foot,,Kai Havertz,Pass (Live),Pierre-Emerick Aubameyang,Pass (Live)
+22,90,Lewis Cook,Bournemouth,0.02,,Blocked,33.0,Right Foot,,Jaidon Anthony,Pass (Live),Jefferson Lerma,Pass (Live)
+23,90+4,Jaidon Anthony,Bournemouth,0.08,0.2,Saved,21.0,Right Foot,Free kick,Jordan Zemura,Fouled,Jordan Zemura,Take-On
+24,90+5,Dominic Solanke,Bournemouth,0.06,,Off Target,10.0,Head,,Siriki Dembélé,Pass (Live),Jaidon Anthony,Shot

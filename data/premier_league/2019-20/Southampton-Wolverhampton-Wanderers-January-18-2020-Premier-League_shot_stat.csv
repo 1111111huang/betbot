@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,12,Adama Traoré,Wolves,0.04,,Blocked,27.0,Right Foot,,Adama Traoré,Take-On,Jonny Castro,Pass (Live)
+1,15,Jan Bednarek,Southampton,0.12,0.46,Goal,10.0,Right Foot,Volley,Pierre Højbjerg,Fouled,,
+2,23,Raúl Jiménez,Wolves,0.26,0.17,Saved,5.0,Right Foot,Volley,,,,
+3,24,Cédric Soares,Southampton,0.06,0.03,Saved,10.0,Head,,Nathan Redmond,Pass (Live),Jan Bednarek,Pass (Live)
+4,27,Raúl Jiménez,Wolves,0.06,,Off Target,13.0,Right Foot,Volley,João Moutinho,Pass (Dead),Adama Traoré,Fouled
+5,31,Stuart Armstrong,Southampton,0.05,0.03,Saved,23.0,Left Foot,,Stuart Armstrong,Take-On,James Ward-Prowse,Pass (Live)
+6,33,Raúl Jiménez,Wolves,0.51,,Off Target,6.0,Left Foot,Volley,Pedro Neto,Pass (Live),Adama Traoré,Pass (Live)
+7,35,Shane Long,Southampton,0.05,0.31,Goal,11.0,Head,,Cédric Soares,Pass (Live),Stuart Armstrong,Pass (Live)
+8,43,Shane Long,Southampton,0.06,,Off Target,11.0,Head,,Cédric Soares,Pass (Live),Nathan Redmond,Pass (Live)
+9,,,,,,,,,,,,,
+10,50,Danny Ings,Southampton,0.08,,Blocked,11.0,Left Foot,,Ryan Bertrand,Pass (Live),Pierre Højbjerg,Pass (Dead)
+11,52,Shane Long,Southampton,0.06,,Woodwork,9.0,Head,,Nathan Redmond,Pass (Live),Nathan Redmond,Take-On
+12,53,Pedro Neto,Wolves,0.34,0.69,Goal,9.0,Right Foot,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+13,65,Raúl Jiménez (pen),Wolves,0.79,0.99,Goal,13.0,Right Foot,,Jonny Castro,Fouled,Pedro Neto,Pass (Live)
+14,67,Nathan Redmond,Southampton,0.05,,Woodwork,27.0,Right Foot,,Nathan Redmond,Take-On,Ryan Bertrand,Pass (Live)
+15,68,Pedro Neto,Wolves,0.05,,Off Target,20.0,Left Foot,,,,,
+16,73,Moussa Djenepo,Southampton,0.03,0.02,Saved,17.0,Head,,Moussa Djenepo,Fouled,Cédric Soares,Pass (Live)
+17,76,Raúl Jiménez,Wolves,0.37,0.8,Goal,15.0,Right Foot,,Adama Traoré,Pass (Live),Raúl Jiménez,Pass (Live)
+18,90+2,Jack Stephens,Southampton,0.06,,Off Target,12.0,Head,,James Ward-Prowse,Pass (Live),Cédric Soares,Pass (Live)
+19,90+5,Sofiane Boufal,Southampton,0.07,,Off Target,10.0,Left Foot,,Pierre Højbjerg,Pass (Live),,

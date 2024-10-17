@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Filip Krovinović,West Brom,0.03,,Off Target,23.0,Right Foot,,Matheus Pereira,Pass (Live),Grady Diangana,Pass (Dead)
+1,20.0,Karlan Grant,West Brom,0.07,,Off Target,15.0,Left Foot,,Matheus Pereira,Pass (Live),Filip Krovinović,Pass (Live)
+2,23.0,Matheus Pereira,West Brom,0.03,0.04,Saved,32.0,Right Foot,,Conor Townsend,Pass (Live),Ahmed Hegazi,Pass (Live)
+3,23.0,Ashley Barnes,Burnley,0.02,0.01,Saved,34.0,Right Foot,Volley,Josh Brownhill,Take-On,Ashley Westwood,Pass (Live)
+4,26.0,James Tarkowski,Burnley,0.08,,Off Target,11.0,Head,,Jóhann Berg Guðmundsson,Pass (Live),Dwight McNeil,Fouled
+5,26.0,Ashley Barnes,Burnley,0.12,0.06,Saved,8.0,Right Foot,,James Tarkowski,Shot,,
+6,32.0,Conor Townsend,West Brom,0.03,0.05,Saved,14.0,Head,,Darnell Furlong,Pass (Live),Karlan Grant,Pass (Live)
+7,35.0,Matheus Pereira,West Brom,0.03,,Blocked,28.0,Left Foot,,Conor Gallagher,Pass (Live),Matheus Pereira,Pass (Live)
+8,36.0,Branislav Ivanović,West Brom,0.15,,Off Target,9.0,Left Foot,,Matheus Pereira,Pass (Dead),Matheus Pereira,Shot
+9,,,,,,,,,,,,,
+10,46.0,Chris Wood,Burnley,0.05,,Blocked,10.0,Head,,Dwight McNeil,Pass (Live),Ashley Barnes,Pass (Live)
+11,54.0,Jóhann Berg Guðmundsson,Burnley,0.06,0.08,Saved,32.0,Left Foot,Free kick,Dwight McNeil,Fouled,Ashley Barnes,Pass (Live)
+12,58.0,Grady Diangana,West Brom,0.03,0.23,Saved,14.0,Right Foot,,Matheus Pereira,Pass (Live),Filip Krovinović,Pass (Live)
+13,58.0,Branislav Ivanović,West Brom,0.13,,Blocked,9.0,Left Foot,Deflected,Grady Diangana,Shot,,
+14,58.0,Conor Gallagher,West Brom,0.02,,Off Target,26.0,Right Foot,Volley,Branislav Ivanović,Shot,,
+15,58.0,Darnell Furlong,West Brom,0.06,0.07,Saved,14.0,Right Foot,,Conor Gallagher,Shot,,
+16,58.0,Branislav Ivanović,West Brom,0.18,0.21,Saved,4.0,Left Foot,,Darnell Furlong,Shot,,
+17,63.0,Chris Wood,Burnley,0.27,,Woodwork,8.0,Head,,Ashley Westwood,Pass (Live),Josh Brownhill,Pass (Live)
+18,67.0,Dwight McNeil,Burnley,0.05,,Off Target,24.0,Left Foot,,Ashley Barnes,Pass (Live),Dwight McNeil,Pass (Live)
+19,68.0,Ashley Barnes,Burnley,0.05,0.06,Saved,13.0,Head,,Dwight McNeil,Pass (Live),Josh Brownhill,Pass (Live)
+20,68.0,Chris Wood,Burnley,0.41,,Woodwork,5.0,Head,,Ashley Barnes,Shot,,
+21,78.0,Matheus Pereira,West Brom,0.1,0.48,Saved,8.0,Left Foot,Volley,Conor Townsend,Pass (Live),Grady Diangana,Pass (Live)
+22,79.0,Romaine Sawyers,West Brom,0.02,,Off Target,29.0,Right Foot,,Grady Diangana,Pass (Live),Matheus Pereira,Pass (Dead)

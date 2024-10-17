@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Timo Werner,Chelsea,0.05,0.27,Saved,11.0,Left Foot,,Mateo Kovačić,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+1,14,Romelu Lukaku,Chelsea,0.07,,Blocked,13.0,Right Foot,,Christian Pulisic,Pass (Live),Christian Pulisic,Tackle
+2,16,Romain Saïss,Wolves,0.09,,Off Target,8.0,Head,,,,,
+3,19,Christian Pulisic,Chelsea,0.03,,Off Target,25.0,Left Foot,,Antonio Rüdiger,Pass (Live),Thiago Silva,Pass (Live)
+4,23,Romain Saïss,Wolves,0.17,,Off Target,10.0,Head,,Pedro Neto,Pass (Dead),Rayan Aït-Nouri,Fouled
+5,26,Reece James,Chelsea,0.01,,Off Target,21.0,Right Foot,Volley,,,,
+6,29,Rúben Neves,Wolves,0.02,,Off Target,27.0,Right Foot,,Pedro Neto,Fouled,Raúl Jiménez,Pass (Live)
+7,29,Raúl Jiménez,Wolves,0.24,,Off Target,13.0,Left Foot,,Rúben Neves,Shot,,
+8,37,Marcos Alonso,Chelsea,0.05,,Blocked,26.0,Left Foot,Free kick,Christian Pulisic,Fouled,César Azpilicueta,Pass (Live)
+9,38,Thiago Silva,Chelsea,0.03,,Off Target,8.0,Head,,Marcos Alonso,Pass (Dead),Marcos Alonso,Shot
+10,45,Pedro Neto,Wolves,0.07,0.03,Saved,18.0,Right Foot,,Rúben Neves,Pass (Live),Rayan Aït-Nouri,Interception
+11,45,Leander Dendoncker,Wolves,0.2,,Off Target,16.0,Right Foot,,Pedro Neto,Shot,,
+12,45+1,Romelu Lukaku,Chelsea,0.07,0.1,Saved,17.0,Right Foot,,Mateo Kovačić,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+13,45+3,Christian Pulisic,Chelsea,0.03,,Blocked,20.0,Left Foot,,Romelu Lukaku,Pass (Live),Mateo Kovačić,Pass (Live)
+14,45+3,Rayan Aït-Nouri,Wolves,0.05,,Off Target,17.0,Left Foot,,Willy Boly,Pass (Live),Pedro Neto,Tackle
+15,,,,,,,,,,,,,
+16,46,Christian Pulisic,Chelsea,0.03,,Off Target,26.0,Right Foot,,Romelu Lukaku,Pass (Live),Antonio Rüdiger,Pass (Live)
+17,46,Timo Werner,Chelsea,0.21,0.1,Saved,13.0,Right Foot,,Christian Pulisic,Shot,,
+18,48,Reece James,Chelsea,0.04,,Off Target,34.0,Right Foot,Free kick,Christian Pulisic,Fouled,Romelu Lukaku,Pass (Live)
+19,49,Rayan Aït-Nouri,Wolves,0.03,,Off Target,24.0,Right Foot,,Raúl Jiménez,Pass (Live),Jonny Castro,Pass (Live)
+20,56,Romelu Lukaku (pen),Chelsea,0.79,0.98,Goal,13.0,Left Foot,,Romelu Lukaku,Fouled,Christian Pulisic,Pass (Live)
+21,57,Timo Werner,Chelsea,0.03,,Off Target,12.0,Right Foot,,,,,
+22,58,Romelu Lukaku,Chelsea,0.07,0.31,Goal,24.0,Right Foot,,Christian Pulisic,Pass (Live),,
+23,60,Christian Pulisic,Chelsea,0.08,,Blocked,12.0,Right Foot,,Romelu Lukaku,Pass (Live),Christian Pulisic,Pass (Live)
+24,61,Thiago Silva,Chelsea,0.02,,Off Target,13.0,Head,,Reece James,Pass (Dead),Christian Pulisic,Shot
+25,61,Thiago Silva,Chelsea,0.02,,Blocked,13.0,Head,,Thiago Silva,Shot,,
+26,63,Romain Saïss,Wolves,0.1,,Off Target,9.0,Head,,Pedro Neto,Pass (Dead),Rúben Neves,Pass (Live)
+27,73,Hwang Hee-chan,Wolves,0.53,0.03,Saved,12.0,Left Foot,,Rúben Neves,Pass (Live),,
+28,74,Mateo Kovačić,Chelsea,0.08,0.09,Saved,9.0,Right Foot,,,,,
+29,79,Francisco Trincão,Wolves,0.11,0.33,Goal,22.0,Left Foot,,Chiquinho,Pass (Live),Leander Dendoncker,Tackle
+30,84,Francisco Trincão,Wolves,0.15,,Blocked,16.0,Left Foot,,Francisco Trincão,Take-On,Jonny Castro,Pass (Live)
+31,86,Raúl Jiménez,Wolves,0.08,,Off Target,22.0,Right Foot,,,,,
+32,90+2,Kai Havertz,Chelsea,0.03,,Off Target,16.0,Left Foot,,Christian Pulisic,Pass (Live),Reece James,Pass (Live)
+33,90+7,Conor Coady,Wolves,0.21,0.36,Goal,6.0,Head,,Chiquinho,Pass (Live),Francisco Trincão,Pass (Live)

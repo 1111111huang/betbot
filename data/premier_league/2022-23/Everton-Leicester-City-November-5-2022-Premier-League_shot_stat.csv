@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,James Maddison,Leicester City,0.08,,Off Target,14.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Kiernan Dewsbury-Hall,Take-On
+1,4,Patson Daka,Leicester City,0.14,0.22,Saved,20.0,Left Foot,,Kiernan Dewsbury-Hall,Pass (Live),James Maddison,Pass (Live)
+2,6,Alex Iwobi,Everton,0.19,,Off Target,12.0,Right Foot,,Dominic Calvert-Lewin,Pass (Live),Idrissa Gana Gueye,Tackle
+3,8,James Maddison,Leicester City,0.03,,Off Target,11.0,Right Foot,,Timothy Castagne,Pass (Live),Patson Daka,Pass (Live)
+4,12,Demarai Gray,Everton,0.03,,Off Target,19.0,Left Foot,,Alex Iwobi,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+5,14,James Maddison,Leicester City,0.07,,Off Target,18.0,Right Foot,,Patson Daka,Pass (Live),James Justin,Pass (Live)
+6,22,Harvey Barnes,Leicester City,0.04,,Off Target,20.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),James Maddison,Pass (Live)
+7,23,James Tarkowski,Everton,0.02,0.08,Saved,12.0,Head,Deflected,Demarai Gray,Pass (Live),Dwight McNeil,Pass (Dead)
+8,28,Kiernan Dewsbury-Hall,Leicester City,0.11,,Blocked,17.0,Left Foot,,Patson Daka,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+9,29,James Maddison,Leicester City,0.05,,Blocked,21.0,Right Foot,,James Maddison,Take-On,Timothy Castagne,Pass (Live)
+10,31,James Maddison,Leicester City,0.04,,Blocked,17.0,Right Foot,,Youri Tielemans,Pass (Live),James Maddison,Pass (Live)
+11,32,Harvey Barnes,Leicester City,0.02,0.05,Saved,30.0,Right Foot,,,,,
+12,34,Dominic Calvert-Lewin,Everton,0.11,,Blocked,15.0,Left Foot,,Dominic Calvert-Lewin,Take-On,Alex Iwobi,Tackle
+13,38,James Maddison,Leicester City,0.1,,Blocked,17.0,Left Foot,,Kiernan Dewsbury-Hall,Pass (Live),Youri Tielemans,Pass (Live)
+14,39,Youri Tielemans,Leicester City,0.03,,Blocked,25.0,Left Foot,,James Maddison,Shot,,
+15,39,Timothy Castagne,Leicester City,0.29,,Off Target,4.0,Head,,Youri Tielemans,Pass (Live),Youri Tielemans,Shot
+16,41,Amadou Onana,Everton,0.1,,Off Target,9.0,Head,,Dwight McNeil,Pass (Dead),,
+17,42,Patson Daka,Leicester City,0.12,0.12,Saved,13.0,Left Foot,,,,,
+18,43,Alex Iwobi,Everton,0.08,,Blocked,11.0,Head,,Vitaliy Mykolenko,Pass (Live),Dwight McNeil,Pass (Live)
+19,43,Dominic Calvert-Lewin,Everton,0.04,,Off Target,9.0,Head,,Amadou Onana,Pass (Live),Alex Iwobi,Shot
+20,45,Patson Daka,Leicester City,0.09,,Blocked,16.0,Left Foot,,Harvey Barnes,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+21,45,Youri Tielemans,Leicester City,0.02,0.37,Goal,25.0,Right Foot,Volley,James Maddison,Pass (Live),Patson Daka,Shot
+22,,,,,,,,,,,,,
+23,49,Dominic Calvert-Lewin,Everton,0.37,0.47,Saved,13.0,Right Foot,,Alex Iwobi,Pass (Live),Demarai Gray,Pass (Live)
+24,51,James Maddison,Leicester City,0.05,,Blocked,22.0,Right Foot,,Patson Daka,Pass (Live),James Maddison,Pass (Live)
+25,51,Patson Daka,Leicester City,0.22,,Off Target,14.0,Right Foot,,Daniel Amartey,Pass (Live),Wout Faes,Pass (Live)
+26,58,Amadou Onana,Everton,0.02,,Off Target,17.0,Right Foot,Volley,Alex Iwobi,Fouled,Dominic Calvert-Lewin,Pass (Live)
+27,60,James Maddison,Leicester City,0.04,,Woodwork,18.0,Right Foot,,Timothy Castagne,Pass (Live),Youri Tielemans,Pass (Live)
+28,64,Neal Maupay,Everton,0.08,,Blocked,5.0,Left Foot,,,,,
+29,74,Harvey Barnes,Leicester City,0.03,0.09,Saved,17.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Daniel Amartey,Pass (Live)
+30,84,Wout Faes,Leicester City,0.07,0.05,Saved,11.0,Head,,James Maddison,Pass (Dead),Jamie Vardy,Pass (Live)
+31,86,Alex Iwobi,Everton,0.05,,Blocked,24.0,Right Foot,,Demarai Gray,Pass (Live),Conor Coady,Pass (Live)
+32,86,Harvey Barnes,Leicester City,0.11,0.36,Goal,15.0,Left Foot,Deflected,James Maddison,Pass (Live),Harvey Barnes,Pass (Live)
+33,89,Anthony Gordon,Everton,0.14,,Blocked,9.0,Left Foot,,James Tarkowski,Pass (Live),Demarai Gray,Pass (Dead)
+34,90+3,Harvey Barnes,Leicester City,0.62,0.24,Saved,21.0,Right Foot,,James Maddison,Pass (Live),James Maddison,Take-On

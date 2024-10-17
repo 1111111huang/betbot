@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Jonjo Shelvey,Newcastle Utd,0.02,0.1,Saved,31.0,Right Foot,,,,,
+1,5,Diogo Jota,Liverpool,0.04,,Off Target,16.0,Left Foot,,Diogo Jota,Fouled,Diogo Jota,Take-On
+2,7,Naby Keïta,Liverpool,0.02,,Off Target,23.0,Right Foot,,,,,
+3,10,Virgil van Dijk,Liverpool,0.03,,Off Target,15.0,Right Foot,Volley,James Milner,Pass (Dead),,
+4,19,Naby Keïta,Liverpool,0.74,0.64,Goal,7.0,Left Foot,,Diogo Jota,Pass (Live),Naby Keïta,Pass (Live)
+5,28,Allan Saint-Maximin,Newcastle Utd,0.04,,Off Target,28.0,Right Foot,,,,,
+6,34,Sadio Mané,Liverpool,0.16,0.13,Saved,17.0,Right Foot,,Luis Díaz,Pass (Live),Naby Keïta,Pass (Live)
+7,38,Jordan Henderson,Liverpool,0.04,,Off Target,32.0,Right Foot,Free kick,Sadio Mané,Fouled,Naby Keïta,Pass (Live)
+8,41,Diogo Jota,Liverpool,0.03,0.07,Saved,15.0,Head,,Jordan Henderson,Pass (Live),Joe Gomez,Pass (Live)
+9,42,James Milner,Liverpool,0.05,,Off Target,22.0,Right Foot,Volley,Diogo Jota,Shot,,
+10,,,,,,,,,,,,,
+11,50,Luis Díaz,Liverpool,0.05,,Blocked,15.0,Right Foot,,Diogo Jota,Pass (Live),James Milner,Pass (Live)
+12,50,Naby Keïta,Liverpool,0.02,,Blocked,21.0,Right Foot,Volley,James Milner,Pass (Dead),Luis Díaz,Shot
+13,55,Jonjo Shelvey,Newcastle Utd,0.06,,Blocked,29.0,Right Foot,Free kick,Joe Willock,Fouled,Bruno Guimarães,Pass (Live)
+14,59,Diogo Jota,Liverpool,0.05,0.2,Saved,14.0,Right Foot,Volley,James Milner,Pass (Live),Naby Keïta,Tackle
+15,59,Andrew Robertson,Liverpool,0.03,0.05,Saved,22.0,Left Foot,,Diogo Jota,Shot,,
+16,63,Sadio Mané,Liverpool,0.2,,Off Target,14.0,Right Foot,,Joe Gomez,Pass (Live),Sadio Mané,Pass (Live)
+17,64,Sadio Mané,Liverpool,0.03,,Blocked,22.0,Right Foot,,Diogo Jota,Pass (Live),Luis Díaz,Pass (Live)
+18,64,Luis Díaz,Liverpool,0.06,0.29,Saved,10.0,Right Foot,Volley,Sadio Mané,Pass (Live),Sadio Mané,Shot
+19,68,Virgil van Dijk,Liverpool,0.02,0.02,Saved,13.0,Head,,James Milner,Pass (Dead),Naby Keïta,Pass (Live)
+20,70,Luis Díaz,Liverpool,0.03,,Blocked,18.0,Right Foot,,Mohamed Salah,Pass (Live),Fabinho,Pass (Live)
+21,71,Mohamed Salah,Liverpool,0.03,,Off Target,16.0,Head,,Andrew Robertson,Pass (Live),Diogo Jota,Pass (Live)
+22,72,Mohamed Salah,Liverpool,0.09,0.07,Saved,15.0,Left Foot,,Luis Díaz,Pass (Live),Luis Díaz,Take-On
+23,73,Diogo Jota,Liverpool,0.16,0.11,Saved,15.0,Right Foot,,James Milner,Pass (Live),Naby Keïta,Pass (Live)
+24,79,Diogo Jota,Liverpool,0.1,0.09,Saved,17.0,Left Foot,,,,,
+25,80,Joe Gomez,Liverpool,0.02,,Off Target,30.0,Right Foot,,Diogo Jota,Shot,,
+26,84,Luis Díaz,Liverpool,0.24,,Off Target,7.0,Right Foot,,Luis Díaz,Take-On,Naby Keïta,Pass (Live)
+27,87,Bruno Guimarães,Newcastle Utd,0.08,0.1,Saved,25.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Matt Targett,Pass (Dead)
+28,90+5,Fabinho,Liverpool,0.06,,Off Target,29.0,Right Foot,Free kick,Diogo Jota,Fouled,Andrew Robertson,Pass (Live)

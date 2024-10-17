@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Wilfried Zaha,Crystal Palace,0.06,,Off Target,12.0,Right Foot,,,,,
+1,5,Emi Buendía,Norwich City,0.04,,Blocked,17.0,Right Foot,,,,,
+2,12,Moritz Leitner,Norwich City,0.03,,Blocked,25.0,Left Foot,,Jamal Lewis,Pass (Live),Marco Stiepermann,Pass (Live)
+3,13,Jordan Ayew,Crystal Palace,0.03,0.16,Saved,22.0,Right Foot,,Wilfried Zaha,Pass (Live),,
+4,19,Cheikhou Kouyaté,Crystal Palace,0.04,,Off Target,14.0,Head,,Patrick van Aanholt,Pass (Live),Luka Milivojević,Pass (Live)
+5,19,James McArthur,Crystal Palace,0.09,,Blocked,8.0,Left Foot,,Wilfried Zaha,Pass (Live),Wilfried Zaha,Take-On
+6,21,Luka Milivojević (pen),Crystal Palace,0.79,0.99,Goal,13.0,Right Foot,,James McArthur,Fouled,James McArthur,Shot
+7,27,Marco Stiepermann,Norwich City,0.05,,Blocked,17.0,Left Foot,,Teemu Pukki,Pass (Live),Moritz Leitner,Pass (Live)
+8,30,Teemu Pukki,Norwich City,0.09,0.19,Saved,10.0,Left Foot,Volley,Emi Buendía,Pass (Live),Marco Stiepermann,Pass (Live)
+9,36,Todd Cantwell,Norwich City,0.28,,Blocked,14.0,Right Foot,,Jamal Lewis,Pass (Live),Marco Stiepermann,Pass (Live)
+10,39,Emi Buendía,Norwich City,0.04,0.13,Saved,16.0,Right Foot,,Marco Stiepermann,Pass (Live),Emi Buendía,Pass (Live)
+11,,,,,,,,,,,,,
+12,51,Wilfried Zaha,Crystal Palace,0.06,,Blocked,15.0,Right Foot,,James McArthur,Pass (Live),Jordan Ayew,Pass (Live)
+13,52,James McArthur,Crystal Palace,0.03,,Off Target,25.0,Right Foot,,Jordan Ayew,Pass (Live),Jeffrey Schlupp,Pass (Live)
+14,55,Jeffrey Schlupp,Crystal Palace,0.03,,Blocked,25.0,Left Foot,,James McArthur,Pass (Live),Cheikhou Kouyaté,Pass (Live)
+15,56,Patrick van Aanholt,Crystal Palace,0.06,,Off Target,17.0,Right Foot,,Wilfried Zaha,Pass (Live),Jordan Ayew,Pass (Live)
+16,57,Todd Cantwell,Norwich City,0.05,0.13,Saved,16.0,Right Foot,,Emi Buendía,Pass (Live),Kenny McLean,Pass (Live)
+17,58,Marco Stiepermann,Norwich City,0.05,,Off Target,21.0,Left Foot,,Teemu Pukki,Pass (Live),Marco Stiepermann,Pass (Live)
+18,63,Jordan Ayew,Crystal Palace,0.06,,Blocked,14.0,Right Foot,,,,,
+19,65,Wilfried Zaha,Crystal Palace,0.07,,Off Target,18.0,Left Foot,,Jordan Ayew,Pass (Live),Jeffrey Schlupp,Pass (Live)
+20,77,Max Aarons,Norwich City,0.03,,Blocked,26.0,Left Foot,,Teemu Pukki,Pass (Live),Emi Buendía,Pass (Live)
+21,77,Jordan Ayew,Crystal Palace,0.06,,Blocked,18.0,Right Foot,,Wilfried Zaha,Pass (Live),,
+22,78,Gary Cahill,Crystal Palace,0.07,,Blocked,10.0,Head,,Luka Milivojević,Pass (Dead),Jordan Ayew,Shot
+23,83,Wilfried Zaha,Crystal Palace,0.07,,Off Target,10.0,Head,,Andros Townsend,Pass (Live),Luka Milivojević,Pass (Live)
+24,90+2,Andros Townsend,Crystal Palace,0.06,0.32,Goal,17.0,Left Foot,,Wilfried Zaha,Pass (Live),Wilfried Zaha,Take-On
+25,90+4,Josip Drmić,Norwich City,0.04,,Off Target,16.0,Head,,Emi Buendía,Pass (Dead),Patrick Roberts,Fouled

@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Marco Stiepermann,Norwich City,0.06,,Off Target,15.0,Left Foot,,Teemu Pukki,Pass (Live),Teemu Pukki,Interception
+1,10,Marco Stiepermann,Norwich City,0.06,,Off Target,18.0,Left Foot,,Teemu Pukki,Pass (Live),Jamal Lewis,Pass (Live)
+2,15,Teemu Pukki,Norwich City,0.08,,Blocked,14.0,Left Foot,,Jamal Lewis,Pass (Live),Jamal Lewis,Take-On
+3,15,Teemu Pukki,Norwich City,0.06,,Off Target,10.0,Left Foot,,Todd Cantwell,Pass (Live),Emi Buendía,Pass (Live)
+4,16,Andrew Robertson,Liverpool,0.04,,Off Target,17.0,Left Foot,,Divock Origi,Pass (Live),Georginio Wijnaldum,Pass (Live)
+5,19,Mohamed Salah,Liverpool,0.29,0.63,Goal,9.0,Left Foot,,Roberto Firmino,Pass (Live),,
+6,25,Emi Buendía,Norwich City,0.04,0.19,Saved,22.0,Left Foot,,Todd Cantwell,Pass (Live),Todd Cantwell,Pass (Live)
+7,26,Marco Stiepermann,Norwich City,0.04,0.06,Saved,23.0,Left Foot,Volley,Emi Buendía,Pass (Live),Max Aarons,Pass (Live)
+8,28,Virgil van Dijk,Liverpool,0.08,0.05,Goal,9.0,Head,,Mohamed Salah,Pass (Dead),Georginio Wijnaldum,Pass (Live)
+9,31,Roberto Firmino,Liverpool,0.07,0.12,Saved,14.0,Left Foot,Volley,Trent Alexander-Arnold,Pass (Live),Georginio Wijnaldum,Pass (Live)
+10,35,Tom Trybull,Norwich City,0.05,,Off Target,12.0,Head,,Emi Buendía,Pass (Dead),,
+11,42,Divock Origi,Liverpool,0.23,0.12,Goal,13.0,Head,,Trent Alexander-Arnold,Pass (Live),Jordan Henderson,Pass (Live)
+12,45+2,Roberto Firmino,Liverpool,0.04,,Blocked,19.0,Left Foot,,Andrew Robertson,Pass (Live),,
+13,,,,,,,,,,,,,
+14,48,Jordan Henderson,Liverpool,0.07,0.1,Saved,14.0,Right Foot,,Divock Origi,Pass (Live),Georginio Wijnaldum,Pass (Live)
+15,48,Roberto Firmino,Liverpool,0.63,,Woodwork,4.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Mohamed Salah,Pass (Live)
+16,54,Mohamed Salah,Liverpool,0.05,,Off Target,14.0,Left Foot,,Fabinho,Tackle,,
+17,55,Jordan Henderson,Liverpool,0.07,,Blocked,17.0,Right Foot,,Mohamed Salah,Pass (Live),Divock Origi,Pass (Live)
+18,55,Fabinho,Liverpool,0.03,0.15,Saved,31.0,Right Foot,,Jordan Henderson,Shot,,
+19,58,Andrew Robertson,Liverpool,0.02,,Off Target,25.0,Left Foot,,Jordan Henderson,Fouled,Mohamed Salah,Pass (Live)
+20,62,Moritz Leitner,Norwich City,0.04,,Woodwork,16.0,Right Foot,,Todd Cantwell,Pass (Live),Moritz Leitner,Pass (Live)
+21,64,Teemu Pukki,Norwich City,0.35,0.84,Goal,11.0,Right Foot,,Emi Buendía,Pass (Live),Kenny McLean,Pass (Live)
+22,71,Roberto Firmino,Liverpool,0.05,,Blocked,19.0,Right Foot,,Mohamed Salah,Pass (Live),Fabinho,Pass (Live)
+23,73,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,30.0,Right Foot,,Joe Gomez,Pass (Live),,
+24,80,Emi Buendía,Norwich City,0.05,0.04,Saved,29.0,Right Foot,Free kick,Teemu Pukki,Fouled,,
+25,85,Trent Alexander-Arnold,Liverpool,0.14,0.45,Saved,22.0,Right Foot,Free kick,Roberto Firmino,Fouled,Roberto Firmino,Take-On
+26,90+1,Ben Godfrey,Norwich City,0.02,0.19,Saved,29.0,Right Foot,,Jamal Lewis,Pass (Live),Onel Hernández,Pass (Live)
+27,90+1,Onel Hernández,Norwich City,0.06,,Blocked,10.0,Left Foot,,Ben Godfrey,Shot,,

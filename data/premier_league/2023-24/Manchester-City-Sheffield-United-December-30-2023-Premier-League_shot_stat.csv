@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Julián Álvarez,Manchester City,0.05,,Off Target,23.0,Left Foot,,Phil Foden,Pass (Live),Jack Grealish,Pass (Live)
+1,14.0,Rodri,Manchester City,0.09,0.32,Goal,21.0,Right Foot,,Rodri,Take-On,Manuel Akanji,Pass (Live)
+2,16.0,Julián Álvarez,Manchester City,0.1,,Off Target,11.0,Head,,Bernardo Silva,Pass (Live),Manuel Akanji,Pass (Live)
+3,21.0,Bernardo Silva,Manchester City,0.22,0.87,Saved,9.0,Right Foot,,Phil Foden,Pass (Live),Manuel Akanji,Pass (Live)
+4,24.0,Kyle Walker,Manchester City,0.02,,Off Target,32.0,Right Foot,,Jack Grealish,Pass (Live),Julián Álvarez,Pass (Dead)
+5,28.0,Kyle Walker,Manchester City,0.02,,Blocked,34.0,Right Foot,,Mateo Kovačić,Pass (Live),Jack Grealish,Pass (Live)
+6,41.0,William Osula,Sheffield Utd,0.1,,Blocked,12.0,Right Foot,,Jayden Bogle,Pass (Live),Jack Robinson,Pass (Live)
+7,42.0,William Osula,Sheffield Utd,0.04,0.07,Saved,10.0,Head,,Oliver Norwood,Pass (Dead),William Osula,Shot
+8,43.0,Rodri,Manchester City,0.05,,Blocked,21.0,Left Foot,,Bernardo Silva,Pass (Live),,
+9,44.0,Jayden Bogle,Sheffield Utd,0.05,0.11,Saved,19.0,Left Foot,,George Baldock,Pass (Dead),William Osula,Fouled
+10,45.0,Rodri,Manchester City,0.02,,Off Target,30.0,Right Foot,,Jack Grealish,Pass (Live),Joško Gvardiol,Pass (Live)
+11,,,,,,,,,,,,,
+12,46.0,Rodri,Manchester City,0.03,,Off Target,30.0,Left Foot,Volley,Manuel Akanji,Pass (Live),Nathan Aké,Pass (Live)
+13,50.0,Nathan Aké,Manchester City,0.15,,Off Target,3.0,Head,,,,,
+14,55.0,Julián Álvarez,Manchester City,0.12,,Off Target,15.0,Right Foot,,,,,
+15,57.0,Phil Foden,Manchester City,0.04,,Blocked,11.0,Left Foot,,Joško Gvardiol,Pass (Live),Mateo Kovačić,Pass (Live)
+16,59.0,Nathan Aké,Manchester City,0.05,,Off Target,10.0,Head,,Oscar Bobb,Pass (Live),Phil Foden,Pass (Live)
+17,61.0,Julián Álvarez,Manchester City,0.91,0.98,Goal,3.0,Right Foot,,Phil Foden,Pass (Live),Oscar Bobb,Pass (Live)
+18,64.0,Oscar Bobb,Manchester City,0.14,,Blocked,11.0,Left Foot,,Oscar Bobb,Take-On,Phil Foden,Pass (Live)
+19,75.0,Phil Foden,Manchester City,0.06,0.21,Saved,24.0,Left Foot,,Rodri,Pass (Live),Joško Gvardiol,Pass (Live)
+20,85.0,Phil Foden,Manchester City,0.06,,Blocked,17.0,Right Foot,,Bernardo Silva,Pass (Live),Rodri,Pass (Live)
+21,86.0,Nathan Aké,Manchester City,0.07,,Blocked,9.0,Head,,Phil Foden,Pass (Live),Bernardo Silva,Pass (Live)
+22,89.0,Jayden Bogle,Sheffield Utd,0.13,,Blocked,18.0,Right Foot,,Cameron Archer,Pass (Live),Auston Trusty,Pass (Live)

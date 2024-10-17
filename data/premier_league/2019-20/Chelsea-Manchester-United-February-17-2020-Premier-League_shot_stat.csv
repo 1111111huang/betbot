@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Reece James,Chelsea,0.03,,Off Target,22.0,Right Foot,,Mateo Kovačić,Pass (Live),César Azpilicueta,Pass (Live)
+1,9,Willian,Chelsea,0.05,,Off Target,15.0,Left Foot,,Pedro,Pass (Live),César Azpilicueta,Pass (Live)
+2,12,Fred,Manchester Utd,0.06,,Blocked,18.0,Right Foot,,Bruno Fernandes,Pass (Live),Fred,Pass (Live)
+3,13,Brandon Williams,Manchester Utd,0.03,,Off Target,17.0,Right Foot,,Fred,Shot,,
+4,21,Anthony Martial,Manchester Utd,0.04,,Blocked,18.0,Right Foot,,Daniel James,Pass (Live),Nemanja Matić,Pass (Live)
+5,23,Antonio Rüdiger,Chelsea,0.03,,Blocked,18.0,Left Foot,Volley,Willian,Pass (Live),Andreas Christensen,Pass (Live)
+6,26,Michy Batshuayi,Chelsea,0.1,,Off Target,15.0,Left Foot,,Mason Mount,Pass (Live),Pedro,Pass (Live)
+7,31,Bruno Fernandes,Manchester Utd,0.01,,Off Target,32.0,Right Foot,,Brandon Williams,Pass (Live),Daniel James,Pass (Live)
+8,35,César Azpilicueta,Chelsea,0.03,,Blocked,25.0,Left Foot,,Jorginho,Pass (Live),Mateo Kovačić,Pass (Live)
+9,35,César Azpilicueta,Chelsea,0.11,,Blocked,6.0,Right Foot,,Pedro,Pass (Live),Mateo Kovačić,Pass (Live)
+10,37,Anthony Martial,Manchester Utd,0.04,,Off Target,17.0,Left Foot,,Bruno Fernandes,Pass (Live),Anthony Martial,Pass (Live)
+11,45,Anthony Martial,Manchester Utd,0.07,0.34,Goal,10.0,Head,,Aaron Wan-Bissaka,Pass (Live),Fred,Pass (Live)
+12,45+4,Michy Batshuayi,Chelsea,0.08,,Off Target,15.0,Right Foot,,Pedro,Pass (Live),Michy Batshuayi,Pass (Live)
+13,,,,,,,,,,,,,
+14,55,Pedro,Chelsea,0.12,,Blocked,9.0,Left Foot,,,,,
+15,64,Bruno Fernandes,Manchester Utd,0.07,,Woodwork,24.0,Right Foot,Free kick,Fred,Fouled,,
+16,66,Harry Maguire,Manchester Utd,0.05,0.22,Goal,10.0,Head,,Bruno Fernandes,Pass (Dead),Luke Shaw,Pass (Live)
+17,73,Mateo Kovačić,Chelsea,0.08,,Blocked,12.0,Right Foot,,Olivier Giroud,Pass (Live),Jorginho,Pass (Live)
+18,81,Mason Mount,Chelsea,0.03,,Blocked,27.0,Left Foot,,Mateo Kovačić,Pass (Live),Olivier Giroud,Pass (Live)
+19,82,Pedro,Chelsea,0.03,,Off Target,17.0,Right Foot,Volley,Jorginho,Pass (Live),Mateo Kovačić,Pass (Live)
+20,82,Mateo Kovačić,Chelsea,0.03,,Blocked,20.0,Right Foot,,Pedro,Shot,,
+21,82,César Azpilicueta,Chelsea,0.05,0.18,Saved,12.0,Left Foot,,Willian,Pass (Live),Jorginho,Pass (Live)
+22,88,Reece James,Chelsea,0.05,,Blocked,11.0,Head,,Mateo Kovačić,Pass (Live),Willian,Pass (Live)
+23,88,Pedro,Chelsea,0.03,,Blocked,16.0,Right Foot,,Reece James,Pass (Live),Reece James,Shot
+24,89,Mason Mount,Chelsea,0.06,,Woodwork,26.0,Right Foot,Free kick,Reece James,Fouled,Pedro,Shot
+25,90+3,Odion Ighalo,Manchester Utd,0.25,0.13,Saved,15.0,Right Foot,,Fred,Pass (Live),Fred,Take-On
+26,90+6,Mason Mount,Chelsea,0.03,,Blocked,28.0,Right Foot,,Pedro,Pass (Live),Willian,Pass (Live)

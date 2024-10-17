@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Emi Buendía,Aston Villa,0.04,,Woodwork,26.0,Left Foot,,Leon Bailey,Pass (Live),Boubacar Kamara,Pass (Live)
+1,9,Ollie Watkins,Aston Villa,0.36,0.86,Goal,5.0,Right Foot,Volley,Emi Buendía,Shot,,
+2,12,James Maddison,Leicester City,0.57,0.6,Goal,10.0,Left Foot,,Kelechi Iheanacho,Pass (Live),Kiernan Dewsbury-Hall,Tackle
+3,21,Emi Buendía,Aston Villa,0.07,,Blocked,15.0,Left Foot,Deflected,Lucas Digne,Pass (Live),Emi Buendía,Pass (Live)
+4,28,Ashley Young,Aston Villa,0.02,,Blocked,30.0,Left Foot,,Lucas Digne,Pass (Live),Douglas Luiz,Pass (Live)
+5,28,Ollie Watkins,Aston Villa,0.06,,Blocked,22.0,Left Foot,,Jacob Ramsey,Pass (Live),,
+6,29,Leon Bailey,Aston Villa,0.05,0.33,Saved,27.0,Left Foot,,Ashley Young,Pass (Live),Ashley Young,Take-On
+7,30,Emi Buendía,Aston Villa,0.05,,Woodwork,7.0,Head,,Douglas Luiz,Pass (Dead),Leon Bailey,Shot
+8,38,James Maddison,Leicester City,0.03,,Off Target,24.0,Left Foot,,Kiernan Dewsbury-Hall,Pass (Live),Tetê,Pass (Live)
+9,41,Kelechi Iheanacho,Leicester City,0.42,0.49,Goal,5.0,Head,,Harvey Barnes,Pass (Live),Victor Bernth Kristiansen,Pass (Live)
+10,45+2,Tetê,Leicester City,0.69,0.71,Goal,10.0,Left Foot,,Tetê,Take-On,Kelechi Iheanacho,Pass (Live)
+11,,,,,,,,,,,,,
+12,46,Kelechi Iheanacho,Leicester City,0.43,,Off Target,18.0,Left Foot,,Youri Tielemans,Pass (Live),Youri Tielemans,Interception
+13,47,Emi Buendía,Aston Villa,0.03,0.28,Saved,28.0,Right Foot,Deflected,Leon Bailey,Pass (Live),Philippe Coutinho,Pass (Dead)
+14,50,Tetê,Leicester City,0.07,,Off Target,16.0,Left Foot,,James Maddison,Pass (Live),Timothy Castagne,Pass (Live)
+15,54,Leon Bailey,Aston Villa,0.04,0.06,Saved,22.0,Left Foot,,Emi Buendía,Pass (Live),Ollie Watkins,Pass (Live)
+16,61,Tetê,Leicester City,0.03,,Off Target,22.0,Left Foot,,Tetê,Take-On,James Maddison,Pass (Live)
+17,62,Emi Buendía,Aston Villa,0.09,,Blocked,16.0,Left Foot,,Ollie Watkins,Pass (Live),Álex Moreno,Pass (Live)
+18,63,Leon Bailey,Aston Villa,0.31,,Blocked,9.0,Left Foot,,Emi Buendía,Pass (Live),Emi Buendía,Take-On
+19,65,Ollie Watkins,Aston Villa,0.16,,Blocked,10.0,Right Foot,,Philippe Coutinho,Pass (Live),Boubacar Kamara,Pass (Live)
+20,66,Philippe Coutinho,Aston Villa,0.06,,Off Target,21.0,Right Foot,Volley,Philippe Coutinho,Pass (Live),Ollie Watkins,Shot
+21,71,Álex Moreno,Aston Villa,0.03,,Blocked,22.0,Right Foot,,Tyrone Mings,Pass (Live),Ezri Konsa,Pass (Live)
+22,76,Ollie Watkins,Aston Villa,0.07,,Blocked,15.0,Left Foot,,Boubacar Kamara,Pass (Live),Ollie Watkins,Pass (Live)
+23,76,Leon Bailey,Aston Villa,0.06,,Blocked,17.0,Left Foot,,Ollie Watkins,Shot,,
+24,79,Dennis Praet,Leicester City,0.26,0.47,Goal,16.0,Right Foot,,Victor Bernth Kristiansen,Pass (Live),Wout Faes,Pass (Live)
+25,85,Ezri Konsa,Aston Villa,0.11,,Off Target,3.0,Head,,Douglas Luiz,Pass (Dead),Emi Buendía,Pass (Live)
+26,90+1,Álex Moreno,Aston Villa,0.05,,Off Target,16.0,Left Foot,,Douglas Luiz,Pass (Dead),Matty Cash,Pass (Live)
+27,90+2,Philippe Coutinho,Aston Villa,0.07,,Off Target,21.0,Right Foot,,Emi Buendía,Pass (Live),Jhon Durán,Pass (Live)
+28,90+4,Harvey Barnes,Leicester City,0.06,0.02,Saved,18.0,Right Foot,,Jamie Vardy,Pass (Live),Jamie Vardy,Take-On

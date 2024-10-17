@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,15,Jamie Vardy (pen),Leicester City,0.79,1.0,Goal,13.0,Right Foot,,,Fouled,James Justin,Pass (Live)
+1,31,Christian Fuchs,Leicester City,0.03,,Off Target,27.0,Left Foot,,Youri Tielemans,Pass (Live),James Maddison,Pass (Live)
+2,39,Jamie Vardy (pen),Leicester City,0.79,0.93,Saved,13.0,Right Foot,,James Justin,Fouled,Youri Tielemans,Pass (Live)
+3,45+1,Rúben Neves,Wolves,0.02,,Blocked,37.0,Right Foot,,Daniel Podence,Pass (Live),Daniel Podence,Fouled
+4,,,,,,,,,,,,,
+5,46,Youri Tielemans,Leicester City,0.05,,Off Target,9.0,Head,,Marc Albrighton,Pass (Live),Dennis Praet,Pass (Live)
+6,48,Nélson Semedo,Wolves,0.03,,Off Target,22.0,Right Foot,,Pedro Neto,Pass (Live),Willy Boly,Pass (Live)
+7,51,Youri Tielemans,Leicester City,0.02,,Off Target,33.0,Right Foot,,James Maddison,Pass (Dead),James Maddison,Fouled
+8,53,Jamie Vardy,Leicester City,0.03,0.05,Saved,23.0,Right Foot,,Wesley Fofana,Pass (Live),,
+9,55,Pedro Neto,Wolves,0.08,0.05,Saved,18.0,Left Foot,,Daniel Podence,Pass (Live),Rúben Neves,Pass (Live)
+10,56,James Maddison,Leicester City,0.06,,Blocked,16.0,Right Foot,,James Maddison,Take-On,Christian Fuchs,Pass (Live)
+11,59,Jonny Evans,Leicester City,0.08,,Off Target,9.0,Head,,James Maddison,Pass (Dead),Dennis Praet,Pass (Live)
+12,64,Rúben Neves,Wolves,0.13,,Off Target,22.0,Right Foot,Free kick,Pedro Neto,Fouled,Leander Dendoncker,Pass (Live)
+13,67,Max Kilman,Wolves,0.19,,Off Target,8.0,Left Foot,,Nélson Semedo,Pass (Dead),Adama Traoré,Fouled
+14,77,Rúben Neves,Wolves,0.05,0.36,Saved,24.0,Right Foot,,Nélson Semedo,Pass (Live),Adama Traoré,Pass (Live)
+15,78,Leander Dendoncker,Wolves,0.28,,Off Target,10.0,Right Foot,,Rúben Neves,Pass (Live),Rúben Neves,Shot
+16,82,Harvey Barnes,Leicester City,0.1,,Blocked,12.0,Right Foot,,James Justin,Pass (Live),Youri Tielemans,Pass (Live)
+17,83,Christian Fuchs,Leicester City,0.02,,Blocked,27.0,Left Foot,Volley,Harvey Barnes,Shot,,
+18,89,Fábio Silva,Wolves,0.04,,Off Target,13.0,Head,,Willy Boly,Pass (Live),Conor Coady,Pass (Live)

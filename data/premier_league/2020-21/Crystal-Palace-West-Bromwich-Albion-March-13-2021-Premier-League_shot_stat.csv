@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6.0,Christian Benteke,Crystal Palace,0.03,0.04,Saved,26.0,Right Foot,,Eberechi Eze,Pass (Live),Jordan Ayew,Pass (Live)
+1,14.0,Jordan Ayew,Crystal Palace,0.04,,Off Target,21.0,Left Foot,,Eberechi Eze,Pass (Live),Christian Benteke,Pass (Live)
+2,15.0,Conor Gallagher,West Brom,0.03,,Off Target,29.0,Right Foot,,Mbaye Diagne,Pass (Live),Conor Townsend,Pass (Dead)
+3,17.0,Ainsley Maitland-Niles,West Brom,0.02,,Blocked,26.0,Right Foot,,Matheus Pereira,Pass (Dead),,Fouled
+4,21.0,Okay Yokuşlu,West Brom,0.05,,Off Target,16.0,Right Foot,,Matheus Pereira,Pass (Live),Okay Yokuşlu,Pass (Live)
+5,32.0,Conor Townsend,West Brom,0.05,,Blocked,14.0,Left Foot,Volley,Matheus Pereira,Pass (Live),Matheus Pereira,Pass (Live)
+6,32.0,Dara O'Shea,West Brom,0.03,,Off Target,11.0,Head,,Conor Gallagher,Pass (Dead),Conor Townsend,Shot
+7,37.0,Luka Milivojević (pen),Crystal Palace,0.79,0.99,Goal,13.0,Right Foot,,,Fouled,Patrick van Aanholt,Pass (Dead)
+8,,,,,,,,,,,,,
+9,47.0,Christian Benteke,Crystal Palace,0.23,0.52,Saved,18.0,Left Foot,,Christian Benteke,Pass (Live),Vicente Guaita,Pass (Dead)
+10,49.0,Conor Gallagher,West Brom,0.09,,Blocked,11.0,Right Foot,,Matt Phillips,Pass (Live),Ainsley Maitland-Niles,Pass (Live)
+11,53.0,Matt Phillips,West Brom,0.07,,Off Target,11.0,Right Foot,Volley,Conor Townsend,Pass (Live),Matheus Pereira,Pass (Live)
+12,58.0,Matt Phillips,West Brom,0.06,,Blocked,19.0,Right Foot,,Matheus Pereira,Pass (Live),Darnell Furlong,Pass (Dead)
+13,58.0,Matheus Pereira,West Brom,0.03,,Off Target,25.0,Left Foot,,Conor Townsend,Pass (Live),Matt Phillips,Shot
+14,65.0,Eberechi Eze,Crystal Palace,0.04,0.04,Saved,28.0,Right Foot,,Eberechi Eze,Take-On,Eberechi Eze,Take-On
+15,66.0,Christian Benteke,Crystal Palace,0.06,,Blocked,10.0,Right Foot,,Wilfried Zaha,Pass (Live),Jordan Ayew,Pass (Live)
+16,72.0,Robert Snodgrass,West Brom,0.06,,Blocked,32.0,Left Foot,Free kick,Mbaye Diagne,Fouled,Dara O'Shea,Fouled
+17,72.0,Mbaye Diagne,West Brom,0.27,0.17,Saved,7.0,Right Foot,Volley,Okay Yokuşlu,Pass (Live),Dara O'Shea,Pass (Live)
+18,81.0,Conor Townsend,West Brom,0.06,,Off Target,17.0,Left Foot,,Mbaye Diagne,Pass (Live),Hal Robson-Kanu,Pass (Live)

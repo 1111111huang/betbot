@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Aleksandar Mitrović,Fulham,0.04,0.19,Saved,21.0,Right Foot,,Ademola Lookman,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+1,4,Aleksandar Mitrović,Fulham,0.02,,Off Target,63.0,Right Foot,,,,,
+2,6,Morgan Sanson,Aston Villa,0.02,,Off Target,28.0,Right Foot,Volley,Anwar El Ghazi,Fouled,Morgan Sanson,Pass (Live)
+3,7,Bobby Reid,Fulham,0.05,,Off Target,13.0,Head,,Kenny Tete,Pass (Live),Joachim Andersen,Pass (Live)
+4,8,Aleksandar Mitrović,Fulham,0.05,0.25,Saved,15.0,Left Foot,,Bobby Reid,Take-On,Harrison Reed,Pass (Live)
+5,10,John McGinn,Aston Villa,0.04,,Off Target,27.0,Left Foot,,John McGinn,Take-On,Douglas Luiz,Pass (Live)
+6,12,Ollie Watkins,Aston Villa,0.03,,Blocked,25.0,Right Foot,,John McGinn,Pass (Live),Anwar El Ghazi,Pass (Live)
+7,20,Ezri Konsa,Aston Villa,0.12,,Blocked,12.0,Right Foot,Volley,Anwar El Ghazi,Pass (Live),Matty Cash,Pass (Dead)
+8,25,John McGinn,Aston Villa,0.02,,Blocked,32.0,Left Foot,Volley,Bertrand Traoré,Pass (Live),,
+9,25,Douglas Luiz,Aston Villa,0.06,,Off Target,10.0,Head,,Matty Cash,Pass (Live),Bertrand Traoré,Pass (Dead)
+10,27,Kenny Tete,Fulham,0.04,0.03,Saved,18.0,Right Foot,Deflected,Ruben Loftus-Cheek,Pass (Live),Ruben Loftus-Cheek,Take-On
+11,33,Bobby Reid,Fulham,0.05,,Blocked,15.0,Left Foot,,,,,
+12,36,Joachim Andersen,Fulham,0.16,,Off Target,6.0,Right Foot,,Bobby Reid,Fouled,Aleksandar Mitrović,Pass (Live)
+13,41,Ruben Loftus-Cheek,Fulham,0.04,,Blocked,27.0,Right Foot,,Ruben Loftus-Cheek,Take-On,Kenny Tete,Pass (Live)
+14,,,,,,,,,,,,,
+15,49,Anwar El Ghazi,Aston Villa,0.03,,Blocked,23.0,Right Foot,,Ollie Watkins,Pass (Live),,
+16,49,Aleksandar Mitrović,Fulham,0.05,0.02,Saved,13.0,Head,,Kenny Tete,Pass (Live),Joachim Andersen,Pass (Live)
+17,53,Bobby Reid,Fulham,0.02,0.23,Saved,30.0,Right Foot,,Mario Lemina,Pass (Live),Harrison Reed,Pass (Live)
+18,61,Aleksandar Mitrović,Fulham,0.26,0.29,Goal,17.0,Left Foot,,Aleksandar Mitrović,Take-On,,
+19,71,John McGinn,Aston Villa,0.02,,Blocked,29.0,Left Foot,,John McGinn,Pass (Live),Ezri Konsa,Pass (Live)
+20,72,Harrison Reed,Fulham,0.03,,Blocked,32.0,Right Foot,,Mario Lemina,Pass (Live),,
+21,72,Harrison Reed,Fulham,0.02,,Off Target,27.0,Right Foot,,Aleksandar Mitrović,Pass (Live),Harrison Reed,Shot
+22,75,Bertrand Traoré,Aston Villa,0.02,0.31,Saved,32.0,Left Foot,,Matty Cash,Pass (Live),Tyrone Mings,Pass (Dead)
+23,76,Trézéguet,Aston Villa,0.06,,Off Target,8.0,Head,,Bertrand Traoré,Pass (Live),Matty Cash,Pass (Live)
+24,78,Trézéguet,Aston Villa,0.06,0.17,Goal,16.0,Left Foot,,Tyrone Mings,Pass (Live),Matt Targett,Pass (Live)
+25,80,Trézéguet,Aston Villa,0.03,,Off Target,19.0,Right Foot,,Trézéguet,Fouled,Matt Targett,Pass (Live)
+26,81,Trézéguet,Aston Villa,0.33,0.62,Goal,8.0,Right Foot,Volley,Keinan Davis,Pass (Live),Keinan Davis,Take-On
+27,87,Ollie Watkins,Aston Villa,0.63,0.94,Goal,5.0,Right Foot,Volley,Bertrand Traoré,Pass (Live),Trézéguet,Pass (Live)
+28,90+1,Josh Onomah,Fulham,0.09,,Off Target,15.0,Left Foot,Volley,Josh Maja,Pass (Live),Kenny Tete,Pass (Live)
+29,90+1,Josh Onomah,Fulham,0.03,0.05,Saved,24.0,Right Foot,Deflected,,,,

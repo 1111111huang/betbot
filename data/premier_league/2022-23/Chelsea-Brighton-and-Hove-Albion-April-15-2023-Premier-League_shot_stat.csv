@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Alexis Mac Allister,Brighton,0.37,,Off Target,4.0,Right Foot,,Kaoru Mitoma,Pass (Live),Robert Sánchez,Pass (Live)
+1,7,Mykhailo Mudryk,Chelsea,0.03,,Off Target,24.0,Right Foot,,,,,
+2,8,Alexis Mac Allister,Brighton,0.13,,Off Target,13.0,Right Foot,,Kaoru Mitoma,Pass (Live),Kaoru Mitoma,Take-On
+3,9,Evan Ferguson,Brighton,0.09,0.22,Saved,21.0,Right Foot,,Moisés Caicedo,Interception,,
+4,13,Conor Gallagher,Chelsea,0.06,0.09,Goal,22.0,Right Foot,Deflected,Mykhailo Mudryk,Pass (Live),Enzo Fernández,Pass (Live)
+5,21,Pervis Estupiñán,Brighton,0.1,0.24,Saved,8.0,Right Foot,,Lewis Dunk,Pass (Live),Joël Veltman,Pass (Dead)
+6,25,Solly March,Brighton,0.03,,Off Target,27.0,Left Foot,,Pervis Estupiñán,Pass (Live),Kaoru Mitoma,Pass (Live)
+7,26,Kaoru Mitoma,Brighton,0.1,0.13,Saved,17.0,Right Foot,,Kaoru Mitoma,Take-On,Alexis Mac Allister,Pass (Live)
+8,29,Kaoru Mitoma,Brighton,0.07,,Off Target,14.0,Right Foot,,Evan Ferguson,Pass (Live),Julio Enciso,Pass (Live)
+9,30,Alexis Mac Allister,Brighton,0.04,,Off Target,24.0,Right Foot,,Alexis Mac Allister,Take-On,Alexis Mac Allister,Take-On
+10,33,Evan Ferguson,Brighton,0.15,0.42,Saved,10.0,Head,,Julio Enciso,Pass (Live),Evan Ferguson,Pass (Live)
+11,42,Danny Welbeck,Brighton,0.3,0.52,Goal,7.0,Head,,Pascal Groß,Pass (Live),Solly March,Pass (Live)
+12,43,Danny Welbeck,Brighton,0.1,,Off Target,9.0,Head,,Pascal Groß,Pass (Live),Solly March,Pass (Live)
+13,45+1,Alexis Mac Allister,Brighton,0.02,,Blocked,29.0,Right Foot,Volley,Pascal Groß,Pass (Live),Moisés Caicedo,Pass (Live)
+14,45+4,Christian Pulisic,Chelsea,0.11,,Woodwork,9.0,Head,,Ben Chilwell,Pass (Live),Conor Gallagher,Pass (Live)
+15,,,,,,,,,,,,,
+16,48,Julio Enciso,Brighton,0.02,0.08,Saved,33.0,Right Foot,,Danny Welbeck,Pass (Live),Adam Webster,Pass (Live)
+17,48,Danny Welbeck,Brighton,0.02,0.04,Saved,26.0,Right Foot,,Julio Enciso,Pass (Live),Moisés Caicedo,Pass (Live)
+18,49,Pervis Estupiñán,Brighton,0.05,,Blocked,11.0,Left Foot,,Danny Welbeck,Pass (Live),Kaoru Mitoma,Pass (Live)
+19,53,Julio Enciso,Brighton,0.08,0.04,Saved,13.0,Left Foot,,Julio Enciso,Take-On,Kaoru Mitoma,Pass (Live)
+20,53,Solly March,Brighton,0.07,,Blocked,11.0,Left Foot,Volley,Julio Enciso,Shot,,
+21,55,Alexis Mac Allister,Brighton,0.02,,Blocked,31.0,Right Foot,,Moisés Caicedo,Pass (Live),Pervis Estupiñán,Pass (Live)
+22,55,Danny Welbeck,Brighton,0.06,,Blocked,17.0,Right Foot,,Kaoru Mitoma,Pass (Live),Danny Welbeck,Pass (Live)
+23,59,Pervis Estupiñán,Brighton,0.02,,Off Target,26.0,Left Foot,,Alexis Mac Allister,Pass (Live),Moisés Caicedo,Pass (Live)
+24,60,Julio Enciso,Brighton,0.15,,Woodwork,10.0,Right Foot,,Solly March,Pass (Live),Moisés Caicedo,Pass (Live)
+25,60,Danny Welbeck,Brighton,0.89,,Off Target,10.0,Left Foot,,Julio Enciso,Shot,,
+26,65,Mykhailo Mudryk,Chelsea,0.1,0.06,Saved,10.0,Right Foot,,Hakim Ziyech,Pass (Live),Reece James,Pass (Live)
+27,66,Ben Chilwell,Chelsea,0.09,,Off Target,10.0,Head,,Hakim Ziyech,Pass (Live),Mykhailo Mudryk,Pass (Live)
+28,66,Mateo Kovačić,Chelsea,0.09,,Blocked,14.0,Right Foot,,Mateo Kovačić,Interception,,
+29,69,Adam Webster,Brighton,0.03,,Off Target,13.0,Head,,Solly March,Pass (Dead),,
+30,69,Julio Enciso,Brighton,0.04,0.34,Goal,31.0,Right Foot,,Solly March,Pass (Live),,
+31,79,Mason Mount,Chelsea,0.05,,Off Target,28.0,Right Foot,,Ben Chilwell,Pass (Dead),Mason Mount,Fouled
+32,90+4,Mykhailo Mudryk,Chelsea,0.02,,Off Target,35.0,Right Foot,,Ben Chilwell,Pass (Live),Benoît Badiashile,Pass (Live)
+33,90+7,Danny Welbeck,Brighton,0.06,,Blocked,14.0,Left Foot,Volley,Solly March,Pass (Dead),,
+34,90+7,Pascal Groß,Brighton,0.09,0.17,Saved,15.0,Left Foot,,Danny Welbeck,Shot,,

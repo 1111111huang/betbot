@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Mason Mount,Chelsea,0.04,0.02,Saved,17.0,Right Foot,,Christian Pulisic,Pass (Live),Ben Chilwell,Pass (Live)
+1,11,Kai Havertz,Chelsea,0.33,,Off Target,18.0,Left Foot,,,,,
+2,13,Martin Ødegaard,Arsenal,0.03,,Blocked,31.0,Left Foot,,Thomas Partey,Pass (Live),Martin Ødegaard,Pass (Live)
+3,16,Emile Smith Rowe,Arsenal,0.49,0.97,Goal,9.0,Left Foot,,Pierre-Emerick Aubameyang,Pass (Live),,
+4,22,Mason Mount,Chelsea,0.13,,Blocked,11.0,Right Foot,Volley,Christian Pulisic,Pass (Live),César Azpilicueta,Pass (Live)
+5,28,Mason Mount,Chelsea,0.06,0.03,Saved,13.0,Left Foot,,Kai Havertz,Pass (Live),Kai Havertz,Take-On
+6,32,Kurt Zouma,Chelsea,0.05,,Blocked,9.0,Head,,Mason Mount,Pass (Dead),Ben Chilwell,Pass (Live)
+7,32,Christian Pulisic,Chelsea,0.11,,Off Target,3.0,Head,,Kurt Zouma,Shot,,
+8,37,Kai Havertz,Chelsea,0.07,,Off Target,7.0,Head,,Mason Mount,Pass (Dead),Ben Chilwell,Take-On
+9,37,Thiago Silva,Chelsea,0.04,,Blocked,12.0,Head,,Kurt Zouma,Pass (Live),Mason Mount,Pass (Dead)
+10,,,,,,,,,,,,,
+11,55,Callum Hudson-Odoi,Chelsea,0.05,,Off Target,22.0,Right Foot,,Reece James,Pass (Live),Kai Havertz,Pass (Live)
+12,61,Kai Havertz,Chelsea,0.1,,Off Target,8.0,Head,,Mason Mount,Pass (Dead),Kepa Arrizabalaga,Pass (Live)
+13,66,Héctor Bellerín,Arsenal,0.06,0.11,Saved,16.0,Right Foot,,Martin Ødegaard,Pass (Live),Héctor Bellerín,Pass (Live)
+14,67,Kurt Zouma,Chelsea,0.02,,Off Target,33.0,Right Foot,,Jorginho,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+15,69,Olivier Giroud,Chelsea,0.04,,Off Target,22.0,Left Foot,,Mason Mount,Pass (Live),,
+16,71,Martin Ødegaard,Arsenal,0.04,,Off Target,17.0,Left Foot,,Kieran Tierney,Pass (Live),Emile Smith Rowe,Pass (Live)
+17,76,Kieran Tierney,Arsenal,0.02,,Blocked,31.0,Left Foot,,Kieran Tierney,Fouled,Emile Smith Rowe,Pass (Live)
+18,81,Olivier Giroud,Chelsea,0.05,,Off Target,14.0,Head,,Reece James,Pass (Live),Christian Pulisic,Pass (Live)
+19,86,Christian Pulisic,Chelsea,0.11,0.2,Saved,12.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Olivier Giroud,Pass (Live)
+20,90,Kurt Zouma,Chelsea,0.04,0.05,Saved,15.0,Head,,Hakim Ziyech,Pass (Live),Thiago Silva,Pass (Live)
+21,90,Olivier Giroud,Chelsea,0.47,,Woodwork,4.0,Right Foot,Volley,Kurt Zouma,Shot,,
+22,90+3,Kurt Zouma,Chelsea,0.03,,Blocked,25.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Kurt Zouma,Pass (Live)
+23,90+6,Hakim Ziyech,Chelsea,0.03,,Blocked,23.0,Left Foot,,Reece James,Pass (Live),Kepa Arrizabalaga,Pass (Live)
+24,90+6,Christian Pulisic,Chelsea,0.04,,Blocked,17.0,Right Foot,,Jorginho,Pass (Live),Hakim Ziyech,Pass (Live)

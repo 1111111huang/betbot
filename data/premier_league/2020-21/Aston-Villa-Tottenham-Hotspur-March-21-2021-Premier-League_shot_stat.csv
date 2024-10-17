@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,Harry Kane,Tottenham,0.03,,Blocked,26.0,Right Foot,,Giovani Lo Celso,Pass (Live),Tanguy Ndombele,Pass (Live)
+1,29.0,Carlos Vinícius,Tottenham,0.67,0.92,Goal,5.0,Right Foot,,Harry Kane,Pass (Live),Lucas Moura,Pass (Live)
+2,36.0,Carlos Vinícius,Tottenham,0.06,,Blocked,17.0,Left Foot,,Sergio Reguilón,Pass (Live),Giovani Lo Celso,Pass (Live)
+3,42.0,Harry Kane,Tottenham,0.11,,Off Target,7.0,Head,,Lucas Moura,Pass (Dead),,
+4,42.0,Tanguy Ndombele,Tottenham,0.02,,Off Target,29.0,Right Foot,Volley,Harry Kane,Shot,,
+5,,,,,,,,,,,,,
+6,48.0,Harry Kane,Tottenham,0.03,,Blocked,25.0,Right Foot,,Lucas Moura,Pass (Live),Sergio Reguilón,Interception
+7,58.0,Trézéguet,Aston Villa,0.12,,Blocked,13.0,Left Foot,,Morgan Sanson,Pass (Live),John McGinn,Pass (Live)
+8,59.0,John McGinn,Aston Villa,0.04,0.12,Saved,24.0,Right Foot,,Matt Targett,Pass (Live),Douglas Luiz,Pass (Live)
+9,61.0,Anwar El Ghazi,Aston Villa,0.02,,Woodwork,30.0,Right Foot,,Matt Targett,Pass (Live),John McGinn,Pass (Live)
+10,68.0,Harry Kane (pen),Tottenham,0.79,0.98,Goal,13.0,Right Foot,,Harry Kane,Fouled,Lucas Moura,Pass (Live)
+11,73.0,Trézéguet,Aston Villa,0.04,,Off Target,22.0,Left Foot,,John McGinn,Pass (Live),John McGinn,Pass (Live)
+12,78.0,Pierre Højbjerg,Tottenham,0.05,0.07,Saved,18.0,Right Foot,,,,,
+13,82.0,Joe Rodon,Tottenham,0.04,,Off Target,10.0,Head,,Lucas Moura,Pass (Dead),Carlos Vinícius,Fouled
+14,84.0,Ross Barkley,Aston Villa,0.09,,Blocked,15.0,Right Foot,,Keinan Davis,Pass (Live),Matt Targett,Pass (Live)
+15,84.0,Keinan Davis,Aston Villa,0.04,,Blocked,16.0,Left Foot,,Keinan Davis,Take-On,Ross Barkley,Pass (Live)
+16,84.0,Ollie Watkins,Aston Villa,0.02,,Blocked,22.0,Right Foot,,Keinan Davis,Shot,,
+17,86.0,Ollie Watkins,Aston Villa,0.05,,Blocked,17.0,Right Foot,,John McGinn,Pass (Live),Matt Targett,Pass (Live)

@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,Rúben Dias,Manchester City,0.66,0.54,Goal,4.0,Head,,João Cancelo,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+1,11.0,João Cancelo,Manchester City,0.01,0.02,Saved,14.0,Right Foot,Volley,Kevin De Bruyne,Pass (Dead),Bernardo Silva,Fouled
+2,12.0,Joelinton,Newcastle Utd,0.03,,Off Target,29.0,Right Foot,,,,,
+3,22.0,Oleksandr Zinchenko,Manchester City,0.04,,Off Target,18.0,Left Foot,,Bernardo Silva,Pass (Live),Bernardo Silva,Take-On
+4,27.0,João Cancelo,Manchester City,0.06,0.26,Goal,22.0,Right Foot,,João Cancelo,Take-On,Riyad Mahrez,Pass (Live)
+5,41.0,Bernardo Silva,Manchester City,0.05,,Off Target,11.0,Head,,Riyad Mahrez,Pass (Dead),Oleksandr Zinchenko,Pass (Live)
+6,43.0,Isaac Hayden,Newcastle Utd,0.17,,Off Target,6.0,Head,,Ryan Fraser,Pass (Dead),,
+7,44.0,Jacob Murphy,Newcastle Utd,0.02,,Off Target,28.0,Left Foot,,Ryan Fraser,Pass (Live),Isaac Hayden,Pass (Live)
+8,45.0,Gabriel Jesus,Manchester City,0.04,,Off Target,16.0,Left Foot,,Kevin De Bruyne,Pass (Live),Raheem Sterling,Pass (Live)
+9,,,,,,,,,,,,,
+10,51.0,Kevin De Bruyne,Manchester City,0.06,,Blocked,18.0,Left Foot,,Gabriel Jesus,Pass (Live),Riyad Mahrez,Pass (Live)
+11,52.0,Gabriel Jesus,Manchester City,0.44,0.93,Saved,4.0,Head,,Bernardo Silva,Pass (Live),João Cancelo,Pass (Live)
+12,53.0,Rodri,Manchester City,0.04,,Blocked,12.0,Head,,Kevin De Bruyne,Pass (Dead),Gabriel Jesus,Shot
+13,53.0,Aymeric Laporte,Manchester City,0.2,,Off Target,6.0,Left Foot,,Rodri,Shot,,
+14,54.0,Gabriel Jesus,Manchester City,0.12,,Blocked,11.0,Right Foot,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+15,55.0,Raheem Sterling,Manchester City,0.02,,Off Target,23.0,Right Foot,Volley,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Dead)
+16,57.0,Raheem Sterling,Manchester City,0.04,0.28,Saved,20.0,Right Foot,,Bernardo Silva,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+17,60.0,João Cancelo,Manchester City,0.11,,Off Target,14.0,Left Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Take-On
+18,64.0,Riyad Mahrez,Manchester City,0.14,0.29,Goal,17.0,Left Foot,Volley,Oleksandr Zinchenko,Pass (Live),Bernardo Silva,Pass (Live)
+19,68.0,Rúben Dias,Manchester City,0.13,,Off Target,9.0,Head,,Riyad Mahrez,Pass (Live),Raheem Sterling,Pass (Live)
+20,70.0,Riyad Mahrez,Manchester City,0.16,,Off Target,9.0,Head,,Gabriel Jesus,Pass (Live),Kevin De Bruyne,Pass (Live)
+21,81.0,Callum Wilson,Newcastle Utd,0.07,0.16,Saved,11.0,Head,,Ryan Fraser,Pass (Live),Allan Saint-Maximin,Fouled
+22,82.0,Allan Saint-Maximin,Newcastle Utd,0.02,,Off Target,26.0,Right Foot,,Jeff Hendrick,Pass (Live),,
+23,86.0,Raheem Sterling,Manchester City,0.74,0.93,Goal,4.0,Left Foot,,Gabriel Jesus,Pass (Live),Gabriel Jesus,Take-On

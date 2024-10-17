@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Callum Robinson,West Brom,0.06,0.48,Goal,15.0,Left Foot,,Matheus Pereira,Pass (Live),,
+1,10,Kai Havertz,Chelsea,0.03,0.06,Saved,27.0,Left Foot,,Mason Mount,Pass (Live),N'Golo Kanté,Pass (Live)
+2,10,Marcos Alonso,Chelsea,0.03,,Blocked,23.0,Left Foot,,Kai Havertz,Shot,,
+3,12,Tammy Abraham,Chelsea,0.31,,Off Target,10.0,Left Foot,,Reece James,Pass (Live),Thiago Silva,Pass (Live)
+4,15,Timo Werner,Chelsea,0.33,,Woodwork,12.0,Right Foot,,Mason Mount,Pass (Live),Mason Mount,Take-On
+5,21,Mason Mount,Chelsea,0.1,0.29,Saved,6.0,Right Foot,Deflected,Reece James,Pass (Live),Mateo Kovačić,Pass (Live)
+6,23,Timo Werner,Chelsea,0.09,0.27,Saved,10.0,Right Foot,Volley,Reece James,Pass (Live),Kai Havertz,Pass (Live)
+7,25,Callum Robinson,West Brom,0.04,0.14,Goal,19.0,Right Foot,,Callum Robinson,Take-On,,
+8,28,Kyle Bartley,West Brom,0.26,0.89,Goal,5.0,Right Foot,,Darnell Furlong,Pass (Live),Grady Diangana,Pass (Dead)
+9,34,Mason Mount,Chelsea,0.04,,Blocked,21.0,Right Foot,,Kai Havertz,Pass (Live),Timo Werner,Pass (Live)
+10,36,Mason Mount,Chelsea,0.03,,Off Target,26.0,Right Foot,,Kai Havertz,Pass (Live),Thiago Silva,Pass (Live)
+11,40,Tammy Abraham,Chelsea,0.07,,Off Target,14.0,Right Foot,,Reece James,Pass (Live),Kai Havertz,Pass (Live)
+12,41,Marcos Alonso,Chelsea,0.06,,Blocked,28.0,Left Foot,Free kick,Mateo Kovačić,Fouled,N'Golo Kanté,Pass (Live)
+13,44,Grady Diangana,West Brom,0.08,,Off Target,19.0,Left Foot,,Romaine Sawyers,Pass (Live),Matheus Pereira,Pass (Live)
+14,45,Grady Diangana,West Brom,0.03,,Blocked,21.0,Left Foot,,Jake Livermore,Pass (Live),,
+15,45+1,Mateo Kovačić,Chelsea,0.03,,Off Target,31.0,Right Foot,,Marcos Alonso,Pass (Live),Kai Havertz,Pass (Live)
+16,,,,,,,,,,,,,
+17,55,Mason Mount,Chelsea,0.02,0.19,Goal,31.0,Right Foot,,César Azpilicueta,Pass (Live),Reece James,Pass (Live)
+18,57,Kai Havertz,Chelsea,0.06,0.39,Saved,19.0,Left Foot,Deflected,Mason Mount,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+19,58,Callum Robinson,West Brom,0.02,,Off Target,35.0,Right Foot,,Callum Robinson,Take-On,Grady Diangana,Pass (Live)
+20,60,Callum Hudson-Odoi,Chelsea,0.03,,Blocked,22.0,Right Foot,,Mason Mount,Pass (Live),Kai Havertz,Pass (Live)
+21,63,Mason Mount,Chelsea,0.06,,Off Target,20.0,Right Foot,,Reece James,Pass (Live),Kai Havertz,Pass (Live)
+22,67,Mason Mount,Chelsea,0.03,,Blocked,24.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Thiago Silva,Pass (Live)
+23,70,Callum Hudson-Odoi,Chelsea,0.08,0.59,Goal,12.0,Right Foot,,Kai Havertz,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+24,75,Romaine Sawyers,West Brom,0.03,,Off Target,26.0,Right Foot,,Hal Robson-Kanu,Pass (Live),Matheus Pereira,Pass (Live)
+25,76,César Azpilicueta,Chelsea,0.03,0.02,Saved,30.0,Right Foot,,Reece James,Pass (Live),Timo Werner,Pass (Live)
+26,78,Hal Robson-Kanu,West Brom,0.04,,Off Target,18.0,Left Foot,,Matheus Pereira,Pass (Live),Kyle Bartley,Pass (Live)
+27,79,Matt Phillips,West Brom,0.02,,Blocked,27.0,Right Foot,,Hal Robson-Kanu,Shot,,
+28,89,Timo Werner,Chelsea,0.03,0.06,Saved,28.0,Right Foot,Deflected,Callum Hudson-Odoi,Pass (Live),César Azpilicueta,Pass (Live)
+29,90+2,Timo Werner,Chelsea,0.04,,Blocked,15.0,Right Foot,Volley,Reece James,Pass (Live),Timo Werner,Pass (Live)
+30,90+3,Mason Mount,Chelsea,0.04,0.09,Saved,13.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Olivier Giroud,Pass (Live)
+31,90+3,Tammy Abraham,Chelsea,0.54,0.56,Goal,4.0,Left Foot,,Mason Mount,Shot,,

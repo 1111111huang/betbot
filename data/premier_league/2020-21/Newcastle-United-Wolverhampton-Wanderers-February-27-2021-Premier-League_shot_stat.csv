@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Isaac Hayden,Newcastle Utd,0.09,0.03,Saved,11.0,Head,,Joe Willock,Pass (Live),Jonjo Shelvey,Pass (Dead)
+1,12,Miguel Almirón,Newcastle Utd,0.24,,Woodwork,12.0,Left Foot,,Jonjo Shelvey,Pass (Live),Joe Willock,Pass (Live)
+2,16,Pedro Neto,Wolves,0.04,,Blocked,15.0,Left Foot,,Adama Traoré,Pass (Live),João Moutinho,Pass (Live)
+3,16,Rúben Neves,Wolves,0.02,,Off Target,30.0,Right Foot,Volley,João Moutinho,Pass (Live),Pedro Neto,Pass (Live)
+4,21,Emil Krafth,Newcastle Utd,0.02,0.25,Saved,29.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Miguel Almirón,Pass (Live)
+5,22,Jamal Lewis,Newcastle Utd,0.04,,Blocked,17.0,Right Foot,Volley,Allan Saint-Maximin,Pass (Live),Jamal Lewis,Pass (Live)
+6,22,Joelinton,Newcastle Utd,0.04,0.32,Saved,17.0,Left Foot,,Miguel Almirón,Pass (Live),Jonjo Shelvey,Pass (Live)
+7,24,Joe Willock,Newcastle Utd,0.36,0.61,Saved,11.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Allan Saint-Maximin,Take-On
+8,26,Allan Saint-Maximin,Newcastle Utd,0.04,,Off Target,23.0,Right Foot,,Allan Saint-Maximin,Take-On,Joe Willock,Pass (Live)
+9,28,Miguel Almirón,Newcastle Utd,0.07,,Blocked,17.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Miguel Almirón,Pass (Live)
+10,31,Adama Traoré,Wolves,0.06,0.18,Saved,6.0,Head,,Rúben Neves,Pass (Live),Pedro Neto,Pass (Live)
+11,34,Pedro Neto,Wolves,0.34,,Off Target,14.0,Left Foot,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+12,41,Pedro Neto,Wolves,0.04,,Off Target,11.0,Right Foot,Volley,Adama Traoré,Pass (Live),Willian José,Pass (Live)
+13,44,Pedro Neto,Wolves,0.04,0.06,Saved,35.0,Left Foot,Free kick,João Moutinho,Pass (Dead),Adama Traoré,Fouled
+14,45+2,Adama Traoré,Wolves,0.03,,Off Target,25.0,Right Foot,,Adama Traoré,Take-On,Pedro Neto,Pass (Live)
+15,,,,,,,,,,,,,
+16,48,Adama Traoré,Wolves,0.03,,Blocked,26.0,Right Foot,,Adama Traoré,Take-On,Jonny Castro,Pass (Live)
+17,49,Ryan Fraser,Newcastle Utd,0.03,,Blocked,26.0,Left Foot,Deflected,Joelinton,Pass (Live),Joe Willock,Pass (Live)
+18,49,Isaac Hayden,Newcastle Utd,0.03,,Off Target,29.0,Right Foot,Volley,Ryan Fraser,Shot,,
+19,50,Rúben Neves,Wolves,0.03,,Off Target,24.0,Right Foot,,Rúben Neves,Take-On,Adama Traoré,Pass (Live)
+20,51,Allan Saint-Maximin,Newcastle Utd,0.03,,Blocked,25.0,Right Foot,,Joelinton,Pass (Live),Ryan Fraser,Pass (Live)
+21,52,Jamaal Lascelles,Newcastle Utd,0.09,0.25,Goal,8.0,Head,,Ryan Fraser,Pass (Live),Allan Saint-Maximin,Take-On
+22,55,Jonjo Shelvey,Newcastle Utd,0.04,,Off Target,20.0,Right Foot,,Ryan Fraser,Pass (Dead),Joe Willock,Fouled
+23,60,Pedro Neto,Wolves,0.03,,Off Target,24.0,Left Foot,,Rúben Neves,Pass (Live),João Moutinho,Pass (Live)
+24,67,Rúben Neves,Wolves,0.05,,Blocked,29.0,Right Foot,Volley,Willian José,Pass (Live),Adama Traoré,Take-On
+25,72,Joelinton,Newcastle Utd,0.04,0.01,Saved,19.0,Left Foot,Volley,Jonjo Shelvey,Pass (Live),Matt Ritchie,Pass (Live)
+26,73,Rúben Neves,Wolves,0.08,0.26,Goal,9.0,Head,,Pedro Neto,Pass (Live),Nélson Semedo,Pass (Live)
+27,78,Ciaran Clark,Newcastle Utd,0.06,,Off Target,10.0,Head,,Jonjo Shelvey,Pass (Dead),Jacob Murphy,Fouled
+28,81,Joelinton,Newcastle Utd,0.34,,Blocked,14.0,Right Foot,Deflected,Jacob Murphy,Pass (Live),Jacob Murphy,Take-On
+29,82,Matt Ritchie,Newcastle Utd,0.02,,Off Target,18.0,Right Foot,Volley,Joelinton,Shot,,
+30,86,Jonjo Shelvey,Newcastle Utd,0.04,,Blocked,24.0,Left Foot,,Ryan Fraser,Pass (Live),Jacob Murphy,Pass (Live)
+31,89,Jacob Murphy,Newcastle Utd,0.07,,Blocked,30.0,Right Foot,Free kick,Jonjo Shelvey,Fouled,Jonjo Shelvey,Shot
+32,90,Jonny Castro,Wolves,0.05,,Off Target,15.0,Right Foot,,Romain Saïss,Pass (Live),Jonny Castro,Pass (Live)
+33,90+2,Fábio Silva,Wolves,0.28,0.18,Saved,4.0,Head,,Pedro Neto,Pass (Live),Leander Dendoncker,Pass (Live)

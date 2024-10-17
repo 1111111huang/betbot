@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Diogo Jota,Liverpool,0.08,,Blocked,12.0,Right Foot,,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+1,6,Boubakary Soumaré,Leicester City,0.04,,Off Target,28.0,Right Foot,,James Maddison,Pass (Live),Kelechi Iheanacho,Pass (Live)
+2,7,Sadio Mané,Liverpool,0.04,,Blocked,25.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Fabinho,Tackle
+3,8,Jordan Henderson,Liverpool,0.01,,Off Target,29.0,Right Foot,Volley,Joël Matip,Pass (Live),,
+4,11,Joël Matip,Liverpool,0.03,,Off Target,12.0,Head,,Kostas Tsimikas,Pass (Dead),,
+5,16,Mohamed Salah (pen),Liverpool,0.79,0.94,Saved,13.0,Left Foot,,Mohamed Salah,Fouled,Jordan Henderson,Pass (Live)
+6,16,Mohamed Salah,Liverpool,0.65,,Woodwork,8.0,Head,,Mohamed Salah,Shot,,
+7,16,Mohamed Salah,Liverpool,0.47,,Off Target,4.0,Right Foot,Volley,Mohamed Salah,Shot,,
+8,27,Jordan Henderson,Liverpool,0.01,,Off Target,27.0,Right Foot,Volley,Jordan Henderson,Fouled,,
+9,29,Jamie Vardy,Leicester City,0.05,,Blocked,17.0,Left Foot,,Kelechi Iheanacho,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+10,32,Mohamed Salah,Liverpool,0.09,0.12,Saved,8.0,Left Foot,,,,,
+11,35,Jamie Vardy,Leicester City,0.12,,Blocked,9.0,Right Foot,,Timothy Castagne,Pass (Live),Jamie Vardy,Pass (Live)
+12,37,Kelechi Iheanacho,Leicester City,0.03,,Blocked,14.0,Left Foot,,Luke Thomas,Pass (Live),Daniel Amartey,Pass (Live)
+13,38,James Maddison,Leicester City,0.09,,Off Target,8.0,Right Foot,,Jamie Vardy,Pass (Live),Wilfred Ndidi,Pass (Live)
+14,43,Jordan Henderson,Liverpool,0.03,,Off Target,17.0,Right Foot,Volley,Mohamed Salah,Pass (Live),Fabinho,Pass (Live)
+15,45+1,Diogo Jota,Liverpool,0.1,,Off Target,13.0,Right Foot,Volley,Alex Oxlade-Chamberlain,Pass (Live),Sadio Mané,Pass (Live)
+16,,,,,,,,,,,,,
+17,55,Sadio Mané,Liverpool,0.36,,Off Target,14.0,Right Foot,,Diogo Jota,Pass (Live),Alex Oxlade-Chamberlain,Pass (Live)
+18,57,Sadio Mané,Liverpool,0.04,0.18,Saved,26.0,Right Foot,,Fabinho,Pass (Live),Naby Keïta,Pass (Live)
+19,59,Ademola Lookman,Leicester City,0.1,0.14,Goal,13.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Ademola Lookman,Pass (Live)
+20,81,Mohamed Salah,Liverpool,0.02,,Off Target,16.0,Left Foot,Volley,Trent Alexander-Arnold,Pass (Dead),Sadio Mané,Fouled
+21,82,Diogo Jota,Liverpool,0.13,,Off Target,8.0,Head,,Kostas Tsimikas,Pass (Dead),,
+22,86,Joël Matip,Liverpool,0.01,,Blocked,12.0,Head,,James Milner,Pass (Live),,
+23,86,Virgil van Dijk,Liverpool,0.02,0.27,Saved,13.0,Left Foot,,Joël Matip,Shot,,
+24,88,Sadio Mané,Liverpool,0.1,,Off Target,9.0,Head,,Kostas Tsimikas,Pass (Dead),Mohamed Salah,Pass (Live)
+25,90,Naby Keïta,Liverpool,0.11,,Blocked,17.0,Right Foot,,Roberto Firmino,Pass (Live),Naby Keïta,Pass (Live)
+26,90+4,Sadio Mané,Liverpool,0.07,,Blocked,11.0,Left Foot,,Naby Keïta,Pass (Live),Virgil van Dijk,Pass (Live)
+27,90+4,Joël Matip,Liverpool,0.11,,Off Target,6.0,Head,,Trent Alexander-Arnold,Pass (Dead),Sadio Mané,Shot

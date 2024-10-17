@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Mason Mount,Chelsea,0.02,,Blocked,24.0,Right Foot,,Marcos Alonso,Pass (Live),Jorginho,Fouled
+1,5,Reece James,Chelsea,0.04,0.04,Saved,26.0,Right Foot,,Marcos Alonso,Pass (Live),Kai Havertz,Pass (Live)
+2,6,Timo Werner,Chelsea,0.05,0.17,Saved,11.0,Right Foot,,Reece James,Pass (Live),Thiago Silva,Pass (Live)
+3,8,Reece James,Chelsea,0.05,,Blocked,16.0,Right Foot,,Mason Mount,Pass (Live),N'Golo Kanté,Pass (Live)
+4,10,Bruno Fernandes,Manchester Utd,0.05,0.03,Saved,13.0,Head,,Alex Telles,Pass (Live),Scott McTominay,Pass (Live)
+5,13,Cristiano Ronaldo,Manchester Utd,0.08,,Off Target,9.0,Right Foot,Volley,Raphaël Varane,Pass (Live),Nemanja Matić,Pass (Live)
+6,14,Cristiano Ronaldo,Manchester Utd,0.01,,Blocked,34.0,Right Foot,,Nemanja Matić,Pass (Live),Cristiano Ronaldo,Pass (Live)
+7,18,Antonio Rüdiger,Chelsea,0.01,,Blocked,34.0,Right Foot,,Kai Havertz,Pass (Live),Marcos Alonso,Pass (Live)
+8,19,N'Golo Kanté,Chelsea,0.14,0.06,Saved,17.0,Right Foot,,Jorginho,Pass (Live),Reece James,Pass (Live)
+9,27,Kai Havertz,Chelsea,0.06,,Off Target,15.0,Right Foot,,N'Golo Kanté,Pass (Live),Jorginho,Pass (Live)
+10,28,Kai Havertz,Chelsea,0.38,0.24,Saved,14.0,Left Foot,,N'Golo Kanté,Pass (Live),Jorginho,Pass (Live)
+11,29,Antonio Rüdiger,Chelsea,0.05,,Off Target,16.0,Left Foot,Volley,Kai Havertz,Shot,,
+12,36,Kai Havertz,Chelsea,0.41,0.54,Saved,5.0,Head,,Reece James,Pass (Live),Jorginho,Pass (Live)
+13,39,Antonio Rüdiger,Chelsea,0.02,,Off Target,35.0,Right Foot,,N'Golo Kanté,Pass (Live),Reece James,Pass (Live)
+14,,,,,,,,,,,,,
+15,46,Mason Mount,Chelsea,0.04,,Off Target,21.0,Left Foot,,Kai Havertz,Pass (Live),Reece James,Pass (Live)
+16,59,Kai Havertz,Chelsea,0.1,,Off Target,10.0,Head,,Mason Mount,Pass (Live),Marcos Alonso,Pass (Dead)
+17,60,Kai Havertz,Chelsea,0.07,,Off Target,12.0,Other,,Reece James,Pass (Live),César Azpilicueta,Pass (Live)
+18,60,Marcos Alonso,Chelsea,0.14,0.67,Goal,11.0,Left Foot,Volley,Kai Havertz,Shot,,
+19,62,Cristiano Ronaldo,Manchester Utd,0.29,0.32,Goal,10.0,Right Foot,Volley,Nemanja Matić,Pass (Live),Victor Lindelöf,Interception
+20,64,Mason Mount,Chelsea,0.05,,Blocked,11.0,Right Foot,,Kai Havertz,Pass (Live),Jorginho,Pass (Live)
+21,64,Jorginho,Chelsea,0.01,,Off Target,30.0,Right Foot,Volley,Mason Mount,Shot,,
+22,80,Reece James,Chelsea,0.09,,Woodwork,18.0,Left Foot,,Mason Mount,Pass (Live),N'Golo Kanté,Pass (Live)
+23,81,Marcos Alonso,Chelsea,0.04,,Blocked,16.0,Left Foot,,Mason Mount,Pass (Live),Christian Pulisic,Pass (Live)
+24,81,Reece James,Chelsea,0.05,,Blocked,14.0,Right Foot,,Marcos Alonso,Shot,,
+25,82,Antonio Rüdiger,Chelsea,0.09,,Off Target,10.0,Head,,Marcos Alonso,Pass (Dead),Reece James,Shot
+26,90+1,Anthony Elanga,Manchester Utd,0.02,,Blocked,23.0,Left Foot,,Bruno Fernandes,Fouled,Alex Telles,Pass (Live)
+27,90+3,Victor Lindelöf,Manchester Utd,0.09,0.02,Saved,7.0,Head,,Alex Telles,Pass (Dead),Juan Mata,Pass (Live)

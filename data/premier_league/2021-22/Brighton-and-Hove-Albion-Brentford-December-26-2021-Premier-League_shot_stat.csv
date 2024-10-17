@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Alexis Mac Allister,Brighton,0.03,,Blocked,20.0,Right Foot,,Adam Lallana,Pass (Live),,
+1,3,Pontus Jansson,Brentford,0.06,,Blocked,12.0,Right Foot,Volley,Ivan Toney,Pass (Live),,
+2,8,Shandon Baptiste,Brentford,0.05,,Blocked,28.0,Right Foot,,Ivan Toney,Pass (Live),,
+3,10,Ivan Toney,Brentford,0.03,,Off Target,15.0,Right Foot,,Mathias Jensen,Pass (Live),,
+4,10,Shandon Baptiste,Brentford,0.07,,Blocked,11.0,Right Foot,Volley,Ivan Toney,Shot,,
+5,13,Bryan Mbeumo,Brentford,0.02,,Off Target,15.0,Head,,Mads Bech Sørensen,Pass (Live),Dominic Thompson,Pass (Dead)
+6,17,Dan Burn,Brighton,0.03,,Blocked,11.0,Head,,Alexis Mac Allister,Pass (Dead),,
+7,27,Enock Mwepu,Brighton,0.08,,Off Target,13.0,Right Foot,,Neal Maupay,Pass (Live),Jakub Moder,Pass (Live)
+8,35,Leandro Trossard,Brighton,0.19,0.35,Goal,23.0,Right Foot,Volley,Enock Mwepu,Pass (Live),Neal Maupay,Pass (Live)
+9,39,Alexis Mac Allister,Brighton,0.05,,Off Target,26.0,Right Foot,Free kick,Neal Maupay,Fouled,Adam Webster,Pass (Live)
+10,40,Alexis Mac Allister,Brighton,0.04,,Off Target,24.0,Right Foot,Volley,Enock Mwepu,Take-On,Tariq Lamptey,Interception
+11,42,Neal Maupay,Brighton,0.05,0.55,Goal,20.0,Right Foot,,Jakub Moder,Pass (Live),Adam Lallana,Pass (Live)
+12,45+1,Leandro Trossard,Brighton,0.07,0.13,Saved,29.0,Right Foot,Free kick,Alexis Mac Allister,Fouled,Leandro Trossard,Pass (Live)
+13,45+3,Sergi Canós,Brentford,0.01,,Off Target,17.0,Right Foot,,Shandon Baptiste,Pass (Live),Ethan Pinnock,Pass (Dead)
+14,,,,,,,,,,,,,
+15,50,Dominic Thompson,Brentford,0.06,,Off Target,15.0,Right Foot,Volley,Frank Onyeka,Pass (Live),Christian Nørgaard,Pass (Live)
+16,51,Pontus Jansson,Brentford,0.01,0.17,Saved,15.0,Head,,Sergi Canós,Pass (Dead),,
+17,54,Neal Maupay,Brighton,0.05,,Off Target,10.0,Left Foot,,Neal Maupay,Take-On,Marc Cucurella,Pass (Live)
+18,57,Jakub Moder,Brighton,0.05,,Blocked,26.0,Right Foot,Free kick,Alexis Mac Allister,Fouled,Marc Cucurella,Pass (Live)
+19,58,Sergi Canós,Brentford,0.03,,Off Target,18.0,Right Foot,,Sergi Canós,Take-On,Christian Nørgaard,Pass (Live)
+20,60,Shandon Baptiste,Brentford,0.05,0.02,Saved,24.0,Right Foot,Deflected,Yoane Wissa,Pass (Live),Ivan Toney,Pass (Live)
+21,61,Ethan Pinnock,Brentford,0.02,0.28,Saved,12.0,Head,,Sergi Canós,Pass (Live),Frank Onyeka,Pass (Live)
+22,66,Alexis Mac Allister,Brighton,0.02,,Off Target,28.0,Right Foot,,,,,
+23,68,Ethan Pinnock,Brentford,0.04,,Blocked,10.0,Head,,Christian Nørgaard,Pass (Live),Mads Bech Sørensen,Pass (Dead)
+24,74,Adam Lallana,Brighton,0.03,,Off Target,27.0,Right Foot,,Jakub Moder,Pass (Live),Adam Lallana,Pass (Live)
+25,78,Danny Welbeck,Brighton,0.02,0.05,Saved,25.0,Right Foot,,Jakub Moder,Pass (Live),Adam Lallana,Pass (Live)
+26,79,Ivan Toney,Brentford,0.02,,Blocked,18.0,Right Foot,,Christian Nørgaard,Pass (Live),,
+27,81,Shandon Baptiste,Brentford,0.13,0.02,Saved,21.0,Right Foot,,Shandon Baptiste,Take-On,Shandon Baptiste,Take-On
+28,88,Steven Alzate,Brighton,0.07,0.14,Saved,16.0,Right Foot,,Neal Maupay,Pass (Live),Danny Welbeck,Pass (Live)
+29,89,Sergi Canós,Brentford,0.08,0.12,Saved,12.0,Right Foot,,Ivan Toney,Pass (Live),Christian Nørgaard,Pass (Live)
+30,89,Yoane Wissa,Brentford,0.01,,Off Target,30.0,Right Foot,,Frank Onyeka,Pass (Live),Saman Ghoddos,Pass (Live)
+31,90+3,Pascal Groß,Brighton,0.03,,Off Target,28.0,Right Foot,,Marc Cucurella,Pass (Live),Marc Cucurella,Pass (Live)

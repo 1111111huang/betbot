@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Leon Bailey,Aston Villa,0.1,,Off Target,15.0,Left Foot,,Ollie Watkins,Pass (Live),Lucas Digne,Pass (Live)
+1,4,Rodri,Manchester City,0.07,0.16,Goal,6.0,Head,,Riyad Mahrez,Pass (Dead),Rúben Dias,Pass (Live)
+2,11,İlkay Gündoğan,Manchester City,0.53,0.88,Saved,15.0,Left Foot,,Rodri,Pass (Live),Kevin De Bruyne,Pass (Live)
+3,20,Jack Grealish,Manchester City,0.03,,Blocked,21.0,Right Foot,Volley,Kevin De Bruyne,Pass (Dead),Kyle Walker,Pass (Live)
+4,21,Rúben Dias,Manchester City,0.06,,Off Target,9.0,Head,,Riyad Mahrez,Pass (Dead),Jack Grealish,Shot
+5,21,Erling Haaland,Manchester City,0.16,,Off Target,7.0,Left Foot,,Rúben Dias,Shot,,
+6,23,Leon Bailey,Aston Villa,0.03,,Blocked,27.0,Left Foot,,Douglas Luiz,Pass (Live),Ollie Watkins,Pass (Live)
+7,27,Bernardo Silva,Manchester City,0.03,,Blocked,14.0,Left Foot,Volley,İlkay Gündoğan,Fouled,Kyle Walker,Pass (Live)
+8,29,Jack Grealish,Manchester City,0.05,0.34,Saved,15.0,Right Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Take-On
+9,38,Rodri,Manchester City,0.04,,Blocked,13.0,Head,,Kevin De Bruyne,Pass (Dead),Riyad Mahrez,Fouled
+10,39,İlkay Gündoğan,Manchester City,0.65,0.28,Goal,4.0,Left Foot,,Erling Haaland,Pass (Live),,
+11,42,Riyad Mahrez,Manchester City,0.03,,Blocked,34.0,Left Foot,Free kick,Kevin De Bruyne,Fouled,İlkay Gündoğan,Pass (Live)
+12,45+1,Riyad Mahrez (pen),Manchester City,0.79,0.97,Goal,13.0,Left Foot,,Jack Grealish,Fouled,Bernardo Silva,Pass (Live)
+13,,,,,,,,,,,,,
+14,48,Rodri,Manchester City,0.16,0.1,Saved,17.0,Left Foot,,Julián Álvarez,Pass (Live),Jack Grealish,Pass (Live)
+15,58,Julián Álvarez,Manchester City,0.11,,Blocked,13.0,Right Foot,Volley,Rodri,Pass (Live),Rodri,Take-On
+16,61,Ollie Watkins,Aston Villa,0.08,0.2,Goal,15.0,Right Foot,,Douglas Luiz,Pass (Live),Douglas Luiz,Tackle
+17,66,Julián Álvarez,Manchester City,0.13,,Blocked,5.0,Head,,Jack Grealish,Pass (Live),İlkay Gündoğan,Pass (Live)
+18,68,İlkay Gündoğan,Manchester City,0.05,0.26,Saved,25.0,Right Foot,,Rodri,Pass (Live),Aymeric Laporte,Pass (Live)
+19,72,İlkay Gündoğan,Manchester City,0.04,0.05,Saved,27.0,Right Foot,,Rodri,Pass (Live),Riyad Mahrez,Pass (Live)
+20,79,Jhon Durán,Aston Villa,0.01,,Blocked,35.0,Left Foot,,Álex Moreno,Pass (Live),Douglas Luiz,Pass (Live)
+21,81,Philippe Coutinho,Aston Villa,0.02,0.22,Saved,29.0,Right Foot,,Ollie Watkins,Pass (Live),Ollie Watkins,Pass (Live)
+22,84,Riyad Mahrez,Manchester City,0.42,,Off Target,10.0,Left Foot,,Julián Álvarez,Pass (Live),Kevin De Bruyne,Pass (Live)
+23,90+2,Jhon Durán,Aston Villa,0.04,,Woodwork,16.0,Left Foot,Volley,Ollie Watkins,Pass (Live),Emiliano Martínez,Pass (Dead)

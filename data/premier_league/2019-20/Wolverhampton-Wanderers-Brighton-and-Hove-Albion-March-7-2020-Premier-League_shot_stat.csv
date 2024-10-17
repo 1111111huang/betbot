@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Rúben Neves,Wolves,0.03,,Off Target,29.0,Right Foot,,,,,
+1,8,Raúl Jiménez,Wolves,0.06,,Off Target,20.0,Right Foot,,Rúben Neves,Pass (Live),Rúben Neves,Tackle
+2,18,Davy Pröpper,Brighton,0.03,0.01,Saved,25.0,Left Foot,,,,,
+3,20,Diogo Jota,Wolves,0.05,,Blocked,16.0,Left Foot,,Matt Doherty,Pass (Live),João Moutinho,Pass (Live)
+4,29,Raúl Jiménez,Wolves,0.04,,Off Target,27.0,Right Foot,Volley,Leander Dendoncker,Pass (Live),Conor Coady,Pass (Live)
+5,33,Raúl Jiménez,Wolves,0.22,,Off Target,14.0,Right Foot,Volley,,,,
+6,35,Rúben Neves,Wolves,0.09,,Off Target,22.0,Right Foot,,Diogo Jota,Pass (Live),Rúben Vinagre,Pass (Live)
+7,37,Solly March,Brighton,0.07,,Blocked,18.0,Left Foot,,Solly March,Take-On,Leandro Trossard,Pass (Live)
+8,,,,,,,,,,,,,
+9,57,Rúben Neves,Wolves,0.03,,Blocked,28.0,Right Foot,,Raúl Jiménez,Pass (Live),Matt Doherty,Pass (Live)
+10,58,Yves Bissouma,Brighton,0.03,,Off Target,25.0,Right Foot,,Solly March,Pass (Live),Neal Maupay,Pass (Live)
+11,61,João Moutinho,Wolves,0.03,,Off Target,30.0,Right Foot,Volley,Raúl Jiménez,Pass (Live),Diogo Jota,Pass (Live)
+12,66,Solly March,Brighton,0.08,,Off Target,15.0,Left Foot,,Leandro Trossard,Pass (Live),Davy Pröpper,Pass (Live)
+13,73,Yves Bissouma,Brighton,0.02,,Off Target,32.0,Right Foot,,Leandro Trossard,Pass (Live),Aaron Mooy,Pass (Live)
+14,76,Daniel Podence,Wolves,0.1,,Blocked,11.0,Right Foot,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+15,76,Raúl Jiménez,Wolves,0.07,0.03,Saved,15.0,Right Foot,Deflected,Daniel Podence,Shot,,
+16,80,Yves Bissouma,Brighton,0.03,,Off Target,26.0,Left Foot,,Aaron Mooy,Pass (Live),Yves Bissouma,Pass (Live)
+17,84,Alexis Mac Allister,Brighton,0.02,,Blocked,27.0,Right Foot,,Neal Maupay,Pass (Live),Alexis Mac Allister,Pass (Live)
+18,90+1,Leander Dendoncker,Wolves,0.07,,Off Target,15.0,Right Foot,,Matt Doherty,Pass (Live),Daniel Podence,Pass (Live)

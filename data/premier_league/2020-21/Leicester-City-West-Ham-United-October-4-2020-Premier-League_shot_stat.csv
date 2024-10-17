@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9.0,Nampalys Mendy,Leicester City,0.02,,Blocked,33.0,Right Foot,,Youri Tielemans,Pass (Live),Timothy Castagne,Pass (Live)
+1,14.0,Michail Antonio,West Ham,0.25,0.76,Goal,6.0,Head,,Aaron Cresswell,Pass (Live),Michail Antonio,Pass (Dead)
+2,31.0,Jarrod Bowen,West Ham,0.04,,Blocked,21.0,Right Foot,,Michail Antonio,Pass (Live),Aaron Cresswell,Pass (Live)
+3,32.0,Jarrod Bowen,West Ham,0.07,,Blocked,16.0,Left Foot,,Pablo Fornals,Pass (Live),Declan Rice,Pass (Live)
+4,33.0,Tomáš Souček,West Ham,0.05,,Off Target,13.0,Head,,Vladimír Coufal,Pass (Live),Arthur Masuaku,Pass (Live)
+5,34.0,Pablo Fornals,West Ham,0.26,0.59,Goal,10.0,Left Foot,,Aaron Cresswell,Pass (Live),Arthur Masuaku,Pass (Live)
+6,,,,,,,,,,,,,
+7,46.0,Harvey Barnes,Leicester City,0.06,,Off Target,16.0,Right Foot,Volley,,,,
+8,50.0,Michail Antonio,West Ham,0.05,0.26,Saved,12.0,Head,,Vladimír Coufal,Pass (Live),Pablo Fornals,Pass (Live)
+9,52.0,Fabián Balbuena,West Ham,0.07,,Off Target,12.0,Head,,Aaron Cresswell,Pass (Dead),Michail Antonio,Fouled
+10,57.0,Pablo Fornals,West Ham,0.13,,Blocked,11.0,Right Foot,,Michail Antonio,Pass (Live),Vladimír Coufal,Pass (Live)
+11,61.0,Michail Antonio,West Ham,0.05,0.03,Saved,16.0,Right Foot,,Declan Rice,Pass (Live),Jarrod Bowen,Pass (Live)
+12,66.0,Fabián Balbuena,West Ham,0.06,,Off Target,10.0,Head,,Aaron Cresswell,Pass (Dead),Michail Antonio,Fouled
+13,69.0,Arthur Masuaku,West Ham,0.03,0.08,Saved,27.0,Left Foot,Volley,,,,
+14,71.0,Kelechi Iheanacho,Leicester City,0.07,,Blocked,8.0,Left Foot,,Timothy Castagne,Pass (Dead),Nampalys Mendy,Pass (Live)
+15,72.0,Declan Rice,West Ham,0.09,,Woodwork,12.0,Left Foot,,Pablo Fornals,Pass (Live),Tomáš Souček,Interception
+16,73.0,Tomáš Souček,West Ham,0.32,,Off Target,4.0,Head,,Jarrod Bowen,Pass (Dead),Declan Rice,Shot
+17,83.0,Jarrod Bowen,West Ham,0.54,0.93,Goal,15.0,Left Foot,,Pablo Fornals,Pass (Live),Declan Rice,Pass (Live)
+18,90.0,Jamie Vardy,Leicester City,0.41,,Off Target,16.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Timothy Castagne,Pass (Live)

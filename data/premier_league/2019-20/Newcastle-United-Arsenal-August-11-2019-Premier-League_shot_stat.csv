@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,17.0,Joelinton,Newcastle Utd,0.07,,Off Target,8.0,Head,,Miguel Almirón,Pass (Live),Isaac Hayden,Pass (Live)
+1,20.0,Jonjo Shelvey,Newcastle Utd,0.04,,Blocked,19.0,Right Foot,Volley,Matt Ritchie,Pass (Dead),Miguel Almirón,Take-On
+2,22.0,Jonjo Shelvey,Newcastle Utd,0.03,,Blocked,23.0,Right Foot,Volley,Jamaal Lascelles,Pass (Live),Paul Dummett,Pass (Live)
+3,23.0,Henrikh Mkhitaryan,Arsenal,0.25,,Off Target,14.0,Left Foot,,Nacho Monreal,Pass (Live),Granit Xhaka,Pass (Live)
+4,26.0,Joelinton,Newcastle Utd,0.1,0.05,Saved,16.0,Left Foot,,Joelinton,Take-On,Joelinton,Take-On
+5,30.0,Granit Xhaka,Arsenal,0.02,,Off Target,21.0,Head,,Reiss Nelson,Pass (Dead),Joe Willock,Fouled
+6,31.0,Pierre-Emerick Aubameyang,Arsenal,0.14,0.14,Saved,12.0,Left Foot,Volley,Henrikh Mkhitaryan,Pass (Live),Reiss Nelson,Pass (Live)
+7,39.0,Miguel Almirón,Newcastle Utd,0.02,,Off Target,32.0,Left Foot,,Javier Manquillo,Pass (Live),Fabian Schär,Pass (Live)
+8,,,,,,,,,,,,,
+9,52.0,Pierre-Emerick Aubameyang,Arsenal,0.04,,Blocked,13.0,Left Foot,,Granit Xhaka,Pass (Live),Reiss Nelson,Pass (Live)
+10,52.0,Granit Xhaka,Arsenal,0.04,,Off Target,8.0,Head,,Reiss Nelson,Pass (Dead),Pierre-Emerick Aubameyang,Shot
+11,55.0,Pierre-Emerick Aubameyang,Arsenal,0.06,,Blocked,16.0,Right Foot,,Mattéo Guendouzi,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+12,58.0,Pierre-Emerick Aubameyang,Arsenal,0.49,0.72,Goal,11.0,Right Foot,,Ainsley Maitland-Niles,Pass (Live),Ainsley Maitland-Niles,Interception
+13,60.0,Joe Willock,Arsenal,0.04,,Off Target,16.0,Left Foot,,Granit Xhaka,Pass (Live),,
+14,68.0,Miguel Almirón,Newcastle Utd,0.05,,Blocked,15.0,Left Foot,,Matt Ritchie,Pass (Dead),Isaac Hayden,Pass (Live)
+15,84.0,Allan Saint-Maximin,Newcastle Utd,0.03,0.33,Saved,22.0,Right Foot,Deflected,Jetro Willems,Pass (Live),Joelinton,Pass (Live)
+16,86.0,Fabian Schär,Newcastle Utd,0.02,,Off Target,36.0,Right Foot,,Matt Ritchie,Pass (Live),Isaac Hayden,Pass (Live)
+17,89.0,Joelinton,Newcastle Utd,0.03,,Off Target,25.0,Left Foot,,Miguel Almirón,Pass (Live),Allan Saint-Maximin,Pass (Live)

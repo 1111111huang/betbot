@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Amadou Onana,Everton,0.02,,Off Target,39.0,Right Foot,,Dominic Calvert-Lewin,Pass (Live),,
+1,8,Hwang Hee-chan,Wolves,0.1,,Off Target,11.0,Head,,Nélson Semedo,Pass (Live),Max Kilman,Pass (Live)
+2,14,Matheus Cunha,Wolves,0.02,,Off Target,34.0,Right Foot,,Tommy Doyle,Pass (Live),João Gomes,Pass (Live)
+3,21,Dwight McNeil,Everton,0.02,,Off Target,29.0,Left Foot,,Dominic Calvert-Lewin,Pass (Live),Nathan Patterson,Pass (Live)
+4,24,Matheus Cunha,Wolves,0.03,,Blocked,8.0,Head,,Pablo Sarabia,Pass (Dead),Matheus Cunha,Pass (Live)
+5,25,Max Kilman,Wolves,0.3,0.87,Goal,2.0,Left Foot,Deflected,Pablo Sarabia,Pass (Live),Tommy Doyle,Pass (Live)
+6,27,Dominic Calvert-Lewin,Everton,0.07,,Off Target,7.0,Right Foot,,Dwight McNeil,Pass (Live),Jack Harrison,Pass (Live)
+7,45+3,Michael Keane,Everton,0.05,,Blocked,10.0,Head,,James Tarkowski,Pass (Live),James Garner,Pass (Dead)
+8,,,,,,,,,,,,,
+9,46,Dwight McNeil,Everton,0.03,,Blocked,29.0,Left Foot,,Dominic Calvert-Lewin,Pass (Live),Jack Harrison,Pass (Live)
+10,49,Jack Harrison,Everton,0.02,,Off Target,25.0,Right Foot,,Jarrad Branthwaite,Fouled,,
+11,49,Jarrad Branthwaite,Everton,0.04,,Blocked,16.0,Right Foot,,Jack Harrison,Shot,,
+12,49,James Tarkowski,Everton,0.11,,Blocked,11.0,Right Foot,,Jarrad Branthwaite,Shot,,
+13,52,Rayan Aït-Nouri,Wolves,0.05,,Blocked,14.0,Left Foot,,Rayan Aït-Nouri,Pass (Live),Matheus Cunha,Pass (Live)
+14,53,Matheus Cunha,Wolves,0.85,0.93,Goal,2.0,Right Foot,,Hwang Hee-chan,Pass (Live),Pablo Sarabia,Pass (Live)
+15,60,Hwang Hee-chan,Wolves,0.1,0.21,Saved,13.0,Right Foot,,,,,
+16,61,Craig Dawson,Wolves,0.34,0.35,Goal,11.0,Right Foot,,Matheus Cunha,Pass (Live),Tommy Doyle,Pass (Live)
+17,68,Dwight McNeil,Everton,0.05,,Woodwork,28.0,Left Foot,,Dominic Calvert-Lewin,Pass (Live),André Gomes,Pass (Live)
+18,68,João Gomes,Wolves,0.04,0.05,Saved,13.0,Right Foot,,Pablo Sarabia,Pass (Live),João Gomes,Pass (Live)
+19,71,Hwang Hee-chan,Wolves,0.04,0.13,Saved,18.0,Right Foot,,Matheus Cunha,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+20,75,Pablo Sarabia,Wolves,0.04,,Blocked,22.0,Left Foot,,Nélson Semedo,Pass (Live),Matheus Cunha,Pass (Live)
+21,90,Pedro Neto,Wolves,0.07,,Off Target,16.0,Left Foot,,Boubacar Traoré,Pass (Live),Boubacar Traoré,Take-On
+22,90+2,Jack Harrison,Everton,0.04,,Off Target,13.0,Left Foot,,André Gomes,Pass (Live),Beto,Pass (Live)

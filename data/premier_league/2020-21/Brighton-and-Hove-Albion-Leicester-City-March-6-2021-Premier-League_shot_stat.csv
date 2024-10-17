@@ -1,0 +1,17 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Lewis Dunk,Brighton,0.06,,Blocked,15.0,Left Foot,Volley,,,,
+1,10,Adam Lallana,Brighton,0.42,0.58,Goal,16.0,Right Foot,,Neal Maupay,Pass (Live),Dan Burn,Pass (Live)
+2,15,Adam Lallana,Brighton,0.04,,Blocked,23.0,Left Foot,,Alexis Mac Allister,Pass (Live),Pascal Groß,Pass (Live)
+3,18,Ricardo Pereira,Leicester City,0.08,0.08,Saved,13.0,Right Foot,Volley,Wesley Fofana,Pass (Live),Çağlar Söyüncü,Pass (Live)
+4,36,Sidnei Tavares,Leicester City,0.06,0.15,Saved,25.0,Right Foot,,Jamie Vardy,Pass (Live),Kelechi Iheanacho,Pass (Live)
+5,36,Çağlar Söyüncü,Leicester City,0.07,,Off Target,10.0,Head,,Youri Tielemans,Pass (Dead),Sidnei Tavares,Shot
+6,40,Adam Lallana,Brighton,0.06,,Woodwork,10.0,Head,,Pascal Groß,Pass (Dead),Neal Maupay,Fouled
+7,,,,,,,,,,,,,
+8,53,Kelechi Iheanacho,Leicester City,0.06,,Off Target,15.0,Left Foot,,Timothy Castagne,Pass (Live),Çağlar Söyüncü,Interception
+9,62,Kelechi Iheanacho,Leicester City,0.38,0.88,Goal,14.0,Left Foot,,Youri Tielemans,Pass (Live),Wilfred Ndidi,Pass (Live)
+10,69,Neal Maupay,Brighton,0.06,,Off Target,11.0,Left Foot,,Pascal Groß,Pass (Live),,
+11,77,Joël Veltman,Brighton,0.08,,Off Target,14.0,Right Foot,Volley,Pascal Groß,Pass (Dead),Leandro Trossard,Fouled
+12,80,Adam Lallana,Brighton,0.07,0.11,Saved,17.0,Left Foot,,Pascal Groß,Pass (Live),Leandro Trossard,Pass (Live)
+13,87,Daniel Amartey,Leicester City,0.16,0.17,Goal,5.0,Head,,Marc Albrighton,Pass (Dead),,
+14,90,Jamie Vardy,Leicester City,0.06,,Off Target,21.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Jamie Vardy,Pass (Live)
+15,90+1,Wilfred Ndidi,Leicester City,0.02,,Off Target,35.0,Left Foot,Volley,,,,

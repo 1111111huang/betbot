@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Craig Cathcart,Watford,0.06,,Off Target,11.0,Head,,Tom Cleverley,Pass (Dead),,
+1,9,Emmanuel Dennis,Watford,0.03,0.14,Saved,20.0,Right Foot,,Moussa Sissoko,Pass (Live),Juraj Kucka,Pass (Live)
+2,13,Mathias Normann,Norwich City,0.03,0.22,Saved,32.0,Right Foot,Free kick,Josh Sargent,Fouled,Ozan Kabak,Pass (Live)
+3,14,Juraj Kucka,Watford,0.07,,Off Target,9.0,Head,,Tom Cleverley,Pass (Live),Kiko Femenía,Pass (Live)
+4,17,Emmanuel Dennis,Watford,0.17,0.68,Goal,10.0,Head,,Kiko Femenía,Pass (Live),Tom Cleverley,Pass (Live)
+5,26,Josh Sargent,Norwich City,0.08,,Blocked,22.0,Left Foot,,Grant Hanley,Pass (Live),Tim Krul,Pass (Live)
+6,33,Joshua King,Watford,0.13,,Blocked,14.0,Right Foot,,Kiko Femenía,Pass (Live),Ismaila Sarr,Pass (Live)
+7,35,Teemu Pukki,Norwich City,0.26,0.19,Goal,15.0,Right Foot,,Mathias Normann,Pass (Live),Josh Sargent,Pass (Live)
+8,38,Teemu Pukki,Norwich City,0.1,,Off Target,9.0,Head,,Billy Gilmour,Pass (Dead),Josh Sargent,Fouled
+9,41,Ismaila Sarr,Watford,0.07,0.23,Saved,18.0,Left Foot,,Kiko Femenía,Pass (Live),Moussa Sissoko,Pass (Live)
+10,45,Teemu Pukki,Norwich City,0.13,,Off Target,18.0,Left Foot,,Josh Sargent,Pass (Live),,
+11,45+1,Ismaila Sarr,Watford,0.42,0.64,Saved,18.0,Right Foot,,Danny Rose,Pass (Live),Tom Cleverley,Pass (Live)
+12,,,,,,,,,,,,,
+13,48,Kenny McLean,Norwich City,0.02,,Blocked,32.0,Left Foot,,Max Aarons,Pass (Dead),,
+14,51,Kenny McLean,Norwich City,0.06,,Blocked,15.0,Left Foot,Volley,Billy Gilmour,Pass (Dead),,
+15,63,Mathias Normann,Norwich City,0.01,,Blocked,30.0,Right Foot,Volley,Billy Gilmour,Pass (Dead),Max Aarons,Pass (Live)
+16,63,Ismaila Sarr,Watford,0.31,0.39,Goal,5.0,Right Foot,,Joshua King,Pass (Live),Jeremy Ngakia,Pass (Live)
+17,67,Teemu Pukki,Norwich City,0.03,,Off Target,17.0,Right Foot,,Billy Gilmour,Pass (Live),,
+18,74,Kenny McLean,Norwich City,0.03,0.1,Saved,29.0,Left Foot,,,,,
+19,75,Milot Rashica,Norwich City,0.17,0.12,Saved,17.0,Right Foot,,Christos Tzolis,Pass (Live),Max Aarons,Pass (Live)
+20,80,Milot Rashica,Norwich City,0.07,0.03,Saved,15.0,Head,,Max Aarons,Pass (Live),Todd Cantwell,Pass (Live)
+21,80,Joshua King,Watford,0.68,0.73,Saved,12.0,Right Foot,,Tom Cleverley,Pass (Live),,
+22,80,Ismaila Sarr,Watford,0.3,0.6,Goal,14.0,Right Foot,,Joshua King,Shot,,
+23,83,Jeremy Ngakia,Watford,0.02,,Off Target,22.0,Left Foot,,Juraj Kucka,Pass (Live),Jeremy Ngakia,Pass (Dead)
+24,90,Ismaila Sarr,Watford,0.35,0.63,Saved,11.0,Right Foot,,Joshua King,Pass (Live),,

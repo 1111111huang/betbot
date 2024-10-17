@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Bruno Fernandes (pen),Manchester Utd,0.79,0.98,Goal,13.0,Right Foot,,,Fouled,Marcus Rashford,Pass (Live)
+1,13,Wout Weghorst,Manchester Utd,0.11,0.41,Saved,8.0,Head,,Luke Shaw,Pass (Dead),Antony,Pass (Live)
+2,13,Marcus Rashford,Manchester Utd,0.07,,Off Target,7.0,Right Foot,Volley,Wout Weghorst,Shot,,
+3,13,Raphaël Varane,Manchester Utd,0.16,,Blocked,5.0,Left Foot,,Marcus Rashford,Shot,,
+4,13,Marcus Rashford,Manchester Utd,0.03,,Blocked,18.0,Right Foot,,Bruno Fernandes,Pass (Live),Raphaël Varane,Shot
+5,27,Marcus Rashford,Manchester Utd,0.06,0.15,Saved,12.0,Right Foot,,Bruno Fernandes,Pass (Live),,
+6,28,Antony,Manchester Utd,0.03,0.33,Saved,22.0,Right Foot,,Marcus Rashford,Shot,,
+7,31,Marcus Rashford,Manchester Utd,0.03,,Off Target,30.0,Right Foot,Volley,,,,
+8,33,Fred,Manchester Utd,0.02,,Blocked,25.0,Right Foot,,Bruno Fernandes,Pass (Dead),,
+9,33,Antony,Manchester Utd,0.05,,Blocked,23.0,Left Foot,,Fred,Shot,,
+10,36,Fred,Manchester Utd,0.14,,Off Target,5.0,Right Foot,,Wout Weghorst,Pass (Live),Marcus Rashford,Pass (Live)
+11,39,Chris Richards,Crystal Palace,0.53,,Off Target,4.0,Head,,Michael Olise,Pass (Dead),Jeffrey Schlupp,Pass (Live)
+12,42,Marcus Rashford,Manchester Utd,0.02,,Off Target,22.0,Right Foot,,Fred,Pass (Live),,
+13,42,Jeffrey Schlupp,Crystal Palace,0.03,0.34,Saved,31.0,Left Foot,,Michael Olise,Pass (Live),Jordan Ayew,Pass (Live)
+14,,,,,,,,,,,,,
+15,56,Marcus Rashford,Manchester Utd,0.07,,Off Target,15.0,Right Foot,,Bruno Fernandes,Pass (Live),Raphaël Varane,Pass (Live)
+16,62,Marcus Rashford,Manchester Utd,0.5,0.68,Goal,9.0,Right Foot,,Alejandro Garnacho,Pass (Live),Casemiro,Pass (Live)
+17,75,Marc Guéhi,Crystal Palace,0.11,0.12,Saved,10.0,Head,,Michael Olise,Pass (Dead),Michael Olise,Pass (Live)
+18,76,Cheick Doucouré,Crystal Palace,0.04,,Off Target,17.0,Right Foot,Volley,Marc Guéhi,Shot,,
+19,76,Jeffrey Schlupp,Crystal Palace,0.26,0.21,Goal,8.0,Left Foot,,Cheick Doucouré,Shot,,
+20,80,Eberechi Eze,Crystal Palace,0.1,,Blocked,12.0,Right Foot,,Tyrick Mitchell,Pass (Live),Jeffrey Schlupp,Pass (Live)
+21,80,Eberechi Eze,Crystal Palace,0.11,,Off Target,6.0,Left Foot,,Eberechi Eze,Shot,,
+22,87,Naouirou Ahamada,Crystal Palace,0.03,,Off Target,17.0,Left Foot,Volley,Michael Olise,Fouled,Michael Olise,Pass (Live)
+23,87,Jean-Philippe Mateta,Crystal Palace,0.14,,Off Target,5.0,Head,,Naouirou Ahamada,Shot,,
+24,90+8,Odsonne Édouard,Crystal Palace,0.03,,Blocked,19.0,Right Foot,,Odsonne Édouard,Take-On,Tyrick Mitchell,Pass (Live)

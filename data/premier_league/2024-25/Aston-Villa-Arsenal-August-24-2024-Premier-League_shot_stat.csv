@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Declan Rice,Arsenal,0.07,0.15,Saved,17.0,Left Foot,,Gabriel Martinelli,Pass (Live),Kai Havertz,Pass (Live)
+1,16,Bukayo Saka,Arsenal,0.05,0.13,Saved,16.0,Left Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+2,25,Ollie Watkins,Aston Villa,0.37,0.0,Off Target,12.0,Right Foot,,Morgan Rogers,Pass (Live),,
+3,32,Thomas Partey,Arsenal,0.03,0.0,Off Target,29.0,Right Foot,,Gabriel Martinelli,Pass (Live),Declan Rice,Pass (Live)
+4,39,Kai Havertz,Arsenal,0.21,0.0,Off Target,5.0,Left Foot,,Gabriel Martinelli,Pass (Live),Declan Rice,Pass (Live)
+5,44,Morgan Rogers,Aston Villa,0.02,0.0,Blocked,25.0,Right Foot,,Ollie Watkins,Pass (Live),Ezri Konsa,Pass (Live)
+6,44,Leon Bailey,Aston Villa,0.04,0.09,Saved,15.0,Left Foot,,Morgan Rogers,Shot,,
+7,,,,,,,,,,,,,
+8,54,Amadou Onana,Aston Villa,0.05,0.0,Blocked,22.0,Right Foot,,Morgan Rogers,Pass (Live),John McGinn,Pass (Live)
+9,54,Ollie Watkins,Aston Villa,0.5,0.79,Saved,7.0,Head,,Amadou Onana,Shot,,
+10,57,Morgan Rogers,Aston Villa,0.02,0.0,Blocked,15.0,Right Foot,,Leon Bailey,Pass (Live),Amadou Onana,Pass (Live)
+11,58,Amadou Onana,Aston Villa,0.05,0.0,Off Target,12.0,Head,,Youri Tielemans,Pass (Dead),Morgan Rogers,Shot
+12,61,Morgan Rogers,Aston Villa,0.06,0.0,Blocked,20.0,Left Foot,,Morgan Rogers,Take-On,Youri Tielemans,Tackle
+13,67,Leandro Trossard,Arsenal,0.13,0.38,Goal,13.0,Right Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+14,77,Thomas Partey,Arsenal,0.07,0.23,Goal,21.0,Right Foot,,Bukayo Saka,Pass (Live),Leandro Trossard,Pass (Live)
+15,80,Martin Ødegaard,Arsenal,0.26,0.0,Off Target,12.0,Left Foot,,Declan Rice,Pass (Live),Declan Rice,Take-On
+16,83,Leandro Trossard,Arsenal,0.02,0.0,Off Target,25.0,Left Foot,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+17,84,Jacob Ramsey,Aston Villa,0.03,0.16,Saved,15.0,Left Foot,,Jhon Durán,Pass (Live),Morgan Rogers,Pass (Live)
+18,87,Jhon Durán,Aston Villa,0.1,0.0,Blocked,7.0,Left Foot,,Ian Maatsen,Pass (Live),Jacob Ramsey,Pass (Live)
+19,90+1,Ross Barkley,Aston Villa,0.02,0.0,Off Target,26.0,Right Foot,,Jacob Ramsey,Pass (Live),Ian Maatsen,Pass (Live)
+20,90+4,Leandro Trossard,Arsenal,0.03,0.0,Blocked,30.0,Right Foot,,Martin Ødegaard,Pass (Live),Kai Havertz,Pass (Live)

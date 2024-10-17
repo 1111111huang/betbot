@@ -1,0 +1,39 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Ryan Fraser,Bournemouth,0.03,,Off Target,31.0,Right Foot,,Adam Smith,Pass (Live),Joshua King,Pass (Live)
+1,9,Ryan Fraser,Bournemouth,0.89,1.0,Saved,3.0,Left Foot,,Callum Wilson,Pass (Live),Adam Smith,Pass (Live)
+2,9,Jetro Willems,Newcastle Utd,0.04,0.1,Saved,17.0,Left Foot,,Jonjo Shelvey,Pass (Live),Joelinton,Pass (Live)
+3,14,Callum Wilson,Bournemouth,0.09,,Blocked,9.0,Head,,Joshua King,Pass (Live),Ryan Fraser,Pass (Live)
+4,14,Harry Wilson,Bournemouth,0.06,0.36,Goal,14.0,Left Foot,,Ryan Fraser,Pass (Live),Joshua King,Pass (Live)
+5,21,Jonjo Shelvey,Newcastle Utd,0.04,,Off Target,21.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Pass (Live)
+6,22,Joelinton,Newcastle Utd,0.03,0.18,Saved,27.0,Left Foot,Deflected,Jonjo Shelvey,Pass (Live),,
+7,27,Miguel Almirón,Newcastle Utd,0.08,,Off Target,17.0,Left Foot,,Joelinton,Pass (Live),Jonjo Shelvey,Pass (Live)
+8,29,Federico Fernández,Newcastle Utd,0.02,,Saved off Target,32.0,Right Foot,Volley,Jonjo Shelvey,Pass (Live),Jonjo Shelvey,Pass (Live)
+9,36,Ryan Fraser,Bournemouth,0.06,,Off Target,12.0,Right Foot,Volley,Lewis Cook,Pass (Live),Harry Wilson,Pass (Live)
+10,38,Harry Wilson,Bournemouth,0.06,,Off Target,31.0,Left Foot,Free kick,Harry Wilson,Fouled,Adam Smith,Pass (Live)
+11,38,Allan Saint-Maximin,Newcastle Utd,0.41,,Woodwork,10.0,Right Foot,,Allan Saint-Maximin,Take-On,,
+12,38,Jonjo Shelvey,Newcastle Utd,0.02,,Blocked,30.0,Right Foot,,Miguel Almirón,Pass (Live),Allan Saint-Maximin,Shot
+13,39,Jetro Willems,Newcastle Utd,0.03,0.22,Saved,22.0,Left Foot,Volley,Jonjo Shelvey,Shot,,
+14,42,Allan Saint-Maximin,Newcastle Utd,0.04,,Blocked,17.0,Right Foot,,Miguel Almirón,Pass (Live),DeAndre Yedlin,Pass (Live)
+15,42,DeAndre Yedlin,Newcastle Utd,0.75,0.93,Goal,3.0,Head,,Allan Saint-Maximin,Shot,,
+16,43,Joelinton,Newcastle Utd,0.08,,Off Target,17.0,Right Foot,,Isaac Hayden,Pass (Live),Jetro Willems,Pass (Live)
+17,45,Joshua King,Bournemouth,0.04,,Off Target,8.0,Right Foot,,Nathan Aké,Pass (Live),Harry Wilson,Pass (Live)
+18,45+4,Jonjo Shelvey,Newcastle Utd,0.02,,Blocked,34.0,Right Foot,Volley,Isaac Hayden,Pass (Live),Paul Dummett,Pass (Live)
+19,45+4,Harry Wilson,Bournemouth,0.03,0.76,Saved,17.0,Left Foot,Deflected,Ryan Fraser,Pass (Live),Steve Cook,Pass (Live)
+20,,,,,,,,,,,,,
+21,52,Federico Fernández,Newcastle Utd,0.03,,Blocked,15.0,Head,,Allan Saint-Maximin,Pass (Live),Jonjo Shelvey,Pass (Dead)
+22,52,Ciaran Clark,Newcastle Utd,0.34,0.74,Goal,5.0,Left Foot,,Federico Fernández,Shot,,
+23,58,Jetro Willems,Newcastle Utd,0.02,0.19,Saved,30.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Allan Saint-Maximin,Take-On
+24,59,Joelinton,Newcastle Utd,0.15,0.09,Saved,25.0,Right Foot,Volley,Jonjo Shelvey,Pass (Live),Federico Fernández,Pass (Live)
+25,60,Ciaran Clark,Newcastle Utd,0.09,0.04,Saved,9.0,Head,,Jonjo Shelvey,Pass (Dead),Joelinton,Shot
+26,61,Philip Billing,Bournemouth,0.05,,Off Target,24.0,Left Foot,,Ryan Fraser,Pass (Live),Lewis Cook,Pass (Live)
+27,62,Jetro Willems,Newcastle Utd,0.05,,Blocked,14.0,Left Foot,,Jonjo Shelvey,Pass (Live),Isaac Hayden,Pass (Live)
+28,65,Miguel Almirón,Newcastle Utd,0.03,,Blocked,28.0,Left Foot,,Allan Saint-Maximin,Pass (Live),,
+29,68,Dominic Solanke,Bournemouth,0.03,,Blocked,26.0,Left Foot,,Philip Billing,Pass (Live),Lewis Cook,Pass (Live)
+30,72,Lewis Cook,Bournemouth,0.03,,Blocked,22.0,Left Foot,Volley,Lewis Cook,Pass (Live),Steve Cook,Pass (Live)
+31,72,Steve Cook,Bournemouth,0.03,,Blocked,22.0,Right Foot,,Lewis Cook,Shot,,
+32,77,Miguel Almirón,Newcastle Utd,0.1,,Blocked,16.0,Left Foot,,Jonjo Shelvey,Pass (Live),Joelinton,Pass (Live)
+33,79,Philip Billing,Bournemouth,0.04,0.02,Saved,11.0,Head,,Simon Francis,Pass (Live),Lewis Cook,Pass (Live)
+34,79,Joelinton,Newcastle Utd,0.06,0.11,Saved,16.0,Right Foot,,Martin Dúbravka,Pass (Live),,
+35,89,Simon Francis,Bournemouth,0.06,,Blocked,13.0,Right Foot,Volley,Lewis Cook,Pass (Live),Lewis Cook,Interception
+36,89,Philip Billing,Bournemouth,0.03,,Off Target,28.0,Left Foot,,Lewis Cook,Pass (Live),Simon Francis,Shot
+37,90+6,Joshua King,Bournemouth,0.3,,Off Target,1.0,Head,,,,,

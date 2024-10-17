@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Joelinton,Newcastle Utd,0.06,,Off Target,11.0,Head,,Jonjo Shelvey,Pass (Live),Jonjo Shelvey,Take-On
+1,9,Joelinton,Newcastle Utd,0.03,,Off Target,27.0,Left Foot,,Joelinton,Tackle,Jeff Hendrick,Pass (Live)
+2,18,Joelinton,Newcastle Utd,0.06,,Off Target,12.0,Head,,Jamal Lewis,Pass (Live),Miguel Almirón,Pass (Live)
+3,20,Joelinton,Newcastle Utd,0.03,0.04,Saved,27.0,Right Foot,,Jonjo Shelvey,Pass (Live),Federico Fernández,Pass (Live)
+4,25,Eberechi Eze,Crystal Palace,0.03,0.19,Saved,29.0,Right Foot,,Jordan Ayew,Pass (Live),Cheikhou Kouyaté,Pass (Live)
+5,29,Jeffrey Schlupp,Crystal Palace,0.05,0.15,Saved,15.0,Left Foot,,,,,
+6,41,Jamal Lewis,Newcastle Utd,0.03,0.09,Saved,27.0,Right Foot,,Jonjo Shelvey,Pass (Live),Jonjo Shelvey,Pass (Live)
+7,43,Joelinton,Newcastle Utd,0.05,0.09,Saved,18.0,Left Foot,,,,,
+8,44,Jeffrey Schlupp,Crystal Palace,0.05,,Off Target,13.0,Head,,Cheikhou Kouyaté,Pass (Live),Patrick van Aanholt,Pass (Live)
+9,,,,,,,,,,,,,
+10,52,Cheikhou Kouyaté,Crystal Palace,0.06,,Off Target,10.0,Head,,Andros Townsend,Pass (Dead),Patrick van Aanholt,Pass (Live)
+11,54,Jordan Ayew,Crystal Palace,0.06,,Off Target,14.0,Right Foot,,Jordan Ayew,Pass (Live),,
+12,56,Jonjo Shelvey,Newcastle Utd,0.06,,Blocked,31.0,Right Foot,Free kick,Joelinton,Fouled,Callum Wilson,Pass (Live)
+13,61,Patrick van Aanholt,Crystal Palace,0.06,,Off Target,27.0,Left Foot,Free kick,Eberechi Eze,Fouled,Scott Dann,Pass (Live)
+14,63,Eberechi Eze,Crystal Palace,0.02,,Off Target,22.0,Right Foot,Volley,Gary Cahill,Pass (Live),Andros Townsend,Pass (Dead)
+15,65,Cheikhou Kouyaté,Crystal Palace,0.03,,Off Target,22.0,Right Foot,Volley,Eberechi Eze,Pass (Live),Jeffrey Schlupp,Pass (Live)
+16,67,Callum Wilson,Newcastle Utd,0.04,,Off Target,13.0,Head,,Javier Manquillo,Pass (Live),Sean Longstaff,Pass (Live)
+17,69,Christian Benteke,Crystal Palace,0.06,,Off Target,14.0,Head,,James McArthur,Pass (Live),Patrick van Aanholt,Pass (Live)
+18,72,Joelinton,Newcastle Utd,0.22,,Off Target,10.0,Head,,Matt Ritchie,Pass (Live),Jonjo Shelvey,Pass (Live)
+19,73,Christian Benteke,Crystal Palace,0.05,,Off Target,13.0,Left Foot,,Patrick van Aanholt,Pass (Live),Jeffrey Schlupp,Pass (Live)
+20,79,Matt Ritchie,Newcastle Utd,0.04,0.02,Saved,23.0,Left Foot,,Jamal Lewis,Pass (Live),Matt Ritchie,Pass (Dead)
+21,80,Christian Benteke,Crystal Palace,0.05,0.11,Saved,12.0,Head,,Patrick van Aanholt,Pass (Live),Jeffrey Schlupp,Pass (Live)
+22,83,Sean Longstaff,Newcastle Utd,0.04,,Blocked,22.0,Right Foot,,Sean Longstaff,Pass (Live),Matt Ritchie,Pass (Dead)
+23,84,Cheikhou Kouyaté,Crystal Palace,0.08,,Blocked,13.0,Left Foot,Volley,Michy Batshuayi,Pass (Live),Patrick van Aanholt,Pass (Live)
+24,88,Callum Wilson,Newcastle Utd,0.43,0.39,Goal,10.0,Left Foot,,Joelinton,Pass (Live),Callum Wilson,Pass (Live)
+25,90,Joelinton,Newcastle Utd,0.13,0.15,Goal,14.0,Left Foot,Deflected,Joelinton,Take-On,Callum Wilson,Pass (Live)
+26,90+3,Jonjo Shelvey,Newcastle Utd,0.07,0.15,Saved,28.0,Right Foot,Free kick,Callum Wilson,Fouled,Callum Wilson,Take-On

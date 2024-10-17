@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Abdoulaye Doucouré,Everton,0.03,,Blocked,16.0,Right Foot,,Idrissa Gana Gueye,Pass (Live),,
+1,6,Alex Iwobi,Everton,0.03,,Off Target,20.0,Right Foot,,Abdoulaye Doucouré,Shot,,
+2,7,Idrissa Gana Gueye,Everton,0.04,0.03,Saved,30.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+3,9,Bruno Guimarães,Newcastle Utd,0.03,,Off Target,24.0,Right Foot,,Miguel Almirón,Pass (Live),Kieran Trippier,Pass (Dead)
+4,12,Idrissa Gana Gueye,Everton,0.08,,Off Target,24.0,Right Foot,Free kick,Idrissa Gana Gueye,Fouled,Idrissa Gana Gueye,Interception
+5,19,Dominic Calvert-Lewin,Everton,0.33,,Off Target,12.0,Left Foot,,Dominic Calvert-Lewin,Take-On,Abdoulaye Doucouré,Pass (Live)
+6,21,Dwight McNeil,Everton,0.02,0.03,Saved,34.0,Left Foot,,Idrissa Gana Gueye,Pass (Live),Michael Keane,Pass (Live)
+7,24,Dominic Calvert-Lewin,Everton,0.02,,Blocked,24.0,Right Foot,,Vitaliy Mykolenko,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+8,28,Joelinton,Newcastle Utd,0.02,0.03,Saved,17.0,Right Foot,,Joelinton,Take-On,Matt Targett,Pass (Live)
+9,28,Callum Wilson,Newcastle Utd,0.27,0.62,Goal,8.0,Right Foot,,Joelinton,Shot,,
+10,30,Callum Wilson,Newcastle Utd,0.1,0.05,Saved,10.0,Head,,Sean Longstaff,Pass (Live),,
+11,35,Dwight McNeil,Everton,0.03,0.05,Saved,31.0,Left Foot,,Amadou Onana,Pass (Live),Amadou Onana,Tackle
+12,45,Michael Keane,Everton,0.09,,Off Target,6.0,Right Foot,Volley,Alex Iwobi,Pass (Dead),Amadou Onana,Fouled
+13,,,,,,,,,,,,,
+14,46,Joe Willock,Newcastle Utd,0.19,,Blocked,10.0,Right Foot,,Joe Willock,Take-On,Joelinton,Pass (Live)
+15,47,Miguel Almirón,Newcastle Utd,0.02,,Blocked,25.0,Left Foot,,Joe Willock,Shot,,
+16,52,Dominic Calvert-Lewin,Everton,0.09,0.05,Saved,14.0,Right Foot,,Alex Iwobi,Pass (Live),Alex Iwobi,Take-On
+17,60,Dwight McNeil,Everton,0.04,,Blocked,18.0,Left Foot,,,,,
+18,63,Callum Wilson,Newcastle Utd,0.06,,Off Target,24.0,Right Foot,,Miguel Almirón,Pass (Live),Joelinton,Pass (Live)
+19,64,Amadou Onana,Everton,0.03,,Off Target,28.0,Right Foot,,,,,
+20,70,Joe Willock,Newcastle Utd,0.03,0.58,Saved,21.0,Right Foot,Volley,Callum Wilson,Pass (Live),Fabian Schär,Pass (Live)
+21,72,Joelinton,Newcastle Utd,0.29,0.89,Goal,5.0,Head,,Joe Willock,Pass (Live),Joe Willock,Take-On
+22,75,Callum Wilson,Newcastle Utd,0.09,0.59,Goal,22.0,Right Foot,,Bruno Guimarães,Pass (Live),Fabian Schär,Pass (Live)
+23,77,Alexander Isak,Newcastle Utd,0.05,,Blocked,12.0,Left Foot,Volley,Alexander Isak,Pass (Live),Joe Willock,Pass (Live)
+24,78,Fabian Schär,Newcastle Utd,0.08,,Blocked,5.0,Head,,Kieran Trippier,Pass (Dead),Alexander Isak,Shot
+25,80,Dwight McNeil,Everton,0.02,0.05,Goal,33.0,Left Foot,,Ben Godfrey,Pass (Live),Neal Maupay,Pass (Live)
+26,81,Jacob Murphy,Newcastle Utd,0.96,0.97,Goal,2.0,Right Foot,,Alexander Isak,Take-On,Alexander Isak,Take-On
+27,86,Alexander Isak,Newcastle Utd,0.07,,Blocked,14.0,Right Foot,,Joe Willock,Pass (Live),Kieran Trippier,Pass (Live)
+28,90+3,Jacob Murphy,Newcastle Utd,0.17,,Off Target,15.0,Left Foot,,Bruno Guimarães,Pass (Live),Alexander Isak,Pass (Live)

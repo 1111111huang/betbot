@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,John McGinn,Aston Villa,0.02,,Off Target,25.0,Left Foot,,Trézéguet,Pass (Live),Matt Targett,Pass (Dead)
+1,5,Ryan Fraser,Newcastle Utd,0.04,0.02,Saved,29.0,Right Foot,Volley,Dwight Gayle,Pass (Live),Joelinton,Pass (Live)
+2,11,John McGinn,Aston Villa,0.03,,Off Target,12.0,Right Foot,Volley,Jacob Ramsey,Pass (Live),John McGinn,Pass (Live)
+3,14,Joelinton,Newcastle Utd,0.06,,Blocked,12.0,Right Foot,,Joelinton,Take-On,Jonjo Shelvey,Pass (Live)
+4,19,Jonjo Shelvey,Newcastle Utd,0.05,,Blocked,26.0,Right Foot,,Joelinton,Pass (Live),Joe Willock,Pass (Live)
+5,23,Anwar El Ghazi,Aston Villa,0.03,0.02,Saved,26.0,Right Foot,,Jacob Ramsey,Pass (Live),Douglas Luiz,Pass (Live)
+6,28,Trézéguet,Aston Villa,0.04,0.07,Saved,15.0,Right Foot,,Trézéguet,Take-On,Ahmed Elmohamady,Pass (Live)
+7,30,Joelinton,Newcastle Utd,0.06,,Off Target,9.0,Head,,Paul Dummett,Pass (Live),Dwight Gayle,Pass (Live)
+8,41,Anwar El Ghazi,Aston Villa,0.03,,Blocked,26.0,Right Foot,,Douglas Luiz,Pass (Live),John McGinn,Pass (Live)
+9,45,Dwight Gayle,Newcastle Utd,0.05,,Off Target,13.0,Left Foot,Volley,Joe Willock,Pass (Live),Isaac Hayden,Pass (Live)
+10,,,,,,,,,,,,,
+11,47,Anwar El Ghazi,Aston Villa,0.03,,Blocked,22.0,Right Foot,Volley,Matt Targett,Pass (Dead),Douglas Luiz,Pass (Live)
+12,47,Trézéguet,Aston Villa,0.03,,Blocked,24.0,Left Foot,,Anwar El Ghazi,Shot,,
+13,53,Ezri Konsa,Aston Villa,0.09,,Off Target,10.0,Head,,Matt Targett,Pass (Dead),Ollie Watkins,Fouled
+14,55,Jonjo Shelvey,Newcastle Utd,0.03,,Blocked,29.0,Left Foot,,Ryan Fraser,Pass (Live),Isaac Hayden,Pass (Live)
+15,57,Anwar El Ghazi,Aston Villa,0.05,,Blocked,18.0,Right Foot,,Trézéguet,Pass (Live),John McGinn,Pass (Live)
+16,57,Emil Krafth,Newcastle Utd,0.06,,Blocked,17.0,Right Foot,Volley,Isaac Hayden,Pass (Live),Jonjo Shelvey,Pass (Live)
+17,64,Anwar El Ghazi,Aston Villa,0.04,,Blocked,21.0,Right Foot,,Trézéguet,Pass (Live),Ollie Watkins,Pass (Live)
+18,70,Ryan Fraser,Newcastle Utd,0.03,,Blocked,20.0,Right Foot,,Isaac Hayden,Pass (Live),,
+19,71,Jamaal Lascelles,Newcastle Utd,0.03,,Off Target,11.0,Head,,Ryan Fraser,Pass (Dead),Ryan Fraser,Shot
+20,82,Jacob Murphy,Newcastle Utd,0.07,,Woodwork,11.0,Right Foot,,Paul Dummett,Pass (Live),Jonjo Shelvey,Pass (Live)
+21,85,Ollie Watkins,Aston Villa,0.05,0.12,Saved,15.0,Right Foot,,John McGinn,Pass (Live),Douglas Luiz,Pass (Live)
+22,86,Ollie Watkins,Aston Villa,0.05,,Off Target,10.0,Head,,Matt Targett,Pass (Live),Morgan Sanson,Pass (Live)
+23,89,Douglas Luiz,Aston Villa,0.02,0.39,Saved,38.0,Right Foot,,,,,
+24,90+1,Anwar El Ghazi,Aston Villa,0.34,0.3,Saved,12.0,Right Foot,,Ross Barkley,Pass (Live),Ross Barkley,Take-On
+25,90+1,John McGinn,Aston Villa,0.05,0.01,Saved,26.0,Left Foot,Deflected,Ollie Watkins,Pass (Live),Ross Barkley,Pass (Live)
+26,90+3,Dwight Gayle,Newcastle Utd,0.68,0.85,Saved,4.0,Right Foot,,Jacob Murphy,Pass (Live),Jacob Murphy,Take-On
+27,90+4,Jamaal Lascelles,Newcastle Utd,0.34,0.73,Goal,7.0,Head,,Jacob Murphy,Pass (Live),Jonjo Shelvey,Pass (Live)

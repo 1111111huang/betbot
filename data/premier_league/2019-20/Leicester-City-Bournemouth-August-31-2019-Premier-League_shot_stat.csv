@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Ryan Fraser,Bournemouth,0.03,,Blocked,21.0,Right Foot,,Harry Wilson,Pass (Live),Callum Wilson,Pass (Live)
+1,11,Ryan Fraser,Bournemouth,0.04,,Blocked,21.0,Right Foot,,Callum Wilson,Pass (Live),,
+2,12,Jamie Vardy,Leicester City,0.08,0.64,Goal,26.0,Right Foot,Volley,Ben Chilwell,Pass (Live),,
+3,15,Callum Wilson,Bournemouth,0.37,0.89,Goal,11.0,Left Foot,,Ryan Fraser,Pass (Live),Harry Wilson,Pass (Live)
+4,20,Marc Albrighton,Leicester City,0.03,,Off Target,25.0,Right Foot,,Harvey Barnes,Pass (Live),James Maddison,Pass (Live)
+5,20,Philip Billing,Bournemouth,0.04,,Off Target,30.0,Right Foot,,Philip Billing,Take-On,Joshua King,Pass (Live)
+6,22,James Maddison,Leicester City,0.07,,Off Target,9.0,Head,,Marc Albrighton,Pass (Live),Youri Tielemans,Pass (Live)
+7,26,Jamie Vardy,Leicester City,0.03,0.01,Saved,25.0,Right Foot,Deflected,Ricardo Pereira,Pass (Live),Youri Tielemans,Pass (Live)
+8,26,Jefferson Lerma,Bournemouth,0.03,,Off Target,28.0,Right Foot,,Joshua King,Pass (Live),Callum Wilson,Pass (Live)
+9,31,Youri Tielemans,Leicester City,0.01,,Blocked,30.0,Right Foot,,Marc Albrighton,Pass (Live),James Maddison,Pass (Dead)
+10,31,Youri Tielemans,Leicester City,0.01,,Blocked,36.0,Right Foot,,James Maddison,Pass (Live),Marc Albrighton,Pass (Live)
+11,31,Çağlar Söyüncü,Leicester City,0.03,,Off Target,26.0,Left Foot,,Wilfred Ndidi,Pass (Live),Jonny Evans,Pass (Live)
+12,41,Youri Tielemans,Leicester City,0.6,0.97,Goal,6.0,Left Foot,,Jamie Vardy,Pass (Live),James Maddison,Pass (Live)
+13,45+3,Harry Wilson,Bournemouth,0.05,,Blocked,16.0,Left Foot,Volley,Ryan Fraser,Pass (Dead),Nathan Aké,Pass (Live)
+14,,,,,,,,,,,,,
+15,49,James Maddison,Leicester City,0.03,,Off Target,32.0,Right Foot,,Youri Tielemans,Pass (Live),Ben Chilwell,Pass (Dead)
+16,61,Adam Smith,Bournemouth,0.06,,Blocked,15.0,Left Foot,,Callum Wilson,Pass (Live),Harry Wilson,Pass (Live)
+17,65,Harvey Barnes,Leicester City,0.04,0.36,Saved,19.0,Right Foot,,James Maddison,Pass (Live),Demarai Gray,Pass (Live)
+18,73,Jamie Vardy,Leicester City,0.38,0.72,Goal,10.0,Left Foot,,Youri Tielemans,Pass (Live),,
+19,80,Dominic Solanke,Bournemouth,0.03,0.11,Saved,27.0,Right Foot,,Ryan Fraser,Pass (Live),Dominic Solanke,Pass (Live)
+20,81,James Maddison,Leicester City,0.42,,Blocked,13.0,Right Foot,,Demarai Gray,Pass (Live),Demarai Gray,Take-On
+21,89,Youri Tielemans,Leicester City,0.02,,Off Target,35.0,Right Foot,,Wilfred Ndidi,Pass (Live),Youri Tielemans,Pass (Live)
+22,90+5,Demarai Gray,Leicester City,0.1,,Blocked,13.0,Right Foot,,Ben Chilwell,Pass (Live),Hamza Choudhury,Pass (Live)
+23,90+5,Demarai Gray,Leicester City,0.18,0.11,Saved,5.0,Right Foot,,Demarai Gray,Shot,,

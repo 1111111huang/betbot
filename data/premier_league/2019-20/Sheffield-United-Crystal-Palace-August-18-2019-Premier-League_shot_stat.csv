@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Christian Benteke,Crystal Palace,0.06,0.08,Saved,10.0,Right Foot,,,,,
+1,10,Jack O'Connell,Sheffield Utd,0.11,,Off Target,7.0,Head,,John Fleck,Pass (Dead),Oliver Norwood,Pass (Live)
+2,15,John Lundstram,Sheffield Utd,0.02,,Off Target,30.0,Right Foot,,Enda Stevens,Pass (Live),Callum Robinson,Pass (Live)
+3,23,Enda Stevens,Sheffield Utd,0.06,,Blocked,16.0,Left Foot,Volley,George Baldock,Pass (Live),John Lundstram,Pass (Live)
+4,23,David McGoldrick,Sheffield Utd,0.06,,Blocked,13.0,Left Foot,,Enda Stevens,Shot,,
+5,25,Oliver Norwood,Sheffield Utd,0.03,,Blocked,23.0,Right Foot,Volley,George Baldock,Take-On,David McGoldrick,Pass (Live)
+6,26,Jack O'Connell,Sheffield Utd,0.08,,Blocked,12.0,Left Foot,Deflected,Oliver Norwood,Pass (Dead),Oliver Norwood,Shot
+7,26,John Fleck,Sheffield Utd,0.02,,Off Target,30.0,Left Foot,,Oliver Norwood,Pass (Live),John Fleck,Pass (Live)
+8,32,Callum Robinson,Sheffield Utd,0.07,,Off Target,22.0,Right Foot,,Luke Freeman,Pass (Live),Enda Stevens,Pass (Live)
+9,36,Luka Milivojević,Crystal Palace,0.05,,Blocked,31.0,Right Foot,Free kick,Christian Benteke,Fouled,James McArthur,Pass (Live)
+10,38,Luke Freeman,Sheffield Utd,0.03,,Blocked,29.0,Left Foot,,Oliver Norwood,Pass (Live),Oliver Norwood,Tackle
+11,42,David McGoldrick,Sheffield Utd,0.57,0.57,Saved,5.0,Right Foot,,John Lundstram,Pass (Live),Callum Robinson,Pass (Live)
+12,43,Callum Robinson,Sheffield Utd,0.1,,Blocked,10.0,Right Foot,,,,,
+13,,,,,,,,,,,,,
+14,47,John Lundstram,Sheffield Utd,0.45,0.9,Goal,9.0,Right Foot,,Enda Stevens,Pass (Live),Jack O'Connell,Pass (Live)
+15,53,Andros Townsend,Crystal Palace,0.03,0.24,Saved,24.0,Left Foot,Deflected,Luka Milivojević,Pass (Live),Wilfried Zaha,Pass (Live)
+16,53,Wilfried Zaha,Crystal Palace,0.06,,Blocked,19.0,Right Foot,,Wilfried Zaha,Take-On,Christian Benteke,Tackle
+17,54,Andros Townsend,Crystal Palace,0.03,0.24,Saved,30.0,Left Foot,,Wilfried Zaha,Pass (Live),Patrick van Aanholt,Pass (Live)
+18,71,Jack O'Connell,Sheffield Utd,0.05,0.06,Saved,6.0,Head,,Chris Basham,Pass (Live),,
+19,79,Oliver McBurnie,Sheffield Utd,0.5,,Off Target,4.0,Other,,Oliver Norwood,Pass (Dead),,
+20,84,Oliver McBurnie,Sheffield Utd,0.04,,Off Target,16.0,Head,,Oliver Norwood,Pass (Dead),,Fouled
+21,90+6,Jeffrey Schlupp,Crystal Palace,0.05,0.02,Saved,20.0,Left Foot,Volley,Patrick van Aanholt,Pass (Live),Joel Ward,Pass (Live)

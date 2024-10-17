@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Rúben Neves,Wolves,0.01,,Off Target,36.0,Right Foot,Volley,Diogo Jota,Pass (Live),João Moutinho,Pass (Dead)
+1,11,João Moutinho,Wolves,0.03,,Off Target,28.0,Right Foot,,Jonny Castro,Pass (Live),Adama Traoré,Pass (Live)
+2,12,Raúl Jiménez,Wolves,0.05,,Blocked,17.0,Left Foot,,Diogo Jota,Pass (Live),Romain Saïss,Pass (Live)
+3,12,Rúben Neves,Wolves,0.02,,Blocked,34.0,Right Foot,,,,,
+4,21,João Moutinho,Wolves,0.08,0.79,Goal,22.0,Right Foot,Free kick,Diogo Jota,Fouled,João Moutinho,Pass (Live)
+5,31,Raúl Jiménez,Wolves,0.2,0.34,Goal,8.0,Left Foot,,Adama Traoré,Pass (Live),João Moutinho,Pass (Dead)
+6,35,Harry Wilson,Bournemouth,0.02,,Blocked,25.0,Left Foot,,Ryan Fraser,Fouled,Diego Rico,Pass (Live)
+7,35,Callum Wilson,Bournemouth,0.11,,Off Target,10.0,Head,,Diego Rico,Pass (Live),Ryan Fraser,Pass (Live)
+8,36,Raúl Jiménez,Wolves,0.18,,Blocked,7.0,Left Foot,Deflected,,,,
+9,37,Matt Doherty,Wolves,0.07,0.05,Saved,8.0,Right Foot,,Raúl Jiménez,Pass (Live),Adama Traoré,Pass (Live)
+10,39,Rúben Neves,Wolves,0.01,,Blocked,33.0,Right Foot,,Jonny Castro,Pass (Live),João Moutinho,Pass (Dead)
+11,42,Jonny Castro,Wolves,0.03,,Off Target,29.0,Right Foot,,Raúl Jiménez,Pass (Live),Jonny Castro,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Rúben Neves,Wolves,0.03,,Off Target,27.0,Right Foot,,Diogo Jota,Pass (Live),Jonny Castro,Pass (Live)
+14,55,Rúben Neves,Wolves,0.01,,Off Target,28.0,Right Foot,,João Moutinho,Pass (Live),Jonny Castro,Pass (Live)
+15,58,Lewis Cook,Bournemouth,0.02,,Blocked,29.0,Right Foot,,Diego Rico,Fouled,Nathan Aké,Pass (Live)
+16,59,Steve Cook,Bournemouth,0.1,0.49,Goal,5.0,Head,Deflected,Ryan Fraser,Pass (Dead),Lewis Cook,Shot
+17,62,Raúl Jiménez,Wolves,0.09,,Off Target,7.0,Head,,João Moutinho,Pass (Dead),Conor Coady,Pass (Live)
+18,64,Romain Saïss,Wolves,0.02,0.15,Saved,33.0,Left Foot,,Adama Traoré,Pass (Live),Rúben Neves,Pass (Live)
+19,72,Raúl Jiménez,Wolves,0.09,0.07,Saved,9.0,Head,,Diogo Jota,Pass (Live),João Moutinho,Pass (Live)
+20,79,Diogo Jota,Wolves,0.14,0.07,Saved,16.0,Right Foot,,João Moutinho,Pass (Live),,
+21,82,Nathan Aké,Bournemouth,0.21,0.11,Saved,9.0,Right Foot,Volley,Steve Cook,Pass (Live),Diego Rico,Pass (Dead)
+22,82,Steve Cook,Bournemouth,0.08,,Off Target,10.0,Right Foot,,Nathan Aké,Shot,,
+23,83,Ryan Fraser,Bournemouth,0.03,,Blocked,16.0,Right Foot,,Steve Cook,Shot,,
+24,83,Nathan Aké,Bournemouth,0.04,,Off Target,13.0,Head,,Arnaut Danjuma,Pass (Live),Ryan Fraser,Pass (Live)
+25,86,Raúl Jiménez,Wolves,0.06,0.1,Saved,21.0,Right Foot,,Rúben Neves,Pass (Live),,
+26,90+1,Raúl Jiménez,Wolves,0.01,,Saved off Target,48.0,Right Foot,,Raúl Jiménez,Tackle,,
+27,90+3,Arnaut Danjuma,Bournemouth,0.05,,Off Target,14.0,Right Foot,,Callum Wilson,Pass (Live),Steve Cook,Pass (Live)

@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Leandro Trossard,Brighton,0.03,,Blocked,13.0,Left Foot,,Marc Cucurella,Pass (Live),Adam Lallana,Pass (Live)
+1,9,Shane Duffy,Brighton,0.01,,Off Target,13.0,Head,,Pascal Groß,Pass (Dead),,
+2,14,Josh Sargent,Norwich City,0.02,,Blocked,25.0,Right Foot,,Ben Gibson,Pass (Live),Kenny McLean,Pass (Live)
+3,14,Mathias Normann,Norwich City,0.03,,Blocked,21.0,Left Foot,,Mathias Normann,Take-On,Mathias Normann,Take-On
+4,21,Adam Lallana,Brighton,0.06,0.06,Saved,20.0,Left Foot,,Joël Veltman,Pass (Dead),Pascal Groß,Pass (Live)
+5,29,Ozan Kabak,Norwich City,0.04,,Blocked,21.0,Right Foot,,Josh Sargent,Pass (Live),Mathias Normann,Pass (Live)
+6,29,Grant Hanley,Norwich City,0.04,0.05,Saved,13.0,Head,,Dimitris Giannoulis,Pass (Live),Ozan Kabak,Shot
+7,34,Jakub Moder,Brighton,0.14,,Blocked,16.0,Left Foot,,Neal Maupay,Pass (Live),Pascal Groß,Pass (Live)
+8,35,Leandro Trossard,Brighton,0.02,0.2,Saved,17.0,Left Foot,Volley,Neal Maupay,Pass (Live),Pascal Groß,Pass (Live)
+9,43,Mathias Normann,Norwich City,0.06,,Off Target,29.0,Right Foot,Free kick,Josh Sargent,Fouled,Dimitris Giannoulis,Pass (Live)
+10,44,Pierre Lees-Melou,Norwich City,0.03,,Off Target,31.0,Right Foot,,Josh Sargent,Pass (Live),Teemu Pukki,Pass (Live)
+11,44,Josh Sargent,Norwich City,0.5,,Blocked,24.0,Right Foot,,Teemu Pukki,Pass (Live),Pierre Lees-Melou,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Pascal Groß,Brighton,0.04,,Blocked,17.0,Right Foot,Volley,Marc Cucurella,Pass (Live),Dan Burn,Pass (Live)
+14,53,Leandro Trossard,Brighton,0.05,,Off Target,21.0,Right Foot,,Leandro Trossard,Take-On,,
+15,58,Jakub Moder,Brighton,0.04,,Off Target,25.0,Right Foot,Volley,Marc Cucurella,Pass (Live),Dan Burn,Pass (Live)
+16,61,Mathias Normann,Norwich City,0.02,,Blocked,33.0,Right Foot,,Josh Sargent,Pass (Live),Kenny McLean,Pass (Live)
+17,61,Pierre Lees-Melou,Norwich City,0.02,,Blocked,18.0,Right Foot,Volley,Mathias Normann,Shot,,
+18,64,Teemu Pukki,Norwich City,0.29,,Off Target,6.0,Right Foot,,Max Aarons,Pass (Live),Pierre Lees-Melou,Pass (Live)
+19,67,Lewis Dunk,Brighton,0.03,0.02,Saved,11.0,Head,,Pascal Groß,Pass (Dead),Neal Maupay,Fouled
+20,68,Josh Sargent,Norwich City,0.02,,Blocked,21.0,Right Foot,,Pierre Lees-Melou,Pass (Live),Pierre Lees-Melou,Tackle
+21,70,Pierre Lees-Melou,Norwich City,0.03,,Off Target,29.0,Right Foot,,Mathias Normann,Fouled,Grant Hanley,Pass (Live)
+22,79,Ben Gibson,Norwich City,0.02,0.08,Saved,27.0,Left Foot,,Dimitris Giannoulis,Pass (Live),Pierre Lees-Melou,Pass (Live)
+23,81,Pascal Groß,Brighton,0.09,,Blocked,18.0,Right Foot,,Solly March,Pass (Live),Jakub Moder,Pass (Live)
+24,81,Teemu Pukki,Norwich City,0.1,,Blocked,15.0,Right Foot,,Milot Rashica,Pass (Live),Teemu Pukki,Pass (Live)
+25,87,Neal Maupay,Brighton,0.26,,Off Target,5.0,Right Foot,,Solly March,Pass (Live),Solly March,Take-On
+26,90+2,Grant Hanley,Norwich City,0.02,,Off Target,9.0,Head,,Milot Rashica,Pass (Dead),Adam Idah,Pass (Live)

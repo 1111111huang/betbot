@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,16,Willian,Fulham,0.12,,Blocked,16.0,Right Foot,,Willian,Take-On,Andreas Pereira,Pass (Live)
+1,22,Willian,Fulham,0.02,,Blocked,11.0,Left Foot,,João Palhinha,Pass (Dead),Rodrigo Muniz,Fouled
+2,23,Harry Wilson,Fulham,0.02,,Off Target,24.0,Left Foot,Volley,Willian,Shot,,
+3,27,Scott McTominay,Manchester Utd,0.07,,Blocked,13.0,Left Foot,,Alejandro Garnacho,Pass (Live),Bruno Fernandes,Pass (Live)
+4,31,Harry Wilson,Fulham,0.06,,Blocked,29.0,Left Foot,,Alex Iwobi,Pass (Live),,
+5,32,Jonny Evans,Manchester Utd,0.06,,Off Target,5.0,Right Foot,Volley,Antony,Fouled,Rasmus Højlund,Pass (Live)
+6,33,Bruno Fernandes,Manchester Utd,0.06,0.35,Saved,22.0,Right Foot,,Rasmus Højlund,Pass (Live),Alejandro Garnacho,Pass (Live)
+7,38,Christian Eriksen,Manchester Utd,0.02,,Blocked,27.0,Left Foot,,Bruno Fernandes,Pass (Live),Antony,Pass (Live)
+8,38,Alex Iwobi,Fulham,0.1,,Off Target,22.0,Right Foot,,,,,
+9,40,Diogo Dalot,Manchester Utd,0.02,,Off Target,23.0,Right Foot,Volley,Antony,Pass (Live),Bruno Fernandes,Pass (Live)
+10,44,Alex Iwobi,Fulham,0.01,,Blocked,14.0,Left Foot,,Andreas Pereira,Pass (Dead),Antonee Robinson,Pass (Live)
+11,45+1,Willian,Fulham,0.03,,Off Target,24.0,Right Foot,,Willian,Take-On,Andreas Pereira,Pass (Live)
+12,45+3,Rodrigo Muniz,Fulham,0.03,,Off Target,10.0,Head,,Andreas Pereira,Pass (Dead),Alex Iwobi,Pass (Live)
+13,,,,,,,,,,,,,
+14,48,Alejandro Garnacho,Manchester Utd,0.06,0.06,Saved,14.0,Right Foot,Deflected,Diogo Dalot,Pass (Live),Antony,Pass (Live)
+15,58,Willian,Fulham,0.06,,Blocked,18.0,Left Foot,,Harry Wilson,Pass (Live),Alex Iwobi,Pass (Live)
+16,58,Willian,Fulham,0.04,,Off Target,27.0,Right Foot,,Rodrigo Muniz,Pass (Live),Antonee Robinson,Pass (Live)
+17,61,Harry Wilson,Fulham,0.03,0.2,Saved,23.0,Left Foot,,Alex Iwobi,Pass (Live),Alex Iwobi,Take-On
+18,61,Andreas Pereira,Fulham,0.08,,Blocked,5.0,Head,,Harry Wilson,Shot,,
+19,61,João Palhinha,Fulham,0.15,0.1,Saved,12.0,Right Foot,,Willian,Pass (Live),Andreas Pereira,Pass (Live)
+20,63,Calvin Bassey,Fulham,0.05,,Blocked,12.0,Right Foot,"Deflected, Volley",Andreas Pereira,Pass (Dead),Harry Wilson,Pass (Live)
+21,65,Rodrigo Muniz,Fulham,0.04,,Off Target,11.0,Head,,Andreas Pereira,Pass (Dead),Tim Ream,Pass (Live)
+22,71,Facundo Pellistri,Manchester Utd,0.04,0.26,Saved,14.0,Left Foot,,Christian Eriksen,Pass (Live),Alejandro Garnacho,Pass (Live)
+23,73,Alex Iwobi,Fulham,0.05,,Off Target,25.0,Left Foot,,Andreas Pereira,Pass (Live),Willian,Pass (Live)
+24,78,Diogo Dalot,Manchester Utd,0.03,,Off Target,23.0,Right Foot,,Bruno Fernandes,Pass (Dead),Diogo Dalot,Pass (Live)
+25,83,Bruno Fernandes,Manchester Utd,0.04,0.18,Saved,31.0,Right Foot,Free kick,Alejandro Garnacho,Fouled,Alejandro Garnacho,Take-On
+26,84,Anthony Martial,Manchester Utd,0.16,,Off Target,8.0,Left Foot,Volley,Diogo Dalot,Pass (Live),Alejandro Garnacho,Pass (Live)
+27,89,Harry Wilson,Fulham,0.06,,Off Target,25.0,Left Foot,Free kick,Harry Wilson,Fouled,Alex Iwobi,Pass (Live)
+28,90+1,Bruno Fernandes,Manchester Utd,0.09,0.42,Goal,18.0,Right Foot,,Bruno Fernandes,Take-On,Bruno Fernandes,Take-On
+29,90+2,João Palhinha,Fulham,0.05,,Blocked,26.0,Right Foot,,Tom Cairney,Pass (Dead),,
+30,90+7,Diogo Dalot,Manchester Utd,0.04,,Off Target,22.0,Right Foot,,Bruno Fernandes,Pass (Live),Anthony Martial,Pass (Live)

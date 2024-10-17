@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Tomáš Souček,West Ham,0.04,0.0,Off Target,13.0,Right Foot,,Jarrod Bowen,Pass (Live),Vladimír Coufal,Pass (Dead)
+1,4,Amadou Onana,Aston Villa,0.55,0.94,Goal,3.0,Head,,Youri Tielemans,Pass (Dead),,
+2,10,Morgan Rogers,Aston Villa,0.14,0.25,Saved,20.0,Left Foot,,Youri Tielemans,Pass (Live),Ezri Konsa,Pass (Live)
+3,14,Youri Tielemans,Aston Villa,0.02,0.0,Blocked,23.0,Right Foot,,Leon Bailey,Pass (Live),John McGinn,Pass (Live)
+4,17,Michail Antonio,West Ham,0.04,0.0,Blocked,21.0,Left Foot,,Tomáš Souček,Pass (Live),Emerson Palmieri,Pass (Live)
+5,21,Leon Bailey,Aston Villa,0.08,0.0,Blocked,21.0,Left Foot,,Morgan Rogers,Pass (Live),Morgan Rogers,Pass (Live)
+6,22,Leon Bailey,Aston Villa,0.11,0.0,Woodwork,10.0,Left Foot,,Leon Bailey,Take-On,Matty Cash,Pass (Live)
+7,32,John McGinn,Aston Villa,0.07,0.0,Blocked,16.0,Right Foot,,,,,
+8,32,John McGinn,Aston Villa,0.23,0.0,Off Target,15.0,Right Foot,,John McGinn,Shot,,
+9,37,Lucas Paquetá (pen),West Ham,0.79,0.63,Goal,13.0,Left Foot,,Tomáš Souček,Fouled,Lucas Paquetá,Pass (Live)
+10,41,Emerson Palmieri,West Ham,0.04,0.48,Saved,13.0,Right Foot,,Lucas Paquetá,Pass (Live),Emerson Palmieri,Pass (Live)
+11,41,Mohammed Kudus,West Ham,0.04,0.0,Blocked,6.0,Head,,Tomáš Souček,Pass (Live),Jarrod Bowen,Pass (Dead)
+12,45,Leon Bailey,Aston Villa,0.03,0.0,Off Target,24.0,Left Foot,,,,,
+13,,,,,,,,,,,,,
+14,48,Tomáš Souček,West Ham,0.2,0.0,Blocked,7.0,Right Foot,,Mohammed Kudus,Pass (Live),Guido Rodríguez,Pass (Live)
+15,49,Tomáš Souček,West Ham,0.06,0.0,Off Target,10.0,Left Foot,Volley,Tomáš Souček,Shot,,
+16,55,Guido Rodríguez,West Ham,0.02,0.0,Off Target,26.0,Right Foot,Volley,Mohammed Kudus,Take-On,Lucas Paquetá,Pass (Live)
+17,56,Youri Tielemans,Aston Villa,0.16,0.0,Blocked,21.0,Left Foot,,Morgan Rogers,Pass (Live),Leon Bailey,Pass (Live)
+18,56,Morgan Rogers,Aston Villa,0.08,0.0,Blocked,13.0,Right Foot,,Youri Tielemans,Shot,,
+19,57,Ezri Konsa,Aston Villa,0.07,0.0,Off Target,5.0,Other,,Leon Bailey,Pass (Dead),Morgan Rogers,Shot
+20,61,Mohammed Kudus,West Ham,0.04,0.0,Off Target,17.0,Left Foot,,Mohammed Kudus,Take-On,Max Kilman,Pass (Live)
+21,64,Michail Antonio,West Ham,0.11,0.0,Off Target,4.0,Head,,Vladimír Coufal,Pass (Live),Lucas Paquetá,Pass (Live)
+22,66,Jhon Durán,Aston Villa,0.23,0.0,Off Target,17.0,Left Foot,,Lucas Digne,Pass (Live),Jacob Ramsey,Pass (Live)
+23,76,Konstantinos Mavropanos,West Ham,0.02,0.0,Blocked,33.0,Right Foot,,Crysencio Summerville,Pass (Live),Emerson Palmieri,Pass (Live)
+24,79,Jhon Durán,Aston Villa,0.15,0.14,Goal,14.0,Left Foot,,Jacob Ramsey,Pass (Live),Ian Maatsen,Pass (Live)
+25,84,Jacob Ramsey,Aston Villa,0.06,0.0,Blocked,14.0,Left Foot,,Jacob Ramsey,Take-On,Youri Tielemans,Pass (Live)
+26,86,Danny Ings,West Ham,0.25,0.21,Saved,8.0,Head,,Crysencio Summerville,Pass (Live),Danny Ings,Pass (Live)
+27,90+5,Jaden Philogene Bidace,Aston Villa,0.07,0.0,Off Target,12.0,Right Foot,,Ian Maatsen,Pass (Live),Pau Torres,Pass (Live)
+28,90+7,Tomáš Souček,West Ham,0.28,0.0,Off Target,3.0,Head,,Mohammed Kudus,Pass (Live),Crysencio Summerville,Pass (Live)
+29,90+7,Tomáš Souček,West Ham,0.52,0.0,Off Target,3.0,Right Foot,Volley,Tomáš Souček,Shot,,

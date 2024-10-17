@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Pablo Sarabia,Wolves,0.06,,Blocked,21.0,Right Foot,Volley,Nélson Semedo,Pass (Live),Max Kilman,Pass (Live)
+1,3,Nélson Semedo,Wolves,0.04,,Blocked,22.0,Right Foot,Volley,Pablo Sarabia,Shot,,
+2,3,Mario Lemina,Wolves,0.04,0.47,Saved,26.0,Right Foot,,Pablo Sarabia,Pass (Live),Nélson Semedo,Shot
+3,14,Matheus Cunha,Wolves,0.12,0.09,Saved,12.0,Right Foot,,Diego Costa,Pass (Live),Matheus Cunha,Pass (Live)
+4,22,Diego Costa,Wolves,0.03,0.31,Saved,16.0,Left Foot,,Matheus Cunha,Pass (Live),Matheus Nunes,Pass (Live)
+5,23,Ivan Toney,Brentford,0.13,,Blocked,17.0,Left Foot,,Bryan Mbeumo,Pass (Live),Ben Mee,Pass (Live)
+6,23,Josh Dasilva,Brentford,0.38,,Off Target,5.0,Right Foot,Volley,Ivan Toney,Shot,,
+7,25,Ivan Toney,Brentford,0.15,,Blocked,16.0,Right Foot,Deflected,Bryan Mbeumo,Pass (Live),Rico Henry,Pass (Live)
+8,27,Diego Costa,Wolves,0.09,0.34,Goal,13.0,Right Foot,,Toti Gomes,Pass (Live),Diego Costa,Pass (Live)
+9,41,Bryan Mbeumo,Brentford,0.05,,Off Target,15.0,Left Foot,Volley,Ivan Toney,Pass (Dead),,
+10,,,,,,,,,,,,,
+11,50,Diego Costa,Wolves,0.06,0.2,Saved,10.0,Right Foot,,Matheus Cunha,Pass (Live),Diego Costa,Pass (Live)
+12,57,Matheus Cunha,Wolves,0.02,0.1,Saved,32.0,Right Foot,,Diego Costa,Pass (Live),Pablo Sarabia,Pass (Live)
+13,66,Christian Nørgaard,Brentford,0.08,,Blocked,14.0,Right Foot,,Rico Henry,Pass (Live),Vitaly Janelt,Pass (Live)
+14,66,Yoane Wissa,Brentford,0.07,0.47,Saved,21.0,Right Foot,,Christian Nørgaard,Pass (Live),Bryan Mbeumo,Pass (Live)
+15,69,Hwang Hee-chan,Wolves,0.26,0.58,Goal,5.0,Right Foot,,Matheus Nunes,Take-On,Matheus Nunes,Take-On
+16,77,Mario Lemina,Wolves,0.02,0.39,Saved,33.0,Right Foot,,João Moutinho,Pass (Live),Hwang Hee-chan,Pass (Live)
+17,82,Adama Traoré,Wolves,0.02,0.06,Saved,12.0,Head,,João Moutinho,Pass (Dead),,
+18,84,Christian Nørgaard,Brentford,0.09,0.4,Saved,10.0,Head,,Bryan Mbeumo,Pass (Dead),Ivan Toney,Fouled
+19,88,Ivan Toney,Brentford,0.03,,Off Target,33.0,Right Foot,,Mikkel Damsgaard,Pass (Live),,
+20,90+3,Ivan Toney,Brentford,0.06,0.23,Saved,10.0,Left Foot,,Vitaly Janelt,Pass (Live),Mikkel Damsgaard,Pass (Live)
+21,90+4,Ivan Toney,Brentford,0.13,,Blocked,14.0,Right Foot,,Ivan Toney,Take-On,Yoane Wissa,Pass (Live)

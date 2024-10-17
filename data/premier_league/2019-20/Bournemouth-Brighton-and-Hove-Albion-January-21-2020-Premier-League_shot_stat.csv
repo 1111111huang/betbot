@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Bernardo,Brighton,0.04,,Off Target,18.0,Left Foot,,Aaron Mooy,Pass (Live),Alireza Jahanbakhsh,Pass (Live)
+1,6,Neal Maupay,Brighton,0.04,0.02,Saved,24.0,Right Foot,,Pascal Groß,Pass (Live),Adam Webster,Pass (Live)
+2,7,Bernardo,Brighton,0.04,,Blocked,17.0,Left Foot,Volley,Pascal Groß,Pass (Live),Alireza Jahanbakhsh,Pass (Live)
+3,14,Alireza Jahanbakhsh,Brighton,0.04,,Blocked,23.0,Right Foot,,Steven Alzate,Pass (Live),Davy Pröpper,Pass (Live)
+4,20,Neal Maupay,Brighton,0.04,,Blocked,23.0,Right Foot,,Davy Pröpper,Pass (Live),Aaron Mooy,Pass (Live)
+5,28,Neal Maupay,Brighton,0.34,0.2,Saved,7.0,Right Foot,,Aaron Mooy,Pass (Live),Pascal Groß,Pass (Live)
+6,28,Neal Maupay,Brighton,0.09,,Blocked,7.0,Left Foot,,Neal Maupay,Shot,,
+7,33,Diego Rico,Bournemouth,0.1,,Off Target,13.0,Left Foot,,Dominic Solanke,Pass (Live),Callum Wilson,Pass (Live)
+8,33,Harry Wilson,Bournemouth,0.03,,Blocked,20.0,Left Foot,,,,,
+9,34,Harry Wilson,Bournemouth,0.06,,Blocked,15.0,Left Foot,,Ryan Fraser,Pass (Live),Dominic Solanke,Pass (Live)
+10,35,Aaron Mooy,Brighton,0.03,,Off Target,30.0,Left Foot,,Alireza Jahanbakhsh,Pass (Live),Pascal Groß,Pass (Live)
+11,36,Harry Wilson,Bournemouth,0.07,0.06,Goal,14.0,Left Foot,Deflected,Dominic Solanke,Pass (Live),Ryan Fraser,Pass (Live)
+12,40,Dominic Solanke,Bournemouth,0.1,,Blocked,14.0,Left Foot,,Philip Billing,Pass (Live),Diego Rico,Pass (Dead)
+13,43,Pascal Groß,Brighton,0.04,,Off Target,23.0,Left Foot,,Aaron Mooy,Pass (Live),Alireza Jahanbakhsh,Pass (Live)
+14,45+1,Nathan Aké,Bournemouth,0.05,,Off Target,20.0,Left Foot,Volley,,,,
+15,,,,,,,,,,,,,
+16,49,Alireza Jahanbakhsh,Brighton,0.03,,Off Target,25.0,Left Foot,,,,,
+17,54,Pascal Groß,Brighton,0.02,,Blocked,33.0,Right Foot,,Neal Maupay,Pass (Live),Aaron Mooy,Pass (Live)
+18,59,Philip Billing,Bournemouth,0.25,0.08,Saved,3.0,Head,,Ryan Fraser,Pass (Dead),Ryan Fraser,Fouled
+19,61,Lewis Dunk,Brighton,0.02,0.25,Saved,32.0,Right Foot,,,,,
+20,62,Harry Wilson,Bournemouth,0.05,,Blocked,18.0,Left Foot,,Ryan Fraser,Pass (Live),Dominic Solanke,Pass (Live)
+21,65,Lewis Dunk,Brighton,0.22,0.14,Saved,3.0,Left Foot,Volley,Aaron Mooy,Pass (Dead),Adam Webster,Pass (Live)
+22,69,Neal Maupay,Brighton,0.03,0.07,Saved,23.0,Right Foot,,Aaron Mooy,Pass (Live),Solly March,Pass (Live)
+23,70,Jefferson Lerma,Bournemouth,0.03,,Off Target,28.0,Right Foot,,Philip Billing,Pass (Live),Ryan Fraser,Pass (Live)
+24,71,Aaron Mooy,Brighton,0.03,0.05,Saved,24.0,Right Foot,Deflected,Davy Pröpper,Pass (Live),Lewis Dunk,Interception
+25,73,Neal Maupay,Brighton,0.06,,Blocked,17.0,Left Foot,,,,,
+26,74,Callum Wilson,Bournemouth,0.67,0.87,Goal,8.0,Right Foot,,Callum Wilson,Take-On,Callum Wilson,Pass (Live)
+27,76,Aaron Mooy,Brighton,0.03,,Off Target,28.0,Left Foot,,Neal Maupay,Pass (Live),Leandro Trossard,Pass (Live)
+28,78,Ryan Fraser,Bournemouth,0.03,,Off Target,23.0,Right Foot,,Harry Wilson,Pass (Live),Harry Wilson,Tackle
+29,81,Aaron Mooy,Brighton,0.09,0.1,Goal,14.0,Left Foot,,Aaron Mooy,Take-On,Neal Maupay,Pass (Live)
+30,85,Leandro Trossard,Brighton,0.04,,Off Target,23.0,Left Foot,,Steven Alzate,Pass (Live),Lewis Dunk,Pass (Live)
+31,90+3,Neal Maupay,Brighton,0.26,,Blocked,6.0,Left Foot,Volley,Leandro Trossard,Fouled,Neal Maupay,Pass (Live)
+32,90+3,Neal Maupay,Brighton,0.37,0.24,Saved,5.0,Left Foot,,Neal Maupay,Shot,,

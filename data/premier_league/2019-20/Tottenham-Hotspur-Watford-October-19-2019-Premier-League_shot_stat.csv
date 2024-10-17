@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Abdoulaye Doucouré,Watford,0.24,0.68,Goal,13.0,Right Foot,,Daryl Janmaat,Pass (Live),Craig Cathcart,Pass (Live)
+1,11,Moussa Sissoko,Tottenham,0.03,,Off Target,26.0,Right Foot,,Dele Alli,Pass (Live),Lucas Moura,Pass (Live)
+2,14,Gerard Deulofeu,Watford,0.07,,Blocked,26.0,Right Foot,Free kick,Roberto Pereyra,Fouled,Abdoulaye Doucouré,Pass (Live)
+3,16,Lucas Moura,Tottenham,0.05,,Blocked,18.0,Left Foot,,Moussa Sissoko,Pass (Live),Serge Aurier,Take-On
+4,23,Dele Alli,Tottenham,0.04,0.35,Saved,25.0,Left Foot,,Lucas Moura,Pass (Live),Harry Winks,Pass (Live)
+5,40,Lucas Moura,Tottenham,0.05,,Off Target,12.0,Head,,Toby Alderweireld,Pass (Live),Serge Aurier,Pass (Live)
+6,,,,,,,,,,,,,
+7,49,Son Heung-min,Tottenham,0.05,,Woodwork,13.0,Right Foot,,Dele Alli,Pass (Live),Toby Alderweireld,Pass (Live)
+8,49,Roberto Pereyra,Watford,0.09,,Blocked,15.0,Left Foot,,Gerard Deulofeu,Pass (Live),Roberto Pereyra,Pass (Live)
+9,52,Harry Kane,Tottenham,0.02,,Blocked,28.0,Left Foot,,Harry Winks,Pass (Dead),Harry Winks,Pass (Live)
+10,58,Daryl Janmaat,Watford,0.11,,Blocked,15.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Abdoulaye Doucouré,Take-On
+11,62,Gerard Deulofeu,Watford,0.05,,Off Target,16.0,Right Foot,,Roberto Pereyra,Pass (Live),Roberto Pereyra,Take-On
+12,64,Abdoulaye Doucouré,Watford,0.06,,Off Target,22.0,Right Foot,,Abdoulaye Doucouré,Take-On,,
+13,75,Tanguy Ndombele,Tottenham,0.07,,Blocked,13.0,Right Foot,,Serge Aurier,Pass (Live),Tanguy Ndombele,Pass (Live)
+14,75,Serge Aurier,Tottenham,0.04,,Blocked,11.0,Head,,Érik Lamela,Pass (Dead),Tanguy Ndombele,Shot
+15,76,Harry Kane,Tottenham,0.03,,Blocked,15.0,Right Foot,,Érik Lamela,Pass (Live),Danny Rose,Pass (Live)
+16,77,Gerard Deulofeu,Watford,0.05,0.2,Saved,27.0,Right Foot,Free kick,Gerard Deulofeu,Fouled,Abdoulaye Doucouré,Pass (Live)
+17,86,Dele Alli,Tottenham,0.54,0.98,Goal,4.0,Left Foot,,Érik Lamela,Pass (Live),Serge Aurier,Pass (Live)
+18,90+1,Érik Lamela,Tottenham,0.06,,Blocked,30.0,Left Foot,Free kick,Dele Alli,Fouled,Dele Alli,Take-On
+19,90+3,Harry Kane,Tottenham,0.04,,Blocked,21.0,Right Foot,,Moussa Sissoko,Pass (Live),,

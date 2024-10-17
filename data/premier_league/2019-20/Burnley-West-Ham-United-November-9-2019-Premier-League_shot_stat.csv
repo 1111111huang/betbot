@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Ben Mee,Burnley,0.03,0.12,Saved,11.0,Head,,Dwight McNeil,Pass (Dead),Ashley Barnes,Pass (Live)
+1,10,Phil Bardsley,Burnley,0.02,,Blocked,31.0,Right Foot,,Charlie Taylor,Pass (Live),Ashley Westwood,Pass (Dead)
+2,11,Ashley Barnes,Burnley,0.56,0.55,Goal,3.0,Right Foot,,James Tarkowski,Pass (Live),Dwight McNeil,Pass (Dead)
+3,18,Dwight McNeil,Burnley,0.02,0.04,Saved,26.0,Left Foot,,,,,
+4,26,Jeff Hendrick,Burnley,0.03,0.02,Saved,28.0,Right Foot,Deflected,Ben Mee,Pass (Live),Ben Mee,Take-On
+5,44,Chris Wood,Burnley,0.32,0.67,Goal,11.0,Left Foot,,Dwight McNeil,Pass (Live),Dwight McNeil,Take-On
+6,,,,,,,,,,,,,
+7,48,Andriy Yarmolenko,West Ham,0.03,0.07,Saved,21.0,Left Foot,,Ryan Fredericks,Pass (Live),Sébastien Haller,Pass (Live)
+8,50,Sébastien Haller,West Ham,0.03,0.03,Saved,24.0,Right Foot,,Robert Snodgrass,Pass (Live),Felipe Anderson,Pass (Live)
+9,51,Ben Mee,Burnley,0.05,0.46,Saved,11.0,Head,,Dwight McNeil,Pass (Dead),Ashley Barnes,Fouled
+10,57,Aaron Cresswell,West Ham,0.08,0.15,Saved,10.0,Right Foot,,Andriy Yarmolenko,Pass (Live),Ryan Fredericks,Pass (Live)
+11,59,Chris Wood,Burnley,0.24,0.25,Saved,12.0,Right Foot,,,,,
+12,59,Phil Bardsley,Burnley,0.02,0.36,Saved,28.0,Right Foot,,Chris Wood,Shot,,
+13,60,Chris Wood,Burnley,0.36,,Off Target,5.0,Left Foot,Volley,Dwight McNeil,Pass (Live),Charlie Taylor,Pass (Live)
+14,62,Chris Wood,Burnley,0.16,0.15,Saved,19.0,Left Foot,,Jack Cork,Pass (Live),Ashley Barnes,Pass (Live)
+15,75,Chris Wood,Burnley,0.26,0.39,Saved,15.0,Right Foot,,Phil Bardsley,Pass (Live),,
+16,80,Manuel Lanzini,West Ham,0.03,,Blocked,20.0,Left Foot,,Aaron Cresswell,Pass (Live),Robert Snodgrass,Pass (Live)
+17,83,Jeff Hendrick,Burnley,0.06,0.42,Saved,16.0,Right Foot,,Jack Cork,Pass (Live),Jeff Hendrick,Pass (Live)
+18,85,Andriy Yarmolenko,West Ham,0.2,,Off Target,13.0,Left Foot,,Manuel Lanzini,Pass (Live),Aaron Cresswell,Pass (Live)
+19,90+3,Andriy Yarmolenko,West Ham,0.07,0.4,Saved,10.0,Right Foot,,Albian Ajeti,Pass (Live),Fabián Balbuena,Pass (Live)
+20,90+4,Aaron Cresswell,West Ham,0.02,,Off Target,30.0,Left Foot,,Declan Rice,Pass (Live),Sébastien Haller,Pass (Live)
+21,90+7,Jack Cork,Burnley,0.04,0.18,Saved,30.0,Right Foot,Deflected,Jack Cork,Take-On,Ashley Westwood,Pass (Live)

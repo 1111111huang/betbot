@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Danny Welbeck,Brighton,0.06,0.57,Saved,17.0,Left Foot,,Danny Welbeck,Take-On,Jan Paul van Hecke,Pass (Live)
+1,17,Pascal Groß (pen),Brighton,0.79,0.98,Goal,13.0,Right Foot,,Danny Welbeck,Fouled,Facundo Buonanotte,Pass (Live)
+2,20,Richarlison,Tottenham,0.06,,Blocked,14.0,Right Foot,,Richarlison,Pass (Live),Pedro Porro,Pass (Live)
+3,22,Richarlison,Tottenham,0.3,0.43,Saved,13.0,Right Foot,,James Maddison,Pass (Live),Micky van de Ven,Pass (Live)
+4,22,Timo Werner,Tottenham,0.03,,Off Target,23.0,Right Foot,,Richarlison,Shot,,
+5,26,James Maddison,Tottenham,0.1,,Off Target,18.0,Right Foot,,Richarlison,Pass (Live),Pape Matar Sarr,Interception
+6,29,Danny Welbeck,Brighton,0.03,,Blocked,24.0,Right Foot,,Danny Welbeck,Take-On,,
+7,29,Kaoru Mitoma,Brighton,0.1,0.55,Saved,10.0,Right Foot,Deflected,Adam Lallana,Pass (Live),Danny Welbeck,Pass (Live)
+8,36,Richarlison,Tottenham,0.08,,Off Target,8.0,Left Foot,,Timo Werner,Pass (Live),Destiny Udogie,Pass (Live)
+9,38,Dejan Kulusevski,Tottenham,0.22,0.19,Saved,10.0,Left Foot,,Richarlison,Pass (Live),Cristian Romero,Pass (Live)
+10,41,Richarlison,Tottenham,0.07,,Blocked,17.0,Right Foot,,Richarlison,Take-On,James Maddison,Pass (Live)
+11,,,,,,,,,,,,,
+12,46,Rodrigo Bentancur,Tottenham,0.03,,Blocked,27.0,Left Foot,,Dejan Kulusevski,Pass (Live),Pape Matar Sarr,Pass (Live)
+13,48,James Maddison,Tottenham,0.05,0.29,Saved,27.0,Right Foot,Free kick,James Maddison,Fouled,Cristian Romero,Pass (Live)
+14,53,Timo Werner,Tottenham,0.03,,Blocked,24.0,Right Foot,,Micky van de Ven,Pass (Live),James Maddison,Pass (Live)
+15,55,Pape Matar Sarr,Tottenham,0.01,,Blocked,25.0,Right Foot,Volley,Dejan Kulusevski,Pass (Dead),Dejan Kulusevski,Take-On
+16,58,Pape Matar Sarr,Tottenham,0.1,,Blocked,17.0,Right Foot,,,,,
+17,61,Pape Matar Sarr,Tottenham,0.13,0.27,Goal,7.0,Left Foot,,,,,
+18,66,Brennan Johnson,Tottenham,0.06,0.03,Saved,16.0,Right Foot,,Son Heung-min,Pass (Live),James Maddison,Pass (Live)
+19,76,Ansu Fati,Brighton,0.09,,Off Target,9.0,Left Foot,,Kaoru Mitoma,Pass (Live),Pascal Groß,Pass (Live)
+20,78,Facundo Buonanotte,Brighton,0.15,,Blocked,16.0,Left Foot,,Ansu Fati,Pass (Live),Kaoru Mitoma,Pass (Live)
+21,90+4,Pierre Højbjerg,Tottenham,0.03,,Off Target,23.0,Right Foot,,James Maddison,Pass (Live),Son Heung-min,Pass (Live)
+22,90+6,Brennan Johnson,Tottenham,0.34,0.62,Goal,6.0,Right Foot,,Son Heung-min,Pass (Live),Richarlison,Pass (Live)

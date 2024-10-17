@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,Gabriel Magalhães,Arsenal,0.14,0.72,Goal,5.0,Head,,Ben White,Pass (Live),,
+1,7.0,Pierre-Emerick Aubameyang,Arsenal,0.07,0.07,Saved,13.0,Left Foot,,Pierre-Emerick Aubameyang,Take-On,,
+2,11.0,Thomas Partey,Arsenal,0.04,0.04,Saved,27.0,Left Foot,,Bukayo Saka,Pass (Live),,
+3,13.0,James Maddison,Leicester City,0.09,,Blocked,29.0,Right Foot,Free kick,James Maddison,Fouled,Jamie Vardy,Pass (Live)
+4,13.0,Albert Sambi Lokonga,Arsenal,0.02,,Blocked,35.0,Right Foot,,Emile Smith Rowe,Pass (Live),,
+5,18.0,Emile Smith Rowe,Arsenal,0.14,0.08,Goal,14.0,Right Foot,,Bukayo Saka,Pass (Live),Thomas Partey,Pass (Live)
+6,28.0,Kelechi Iheanacho,Leicester City,0.04,0.45,Saved,27.0,Left Foot,,Youri Tielemans,Pass (Live),Çağlar Söyüncü,Pass (Live)
+7,39.0,Youri Tielemans,Leicester City,0.02,0.38,Saved,29.0,Right Foot,,Boubakary Soumaré,Pass (Live),Daniel Amartey,Pass (Live)
+8,43.0,James Maddison,Leicester City,0.13,0.31,Saved,24.0,Right Foot,Free kick,James Maddison,Fouled,Daniel Amartey,Pass (Live)
+9,43.0,Jonny Evans,Leicester City,0.21,0.8,Saved,2.0,Right Foot,,James Maddison,Shot,,
+10,,,,,,,,,,,,,
+11,48.0,Nuno Tavares,Arsenal,0.03,,Blocked,22.0,Left Foot,,Bukayo Saka,Pass (Live),Takehiro Tomiyasu,Pass (Live)
+12,52.0,Harvey Barnes,Leicester City,0.09,,Off Target,21.0,Right Foot,,Jamie Vardy,Pass (Live),James Maddison,Pass (Live)
+13,55.0,Luke Thomas,Leicester City,0.03,,Off Target,15.0,Left Foot,,Youri Tielemans,Pass (Live),Boubakary Soumaré,Pass (Live)
+14,57.0,Youri Tielemans,Leicester City,0.02,,Off Target,26.0,Right Foot,Volley,James Maddison,Pass (Dead),Boubakary Soumaré,Fouled
+15,58.0,Ademola Lookman,Leicester City,0.08,0.06,Saved,10.0,Right Foot,,Youri Tielemans,Pass (Live),,
+16,62.0,Harvey Barnes,Leicester City,0.33,0.26,Saved,7.0,Right Foot,,James Maddison,Pass (Live),Harvey Barnes,Tackle
+17,65.0,Harvey Barnes,Leicester City,0.02,0.02,Saved,26.0,Right Foot,,Luke Thomas,Pass (Live),James Maddison,Pass (Live)
+18,67.0,Jamie Vardy,Leicester City,0.1,,Off Target,13.0,Head,,Youri Tielemans,Pass (Live),Çağlar Söyüncü,Pass (Live)
+19,70.0,Pierre-Emerick Aubameyang,Arsenal,0.18,0.22,Saved,4.0,Right Foot,,Emile Smith Rowe,Pass (Dead),Bukayo Saka,Pass (Dead)
+20,70.0,Bukayo Saka,Arsenal,0.04,,Blocked,14.0,Left Foot,,Martin Ødegaard,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+21,71.0,Bukayo Saka,Arsenal,0.04,,Off Target,16.0,Left Foot,,Martin Ødegaard,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+22,74.0,Harvey Barnes,Leicester City,0.04,,Off Target,12.0,Head,,Youri Tielemans,Pass (Live),Patson Daka,Pass (Live)
+23,79.0,Harvey Barnes,Leicester City,0.06,0.16,Saved,5.0,Left Foot,,Jamie Vardy,Pass (Live),Harvey Barnes,Pass (Live)
+24,83.0,Youri Tielemans,Leicester City,0.02,,Blocked,25.0,Left Foot,,Timothy Castagne,Pass (Live),Patson Daka,Pass (Live)
+25,84.0,Harvey Barnes,Leicester City,0.02,,Blocked,6.0,Other,,Youri Tielemans,Pass (Dead),Youri Tielemans,Shot

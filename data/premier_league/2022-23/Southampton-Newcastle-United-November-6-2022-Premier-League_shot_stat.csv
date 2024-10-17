@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Che Adams,Southampton,0.02,,Blocked,13.0,Right Foot,,Stuart Armstrong,Pass (Live),Armel Bella Kotchap,Pass (Live)
+1,10,Romain Perraud,Southampton,0.03,0.24,Saved,25.0,Right Foot,,Romain Perraud,Take-On,Ainsley Maitland-Niles,Pass (Live)
+2,25,Callum Wilson,Newcastle Utd,0.09,,Off Target,20.0,Left Foot,,Sean Longstaff,Pass (Live),Kieran Trippier,Pass (Live)
+3,30,Miguel Almirón,Newcastle Utd,0.11,,Blocked,9.0,Left Foot,Volley,Joe Willock,Pass (Live),Kieran Trippier,Pass (Live)
+4,35,Miguel Almirón,Newcastle Utd,0.23,0.85,Goal,10.0,Left Foot,,Miguel Almirón,Take-On,,
+5,41,Sean Longstaff,Newcastle Utd,0.14,,Off Target,7.0,Head,,Joe Willock,Pass (Live),Jacob Murphy,Pass (Live)
+6,42,Mohamed Elyounoussi,Southampton,0.1,,Blocked,17.0,Right Foot,,Stuart Armstrong,Pass (Live),Ainsley Maitland-Niles,Pass (Live)
+7,45+2,Mohamed Elyounoussi,Southampton,0.66,,Off Target,5.0,Left Foot,,Stuart Armstrong,Pass (Live),Ainsley Maitland-Niles,Pass (Live)
+8,,,,,,,,,,,,,
+9,47,James Ward-Prowse,Southampton,0.03,0.06,Saved,32.0,Right Foot,Free kick,Stuart Armstrong,Fouled,Che Adams,Pass (Live)
+10,49,Romain Perraud,Southampton,0.05,,Blocked,20.0,Left Foot,,James Ward-Prowse,Pass (Dead),,Fouled
+11,49,Mohamed Elyounoussi,Southampton,0.04,,Off Target,29.0,Right Foot,Volley,Ainsley Maitland-Niles,Pass (Live),Romain Perraud,Shot
+12,56,Che Adams,Southampton,0.14,,Off Target,10.0,Right Foot,Volley,Mohamed Elyounoussi,Pass (Live),Theo Walcott,Pass (Live)
+13,57,Mohamed Elyounoussi,Southampton,0.04,,Off Target,11.0,Head,,Ainsley Maitland-Niles,Pass (Live),Che Adams,Pass (Live)
+14,58,Chris Wood,Newcastle Utd,0.08,0.48,Goal,16.0,Right Foot,,Joe Willock,Pass (Live),Jacob Murphy,Pass (Live)
+15,62,Joe Willock,Newcastle Utd,0.18,0.84,Goal,17.0,Right Foot,,Kieran Trippier,Pass (Live),Bruno Guimarães,Pass (Live)
+16,66,Romain Perraud,Southampton,0.05,,Blocked,14.0,Left Foot,,Adam Armstrong,Pass (Live),Romain Perraud,Pass (Live)
+17,73,Mohammed Salisu,Southampton,0.03,,Off Target,25.0,Left Foot,,Adam Armstrong,Pass (Live),Duje Ćaleta-Car,Pass (Live)
+18,76,Adam Armstrong,Southampton,0.03,0.08,Saved,23.0,Left Foot,,Ainsley Maitland-Niles,Pass (Live),Joe Aribo,Pass (Live)
+19,87,Mohammed Salisu,Southampton,0.07,,Blocked,10.0,Head,,James Ward-Prowse,Pass (Dead),James Ward-Prowse,Pass (Live)
+20,87,Mohammed Salisu,Southampton,0.12,0.23,Saved,9.0,Head,,James Ward-Prowse,Pass (Dead),Mohammed Salisu,Shot
+21,89,Romain Perraud,Southampton,0.33,0.99,Goal,9.0,Right Foot,,Romain Perraud,Take-On,Mohammed Salisu,Pass (Live)
+22,90+1,Bruno Guimarães,Newcastle Utd,0.03,0.46,Goal,28.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Bruno Guimarães,Pass (Live)
+23,90+3,Romain Perraud,Southampton,0.02,,Off Target,30.0,Right Foot,Volley,,,,

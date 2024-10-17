@@ -1,0 +1,46 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Neal Maupay,Brighton,0.04,,Blocked,15.0,Left Foot,,Dale Stephens,Pass (Live),Aaron Mooy,Pass (Live)
+1,6,Björn Engels,Aston Villa,0.05,,Off Target,11.0,Head,,Conor Hourihane,Pass (Dead),Jack Grealish,Pass (Live)
+2,10,Pascal Groß,Brighton,0.03,,Blocked,27.0,Left Foot,,Davy Pröpper,Pass (Live),Martín Montoya,Pass (Live)
+3,12,Aaron Connolly,Brighton,0.07,,Off Target,15.0,Right Foot,,Pascal Groß,Pass (Live),Dale Stephens,Pass (Live)
+4,15,Davy Pröpper,Brighton,0.03,,Off Target,18.0,Right Foot,,Aaron Mooy,Pass (Live),Pascal Groß,Pass (Live)
+5,21,Adam Webster,Brighton,0.1,0.61,Goal,6.0,Head,,Pascal Groß,Pass (Dead),Martín Montoya,Fouled
+6,23,Conor Hourihane,Aston Villa,0.06,0.22,Saved,31.0,Left Foot,Free kick,Conor Hourihane,Fouled,,
+7,23,John McGinn,Aston Villa,0.05,0.02,Saved,14.0,Head,,Conor Hourihane,Pass (Live),Matt Targett,Pass (Live)
+8,26,Neal Maupay,Brighton,0.04,0.25,Saved,24.0,Right Foot,,Dale Stephens,Pass (Live),Davy Pröpper,Pass (Live)
+9,29,Anwar El Ghazi,Aston Villa,0.17,,Blocked,16.0,Right Foot,,Anwar El Ghazi,Take-On,Jack Grealish,Pass (Live)
+10,31,Aaron Connolly,Brighton,0.11,0.13,Saved,12.0,Right Foot,,Neal Maupay,Pass (Live),Davy Pröpper,Pass (Live)
+11,32,Martín Montoya,Brighton,0.03,,Off Target,28.0,Right Foot,,Dan Burn,Pass (Live),Davy Pröpper,Pass (Live)
+12,33,Neal Maupay,Brighton,0.04,,Off Target,16.0,Head,,Davy Pröpper,Pass (Live),Martín Montoya,Pass (Live)
+13,37,Conor Hourihane,Aston Villa,0.06,0.18,Saved,27.0,Left Foot,Free kick,Jack Grealish,Fouled,John McGinn,Pass (Live)
+14,37,John McGinn,Aston Villa,0.06,,Off Target,13.0,Left Foot,,Conor Hourihane,Shot,,
+15,40,John McGinn,Aston Villa,0.28,,Blocked,16.0,Left Foot,,Jack Grealish,Pass (Live),Matt Targett,Pass (Live)
+16,45,Jack Grealish,Aston Villa,0.04,0.48,Saved,18.0,Right Foot,,Marvelous Nakamba,Pass (Live),Jack Grealish,Pass (Live)
+17,45,Neal Maupay,Brighton,0.04,0.05,Saved,13.0,Left Foot,,Aaron Connolly,Pass (Live),Lewis Dunk,Pass (Dead)
+18,45,Dale Stephens,Brighton,0.03,,Blocked,22.0,Right Foot,Volley,Neal Maupay,Shot,,
+19,45+2,Jack Grealish,Aston Villa,0.81,0.93,Goal,3.0,Right Foot,,Wesley Moraes,Pass (Live),Jack Grealish,Pass (Live)
+20,,,,,,,,,,,,,
+21,51,Solly March,Brighton,0.03,,Off Target,29.0,Left Foot,,Pascal Groß,Pass (Live),Dale Stephens,Pass (Live)
+22,51,Conor Hourihane,Aston Villa,0.27,0.31,Saved,13.0,Left Foot,Deflected,Matt Targett,Pass (Live),Jack Grealish,Pass (Live)
+23,51,Anwar El Ghazi,Aston Villa,0.5,,Off Target,7.0,Right Foot,,Conor Hourihane,Shot,,
+24,52,Pascal Groß,Brighton,0.06,,Blocked,18.0,Left Foot,,Pascal Groß,Take-On,Dan Burn,Pass (Live)
+25,53,Wesley Moraes,Aston Villa,0.12,,Off Target,7.0,Right Foot,,John McGinn,Pass (Live),John McGinn,Take-On
+26,56,Neal Maupay,Brighton,0.08,,Off Target,14.0,Right Foot,,Martín Montoya,Pass (Live),Pascal Groß,Pass (Live)
+27,58,Wesley Moraes,Aston Villa,0.06,,Blocked,13.0,Left Foot,,John McGinn,Pass (Live),Tyrone Mings,Pass (Live)
+28,61,Solly March,Brighton,0.1,,Blocked,13.0,Right Foot,,Pascal Groß,Pass (Live),Pascal Groß,Take-On
+29,63,Neal Maupay,Brighton,0.03,,Off Target,27.0,Right Foot,,Pascal Groß,Pass (Live),Lewis Dunk,Pass (Live)
+30,65,Trézéguet,Aston Villa,0.03,,Blocked,23.0,Right Foot,,John McGinn,Pass (Live),Trézéguet,Pass (Live)
+31,65,John McGinn,Aston Villa,0.06,,Off Target,16.0,Left Foot,,Jack Grealish,Pass (Live),Jack Grealish,Take-On
+32,66,Martín Montoya,Brighton,0.3,0.13,Saved,11.0,Right Foot,,Pascal Groß,Pass (Live),,
+33,67,Anwar El Ghazi,Aston Villa,0.05,,Off Target,7.0,Head,,Trézéguet,Pass (Live),Matt Targett,Pass (Live)
+34,69,Adam Webster,Brighton,0.03,,Blocked,21.0,Left Foot,,Solly March,Pass (Live),Neal Maupay,Pass (Live)
+35,69,Adam Webster,Brighton,0.03,,Blocked,25.0,Right Foot,,Neal Maupay,Pass (Live),Adam Webster,Shot
+36,75,John McGinn,Aston Villa,0.03,,Blocked,34.0,Left Foot,,John McGinn,Take-On,Jack Grealish,Pass (Live)
+37,75,Jack Grealish,Aston Villa,0.07,,Blocked,12.0,Right Foot,Volley,Matt Targett,Pass (Live),Wesley Moraes,Pass (Live)
+38,79,John McGinn,Aston Villa,0.04,,Blocked,21.0,Left Foot,,Matt Targett,Pass (Live),Matt Targett,Interception
+39,79,Douglas Luiz,Aston Villa,0.03,,Blocked,32.0,Right Foot,,Jack Grealish,Pass (Live),Douglas Luiz,Pass (Live)
+40,80,Pascal Groß,Brighton,0.01,,Off Target,52.0,Right Foot,,,,,
+41,86,Matt Targett,Aston Villa,0.11,,Off Target,22.0,Left Foot,Free kick,Jack Grealish,Fouled,Frederic Guilbert,Pass (Live)
+42,88,Douglas Luiz,Aston Villa,0.03,,Off Target,29.0,Right Foot,,Jack Grealish,Pass (Live),John McGinn,Pass (Live)
+43,90+3,Keinan Davis,Aston Villa,0.07,0.38,Saved,10.0,Left Foot,,Douglas Luiz,Pass (Live),Jack Grealish,Pass (Live)
+44,90+4,Matt Targett,Aston Villa,0.05,0.03,Goal,11.0,Left Foot,,Jack Grealish,Pass (Live),Jack Grealish,Take-On

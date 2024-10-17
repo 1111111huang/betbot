@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Nicolò Zaniolo,Aston Villa,0.03,,Blocked,20.0,Left Foot,,Lucas Digne,Pass (Live),Moussa Diaby,Pass (Live)
+1,2,John McGinn,Aston Villa,0.02,,Off Target,28.0,Left Foot,,Douglas Luiz,Pass (Live),Moussa Diaby,Pass (Live)
+2,4,Nicolò Zaniolo,Aston Villa,0.08,,Off Target,15.0,Left Foot,Volley,Ollie Watkins,Pass (Live),Moussa Diaby,Pass (Live)
+3,9,Nicolò Zaniolo,Aston Villa,0.12,,Blocked,4.0,Right Foot,,Lucas Digne,Pass (Live),Moussa Diaby,Pass (Live)
+4,12,Ollie Watkins,Aston Villa,0.47,0.38,Saved,10.0,Left Foot,,Matty Cash,Pass (Live),Ezri Konsa,Pass (Live)
+5,12,Ollie Watkins,Aston Villa,0.37,0.96,Saved,4.0,Right Foot,,Ollie Watkins,Shot,,
+6,17,John McGinn,Aston Villa,0.06,0.33,Goal,12.0,Right Foot,,John McGinn,Take-On,Douglas Luiz,Pass (Dead)
+7,20,Nicolò Zaniolo,Aston Villa,0.25,0.76,Saved,3.0,Left Foot,,Ollie Watkins,Pass (Live),Ollie Watkins,Take-On
+8,21,Pau Torres,Aston Villa,0.05,,Off Target,9.0,Head,,Douglas Luiz,Pass (Dead),Nicolò Zaniolo,Shot
+9,24,Nicolò Zaniolo,Aston Villa,0.06,,Blocked,24.0,Left Foot,,Matty Cash,Pass (Live),John McGinn,Pass (Live)
+10,40,Pau Torres,Aston Villa,0.02,,Blocked,37.0,Left Foot,,Boubacar Kamara,Pass (Live),Matty Cash,Pass (Live)
+11,44,Ezri Konsa,Aston Villa,0.12,,Blocked,10.0,Left Foot,,Nicolò Zaniolo,Shot,,
+12,44,Nicolò Zaniolo,Aston Villa,0.1,,Off Target,9.0,Head,,Lucas Digne,Pass (Live),Pau Torres,Pass (Live)
+13,44,Moussa Diaby,Aston Villa,0.02,,Blocked,24.0,Left Foot,,Ezri Konsa,Pass (Live),Pau Torres,Pass (Live)
+14,,,,,,,,,,,,,
+15,49,Moussa Diaby,Aston Villa,0.28,0.66,Goal,11.0,Left Foot,,Lucas Digne,Pass (Live),John McGinn,Pass (Live)
+16,60,Ross Barkley,Luton Town,0.02,,Off Target,32.0,Left Foot,,Alfie Doughty,Pass (Live),Andros Townsend,Pass (Dead)
+17,68,Tahith Chong,Luton Town,0.05,,Blocked,17.0,Left Foot,,Alfie Doughty,Pass (Live),Andros Townsend,Pass (Dead)
+18,73,Ross Barkley,Luton Town,0.05,,Blocked,21.0,Right Foot,,Andros Townsend,Pass (Dead),Chiedozie Ogbene,Fouled
+19,76,Leon Bailey,Aston Villa,0.14,,Off Target,16.0,Left Foot,,Moussa Diaby,Pass (Live),Leon Bailey,Pass (Live)
+20,80,John McGinn,Aston Villa,0.28,0.78,Saved,12.0,Right Foot,,Leon Bailey,Pass (Live),Youri Tielemans,Pass (Live)
+21,87,Teden Mengi,Luton Town,0.06,,Off Target,13.0,Head,,Andros Townsend,Pass (Dead),Tahith Chong,Fouled
+22,90+3,Ross Barkley,Luton Town,0.08,,Blocked,15.0,Right Foot,,Ross Barkley,Tackle,,
+23,90+3,Elijah Adebayo,Luton Town,0.14,,Blocked,13.0,Right Foot,,Ross Barkley,Shot,,
+24,90+4,Ross Barkley,Luton Town,0.1,0.07,Saved,10.0,Right Foot,Deflected,Tom Lockyer,Pass (Live),Andros Townsend,Pass (Dead)

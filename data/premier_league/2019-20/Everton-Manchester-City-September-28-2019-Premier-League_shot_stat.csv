@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Riyad Mahrez,Manchester City,0.04,0.31,Saved,28.0,Left Foot,,Riyad Mahrez,Take-On,Nicolás Otamendi,Pass (Live)
+1,12,İlkay Gündoğan,Manchester City,0.73,,Woodwork,3.0,Left Foot,,Riyad Mahrez,Pass (Live),Rodri,Pass (Live)
+2,12,Riyad Mahrez,Manchester City,0.08,0.4,Saved,8.0,Right Foot,,Kevin De Bruyne,Pass (Live),Nicolás Otamendi,Pass (Live)
+3,14,Lucas Digne,Everton,0.09,,Off Target,22.0,Left Foot,Free kick,Richarlison,Fouled,Jordan Pickford,Pass (Live)
+4,23,Gylfi Sigurðsson,Everton,0.07,,Blocked,16.0,Left Foot,,Lucas Digne,Pass (Live),Alex Iwobi,Pass (Live)
+5,24,Gabriel Jesus,Manchester City,0.57,0.64,Goal,4.0,Head,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+6,25,Gylfi Sigurðsson,Everton,0.03,0.07,Saved,25.0,Right Foot,,Alex Iwobi,Pass (Live),Alex Iwobi,Pass (Live)
+7,29,Riyad Mahrez,Manchester City,0.09,0.06,Saved,14.0,Right Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)
+8,33,Riyad Mahrez,Manchester City,0.06,0.14,Saved,21.0,Left Foot,,Raheem Sterling,Pass (Live),Riyad Mahrez,Pass (Live)
+9,33,Séamus Coleman,Everton,0.11,,Blocked,6.0,Right Foot,,Fabian Delph,Pass (Live),Morgan Schneiderlin,Pass (Live)
+10,33,Dominic Calvert-Lewin,Everton,0.98,0.98,Goal,1.0,Head,,Séamus Coleman,Shot,,
+11,36,Gabriel Jesus,Manchester City,0.05,,Off Target,9.0,Head,,Oleksandr Zinchenko,Pass (Live),İlkay Gündoğan,Pass (Live)
+12,38,Kevin De Bruyne,Manchester City,0.03,,Blocked,27.0,Right Foot,,Rodri,Pass (Live),,
+13,39,Richarlison,Everton,0.07,0.16,Saved,11.0,Head,,Gylfi Sigurðsson,Pass (Dead),Dominic Calvert-Lewin,Fouled
+14,44,Gabriel Jesus,Manchester City,0.05,,Off Target,14.0,Left Foot,,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+15,45+3,Gabriel Jesus,Manchester City,0.08,,Blocked,7.0,Head,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)
+16,45+4,İlkay Gündoğan,Manchester City,0.06,0.13,Saved,21.0,Right Foot,,Rodri,Pass (Live),Kyle Walker,Pass (Live)
+17,,,,,,,,,,,,,
+18,47,İlkay Gündoğan,Manchester City,0.08,,Blocked,12.0,Right Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)
+19,49,Kevin De Bruyne,Manchester City,0.11,,Off Target,9.0,Right Foot,,Kevin De Bruyne,Take-On,Riyad Mahrez,Pass (Live)
+20,51,Richarlison,Everton,0.07,,Off Target,12.0,Head,,Gylfi Sigurðsson,Pass (Dead),Dominic Calvert-Lewin,Fouled
+21,54,Yerry Mina,Everton,0.32,0.65,Saved,6.0,Head,,Lucas Digne,Pass (Dead),Richarlison,Fouled
+22,60,Raheem Sterling,Manchester City,0.46,,Off Target,11.0,Right Foot,,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+23,69,Raheem Sterling,Manchester City,0.05,,Blocked,18.0,Right Foot,,Raheem Sterling,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+24,71,Riyad Mahrez,Manchester City,0.08,0.55,Goal,25.0,Left Foot,Free kick,Kevin De Bruyne,Fouled,Kyle Walker,Pass (Live)
+25,74,Sergio Agüero,Manchester City,0.04,,Off Target,28.0,Right Foot,,Sergio Agüero,Take-On,Fernandinho,Pass (Live)
+26,76,Dominic Calvert-Lewin,Everton,0.44,0.42,Saved,9.0,Right Foot,,Gylfi Sigurðsson,Pass (Live),Richarlison,Pass (Live)
+27,79,Yerry Mina,Everton,0.06,0.31,Saved,10.0,Head,,Gylfi Sigurðsson,Pass (Dead),Morgan Schneiderlin,Pass (Live)
+28,79,Dominic Calvert-Lewin,Everton,0.22,,Off Target,3.0,Left Foot,,Yerry Mina,Shot,,
+29,83,Yerry Mina,Everton,0.08,0.02,Saved,9.0,Head,,Gylfi Sigurðsson,Pass (Dead),Séamus Coleman,Take-On
+30,84,Raheem Sterling,Manchester City,0.13,0.15,Goal,9.0,Left Foot,Volley,Sergio Agüero,Shot,,
+31,84,Sergio Agüero,Manchester City,0.05,,Saved off Target,11.0,Right Foot,,Sergio Agüero,Pass (Live),Sergio Agüero,Take-On

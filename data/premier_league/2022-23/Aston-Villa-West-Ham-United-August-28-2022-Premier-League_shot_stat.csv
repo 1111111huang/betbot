@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,13.0,Ollie Watkins,Aston Villa,0.15,,Blocked,15.0,Right Foot,,Lucas Digne,Pass (Live),Calum Chambers,Tackle
+1,17.0,Ollie Watkins,Aston Villa,0.05,0.07,Saved,11.0,Head,,Philippe Coutinho,Pass (Live),Douglas Luiz,Pass (Live)
+2,34.0,Philippe Coutinho,Aston Villa,0.02,0.06,Saved,29.0,Right Foot,,Lucas Digne,Pass (Live),Ollie Watkins,Pass (Live)
+3,42.0,Pablo Fornals,West Ham,0.01,,Off Target,29.0,Right Foot,Volley,Gianluca Scamacca,Pass (Live),Emerson Palmieri,Pass (Live)
+4,45.0,John McGinn,Aston Villa,0.03,,Off Target,26.0,Left Foot,,Philippe Coutinho,Pass (Live),Boubacar Kamara,Pass (Live)
+5,,,,,,,,,,,,,
+6,49.0,Danny Ings,Aston Villa,0.09,,Off Target,10.0,Head,,Lucas Digne,Pass (Live),Philippe Coutinho,Pass (Live)
+7,56.0,Jarrod Bowen,West Ham,0.28,,Blocked,16.0,Left Foot,,Pablo Fornals,Pass (Live),,
+8,62.0,Gianluca Scamacca,West Ham,0.09,0.08,Saved,22.0,Right Foot,Deflected,Tomáš Souček,Pass (Live),Gianluca Scamacca,Pass (Live)
+9,64.0,John McGinn,Aston Villa,0.02,,Blocked,28.0,Left Foot,,Philippe Coutinho,Pass (Live),Douglas Luiz,Pass (Live)
+10,72.0,Saïd Benrahma,West Ham,0.06,,Off Target,24.0,Right Foot,,Declan Rice,Pass (Live),Vladimír Coufal,Pass (Live)
+11,74.0,Pablo Fornals,West Ham,0.04,0.06,Goal,28.0,Right Foot,Deflected,Declan Rice,Pass (Live),Kurt Zouma,Pass (Live)
+12,76.0,Matty Cash,Aston Villa,0.06,,Off Target,17.0,Left Foot,,Jacob Ramsey,Pass (Live),,
+13,80.0,Aaron Cresswell,West Ham,0.05,,Blocked,27.0,Left Foot,Free kick,Declan Rice,Fouled,Michail Antonio,Pass (Live)
+14,82.0,Declan Rice,West Ham,0.03,,Off Target,28.0,Right Foot,,Saïd Benrahma,Pass (Live),Pablo Fornals,Pass (Live)
+15,87.0,Leon Bailey,Aston Villa,0.03,,Off Target,20.0,Left Foot,,Boubacar Kamara,Pass (Live),Emi Buendía,Tackle
+16,89.0,Jacob Ramsey,Aston Villa,0.04,0.05,Saved,28.0,Right Foot,,Emi Buendía,Pass (Live),Jacob Ramsey,Pass (Live)

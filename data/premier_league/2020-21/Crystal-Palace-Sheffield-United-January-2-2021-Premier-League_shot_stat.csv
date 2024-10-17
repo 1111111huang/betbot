@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Jeffrey Schlupp,Crystal Palace,0.08,0.55,Goal,12.0,Right Foot,Deflected,,,,
+1,11,Andros Townsend,Crystal Palace,0.02,0.11,Saved,35.0,Left Foot,,Luka Milivojević,Pass (Live),Wilfried Zaha,Pass (Live)
+2,31,Christian Benteke,Crystal Palace,0.18,,Woodwork,4.0,Right Foot,,Wilfried Zaha,Pass (Live),Jeffrey Schlupp,Pass (Live)
+3,43,Jayden Bogle,Sheffield Utd,0.05,0.07,Saved,12.0,Right Foot,,Ethan Ampadu,Pass (Live),Ben Osborn,Pass (Live)
+4,45,Chris Basham,Sheffield Utd,0.12,,Blocked,7.0,Right Foot,,Jayden Bogle,Pass (Live),Oliver Norwood,Pass (Live)
+5,45+2,Wilfried Zaha,Crystal Palace,0.05,0.02,Saved,14.0,Head,,Luka Milivojević,Pass (Dead),Wilfried Zaha,Fouled
+6,45+6,Eberechi Eze,Crystal Palace,0.03,0.48,Goal,23.0,Right Foot,,Eberechi Eze,Take-On,James McArthur,Pass (Live)
+7,,,,,,,,,,,,,
+8,55,Wilfried Zaha,Crystal Palace,0.07,,Blocked,8.0,Head,,Andros Townsend,Pass (Live),Luka Milivojević,Pass (Live)
+9,71,John Fleck,Sheffield Utd,0.01,,Blocked,28.0,Left Foot,,John Fleck,Take-On,,
+10,76,Jordan Ayew,Crystal Palace,0.02,,Blocked,33.0,Right Foot,,Eberechi Eze,Pass (Live),Tyrick Mitchell,Pass (Live)
+11,79,Andros Townsend,Crystal Palace,0.06,,Off Target,17.0,Left Foot,,Andros Townsend,Take-On,,
+12,83,David McGoldrick,Sheffield Utd,0.04,,Blocked,16.0,Right Foot,Volley,,,,
+13,84,Andros Townsend,Crystal Palace,0.08,,Blocked,15.0,Left Foot,,Wilfried Zaha,Pass (Live),Tyrick Mitchell,Pass (Live)
+14,87,John Fleck,Sheffield Utd,0.02,,Off Target,29.0,Left Foot,Volley,Oliver Norwood,Pass (Live),Ethan Ampadu,Pass (Live)
+15,90+1,Antwoine Hackford,Sheffield Utd,0.1,,Blocked,11.0,Right Foot,,Chris Basham,Pass (Live),Jayden Bogle,Pass (Live)
+16,90+4,David McGoldrick,Sheffield Utd,0.02,0.01,Saved,32.0,Right Foot,,John Fleck,Pass (Live),Rhian Brewster,Pass (Live)

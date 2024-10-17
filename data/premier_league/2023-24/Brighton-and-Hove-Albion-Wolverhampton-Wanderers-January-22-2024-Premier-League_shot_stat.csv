@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1.0,Pablo Sarabia,Wolves,0.03,0.28,Saved,25.0,Left Foot,Deflected,,,,
+1,3.0,João Pedro,Brighton,0.09,,Blocked,21.0,Right Foot,,Pervis Estupiñán,Pass (Live),James Milner,Pass (Live)
+2,5.0,Jan Paul van Hecke,Brighton,0.03,,Blocked,14.0,Head,,Jack Hinshelwood,Pass (Live),Pascal Groß,Pass (Live)
+3,11.0,Danny Welbeck,Brighton,0.05,,Blocked,27.0,Right Foot,,Jack Hinshelwood,Pass (Live),Lewis Dunk,Pass (Live)
+4,11.0,Danny Welbeck,Brighton,0.09,,Off Target,8.0,Head,,Pervis Estupiñán,Pass (Dead),Danny Welbeck,Shot
+5,11.0,Facundo Buonanotte,Brighton,0.22,,Blocked,4.0,Head,,Danny Welbeck,Shot,,
+6,22.0,Pedro Neto,Wolves,0.07,,Off Target,25.0,Left Foot,,Pablo Sarabia,Pass (Live),Nélson Semedo,Pass (Live)
+7,26.0,Jan Paul van Hecke,Brighton,0.27,0.89,Saved,4.0,Head,,Pascal Groß,Pass (Dead),Billy Gilmour,Fouled
+8,30.0,Pablo Sarabia,Wolves,0.2,,Off Target,20.0,Left Foot,,Pedro Neto,Pass (Live),Tommy Doyle,Pass (Live)
+9,42.0,João Pedro,Brighton,0.14,0.09,Saved,17.0,Right Foot,,Pascal Groß,Pass (Live),Billy Gilmour,Pass (Live)
+10,,,,,,,,,,,,,
+11,46.0,Matheus Cunha,Wolves,0.19,0.11,Saved,14.0,Right Foot,,Pedro Neto,Pass (Live),Tommy Doyle,Pass (Live)
+12,46.0,Matheus Cunha,Wolves,0.28,,Off Target,9.0,Right Foot,,Matheus Cunha,Shot,,
+13,52.0,João Pedro,Brighton,0.11,,Blocked,13.0,Right Foot,,Danny Welbeck,Pass (Live),James Milner,Pass (Live)
+14,56.0,Craig Dawson,Wolves,0.04,,Off Target,15.0,Right Foot,Volley,Pablo Sarabia,Pass (Live),Pedro Neto,Pass (Live)
+15,76.0,Evan Ferguson,Brighton,0.02,,Blocked,10.0,Head,,Pascal Groß,Pass (Dead),,
+16,79.0,Matheus Cunha,Wolves,0.33,,Off Target,27.0,Right Foot,,Matheus Cunha,Take-On,Pedro Neto,Pass (Live)
+17,81.0,Mario Lemina,Wolves,0.07,0.03,Saved,12.0,Right Foot,,Matheus Cunha,Pass (Live),Pedro Neto,Pass (Live)
+18,82.0,João Pedro,Brighton,0.02,0.07,Saved,15.0,Left Foot,,Pascal Groß,Pass (Live),Billy Gilmour,Pass (Live)
+19,88.0,Billy Gilmour,Brighton,0.01,,Blocked,24.0,Right Foot,,Jack Hinshelwood,Pass (Live),Jan Paul van Hecke,Pass (Live)

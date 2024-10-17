@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Douglas Luiz,Aston Villa,0.02,,Off Target,36.0,Right Foot,,Philippe Coutinho,Pass (Live),Emi Buendía,Pass (Live)
+1,5,Ollie Watkins,Aston Villa,0.08,0.14,Goal,13.0,Left Foot,,Matty Cash,Pass (Live),Matty Cash,Tackle
+2,16,Bukayo Saka,Arsenal,0.08,0.27,Goal,15.0,Left Foot,Volley,Jorginho,Pass (Live),Gabriel Magalhães,Pass (Live)
+3,19,Oleksandr Zinchenko,Arsenal,0.02,0.03,Saved,36.0,Left Foot,,Jorginho,Pass (Live),Ben White,Pass (Dead)
+4,28,Douglas Luiz,Aston Villa,0.03,,Blocked,34.0,Right Foot,Free kick,Ollie Watkins,Fouled,Emi Buendía,Pass (Live)
+5,31,Philippe Coutinho,Aston Villa,0.2,0.35,Goal,17.0,Right Foot,,Álex Moreno,Pass (Live),Boubacar Kamara,Pass (Live)
+6,,,,,,,,,,,,,
+7,49,Bukayo Saka,Arsenal,0.06,,Off Target,21.0,Left Foot,,Martin Ødegaard,Pass (Live),Granit Xhaka,Pass (Live)
+8,52,Granit Xhaka,Arsenal,0.06,,Blocked,22.0,Right Foot,,Martin Ødegaard,Pass (Live),Martin Ødegaard,Pass (Live)
+9,53,Oleksandr Zinchenko,Arsenal,0.02,,Blocked,22.0,Left Foot,,Martin Ødegaard,Pass (Live),Leandro Trossard,Pass (Dead)
+10,53,Bukayo Saka,Arsenal,0.03,,Off Target,16.0,Right Foot,,Oleksandr Zinchenko,Shot,,
+11,56,Eddie Nketiah,Arsenal,0.22,,Woodwork,6.0,Head,,Ben White,Pass (Live),Jorginho,Pass (Live)
+12,60,Bukayo Saka,Arsenal,0.03,,Blocked,24.0,Left Foot,,Leandro Trossard,Pass (Live),Granit Xhaka,Pass (Live)
+13,61,Eddie Nketiah,Arsenal,0.15,,Blocked,5.0,Right Foot,Volley,Jorginho,Pass (Live),Martin Ødegaard,Pass (Live)
+14,61,Eddie Nketiah,Arsenal,0.17,,Blocked,4.0,Right Foot,,Eddie Nketiah,Shot,,
+15,61,Eddie Nketiah,Arsenal,0.15,,Blocked,5.0,Right Foot,,Eddie Nketiah,Shot,,
+16,61,Oleksandr Zinchenko,Arsenal,0.04,0.34,Goal,22.0,Left Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Dead)
+17,63,Eddie Nketiah,Arsenal,0.46,,Off Target,14.0,Right Foot,,Eddie Nketiah,Take-On,Martin Ødegaard,Pass (Live)
+18,75,John McGinn,Aston Villa,0.07,0.05,Saved,26.0,Left Foot,,John McGinn,Take-On,Álex Moreno,Pass (Live)
+19,77,Bukayo Saka,Arsenal,0.05,,Blocked,21.0,Left Foot,Volley,Martin Ødegaard,Pass (Live),Gabriel Martinelli,Pass (Dead)
+20,77,Martin Ødegaard,Arsenal,0.34,,Off Target,16.0,Left Foot,,Eddie Nketiah,Pass (Live),,
+21,82,Leon Bailey,Aston Villa,0.06,0.09,Saved,17.0,Right Foot,,Boubacar Kamara,Pass (Live),Jhon Durán,Pass (Live)
+22,84,Gabriel Magalhães,Arsenal,0.24,,Off Target,9.0,Head,,Martin Ødegaard,Pass (Dead),Bukayo Saka,Fouled
+23,86,Gabriel Magalhães,Arsenal,0.05,,Off Target,9.0,Head,,Martin Ødegaard,Pass (Live),Takehiro Tomiyasu,Pass (Live)
+24,87,Bukayo Saka,Arsenal,0.06,0.07,Saved,13.0,Right Foot,,Jorginho,Pass (Live),Martin Ødegaard,Pass (Live)
+25,90+2,Jhon Durán,Aston Villa,0.05,0.22,Saved,19.0,Left Foot,,Jacob Ramsey,Pass (Live),Jacob Ramsey,Take-On
+26,90+3,Jorginho,Arsenal,0.06,,Woodwork,25.0,Right Foot,,Gabriel Martinelli,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+27,90+8,Gabriel Martinelli,Arsenal,0.98,0.68,Goal,10.0,Right Foot,,Fabio Vieira,Pass (Live),,

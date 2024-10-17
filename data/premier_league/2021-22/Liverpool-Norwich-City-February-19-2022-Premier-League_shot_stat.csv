@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Mohamed Salah,Liverpool,0.07,,Off Target,17.0,Left Foot,,Jordan Henderson,Pass (Live),Mohamed Salah,Pass (Live)
+1,4,Josh Sargent,Norwich City,0.01,,Off Target,15.0,Head,,Brandon Williams,Pass (Live),Kenny McLean,Pass (Live)
+2,5,Kostas Tsimikas,Liverpool,0.34,,Off Target,5.0,Left Foot,,Mohamed Salah,Pass (Live),Sadio Mané,Pass (Live)
+3,14,Virgil van Dijk,Liverpool,0.04,0.15,Saved,10.0,Head,,Sadio Mané,Pass (Live),Sadio Mané,Pass (Live)
+4,15,Teemu Pukki,Norwich City,0.37,,Off Target,11.0,Left Foot,,Brandon Williams,Pass (Live),Milot Rashica,Fouled
+5,17,Luis Díaz,Liverpool,0.05,,Off Target,14.0,Right Foot,,Kostas Tsimikas,Pass (Live),Sadio Mané,Pass (Live)
+6,18,Sadio Mané,Liverpool,0.06,0.06,Saved,22.0,Left Foot,Deflected,Sadio Mané,Take-On,Mohamed Salah,Pass (Live)
+7,19,Mohamed Salah,Liverpool,0.03,,Blocked,15.0,Left Foot,,Mohamed Salah,Take-On,Joe Gomez,Pass (Live)
+8,20,Mohamed Salah,Liverpool,0.68,,Blocked,5.0,Head,,Mohamed Salah,Shot,,
+9,20,Naby Keïta,Liverpool,0.06,,Blocked,22.0,Left Foot,,Mohamed Salah,Shot,,
+10,26,Alex Oxlade-Chamberlain,Liverpool,0.02,,Off Target,22.0,Right Foot,,Joël Matip,Pass (Live),Jordan Henderson,Pass (Live)
+11,28,Sadio Mané,Liverpool,0.1,,Off Target,5.0,Head,,Naby Keïta,Pass (Live),Mohamed Salah,Pass (Live)
+12,37,Kostas Tsimikas,Liverpool,0.04,0.21,Saved,15.0,Left Foot,Deflected,Luis Díaz,Pass (Live),Jordan Henderson,Pass (Live)
+13,38,Alex Oxlade-Chamberlain,Liverpool,0.04,,Blocked,23.0,Right Foot,,Kostas Tsimikas,Shot,,
+14,43,Mohamed Salah,Liverpool,0.02,,Off Target,20.0,Left Foot,,Mohamed Salah,Take-On,,
+15,45+1,Kostas Tsimikas,Liverpool,0.05,,Off Target,20.0,Right Foot,Volley,Joël Matip,Pass (Live),Naby Keïta,Pass (Live)
+16,45+1,Alex Oxlade-Chamberlain,Liverpool,0.11,,Blocked,18.0,Left Foot,,Mohamed Salah,Pass (Live),Mohamed Salah,Take-On
+17,,,,,,,,,,,,,
+18,48,Milot Rashica,Norwich City,0.02,0.36,Goal,22.0,Right Foot,Deflected,Josh Sargent,Pass (Live),Josh Sargent,Take-On
+19,54,Jordan Henderson,Liverpool,0.04,,Blocked,22.0,Right Foot,,Mohamed Salah,Pass (Live),Mohamed Salah,Take-On
+20,55,Luis Díaz,Liverpool,0.1,,Blocked,14.0,Left Foot,,Mohamed Salah,Pass (Live),Alex Oxlade-Chamberlain,Pass (Live)
+21,55,Luis Díaz,Liverpool,0.06,,Blocked,18.0,Right Foot,Deflected,Mohamed Salah,Pass (Live),Naby Keïta,Pass (Live)
+22,57,Milot Rashica,Norwich City,0.01,,Off Target,29.0,Left Foot,Volley,,,,
+23,61,Jordan Henderson,Liverpool,0.02,,Blocked,33.0,Right Foot,,Naby Keïta,Pass (Live),Kostas Tsimikas,Pass (Live)
+24,64,Sadio Mané,Liverpool,0.52,0.47,Goal,9.0,Right Foot,Volley,Kostas Tsimikas,Pass (Live),Jordan Henderson,Pass (Live)
+25,67,Billy Gilmour,Norwich City,0.05,,Blocked,22.0,Right Foot,,Milot Rashica,Pass (Live),Milot Rashica,Interception
+26,67,Mohamed Salah,Liverpool,0.23,0.61,Goal,20.0,Right Foot,,Alisson,Pass (Live),,
+27,72,Mohamed Salah,Liverpool,0.06,,Off Target,13.0,Left Foot,,Thiago Alcántara,Pass (Live),Luis Díaz,Pass (Live)
+28,75,Teemu Pukki,Norwich City,0.11,,Off Target,8.0,Right Foot,Volley,Max Aarons,Pass (Live),,
+29,79,Mohamed Salah,Liverpool,0.03,0.14,Saved,28.0,Left Foot,,Luis Díaz,Tackle,,
+30,79,Thiago Alcántara,Liverpool,0.03,,Blocked,26.0,Right Foot,,Jordan Henderson,Pass (Live),Luis Díaz,Pass (Live)
+31,81,Luis Díaz,Liverpool,0.44,0.89,Goal,15.0,Left Foot,,Jordan Henderson,Pass (Live),Thiago Alcántara,Pass (Live)
+32,82,Sadio Mané,Liverpool,0.31,,Off Target,10.0,Right Foot,,Luis Díaz,Pass (Live),,
+33,86,Mohamed Salah,Liverpool,0.03,,Off Target,21.0,Left Foot,,Luis Díaz,Pass (Live),,
+34,87,Divock Origi,Liverpool,0.05,,Blocked,25.0,Left Foot,,Luis Díaz,Pass (Live),Thiago Alcántara,Pass (Live)
+35,89,Divock Origi,Liverpool,0.03,,Off Target,30.0,Right Foot,,Thiago Alcántara,Pass (Live),Virgil van Dijk,Pass (Live)

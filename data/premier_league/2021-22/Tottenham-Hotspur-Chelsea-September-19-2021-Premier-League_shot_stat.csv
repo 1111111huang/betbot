@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Son Heung-min,Tottenham,0.03,,Blocked,26.0,Right Foot,,Tanguy Ndombele,Pass (Live),Sergio Reguilón,Pass (Live)
+1,2,Giovani Lo Celso,Tottenham,0.15,,Off Target,8.0,Right Foot,,Sergio Reguilón,Pass (Live),Son Heung-min,Pass (Live)
+2,2,Giovani Lo Celso,Tottenham,0.03,,Off Target,14.0,Head,,Emerson,Pass (Live),Giovani Lo Celso,Shot
+3,5,Harry Kane,Tottenham,0.12,,Blocked,23.0,Right Foot,Free kick,Cristian Romero,Fouled,Dele Alli,Pass (Live)
+4,6,Kai Havertz,Chelsea,0.03,,Off Target,24.0,Left Foot,,César Azpilicueta,Pass (Live),Kai Havertz,Pass (Live)
+5,11,Kai Havertz,Chelsea,0.09,,Off Target,17.0,Left Foot,Volley,César Azpilicueta,Pass (Live),Antonio Rüdiger,Pass (Live)
+6,15,Mason Mount,Chelsea,0.13,,Blocked,12.0,Right Foot,,Romelu Lukaku,Pass (Live),Mason Mount,Pass (Live)
+7,18,Giovani Lo Celso,Tottenham,0.01,,Off Target,25.0,Left Foot,,Son Heung-min,Pass (Dead),Emerson,Fouled
+8,22,Mason Mount,Chelsea,0.03,,Blocked,20.0,Right Foot,,Andreas Christensen,Pass (Live),Jorginho,Pass (Live)
+9,26,Andreas Christensen,Chelsea,0.08,,Off Target,21.0,Right Foot,,Andreas Christensen,Take-On,Romelu Lukaku,Pass (Live)
+10,31,Kai Havertz,Chelsea,0.12,,Blocked,17.0,Left Foot,,Marcos Alonso,Pass (Live),Mateo Kovačić,Pass (Live)
+11,33,Son Heung-min,Tottenham,0.11,0.67,Saved,10.0,Left Foot,,Giovani Lo Celso,Pass (Live),Tanguy Ndombele,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Marcos Alonso,Chelsea,0.04,0.1,Saved,12.0,Left Foot,Volley,Thiago Silva,Pass (Live),Antonio Rüdiger,Pass (Live)
+14,49,Thiago Silva,Chelsea,0.04,0.09,Goal,11.0,Head,,Marcos Alonso,Pass (Dead),N'Golo Kanté,Pass (Live)
+15,53,Marcos Alonso,Chelsea,0.17,,Blocked,12.0,Left Foot,Volley,César Azpilicueta,Pass (Live),Kai Havertz,Pass (Live)
+16,54,Antonio Rüdiger,Chelsea,0.01,0.05,Saved,11.0,Head,,Andreas Christensen,Pass (Live),Mateo Kovačić,Pass (Live)
+17,57,N'Golo Kanté,Chelsea,0.03,0.18,Goal,31.0,Right Foot,Deflected,Mateo Kovačić,Pass (Live),Mateo Kovačić,Tackle
+18,62,Tanguy Ndombele,Tottenham,0.02,,Off Target,27.0,Right Foot,,Giovani Lo Celso,Pass (Live),Sergio Reguilón,Pass (Live)
+19,64,Harry Kane,Tottenham,0.03,0.13,Saved,26.0,Right Foot,,Son Heung-min,Pass (Live),Harry Kane,Pass (Live)
+20,75,Thiago Silva,Chelsea,0.08,0.09,Saved,6.0,Head,,Marcos Alonso,Pass (Dead),N'Golo Kanté,Pass (Live)
+21,81,Timo Werner,Chelsea,0.37,0.53,Saved,12.0,Right Foot,,N'Golo Kanté,Pass (Live),Timo Werner,Pass (Live)
+22,81,Marcos Alonso,Chelsea,0.08,,Blocked,16.0,Left Foot,Volley,Timo Werner,Shot,,
+23,81,Marcos Alonso,Chelsea,0.06,,Blocked,11.0,Left Foot,Volley,Mateo Kovačić,Pass (Live),Marcos Alonso,Shot
+24,86,Romelu Lukaku,Chelsea,0.17,0.03,Saved,10.0,Head,,Antonio Rüdiger,Pass (Live),Mateo Kovačić,Pass (Live)
+25,87,Romelu Lukaku,Chelsea,0.07,,Blocked,15.0,Left Foot,,Jorginho,Pass (Live),Mateo Kovačić,Pass (Live)
+26,90+1,Mateo Kovačić,Chelsea,0.5,0.68,Saved,4.0,Right Foot,,Romelu Lukaku,Pass (Live),Mateo Kovačić,Pass (Live)
+27,90+2,Antonio Rüdiger,Chelsea,0.07,0.23,Goal,15.0,Right Foot,,Timo Werner,Pass (Live),César Azpilicueta,Pass (Live)
+28,90+4,Romelu Lukaku,Chelsea,0.04,,Blocked,14.0,Right Foot,,Romelu Lukaku,Take-On,Marcos Alonso,Pass (Live)

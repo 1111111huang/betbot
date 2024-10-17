@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,18.0,Son Heung-min,Tottenham,0.07,,Blocked,13.0,Left Foot,,Lucas Moura,Pass (Live),Pierre Højbjerg,Pass (Live)
+1,22.0,Harry Kane,Tottenham,0.03,,Off Target,26.0,Right Foot,,Lucas Moura,Pass (Live),Emerson,Pass (Live)
+2,23.0,Harry Kane,Tottenham,0.04,0.02,Saved,50.0,Right Foot,Free kick,Tanguy Ndombele,Fouled,Oliver Skipp,Pass (Live)
+3,24.0,Son Heung-min,Tottenham,0.04,,Off Target,27.0,Left Foot,,Lucas Moura,Pass (Live),Son Heung-min,Pass (Live)
+4,27.0,Pierre Højbjerg,Tottenham,0.12,0.37,Goal,20.0,Right Foot,,Son Heung-min,Pass (Live),Pierre Højbjerg,Pass (Live)
+5,29.0,John McGinn,Aston Villa,0.02,,Blocked,25.0,Left Foot,,Douglas Luiz,Pass (Live),Matty Cash,Pass (Dead)
+6,32.0,Harry Kane,Tottenham,0.05,0.2,Saved,31.0,Right Foot,Free kick,Harry Kane,Fouled,Son Heung-min,Pass (Live)
+7,43.0,Ollie Watkins,Aston Villa,0.03,,Off Target,17.0,Right Foot,,Douglas Luiz,Pass (Live),Matt Targett,Pass (Live)
+8,43.0,John McGinn,Aston Villa,0.02,,Off Target,27.0,Left Foot,Volley,Ollie Watkins,Shot,,
+9,44.0,Danny Ings,Aston Villa,0.03,,Blocked,24.0,Right Foot,Volley,Ezri Konsa,Pass (Live),,
+10,,,,,,,,,,,,,
+11,47.0,Matty Cash,Aston Villa,0.06,,Blocked,17.0,Right Foot,,John McGinn,Pass (Live),John McGinn,Take-On
+12,47.0,Matt Targett,Aston Villa,0.07,,Blocked,12.0,Left Foot,,Matty Cash,Pass (Live),Douglas Luiz,Pass (Live)
+13,48.0,John McGinn,Aston Villa,0.02,0.06,Saved,27.0,Left Foot,Volley,Matt Targett,Shot,,
+14,49.0,Lucas Moura,Tottenham,0.02,,Blocked,33.0,Right Foot,Deflected,Tanguy Ndombele,Pass (Live),Oliver Skipp,Pass (Live)
+15,52.0,Emerson,Tottenham,0.05,,Blocked,15.0,Right Foot,,Pierre Højbjerg,Pass (Live),Sergio Reguilón,Pass (Live)
+16,53.0,Son Heung-min,Tottenham,0.05,,Off Target,13.0,Right Foot,Volley,Emerson,Pass (Live),Emerson,Take-On
+17,56.0,Son Heung-min,Tottenham,0.02,,Off Target,28.0,Right Foot,,Son Heung-min,Pass (Live),Lucas Moura,Pass (Live)
+18,59.0,Matty Cash,Aston Villa,0.02,,Off Target,33.0,Right Foot,,Douglas Luiz,Pass (Live),Matt Targett,Pass (Dead)
+19,60.0,Son Heung-min,Tottenham,0.22,0.63,Saved,4.0,Left Foot,,Eric Dier,Pass (Live),Pierre Højbjerg,Pass (Live)
+20,61.0,Tanguy Ndombele,Tottenham,0.07,0.09,Saved,13.0,Left Foot,,Eric Dier,Pass (Live),,
+21,64.0,Jacob Ramsey,Aston Villa,0.04,,Blocked,18.0,Right Foot,,Douglas Luiz,Pass (Live),Tyrone Mings,Pass (Live)
+22,65.0,Jacob Ramsey,Aston Villa,0.08,,Blocked,15.0,Left Foot,,Ezri Konsa,Pass (Live),Matty Cash,Pass (Dead)
+23,67.0,Ollie Watkins,Aston Villa,0.56,0.95,Goal,4.0,Right Foot,,Matt Targett,Pass (Live),Danny Ings,Pass (Live)
+24,73.0,Ezri Konsa,Aston Villa,0.12,,Off Target,4.0,Right Foot,,,,,
+25,78.0,Danny Ings,Aston Villa,0.12,0.03,Saved,16.0,Left Foot,,Matt Targett,Pass (Live),John McGinn,Pass (Live)
+26,79.0,Harry Kane,Tottenham,0.05,,Off Target,22.0,Right Foot,,Giovani Lo Celso,Pass (Live),Son Heung-min,Pass (Live)
+27,81.0,Ollie Watkins,Aston Villa,0.02,,Off Target,13.0,Head,,Ezri Konsa,Pass (Live),Matty Cash,Pass (Live)
+28,82.0,Giovani Lo Celso,Tottenham,0.03,,Off Target,17.0,Left Foot,,Son Heung-min,Pass (Live),Emerson,Pass (Live)
+29,87.0,Giovani Lo Celso,Tottenham,0.22,,Blocked,11.0,Left Foot,,Harry Kane,Pass (Live),Son Heung-min,Pass (Live)
+30,87.0,Harry Kane,Tottenham,0.21,0.72,Saved,10.0,Left Foot,,Hugo Lloris,Pass (Live),Cristian Romero,Pass (Live)
+31,87.0,Harry Kane,Tottenham,0.02,0.09,Saved,15.0,Right Foot,,Harry Kane,Shot,,

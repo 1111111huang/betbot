@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Edinson Cavani,Manchester Utd,0.03,,Blocked,23.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Marcus Rashford,Pass (Live)
+1,20,Paul Pogba,Manchester Utd,0.03,,Off Target,11.0,Head,,Bruno Fernandes,Pass (Dead),Aaron Wan-Bissaka,Pass (Live)
+2,22,Mason Greenwood,Manchester Utd,0.08,,Off Target,12.0,Right Foot,,Mason Greenwood,Take-On,Mason Greenwood,Take-On
+3,24,Edinson Cavani,Manchester Utd,0.53,0.66,Goal,3.0,Head,,Marcus Rashford,Pass (Live),Bruno Fernandes,Pass (Live)
+4,35,Bruno Fernandes,Manchester Utd,0.04,,Blocked,23.0,Right Foot,,Marcus Rashford,Pass (Live),Paul Pogba,Pass (Live)
+5,41,Richarlison,Everton,0.13,,Off Target,24.0,Right Foot,,,,,
+6,43,Fred,Manchester Utd,0.04,,Off Target,22.0,Right Foot,,Marcus Rashford,Pass (Live),Marcus Rashford,Take-On
+7,45,Bruno Fernandes,Manchester Utd,0.03,0.2,Goal,23.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Fred,Pass (Live)
+8,,,,,,,,,,,,,
+9,47,Luke Shaw,Manchester Utd,0.06,0.16,Saved,18.0,Left Foot,,Edinson Cavani,Pass (Live),Luke Shaw,Pass (Live)
+10,49,Abdoulaye Doucouré,Everton,0.79,0.92,Goal,4.0,Left Foot,,Tom Davies,Pass (Live),Lucas Digne,Pass (Live)
+11,52,James Rodríguez,Everton,0.07,0.37,Goal,15.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+12,63,Marcus Rashford,Manchester Utd,0.28,0.17,Saved,7.0,Left Foot,,Edinson Cavani,Pass (Live),,
+13,63,Harry Maguire,Manchester Utd,0.05,,Blocked,9.0,Head,,Bruno Fernandes,Pass (Dead),Marcus Rashford,Shot
+14,70,Scott McTominay,Manchester Utd,0.08,0.24,Goal,11.0,Head,,Luke Shaw,Pass (Dead),Luke Shaw,Fouled
+15,76,Bruno Fernandes,Manchester Utd,0.06,,Off Target,17.0,Right Foot,,Fred,Pass (Live),Edinson Cavani,Pass (Live)
+16,78,Marcus Rashford,Manchester Utd,0.33,,Off Target,13.0,Left Foot,,Bruno Fernandes,Pass (Live),Edinson Cavani,Pass (Live)
+17,81,Bruno Fernandes,Manchester Utd,0.15,,Off Target,21.0,Right Foot,Free kick,Marcus Rashford,Fouled,Marcus Rashford,Take-On
+18,86,Lucas Digne,Everton,0.04,,Woodwork,17.0,Left Foot,,André Gomes,Pass (Live),Lucas Digne,Pass (Live)
+19,88,Richarlison,Everton,0.07,,Off Target,16.0,Right Foot,,Dominic Calvert-Lewin,Pass (Live),,
+20,90+5,Dominic Calvert-Lewin,Everton,0.4,0.73,Goal,6.0,Left Foot,,Michael Keane,Pass (Live),Lucas Digne,Pass (Dead)

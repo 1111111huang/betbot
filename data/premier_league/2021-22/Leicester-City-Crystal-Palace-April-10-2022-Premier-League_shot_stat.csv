@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Ademola Lookman,Leicester City,0.14,,Off Target,17.0,Left Foot,,Luke Thomas,Pass (Live),Çağlar Söyüncü,Pass (Live)
+1,8,Wilfried Zaha,Crystal Palace,0.15,,Off Target,13.0,Left Foot,,Jeffrey Schlupp,Pass (Live),Joachim Andersen,Pass (Live)
+2,13,Patson Daka,Leicester City,0.01,,Blocked,32.0,Right Foot,,Çağlar Söyüncü,Pass (Live),,
+3,19,Jean-Philippe Mateta,Crystal Palace,0.03,0.41,Saved,17.0,Left Foot,,Wilfried Zaha,Pass (Live),Jean-Philippe Mateta,Pass (Live)
+4,20,Joachim Andersen,Crystal Palace,0.07,,Off Target,11.0,Head,,Conor Gallagher,Pass (Dead),Wilfried Zaha,Pass (Live)
+5,35,Youri Tielemans,Leicester City,0.02,,Off Target,30.0,Right Foot,,Youri Tielemans,Pass (Live),Ademola Lookman,Pass (Live)
+6,36,Wilfried Zaha,Crystal Palace,0.03,,Blocked,17.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Jordan Ayew,Pass (Live)
+7,39,Ademola Lookman,Leicester City,0.21,0.15,Goal,17.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Youri Tielemans,Pass (Live)
+8,45,Kiernan Dewsbury-Hall,Leicester City,0.05,0.28,Goal,19.0,Left Foot,,Patson Daka,Pass (Live),Youri Tielemans,Pass (Live)
+9,45+2,James Maddison,Leicester City,0.08,,Blocked,21.0,Right Foot,,James Justin,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+10,,,,,,,,,,,,,
+11,46,Youri Tielemans,Leicester City,0.03,0.28,Saved,20.0,Right Foot,,James Maddison,Pass (Live),James Maddison,Pass (Live)
+12,47,Youri Tielemans,Leicester City,0.01,,Off Target,32.0,Right Foot,Volley,Youri Tielemans,Shot,,
+13,49,James Justin,Leicester City,0.06,,Blocked,11.0,Head,,James Maddison,Pass (Dead),,
+14,56,James Maddison,Leicester City,0.21,,Blocked,21.0,Right Foot,Free kick,Patson Daka,Fouled,James Maddison,Pass (Live)
+15,60,Jordan Ayew,Crystal Palace,0.02,,Blocked,17.0,Right Foot,,Eberechi Eze,Pass (Live),Wilfried Zaha,Pass (Live)
+16,62,Jordan Ayew,Crystal Palace,0.02,,Blocked,14.0,Right Foot,,Nathaniel Clyne,Pass (Live),Eberechi Eze,Pass (Live)
+17,65,Wilfried Zaha (pen),Crystal Palace,0.79,0.96,Saved,13.0,Right Foot,,Jordan Ayew,Fouled,Eberechi Eze,Pass (Live)
+18,66,Wilfried Zaha,Crystal Palace,0.34,0.17,Goal,9.0,Head,,Wilfried Zaha,Shot,,
+19,68,Wilfried Zaha,Crystal Palace,0.04,,Blocked,14.0,Left Foot,,Jordan Ayew,Pass (Live),Eberechi Eze,Take-On
+20,69,Jeffrey Schlupp,Crystal Palace,0.08,,Blocked,6.0,Left Foot,,Wilfried Zaha,Pass (Live),Wilfried Zaha,Take-On
+21,80,James Maddison,Leicester City,0.1,,Blocked,24.0,Right Foot,Free kick,Kiernan Dewsbury-Hall,Fouled,James Justin,Pass (Live)
+22,84,Jean-Philippe Mateta,Crystal Palace,0.15,,Off Target,8.0,Right Foot,Volley,Joachim Andersen,Pass (Live),Eberechi Eze,Pass (Dead)
+23,86,Kiernan Dewsbury-Hall,Leicester City,0.06,,Blocked,11.0,Head,,Harvey Barnes,Pass (Live),Luke Thomas,Pass (Live)

@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Christian Benteke,Crystal Palace,0.26,,Off Target,4.0,Head,,Odsonne Édouard,Take-On,Tyrick Mitchell,Pass (Live)
+1,9,Allan Saint-Maximin,Newcastle Utd,0.03,,Off Target,14.0,Head,,Ryan Fraser,Pass (Live),Callum Wilson,Pass (Live)
+2,14,Emil Krafth,Newcastle Utd,0.1,,Blocked,10.0,Right Foot,Volley,Jamaal Lascelles,Pass (Live),Matt Ritchie,Pass (Dead)
+3,14,Callum Wilson,Newcastle Utd,0.13,,Off Target,3.0,Right Foot,,Emil Krafth,Shot,,
+4,21,Christian Benteke,Crystal Palace,0.31,,Woodwork,6.0,Head,,Michael Olise,Pass (Live),Conor Gallagher,Pass (Live)
+5,21,Conor Gallagher,Crystal Palace,0.02,,Blocked,23.0,Right Foot,Volley,Christian Benteke,Shot,,
+6,26,Odsonne Édouard,Crystal Palace,0.05,,Blocked,13.0,Right Foot,,Marc Guéhi,Pass (Live),Joachim Andersen,Pass (Live)
+7,26,Marc Guéhi,Crystal Palace,0.05,0.14,Saved,19.0,Left Foot,,Odsonne Édouard,Shot,,
+8,,,,,,,,,,,,,
+9,50,Christian Benteke,Crystal Palace,0.09,,Off Target,14.0,Right Foot,Volley,Conor Gallagher,Pass (Live),Joel Ward,Pass (Live)
+10,56,Christian Benteke,Crystal Palace,0.2,0.76,Goal,6.0,Head,,Tyrick Mitchell,Pass (Live),Conor Gallagher,Pass (Live)
+11,63,Christian Benteke,Crystal Palace,0.17,,Woodwork,9.0,Head,,Michael Olise,Pass (Live),Conor Gallagher,Pass (Live)
+12,65,Callum Wilson,Newcastle Utd,0.05,0.47,Goal,11.0,Right Foot,Volley,Jamaal Lascelles,Pass (Live),Sean Longstaff,Pass (Dead)
+13,71,Wilfried Zaha,Crystal Palace,0.04,,Blocked,18.0,Left Foot,,Conor Gallagher,Pass (Live),Christian Benteke,Pass (Live)
+14,72,Luka Milivojević,Crystal Palace,0.02,,Blocked,30.0,Right Foot,Volley,Wilfried Zaha,Shot,,
+15,72,Christian Benteke,Crystal Palace,0.38,,Off Target,12.0,Left Foot,,James McArthur,Pass (Live),Marc Guéhi,Pass (Live)
+16,74,Wilfried Zaha,Crystal Palace,0.02,,Off Target,25.0,Right Foot,,Tyrick Mitchell,Pass (Dead),,
+17,78,Christian Benteke,Crystal Palace,0.15,0.02,Saved,16.0,Left Foot,,Wilfried Zaha,Pass (Live),Joel Ward,Pass (Live)
+18,83,Jeffrey Schlupp,Crystal Palace,0.04,,Blocked,24.0,Left Foot,,Christian Benteke,Pass (Live),Conor Gallagher,Pass (Live)
+19,86,James McArthur,Crystal Palace,0.07,,Blocked,16.0,Right Foot,,Christian Benteke,Pass (Live),James McArthur,Pass (Live)
+20,90+4,Matt Ritchie,Newcastle Utd,0.01,,Blocked,36.0,Left Foot,,Miguel Almirón,Pass (Live),Jamaal Lascelles,Pass (Live)
+21,90+5,Jamaal Lascelles,Newcastle Utd,0.03,,Off Target,12.0,Head,,Matt Ritchie,Pass (Dead),Joelinton,Pass (Live)

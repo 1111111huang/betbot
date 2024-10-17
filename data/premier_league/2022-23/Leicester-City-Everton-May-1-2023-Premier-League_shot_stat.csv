@@ -1,0 +1,40 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Séamus Coleman,Everton,0.03,,Blocked,22.0,Left Foot,,Michael Keane,Pass (Live),Alex Iwobi,Pass (Live)
+1,7,Idrissa Gana Gueye,Everton,0.06,,Off Target,21.0,Right Foot,,,,,
+2,8,Alex Iwobi,Everton,0.08,0.21,Saved,14.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Dwight McNeil,Pass (Live)
+3,9,Michael Keane,Everton,0.06,,Off Target,11.0,Right Foot,Volley,James Garner,Pass (Dead),Alex Iwobi,Shot
+4,10,Michael Keane,Everton,0.05,,Blocked,17.0,Left Foot,Volley,Dominic Calvert-Lewin,Pass (Live),Jordan Pickford,Pass (Dead)
+5,13,James Maddison,Leicester City,0.12,0.26,Saved,17.0,Right Foot,,Jamie Vardy,Pass (Live),Luke Thomas,Pass (Live)
+6,15,Dominic Calvert-Lewin (pen),Everton,0.79,0.96,Goal,13.0,Right Foot,,Dominic Calvert-Lewin,Fouled,Séamus Coleman,Pass (Live)
+7,18,Dominic Calvert-Lewin,Everton,0.06,,Blocked,9.0,Right Foot,,Alex Iwobi,Pass (Live),Abdoulaye Doucouré,Tackle
+8,19,Michael Keane,Everton,0.12,,Off Target,7.0,Head,,Dwight McNeil,Pass (Dead),Dominic Calvert-Lewin,Shot
+9,22,Çağlar Söyüncü,Leicester City,0.1,0.13,Goal,10.0,Right Foot,,Wout Faes,Pass (Live),Harvey Barnes,Pass (Live)
+10,29,Dwight McNeil,Everton,0.02,,Off Target,16.0,Left Foot,Volley,James Garner,Pass (Live),Dwight McNeil,Pass (Live)
+11,32,James Maddison,Leicester City,0.02,0.03,Saved,23.0,Right Foot,,James Maddison,Take-On,Luke Thomas,Tackle
+12,33,Jamie Vardy,Leicester City,0.95,0.95,Goal,7.0,Left Foot,,Jamie Vardy,Take-On,James Maddison,Pass (Live)
+13,36,Dominic Calvert-Lewin,Everton,0.11,,Off Target,6.0,Head,,Alex Iwobi,Pass (Live),James Garner,Pass (Live)
+14,38,Alex Iwobi,Everton,0.05,,Off Target,12.0,Right Foot,Volley,James Garner,Pass (Dead),Séamus Coleman,Fouled
+15,42,Dwight McNeil,Everton,0.33,0.49,Saved,10.0,Right Foot,,Séamus Coleman,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+16,42,Abdoulaye Doucouré,Everton,0.12,,Off Target,17.0,Right Foot,,Dwight McNeil,Shot,,
+17,43,Dominic Calvert-Lewin,Everton,0.72,0.99,Saved,4.0,Right Foot,,,,,
+18,43,Jamie Vardy,Leicester City,0.42,,Woodwork,10.0,Left Foot,,Jamie Vardy,Take-On,Jamie Vardy,Take-On
+19,45+9,James Maddison (pen),Leicester City,0.79,0.88,Saved,13.0,Right Foot,,,Fouled,James Maddison,Pass (Live)
+20,,,,,,,,,,,,,
+21,49,Wilfred Ndidi,Leicester City,0.02,,Blocked,32.0,Right Foot,,Boubakary Soumaré,Pass (Live),Youri Tielemans,Pass (Live)
+22,53,Dominic Calvert-Lewin,Everton,0.1,0.23,Saved,8.0,Right Foot,,Alex Iwobi,Pass (Live),Alex Iwobi,Take-On
+23,55,Alex Iwobi,Everton,0.06,0.26,Goal,11.0,Right Foot,Volley,Vitaliy Mykolenko,Pass (Live),Dwight McNeil,Pass (Live)
+24,59,Harvey Barnes,Leicester City,0.11,,Off Target,9.0,Right Foot,Volley,James Maddison,Pass (Live),Timothy Castagne,Pass (Live)
+25,59,Jamie Vardy,Leicester City,0.73,,Blocked,4.0,Head,,Harvey Barnes,Shot,,
+26,60,Luke Thomas,Leicester City,0.02,,Blocked,27.0,Left Foot,,Boubakary Soumaré,Pass (Live),Boubakary Soumaré,Pass (Live)
+27,64,Dwight McNeil,Everton,0.02,0.03,Saved,30.0,Left Foot,,Nathan Patterson,Pass (Live),Dwight McNeil,Pass (Live)
+28,68,James Maddison,Leicester City,0.04,,Blocked,23.0,Left Foot,,James Maddison,Take-On,James Maddison,Take-On
+29,69,James Maddison,Leicester City,0.04,,Blocked,20.0,Right Foot,,Timothy Castagne,Pass (Live),James Maddison,Pass (Live)
+30,70,Harvey Barnes,Leicester City,0.02,,Off Target,24.0,Right Foot,Volley,James Maddison,Shot,,
+31,72,Youri Tielemans,Leicester City,0.03,,Blocked,32.0,Right Foot,,Harvey Barnes,Pass (Live),Harvey Barnes,Take-On
+32,75,Dwight McNeil,Everton,0.08,,Blocked,23.0,Left Foot,,Alex Iwobi,Pass (Live),James Garner,Pass (Live)
+33,75,James Tarkowski,Everton,0.04,,Off Target,9.0,Head,,Dwight McNeil,Pass (Dead),Dwight McNeil,Shot
+34,77,Harvey Barnes,Leicester City,0.04,,Off Target,14.0,Left Foot,,James Maddison,Pass (Live),Youri Tielemans,Pass (Live)
+35,83,Alex Iwobi,Everton,0.02,,Blocked,19.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+36,84,Alex Iwobi,Everton,0.05,,Blocked,19.0,Left Foot,,Alex Iwobi,Take-On,,
+37,84,Michael Keane,Everton,0.07,,Off Target,8.0,Head,,Dwight McNeil,Pass (Dead),Alex Iwobi,Shot
+38,87,Abdoulaye Doucouré,Everton,0.07,0.27,Saved,22.0,Left Foot,,James Garner,Pass (Live),James Garner,Take-On

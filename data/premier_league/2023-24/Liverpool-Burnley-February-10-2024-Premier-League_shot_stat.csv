@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Zeki Amdouni,Burnley,0.09,0.09,Saved,15.0,Right Foot,Volley,Dara O'Shea,Pass (Live),James Trafford,Pass (Dead)
+1,10,Zeki Amdouni,Burnley,0.23,0.56,Saved,10.0,Left Foot,,Zeki Amdouni,Take-On,David Datro Fofana,Pass (Live)
+2,11,Darwin Núñez,Liverpool,0.11,,Blocked,9.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Diogo Jota,Pass (Live)
+3,13,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,25.0,Right Foot,,Diogo Jota,Pass (Live),Luis Díaz,Pass (Live)
+4,16,Curtis Jones,Liverpool,0.05,,Off Target,23.0,Right Foot,Volley,Andrew Robertson,Pass (Live),Trent Alexander-Arnold,Pass (Dead)
+5,21,Lorenz Assignon,Burnley,0.03,,Blocked,29.0,Right Foot,Deflected,Wilson Odobert,Fouled,Zeki Amdouni,Pass (Live)
+6,31,Diogo Jota,Liverpool,0.2,0.03,Goal,8.0,Head,,Trent Alexander-Arnold,Pass (Dead),Wataru Endo,Pass (Live)
+7,36,Andrew Robertson,Liverpool,0.1,,Blocked,8.0,Left Foot,,Curtis Jones,Pass (Live),Luis Díaz,Pass (Live)
+8,38,Luis Díaz,Liverpool,0.34,0.4,Saved,8.0,Right Foot,,Darwin Núñez,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+9,41,Wilson Odobert,Burnley,0.03,,Off Target,26.0,Right Foot,,Zeki Amdouni,Pass (Live),Dara O'Shea,Pass (Live)
+10,43,Luis Díaz,Liverpool,0.03,,Blocked,23.0,Right Foot,Deflected,Curtis Jones,Pass (Live),Curtis Jones,Take-On
+11,44,Luis Díaz,Liverpool,0.09,0.03,Saved,16.0,Right Foot,,Wataru Endo,Pass (Live),Curtis Jones,Pass (Live)
+12,45,Dara O'Shea,Burnley,0.02,0.3,Goal,15.0,Head,,Josh Brownhill,Pass (Dead),,
+13,45+3,Luis Díaz,Liverpool,0.06,0.37,Saved,15.0,Left Foot,Volley,Curtis Jones,Pass (Live),Virgil van Dijk,Pass (Live)
+14,45+4,Aaron Ramsey,Burnley,0.01,,Off Target,16.0,Right Foot,,Sander Berge,Pass (Live),Josh Brownhill,Pass (Live)
+15,,,,,,,,,,,,,
+16,49,Diogo Jota,Liverpool,0.03,0.07,Saved,10.0,Head,,Andrew Robertson,Pass (Dead),Luis Díaz,Pass (Live)
+17,52,Luis Díaz,Liverpool,0.48,0.96,Goal,4.0,Head,,,,,
+18,59,Alexis Mac Allister,Liverpool,0.02,,Blocked,23.0,Right Foot,,Wataru Endo,Pass (Live),,
+19,59,Diogo Jota,Liverpool,0.04,,Blocked,13.0,Right Foot,,Harvey Elliott,Pass (Live),Alexis Mac Allister,Shot
+20,61,Diogo Jota,Liverpool,0.08,,Off Target,15.0,Left Foot,Volley,Wataru Endo,Pass (Live),Alexis Mac Allister,Pass (Live)
+21,64,David Datro Fofana,Burnley,0.47,0.15,Saved,18.0,Right Foot,,,,,
+22,64,Wilson Odobert,Burnley,0.17,,Off Target,15.0,Left Foot,,David Datro Fofana,Shot,,
+23,67,David Datro Fofana,Burnley,0.36,,Off Target,13.0,Right Foot,,Zeki Amdouni,Pass (Live),Hannes Delcroix,Pass (Live)
+24,71,Diogo Jota,Liverpool,0.08,0.25,Saved,15.0,Right Foot,,Luis Díaz,Pass (Live),,
+25,71,Jarell Quansah,Liverpool,0.04,,Off Target,15.0,Left Foot,Volley,Virgil van Dijk,Pass (Live),Andrew Robertson,Pass (Live)
+26,73,Wataru Endo,Liverpool,0.02,,Blocked,32.0,Right Foot,,Darwin Núñez,Pass (Live),Luis Díaz,Pass (Live)
+27,75,Virgil van Dijk,Liverpool,0.16,0.1,Saved,10.0,Head,,Andrew Robertson,Pass (Dead),Andrew Robertson,Fouled
+28,78,Harvey Elliott,Liverpool,0.04,,Blocked,21.0,Left Foot,,Curtis Jones,Pass (Live),Alexis Mac Allister,Pass (Live)
+29,79,Diogo Jota,Liverpool,0.02,,Blocked,17.0,Left Foot,Volley,Harvey Elliott,Shot,,
+30,79,Darwin Núñez,Liverpool,0.1,0.38,Goal,8.0,Head,,Harvey Elliott,Pass (Live),Diogo Jota,Pass (Live)
+31,90,Darwin Núñez,Liverpool,0.1,,Off Target,10.0,Head,,Andrew Robertson,Pass (Dead),Harvey Elliott,Pass (Live)
+32,90+5,Alexis Mac Allister,Liverpool,0.03,,Off Target,28.0,Right Foot,,Darwin Núñez,Pass (Live),Harvey Elliott,Pass (Live)
+33,90+5,Darwin Núñez,Liverpool,0.52,0.3,Saved,18.0,Right Foot,,Wataru Endo,Pass (Live),,
+34,90+6,Darwin Núñez,Liverpool,0.08,,Blocked,12.0,Right Foot,,Andrew Robertson,Pass (Live),Harvey Elliott,Pass (Live)

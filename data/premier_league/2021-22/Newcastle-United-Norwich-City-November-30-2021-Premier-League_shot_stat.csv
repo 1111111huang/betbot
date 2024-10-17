@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Ryan Fraser,Newcastle Utd,0.04,,Blocked,30.0,Right Foot,,Callum Wilson,Pass (Live),Jonjo Shelvey,Pass (Live)
+1,5,Jonjo Shelvey,Newcastle Utd,0.03,,Off Target,29.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Pass (Live)
+2,11,Billy Gilmour,Norwich City,0.06,0.22,Saved,26.0,Right Foot,Free kick,Teemu Pukki,Fouled,,
+3,20,Joelinton,Newcastle Utd,0.02,,Off Target,30.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Jonjo Shelvey,Pass (Live)
+4,29,Josh Sargent,Norwich City,0.2,,Off Target,4.0,Right Foot,,Christos Tzolis,Pass (Live),Kenny McLean,Pass (Live)
+5,29,Grant Hanley,Norwich City,0.08,,Off Target,9.0,Head,,Billy Gilmour,Pass (Dead),Josh Sargent,Shot
+6,29,Christos Tzolis,Norwich City,0.01,,Blocked,29.0,Right Foot,,Teemu Pukki,Pass (Live),Grant Hanley,Shot
+7,32,Josh Sargent,Norwich City,0.05,,Blocked,15.0,Left Foot,,Ben Gibson,Pass (Live),Grant Hanley,Pass (Live)
+8,32,Christos Tzolis,Norwich City,0.08,0.1,Saved,10.0,Head,Deflected,Max Aarons,Pass (Live),Billy Gilmour,Pass (Live)
+9,35,Callum Wilson,Newcastle Utd,0.12,,Off Target,14.0,Left Foot,,Joe Willock,Pass (Live),Joe Willock,Take-On
+10,37,Christos Tzolis,Norwich City,0.04,,Blocked,18.0,Right Foot,,Lukas Rupp,Pass (Live),Billy Gilmour,Pass (Live)
+11,43,Kenny McLean,Norwich City,0.03,,Off Target,24.0,Left Foot,,Max Aarons,Pass (Live),Billy Gilmour,Pass (Live)
+12,45+1,Christos Tzolis,Norwich City,0.1,0.1,Saved,14.0,Right Foot,,Brandon Williams,Pass (Live),Christos Tzolis,Pass (Live)
+13,45+2,Joelinton,Newcastle Utd,0.02,,Off Target,27.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Pass (Live)
+14,,,,,,,,,,,,,
+15,57,Federico Fernández,Newcastle Utd,0.04,,Blocked,12.0,Head,,Jonjo Shelvey,Pass (Dead),Javier Manquillo,Pass (Live)
+16,61,Callum Wilson (pen),Newcastle Utd,0.79,0.97,Goal,13.0,Right Foot,,,Fouled,Federico Fernández,Shot
+17,69,Allan Saint-Maximin,Newcastle Utd,0.08,,Off Target,15.0,Right Foot,,Callum Wilson,Pass (Live),Joe Willock,Pass (Live)
+18,72,Adam Idah,Norwich City,0.04,,Off Target,20.0,Right Foot,,Adam Idah,Take-On,Brandon Williams,Pass (Live)
+19,74,Isaac Hayden,Newcastle Utd,0.03,,Off Target,11.0,Right Foot,,Callum Wilson,Pass (Live),Fabian Schär,Pass (Dead)
+20,79,Teemu Pukki,Norwich City,0.1,0.43,Goal,12.0,Left Foot,Volley,Dimitris Giannoulis,Pass (Live),Max Aarons,Pass (Live)
+21,81,Teemu Pukki,Norwich City,0.02,,Off Target,11.0,Right Foot,Volley,Kenny McLean,Pass (Live),Lukas Rupp,Pass (Live)
+22,90+2,Teemu Pukki,Norwich City,0.03,,Blocked,29.0,Right Foot,,Billy Gilmour,Pass (Live),,
+23,90+3,Pierre Lees-Melou,Norwich City,0.31,0.35,Saved,8.0,Right Foot,,Pierre Lees-Melou,Tackle,,
+24,90+6,Lukas Rupp,Norwich City,0.03,,Blocked,17.0,Right Foot,Volley,Billy Gilmour,Pass (Dead),Lukas Rupp,Fouled
+25,90+6,Pierre Lees-Melou,Norwich City,0.03,0.13,Saved,23.0,Right Foot,,Lukas Rupp,Shot,,

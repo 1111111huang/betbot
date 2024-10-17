@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Federico Fernández,Newcastle Utd,0.11,,Blocked,9.0,Right Foot,,Matt Ritchie,Pass (Dead),Matt Ritchie,Pass (Live)
+1,12,Oliver McBurnie,Sheffield Utd,0.04,0.02,Saved,13.0,Head,,George Baldock,Pass (Live),Chris Basham,Pass (Live)
+2,13,Matt Ritchie,Newcastle Utd,0.02,0.4,Saved,32.0,Left Foot,,,,,
+3,17,Joelinton,Newcastle Utd,0.48,0.92,Saved,14.0,Right Foot,,Miguel Almirón,Pass (Live),Allan Saint-Maximin,Pass (Live)
+4,20,Jonjo Shelvey,Newcastle Utd,0.05,,Blocked,29.0,Right Foot,,Joelinton,Pass (Live),Allan Saint-Maximin,Pass (Live)
+5,20,Joelinton,Newcastle Utd,0.08,,Off Target,12.0,Other,,Matt Ritchie,Pass (Live),Javier Manquillo,Pass (Live)
+6,24,Billy Sharp,Sheffield Utd,0.06,,Off Target,16.0,Right Foot,Volley,George Baldock,Pass (Live),Sander Berge,Pass (Live)
+7,40,John Egan,Sheffield Utd,0.08,,Blocked,5.0,Head,,John Fleck,Pass (Dead),,
+8,,,,,,,,,,,,,
+9,50,Billy Sharp,Sheffield Utd,0.05,,Blocked,10.0,Head,,John Fleck,Pass (Live),Enda Stevens,Pass (Live)
+10,51,Jonjo Shelvey,Newcastle Utd,0.04,,Off Target,37.0,Right Foot,Free kick,Joelinton,Fouled,,
+11,53,Joelinton,Newcastle Utd,0.05,0.08,Saved,13.0,Head,,Isaac Hayden,Pass (Live),Javier Manquillo,Pass (Live)
+12,55,Allan Saint-Maximin,Newcastle Utd,0.21,0.37,Goal,10.0,Right Foot,,Matt Ritchie,Pass (Live),Matt Ritchie,Take-On
+13,59,Billy Sharp,Sheffield Utd,0.28,,Off Target,9.0,Head,,George Baldock,Pass (Live),Billy Sharp,Pass (Live)
+14,60,Miguel Almirón,Newcastle Utd,0.38,0.24,Saved,12.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Allan Saint-Maximin,Take-On
+15,69,Matt Ritchie,Newcastle Utd,0.04,0.27,Goal,21.0,Left Foot,,Isaac Hayden,Pass (Live),,
+16,72,Enda Stevens,Sheffield Utd,0.1,,Off Target,17.0,Left Foot,,Billy Sharp,Pass (Live),George Baldock,Pass (Live)
+17,77,Matt Ritchie,Newcastle Utd,0.02,0.03,Saved,36.0,Left Foot,,Miguel Almirón,Pass (Live),Isaac Hayden,Pass (Live)
+18,78,Joelinton,Newcastle Utd,0.56,0.4,Goal,6.0,Right Foot,,Miguel Almirón,Pass (Live),Joelinton,Pass (Live)
+19,90+2,Luke Freeman,Sheffield Utd,0.03,,Blocked,27.0,Left Foot,,Chris Basham,Pass (Live),Luke Freeman,Pass (Live)

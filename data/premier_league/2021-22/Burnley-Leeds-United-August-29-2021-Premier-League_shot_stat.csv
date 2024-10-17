@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Raphinha,Leeds United,0.04,,Blocked,23.0,Left Foot,,Jack Harrison,Pass (Live),Rodrigo,Pass (Live)
+1,20,Liam Cooper,Leeds United,0.01,,Off Target,18.0,Head,,Kalvin Phillips,Pass (Dead),Patrick Bamford,Fouled
+2,31,Jóhann Berg Guðmundsson,Burnley,0.07,,Off Target,14.0,Left Foot,,Ashley Barnes,Pass (Live),,
+3,34,Raphinha,Leeds United,0.17,,Off Target,10.0,Right Foot,,Rodrigo,Pass (Live),Patrick Bamford,Pass (Live)
+4,37,Raphinha,Leeds United,0.01,,Blocked,26.0,Left Foot,,Raphinha,Take-On,Jack Harrison,Pass (Dead)
+5,40,Ashley Barnes,Burnley,0.05,,Saved off Target,15.0,Right Foot,Volley,Ashley Westwood,Pass (Live),Chris Wood,Pass (Live)
+6,40,Chris Wood,Burnley,0.25,,Off Target,3.0,Head,,Ashley Barnes,Shot,,
+7,42,Jack Harrison,Leeds United,0.05,,Off Target,15.0,Left Foot,,Liam Cooper,Pass (Live),,
+8,44,Patrick Bamford,Leeds United,0.03,,Off Target,13.0,Left Foot,,Jack Harrison,Pass (Live),Liam Cooper,Pass (Live)
+9,,,,,,,,,,,,,
+10,52,Dwight McNeil,Burnley,0.01,,Off Target,31.0,Left Foot,,Dwight McNeil,Take-On,Ben Mee,Pass (Live)
+11,59,Josh Brownhill,Burnley,0.02,,Off Target,34.0,Right Foot,,Chris Wood,Pass (Live),Dwight McNeil,Pass (Live)
+12,61,Dwight McNeil,Burnley,0.02,,Blocked,29.0,Left Foot,,Dwight McNeil,Take-On,Chris Wood,Pass (Live)
+13,61,James Tarkowski,Burnley,0.04,0.25,Saved,12.0,Head,,Dwight McNeil,Pass (Dead),Dwight McNeil,Shot
+14,61,Ben Mee,Burnley,0.03,,Blocked,11.0,Left Foot,,Chris Wood,Pass (Live),James Tarkowski,Shot
+15,61,Josh Brownhill,Burnley,0.04,,Blocked,17.0,Right Foot,Volley,Ben Mee,Shot,,
+16,61,Matthew Lowton,Burnley,0.1,,Blocked,15.0,Left Foot,,Josh Brownhill,Shot,,
+17,61,Chris Wood,Burnley,0.47,0.9,Goal,3.0,Left Foot,,Matthew Lowton,Shot,,
+18,71,Patrick Bamford,Leeds United,0.13,,Blocked,17.0,Right Foot,,Rodrigo,Pass (Live),Jack Harrison,Pass (Live)
+19,86,Jamie Shackleton,Leeds United,0.07,,Blocked,14.0,Right Foot,,Raphinha,Take-On,Jamie Shackleton,Pass (Live)
+20,86,Patrick Bamford,Leeds United,0.68,0.99,Goal,3.0,Left Foot,,Jamie Shackleton,Shot,,
+21,87,Chris Wood,Burnley,0.04,0.23,Saved,16.0,Right Foot,,Ashley Westwood,Pass (Live),Matthew Lowton,Pass (Dead)
+22,87,Jamie Shackleton,Leeds United,0.03,0.02,Saved,17.0,Left Foot,,Raphinha,Pass (Live),Jamie Shackleton,Pass (Live)
+23,90+1,Stuart Dallas,Leeds United,0.02,,Blocked,26.0,Right Foot,,Jack Harrison,Pass (Live),Stuart Dallas,Pass (Live)
+24,90+3,Kalvin Phillips,Leeds United,0.06,,Off Target,10.0,Head,,Raphinha,Pass (Dead),Tyler Roberts,Pass (Dead)

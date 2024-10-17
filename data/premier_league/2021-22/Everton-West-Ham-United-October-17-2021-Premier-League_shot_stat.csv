@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Saïd Benrahma,West Ham,0.06,,Off Target,17.0,Right Foot,Volley,Pablo Fornals,Pass (Live),Saïd Benrahma,Pass (Live)
+1,17,Abdoulaye Doucouré,Everton,0.03,,Off Target,29.0,Right Foot,,Alex Iwobi,Pass (Live),Salomón Rondón,Pass (Live)
+2,20,Pablo Fornals,West Ham,0.09,,Blocked,14.0,Right Foot,Volley,Jarrod Bowen,Pass (Live),Saïd Benrahma,Pass (Live)
+3,22,Alex Iwobi,Everton,0.05,,Off Target,15.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Lucas Digne,Pass (Live)
+4,22,Alex Iwobi,Everton,0.05,,Blocked,13.0,Right Foot,,Alex Iwobi,Shot,,
+5,33,Abdoulaye Doucouré,Everton,0.06,,Off Target,11.0,Head,,Andros Townsend,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+6,34,Jarrod Bowen,West Ham,0.1,0.2,Saved,17.0,Left Foot,,Tomáš Souček,Pass (Live),Saïd Benrahma,Pass (Live)
+7,37,Demarai Gray,Everton,0.02,0.21,Saved,28.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),,
+8,39,Jarrod Bowen,West Ham,0.02,,Blocked,17.0,Right Foot,Volley,,,,
+9,39,Pablo Fornals,West Ham,0.03,,Blocked,17.0,Right Foot,,Jarrod Bowen,Shot,,
+10,40,Pablo Fornals,West Ham,0.12,,Off Target,19.0,Right Foot,,Ben Johnson,Pass (Live),Michail Antonio,Pass (Live)
+11,42,Michail Antonio,West Ham,0.06,,Off Target,24.0,Right Foot,,Declan Rice,Pass (Live),Pablo Fornals,Pass (Live)
+12,,,,,,,,,,,,,
+13,50,Alex Iwobi,Everton,0.2,,Blocked,12.0,Right Foot,,,,,
+14,52,Salomón Rondón,Everton,0.07,,Off Target,10.0,Head,,Andros Townsend,Pass (Live),Alex Iwobi,Pass (Live)
+15,55,Séamus Coleman,Everton,0.03,,Off Target,17.0,Left Foot,,Andros Townsend,Pass (Live),Séamus Coleman,Pass (Live)
+16,56,Saïd Benrahma,West Ham,0.09,,Blocked,22.0,Right Foot,,Michail Antonio,Pass (Live),Kurt Zouma,Pass (Live)
+17,62,Ben Godfrey,Everton,0.02,,Blocked,13.0,Left Foot,Volley,Andros Townsend,Pass (Live),Demarai Gray,Pass (Live)
+18,63,Alex Iwobi,Everton,0.04,,Off Target,19.0,Right Foot,Volley,Séamus Coleman,Pass (Live),Ben Godfrey,Pass (Live)
+19,67,Michail Antonio,West Ham,0.08,,Blocked,15.0,Right Foot,,Saïd Benrahma,Pass (Live),Pablo Fornals,Pass (Live)
+20,73,Salomón Rondón,Everton,0.03,0.02,Saved,11.0,Head,,Andros Townsend,Pass (Live),Alex Iwobi,Pass (Live)
+21,73,Michail Antonio,West Ham,0.23,0.82,Saved,4.0,Head,,Tomáš Souček,Pass (Live),Declan Rice,Pass (Live)
+22,74,Angelo Ogbonna,West Ham,0.23,0.79,Goal,4.0,Head,,Jarrod Bowen,Pass (Dead),Michail Antonio,Shot
+23,75,Saïd Benrahma,West Ham,0.03,,Blocked,26.0,Right Foot,,Michail Antonio,Pass (Live),Tomáš Souček,Tackle
+24,82,Ben Godfrey,Everton,0.07,,Off Target,10.0,Right Foot,Volley,Demarai Gray,Pass (Dead),Séamus Coleman,Pass (Live)
+25,86,Angelo Ogbonna,West Ham,0.04,,Blocked,14.0,Left Foot,Volley,Pablo Fornals,Pass (Live),Declan Rice,Pass (Live)
+26,87,Declan Rice,West Ham,0.03,,Off Target,25.0,Right Foot,,Angelo Ogbonna,Shot,,
+27,89,Jarrod Bowen,West Ham,0.03,0.18,Saved,16.0,Left Foot,,Michail Antonio,Pass (Live),Pablo Fornals,Pass (Live)
+28,90+1,Salomón Rondón,Everton,0.04,,Off Target,13.0,Head,,Lucas Digne,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+29,90+1,Demarai Gray,Everton,0.11,,Blocked,13.0,Right Foot,,Andros Townsend,Pass (Live),Salomón Rondón,Shot
+30,90+5,Michail Antonio,West Ham,0.06,,Blocked,13.0,Right Foot,,Declan Rice,Pass (Live),Declan Rice,Take-On
+31,90+5,Ben Godfrey,Everton,0.08,,Off Target,8.0,Head,,Demarai Gray,Pass (Dead),,

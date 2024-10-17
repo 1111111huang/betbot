@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Kai Havertz,Chelsea,0.22,0.21,Saved,7.0,Right Foot,,Hakim Ziyech,Pass (Live),Mason Mount,Pass (Live)
+1,15,Tyler Roberts,Leeds United,0.04,0.61,Saved,20.0,Right Foot,,Patrick Bamford,Pass (Live),Patrick Bamford,Take-On
+2,19,Hakim Ziyech,Chelsea,0.03,,Blocked,30.0,Left Foot,,Christian Pulisic,Pass (Live),César Azpilicueta,Pass (Live)
+3,24,Christian Pulisic,Chelsea,0.05,,Off Target,9.0,Head,,Ben Chilwell,Pass (Live),Hakim Ziyech,Pass (Live)
+4,28,N'Golo Kanté,Chelsea,0.04,,Blocked,22.0,Right Foot,,Andreas Christensen,Pass (Live),,
+5,33,Ben Chilwell,Chelsea,0.03,,Blocked,25.0,Left Foot,,N'Golo Kanté,Pass (Live),N'Golo Kanté,Take-On
+6,39,Mason Mount,Chelsea,0.03,0.07,Saved,30.0,Right Foot,,N'Golo Kanté,Pass (Live),Antonio Rüdiger,Pass (Live)
+7,45+1,Kai Havertz,Chelsea,0.06,0.07,Saved,12.0,Right Foot,,Hakim Ziyech,Pass (Live),Hakim Ziyech,Take-On
+8,,,,,,,,,,,,,
+9,48,Kai Havertz,Chelsea,0.06,0.06,Saved,13.0,Right Foot,,César Azpilicueta,Pass (Live),Andreas Christensen,Pass (Live)
+10,49,Tyler Roberts,Leeds United,0.03,0.03,Saved,22.0,Right Foot,,Stuart Dallas,Pass (Live),Stuart Dallas,Take-On
+11,53,Kai Havertz,Chelsea,0.14,0.4,Saved,6.0,Head,,Hakim Ziyech,Pass (Live),Mason Mount,Pass (Live)
+12,55,Raphinha,Leeds United,0.13,0.06,Saved,11.0,Left Foot,Volley,Rodrigo,Pass (Live),Tyler Roberts,Pass (Live)
+13,59,Christian Pulisic,Chelsea,0.05,0.22,Saved,11.0,Right Foot,,Mason Mount,Pass (Live),Antonio Rüdiger,Pass (Live)
+14,61,Ezgjan Alioski,Leeds United,0.03,,Blocked,22.0,Right Foot,,Stuart Dallas,Fouled,Tyler Roberts,Pass (Live)
+15,62,Ben Chilwell,Chelsea,0.06,,Off Target,13.0,Left Foot,,Kai Havertz,Pass (Live),N'Golo Kanté,Pass (Live)
+16,63,Christian Pulisic,Chelsea,0.04,,Blocked,21.0,Left Foot,,Hakim Ziyech,Pass (Live),N'Golo Kanté,Pass (Live)
+17,66,Raphinha,Leeds United,0.08,,Blocked,8.0,Left Foot,,Hélder Costa,Pass (Live),Hélder Costa,Take-On
+18,72,Antonio Rüdiger,Chelsea,0.02,0.02,Saved,32.0,Right Foot,,N'Golo Kanté,Pass (Live),Reece James,Pass (Live)
+19,77,Diego Llorente,Leeds United,0.04,,Blocked,17.0,Right Foot,,Raphinha,Pass (Live),Tyler Roberts,Pass (Live)
+20,78,Rodrigo,Leeds United,0.05,0.05,Saved,11.0,Head,,Raphinha,Pass (Dead),Raphinha,Pass (Dead)
+21,87,Callum Hudson-Odoi,Chelsea,0.06,0.02,Saved,17.0,Right Foot,,Antonio Rüdiger,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+22,90+1,Timo Werner,Chelsea,0.07,,Blocked,16.0,Right Foot,,Reece James,Pass (Live),N'Golo Kanté,Pass (Live)

@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1.0,Fabian Schär,Newcastle Utd,0.04,,Blocked,16.0,Right Foot,,Matt Targett,Pass (Live),Bruno Guimarães,Pass (Live)
+1,2.0,Dan Burn,Newcastle Utd,0.0,0.31,Saved,14.0,Head,,Matt Targett,Pass (Live),Fabian Schär,Shot
+2,4.0,Joe Willock,Newcastle Utd,0.05,,Blocked,26.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Kieran Trippier,Pass (Live)
+3,6.0,Dan Burn,Newcastle Utd,0.06,,Off Target,9.0,Right Foot,,Fabian Schär,Pass (Live),Miguel Almirón,Pass (Live)
+4,8.0,Dan Burn,Newcastle Utd,0.06,,Off Target,3.0,Head,,Kieran Trippier,Pass (Live),Allan Saint-Maximin,Pass (Live)
+5,16.0,Kieran Trippier,Newcastle Utd,0.04,,Blocked,25.0,Right Foot,Free kick,Allan Saint-Maximin,Fouled,,
+6,20.0,Joelinton,Newcastle Utd,0.03,0.09,Saved,29.0,Right Foot,,Dan Burn,Pass (Live),Bruno Guimarães,Pass (Live)
+7,24.0,Callum Wilson,Newcastle Utd,0.03,,Off Target,14.0,Left Foot,Volley,Joelinton,Pass (Live),Allan Saint-Maximin,Pass (Live)
+8,27.0,Allan Saint-Maximin,Newcastle Utd,0.06,,Blocked,6.0,Head,,Miguel Almirón,Pass (Live),Miguel Almirón,Pass (Live)
+9,27.0,Bruno Guimarães,Newcastle Utd,0.02,,Off Target,29.0,Right Foot,,Matt Targett,Pass (Live),Allan Saint-Maximin,Shot
+10,29.0,Lewis O'Brien,Nott'ham Forest,0.02,,Blocked,28.0,Left Foot,,Jesse Lingard,Pass (Live),,
+11,31.0,Joelinton,Newcastle Utd,0.14,,Off Target,16.0,Right Foot,,Joelinton,Take-On,Bruno Guimarães,Pass (Live)
+12,32.0,Joelinton,Newcastle Utd,0.04,0.02,Saved,28.0,Right Foot,,Bruno Guimarães,Pass (Live),Miguel Almirón,Pass (Live)
+13,35.0,Callum Wilson,Newcastle Utd,0.22,0.61,Saved,8.0,Head,,Joe Willock,Pass (Live),Matt Targett,Pass (Live)
+14,37.0,Allan Saint-Maximin,Newcastle Utd,0.05,0.04,Saved,21.0,Right Foot,,Joelinton,Pass (Live),Bruno Guimarães,Pass (Live)
+15,39.0,Jesse Lingard,Nott'ham Forest,0.06,,Blocked,11.0,Right Foot,,Lewis O'Brien,Take-On,Lewis O'Brien,Tackle
+16,39.0,Neco Williams,Nott'ham Forest,0.02,,Off Target,19.0,Right Foot,Volley,Jesse Lingard,Shot,,
+17,,,,,,,,,,,,,
+18,52.0,Sam Surridge,Nott'ham Forest,0.07,,Off Target,11.0,Head,,Jesse Lingard,Pass (Live),Harry Toffolo,Pass (Live)
+19,57.0,Joe Willock,Newcastle Utd,0.07,0.18,Saved,16.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Pass (Live)
+20,57.0,Allan Saint-Maximin,Newcastle Utd,0.19,,Blocked,8.0,Right Foot,,Miguel Almirón,Pass (Live),Miguel Almirón,Take-On
+21,58.0,Fabian Schär,Newcastle Utd,0.02,0.39,Goal,27.0,Right Foot,,Kieran Trippier,Pass (Live),Joelinton,Pass (Dead)
+22,62.0,Joe Willock,Newcastle Utd,0.08,,Blocked,16.0,Left Foot,,Callum Wilson,Pass (Live),Allan Saint-Maximin,Pass (Live)
+23,63.0,Sam Surridge,Nott'ham Forest,0.1,,Off Target,11.0,Head,,Neco Williams,Pass (Live),Neco Williams,Take-On
+24,67.0,Dan Burn,Newcastle Utd,0.03,,Off Target,15.0,Right Foot,Volley,Kieran Trippier,Pass (Dead),Bruno Guimarães,Fouled
+25,77.0,Miguel Almirón,Newcastle Utd,0.12,0.28,Saved,10.0,Left Foot,,Bruno Guimarães,Pass (Live),Miguel Almirón,Pass (Live)
+26,78.0,Callum Wilson,Newcastle Utd,0.18,0.15,Goal,8.0,Right Foot,,Joelinton,Pass (Live),Allan Saint-Maximin,Pass (Live)
+27,84.0,Allan Saint-Maximin,Newcastle Utd,0.05,,Off Target,19.0,Right Foot,,Ryan Fraser,Pass (Live),Matt Targett,Pass (Live)
+28,85.0,Callum Wilson,Newcastle Utd,0.18,,Off Target,5.0,Left Foot,,Sean Longstaff,Pass (Live),Allan Saint-Maximin,Pass (Live)

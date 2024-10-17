@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Marcus Rashford,Manchester Utd,0.06,0.18,Saved,19.0,Right Foot,,Bruno Fernandes,Pass (Dead),Alex Telles,Fouled
+1,12,Marcus Rashford,Manchester Utd,0.08,0.06,Saved,10.0,Head,,Bruno Fernandes,Pass (Live),Cristiano Ronaldo,Pass (Live)
+2,14,Cristiano Ronaldo,Manchester Utd,0.05,,Blocked,15.0,Left Foot,,Bruno Fernandes,Pass (Live),Cristiano Ronaldo,Pass (Live)
+3,27,Anthony Gordon,Everton,0.04,0.05,Goal,24.0,Right Foot,Deflected,,,,
+4,30,Michael Keane,Everton,0.03,,Off Target,11.0,Head,,Anthony Gordon,Pass (Dead),,Fouled
+5,36,Richarlison,Everton,0.02,0.05,Saved,28.0,Right Foot,Deflected,Jordan Pickford,Pass (Live),Alex Iwobi,Pass (Live)
+6,37,Allan,Everton,0.03,,Blocked,17.0,Right Foot,,Richarlison,Shot,,
+7,,,,,,,,,,,,,
+8,48,Harry Maguire,Manchester Utd,0.14,,Blocked,7.0,Head,,Alex Telles,Pass (Dead),Paul Pogba,Pass (Live)
+9,48,Marcus Rashford,Manchester Utd,0.02,,Blocked,27.0,Right Foot,,Harry Maguire,Shot,,
+10,54,Ben Godfrey,Everton,0.07,,Off Target,10.0,Head,,Anthony Gordon,Pass (Dead),,
+11,56,Anthony Gordon,Everton,0.14,,Blocked,10.0,Right Foot,,Vitaliy Mykolenko,Pass (Live),Richarlison,Pass (Live)
+12,61,Bruno Fernandes,Manchester Utd,0.02,,Blocked,23.0,Right Foot,,Alex Telles,Pass (Live),Bruno Fernandes,Pass (Live)
+13,70,Bruno Fernandes,Manchester Utd,0.02,,Blocked,27.0,Right Foot,Volley,Juan Mata,Pass (Live),Cristiano Ronaldo,Pass (Live)
+14,81,Paul Pogba,Manchester Utd,0.02,0.12,Saved,27.0,Right Foot,,Cristiano Ronaldo,Pass (Live),Jadon Sancho,Pass (Live)
+15,81,Richarlison,Everton,0.06,0.04,Saved,28.0,Right Foot,Deflected,,,,
+16,82,Juan Mata,Manchester Utd,0.11,,Off Target,9.0,Left Foot,,Jadon Sancho,Pass (Live),Jadon Sancho,Take-On
+17,83,Harry Maguire,Manchester Utd,0.02,,Blocked,25.0,Right Foot,,Jadon Sancho,Pass (Live),Alex Telles,Pass (Live)
+18,83,Aaron Wan-Bissaka,Manchester Utd,0.16,,Blocked,8.0,Right Foot,,Jadon Sancho,Pass (Live),Jadon Sancho,Pass (Live)
+19,90+3,Cristiano Ronaldo,Manchester Utd,0.07,0.02,Saved,12.0,Right Foot,"Deflected, Volley",Harry Maguire,Pass (Live),Alex Telles,Pass (Live)

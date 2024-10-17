@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Cristian Romero,Tottenham,0.01,0.0,Off Target,12.0,Head,,Dejan Kulusevski,Pass (Dead),Pedro Porro,Pass (Live)
+1,3,Cristian Romero,Tottenham,0.25,0.28,Saved,12.0,Right Foot,,Son Heung-min,Pass (Live),Cristian Romero,Shot
+2,6,Son Heung-min,Tottenham,0.03,0.16,Saved,27.0,Right Foot,Deflected,Wilson Odobert,Pass (Live),Son Heung-min,Pass (Live)
+3,11,James Maddison,Tottenham,0.16,0.14,Saved,13.0,Right Foot,,Cristian Romero,Pass (Live),Yves Bissouma,Pass (Live)
+4,11,Brennan Johnson,Tottenham,0.18,0.0,Off Target,11.0,Head,,James Maddison,Pass (Live),Yves Bissouma,Pass (Live)
+5,14,Yves Bissouma,Tottenham,0.1,0.24,Goal,21.0,Right Foot,,Dejan Kulusevski,Pass (Live),Dejan Kulusevski,Take-On
+6,16,Jack Harrison,Everton,0.27,0.0,Blocked,4.0,Left Foot,,James Tarkowski,Pass (Live),Dwight McNeil,Pass (Dead)
+7,17,Jack Harrison,Everton,0.28,0.0,Off Target,7.0,Left Foot,,Dwight McNeil,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+8,25,Son Heung-min,Tottenham,0.86,0.99,Goal,9.0,Right Foot,,,,,
+9,35,Dominic Calvert-Lewin,Everton,0.05,0.0,Blocked,12.0,Head,,Dwight McNeil,Pass (Live),Michael Keane,Pass (Live)
+10,38,Wilson Odobert,Tottenham,0.05,0.0,Off Target,13.0,Head,,Pedro Porro,Pass (Live),Dejan Kulusevski,Pass (Live)
+11,44,James Tarkowski,Everton,0.11,0.0,Off Target,4.0,Head,,Dwight McNeil,Pass (Dead),Idrissa Gana Gueye,Fouled
+12,44,Dwight McNeil,Everton,0.03,0.0,Blocked,17.0,Left Foot,,James Tarkowski,Shot,,
+13,45,James Tarkowski,Everton,0.1,0.0,Off Target,5.0,Head,,Dwight McNeil,Pass (Dead),Dwight McNeil,Shot
+14,45+1,James Tarkowski,Everton,0.02,0.0,Blocked,11.0,Head,,Dwight McNeil,Pass (Dead),James Tarkowski,Shot
+15,45+1,Abdoulaye Doucouré,Everton,0.07,0.0,Blocked,11.0,Right Foot,Volley,James Tarkowski,Shot,,
+16,45+4,Pedro Porro,Tottenham,0.03,0.0,Off Target,24.0,Left Foot,,Dejan Kulusevski,Pass (Dead),,
+17,,,,,,,,,,,,,
+18,58,Jesper Lindstrøm,Everton,0.04,0.14,Saved,14.0,Right Foot,,Dwight McNeil,Take-On,,
+19,61,Iliman Ndiaye,Everton,0.04,0.0,Blocked,15.0,Right Foot,,Dwight McNeil,Pass (Live),Jesper Lindstrøm,Pass (Live)
+20,66,James Maddison,Tottenham,0.08,0.0,Blocked,9.0,Left Foot,,Dejan Kulusevski,Pass (Live),Pedro Porro,Pass (Live)
+21,68,James Maddison,Tottenham,0.17,0.0,Off Target,21.0,Right Foot,Free kick,Son Heung-min,Fouled,Son Heung-min,Take-On
+22,71,Cristian Romero,Tottenham,0.27,0.51,Goal,4.0,Head,,James Maddison,Pass (Dead),,
+23,77,Son Heung-min,Tottenham,0.25,0.24,Goal,9.0,Left Foot,,Micky van de Ven,Pass (Live),,

@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Che Adams,Southampton,0.05,,Off Target,13.0,Right Foot,,Danny Ings,Take-On,Stuart Armstrong,Pass (Live)
+1,8,Nathan Redmond,Southampton,0.05,,Blocked,35.0,Right Foot,Free kick,Stuart Armstrong,Fouled,Danny Ings,Pass (Live)
+2,16,Che Adams,Southampton,0.02,0.02,Goal,42.0,Right Foot,,Stuart Armstrong,Tackle,,
+3,23,João Cancelo,Manchester City,0.05,,Off Target,14.0,Right Foot,,Bernardo Silva,Pass (Live),João Cancelo,Pass (Live)
+4,23,Gabriel Jesus,Manchester City,0.5,,Off Target,4.0,Left Foot,Volley,João Cancelo,Shot,,
+5,30,Raheem Sterling,Manchester City,0.06,0.2,Saved,14.0,Left Foot,,Gabriel Jesus,Pass (Live),Riyad Mahrez,Pass (Live)
+6,30,Fernandinho,Manchester City,0.03,,Woodwork,25.0,Right Foot,,,,,
+7,30,David Silva,Manchester City,0.1,0.05,Saved,8.0,Head,,Bernardo Silva,Pass (Live),Fernandinho,Shot
+8,30,Raheem Sterling,Manchester City,0.06,,Off Target,12.0,Right Foot,,David Silva,Shot,,
+9,33,Nathan Redmond,Southampton,0.03,,Off Target,26.0,Right Foot,,Nathan Redmond,Tackle,,
+10,35,Nathan Redmond,Southampton,0.04,0.07,Saved,18.0,Right Foot,,Jack Stephens,Pass (Live),Jan Bednarek,Pass (Live)
+11,37,Riyad Mahrez,Manchester City,0.24,0.68,Saved,8.0,Left Foot,,João Cancelo,Pass (Live),João Cancelo,Take-On
+12,37,Riyad Mahrez,Manchester City,0.07,,Blocked,13.0,Left Foot,,Bernardo Silva,Pass (Live),João Cancelo,Tackle
+13,44,Danny Ings,Southampton,0.37,,Off Target,11.0,Left Foot,,Kyle Walker-Peters,Pass (Live),Jack Stephens,Pass (Live)
+14,,,,,,,,,,,,,
+15,48,Gabriel Jesus,Manchester City,0.06,,Off Target,8.0,Head,,Riyad Mahrez,Pass (Dead),,
+16,50,Aymeric Laporte,Manchester City,0.08,,Blocked,14.0,Left Foot,,Fernandinho,Pass (Live),João Cancelo,Pass (Live)
+17,50,Gabriel Jesus,Manchester City,0.58,0.77,Saved,6.0,Head,,Aymeric Laporte,Shot,,
+18,51,Oleksandr Zinchenko,Manchester City,0.01,,Blocked,34.0,Left Foot,,Bernardo Silva,Pass (Live),João Cancelo,Pass (Live)
+19,54,David Silva,Manchester City,0.65,0.87,Saved,6.0,Left Foot,,David Silva,Take-On,Oleksandr Zinchenko,Pass (Live)
+20,55,Gabriel Jesus,Manchester City,0.08,,Blocked,10.0,Right Foot,Volley,João Cancelo,Pass (Live),Fernandinho,Pass (Live)
+21,56,Gabriel Jesus,Manchester City,0.06,,Blocked,17.0,Right Foot,,David Silva,Pass (Live),João Cancelo,Pass (Live)
+22,57,Bernardo Silva,Manchester City,0.07,,Blocked,21.0,Right Foot,,David Silva,Pass (Live),Raheem Sterling,Pass (Live)
+23,65,Bernardo Silva,Manchester City,0.07,,Blocked,12.0,Left Foot,,Fernandinho,Pass (Live),David Silva,Pass (Live)
+24,66,Gabriel Jesus,Manchester City,0.08,0.11,Saved,9.0,Head,,Oleksandr Zinchenko,Pass (Live),David Silva,Pass (Live)
+25,74,Kevin De Bruyne,Manchester City,0.07,,Off Target,15.0,Right Foot,Volley,David Silva,Pass (Live),,
+26,75,Stuart Armstrong,Southampton,0.04,0.03,Saved,21.0,Right Foot,,Shane Long,Pass (Live),Alex McCarthy,Pass (Live)
+27,76,Stuart Armstrong,Southampton,0.03,0.24,Saved,22.0,Right Foot,,Nathan Redmond,Pass (Live),Oriol Romeu,Interception
+28,77,Kevin De Bruyne,Manchester City,0.03,,Off Target,23.0,Right Foot,Volley,Bernardo Silva,Pass (Live),David Silva,Pass (Live)
+29,79,Fernandinho,Manchester City,0.03,,Blocked,30.0,Right Foot,,,,,
+30,81,David Silva,Manchester City,0.06,,Blocked,16.0,Left Foot,Volley,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Live)
+31,84,Aymeric Laporte,Manchester City,0.02,,Off Target,34.0,Left Foot,,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Live)
+32,90+2,Bernardo Silva,Manchester City,0.06,,Blocked,12.0,Left Foot,,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Dead)
+33,90+3,Bernardo Silva,Manchester City,0.06,,Off Target,11.0,Left Foot,Volley,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Live)
+34,90+7,Kevin De Bruyne,Manchester City,0.1,,Blocked,25.0,Right Foot,Free kick,David Silva,Fouled,Phil Foden,Pass (Live)

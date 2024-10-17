@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Nicolás Domínguez,Nott'ham Forest,0.09,,Blocked,18.0,Right Foot,Volley,Anthony Elanga,Pass (Live),Ryan Yates,Pass (Live)
+1,7,Chris Wood,Nott'ham Forest,0.04,,Off Target,21.0,Left Foot,,Ola Aina,Pass (Live),Nicolás Domínguez,Pass (Live)
+2,27,Murillo,Nott'ham Forest,0.07,,Off Target,9.0,Head,,Morgan Gibbs-White,Pass (Dead),,
+3,27,Danilo,Nott'ham Forest,0.03,,Blocked,23.0,Left Foot,,Murillo,Shot,,
+4,28,Nicolás Domínguez,Nott'ham Forest,0.02,,Blocked,19.0,Right Foot,Volley,Danilo,Shot,,
+5,32,Ryan Yates,Nott'ham Forest,0.09,,Off Target,21.0,Right Foot,,Anthony Elanga,Pass (Live),Danilo,Pass (Live)
+6,33,Aaron Wan-Bissaka,Manchester Utd,0.04,0.02,Saved,22.0,Right Foot,Deflected,Christian Eriksen,Pass (Live),Diogo Dalot,Pass (Live)
+7,,,,,,,,,,,,,
+8,55,Diogo Dalot,Manchester Utd,0.07,,Blocked,24.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Bruno Fernandes,Pass (Live)
+9,64,Nicolás Domínguez,Nott'ham Forest,0.19,0.61,Goal,15.0,Right Foot,,Gonzalo Montiel,Pass (Live),Anthony Elanga,Pass (Live)
+10,67,Alejandro Garnacho,Manchester Utd,0.09,,Off Target,10.0,Right Foot,Volley,Bruno Fernandes,Pass (Dead),Amad Diallo,Pass (Live)
+11,68,Alejandro Garnacho,Manchester Utd,0.06,,Blocked,17.0,Right Foot,,Christian Eriksen,Pass (Live),Amad Diallo,Pass (Live)
+12,78,Marcus Rashford,Manchester Utd,0.11,0.26,Goal,16.0,Right Foot,,Alejandro Garnacho,Pass (Live),Alejandro Garnacho,Interception
+13,82,Christian Eriksen,Manchester Utd,0.09,0.22,Saved,24.0,Right Foot,,Alejandro Garnacho,Pass (Live),Bruno Fernandes,Pass (Live)
+14,82,Morgan Gibbs-White,Nott'ham Forest,0.17,0.4,Goal,21.0,Right Foot,,Anthony Elanga,Pass (Live),Ryan Yates,Pass (Live)
+15,90+5,Scott McTominay,Manchester Utd,0.08,0.12,Saved,10.0,Left Foot,"Deflected, Volley",Bruno Fernandes,Shot,,
+16,90+5,Bruno Fernandes,Manchester Utd,0.03,,Blocked,23.0,Right Foot,Volley,Christian Eriksen,Pass (Dead),Christian Eriksen,Pass (Live)
+17,90+8,Amad Diallo,Manchester Utd,0.05,0.1,Saved,15.0,Left Foot,,Sergio Reguilón,Pass (Live),Jonny Evans,Pass (Live)
+18,90+11,Christian Eriksen,Manchester Utd,0.14,,Off Target,13.0,Right Foot,,Amad Diallo,Pass (Live),Sergio Reguilón,Pass (Live)

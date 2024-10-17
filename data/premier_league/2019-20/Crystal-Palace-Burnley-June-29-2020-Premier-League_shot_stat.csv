@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Matěj Vydra,Burnley,0.04,,Off Target,14.0,Head,,Erik Pieters,Pass (Live),Matěj Vydra,Pass (Live)
+1,13,Luka Milivojević,Crystal Palace,0.07,,Off Target,26.0,Right Foot,Free kick,James McArthur,Fouled,Luka Milivojević,Pass (Live)
+2,19,Dwight McNeil,Burnley,0.03,,Off Target,14.0,Left Foot,,Jack Cork,Fouled,Charlie Taylor,Pass (Dead)
+3,20,Dwight McNeil,Burnley,0.06,0.02,Saved,25.0,Left Foot,,Dwight McNeil,Take-On,Dwight McNeil,Interception
+4,23,Gary Cahill,Crystal Palace,0.04,,Off Target,13.0,Right Foot,Volley,Wilfried Zaha,Pass (Live),Luka Milivojević,Pass (Dead)
+5,27,Dwight McNeil,Burnley,0.05,,Blocked,17.0,Left Foot,,Josh Brownhill,Pass (Live),Josh Brownhill,Pass (Live)
+6,32,Jordan Ayew,Crystal Palace,0.02,0.16,Saved,35.0,Right Foot,,Vicente Guaita,Pass (Live),Gary Cahill,Pass (Live)
+7,36,James McArthur,Crystal Palace,0.11,,Off Target,7.0,Head,,Luka Milivojević,Pass (Live),Andros Townsend,Take-On
+8,42,Erik Pieters,Burnley,0.04,0.13,Saved,16.0,Left Foot,,,,,
+9,,,,,,,,,,,,,
+10,54,Gary Cahill,Crystal Palace,0.09,0.05,Saved,14.0,Right Foot,,Jordan Ayew,Pass (Live),Wilfried Zaha,Fouled
+11,55,Andros Townsend,Crystal Palace,0.04,,Blocked,18.0,Right Foot,,,,,
+12,55,Wilfried Zaha,Crystal Palace,0.03,,Blocked,22.0,Right Foot,,Andros Townsend,Shot,,
+13,55,Dwight McNeil,Burnley,0.04,0.03,Saved,18.0,Left Foot,,Ashley Westwood,Pass (Live),Matěj Vydra,Pass (Live)
+14,60,Luka Milivojević,Crystal Palace,0.08,,Blocked,23.0,Right Foot,Free kick,Jordan Ayew,Fouled,Wilfried Zaha,Pass (Live)
+15,62,Ben Mee,Burnley,0.04,0.39,Goal,17.0,Head,Deflected,Ashley Westwood,Pass (Dead),Dwight McNeil,Fouled
+16,71,Luka Milivojević,Crystal Palace,0.02,,Blocked,22.0,Right Foot,,Andros Townsend,Pass (Live),Patrick van Aanholt,Pass (Live)
+17,75,Jordan Ayew,Crystal Palace,0.04,,Blocked,16.0,Right Foot,Volley,Patrick van Aanholt,Pass (Dead),,
+18,77,Andros Townsend,Crystal Palace,0.02,,Off Target,27.0,Left Foot,,,,,
+19,79,Jordan Ayew,Crystal Palace,0.11,,Off Target,8.0,Head,,Patrick van Aanholt,Pass (Dead),,
+20,82,Wilfried Zaha,Crystal Palace,0.05,,Blocked,12.0,Right Foot,,James McArthur,Pass (Live),Wilfried Zaha,Pass (Live)
+21,85,Josh Brownhill,Burnley,0.06,,Off Target,16.0,Right Foot,,James Tarkowski,Pass (Live),Ashley Westwood,Pass (Dead)
+22,88,Jordan Ayew,Crystal Palace,0.05,,Off Target,14.0,Right Foot,,Max Meyer,Pass (Live),Gary Cahill,Pass (Live)
+23,90+1,Patrick van Aanholt,Crystal Palace,0.02,0.07,Saved,24.0,Right Foot,,Jordan Ayew,Pass (Live),Max Meyer,Pass (Live)
+24,90+1,Scott Dann,Crystal Palace,0.07,,Blocked,13.0,Left Foot,,Patrick van Aanholt,Shot,,
+25,90+2,Gary Cahill,Crystal Palace,0.04,0.03,Saved,16.0,Head,,Max Meyer,Pass (Live),James McArthur,Pass (Live)

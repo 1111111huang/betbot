@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Vladimír Coufal,West Ham,0.04,,Off Target,17.0,Right Foot,,Jesse Lingard,Pass (Live),Aaron Cresswell,Pass (Dead)
+1,8,Tomáš Souček,West Ham,0.05,,Off Target,9.0,Head,,Saïd Benrahma,Pass (Live),Aaron Cresswell,Pass (Live)
+2,9,Tomáš Souček,West Ham,0.08,,Off Target,8.0,Head,,Michail Antonio,Pass (Live),Saïd Benrahma,Pass (Live)
+3,15,Jesse Lingard,West Ham,0.06,0.35,Goal,19.0,Right Foot,Volley,Michail Antonio,Pass (Live),Saïd Benrahma,Pass (Live)
+4,17,Jarrod Bowen,West Ham,0.05,0.24,Goal,13.0,Right Foot,Deflected,Jesse Lingard,Pass (Dead),Michail Antonio,Fouled
+5,23,Martin Ødegaard,Arsenal,0.04,0.28,Saved,21.0,Left Foot,Deflected,Kieran Tierney,Pass (Live),Martin Ødegaard,Pass (Live)
+6,28,Michail Antonio,West Ham,0.05,,Blocked,14.0,Left Foot,,Aaron Cresswell,Pass (Live),Issa Diop,Pass (Live)
+7,32,Michail Antonio,West Ham,0.05,,Off Target,11.0,Head,,Vladimír Coufal,Pass (Live),Tomáš Souček,Pass (Live)
+8,32,Tomáš Souček,West Ham,0.73,0.99,Goal,5.0,Right Foot,,Michail Antonio,Shot,,
+9,37,Martin Ødegaard,Arsenal,0.02,,Blocked,31.0,Left Foot,,Bukayo Saka,Pass (Live),Thomas Partey,Pass (Live)
+10,38,Alexandre Lacazette,Arsenal,0.08,,Off Target,12.0,Right Foot,Volley,Calum Chambers,Pass (Live),Martin Ødegaard,Pass (Live)
+11,40,Bukayo Saka,Arsenal,0.08,0.05,Saved,22.0,Left Foot,,Alexandre Lacazette,Pass (Live),Thomas Partey,Pass (Live)
+12,42,Thomas Partey,Arsenal,0.02,,Off Target,31.0,Right Foot,,Granit Xhaka,Pass (Live),,
+13,45+2,Bukayo Saka,Arsenal,0.1,,Blocked,10.0,Left Foot,,,,,
+14,,,,,,,,,,,,,
+15,46,Alexandre Lacazette,Arsenal,0.12,,Blocked,11.0,Right Foot,Volley,Calum Chambers,Pass (Live),Kieran Tierney,Pass (Live)
+16,47,Calum Chambers,Arsenal,0.05,,Off Target,10.0,Head,,Martin Ødegaard,Pass (Dead),Pierre-Emerick Aubameyang,Pass (Live)
+17,52,Alexandre Lacazette,Arsenal,0.04,0.24,Saved,21.0,Left Foot,,Martin Ødegaard,Pass (Live),Martin Ødegaard,Take-On
+18,58,Michail Antonio,West Ham,0.04,,Off Target,18.0,Right Foot,,Vladimír Coufal,Pass (Live),Craig Dawson,Pass (Live)
+19,64,David Luiz,Arsenal,0.03,,Blocked,29.0,Right Foot,,Martin Ødegaard,Pass (Live),Alexandre Lacazette,Pass (Live)
+20,66,Jarrod Bowen,West Ham,0.08,,Blocked,15.0,Left Foot,,Michail Antonio,Pass (Live),Jesse Lingard,Pass (Live)
+21,66,Michail Antonio,West Ham,0.25,,Blocked,13.0,Right Foot,,Jarrod Bowen,Shot,,
+22,68,Martin Ødegaard,Arsenal,0.1,,Blocked,13.0,Left Foot,Volley,Alexandre Lacazette,Pass (Live),,
+23,75,Thomas Partey,Arsenal,0.02,,Off Target,35.0,Right Foot,,Emile Smith Rowe,Pass (Live),Kieran Tierney,Pass (Live)
+24,76,Michail Antonio,West Ham,0.78,,Woodwork,2.0,Left Foot,,Saïd Benrahma,Pass (Live),Declan Rice,Pass (Live)
+25,79,Kieran Tierney,Arsenal,0.04,,Blocked,16.0,Left Foot,,Calum Chambers,Pass (Live),Nicolas Pépé,Pass (Live)
+26,80,Jesse Lingard,West Ham,0.06,,Off Target,18.0,Right Foot,,Jesse Lingard,Take-On,Michail Antonio,Pass (Live)
+27,82,Alexandre Lacazette,Arsenal,0.46,0.75,Goal,4.0,Head,,Nicolas Pépé,Pass (Live),Martin Ødegaard,Pass (Live)
+28,83,Nicolas Pépé,Arsenal,0.07,0.03,Saved,11.0,Left Foot,Volley,Martin Ødegaard,Pass (Live),Martin Ødegaard,Take-On
+29,85,Tomáš Souček,West Ham,0.05,0.04,Saved,11.0,Head,,Mark Noble,Pass (Dead),Michail Antonio,Fouled
+30,85,Declan Rice,West Ham,0.06,0.33,Saved,19.0,Right Foot,,Tomáš Souček,Pass (Live),,
+31,86,Nicolas Pépé,Arsenal,0.08,0.03,Saved,14.0,Right Foot,,Martin Ødegaard,Pass (Live),Calum Chambers,Pass (Live)

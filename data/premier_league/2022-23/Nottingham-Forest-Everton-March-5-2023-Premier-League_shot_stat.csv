@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Michael Keane,Everton,0.07,,Blocked,17.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Amadou Onana,Pass (Live)
+1,4,Dwight McNeil,Everton,0.06,,Off Target,21.0,Left Foot,Volley,Michael Keane,Shot,,
+2,9,Abdoulaye Doucouré,Everton,0.1,,Blocked,11.0,Right Foot,Volley,Amadou Onana,Pass (Live),Alex Iwobi,Pass (Live)
+3,10,Demarai Gray (pen),Everton,0.79,0.99,Goal,13.0,Right Foot,,Dwight McNeil,Fouled,Dwight McNeil,Interception
+4,16,Morgan Gibbs-White,Nott'ham Forest,0.02,,Off Target,31.0,Right Foot,Volley,Joe Worrall,Fouled,Jonjo Shelvey,Pass (Live)
+5,19,Morgan Gibbs-White,Nott'ham Forest,0.08,0.12,Saved,19.0,Right Foot,,Chris Wood,Pass (Live),Morgan Gibbs-White,Pass (Live)
+6,19,Brennan Johnson,Nott'ham Forest,0.38,0.63,Goal,8.0,Right Foot,,Morgan Gibbs-White,Shot,,
+7,20,Chris Wood,Nott'ham Forest,0.09,,Blocked,9.0,Head,,Renan Lodi,Pass (Live),,
+8,24,Brennan Johnson,Nott'ham Forest,0.05,,Blocked,12.0,Left Foot,,Brennan Johnson,Take-On,Morgan Gibbs-White,Pass (Live)
+9,29,Abdoulaye Doucouré,Everton,0.27,0.06,Goal,8.0,Head,,Michael Keane,Pass (Live),James Tarkowski,Pass (Live)
+10,37,Abdoulaye Doucouré,Everton,0.04,,Blocked,12.0,Head,,Dwight McNeil,Pass (Live),Dwight McNeil,Pass (Live)
+11,40,Dwight McNeil,Everton,0.02,0.07,Saved,24.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Alex Iwobi,Pass (Live)
+12,40,Abdoulaye Doucouré,Everton,0.03,,Blocked,21.0,Right Foot,,Alex Iwobi,Pass (Live),Idrissa Gana Gueye,Pass (Live)
+13,45+1,Demarai Gray,Everton,0.3,,Blocked,13.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Abdoulaye Doucouré,Take-On
+14,,,,,,,,,,,,,
+15,53,Jonjo Shelvey,Nott'ham Forest,0.02,,Blocked,27.0,Right Foot,,Remo Freuler,Pass (Live),Serge Aurier,Pass (Live)
+16,56,Alex Iwobi,Everton,0.03,,Off Target,11.0,Right Foot,Volley,Séamus Coleman,Fouled,Alex Iwobi,Pass (Live)
+17,77,Brennan Johnson,Nott'ham Forest,0.08,0.62,Goal,16.0,Left Foot,,Ryan Yates,Pass (Live),Brennan Johnson,Pass (Live)
+18,81,André Ayew,Nott'ham Forest,0.06,0.61,Saved,18.0,Left Foot,,Morgan Gibbs-White,Pass (Live),Felipe,Pass (Live)
+19,84,Brennan Johnson,Nott'ham Forest,0.05,,Off Target,16.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Ryan Yates,Pass (Live)
+20,90+5,Serge Aurier,Nott'ham Forest,0.04,,Blocked,29.0,Right Foot,,Jonjo Shelvey,Pass (Dead),Emmanuel Dennis,Fouled

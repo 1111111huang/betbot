@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7.0,Ross Barkley,Chelsea,0.05,,Off Target,11.0,Head,,César Azpilicueta,Pass (Live),Christian Pulisic,Pass (Live)
+1,15.0,Tammy Abraham,Chelsea,0.07,,Off Target,15.0,Right Foot,,Fikayo Tomori,Pass (Live),Kurt Zouma,Pass (Live)
+2,18.0,Luke Freeman,Sheffield Utd,0.02,,Off Target,32.0,Left Foot,,Oliver Norwood,Pass (Live),Callum Robinson,Interception
+3,19.0,Christian Pulisic,Chelsea,0.77,0.94,Saved,4.0,Left Foot,,Tammy Abraham,Pass (Live),César Azpilicueta,Pass (Live)
+4,19.0,Tammy Abraham,Chelsea,0.45,0.26,Goal,10.0,Right Foot,Volley,Christian Pulisic,Shot,,
+5,23.0,Ross Barkley,Chelsea,0.03,,Blocked,30.0,Left Foot,,Tammy Abraham,Pass (Live),Mateo Kovačić,Pass (Live)
+6,25.0,Chris Basham,Sheffield Utd,0.03,,Off Target,23.0,Right Foot,,George Baldock,Pass (Live),Oliver McBurnie,Pass (Live)
+7,32.0,Ross Barkley,Chelsea,0.08,,Blocked,28.0,Right Foot,Free kick,Christian Pulisic,Fouled,Christian Pulisic,Take-On
+8,37.0,Mateo Kovačić,Chelsea,0.09,,Off Target,12.0,Right Foot,,Mateo Kovačić,Take-On,Tammy Abraham,Pass (Live)
+9,39.0,Callum Robinson,Sheffield Utd,0.38,,Off Target,8.0,Head,,Chris Basham,Pass (Live),John Lundstram,Pass (Live)
+10,43.0,Tammy Abraham,Chelsea,0.29,0.74,Goal,15.0,Right Foot,,Fikayo Tomori,Pass (Live),Kurt Zouma,Pass (Live)
+11,44.0,Mason Mount,Chelsea,0.04,,Blocked,21.0,Right Foot,,Jorginho,Pass (Live),Fikayo Tomori,Pass (Live)
+12,,,,,,,,,,,,,
+13,46.0,Callum Robinson,Sheffield Utd,0.45,0.62,Goal,10.0,Right Foot,,Enda Stevens,Pass (Live),Enda Stevens,Take-On
+14,55.0,Tammy Abraham,Chelsea,0.37,0.31,Saved,10.0,Right Foot,Deflected,César Azpilicueta,Pass (Live),César Azpilicueta,Take-On
+15,56.0,Callum Robinson,Sheffield Utd,0.06,,Off Target,22.0,Left Foot,,Oliver McBurnie,Pass (Live),John Lundstram,Pass (Live)
+16,57.0,Ross Barkley,Chelsea,0.03,0.15,Saved,21.0,Left Foot,,Tammy Abraham,Pass (Live),Jorginho,Pass (Live)
+17,70.0,Oliver Norwood,Sheffield Utd,0.02,0.08,Saved,31.0,Right Foot,,Luke Freeman,Pass (Live),Enda Stevens,Take-On
+18,81.0,Enda Stevens,Sheffield Utd,0.03,,Off Target,24.0,Left Foot,,Lys Mousset,Pass (Live),Enda Stevens,Pass (Live)
+19,83.0,Kurt Zouma,Chelsea,0.06,,Off Target,9.0,Head,,Mason Mount,Pass (Dead),Emerson Palmieri,Pass (Live)
+20,87.0,Mason Mount,Chelsea,0.03,,Off Target,26.0,Right Foot,Volley,Billy Gilmour,Fouled,Willian,Pass (Live)
+21,88.0,Callum Robinson,Sheffield Utd,0.12,,Blocked,11.0,Left Foot,,Ben Osborn,Pass (Live),Lys Mousset,Pass (Live)

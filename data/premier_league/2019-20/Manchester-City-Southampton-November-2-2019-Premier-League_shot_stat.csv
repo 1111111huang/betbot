@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Sergio Agüero,Manchester City,0.06,,Off Target,12.0,Head,,Angeliño,Pass (Live),Fernandinho,Pass (Live)
+1,5,İlkay Gündoğan,Manchester City,0.03,,Off Target,24.0,Left Foot,Volley,İlkay Gündoğan,Pass (Live),David Silva,Pass (Live)
+2,11,Kevin De Bruyne,Manchester City,0.04,,Blocked,18.0,Right Foot,,Raheem Sterling,Pass (Live),David Silva,Pass (Live)
+3,13,Stuart Armstrong,Southampton,0.05,0.02,Saved,23.0,Right Foot,,Nathan Redmond,Pass (Live),Danny Ings,Pass (Live)
+4,13,James Ward-Prowse,Southampton,0.86,0.99,Goal,3.0,Right Foot,Volley,Stuart Armstrong,Shot,,
+5,19,Kevin De Bruyne,Manchester City,0.07,,Blocked,28.0,Right Foot,Free kick,Bernardo Silva,Fouled,Bernardo Silva,Take-On
+6,22,İlkay Gündoğan,Manchester City,0.03,,Blocked,24.0,Right Foot,,Raheem Sterling,Pass (Live),İlkay Gündoğan,Pass (Live)
+7,24,David Silva,Manchester City,0.03,,Blocked,25.0,Left Foot,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Pass (Live)
+8,25,İlkay Gündoğan,Manchester City,0.06,,Blocked,17.0,Right Foot,,,,,
+9,26,Kevin De Bruyne,Manchester City,0.05,,Blocked,19.0,Left Foot,,Raheem Sterling,Pass (Live),David Silva,Pass (Live)
+10,27,David Silva,Manchester City,0.06,,Off Target,12.0,Left Foot,Volley,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+11,29,David Silva,Manchester City,0.04,,Blocked,9.0,Head,,Kevin De Bruyne,Pass (Dead),David Silva,Pass (Live)
+12,29,İlkay Gündoğan,Manchester City,0.02,,Blocked,24.0,Right Foot,,David Silva,Shot,,
+13,36,Sergio Agüero,Manchester City,0.08,,Off Target,15.0,Right Foot,,Raheem Sterling,Pass (Live),John Stones,Pass (Live)
+14,39,John Stones,Manchester City,0.17,,Off Target,6.0,Head,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Pass (Dead)
+15,44,Danny Ings,Southampton,0.03,0.23,Saved,30.0,Right Foot,,Nathan Redmond,Pass (Live),Danny Ings,Pass (Live)
+16,45+1,David Silva,Manchester City,0.12,,Blocked,8.0,Left Foot,Volley,Raheem Sterling,Pass (Live),Angeliño,Pass (Live)
+17,,,,,,,,,,,,,
+18,57,Sergio Agüero,Manchester City,0.05,,Off Target,22.0,Right Foot,,Sergio Agüero,Take-On,Kevin De Bruyne,Pass (Live)
+19,65,İlkay Gündoğan,Manchester City,0.04,,Blocked,21.0,Left Foot,,John Stones,Pass (Live),Bernardo Silva,Pass (Live)
+20,65,Raheem Sterling,Manchester City,0.06,,Off Target,14.0,Right Foot,Volley,Gabriel Jesus,Pass (Live),Kevin De Bruyne,Pass (Live)
+21,67,Sergio Agüero,Manchester City,0.07,,Off Target,10.0,Head,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+22,70,Sergio Agüero,Manchester City,0.36,0.5,Goal,10.0,Right Foot,,Kyle Walker,Pass (Live),Kevin De Bruyne,Pass (Live)
+23,78,Bernardo Silva,Manchester City,0.09,0.11,Saved,15.0,Right Foot,,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+24,80,Kevin De Bruyne,Manchester City,0.06,,Off Target,16.0,Right Foot,,İlkay Gündoğan,Pass (Live),Bernardo Silva,Pass (Dead)
+25,83,Sergio Agüero,Manchester City,0.07,,Blocked,13.0,Right Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)
+26,83,Sergio Agüero,Manchester City,0.28,,Blocked,6.0,Right Foot,,Kyle Walker,Pass (Dead),Sergio Agüero,Shot
+27,83,İlkay Gündoğan,Manchester City,0.03,,Blocked,21.0,Left Foot,,Sergio Agüero,Shot,,
+28,86,Kyle Walker,Manchester City,0.4,0.28,Goal,10.0,Left Foot,,Phil Foden,Pass (Live),İlkay Gündoğan,Pass (Live)
+29,90+1,Gabriel Jesus,Manchester City,0.55,0.9,Saved,9.0,Right Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)

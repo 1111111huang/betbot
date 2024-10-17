@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Andreas Pereira,Fulham,0.15,0.37,Goal,12.0,Left Foot,,Neeskens Kebano,Pass (Live),Carlos Vinícius,Pass (Live)
+1,9,Andreas Pereira,Fulham,0.04,0.56,Saved,25.0,Right Foot,Free kick,Neeskens Kebano,Fouled,Daniel James,Pass (Live)
+2,11,Lucas Paquetá,West Ham,0.04,,Off Target,26.0,Right Foot,,Gianluca Scamacca,Pass (Live),Tomáš Souček,Pass (Live)
+3,14,Daniel James,Fulham,0.03,,Woodwork,25.0,Left Foot,,Andreas Pereira,Pass (Live),João Palhinha,Pass (Live)
+4,16,Daniel James,Fulham,0.18,,Off Target,8.0,Head,,Neeskens Kebano,Pass (Live),Carlos Vinícius,Pass (Live)
+5,17,Gianluca Scamacca,West Ham,0.12,0.35,Saved,10.0,Head,,Declan Rice,Pass (Live),Pablo Fornals,Pass (Live)
+6,23,Gianluca Scamacca,West Ham,0.06,,Off Target,17.0,Right Foot,,Lucas Paquetá,Pass (Live),Craig Dawson,Pass (Live)
+7,26,Gianluca Scamacca,West Ham,0.1,0.29,Saved,9.0,Head,,Aaron Cresswell,Pass (Live),Pablo Fornals,Pass (Live)
+8,26,Jarrod Bowen,West Ham,0.67,0.97,Saved,2.0,Left Foot,,Gianluca Scamacca,Shot,,
+9,29,Jarrod Bowen (pen),West Ham,0.79,0.99,Goal,13.0,Left Foot,,Craig Dawson,Fouled,Jarrod Bowen,Shot
+10,32,Thilo Kehrer,West Ham,0.04,,Blocked,14.0,Right Foot,,Jarrod Bowen,Pass (Live),Tomáš Souček,Pass (Live)
+11,32,Jarrod Bowen,West Ham,0.18,,Blocked,14.0,Left Foot,,Thilo Kehrer,Pass (Live),Thilo Kehrer,Shot
+12,41,Lucas Paquetá,West Ham,0.02,,Off Target,31.0,Left Foot,,Jarrod Bowen,Pass (Live),Lucas Paquetá,Pass (Live)
+13,,,,,,,,,,,,,
+14,46,Lucas Paquetá,West Ham,0.04,0.28,Saved,19.0,Left Foot,,Aaron Cresswell,Pass (Live),Pablo Fornals,Pass (Live)
+15,49,Gianluca Scamacca,West Ham,0.08,,Off Target,10.0,Head,,Aaron Cresswell,Pass (Live),Pablo Fornals,Pass (Live)
+16,51,Daniel James,Fulham,0.04,,Off Target,17.0,Left Foot,,,,,
+17,57,Jarrod Bowen,West Ham,0.04,,Blocked,24.0,Left Foot,,Declan Rice,Pass (Live),Jarrod Bowen,Pass (Live)
+18,62,Gianluca Scamacca,West Ham,0.32,0.47,Goal,16.0,Right Foot,,Lucas Paquetá,Pass (Live),Declan Rice,Pass (Live)
+19,70,Carlos Vinícius,Fulham,0.07,,Off Target,12.0,Left Foot,,Antonee Robinson,Pass (Live),Neeskens Kebano,Pass (Live)
+20,73,Tom Cairney,Fulham,0.12,,Blocked,16.0,Left Foot,,Antonee Robinson,Pass (Live),Tim Ream,Pass (Live)
+21,74,Jarrod Bowen,West Ham,0.03,,Blocked,14.0,Left Foot,,Gianluca Scamacca,Pass (Live),Lucas Paquetá,Pass (Live)
+22,76,Lucas Paquetá,West Ham,0.14,,Blocked,11.0,Left Foot,,Lucas Paquetá,Take-On,Pablo Fornals,Pass (Live)
+23,85,Carlos Vinícius,Fulham,0.07,,Blocked,16.0,Left Foot,,Tom Cairney,Pass (Live),Antonee Robinson,Pass (Live)
+24,90+1,Michail Antonio,West Ham,0.13,0.17,Saved,22.0,Right Foot,,Michail Antonio,Take-On,Tomáš Souček,Pass (Live)
+25,90+1,Michail Antonio,West Ham,0.3,0.7,Goal,9.0,Right Foot,,Michail Antonio,Take-On,Michail Antonio,Take-On

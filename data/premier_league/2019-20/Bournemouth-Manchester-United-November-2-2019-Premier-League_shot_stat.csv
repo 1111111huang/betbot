@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Anthony Martial,Manchester Utd,0.03,0.02,Saved,31.0,Right Foot,,Scott McTominay,Pass (Live),Daniel James,Pass (Live)
+1,7,Andreas Pereira,Manchester Utd,0.04,,Off Target,17.0,Right Foot,,Daniel James,Pass (Live),Fred,Pass (Live)
+2,8,Fred,Manchester Utd,0.07,,Off Target,13.0,Right Foot,,Daniel James,Pass (Live),Anthony Martial,Pass (Live)
+3,13,Jefferson Lerma,Bournemouth,0.06,,Blocked,21.0,Right Foot,Volley,Callum Wilson,Pass (Live),Philip Billing,Pass (Live)
+4,16,Harry Wilson,Bournemouth,0.05,,Blocked,16.0,Left Foot,,Adam Smith,Pass (Live),Harry Wilson,Pass (Live)
+5,16,Callum Wilson,Bournemouth,0.13,,Off Target,9.0,Right Foot,Volley,Philip Billing,Pass (Live),Adam Smith,Pass (Live)
+6,18,Fred,Manchester Utd,0.05,,Blocked,24.0,Left Foot,,Marcus Rashford,Pass (Live),David de Gea,Pass (Live)
+7,21,Daniel James,Manchester Utd,0.04,,Off Target,21.0,Right Foot,,Daniel James,Fouled,Andreas Pereira,Pass (Live)
+8,23,Marcus Rashford,Manchester Utd,0.08,,Blocked,14.0,Right Foot,,Fred,Pass (Live),Ashley Young,Interception
+9,27,Ryan Fraser,Bournemouth,0.05,0.03,Saved,14.0,Left Foot,,Joshua King,Pass (Live),Callum Wilson,Pass (Live)
+10,39,Harry Wilson,Bournemouth,0.03,,Blocked,23.0,Left Foot,Volley,Jefferson Lerma,Fouled,Adam Smith,Pass (Live)
+11,45,Joshua King,Bournemouth,0.64,0.8,Goal,6.0,Right Foot,Volley,Joshua King,Take-On,Adam Smith,Pass (Live)
+12,,,,,,,,,,,,,
+13,48,Ryan Fraser,Bournemouth,0.04,0.03,Saved,14.0,Right Foot,Volley,Adam Smith,Pass (Live),Callum Wilson,Pass (Live)
+14,53,Scott McTominay,Manchester Utd,0.03,,Blocked,29.0,Right Foot,,Andreas Pereira,Pass (Live),Fred,Pass (Live)
+15,57,Andreas Pereira,Manchester Utd,0.03,0.05,Saved,28.0,Right Foot,,Harry Maguire,Pass (Live),Victor Lindelöf,Pass (Live)
+16,63,Joshua King,Bournemouth,0.45,0.22,Saved,10.0,Right Foot,,,,,
+17,63,Harry Wilson,Bournemouth,0.06,0.15,Saved,16.0,Left Foot,Volley,Joshua King,Shot,,
+18,64,Andreas Pereira,Manchester Utd,0.05,,Blocked,24.0,Right Foot,,Andreas Pereira,Take-On,Marcus Rashford,Pass (Live)
+19,68,Harry Wilson,Bournemouth,0.11,,Off Target,21.0,Left Foot,Free kick,Adam Smith,Fouled,Harry Wilson,Pass (Live)
+20,71,Jefferson Lerma,Bournemouth,0.02,,Off Target,33.0,Right Foot,,Ryan Fraser,Pass (Live),Diego Rico,Pass (Live)
+21,73,Fred,Manchester Utd,0.02,,Off Target,34.0,Left Foot,,Jesse Lingard,Pass (Live),Ashley Young,Pass (Live)
+22,75,Harry Wilson,Bournemouth,0.07,0.31,Saved,18.0,Left Foot,,Callum Wilson,Pass (Live),Philip Billing,Pass (Live)
+23,82,Callum Wilson,Bournemouth,0.25,,Off Target,18.0,Right Foot,,Ryan Fraser,Pass (Live),,
+24,82,Mason Greenwood,Manchester Utd,0.2,,Woodwork,4.0,Left Foot,,Fred,Pass (Live),Brandon Williams,Pass (Dead)
+25,83,Scott McTominay,Manchester Utd,0.03,0.05,Saved,31.0,Right Foot,,Fred,Pass (Live),Anthony Martial,Pass (Live)
+26,88,Harry Maguire,Manchester Utd,0.02,,Off Target,14.0,Head,,Ashley Young,Pass (Dead),,
+27,90,Scott McTominay,Manchester Utd,0.05,,Blocked,22.0,Right Foot,,Brandon Williams,Pass (Live),Harry Maguire,Pass (Live)
+28,90+1,Fred,Manchester Utd,0.03,0.04,Saved,26.0,Left Foot,,Jesse Lingard,Pass (Live),Brandon Williams,Pass (Live)

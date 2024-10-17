@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,18,Cenk Tosun,Crystal Palace,0.24,,Off Target,16.0,Right Foot,,Jordan Ayew,Tackle,,
+1,22,Nathan Redmond,Southampton,0.06,0.52,Goal,20.0,Right Foot,,Nathan Redmond,Take-On,Jack Stephens,Pass (Live)
+2,25,Pierre Højbjerg,Southampton,0.02,,Off Target,35.0,Right Foot,,Oriol Romeu,Pass (Live),James Ward-Prowse,Pass (Live)
+3,27,Stuart Armstrong,Southampton,0.07,0.11,Saved,13.0,Left Foot,,Ryan Bertrand,Pass (Live),Nathan Redmond,Pass (Live)
+4,30,Ryan Bertrand,Southampton,0.03,,Off Target,26.0,Left Foot,,Oriol Romeu,Pass (Live),Michael Obafemi,Pass (Live)
+5,31,Stuart Armstrong,Southampton,0.04,,Off Target,24.0,Right Foot,,Nathan Redmond,Pass (Live),Ryan Bertrand,Pass (Dead)
+6,35,Stuart Armstrong,Southampton,0.03,0.02,Saved,27.0,Right Foot,,Nathan Redmond,Pass (Live),Jack Stephens,Pass (Live)
+7,45+1,Michael Obafemi,Southampton,0.05,,Blocked,18.0,Right Foot,,Stuart Armstrong,Pass (Live),Nathan Redmond,Pass (Live)
+8,45+3,Shane Long,Southampton,0.06,,Off Target,7.0,Head,,James Ward-Prowse,Pass (Dead),James Ward-Prowse,Pass (Live)
+9,,,,,,,,,,,,,
+10,46,Cenk Tosun,Crystal Palace,0.09,,Off Target,10.0,Head,,Cheikhou Kouyaté,Pass (Live),Wilfried Zaha,Pass (Live)
+11,48,Stuart Armstrong,Southampton,0.03,0.35,Goal,30.0,Right Foot,,Nathan Redmond,Pass (Live),,
+12,56,Jannik Vestergaard,Southampton,0.28,,Off Target,6.0,Right Foot,,Shane Long,Pass (Live),Ryan Bertrand,Pass (Dead)
+13,60,Jordan Ayew,Crystal Palace,0.09,,Blocked,14.0,Right Foot,,Jaïro Riedewald,Pass (Live),Wilfried Zaha,Pass (Live)
+14,60,Shane Long,Southampton,0.34,0.22,Saved,17.0,Right Foot,,Michael Obafemi,Pass (Live),Michael Obafemi,Take-On
+15,62,James McCarthy,Crystal Palace,0.05,,Off Target,16.0,Right Foot,Volley,Wilfried Zaha,Fouled,James McCarthy,Pass (Live)
+16,63,Nathan Redmond,Southampton,0.05,0.05,Saved,16.0,Left Foot,,Pierre Højbjerg,Pass (Live),Stuart Armstrong,Pass (Live)
+17,75,Stuart Armstrong,Southampton,0.05,,Blocked,24.0,Left Foot,,Stuart Armstrong,Take-On,Michael Obafemi,Pass (Live)
+18,76,Stuart Armstrong,Southampton,0.02,,Blocked,23.0,Right Foot,,Michael Obafemi,Pass (Live),Stuart Armstrong,Shot
+19,80,James McArthur,Crystal Palace,0.07,,Off Target,15.0,Left Foot,,Connor Wickham,Pass (Live),Wilfried Zaha,Pass (Live)
+20,83,Connor Wickham,Crystal Palace,0.05,,Off Target,16.0,Left Foot,,Wilfried Zaha,Pass (Live),,
+21,86,Pierre Højbjerg,Southampton,0.02,,Off Target,39.0,Right Foot,,,,,

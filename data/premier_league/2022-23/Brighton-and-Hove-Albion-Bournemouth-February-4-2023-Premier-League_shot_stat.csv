@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Chris Mepham,Bournemouth,0.05,,Off Target,7.0,Right Foot,Volley,Hamed Junior Traorè,Pass (Dead),,
+1,13,Deniz Undav,Brighton,0.33,,Blocked,12.0,Left Foot,,,,,
+2,13,Deniz Undav,Brighton,0.25,0.33,Saved,8.0,Left Foot,,Deniz Undav,Shot,,
+3,13,Deniz Undav,Brighton,0.42,,Woodwork,5.0,Right Foot,,Deniz Undav,Shot,,
+4,13,Pascal Groß,Brighton,0.03,,Off Target,15.0,Right Foot,,Deniz Undav,Shot,,
+5,15,Solly March,Brighton,0.09,,Blocked,21.0,Left Foot,,Billy Gilmour,Pass (Live),Deniz Undav,Pass (Live)
+6,17,Jefferson Lerma,Bournemouth,0.09,,Off Target,14.0,Right Foot,,Jaidon Anthony,Pass (Live),Jordan Zemura,Pass (Live)
+7,31,Billy Gilmour,Brighton,0.12,,Blocked,18.0,Right Foot,,Deniz Undav,Pass (Live),Solly March,Pass (Live)
+8,33,Pervis Estupiñán,Brighton,0.01,,Off Target,26.0,Left Foot,Volley,Danny Welbeck,Pass (Live),Pervis Estupiñán,Pass (Live)
+9,38,Solly March,Brighton,0.06,,Blocked,26.0,Left Foot,,Pascal Groß,Pass (Live),Tariq Lamptey,Pass (Live)
+10,40,Danny Welbeck,Brighton,0.13,0.02,Saved,10.0,Head,,Solly March,Pass (Live),Pervis Estupiñán,Pass (Live)
+11,44,Kaoru Mitoma,Brighton,0.05,,Blocked,15.0,Right Foot,,Danny Welbeck,Pass (Live),Pascal Groß,Pass (Live)
+12,44,Solly March,Brighton,0.1,,Blocked,17.0,Left Foot,Volley,Billy Gilmour,Pass (Live),Kaoru Mitoma,Shot
+13,45,Danny Welbeck,Brighton,0.42,,Off Target,5.0,Right Foot,,Deniz Undav,Pass (Live),Pascal Groß,Pass (Live)
+14,45+1,Jordan Zemura,Bournemouth,0.07,,Blocked,22.0,Right Foot,,Jordan Zemura,Take-On,Jordan Zemura,Take-On
+15,45+2,Philip Billing,Bournemouth,0.03,0.02,Saved,31.0,Left Foot,,Jefferson Lerma,Pass (Live),Hamed Junior Traorè,Pass (Live)
+16,,,,,,,,,,,,,
+17,46,Dango Ouattara,Bournemouth,0.18,,Off Target,3.0,Head,,Jordan Zemura,Pass (Live),Jaidon Anthony,Pass (Live)
+18,55,Danny Welbeck,Brighton,0.07,,Off Target,15.0,Right Foot,,,,,
+19,57,Billy Gilmour,Brighton,0.1,,Off Target,16.0,Right Foot,,,,,
+20,59,Jeremy Sarmiento,Brighton,0.07,0.02,Saved,25.0,Right Foot,,Jeremy Sarmiento,Take-On,Moisés Caicedo,Pass (Live)
+21,67,Jaidon Anthony,Bournemouth,0.05,,Blocked,21.0,Left Foot,Deflected,Jordan Zemura,Pass (Live),Jefferson Lerma,Pass (Live)
+22,69,Antoine Semenyo,Bournemouth,0.16,,Blocked,19.0,Left Foot,,Antoine Semenyo,Take-On,Ryan Christie,Pass (Live)
+23,70,Jaidon Anthony,Bournemouth,0.03,,Off Target,25.0,Left Foot,,Antoine Semenyo,Shot,,
+24,76,Moisés Caicedo,Brighton,0.03,0.09,Saved,29.0,Right Foot,Deflected,Pascal Groß,Pass (Live),Joël Veltman,Pass (Live)
+25,77,Dango Ouattara,Bournemouth,0.11,0.07,Saved,13.0,Right Foot,,Jefferson Lerma,Pass (Live),,
+26,79,Jordan Zemura,Bournemouth,0.15,,Off Target,11.0,Right Foot,,Antoine Semenyo,Pass (Live),,
+27,79,Dango Ouattara,Bournemouth,0.19,,Off Target,11.0,Right Foot,,Jordan Zemura,Shot,,
+28,82,Dango Ouattara,Bournemouth,0.08,,Off Target,6.0,Head,,Ryan Christie,Pass (Dead),,
+29,86,Jeremy Sarmiento,Brighton,0.09,,Blocked,18.0,Right Foot,,Moisés Caicedo,Pass (Live),Pascal Groß,Pass (Live)
+30,86,Kaoru Mitoma,Brighton,0.13,0.1,Saved,7.0,Right Foot,,Jeremy Sarmiento,Pass (Live),Jeremy Sarmiento,Shot
+31,87,Kaoru Mitoma,Brighton,0.09,0.43,Goal,10.0,Head,,Jeremy Sarmiento,Pass (Live),Pascal Groß,Pass (Live)
+32,90+3,Julio Enciso,Brighton,0.05,,Off Target,27.0,Right Foot,,Facundo Buonanotte,Pass (Live),Pervis Estupiñán,Pass (Live)

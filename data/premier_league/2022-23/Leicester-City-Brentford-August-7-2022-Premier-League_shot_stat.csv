@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Daniel Amartey,Leicester City,0.01,,Off Target,35.0,Right Foot,,Wilfred Ndidi,Pass (Live),Timothy Castagne,Pass (Live)
+1,9,Bryan Mbeumo,Brentford,0.12,0.11,Saved,14.0,Right Foot,Volley,Vitaly Janelt,Pass (Live),,
+2,13,Youri Tielemans,Leicester City,0.02,0.12,Saved,34.0,Right Foot,,James Maddison,Pass (Live),Daniel Amartey,Pass (Live)
+3,20,James Maddison,Leicester City,0.04,,Off Target,12.0,Head,,Youri Tielemans,Pass (Live),Wesley Fofana,Pass (Live)
+4,31,James Maddison,Leicester City,0.03,,Off Target,33.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),James Maddison,Pass (Live)
+5,33,Timothy Castagne,Leicester City,0.17,0.08,Goal,5.0,Head,,James Maddison,Pass (Dead),Kiernan Dewsbury-Hall,Pass (Live)
+6,34,Yoane Wissa,Brentford,0.11,,Off Target,11.0,Right Foot,,Mathias Jensen,Pass (Live),Yoane Wissa,Pass (Live)
+7,39,James Maddison,Leicester City,0.05,0.02,Saved,17.0,Right Foot,Volley,James Justin,Pass (Live),Kiernan Dewsbury-Hall,Pass (Live)
+8,42,Youri Tielemans,Leicester City,0.03,,Woodwork,28.0,Right Foot,,James Justin,Pass (Live),Daniel Amartey,Pass (Live)
+9,42,James Maddison,Leicester City,0.1,,Blocked,17.0,Right Foot,,Youri Tielemans,Shot,,
+10,,,,,,,,,,,,,
+11,46,Kiernan Dewsbury-Hall,Leicester City,0.02,0.41,Goal,30.0,Left Foot,,Jamie Vardy,Pass (Live),Wilfred Ndidi,Pass (Live)
+12,50,Youri Tielemans,Leicester City,0.04,0.13,Saved,32.0,Right Foot,,James Maddison,Pass (Live),Youri Tielemans,Pass (Live)
+13,54,Bryan Mbeumo,Brentford,0.06,,Off Target,17.0,Left Foot,,Vitaly Janelt,Pass (Live),Christian Nørgaard,Pass (Live)
+14,62,Ivan Toney,Brentford,0.27,0.71,Goal,8.0,Left Foot,,Rico Henry,Pass (Live),Yoane Wissa,Pass (Live)
+15,67,Wesley Fofana,Leicester City,0.01,,Woodwork,11.0,Head,,James Maddison,Pass (Dead),Kiernan Dewsbury-Hall,Fouled
+16,74,Yoane Wissa,Brentford,0.03,,Off Target,25.0,Right Foot,,Ivan Toney,Pass (Live),David Raya,Pass (Dead)
+17,77,Ivan Toney,Brentford,0.1,,Off Target,9.0,Head,,Bryan Mbeumo,Pass (Live),,
+18,86,Halil Dervişoğlu,Brentford,0.03,,Blocked,32.0,Right Foot,,Ivan Toney,Pass (Live),Mads Bech Sørensen,Pass (Live)
+19,86,Josh Dasilva,Brentford,0.05,0.49,Goal,20.0,Left Foot,,Halil Dervişoğlu,Shot,,
+20,90+1,James Maddison,Leicester City,0.03,,Blocked,22.0,Right Foot,,Daniel Amartey,Pass (Live),Timothy Castagne,Pass (Live)
+21,90+2,Youri Tielemans,Leicester City,0.03,,Off Target,25.0,Right Foot,,James Maddison,Shot,,
+22,90+4,James Maddison,Leicester City,0.04,,Blocked,22.0,Right Foot,,Timothy Castagne,Pass (Live),,

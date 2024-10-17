@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Rodrigo Bentancur,Tottenham,0.04,0.0,Blocked,6.0,Head,,James Maddison,Pass (Dead),Son Heung-min,Take-On
+1,7,Brennan Johnson,Tottenham,0.03,0.3,Saved,12.0,Right Foot,Volley,Pedro Porro,Pass (Live),Rodrigo Bentancur,Shot
+2,8,Dominic Solanke,Tottenham,0.13,0.05,Saved,8.0,Head,,Son Heung-min,Pass (Live),Pedro Porro,Pass (Live)
+3,12,Cristian Romero,Tottenham,0.09,0.0,Off Target,9.0,Head,,Pedro Porro,Pass (Live),James Maddison,Pass (Dead)
+4,14,Dominic Solanke,Tottenham,0.07,0.1,Saved,10.0,Head,,Pedro Porro,Pass (Live),Micky van de Ven,Fouled
+5,18,Son Heung-min,Tottenham,0.03,0.0,Blocked,20.0,Left Foot,,James Maddison,Pass (Live),Son Heung-min,Pass (Live)
+6,23,Rodrigo Bentancur,Tottenham,0.02,0.0,Blocked,29.0,Right Foot,,Cristian Romero,Pass (Live),Micky van de Ven,Pass (Live)
+7,29,Pedro Porro,Tottenham,0.09,0.72,Goal,9.0,Head,,James Maddison,Pass (Live),Son Heung-min,Pass (Live)
+8,33,Brennan Johnson,Tottenham,0.05,0.0,Off Target,8.0,Right Foot,Volley,James Maddison,Pass (Dead),James Maddison,Fouled
+9,36,Bobby Reid,Leicester City,0.06,0.0,Off Target,44.0,Right Foot,Volley,Victor Bernth Kristiansen,Pass (Live),Wout Faes,Pass (Live)
+10,42,Pape Matar Sarr,Tottenham,0.01,0.0,Blocked,32.0,Left Foot,Volley,Son Heung-min,Pass (Live),Rodrigo Bentancur,Interception
+11,,,,,,,,,,,,,
+12,51,James Maddison,Tottenham,0.02,0.0,Blocked,13.0,Left Foot,,Pedro Porro,Pass (Live),James Maddison,Pass (Live)
+13,55,Dominic Solanke,Tottenham,0.14,0.19,Saved,15.0,Right Foot,,Pape Matar Sarr,Pass (Live),James Maddison,Pass (Live)
+14,56,Rodrigo Bentancur,Tottenham,0.19,0.57,Saved,11.0,Left Foot,,Brennan Johnson,Pass (Live),Rodrigo Bentancur,Pass (Live)
+15,57,Jamie Vardy,Leicester City,0.43,0.98,Goal,5.0,Head,,Abdul Fatawu Issahaku,Pass (Live),Victor Bernth Kristiansen,Pass (Live)
+16,67,Wilfred Ndidi,Leicester City,0.04,0.0,Off Target,10.0,Right Foot,,Abdul Fatawu Issahaku,Pass (Live),Facundo Buonanotte,Pass (Live)
+17,70,Jamie Vardy,Leicester City,0.37,0.26,Saved,10.0,Left Foot,,Facundo Buonanotte,Pass (Live),Bobby Reid,Pass (Live)
+18,84,Lucas Bergvall,Tottenham,0.06,0.0,Blocked,17.0,Right Foot,,Dominic Solanke,Pass (Live),Dejan Kulusevski,Pass (Live)
+19,86,Kasey McAteer,Leicester City,0.02,0.0,Off Target,12.0,Head,,Harry Winks,Pass (Dead),Abdul Fatawu Issahaku,Fouled
+20,90+1,Wilfred Ndidi,Leicester City,0.04,0.08,Saved,16.0,Head,,Stephy Mavididi,Pass (Live),Stephy Mavididi,Take-On
+21,90+3,James Justin,Leicester City,0.08,0.0,Blocked,17.0,Right Foot,,Wilfred Ndidi,Shot,,
+22,90+9,Richarlison,Tottenham,0.19,0.0,Off Target,5.0,Head,,Lucas Bergvall,Pass (Dead),Dejan Kulusevski,Fouled

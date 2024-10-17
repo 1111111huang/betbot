@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Bobby Reid,Fulham,0.11,,Off Target,5.0,Head,,Andreas Pereira,Pass (Dead),Tim Ream,Pass (Live)
+1,9,Rodrigo Muniz,Fulham,0.05,,Off Target,27.0,Right Foot,,Antonee Robinson,Pass (Dead),,
+2,11,Jacob Ramsey,Aston Villa,0.03,,Off Target,23.0,Right Foot,,Douglas Luiz,Pass (Live),John McGinn,Pass (Live)
+3,15,Rodrigo Muniz,Fulham,0.08,,Off Target,16.0,Right Foot,Volley,Andreas Pereira,Pass (Live),Issa Diop,Pass (Live)
+4,23,Ollie Watkins,Aston Villa,0.44,0.91,Goal,10.0,Right Foot,,,,,
+5,27,Andreas Pereira,Fulham,0.02,,Off Target,27.0,Right Foot,,João Palhinha,Pass (Live),Willian,Pass (Live)
+6,28,Leon Bailey,Aston Villa,0.02,,Woodwork,24.0,Left Foot,,Leon Bailey,Take-On,Jacob Ramsey,Pass (Live)
+7,39,Rodrigo Muniz,Fulham,0.04,0.04,Saved,11.0,Head,,Willian,Pass (Live),Antonee Robinson,Pass (Live)
+8,40,Ollie Watkins,Aston Villa,0.05,,Off Target,12.0,Head,,Douglas Luiz,Pass (Dead),Leon Bailey,Take-On
+9,45,Rodrigo Muniz,Fulham,0.07,,Off Target,10.0,Head,,Andreas Pereira,Pass (Dead),,
+10,45+6,Youri Tielemans,Aston Villa,0.38,0.38,Saved,13.0,Right Foot,,Ollie Watkins,Pass (Live),,
+11,45+7,Leon Bailey,Aston Villa,0.04,,Blocked,14.0,Left Foot,,Youri Tielemans,Shot,,
+12,45+7,Clément Lenglet,Aston Villa,0.06,,Blocked,10.0,Head,,Douglas Luiz,Pass (Dead),Leon Bailey,Shot
+13,45+8,Ollie Watkins,Aston Villa,0.09,,Blocked,9.0,Head,,Douglas Luiz,Pass (Dead),Clément Lenglet,Shot
+14,,,,,,,,,,,,,
+15,55,Issa Diop,Fulham,0.03,,Off Target,14.0,Head,Deflected,Andreas Pereira,Pass (Live),Alex Iwobi,Pass (Live)
+16,56,Ollie Watkins,Aston Villa,0.23,0.39,Goal,18.0,Right Foot,,Youri Tielemans,Pass (Live),John McGinn,Pass (Live)
+17,62,Leon Bailey,Aston Villa,0.06,,Off Target,25.0,Left Foot,Free kick,Youri Tielemans,Fouled,Leon Bailey,Pass (Live)
+18,63,Jacob Ramsey,Aston Villa,0.13,,Off Target,21.0,Right Foot,,Leon Bailey,Pass (Live),Youri Tielemans,Pass (Live)
+19,63,Rodrigo Muniz,Fulham,0.09,0.56,Goal,7.0,Right Foot,,Antonee Robinson,Pass (Live),Tom Cairney,Pass (Live)
+20,65,Ollie Watkins,Aston Villa,0.08,,Off Target,24.0,Right Foot,,Jacob Ramsey,Pass (Live),Ollie Watkins,Pass (Live)
+21,69,Rodrigo Muniz,Fulham,0.09,,Off Target,11.0,Right Foot,Volley,Harry Wilson,Pass (Live),Timothy Castagne,Pass (Live)
+22,69,Rodrigo Muniz,Fulham,0.1,,Off Target,9.0,Right Foot,Volley,Harry Wilson,Pass (Live),Tom Cairney,Pass (Live)
+23,79,Alex Iwobi,Fulham,0.29,0.27,Saved,10.0,Left Foot,,Harry Wilson,Pass (Live),Tom Cairney,Pass (Live)
+24,79,Harry Wilson,Fulham,0.02,,Off Target,27.0,Left Foot,,Alex Iwobi,Shot,,
+25,88,João Palhinha,Fulham,0.03,,Blocked,24.0,Right Foot,,Tom Cairney,Pass (Live),Harry Wilson,Pass (Live)
+26,88,Rodrigo Muniz,Fulham,0.07,,Off Target,10.0,Left Foot,,Rodrigo Muniz,Take-On,João Palhinha,Shot
+27,90+1,Adama Traoré,Fulham,0.48,0.57,Saved,11.0,Right Foot,,Rodrigo Muniz,Pass (Live),,

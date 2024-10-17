@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Wilfried Zaha,Crystal Palace,0.06,,Blocked,11.0,Left Foot,,Gary Cahill,Pass (Live),Joel Ward,Pass (Live)
+1,7,Gary Cahill,Crystal Palace,0.04,,Off Target,12.0,Head,,James McCarthy,Pass (Live),Andros Townsend,Pass (Dead)
+2,16,Pierre-Emerick Aubameyang,Arsenal,0.03,,Blocked,25.0,Right Foot,,Bukayo Saka,Pass (Live),Thomas Partey,Pass (Live)
+3,21,Thomas Partey,Arsenal,0.02,,Blocked,31.0,Right Foot,,Calum Chambers,Pass (Live),Nicolas Pépé,Pass (Live)
+4,23,James Tomkins,Crystal Palace,0.04,0.3,Saved,12.0,Head,,Andros Townsend,Pass (Dead),Andros Townsend,Fouled
+5,30,Christian Benteke,Crystal Palace,0.13,,Off Target,9.0,Head,,Andros Townsend,Pass (Dead),Wilfried Zaha,Fouled
+6,32,Jeffrey Schlupp,Crystal Palace,0.05,0.15,Saved,26.0,Left Foot,"Deflected, Volley",Christian Benteke,Pass (Live),Andros Townsend,Pass (Live)
+7,35,Nicolas Pépé,Arsenal,0.33,0.45,Goal,11.0,Right Foot,Volley,Kieran Tierney,Pass (Live),Bukayo Saka,Pass (Live)
+8,,,,,,,,,,,,,
+9,46,Christian Benteke,Crystal Palace,0.05,,Off Target,12.0,Head,,Andros Townsend,Pass (Live),Joel Ward,Pass (Live)
+10,62,Christian Benteke,Crystal Palace,0.13,0.17,Goal,9.0,Head,,Andros Townsend,Pass (Dead),Wilfried Zaha,Fouled
+11,65,Andros Townsend,Crystal Palace,0.03,,Off Target,26.0,Left Foot,,Wilfried Zaha,Pass (Live),Tyrick Mitchell,Pass (Live)
+12,70,Christian Benteke,Crystal Palace,0.1,0.08,Saved,4.0,Left Foot,,Wilfried Zaha,Pass (Live),Jeffrey Schlupp,Pass (Live)
+13,75,Wilfried Zaha,Crystal Palace,0.07,,Blocked,15.0,Left Foot,,James McCarthy,Pass (Live),,
+14,83,Jordan Ayew,Crystal Palace,0.29,0.52,Saved,5.0,Head,,James Tomkins,Pass (Live),Andros Townsend,Pass (Dead)
+15,83,Pierre-Emerick Aubameyang,Arsenal,0.53,,Off Target,5.0,Right Foot,Volley,Calum Chambers,Pass (Live),Martin Ødegaard,Pass (Live)
+16,86,Andros Townsend,Crystal Palace,0.03,0.05,Saved,24.0,Right Foot,,Andros Townsend,Take-On,Jeffrey Schlupp,Pass (Live)
+17,90+1,Gabriel Martinelli,Arsenal,0.85,0.99,Goal,2.0,Right Foot,,Martin Ødegaard,Pass (Live),Nicolas Pépé,Pass (Live)
+18,90+5,Nicolas Pépé,Arsenal,0.1,0.48,Goal,11.0,Left Foot,,,,,

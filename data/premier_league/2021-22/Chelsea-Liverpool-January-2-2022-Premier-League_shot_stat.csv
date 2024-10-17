@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Mohamed Salah,Liverpool,0.17,0.11,Saved,18.0,Right Foot,,Sadio Mané,Pass (Live),,
+1,9,Sadio Mané,Liverpool,0.51,0.36,Goal,12.0,Left Foot,,Sadio Mané,Take-On,Ibrahima Konaté,Pass (Live)
+2,16,Mason Mount,Chelsea,0.03,,Blocked,13.0,Right Foot,,César Azpilicueta,Pass (Live),Mateo Kovačić,Pass (Live)
+3,19,Marcos Alonso,Chelsea,0.09,,Off Target,11.0,Left Foot,Volley,Mason Mount,Pass (Live),N'Golo Kanté,Pass (Live)
+4,24,Trent Alexander-Arnold,Liverpool,0.02,,Blocked,19.0,Right Foot,Volley,Kostas Tsimikas,Take-On,Trent Alexander-Arnold,Pass (Live)
+5,25,Trent Alexander-Arnold,Liverpool,0.02,0.04,Saved,24.0,Right Foot,Volley,James Milner,Pass (Live),Trent Alexander-Arnold,Pass (Dead)
+6,26,Mohamed Salah,Liverpool,0.17,0.22,Goal,8.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Fabinho,Pass (Live)
+7,36,Mohamed Salah,Liverpool,0.15,,Blocked,16.0,Left Foot,,Mohamed Salah,Take-On,Trent Alexander-Arnold,Pass (Live)
+8,41,Marcos Alonso,Chelsea,0.03,0.1,Saved,22.0,Left Foot,Free kick,Kai Havertz,Fouled,Kai Havertz,Take-On
+9,42,Mateo Kovačić,Chelsea,0.03,0.28,Goal,25.0,Right Foot,Volley,Marcos Alonso,Shot,,
+10,45+1,Christian Pulisic,Chelsea,0.33,0.89,Goal,12.0,Left Foot,Volley,N'Golo Kanté,Pass (Live),Antonio Rüdiger,Pass (Live)
+11,45+3,Kai Havertz,Chelsea,0.06,,Blocked,15.0,Left Foot,Deflected,Marcos Alonso,Pass (Live),Christian Pulisic,Pass (Live)
+12,45+3,Mason Mount,Chelsea,0.11,,Off Target,10.0,Right Foot,Volley,Kai Havertz,Shot,,
+13,,,,,,,,,,,,,
+14,51,Marcos Alonso,Chelsea,0.1,,Off Target,12.0,Right Foot,,N'Golo Kanté,Pass (Live),N'Golo Kanté,Take-On
+15,57,Mohamed Salah,Liverpool,0.04,0.21,Saved,30.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),,
+16,58,Ibrahima Konaté,Liverpool,0.08,,Off Target,10.0,Head,,Kostas Tsimikas,Pass (Dead),Mohamed Salah,Shot
+17,58,Sadio Mané,Liverpool,0.14,0.19,Saved,18.0,Right Foot,,Sadio Mané,Take-On,Mohamed Salah,Pass (Live)
+18,62,Christian Pulisic,Chelsea,0.21,0.21,Saved,10.0,Left Foot,,Marcos Alonso,Pass (Live),Kai Havertz,Pass (Live)
+19,66,Kostas Tsimikas,Liverpool,0.03,,Off Target,23.0,Left Foot,,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Dead)
+20,72,Christian Pulisic,Chelsea,0.03,,Off Target,25.0,Left Foot,,N'Golo Kanté,Pass (Live),Mateo Kovačić,Pass (Live)
+21,82,Mason Mount,Chelsea,0.04,,Blocked,28.0,Right Foot,Free kick,Mateo Kovačić,Fouled,Mateo Kovačić,Take-On
+22,82,Mason Mount,Chelsea,0.01,0.16,Saved,29.0,Right Foot,,Mason Mount,Shot,,
+23,84,Marcos Alonso,Chelsea,0.04,0.33,Saved,31.0,Left Foot,Free kick,Callum Hudson-Odoi,Fouled,Mason Mount,Pass (Live)
+24,86,Mateo Kovačić,Chelsea,0.03,,Blocked,18.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Marcos Alonso,Pass (Live)
+25,87,Antonio Rüdiger,Chelsea,0.1,,Off Target,9.0,Head,,Mason Mount,Pass (Dead),Mateo Kovačić,Shot

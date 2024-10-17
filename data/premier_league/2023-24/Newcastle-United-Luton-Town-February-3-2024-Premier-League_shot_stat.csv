@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Sean Longstaff,Newcastle Utd,0.21,0.62,Goal,14.0,Right Foot,,Lewis Miley,Pass (Live),Sven Botman,Pass (Live)
+1,9,Ross Barkley,Luton Town,0.02,,Blocked,33.0,Right Foot,,Albert Sambi Lokonga,Pass (Live),Carlton Morris,Pass (Live)
+2,16,Carlton Morris,Luton Town,0.03,0.05,Saved,11.0,Head,,Alfie Doughty,Pass (Dead),,
+3,17,Jacob Murphy,Newcastle Utd,0.02,,Blocked,18.0,Right Foot,,Anthony Gordon,Pass (Live),Lewis Miley,Pass (Live)
+4,21,Gabriel Osho,Luton Town,0.48,0.5,Goal,6.0,Head,,Carlton Morris,Pass (Live),Ross Barkley,Pass (Dead)
+5,23,Elijah Adebayo,Luton Town,0.04,,Blocked,13.0,Right Foot,,Jordan Clark,Pass (Live),Teden Mengi,Pass (Live)
+6,23,Anthony Gordon,Newcastle Utd,0.13,0.04,Saved,14.0,Right Foot,,Miguel Almirón,Pass (Live),,
+7,23,Sean Longstaff,Newcastle Utd,0.6,0.92,Goal,11.0,Right Foot,,Anthony Gordon,Shot,,
+8,35,Anthony Gordon,Newcastle Utd,0.17,,Off Target,14.0,Right Foot,,Jacob Murphy,Pass (Live),Kieran Trippier,Pass (Live)
+9,35,Sean Longstaff,Newcastle Utd,0.02,,Off Target,31.0,Right Foot,,,,,
+10,40,Alfie Doughty,Luton Town,0.05,0.34,Saved,15.0,Left Foot,,Ross Barkley,Pass (Live),Ross Barkley,Take-On
+11,40,Ross Barkley,Luton Town,0.68,0.81,Goal,7.0,Right Foot,,Alfie Doughty,Shot,,
+12,,,,,,,,,,,,,
+13,51,Fabian Schär,Newcastle Utd,0.02,,Off Target,31.0,Left Foot,,Kieran Trippier,Pass (Live),Sean Longstaff,Pass (Live)
+14,52,Jacob Murphy,Newcastle Utd,0.08,,Blocked,21.0,Right Foot,,Callum Wilson,Pass (Live),Bruno Guimarães,Pass (Live)
+15,53,Jacob Murphy,Newcastle Utd,0.03,,Off Target,14.0,Left Foot,,Lewis Miley,Pass (Live),Jacob Murphy,Shot
+16,59,Carlton Morris (pen),Luton Town,0.79,0.97,Goal,13.0,Right Foot,,Chiedozie Ogbene,Fouled,Chiedozie Ogbene,Take-On
+17,62,Elijah Adebayo,Luton Town,0.12,0.89,Goal,10.0,Right Foot,,Ross Barkley,Pass (Live),Alfie Doughty,Pass (Live)
+18,66,Sean Longstaff,Newcastle Utd,0.08,,Blocked,15.0,Left Foot,,Callum Wilson,Pass (Live),Harvey Barnes,Pass (Live)
+19,66,Jacob Murphy,Newcastle Utd,0.13,,Blocked,14.0,Left Foot,,Sean Longstaff,Shot,,
+20,67,Kieran Trippier,Newcastle Utd,0.33,0.8,Goal,7.0,Left Foot,Volley,Bruno Guimarães,Pass (Live),Lewis Miley,Pass (Live)
+21,72,Bruno Guimarães,Newcastle Utd,0.14,,Off Target,10.0,Head,,Jacob Murphy,Fouled,,
+22,72,Fabian Schär,Newcastle Utd,0.05,,Blocked,17.0,Left Foot,Volley,Bruno Guimarães,Shot,,
+23,73,Harvey Barnes,Newcastle Utd,0.06,0.22,Goal,23.0,Left Foot,,Harvey Barnes,Take-On,Lewis Miley,Tackle
+24,75,Pelly Ruddock Mpanzu,Luton Town,0.07,0.18,Saved,10.0,Right Foot,,Carlton Morris,Pass (Live),Ross Barkley,Pass (Live)
+25,77,Harvey Barnes,Newcastle Utd,0.2,,Blocked,13.0,Right Foot,,Sean Longstaff,Pass (Live),Kieran Trippier,Pass (Live)
+26,82,Harvey Barnes,Newcastle Utd,0.06,0.13,Saved,15.0,Right Foot,Deflected,Fabian Schär,Pass (Live),Lewis Miley,Pass (Live)
+27,85,Jacob Murphy,Newcastle Utd,0.11,,Off Target,5.0,Right Foot,,Bruno Guimarães,Pass (Live),Bruno Guimarães,Take-On
+28,90+1,Fabian Schär,Newcastle Utd,0.04,,Blocked,23.0,Right Foot,,Callum Wilson,Fouled,,
+29,90+7,Jacob Brown,Luton Town,0.05,,Blocked,12.0,Head,,Ross Barkley,Pass (Dead),Pelly Ruddock Mpanzu,Fouled
+30,90+8,Chiedozie Ogbene,Luton Town,0.06,0.04,Saved,11.0,Right Foot,Volley,Ross Barkley,Pass (Live),,

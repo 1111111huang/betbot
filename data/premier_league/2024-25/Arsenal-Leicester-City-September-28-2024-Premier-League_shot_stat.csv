@@ -1,0 +1,42 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,James Justin,Leicester City,0.07,0.0,Blocked,12.0,Right Foot,,Jamie Vardy,Pass (Live),,
+1,13,Jurriën Timber,Arsenal,0.03,0.0,Blocked,16.0,Right Foot,,Thomas Partey,Pass (Live),Bukayo Saka,Pass (Live)
+2,15,Bukayo Saka,Arsenal,0.02,0.11,Saved,32.0,Left Foot,,Jurriën Timber,Pass (Live),William Saliba,Pass (Live)
+3,16,Gabriel Martinelli,Arsenal,0.07,0.0,Off Target,9.0,Left Foot,,Bukayo Saka,Pass (Live),William Saliba,Tackle
+4,20,Gabriel Martinelli,Arsenal,0.2,0.83,Goal,15.0,Right Foot,,Jurriën Timber,Pass (Live),Bukayo Saka,Pass (Live)
+5,25,Riccardo Calafiori,Arsenal,0.02,0.02,Saved,26.0,Left Foot,Volley,Jurriën Timber,Pass (Live),Declan Rice,Fouled
+6,25,Gabriel Martinelli,Arsenal,0.05,0.06,Saved,11.0,Left Foot,,Declan Rice,Pass (Live),Leandro Trossard,Interception
+7,27,Bukayo Saka,Arsenal,0.04,0.0,Blocked,24.0,Left Foot,,,,,
+8,34,Declan Rice,Arsenal,0.03,0.0,Blocked,20.0,Right Foot,,Leandro Trossard,Pass (Live),Kai Havertz,Pass (Live)
+9,34,Gabriel Martinelli,Arsenal,0.07,0.0,Off Target,18.0,Right Foot,Volley,Kai Havertz,Pass (Live),Bukayo Saka,Pass (Live)
+10,37,Kai Havertz,Arsenal,0.05,0.0,Off Target,10.0,Head,,Leandro Trossard,Pass (Live),Bukayo Saka,Pass (Live)
+11,45+1,Leandro Trossard,Arsenal,0.6,0.98,Goal,11.0,Right Foot,,Gabriel Martinelli,Pass (Live),Declan Rice,Pass (Live)
+12,45+3,Kai Havertz,Arsenal,0.12,0.0,Blocked,8.0,Head,,Gabriel Martinelli,Pass (Live),Kai Havertz,Pass (Live)
+13,,,,,,,,,,,,,
+14,47,James Justin,Leicester City,0.03,0.1,Goal,14.0,Head,Deflected,Facundo Buonanotte,Pass (Dead),Jamie Vardy,Fouled
+15,53,Gabriel Magalhães,Arsenal,0.12,0.39,Saved,5.0,Head,,Bukayo Saka,Pass (Dead),Declan Rice,Pass (Live)
+16,53,Riccardo Calafiori,Arsenal,0.37,0.89,Saved,3.0,Head,,Gabriel Magalhães,Shot,,
+17,53,Jurriën Timber,Arsenal,0.17,0.0,Off Target,11.0,Left Foot,,Riccardo Calafiori,Shot,,
+18,54,Bukayo Saka,Arsenal,0.02,0.05,Saved,13.0,Right Foot,,,,,
+19,55,Kai Havertz,Arsenal,0.05,0.0,Off Target,22.0,Left Foot,,Bukayo Saka,Pass (Live),Kai Havertz,Pass (Live)
+20,56,Bukayo Saka,Arsenal,0.03,0.0,Off Target,16.0,Right Foot,,Jurriën Timber,Pass (Live),Kai Havertz,Pass (Live)
+21,58,Bukayo Saka,Arsenal,0.07,0.0,Blocked,11.0,Left Foot,,Leandro Trossard,Pass (Live),,
+22,58,Leandro Trossard,Arsenal,0.26,0.0,Woodwork,11.0,Left Foot,,Bukayo Saka,Shot,,
+23,61,Facundo Buonanotte,Leicester City,0.03,0.0,Off Target,16.0,Left Foot,,Harry Winks,Pass (Live),Stephy Mavididi,Pass (Live)
+24,63,Facundo Buonanotte,Leicester City,0.14,0.04,Saved,16.0,Left Foot,,Stephy Mavididi,Pass (Live),Facundo Buonanotte,Pass (Live)
+25,63,James Justin,Leicester City,0.05,0.07,Goal,14.0,Right Foot,Volley,Wilfred Ndidi,Pass (Live),Stephy Mavididi,Pass (Live)
+26,67,Kai Havertz,Arsenal,0.07,0.0,Blocked,3.0,Head,,Bukayo Saka,Pass (Dead),Thomas Partey,Pass (Live)
+27,67,Leandro Trossard,Arsenal,0.08,0.0,Blocked,15.0,Left Foot,,Riccardo Calafiori,Pass (Live),Kai Havertz,Shot
+28,68,Bukayo Saka,Arsenal,0.08,0.0,Blocked,14.0,Left Foot,,Jurriën Timber,Pass (Live),Bukayo Saka,Pass (Live)
+29,69,Kai Havertz,Arsenal,0.59,0.36,Saved,5.0,Right Foot,Volley,Kai Havertz,Take-On,Bukayo Saka,Shot
+30,73,Gabriel Magalhães,Arsenal,0.12,0.0,Off Target,4.0,Head,,Thomas Partey,Pass (Live),Gabriel Magalhães,Pass (Live)
+31,73,Declan Rice,Arsenal,0.01,0.01,Saved,26.0,Right Foot,,Riccardo Calafiori,Pass (Live),Jurriën Timber,Pass (Live)
+32,74,Leandro Trossard,Arsenal,0.16,0.36,Saved,13.0,Right Foot,,Declan Rice,Pass (Live),,
+33,75,Gabriel Magalhães,Arsenal,0.04,0.11,Saved,19.0,Left Foot,,Bukayo Saka,Pass (Live),Raheem Sterling,Pass (Live)
+34,86,Ethan Nwaneri,Arsenal,0.02,0.05,Saved,27.0,Left Foot,,Jurriën Timber,Pass (Live),Leandro Trossard,Pass (Live)
+35,87,Bukayo Saka,Arsenal,0.03,0.0,Blocked,23.0,Left Foot,,Bukayo Saka,Take-On,Jurriën Timber,Pass (Live)
+36,88,Riccardo Calafiori,Arsenal,0.09,0.43,Saved,4.0,Head,,Bukayo Saka,Pass (Dead),,
+37,89,Kai Havertz,Arsenal,0.12,0.0,Off Target,8.0,Head,,Bukayo Saka,Pass (Live),Leandro Trossard,Pass (Live)
+38,90+3,Declan Rice,Arsenal,0.02,0.0,Off Target,26.0,Right Foot,,Bukayo Saka,Pass (Live),Jurriën Timber,Pass (Live)
+39,90+9,Gabriel Jesus,Arsenal,0.11,0.11,Saved,14.0,Right Foot,,Ethan Nwaneri,Pass (Live),,
+40,90+9,Kai Havertz,Arsenal,0.89,1.0,Goal,2.0,Other,,Gabriel Jesus,Shot,,

@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,23,Youri Tielemans,Leicester City,0.06,,Blocked,21.0,Left Foot,,Harvey Barnes,Pass (Live),James Maddison,Pass (Live)
+1,23,Ricardo Pereira,Leicester City,0.03,,Blocked,25.0,Right Foot,,James Maddison,Pass (Live),Youri Tielemans,Shot
+2,25,Jamie Vardy,Leicester City,0.25,0.47,Saved,14.0,Left Foot,,Ayoze Pérez,Pass (Live),Youri Tielemans,Pass (Live)
+3,31,Mason Mount,Chelsea,0.06,,Blocked,27.0,Right Foot,Free kick,Pedro,Fouled,Callum Hudson-Odoi,Pass (Live)
+4,31,Pedro,Chelsea,0.04,0.05,Saved,17.0,Right Foot,,N'Golo Kanté,Pass (Live),Jorginho,Pass (Live)
+5,33,Harvey Barnes,Leicester City,0.09,,Off Target,16.0,Left Foot,,Ben Chilwell,Pass (Live),Youri Tielemans,Pass (Live)
+6,36,Harvey Barnes,Leicester City,0.03,,Blocked,27.0,Right Foot,,Hamza Choudhury,Pass (Live),,
+7,37,Ben Chilwell,Leicester City,0.03,,Off Target,15.0,Left Foot,,James Maddison,Pass (Dead),Kasper Schmeichel,Pass (Live)
+8,41,Mason Mount,Chelsea,0.1,,Blocked,11.0,Left Foot,,Callum Hudson-Odoi,Pass (Live),Mason Mount,Pass (Live)
+9,42,N'Golo Kanté,Chelsea,0.04,,Blocked,18.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Jorginho,Pass (Live)
+10,45+1,Callum Hudson-Odoi,Chelsea,0.05,,Off Target,13.0,Right Foot,,Tammy Abraham,Pass (Live),Mason Mount,Pass (Live)
+11,45+3,Hamza Choudhury,Leicester City,0.07,,Off Target,5.0,Head,,James Maddison,Pass (Dead),Jamie Vardy,Pass (Live)
+12,,,,,,,,,,,,,
+13,46,Antonio Rüdiger,Chelsea,0.21,0.31,Goal,5.0,Head,,Mason Mount,Pass (Dead),,
+14,49,James Maddison,Leicester City,0.05,,Blocked,33.0,Right Foot,Free kick,James Maddison,Fouled,Ricardo Pereira,Pass (Live)
+15,54,Harvey Barnes,Leicester City,0.05,0.25,Goal,15.0,Right Foot,Deflected,Youri Tielemans,Pass (Live),James Maddison,Pass (Live)
+16,64,Ben Chilwell,Leicester City,0.07,0.32,Goal,11.0,Right Foot,,Youri Tielemans,Pass (Live),Ricardo Pereira,Pass (Live)
+17,69,Youri Tielemans,Leicester City,0.03,0.17,Saved,26.0,Right Foot,,James Maddison,Pass (Live),Çağlar Söyüncü,Pass (Live)
+18,71,Antonio Rüdiger,Chelsea,0.06,0.33,Goal,12.0,Head,,Mason Mount,Pass (Dead),Mason Mount,Fouled
+19,77,James Maddison,Leicester City,0.08,,Blocked,24.0,Right Foot,Free kick,Ayoze Pérez,Fouled,Ricardo Pereira,Pass (Live)
+20,77,Jonny Evans,Leicester City,0.09,,Off Target,9.0,Head,,James Maddison,Pass (Dead),James Maddison,Shot
+21,80,Harvey Barnes,Leicester City,0.47,,Off Target,14.0,Right Foot,,Jamie Vardy,Pass (Live),Ayoze Pérez,Pass (Live)

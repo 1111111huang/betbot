@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Ben Godfrey,Everton,0.03,0.05,Saved,11.0,Head,,Demarai Gray,Pass (Dead),Michael Keane,Pass (Live)
+1,11,Chris Wood,Newcastle Utd,0.05,0.19,Saved,8.0,Head,,Ryan Fraser,Pass (Live),Bruno Guimarães,Pass (Live)
+2,16,Ryan Fraser,Newcastle Utd,0.02,,Off Target,25.0,Right Foot,,Matt Targett,Fouled,Dan Burn,Pass (Live)
+3,19,Ryan Fraser,Newcastle Utd,0.08,,Blocked,24.0,Right Foot,,Joe Willock,Pass (Live),Chris Wood,Pass (Live)
+4,23,Miguel Almirón,Newcastle Utd,0.04,,Blocked,23.0,Left Foot,,Matt Targett,Pass (Live),Fabian Schär,Pass (Live)
+5,27,Chris Wood,Newcastle Utd,0.14,,Off Target,8.0,Head,,Ryan Fraser,Pass (Dead),Joelinton,Pass (Live)
+6,29,Fabian Schär,Newcastle Utd,0.01,0.03,Saved,61.0,Right Foot,Free kick,,Fouled,,
+7,,,,,,,,,,,,,
+8,48,Joe Willock,Newcastle Utd,0.1,0.06,Saved,16.0,Right Foot,Deflected,Chris Wood,Pass (Live),Fabian Schär,Pass (Live)
+9,61,Demarai Gray,Everton,0.07,,Off Target,17.0,Right Foot,,Séamus Coleman,Pass (Live),Ben Godfrey,Pass (Live)
+10,65,Emil Krafth,Newcastle Utd,0.01,0.13,Saved,30.0,Right Foot,Volley,Dan Burn,Pass (Live),Fabian Schär,Pass (Dead)
+11,69,Séamus Coleman,Everton,0.09,,Blocked,17.0,Left Foot,,Allan,Pass (Live),Michael Keane,Pass (Dead)
+12,69,Demarai Gray,Everton,0.08,,Blocked,20.0,Right Foot,,Séamus Coleman,Shot,,
+13,69,Bruno Guimarães,Newcastle Utd,0.1,0.35,Saved,13.0,Right Foot,,Miguel Almirón,Pass (Live),Miguel Almirón,Take-On
+14,73,Abdoulaye Doucouré,Everton,0.02,,Off Target,25.0,Right Foot,,Demarai Gray,Pass (Dead),Richarlison,Fouled
+15,73,Demarai Gray,Everton,0.03,,Off Target,8.0,Right Foot,,Anthony Gordon,Pass (Live),Séamus Coleman,Pass (Live)
+16,78,Anthony Gordon,Everton,0.08,,Blocked,23.0,Right Foot,Free kick,Richarlison,Fouled,Abdoulaye Doucouré,Pass (Live)
+17,78,Anthony Gordon,Everton,0.04,0.18,Saved,21.0,Right Foot,,Anthony Gordon,Take-On,Anthony Gordon,Shot
+18,89,Bruno Guimarães,Newcastle Utd,0.04,,Off Target,23.0,Right Foot,,Fabian Schär,Pass (Live),Jacob Murphy,Pass (Live)
+19,90+1,Joe Willock,Newcastle Utd,0.04,0.09,Saved,14.0,Right Foot,,Jacob Murphy,Pass (Live),Bruno Guimarães,Pass (Live)
+20,90+1,Fabian Schär,Newcastle Utd,0.04,,Off Target,9.0,Left Foot,,Matt Targett,Pass (Dead),Joe Willock,Shot
+21,90+1,Dan Burn,Newcastle Utd,0.03,,Blocked,11.0,Right Foot,,Fabian Schär,Shot,,
+22,90+4,Joelinton,Newcastle Utd,0.04,,Blocked,23.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Allan Saint-Maximin,Take-On
+23,90+6,Bruno Guimarães,Newcastle Utd,0.02,,Blocked,30.0,Right Foot,,Allan Saint-Maximin,Take-On,Joelinton,Pass (Live)
+24,90+6,Allan Saint-Maximin,Newcastle Utd,0.08,,Off Target,5.0,Head,,Jacob Murphy,Pass (Live),Javier Manquillo,Pass (Live)
+25,90+9,Alex Iwobi,Everton,0.23,0.4,Goal,13.0,Left Foot,,Dominic Calvert-Lewin,Pass (Live),Alex Iwobi,Pass (Live)
+26,90+11,Fabian Schär,Newcastle Utd,0.02,,Off Target,29.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Dan Burn,Pass (Live)

@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Rúben Neves,Wolves,0.01,,Off Target,34.0,Right Foot,,Willy Boly,Pass (Live),Fábio Silva,Pass (Live)
+1,4,Willy Boly,Wolves,0.02,0.29,Saved,30.0,Left Foot,,Rúben Neves,Shot,,
+2,7,Kamil Grosicki,West Brom,0.04,,Blocked,23.0,Right Foot,,Romaine Sawyers,Pass (Live),Dara O'Shea,Pass (Live)
+3,8,Matheus Pereira (pen),West Brom,0.79,0.99,Goal,13.0,Left Foot,,Callum Robinson,Fouled,Kieran Gibbs,Pass (Live)
+4,10,Rúben Neves,Wolves,0.07,,Blocked,26.0,Right Foot,Free kick,Fábio Silva,Fouled,Pedro Neto,Pass (Live)
+5,14,Leander Dendoncker,Wolves,0.04,,Off Target,17.0,Right Foot,,Adama Traoré,Pass (Live),Leander Dendoncker,Pass (Live)
+6,15,Adama Traoré,Wolves,0.03,0.08,Saved,28.0,Right Foot,,Leander Dendoncker,Pass (Live),Adama Traoré,Pass (Live)
+7,17,Leander Dendoncker,Wolves,0.05,,Off Target,11.0,Head,,Adama Traoré,Pass (Live),Fábio Silva,Pass (Live)
+8,18,Leander Dendoncker,Wolves,0.02,0.03,Saved,32.0,Right Foot,,Fábio Silva,Pass (Live),Pedro Neto,Pass (Live)
+9,19,Matheus Pereira,West Brom,0.03,0.15,Saved,29.0,Left Foot,,,,,
+10,25,Adama Traoré,Wolves,0.05,,Blocked,15.0,Left Foot,,Leander Dendoncker,Pass (Live),Conor Coady,Pass (Live)
+11,27,Willy Boly,Wolves,0.11,,Off Target,7.0,Right Foot,,Pedro Neto,Pass (Live),João Moutinho,Pass (Live)
+12,31,Kamil Grosicki,West Brom,0.04,,Off Target,15.0,Head,,Semi Ajayi,Pass (Live),Matheus Pereira,Pass (Live)
+13,31,Callum Robinson,West Brom,0.23,0.25,Saved,5.0,Left Foot,Volley,Kamil Grosicki,Shot,,
+14,33,Kamil Grosicki,West Brom,0.04,,Off Target,30.0,Right Foot,,Jake Livermore,Pass (Live),Robert Snodgrass,Pass (Live)
+15,35,Robert Snodgrass,West Brom,0.08,,Blocked,15.0,Right Foot,,Matheus Pereira,Pass (Live),Matheus Pereira,Take-On
+16,38,Fábio Silva,Wolves,0.16,0.28,Goal,8.0,Right Foot,,Willy Boly,Pass (Live),Romain Saïss,Pass (Live)
+17,43,Willy Boly,Wolves,0.17,0.1,Goal,8.0,Right Foot,,Leander Dendoncker,Pass (Live),Nélson Semedo,Pass (Live)
+18,45+1,Kieran Gibbs,West Brom,0.06,,Off Target,12.0,Left Foot,Volley,Romaine Sawyers,Pass (Live),Matheus Pereira,Pass (Live)
+19,,,,,,,,,,,,,
+20,48,Fábio Silva,Wolves,0.05,,Blocked,14.0,Right Foot,,Leander Dendoncker,Pass (Live),Adama Traoré,Pass (Live)
+21,48,Willy Boly,Wolves,0.07,,Off Target,9.0,Head,,Pedro Neto,Pass (Dead),Fábio Silva,Shot
+22,52,Semi Ajayi,West Brom,0.17,0.63,Goal,8.0,Head,,Kyle Bartley,Pass (Live),Dara O'Shea,Pass (Dead)
+23,56,Matheus Pereira (pen),West Brom,0.79,0.99,Goal,13.0,Left Foot,,Callum Robinson,Fouled,Kamil Grosicki,Pass (Live)
+24,59,Romaine Sawyers,West Brom,0.04,,Off Target,21.0,Right Foot,,Matheus Pereira,Pass (Live),Romaine Sawyers,Pass (Live)
+25,61,Callum Robinson,West Brom,0.07,,Off Target,16.0,Right Foot,,Matheus Pereira,Pass (Live),Romaine Sawyers,Pass (Live)
+26,68,Willy Boly,Wolves,0.07,,Blocked,9.0,Head,,Pedro Neto,Pass (Dead),Morgan Gibbs-White,Pass (Live)
+27,69,Romain Saïss,Wolves,0.08,,Off Target,8.0,Head,,Pedro Neto,Pass (Dead),Willy Boly,Shot
+28,71,Fábio Silva,Wolves,0.11,,Blocked,13.0,Right Foot,,Adama Traoré,Pass (Live),Nélson Semedo,Pass (Live)
+29,72,Fábio Silva,Wolves,0.03,,Off Target,23.0,Right Foot,,Leander Dendoncker,Pass (Live),,
+30,76,Fábio Silva,Wolves,0.12,,Off Target,6.0,Head,,Pedro Neto,Pass (Live),Pedro Neto,Take-On
+31,82,Patrick Cutrone,Wolves,0.08,,Off Target,10.0,Right Foot,Volley,Nélson Semedo,Pass (Live),,
+32,84,Willy Boly,Wolves,0.05,0.04,Saved,14.0,Head,,Morgan Gibbs-White,Pass (Dead),Adama Traoré,Fouled
+33,85,Pedro Neto,Wolves,0.02,,Blocked,30.0,Left Foot,Deflected,Morgan Gibbs-White,Pass (Live),Nélson Semedo,Pass (Live)
+34,86,Nélson Semedo,Wolves,0.06,,Blocked,17.0,Left Foot,,Pedro Neto,Pass (Dead),Patrick Cutrone,Fouled
+35,87,Rayan Aït-Nouri,Wolves,0.03,,Off Target,25.0,Right Foot,,Rayan Aït-Nouri,Take-On,Leander Dendoncker,Pass (Live)

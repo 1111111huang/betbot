@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Anwar El Ghazi,Aston Villa,0.02,0.09,Saved,34.0,Right Foot,Deflected,Ezri Konsa,Pass (Live),,
+1,6,Trézéguet,Aston Villa,0.27,,Off Target,8.0,Left Foot,,Ezri Konsa,Pass (Live),Kortney Hause,Pass (Live)
+2,9,John McGinn,Aston Villa,0.04,,Blocked,28.0,Left Foot,,John McGinn,Take-On,John McGinn,Take-On
+3,14,Mbwana Samatta,Aston Villa,0.26,,Off Target,9.0,Head,,Anwar El Ghazi,Pass (Live),John McGinn,Pass (Live)
+4,24,Anwar El Ghazi,Aston Villa,0.05,,Blocked,32.0,Right Foot,Free kick,Jack Grealish,Fouled,Matt Targett,Pass (Live)
+5,29,John McGinn,Aston Villa,0.12,,Off Target,5.0,Head,,Jack Grealish,Pass (Live),Trézéguet,Pass (Live)
+6,30,Matt Targett,Aston Villa,0.03,,Off Target,28.0,Left Foot,,Ezri Konsa,Pass (Live),Jack Grealish,Pass (Live)
+7,34,Matt Ritchie,Newcastle Utd,0.05,,Blocked,25.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Jonjo Shelvey,Pass (Live)
+8,38,Joelinton,Newcastle Utd,0.08,,Blocked,10.0,Left Foot,,Jonjo Shelvey,Pass (Live),,
+9,44,Allan Saint-Maximin,Newcastle Utd,0.06,,Blocked,22.0,Right Foot,,Allan Saint-Maximin,Take-On,Miguel Almirón,Pass (Live)
+10,44,Matt Ritchie,Newcastle Utd,0.03,0.17,Saved,27.0,Left Foot,,Joelinton,Pass (Live),Allan Saint-Maximin,Shot
+11,45+2,Jonjo Shelvey,Newcastle Utd,0.02,,Blocked,28.0,Right Foot,Volley,Matt Ritchie,Pass (Dead),Matt Ritchie,Pass (Dead)
+12,,,,,,,,,,,,,
+13,46,Matt Ritchie,Newcastle Utd,0.02,0.23,Saved,27.0,Right Foot,,Miguel Almirón,Pass (Live),Joelinton,Pass (Live)
+14,49,Trézéguet,Aston Villa,0.05,,Off Target,16.0,Head,,Anwar El Ghazi,Pass (Live),Jack Grealish,Pass (Live)
+15,52,Allan Saint-Maximin,Newcastle Utd,0.03,,Blocked,23.0,Right Foot,,Javier Manquillo,Pass (Live),Jonjo Shelvey,Pass (Live)
+16,57,Miguel Almirón,Newcastle Utd,0.11,,Blocked,8.0,Left Foot,,Danny Rose,Pass (Live),Matt Ritchie,Pass (Live)
+17,58,Allan Saint-Maximin,Newcastle Utd,0.05,,Off Target,23.0,Right Foot,,Allan Saint-Maximin,Take-On,Allan Saint-Maximin,Take-On
+18,68,Dwight Gayle,Newcastle Utd,0.27,0.47,Goal,11.0,Right Foot,,Javier Manquillo,Pass (Dead),,
+19,72,John McGinn,Aston Villa,0.05,,Blocked,23.0,Left Foot,,Jack Grealish,Pass (Live),John McGinn,Pass (Live)
+20,75,Keinan Davis,Aston Villa,0.51,,Off Target,4.0,Head,,Conor Hourihane,Pass (Dead),Keinan Davis,Fouled
+21,79,Andy Carroll,Newcastle Utd,0.02,,Off Target,28.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Jonjo Shelvey,Pass (Live)
+22,83,Ahmed Elmohamady,Aston Villa,0.03,0.48,Goal,9.0,Head,Deflected,Conor Hourihane,Pass (Dead),Matt Targett,Pass (Live)
+23,90,Federico Fernández,Newcastle Utd,0.09,,Off Target,9.0,Head,,Jonjo Shelvey,Pass (Dead),Andy Carroll,Fouled
+24,90+1,Mbwana Samatta,Aston Villa,0.03,,Off Target,28.0,Right Foot,,Jack Grealish,Pass (Live),,
+25,90+2,Jonjo Shelvey,Newcastle Utd,0.02,,Off Target,31.0,Right Foot,,Nabil Bentaleb,Fouled,Andy Carroll,Pass (Live)
+26,90+3,Conor Hourihane,Aston Villa,0.03,,Blocked,28.0,Left Foot,,Jack Grealish,Pass (Live),Tyrone Mings,Pass (Live)
+27,90+4,Kortney Hause,Aston Villa,0.13,,Blocked,5.0,Head,,Conor Hourihane,Pass (Dead),Ahmed Elmohamady,Pass (Live)

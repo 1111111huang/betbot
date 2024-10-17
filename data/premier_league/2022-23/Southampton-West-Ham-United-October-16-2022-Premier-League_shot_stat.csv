@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Emerson Palmieri,West Ham,0.04,,Off Target,16.0,Left Foot,,Gianluca Scamacca,Pass (Live),Tomáš Souček,Pass (Live)
+1,7,Mohamed Elyounoussi,Southampton,0.04,,Blocked,14.0,Right Foot,,Adam Armstrong,Pass (Live),Romain Perraud,Pass (Live)
+2,8,Che Adams,Southampton,0.04,0.02,Saved,22.0,Right Foot,,Joe Aribo,Pass (Live),,
+3,11,Armel Bella Kotchap,Southampton,0.01,0.07,Saved,6.0,Head,,Adam Armstrong,Pass (Live),,
+4,18,Che Adams,Southampton,0.15,0.25,Saved,15.0,Right Foot,,Che Adams,Take-On,Mohamed Elyounoussi,Pass (Live)
+5,18,Gianluca Scamacca,West Ham,0.02,,Off Target,36.0,Right Foot,,Declan Rice,Pass (Live),,
+6,20,Romain Perraud,Southampton,0.03,0.36,Goal,28.0,Left Foot,Deflected,Kyle Walker-Peters,Pass (Dead),,
+7,23,Tomáš Souček,West Ham,0.11,,Off Target,11.0,Head,,Vladimír Coufal,Pass (Live),Ben Johnson,Pass (Live)
+8,24,Gianluca Scamacca,West Ham,0.11,,Off Target,19.0,Right Foot,,Jarrod Bowen,Pass (Live),,
+9,26,Lucas Paquetá,West Ham,0.03,,Off Target,29.0,Left Foot,,Declan Rice,Pass (Live),,
+10,31,Che Adams,Southampton,0.07,0.12,Saved,15.0,Left Foot,,Adam Armstrong,Pass (Live),Joe Aribo,Pass (Live)
+11,31,Mohamed Elyounoussi,Southampton,0.05,0.14,Saved,6.0,Right Foot,,Che Adams,Shot,,
+12,36,Jarrod Bowen,West Ham,0.04,,Blocked,23.0,Left Foot,,Ben Johnson,Pass (Live),Aaron Cresswell,Pass (Live)
+13,36,Gianluca Scamacca,West Ham,0.03,,Blocked,14.0,Right Foot,,Jarrod Bowen,Shot,,
+14,36,Gianluca Scamacca,West Ham,0.03,,Blocked,14.0,Left Foot,,Gianluca Scamacca,Shot,,
+15,38,Lucas Paquetá,West Ham,0.07,,Woodwork,13.0,Head,,Gianluca Scamacca,Pass (Live),,
+16,41,Mohamed Elyounoussi,Southampton,0.02,0.17,Saved,28.0,Right Foot,,Che Adams,Pass (Live),Adam Armstrong,Pass (Live)
+17,42,Lucas Paquetá,West Ham,0.03,,Off Target,26.0,Left Foot,,Lucas Paquetá,Pass (Live),Vladimír Coufal,Pass (Live)
+18,,,,,,,,,,,,,
+19,47,Lucas Paquetá,West Ham,0.09,,Blocked,13.0,Left Foot,,Aaron Cresswell,Pass (Live),Thilo Kehrer,Pass (Live)
+20,48,Gianluca Scamacca,West Ham,0.09,,Off Target,10.0,Right Foot,Volley,Jarrod Bowen,Pass (Live),Vladimír Coufal,Pass (Live)
+21,51,Lucas Paquetá,West Ham,0.04,0.04,Saved,26.0,Left Foot,Volley,Vladimír Coufal,Pass (Live),Tomáš Souček,Pass (Live)
+22,51,Gianluca Scamacca,West Ham,0.03,,Off Target,17.0,Right Foot,,Aaron Cresswell,Pass (Live),Thilo Kehrer,Pass (Live)
+23,56,Lucas Paquetá,West Ham,0.02,,Blocked,19.0,Left Foot,,Lucas Paquetá,Pass (Live),Vladimír Coufal,Pass (Live)
+24,56,Lucas Paquetá,West Ham,0.11,0.02,Saved,11.0,Head,,Vladimír Coufal,Pass (Live),Lucas Paquetá,Shot
+25,64,Declan Rice,West Ham,0.04,0.27,Goal,23.0,Right Foot,,Saïd Benrahma,Pass (Live),Declan Rice,Pass (Live)
+26,67,Lucas Paquetá,West Ham,0.12,,Blocked,16.0,Left Foot,,Jarrod Bowen,Pass (Live),,
+27,67,Saïd Benrahma,West Ham,0.1,,Blocked,17.0,Right Foot,,Lucas Paquetá,Shot,,
+28,70,Jarrod Bowen,West Ham,0.02,,Blocked,16.0,Left Foot,Volley,Thilo Kehrer,Pass (Live),Vladimír Coufal,Pass (Live)
+29,71,Saïd Benrahma,West Ham,0.02,,Blocked,24.0,Right Foot,Volley,Jarrod Bowen,Shot,,
+30,72,Declan Rice,West Ham,0.03,,Blocked,29.0,Right Foot,,Saïd Benrahma,Pass (Live),Aaron Cresswell,Pass (Live)
+31,81,Ibrahima Diallo,Southampton,0.01,,Off Target,34.0,Right Foot,,James Ward-Prowse,Pass (Live),Kyle Walker-Peters,Pass (Live)
+32,83,Gianluca Scamacca,West Ham,0.14,0.05,Saved,17.0,Left Foot,,Saïd Benrahma,Pass (Live),Tomáš Souček,Pass (Live)
+33,85,Samuel Edozie,Southampton,0.03,0.03,Saved,28.0,Right Foot,,Sekou Mara,Pass (Live),James Ward-Prowse,Pass (Live)
+34,87,Saïd Benrahma,West Ham,0.02,,Blocked,27.0,Right Foot,,Saïd Benrahma,Take-On,Aaron Cresswell,Pass (Dead)
+35,90+1,Tomáš Souček,West Ham,0.31,,Blocked,6.0,Head,,Aaron Cresswell,Pass (Dead),Declan Rice,Pass (Live)

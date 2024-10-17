@@ -1,0 +1,17 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,20.0,Hwang Hee-chan,Wolves,0.33,0.83,Goal,11.0,Right Foot,,Raúl Jiménez,Pass (Live),Raúl Jiménez,Take-On
+1,25.0,Francisco Trincão,Wolves,0.02,,Blocked,17.0,Right Foot,,Raúl Jiménez,Pass (Live),Francisco Trincão,Pass (Live)
+2,28.0,Francisco Trincão,Wolves,0.02,,Off Target,33.0,Left Foot,,João Moutinho,Pass (Live),Romain Saïss,Pass (Live)
+3,29.0,João Moutinho,Wolves,0.03,0.33,Saved,28.0,Right Foot,,Rúben Neves,Pass (Live),Raúl Jiménez,Pass (Live)
+4,37.0,Joelinton,Newcastle Utd,0.05,,Off Target,9.0,Head,,Matt Ritchie,Pass (Dead),,
+5,40.0,Francisco Trincão,Wolves,0.51,,Woodwork,11.0,Left Foot,,Hwang Hee-chan,Pass (Live),Rúben Neves,Pass (Live)
+6,41.0,Jeff Hendrick,Newcastle Utd,0.09,0.4,Goal,28.0,Right Foot,,Javier Manquillo,Pass (Live),,
+7,,,,,,,,,,,,,
+8,50.0,Allan Saint-Maximin,Newcastle Utd,0.27,0.91,Saved,6.0,Right Foot,,Matt Ritchie,Pass (Dead),Joelinton,Fouled
+9,58.0,Hwang Hee-chan,Wolves,0.08,0.28,Goal,12.0,Left Foot,,Raúl Jiménez,Pass (Live),Raúl Jiménez,Take-On
+10,65.0,Joelinton,Newcastle Utd,0.03,,Blocked,10.0,Head,,Allan Saint-Maximin,Pass (Live),Matt Ritchie,Pass (Dead)
+11,68.0,Joelinton,Newcastle Utd,0.02,,Blocked,29.0,Right Foot,,Allan Saint-Maximin,Take-On,Sean Longstaff,Pass (Live)
+12,69.0,Sean Longstaff,Newcastle Utd,0.06,,Blocked,28.0,Right Foot,Free kick,Joelinton,Fouled,Joelinton,Shot
+13,78.0,Dwight Gayle,Newcastle Utd,0.07,,Off Target,10.0,Head,,Matt Ritchie,Pass (Live),Sean Longstaff,Pass (Live)
+14,87.0,Raúl Jiménez,Wolves,0.02,,Off Target,26.0,Right Foot,Volley,Leander Dendoncker,Pass (Live),,
+15,88.0,Federico Fernández,Newcastle Utd,0.06,,Off Target,12.0,Head,,Matt Ritchie,Pass (Live),,

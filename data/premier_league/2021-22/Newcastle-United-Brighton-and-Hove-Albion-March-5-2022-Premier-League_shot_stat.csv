@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Ryan Fraser,Newcastle Utd,0.09,0.29,Saved,13.0,Right Foot,Volley,Joe Willock,Pass (Live),Jacob Murphy,Pass (Live)
+1,5,Shane Duffy,Brighton,0.16,,Blocked,5.0,Other,,Pascal Groß,Pass (Dead),Marc Cucurella,Fouled
+2,7,Leandro Trossard,Brighton,0.03,,Off Target,19.0,Right Foot,Volley,,,,
+3,7,Joël Veltman,Brighton,0.05,,Off Target,25.0,Left Foot,,Leandro Trossard,Shot,,
+4,9,Danny Welbeck,Brighton,0.06,,Off Target,10.0,Head,,Pascal Groß,Pass (Dead),Joël Veltman,Fouled
+5,12,Jacob Murphy,Newcastle Utd,0.6,,Woodwork,12.0,Right Foot,,Chris Wood,Pass (Live),Joe Willock,Pass (Live)
+6,12,Ryan Fraser,Newcastle Utd,0.8,0.99,Goal,7.0,Right Foot,,Jacob Murphy,Shot,,
+7,14,Fabian Schär,Newcastle Utd,0.08,0.35,Goal,10.0,Head,,Ryan Fraser,Pass (Dead),Jacob Murphy,Fouled
+8,22,Lewis Dunk,Brighton,0.03,,Blocked,16.0,Right Foot,Volley,Pascal Groß,Pass (Dead),Tariq Lamptey,Fouled
+9,25,Pascal Groß,Brighton,0.18,,Blocked,9.0,Left Foot,,Jakub Moder,Pass (Live),Jakub Moder,Take-On
+10,29,Danny Welbeck,Brighton,0.31,0.72,Saved,12.0,Left Foot,,Tariq Lamptey,Pass (Live),Tariq Lamptey,Take-On
+11,30,Lewis Dunk,Brighton,0.07,,Blocked,6.0,Head,,Pascal Groß,Pass (Dead),Danny Welbeck,Shot
+12,30,Tariq Lamptey,Brighton,0.04,,Blocked,22.0,Right Foot,,Lewis Dunk,Shot,,
+13,44,Dan Burn,Newcastle Utd,0.2,,Off Target,3.0,Head,,Matt Targett,Pass (Dead),Emil Krafth,Pass (Live)
+14,44,Jacob Murphy,Newcastle Utd,0.12,0.06,Saved,16.0,Left Foot,,,,,
+15,45+4,Joe Willock,Newcastle Utd,0.04,,Off Target,13.0,Right Foot,,Jacob Murphy,Pass (Live),Ryan Fraser,Pass (Live)
+16,,,,,,,,,,,,,
+17,48,Leandro Trossard,Brighton,0.02,,Blocked,21.0,Right Foot,,Marc Cucurella,Pass (Live),,
+18,55,Lewis Dunk,Brighton,0.32,0.57,Goal,4.0,Head,,Pascal Groß,Pass (Dead),Steven Alzate,Pass (Live)
+19,65,Jonjo Shelvey,Newcastle Utd,0.03,,Off Target,18.0,Right Foot,,Jonjo Shelvey,Pass (Dead),Chris Wood,Fouled
+20,70,Neal Maupay,Brighton,0.02,,Blocked,21.0,Right Foot,Volley,Leandro Trossard,Pass (Live),Marc Cucurella,Pass (Dead)
+21,70,Lewis Dunk,Brighton,0.02,0.29,Saved,16.0,Head,,Joël Veltman,Pass (Live),Neal Maupay,Shot
+22,75,Matt Targett,Newcastle Utd,0.06,,Blocked,18.0,Left Foot,,Joelinton,Pass (Live),Chris Wood,Pass (Live)
+23,80,Leandro Trossard,Brighton,0.12,0.35,Saved,13.0,Right Foot,,Solly March,Pass (Live),Solly March,Take-On
+24,82,Allan Saint-Maximin,Newcastle Utd,0.11,,Blocked,12.0,Left Foot,,Jonjo Shelvey,Pass (Live),Joe Willock,Pass (Live)
+25,90+3,Neal Maupay,Brighton,0.12,,Blocked,15.0,Left Foot,,Solly March,Pass (Live),Marc Cucurella,Pass (Live)

@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Hakim Ziyech,Chelsea,0.09,,Blocked,11.0,Left Foot,,Ruben Loftus-Cheek,Pass (Live),Jorginho,Pass (Live)
+1,8,Jarrod Bowen,West Ham,0.03,,Off Target,19.0,Left Foot,,,,,
+2,9,Tomáš Souček,West Ham,0.07,,Off Target,10.0,Head,,Michail Antonio,Pass (Live),Jarrod Bowen,Pass (Live)
+3,10,Reece James,Chelsea,0.03,0.11,Saved,28.0,Right Foot,,Mason Mount,Pass (Live),Marcos Alonso,Pass (Live)
+4,20,Craig Dawson,West Ham,0.07,0.08,Saved,9.0,Right Foot,,Tomáš Souček,Pass (Live),Issa Diop,Pass (Live)
+5,23,Michail Antonio,West Ham,0.03,,Off Target,14.0,Left Foot,,Kurt Zouma,Pass (Dead),,Fouled
+6,26,Kai Havertz,Chelsea,0.09,0.06,Saved,12.0,Head,,Reece James,Pass (Live),Thiago Silva,Pass (Live)
+7,29,Thiago Silva,Chelsea,0.08,0.47,Goal,10.0,Head,,Mason Mount,Pass (Dead),Mason Mount,Pass (Dead)
+8,30,Vladimír Coufal,West Ham,0.02,,Blocked,15.0,Right Foot,"Deflected, Volley",Michail Antonio,Pass (Live),,
+9,32,Ruben Loftus-Cheek,Chelsea,0.09,0.02,Saved,20.0,Right Foot,Deflected,,,,
+10,34,Andreas Christensen,Chelsea,0.01,,Off Target,36.0,Right Foot,,Reece James,Pass (Live),Antonio Rüdiger,Pass (Live)
+11,36,Antonio Rüdiger,Chelsea,0.03,,Blocked,23.0,Right Foot,,Marcos Alonso,Pass (Live),Hakim Ziyech,Pass (Live)
+12,36,Mason Mount,Chelsea,0.02,0.03,Saved,31.0,Right Foot,,Ruben Loftus-Cheek,Pass (Live),Jorginho,Pass (Live)
+13,36,Jorginho,Chelsea,0.02,,Blocked,25.0,Right Foot,,Hakim Ziyech,Pass (Live),Kai Havertz,Pass (Live)
+14,40,Manuel Lanzini (pen),West Ham,0.79,1.0,Goal,13.0,Right Foot,,Jarrod Bowen,Fouled,,
+15,42,Hakim Ziyech,Chelsea,0.11,,Blocked,16.0,Left Foot,,Ruben Loftus-Cheek,Pass (Live),Ruben Loftus-Cheek,Take-On
+16,42,Kai Havertz,Chelsea,0.04,,Blocked,18.0,Left Foot,,Jorginho,Pass (Live),Hakim Ziyech,Shot
+17,44,Mason Mount,Chelsea,0.07,0.22,Goal,14.0,Right Foot,Volley,Hakim Ziyech,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+18,45+1,Michail Antonio,West Ham,0.01,,Off Target,57.0,Right Foot,,,,,
+19,,,,,,,,,,,,,
+20,55,Hakim Ziyech,Chelsea,0.07,,Off Target,13.0,Left Foot,,Antonio Rüdiger,Pass (Live),,
+21,56,Jarrod Bowen,West Ham,0.06,0.18,Goal,18.0,Left Foot,,Vladimír Coufal,Pass (Live),Michail Antonio,Pass (Live)
+22,66,Mason Mount,Chelsea,0.07,0.04,Saved,15.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Thiago Silva,Pass (Live)
+23,72,Marcos Alonso,Chelsea,0.02,,Blocked,11.0,Right Foot,Volley,Callum Hudson-Odoi,Fouled,Jorginho,Pass (Live)
+24,75,Jarrod Bowen,West Ham,0.65,,Off Target,5.0,Left Foot,,Michail Antonio,Pass (Live),Pablo Fornals,Pass (Live)
+25,77,Jorginho,Chelsea,0.04,,Blocked,21.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+26,78,Ruben Loftus-Cheek,Chelsea,0.03,,Blocked,9.0,Head,,Mason Mount,Pass (Dead),Jorginho,Shot
+27,80,Romelu Lukaku,Chelsea,0.07,,Off Target,10.0,Head,,Antonio Rüdiger,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+28,87,Arthur Masuaku,West Ham,0.01,0.19,Goal,28.0,Left Foot,,Michail Antonio,Pass (Live),Arthur Masuaku,Pass (Dead)
+29,89,Jarrod Bowen,West Ham,0.09,,Off Target,11.0,Left Foot,,Michail Antonio,Pass (Live),Saïd Benrahma,Pass (Live)
+30,90+3,Christian Pulisic,Chelsea,0.09,,Off Target,10.0,Head,,Mason Mount,Pass (Live),Reece James,Pass (Live)

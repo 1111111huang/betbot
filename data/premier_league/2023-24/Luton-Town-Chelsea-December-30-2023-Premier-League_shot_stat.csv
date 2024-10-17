@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Conor Gallagher,Chelsea,0.12,0.2,Saved,11.0,Right Foot,,Noni Madueke,Pass (Live),Noni Madueke,Take-On
+1,10,Cole Palmer,Chelsea,0.02,0.21,Saved,25.0,Left Foot,,Malo Gusto,Pass (Live),Noni Madueke,Pass (Live)
+2,11,Nicolas Jackson,Chelsea,0.05,0.15,Saved,10.0,Right Foot,,Cole Palmer,Pass (Live),Thiago Silva,Pass (Dead)
+3,12,Cole Palmer,Chelsea,0.04,0.5,Goal,16.0,Left Foot,,,,,
+4,18,Ross Barkley,Luton Town,0.05,,Off Target,25.0,Right Foot,Free kick,Jacob Brown,Fouled,,
+5,19,Armando Broja,Chelsea,0.02,0.74,Saved,13.0,Left Foot,,,,,
+6,20,Elijah Adebayo,Luton Town,0.1,,Off Target,8.0,Head,,Andros Townsend,Pass (Live),Andros Townsend,Take-On
+7,29,Jacob Brown,Luton Town,0.02,,Blocked,18.0,Left Foot,,Amari'i Bell,Pass (Live),,
+8,34,Ross Barkley,Luton Town,0.02,,Blocked,23.0,Right Foot,,Ross Barkley,Take-On,Alfie Doughty,Pass (Live)
+9,37,Noni Madueke,Chelsea,0.03,0.34,Goal,14.0,Right Foot,,Cole Palmer,Pass (Live),Levi Colwill,Pass (Live)
+10,42,Jacob Brown,Luton Town,0.11,,Blocked,9.0,Left Foot,,Teden Mengi,Pass (Live),Andros Townsend,Fouled
+11,45+4,Conor Gallagher,Chelsea,0.07,,Blocked,26.0,Left Foot,,Cole Palmer,Pass (Live),Thiago Silva,Pass (Live)
+12,,,,,,,,,,,,,
+13,48,Chiedozie Ogbene,Luton Town,0.21,,Blocked,5.0,Right Foot,,Andros Townsend,Pass (Live),Tahith Chong,Pass (Live)
+14,51,Cole Palmer,Chelsea,0.02,,Off Target,28.0,Left Foot,,Noni Madueke,Pass (Live),Conor Gallagher,Pass (Dead)
+15,53,Tahith Chong,Luton Town,0.06,,Blocked,17.0,Left Foot,,Alfie Doughty,Pass (Live),Andros Townsend,Pass (Live)
+16,61,Nicolas Jackson,Chelsea,0.06,0.03,Saved,24.0,Right Foot,,Nicolas Jackson,Take-On,Moisés Caicedo,Pass (Live)
+17,68,Cole Palmer,Chelsea,0.02,,Blocked,24.0,Left Foot,,Noni Madueke,Pass (Dead),Noni Madueke,Pass (Live)
+18,70,Cole Palmer,Chelsea,0.96,0.97,Goal,6.0,Right Foot,,Cole Palmer,Take-On,Nicolas Jackson,Pass (Live)
+19,77,Noni Madueke,Chelsea,0.09,,Off Target,13.0,Right Foot,,Nicolas Jackson,Pass (Live),Conor Gallagher,Pass (Live)
+20,78,Ross Barkley,Luton Town,0.07,0.06,Saved,24.0,Right Foot,,Chiedozie Ogbene,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+21,80,Elijah Adebayo,Luton Town,0.56,,Woodwork,5.0,Head,,Chiedozie Ogbene,Pass (Live),Carlton Morris,Pass (Live)
+22,80,Ross Barkley,Luton Town,0.19,0.47,Goal,7.0,Head,,Alfie Doughty,Pass (Dead),Elijah Adebayo,Shot
+23,83,Ross Barkley,Luton Town,0.13,,Off Target,6.0,Right Foot,,Chiedozie Ogbene,Pass (Live),Carlton Morris,Pass (Live)
+24,83,Carlton Morris,Luton Town,0.21,0.66,Saved,5.0,Head,,Ross Barkley,Shot,,
+25,86,Carlton Morris,Luton Town,0.25,0.39,Saved,8.0,Head,,Alfie Doughty,Pass (Dead),Tahith Chong,Fouled
+26,87,Alfie Doughty,Luton Town,0.13,0.19,Saved,9.0,Head,,Chiedozie Ogbene,Pass (Live),Carlton Morris,Pass (Live)
+27,87,Elijah Adebayo,Luton Town,0.47,0.97,Goal,3.0,Right Foot,Volley,Alfie Doughty,Shot,,

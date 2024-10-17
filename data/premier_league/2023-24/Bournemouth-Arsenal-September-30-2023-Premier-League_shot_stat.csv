@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Kai Havertz,Arsenal,0.05,,Blocked,14.0,Left Foot,,Gabriel Jesus,Pass (Live),Kai Havertz,Pass (Live)
+1,12,Dominic Solanke,Bournemouth,0.11,,Off Target,14.0,Right Foot,,Marcus Tavernier,Pass (Live),,
+2,17,Gabriel Jesus,Arsenal,0.02,,Woodwork,7.0,Head,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+3,17,Bukayo Saka,Arsenal,0.81,0.87,Goal,5.0,Head,,Gabriel Jesus,Shot,,
+4,25,Oleksandr Zinchenko,Arsenal,0.05,0.05,Saved,19.0,Left Foot,,Declan Rice,Pass (Dead),Martin Ødegaard,Pass (Live)
+5,36,Eddie Nketiah,Arsenal,0.07,,Blocked,17.0,Left Foot,,Oleksandr Zinchenko,Pass (Live),Eddie Nketiah,Pass (Live)
+6,37,Marcus Tavernier,Bournemouth,0.02,,Blocked,21.0,Left Foot,,Dominic Solanke,Pass (Live),Dominic Solanke,Tackle
+7,44,Martin Ødegaard (pen),Arsenal,0.79,1.0,Goal,13.0,Left Foot,,Eddie Nketiah,Fouled,Oleksandr Zinchenko,Pass (Live)
+8,45+1,Philip Billing,Bournemouth,0.06,,Blocked,15.0,Right Foot,,Max Aarons,Pass (Live),Illia Zabarnyi,Pass (Live)
+9,45+2,Dominic Solanke,Bournemouth,0.1,,Off Target,8.0,Head,,Marcus Tavernier,Pass (Dead),Philip Billing,Shot
+10,45+5,Ryan Christie,Bournemouth,0.11,0.17,Saved,15.0,Left Foot,,Justin Kluivert,Pass (Live),Ryan Christie,Pass (Live)
+11,,,,,,,,,,,,,
+12,47,Bukayo Saka,Arsenal,0.12,0.64,Saved,6.0,Left Foot,,Martin Ødegaard,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+13,47,Oleksandr Zinchenko,Arsenal,0.07,,Blocked,9.0,Left Foot,,Bukayo Saka,Shot,,
+14,53,Kai Havertz (pen),Arsenal,0.79,0.99,Goal,13.0,Left Foot,,Martin Ødegaard,Fouled,Bukayo Saka,Pass (Live)
+15,61,Bukayo Saka,Arsenal,0.03,,Blocked,26.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),Oleksandr Zinchenko,Take-On
+16,68,Eddie Nketiah,Arsenal,0.06,,Off Target,19.0,Right Foot,,Eddie Nketiah,Take-On,Gabriel Jesus,Pass (Live)
+17,71,Dango Ouattara,Bournemouth,0.09,,Blocked,13.0,Left Foot,,Dominic Solanke,Pass (Live),Marcos Senesi,Pass (Live)
+18,73,Milos Kerkez,Bournemouth,0.05,,Off Target,14.0,Left Foot,,Ryan Christie,Pass (Live),Dango Ouattara,Pass (Live)
+19,74,Philip Billing,Bournemouth,0.1,,Blocked,14.0,Left Foot,,Luis Sinisterra,Pass (Live),Ryan Christie,Pass (Live)
+20,78,Gabriel Jesus,Arsenal,0.05,,Off Target,12.0,Right Foot,,Fabio Vieira,Pass (Live),William Saliba,Pass (Live)
+21,90,Emile Smith Rowe,Arsenal,0.39,0.72,Saved,13.0,Right Foot,,Reiss Nelson,Pass (Live),Gabriel Jesus,Take-On
+22,90+3,Ben White,Arsenal,0.08,0.23,Goal,10.0,Head,,Martin Ødegaard,Pass (Dead),Fabio Vieira,Fouled
+23,90+6,Emile Smith Rowe,Arsenal,0.07,0.26,Saved,18.0,Right Foot,,Gabriel Jesus,Pass (Live),Martin Ødegaard,Pass (Live)

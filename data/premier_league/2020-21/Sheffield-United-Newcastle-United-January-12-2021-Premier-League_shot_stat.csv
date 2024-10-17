@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,John Lundstram,Sheffield Utd,0.03,,Off Target,20.0,Right Foot,,Oliver Burke,Pass (Live),David McGoldrick,Pass (Live)
+1,13,David McGoldrick,Sheffield Utd,0.05,0.04,Saved,16.0,Right Foot,,John Lundstram,Pass (Live),Oliver Burke,Pass (Live)
+2,13,John Lundstram,Sheffield Utd,0.05,,Off Target,13.0,Left Foot,,John Lundstram,Pass (Live),David McGoldrick,Pass (Live)
+3,23,John Lundstram,Sheffield Utd,0.03,,Blocked,26.0,Left Foot,,John Lundstram,Take-On,,
+4,28,Callum Wilson,Newcastle Utd,0.32,,Off Target,8.0,Head,,Federico Fernández,Pass (Live),Sean Longstaff,Pass (Live)
+5,30,David McGoldrick,Sheffield Utd,0.16,,Off Target,4.0,Head,,Ethan Ampadu,Pass (Live),Ben Osborn,Pass (Live)
+6,32,John Fleck,Sheffield Utd,0.04,,Blocked,22.0,Left Foot,,Jayden Bogle,Pass (Live),John Lundstram,Pass (Live)
+7,32,Oliver Burke,Sheffield Utd,0.09,,Blocked,13.0,Right Foot,,Ethan Ampadu,Pass (Live),Ben Osborn,Pass (Live)
+8,36,Oliver Burke,Sheffield Utd,0.04,,Blocked,17.0,Right Foot,,John Fleck,Pass (Live),Oliver Norwood,Pass (Live)
+9,38,Isaac Hayden,Newcastle Utd,0.05,,Blocked,18.0,Right Foot,,DeAndre Yedlin,Pass (Live),Isaac Hayden,Pass (Live)
+10,39,Isaac Hayden,Newcastle Utd,0.05,,Off Target,11.0,Head,,Ryan Fraser,Pass (Dead),Federico Fernández,Pass (Dead)
+11,40,Oliver Burke,Sheffield Utd,0.05,,Blocked,13.0,Right Foot,,John Fleck,Pass (Live),David McGoldrick,Pass (Live)
+12,42,Jayden Bogle,Sheffield Utd,0.06,0.06,Saved,17.0,Left Foot,,Jayden Bogle,Take-On,Oliver Burke,Pass (Live)
+13,,,,,,,,,,,,,
+14,50,Oliver Burke,Sheffield Utd,0.05,,Off Target,12.0,Head,,Ben Osborn,Pass (Live),John Fleck,Pass (Live)
+15,50,Jayden Bogle,Sheffield Utd,0.49,0.69,Saved,4.0,Right Foot,Volley,Oliver Burke,Shot,,
+16,60,Jayden Bogle,Sheffield Utd,0.05,,Off Target,15.0,Left Foot,,John Lundstram,Pass (Live),David McGoldrick,Pass (Live)
+17,62,John Lundstram,Sheffield Utd,0.03,,Blocked,17.0,Right Foot,,Jayden Bogle,Pass (Live),John Fleck,Pass (Dead)
+18,63,Fabian Schär,Newcastle Utd,0.01,0.1,Saved,60.0,Right Foot,Free kick,Callum Wilson,Fouled,Fabian Schär,Pass (Live)
+19,73,Billy Sharp (pen),Sheffield Utd,0.79,0.99,Goal,13.0,Right Foot,,,Fouled,,
+20,75,Rhian Brewster,Sheffield Utd,0.04,,Off Target,22.0,Right Foot,,Oliver Norwood,Pass (Live),,
+21,83,Callum Wilson,Newcastle Utd,0.1,0.03,Saved,11.0,Head,,Jeff Hendrick,Pass (Live),Callum Wilson,Pass (Live)
+22,84,Rhian Brewster,Sheffield Utd,0.03,,Blocked,28.0,Right Foot,,Billy Sharp,Pass (Live),Aaron Ramsdale,Pass (Live)
+23,90+2,Jacob Murphy,Newcastle Utd,0.07,0.06,Saved,28.0,Right Foot,Free kick,Sean Longstaff,Fouled,Andy Carroll,Pass (Live)
+24,90+7,Jacob Murphy,Newcastle Utd,0.03,,Off Target,22.0,Right Foot,Volley,,,,

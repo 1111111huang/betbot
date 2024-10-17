@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Ben Godfrey,Everton,0.03,0.17,Saved,30.0,Right Foot,,Ben Godfrey,Interception,,
+1,8,Michael Keane,Everton,0.02,,Off Target,11.0,Head,,Fabian Delph,Pass (Live),Demarai Gray,Pass (Dead)
+2,18,Lucas Moura,Tottenham,0.15,,Blocked,17.0,Right Foot,,Lucas Moura,Take-On,,
+3,19,Harry Kane,Tottenham,0.03,,Blocked,29.0,Right Foot,,Ben Davies,Pass (Live),Sergio Reguilón,Pass (Live)
+4,19,Harry Kane,Tottenham,0.06,,Blocked,17.0,Right Foot,Deflected,Lucas Moura,Pass (Live),Pierre Højbjerg,Pass (Live)
+5,22,Emerson,Tottenham,0.07,,Off Target,9.0,Head,,Sergio Reguilón,Pass (Live),Harry Kane,Pass (Live)
+6,24,Demarai Gray,Everton,0.02,,Blocked,26.0,Right Foot,,,,,
+7,33,Richarlison,Everton,0.03,,Off Target,13.0,Head,,Allan,Pass (Live),Lucas Digne,Pass (Live)
+8,35,Demarai Gray,Everton,0.05,,Blocked,19.0,Right Foot,,Allan,Pass (Live),Séamus Coleman,Pass (Live)
+9,35,Demarai Gray,Everton,0.02,,Blocked,24.0,Right Foot,,Allan,Pass (Live),Lucas Digne,Pass (Live)
+10,45+1,Sergio Reguilón,Tottenham,0.32,,Off Target,7.0,Left Foot,,Harry Kane,Pass (Live),Son Heung-min,Pass (Live)
+11,,,,,,,,,,,,,
+12,50,Anthony Gordon,Everton,0.05,,Off Target,15.0,Right Foot,Volley,Demarai Gray,Pass (Live),Demarai Gray,Take-On
+13,56,Sergio Reguilón,Tottenham,0.03,,Blocked,20.0,Right Foot,,Son Heung-min,Pass (Live),Eric Dier,Pass (Live)
+14,61,Ben Davies,Tottenham,0.02,,Off Target,30.0,Left Foot,,Oliver Skipp,Pass (Live),Harry Kane,Pass (Live)
+15,68,Tom Davies,Everton,0.02,,Blocked,17.0,Right Foot,,Ben Godfrey,Pass (Live),Andros Townsend,Pass (Dead)
+16,70,Demarai Gray,Everton,0.09,,Blocked,14.0,Right Foot,,Anthony Gordon,Pass (Live),Andros Townsend,Pass (Live)
+17,70,Tom Davies,Everton,0.11,0.03,Saved,21.0,Right Foot,,Demarai Gray,Shot,,
+18,76,Anthony Gordon,Everton,0.03,,Blocked,16.0,Right Foot,Volley,,,,
+19,82,Demarai Gray,Everton,0.15,,Off Target,13.0,Right Foot,,Lucas Digne,Pass (Live),Tom Davies,Pass (Live)
+20,88,Giovani Lo Celso,Tottenham,0.04,,Woodwork,27.0,Left Foot,,Oliver Skipp,Pass (Live),Pierre Højbjerg,Tackle

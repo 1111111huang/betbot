@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Raúl Jiménez,Wolves,0.06,0.08,Saved,16.0,Right Foot,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+1,6,Francisco Trincão,Wolves,0.6,,Blocked,12.0,Left Foot,,Francisco Trincão,Take-On,,
+2,7,Bruno Fernandes,Manchester Utd,0.02,,Off Target,29.0,Right Foot,,Paul Pogba,Pass (Live),Harry Maguire,Interception
+3,8,Adama Traoré,Wolves,0.04,0.07,Saved,25.0,Right Foot,Deflected,Adama Traoré,Take-On,Raúl Jiménez,Pass (Live)
+4,10,Bruno Fernandes,Manchester Utd,0.04,,Blocked,32.0,Right Foot,Free kick,Bruno Fernandes,Fouled,Mason Greenwood,Pass (Live)
+5,11,Daniel James,Manchester Utd,0.04,,Off Target,16.0,Right Foot,,Bruno Fernandes,Shot,,
+6,11,Mason Greenwood,Manchester Utd,0.32,,Off Target,10.0,Left Foot,Volley,Daniel James,Shot,,
+7,12,Raúl Jiménez,Wolves,0.05,,Blocked,14.0,Right Foot,Deflected,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+8,13,João Moutinho,Wolves,0.13,,Off Target,11.0,Right Foot,Volley,Raúl Jiménez,Pass (Live),,
+9,23,Conor Coady,Wolves,0.02,,Off Target,12.0,Head,,Rúben Neves,Pass (Live),Francisco Trincão,Pass (Live)
+10,39,Raúl Jiménez,Wolves,0.05,,Blocked,26.0,Right Foot,,Fernando Marçal,Pass (Live),Romain Saïss,Pass (Live)
+11,40,Adama Traoré,Wolves,0.05,,Blocked,26.0,Right Foot,,Adama Traoré,Take-On,Raúl Jiménez,Pass (Live)
+12,42,Rúben Neves,Wolves,0.02,,Off Target,25.0,Right Foot,,Nélson Semedo,Pass (Live),Rúben Neves,Pass (Live)
+13,45,Mason Greenwood,Manchester Utd,0.05,,Off Target,16.0,Left Foot,,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)
+14,,,,,,,,,,,,,
+15,58,Fred,Manchester Utd,0.02,0.02,Saved,29.0,Left Foot,Volley,Paul Pogba,Pass (Live),Mason Greenwood,Pass (Live)
+16,61,Raúl Jiménez,Wolves,0.06,,Off Target,6.0,Other,,Adama Traoré,Pass (Live),Nélson Semedo,Pass (Live)
+17,63,Francisco Trincão,Wolves,0.32,,Off Target,16.0,Left Foot,,Adama Traoré,Pass (Live),Raúl Jiménez,Pass (Live)
+18,67,Harry Maguire,Manchester Utd,0.01,,Blocked,15.0,Head,,Luke Shaw,Pass (Dead),Paul Pogba,Pass (Live)
+19,69,Romain Saïss,Wolves,0.2,0.45,Saved,6.0,Head,,João Moutinho,Pass (Dead),Adama Traoré,Tackle
+20,69,Romain Saïss,Wolves,0.57,0.88,Saved,3.0,Right Foot,,Romain Saïss,Shot,,
+21,70,Rúben Neves,Wolves,0.05,0.1,Saved,25.0,Right Foot,,,,,
+22,75,Paul Pogba,Manchester Utd,0.04,0.1,Saved,17.0,Right Foot,,Mason Greenwood,Pass (Live),Mason Greenwood,Take-On
+23,80,Bruno Fernandes,Manchester Utd,0.08,,Off Target,10.0,Right Foot,,Mason Greenwood,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+24,80,Mason Greenwood,Manchester Utd,0.02,0.24,Goal,15.0,Right Foot,,Raphaël Varane,Pass (Live),,
+25,90+7,Morgan Gibbs-White,Wolves,0.03,,Off Target,17.0,Right Foot,Volley,Rúben Neves,Pass (Live),Max Kilman,Pass (Live)

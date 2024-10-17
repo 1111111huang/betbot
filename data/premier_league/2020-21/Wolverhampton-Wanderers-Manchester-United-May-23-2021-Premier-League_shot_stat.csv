@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Adama Traoré,Wolves,0.05,,Off Target,14.0,Right Foot,,,,,
+1,8,Anthony Elanga,Manchester Utd,0.13,,Off Target,16.0,Left Foot,,Anthony Elanga,Take-On,Daniel James,Pass (Live)
+2,10,Romain Saïss,Wolves,0.06,,Off Target,8.0,Head,,João Moutinho,Pass (Dead),,
+3,13,Anthony Elanga,Manchester Utd,0.31,0.6,Goal,8.0,Head,,Daniel James,Pass (Live),Alex Telles,Pass (Live)
+4,17,Eric Bailly,Manchester Utd,0.06,,Off Target,10.0,Head,,Alex Telles,Pass (Dead),,
+5,19,Fábio Silva,Wolves,0.07,,Off Target,10.0,Head,,Adama Traoré,Pass (Live),Nélson Semedo,Pass (Live)
+6,23,Adama Traoré,Wolves,0.04,,Blocked,17.0,Right Foot,,Adama Traoré,Take-On,Nélson Semedo,Pass (Live)
+7,39,Nélson Semedo,Wolves,0.14,0.52,Goal,8.0,Right Foot,Deflected,Leander Dendoncker,Pass (Live),João Moutinho,Pass (Live)
+8,43,Brandon Williams,Manchester Utd,0.23,0.3,Saved,12.0,Right Foot,,Nemanja Matić,Pass (Live),Eric Bailly,Pass (Live)
+9,43,Alex Telles,Manchester Utd,0.03,,Off Target,23.0,Left Foot,,Anthony Elanga,Pass (Live),Brandon Williams,Shot
+10,44,Donny van de Beek,Manchester Utd,0.02,,Off Target,28.0,Right Foot,Volley,Amad Diallo,Pass (Live),Juan Mata,Pass (Live)
+11,45+4,Juan Mata (pen),Manchester Utd,0.79,0.99,Goal,13.0,Left Foot,,Donny van de Beek,Fouled,Nemanja Matić,Pass (Live)
+12,,,,,,,,,,,,,
+13,49,Willian José,Wolves,0.16,0.04,Saved,6.0,Other,,Nélson Semedo,Pass (Live),João Moutinho,Pass (Live)
+14,54,Rúben Neves,Wolves,0.03,,Blocked,32.0,Right Foot,,João Moutinho,Pass (Live),Leander Dendoncker,Pass (Live)
+15,58,Daniel James,Manchester Utd,0.44,,Off Target,14.0,Right Foot,,Amad Diallo,Pass (Live),Nemanja Matić,Pass (Live)
+16,61,Rayan Aït-Nouri,Wolves,0.04,0.2,Saved,18.0,Left Foot,Deflected,Morgan Gibbs-White,Pass (Live),Romain Saïss,Pass (Live)
+17,79,Fábio Silva,Wolves,0.07,,Blocked,15.0,Left Foot,,Rúben Neves,Pass (Live),Conor Coady,Pass (Live)
+18,79,Fábio Silva,Wolves,0.07,,Blocked,15.0,Right Foot,,Fábio Silva,Shot,,
+19,79,Rúben Neves,Wolves,0.03,,Off Target,30.0,Right Foot,,João Moutinho,Pass (Live),Romain Saïss,Pass (Live)
+20,81,Amad Diallo,Manchester Utd,0.03,0.19,Saved,26.0,Left Foot,Deflected,Alex Telles,Interception,,
+21,83,Morgan Gibbs-White,Wolves,0.06,0.28,Saved,16.0,Right Foot,Volley,Rúben Neves,Pass (Live),João Moutinho,Pass (Live)
+22,90+1,Morgan Gibbs-White,Wolves,0.03,,Off Target,30.0,Right Foot,,Romain Saïss,Pass (Live),Morgan Gibbs-White,Pass (Live)
+23,90+5,Willy Boly,Wolves,0.02,,Off Target,34.0,Right Foot,,Fernando Marçal,Pass (Live),Fábio Silva,Pass (Live)

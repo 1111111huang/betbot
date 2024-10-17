@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Craig Dawson,West Ham,0.06,,Blocked,10.0,Head,,Aaron Cresswell,Pass (Dead),Saïd Benrahma,Pass (Live)
+1,2,Tomáš Souček,West Ham,0.08,,Blocked,6.0,Head,,Craig Dawson,Shot,,
+2,5,Callum Wilson,Newcastle Utd,0.67,0.97,Goal,3.0,Head,,Allan Saint-Maximin,Pass (Live),,
+3,8,Michail Antonio,West Ham,0.02,,Blocked,30.0,Right Foot,,Michail Antonio,Take-On,Pablo Fornals,Pass (Live)
+4,10,Isaac Hayden,Newcastle Utd,0.02,,Blocked,27.0,Right Foot,,Miguel Almirón,Pass (Live),Allan Saint-Maximin,Pass (Live)
+5,18,Aaron Cresswell,West Ham,0.04,0.41,Goal,15.0,Left Foot,,Pablo Fornals,Pass (Live),Saïd Benrahma,Pass (Live)
+6,23,Jarrod Bowen,West Ham,0.61,0.41,Saved,10.0,Left Foot,,Jarrod Bowen,Take-On,Jarrod Bowen,Take-On
+7,23,Callum Wilson,Newcastle Utd,0.2,0.09,Saved,12.0,Right Foot,,Jonjo Shelvey,Pass (Live),Isaac Hayden,Pass (Live)
+8,26,Miguel Almirón,Newcastle Utd,0.04,,Blocked,22.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Allan Saint-Maximin,Take-On
+9,27,Ciaran Clark,Newcastle Utd,0.06,,Blocked,9.0,Head,,Matt Ritchie,Pass (Dead),Miguel Almirón,Shot
+10,27,Ciaran Clark,Newcastle Utd,0.1,,Off Target,8.0,Left Foot,,Ciaran Clark,Shot,,
+11,29,Tomáš Souček,West Ham,0.03,,Blocked,11.0,Head,,Declan Rice,Pass (Live),Jarrod Bowen,Pass (Dead)
+12,31,Saïd Benrahma,West Ham,0.11,,Blocked,15.0,Right Foot,,Pablo Fornals,Pass (Live),Aaron Cresswell,Pass (Live)
+13,31,Pablo Fornals,West Ham,0.03,,Off Target,23.0,Right Foot,,Saïd Benrahma,Shot,,
+14,33,Ciaran Clark,Newcastle Utd,0.16,,Off Target,7.0,Head,,Matt Ritchie,Pass (Dead),Allan Saint-Maximin,Pass (Live)
+15,35,Jacob Murphy,Newcastle Utd,0.01,,Off Target,30.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Miguel Almirón,Pass (Live)
+16,40,Jacob Murphy,Newcastle Utd,0.12,0.47,Goal,10.0,Head,,Matt Ritchie,Pass (Live),Miguel Almirón,Pass (Live)
+17,43,Callum Wilson,Newcastle Utd,0.06,,Blocked,21.0,Right Foot,,Allan Saint-Maximin,Pass (Live),Matt Ritchie,Pass (Live)
+18,44,Saïd Benrahma,West Ham,0.04,,Off Target,27.0,Right Foot,,Jarrod Bowen,Pass (Live),Pablo Fornals,Pass (Live)
+19,45+2,Emil Krafth,Newcastle Utd,0.1,,Off Target,15.0,Right Foot,,Matt Ritchie,Pass (Live),,
+20,,,,,,,,,,,,,
+21,52,Aaron Cresswell,West Ham,0.03,,Off Target,34.0,Left Foot,Free kick,Saïd Benrahma,Fouled,Declan Rice,Pass (Live)
+22,53,Saïd Benrahma,West Ham,0.21,0.69,Goal,5.0,Head,,Michail Antonio,Pass (Live),Jarrod Bowen,Pass (Live)
+23,56,Jacob Murphy,Newcastle Utd,0.02,,Blocked,31.0,Left Foot,,Callum Wilson,Pass (Dead),,
+24,57,Miguel Almirón,Newcastle Utd,0.01,,Blocked,21.0,Left Foot,,Ciaran Clark,Pass (Live),Jacob Murphy,Pass (Live)
+25,62,Michail Antonio,West Ham,0.25,,Woodwork,3.0,Head,,Vladimír Coufal,Pass (Live),Pablo Fornals,Pass (Live)
+26,63,Michail Antonio (pen),West Ham,0.79,0.99,Saved,13.0,Right Foot,,Pablo Fornals,Fouled,Michail Antonio,Shot
+27,63,Tomáš Souček,West Ham,0.69,0.83,Goal,5.0,Right Foot,,Michail Antonio,Shot,,
+28,66,Jarrod Bowen,West Ham,0.02,0.05,Saved,29.0,Left Foot,,,,,
+29,66,Michail Antonio,West Ham,0.31,0.58,Goal,14.0,Right Foot,,Saïd Benrahma,Pass (Live),Jarrod Bowen,Pass (Live)
+30,71,Callum Wilson,Newcastle Utd,0.09,,Off Target,7.0,Right Foot,Volley,Jacob Murphy,Pass (Live),Jacob Murphy,Take-On
+31,79,Ryan Fraser,Newcastle Utd,0.03,,Off Target,24.0,Right Foot,,,,,
+32,81,Pablo Fornals,West Ham,0.03,0.03,Saved,18.0,Right Foot,,Declan Rice,Pass (Live),Tomáš Souček,Pass (Live)
+33,83,Tomáš Souček,West Ham,0.09,,Blocked,21.0,Left Foot,,Vladimír Coufal,Pass (Live),Declan Rice,Pass (Live)
+34,87,Matt Ritchie,Newcastle Utd,0.03,,Blocked,21.0,Left Foot,Volley,Ryan Fraser,Pass (Live),Miguel Almirón,Pass (Live)
+35,88,Federico Fernández,Newcastle Utd,0.1,,Off Target,11.0,Right Foot,Volley,Matt Ritchie,Shot,,

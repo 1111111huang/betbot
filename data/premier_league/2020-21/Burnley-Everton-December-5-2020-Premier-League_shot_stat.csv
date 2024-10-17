@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Robbie Brady,Burnley,0.03,0.41,Goal,29.0,Right Foot,,Ashley Westwood,Pass (Live),,
+1,7,James Rodríguez,Everton,0.03,,Blocked,23.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Alex Iwobi,Pass (Live)
+2,10,Chris Wood,Burnley,0.05,,Blocked,18.0,Right Foot,,Matthew Lowton,Pass (Live),James Tarkowski,Pass (Live)
+3,13,Dominic Calvert-Lewin,Everton,0.48,0.42,Saved,5.0,Right Foot,,Alex Iwobi,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+4,18,Richarlison,Everton,0.04,0.09,Saved,17.0,Left Foot,,James Rodríguez,Pass (Live),Alex Iwobi,Pass (Live)
+5,22,Josh Brownhill,Burnley,0.03,,Off Target,28.0,Right Foot,,Josh Brownhill,Take-On,Robbie Brady,Pass (Live)
+6,31,André Gomes,Everton,0.02,,Off Target,30.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Abdoulaye Doucouré,Take-On
+7,36,Richarlison,Everton,0.03,,Off Target,23.0,Left Foot,,Allan,Pass (Live),,
+8,41,Chris Wood,Burnley,0.45,0.71,Saved,14.0,Left Foot,,Dwight McNeil,Pass (Live),Chris Wood,Pass (Live)
+9,45+3,Dominic Calvert-Lewin,Everton,0.7,0.92,Goal,4.0,Right Foot,,Richarlison,Pass (Live),Allan,Pass (Live)
+10,45+4,Dominic Calvert-Lewin,Everton,0.08,,Blocked,16.0,Left Foot,,André Gomes,Pass (Live),André Gomes,Take-On
+11,,,,,,,,,,,,,
+12,51,James Rodríguez,Everton,0.06,0.41,Saved,24.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Alex Iwobi,Pass (Live)
+13,67,Robbie Brady,Burnley,0.04,,Blocked,18.0,Left Foot,Volley,Dwight McNeil,Take-On,Josh Brownhill,Pass (Live)
+14,69,James Rodríguez,Everton,0.05,,Blocked,18.0,Left Foot,,Alex Iwobi,Pass (Live),André Gomes,Pass (Live)
+15,78,Josh Brownhill,Burnley,0.09,,Blocked,11.0,Left Foot,,Josh Brownhill,Take-On,Chris Wood,Pass (Live)
+16,80,Alex Iwobi,Everton,0.04,,Blocked,18.0,Right Foot,,Richarlison,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+17,80,André Gomes,Everton,0.03,,Off Target,26.0,Left Foot,,Alex Iwobi,Shot,,
+18,82,Dominic Calvert-Lewin,Everton,0.23,0.5,Saved,16.0,Left Foot,,Richarlison,Pass (Live),,
+19,83,Chris Wood,Burnley,0.07,0.08,Saved,10.0,Head,,Dwight McNeil,Pass (Dead),James Tarkowski,Pass (Live)
+20,90+1,Gylfi Sigurðsson,Everton,0.41,0.56,Saved,13.0,Right Foot,,James Rodríguez,Pass (Live),Richarlison,Pass (Live)
+21,90+2,Dwight McNeil,Burnley,0.04,,Off Target,21.0,Left Foot,,,,,

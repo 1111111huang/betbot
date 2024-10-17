@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,João Moutinho,Wolves,0.03,0.04,Saved,26.0,Right Foot,,Vitinha,Pass (Live),Nélson Semedo,Pass (Live)
+1,4,Pedro Neto,Wolves,0.04,,Off Target,16.0,Left Foot,,Pedro Neto,Take-On,Pedro Neto,Take-On
+2,13,Aaron Connolly,Brighton,0.56,0.9,Goal,6.0,Right Foot,Volley,Leandro Trossard,Pass (Live),Adam Webster,Pass (Live)
+3,18,Rúben Neves,Wolves,0.03,,Blocked,32.0,Right Foot,Volley,João Moutinho,Pass (Live),Nélson Semedo,Pass (Live)
+4,19,Romain Saïss,Wolves,0.06,0.62,Goal,8.0,Head,,Nélson Semedo,Pass (Live),João Moutinho,Pass (Dead)
+5,22,Solly March,Brighton,0.04,,Blocked,20.0,Right Foot,,Joël Veltman,Pass (Live),Ben White,Pass (Live)
+6,25,Aaron Connolly,Brighton,0.07,0.02,Saved,15.0,Right Foot,Volley,Adam Webster,Pass (Live),Yves Bissouma,Pass (Live)
+7,28,Rúben Neves,Wolves,0.03,,Off Target,27.0,Right Foot,,João Moutinho,Pass (Dead),Nélson Semedo,Fouled
+8,34,Pedro Neto,Wolves,0.03,0.13,Saved,20.0,Left Foot,Deflected,Rúben Neves,Pass (Live),João Moutinho,Pass (Live)
+9,44,Rúben Neves (pen),Wolves,0.79,0.99,Goal,13.0,Right Foot,,Adama Traoré,Fouled,Nélson Semedo,Pass (Live)
+10,,,,,,,,,,,,,
+11,46,Neal Maupay (pen),Brighton,0.79,0.95,Goal,13.0,Right Foot,,Neal Maupay,Fouled,Andi Zeqiri,Pass (Live)
+12,52,Fábio Silva,Wolves,0.08,,Blocked,13.0,Left Foot,,,,,
+13,52,Andi Zeqiri,Brighton,0.05,,Blocked,17.0,Right Foot,,Solly March,Pass (Live),Joël Veltman,Pass (Live)
+14,56,Vitinha,Wolves,0.12,,Blocked,8.0,Right Foot,Volley,Adama Traoré,Pass (Live),Rúben Neves,Pass (Live)
+15,59,Rúben Neves,Wolves,0.03,,Off Target,25.0,Right Foot,Volley,Pedro Neto,Pass (Dead),Adama Traoré,Fouled
+16,61,Leandro Trossard,Brighton,0.1,,Blocked,14.0,Right Foot,Volley,Joël Veltman,Pass (Live),Ben White,Pass (Live)
+17,68,Adam Webster,Brighton,0.05,,Woodwork,11.0,Head,,Solly March,Pass (Dead),Solly March,Pass (Live)
+18,68,Andi Zeqiri,Brighton,0.37,,Off Target,4.0,Left Foot,,Adam Webster,Shot,,
+19,70,Lewis Dunk,Brighton,0.08,0.18,Goal,9.0,Head,Deflected,Leandro Trossard,Pass (Dead),,
+20,76,Neal Maupay,Brighton,0.03,,Blocked,25.0,Right Foot,,Neal Maupay,Take-On,Leandro Trossard,Pass (Live)
+21,84,Andi Zeqiri,Brighton,0.05,,Blocked,13.0,Left Foot,,Solly March,Pass (Live),Andi Zeqiri,Pass (Live)
+22,85,Neal Maupay,Brighton,0.03,,Blocked,31.0,Right Foot,Deflected,Ben White,Pass (Live),Neal Maupay,Pass (Live)
+23,90+3,Adam Webster,Brighton,0.02,,Off Target,24.0,Left Foot,Volley,,,,
+24,90+4,Owen Otasowie,Wolves,0.35,,Off Target,7.0,Head,,Adama Traoré,Pass (Live),Owen Otasowie,Pass (Live)

@@ -1,0 +1,42 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Luis Díaz,Liverpool,0.03,,Blocked,27.0,Right Foot,,Ryan Gravenberch,Pass (Live),Luis Díaz,Pass (Live)
+1,1,Ibrahima Konaté,Liverpool,0.06,,Off Target,16.0,Left Foot,Volley,Luis Díaz,Pass (Live),Kostas Tsimikas,Pass (Dead)
+2,5,Darwin Núñez,Liverpool,0.15,,Off Target,3.0,Right Foot,Volley,Mohamed Salah,Pass (Live),Mohamed Salah,Pass (Live)
+3,6,Antony,Manchester Utd,0.02,,Blocked,16.0,Left Foot,,Diogo Dalot,Pass (Live),,
+4,10,Alejandro Garnacho,Manchester Utd,0.04,,Off Target,20.0,Right Foot,,Scott McTominay,Pass (Live),Antony,Pass (Live)
+5,11,Dominik Szoboszlai,Liverpool,0.02,,Off Target,32.0,Right Foot,,Luis Díaz,Pass (Live),Kostas Tsimikas,Interception
+6,16,Ryan Gravenberch,Liverpool,0.41,,Off Target,4.0,Right Foot,Volley,Darwin Núñez,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+7,16,Mohamed Salah,Liverpool,0.12,0.49,Saved,5.0,Right Foot,,Ryan Gravenberch,Shot,,
+8,18,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,24.0,Right Foot,,Virgil van Dijk,Pass (Live),Ibrahima Konaté,Pass (Live)
+9,18,Mohamed Salah,Liverpool,0.05,,Blocked,15.0,Left Foot,,Luis Díaz,Pass (Live),Dominik Szoboszlai,Pass (Live)
+10,19,Virgil van Dijk,Liverpool,0.02,,Blocked,13.0,Head,,Trent Alexander-Arnold,Pass (Dead),Trent Alexander-Arnold,Pass (Dead)
+11,28,Virgil van Dijk,Liverpool,0.04,0.04,Saved,12.0,Head,,Trent Alexander-Arnold,Pass (Dead),Ryan Gravenberch,Pass (Live)
+12,29,Ibrahima Konaté,Liverpool,0.01,,Off Target,16.0,Head,,Trent Alexander-Arnold,Pass (Dead),Virgil van Dijk,Shot
+13,36,Ryan Gravenberch,Liverpool,0.04,,Blocked,24.0,Right Foot,Volley,Luis Díaz,Fouled,Ryan Gravenberch,Pass (Live)
+14,36,Ibrahima Konaté,Liverpool,0.05,,Off Target,11.0,Head,,Kostas Tsimikas,Pass (Dead),Ryan Gravenberch,Shot
+15,42,Mohamed Salah,Liverpool,0.06,0.14,Saved,22.0,Left Foot,Deflected,Ryan Gravenberch,Pass (Live),Wataru Endo,Pass (Live)
+16,45,Darwin Núñez,Liverpool,0.09,,Blocked,18.0,Right Foot,,Darwin Núñez,Take-On,Luis Díaz,Pass (Live)
+17,,,,,,,,,,,,,
+18,46,Mohamed Salah,Liverpool,0.04,,Blocked,22.0,Left Foot,,Darwin Núñez,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+19,46,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,29.0,Right Foot,,Mohamed Salah,Shot,,
+20,47,Trent Alexander-Arnold,Liverpool,0.12,,Off Target,9.0,Right Foot,,Mohamed Salah,Pass (Live),Kostas Tsimikas,Pass (Live)
+21,55,Alejandro Garnacho,Manchester Utd,0.15,,Off Target,17.0,Right Foot,,Kobbie Mainoo,Pass (Live),Scott McTominay,Pass (Live)
+22,64,Mohamed Salah,Liverpool,0.04,0.41,Saved,23.0,Left Foot,,Joe Gomez,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+23,66,Trent Alexander-Arnold,Liverpool,0.06,,Off Target,24.0,Right Foot,,Mohamed Salah,Pass (Live),Cody Gakpo,Pass (Live)
+24,67,Cody Gakpo,Liverpool,0.02,,Off Target,26.0,Right Foot,,Darwin Núñez,Pass (Live),,
+25,67,Rasmus Højlund,Manchester Utd,0.29,0.1,Saved,11.0,Right Foot,,Scott McTominay,Pass (Live),Antony,Pass (Live)
+26,67,Rasmus Højlund,Manchester Utd,0.23,,Off Target,6.0,Right Foot,Volley,Rasmus Højlund,Shot,,
+27,69,Cody Gakpo,Liverpool,0.09,,Blocked,17.0,Left Foot,,Luis Díaz,Pass (Live),Mohamed Salah,Pass (Live)
+28,70,Mohamed Salah,Liverpool,0.07,0.15,Saved,14.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Cody Gakpo,Pass (Live)
+29,70,Scott McTominay,Manchester Utd,0.08,,Off Target,27.0,Right Foot,,Antony,Pass (Live),Rasmus Højlund,Pass (Live)
+30,72,Luis Díaz,Liverpool,0.01,,Blocked,25.0,Right Foot,,Kostas Tsimikas,Pass (Live),Luis Díaz,Pass (Dead)
+31,76,Luis Díaz,Liverpool,0.13,,Blocked,10.0,Right Foot,,Mohamed Salah,Pass (Live),Darwin Núñez,Pass (Live)
+32,77,Wataru Endo,Liverpool,0.04,,Blocked,21.0,Right Foot,Volley,Luis Díaz,Shot,,
+33,77,Ibrahima Konaté,Liverpool,0.14,0.11,Saved,12.0,Right Foot,,Virgil van Dijk,Pass (Live),Wataru Endo,Shot
+34,79,Virgil van Dijk,Liverpool,0.02,0.05,Saved,15.0,Head,,Kostas Tsimikas,Pass (Dead),Trent Alexander-Arnold,Pass (Live)
+35,81,Harvey Elliott,Liverpool,0.02,0.05,Saved,28.0,Left Foot,Deflected,Ibrahima Konaté,Pass (Live),Wataru Endo,Pass (Live)
+36,82,Joe Gomez,Liverpool,0.05,,Blocked,22.0,Right Foot,,Trent Alexander-Arnold,Take-On,Mohamed Salah,Pass (Live)
+37,84,Cody Gakpo,Liverpool,0.04,,Blocked,28.0,Right Foot,,Mohamed Salah,Pass (Live),Curtis Jones,Pass (Live)
+38,85,Curtis Jones,Liverpool,0.04,,Off Target,13.0,Left Foot,,Cody Gakpo,Pass (Live),Wataru Endo,Pass (Live)
+39,86,Joe Gomez,Liverpool,0.07,,Off Target,11.0,Right Foot,,Mohamed Salah,Pass (Live),Mohamed Salah,Take-On
+40,90+2,Cody Gakpo,Liverpool,0.18,,Off Target,9.0,Head,,Trent Alexander-Arnold,Pass (Dead),Kostas Tsimikas,Fouled

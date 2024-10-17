@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Thomas Partey,Arsenal,0.57,0.58,Saved,10.0,Right Foot,,,,,
+1,13,Willian,Arsenal,0.06,,Off Target,14.0,Right Foot,Volley,Pierre-Emerick Aubameyang,Pass (Live),Thomas Partey,Pass (Live)
+2,22,Kieran Tierney,Arsenal,0.03,,Blocked,26.0,Left Foot,,Willian,Pass (Dead),Pierre-Emerick Aubameyang,Fouled
+3,34,Trézéguet,Aston Villa,0.04,,Blocked,17.0,Left Foot,,Douglas Luiz,Pass (Live),,
+4,35,Jack Grealish,Aston Villa,0.06,,Blocked,11.0,Left Foot,,John McGinn,Pass (Live),Tyrone Mings,Pass (Live)
+5,39,Thomas Partey,Arsenal,0.04,,Off Target,23.0,Right Foot,,Mohamed Elneny,Pass (Live),Willian,Pass (Live)
+6,41,Alexandre Lacazette,Arsenal,0.22,,Off Target,8.0,Head,,Kieran Tierney,Pass (Live),Bukayo Saka,Pass (Live)
+7,44,Ezri Konsa,Aston Villa,0.04,,Blocked,13.0,Head,Deflected,Matt Targett,Pass (Live),Douglas Luiz,Pass (Dead)
+8,44,Ross Barkley,Aston Villa,0.06,,Blocked,11.0,Left Foot,,John McGinn,Pass (Live),John McGinn,Take-On
+9,,,,,,,,,,,,,
+10,48,Trézéguet,Aston Villa,0.05,0.17,Saved,13.0,Right Foot,,Ross Barkley,Pass (Live),,
+11,49,Willian,Arsenal,0.08,,Off Target,12.0,Left Foot,,Héctor Bellerín,Pass (Live),,
+12,55,Dani Ceballos,Arsenal,0.03,,Off Target,25.0,Right Foot,,Kieran Tierney,Pass (Live),Willian,Pass (Dead)
+13,56,Jack Grealish,Aston Villa,0.07,0.04,Saved,8.0,Right Foot,,Ross Barkley,Pass (Live),Jack Grealish,Pass (Live)
+14,57,Jack Grealish,Aston Villa,0.03,,Blocked,20.0,Right Foot,Volley,Ross Barkley,Pass (Dead),Douglas Luiz,Pass (Live)
+15,60,Ollie Watkins,Aston Villa,0.1,,Blocked,12.0,Right Foot,,Douglas Luiz,Pass (Live),Jack Grealish,Pass (Live)
+16,61,Rob Holding,Arsenal,0.12,,Off Target,10.0,Left Foot,,Dani Ceballos,Pass (Live),Willian,Pass (Dead)
+17,62,Ross Barkley,Aston Villa,0.09,,Blocked,13.0,Right Foot,,,,,
+18,66,Mohamed Elneny,Arsenal,0.04,,Off Target,21.0,Right Foot,,Dani Ceballos,Pass (Live),Mohamed Elneny,Pass (Live)
+19,68,Nicolas Pépé,Arsenal,0.07,0.06,Saved,12.0,Left Foot,,Eddie Nketiah,Pass (Live),Héctor Bellerín,Pass (Live)
+20,69,Nicolas Pépé,Arsenal,0.03,,Off Target,20.0,Left Foot,,Eddie Nketiah,Pass (Live),,
+21,72,Ollie Watkins,Aston Villa,0.71,0.86,Goal,4.0,Head,,Ross Barkley,Pass (Live),Douglas Luiz,Pass (Live)
+22,73,Jack Grealish,Aston Villa,0.08,,Blocked,11.0,Right Foot,,Ross Barkley,Pass (Live),Trézéguet,Pass (Live)
+23,73,Jack Grealish,Aston Villa,0.06,,Blocked,13.0,Right Foot,,Ross Barkley,Pass (Live),Douglas Luiz,Pass (Live)
+24,75,Ollie Watkins,Aston Villa,0.35,0.42,Goal,12.0,Left Foot,,Jack Grealish,Pass (Live),Emiliano Martínez,Pass (Live)
+25,78,Ross Barkley,Aston Villa,0.05,,Blocked,15.0,Left Foot,,Ross Barkley,Take-On,Jack Grealish,Pass (Live)
+26,82,Eddie Nketiah,Arsenal,0.16,,Blocked,7.0,Left Foot,,Pierre-Emerick Aubameyang,Pass (Live),Kieran Tierney,Pass (Dead)
+27,83,Héctor Bellerín,Arsenal,0.02,,Blocked,25.0,Right Foot,,Dani Ceballos,Pass (Live),Bukayo Saka,Pass (Live)
+28,90+2,Ross Barkley,Aston Villa,0.04,0.1,Saved,18.0,Right Foot,,John McGinn,Pass (Live),Ross Barkley,Pass (Live)

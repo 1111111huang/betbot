@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,Joelinton,Newcastle Utd,0.06,,Blocked,21.0,Right Foot,,Paul Dummett,Pass (Live),Joelinton,Pass (Live)
+1,12.0,Jordan Ayew,Crystal Palace,0.04,,Blocked,32.0,Right Foot,,Jordan Ayew,Take-On,Luka Milivojević,Pass (Live)
+2,14.0,Miguel Almirón,Newcastle Utd,0.11,0.13,Saved,15.0,Right Foot,,Miguel Almirón,Take-On,Paul Dummett,Pass (Live)
+3,17.0,Jonjo Shelvey,Newcastle Utd,0.05,,Blocked,27.0,Left Foot,,Jonjo Shelvey,Take-On,Andy Carroll,Pass (Live)
+4,24.0,Florian Lejeune,Newcastle Utd,0.02,0.02,Saved,31.0,Right Foot,,Javier Manquillo,Pass (Live),Fabian Schär,Pass (Live)
+5,27.0,Christian Benteke,Crystal Palace,0.07,,Off Target,10.0,Head,,Patrick van Aanholt,Pass (Live),James McArthur,Pass (Live)
+6,34.0,Cheikhou Kouyaté,Crystal Palace,0.08,,Off Target,9.0,Head,,Patrick van Aanholt,Pass (Dead),Wilfried Zaha,Fouled
+7,37.0,Jonjo Shelvey,Newcastle Utd,0.01,,Off Target,55.0,Right Foot,,Fabian Schär,Pass (Live),,
+8,39.0,Wilfried Zaha,Crystal Palace,0.06,0.09,Saved,12.0,Right Foot,,Christian Benteke,Pass (Live),James McArthur,Pass (Live)
+9,41.0,Andy Carroll,Newcastle Utd,0.04,,Off Target,14.0,Head,,Paul Dummett,Pass (Live),Miguel Almirón,Pass (Live)
+10,43.0,Luka Milivojević,Crystal Palace,0.06,,Off Target,31.0,Right Foot,Free kick,Wilfried Zaha,Fouled,Wilfried Zaha,Take-On
+11,45.0,Luka Milivojević,Crystal Palace,0.03,,Blocked,31.0,Right Foot,,James McArthur,Pass (Live),Christian Benteke,Pass (Live)
+12,,,,,,,,,,,,,
+13,47.0,Christian Benteke,Crystal Palace,0.05,,Blocked,16.0,Right Foot,,Jordan Ayew,Pass (Live),Wilfried Zaha,Pass (Live)
+14,51.0,James McArthur,Crystal Palace,0.23,0.35,Saved,9.0,Left Foot,,Patrick van Aanholt,Pass (Live),Luka Milivojević,Pass (Live)
+15,52.0,James McArthur,Crystal Palace,0.24,,Blocked,4.0,Right Foot,Volley,Patrick van Aanholt,Pass (Dead),James McArthur,Shot
+16,53.0,Patrick van Aanholt,Crystal Palace,0.03,,Off Target,25.0,Left Foot,,Jordan Ayew,Pass (Live),Christian Benteke,Pass (Live)
+17,57.0,James McArthur,Crystal Palace,0.03,,Off Target,24.0,Right Foot,,Patrick van Aanholt,Pass (Live),Wilfried Zaha,Pass (Live)
+18,62.0,James McArthur,Crystal Palace,0.14,0.16,Saved,8.0,Right Foot,Deflected,James McArthur,Take-On,Wilfried Zaha,Pass (Live)
+19,72.0,Luka Milivojević,Crystal Palace,0.02,,Blocked,24.0,Left Foot,,James McArthur,Pass (Live),Luka Milivojević,Pass (Live)
+20,74.0,Christian Benteke,Crystal Palace,0.1,0.05,Saved,14.0,Right Foot,,Jordan Ayew,Pass (Live),Luka Milivojević,Pass (Dead)
+21,77.0,James McCarthy,Crystal Palace,0.03,,Off Target,23.0,Right Foot,,Jordan Ayew,Pass (Live),Patrick van Aanholt,Pass (Live)
+22,81.0,Andy Carroll,Newcastle Utd,0.03,,Blocked,15.0,Head,,Jonjo Shelvey,Pass (Dead),Andy Carroll,Pass (Live)
+23,83.0,Miguel Almirón,Newcastle Utd,0.18,0.48,Goal,11.0,Left Foot,Volley,Javier Manquillo,Pass (Live),Fabian Schär,Pass (Dead)
+24,87.0,Max Meyer,Crystal Palace,0.13,,Off Target,9.0,Right Foot,Volley,Luka Milivojević,Pass (Dead),Max Meyer,Fouled

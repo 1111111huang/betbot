@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Ellis Simms,Everton,0.04,,Blocked,18.0,Right Foot,,Dwight McNeil,Pass (Live),Jordan Pickford,Pass (Live)
+1,11,Mohamed Salah,Liverpool,0.09,,Blocked,22.0,Left Foot,Free kick,Darwin Núñez,Fouled,Cody Gakpo,Pass (Live)
+2,17,Darwin Núñez,Liverpool,0.06,,Off Target,15.0,Right Foot,Volley,Stefan Bajcetic,Pass (Live),Mohamed Salah,Pass (Live)
+3,17,Cody Gakpo,Liverpool,0.15,,Off Target,11.0,Head,,Darwin Núñez,Shot,,
+4,21,Darwin Núñez,Liverpool,0.03,,Blocked,26.0,Right Foot,,Darwin Núñez,Take-On,Darwin Núñez,Take-On
+5,27,Stefan Bajcetic,Liverpool,0.02,0.42,Saved,31.0,Right Foot,Volley,Andrew Robertson,Fouled,Joe Gomez,Pass (Live)
+6,30,Idrissa Gana Gueye,Everton,0.02,,Off Target,28.0,Right Foot,Volley,Vitaliy Mykolenko,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+7,36,James Tarkowski,Everton,0.08,,Woodwork,5.0,Head,,Alex Iwobi,Pass (Dead),,
+8,36,Dwight McNeil,Everton,0.04,,Off Target,13.0,Left Foot,,Ellis Simms,Pass (Live),James Tarkowski,Shot
+9,36,Mohamed Salah,Liverpool,0.66,0.73,Goal,19.0,Right Foot,Volley,Darwin Núñez,Pass (Live),Mohamed Salah,Pass (Live)
+10,45+2,Darwin Núñez,Liverpool,0.16,,Blocked,11.0,Left Foot,Volley,Fabinho,Pass (Live),Andrew Robertson,Pass (Dead)
+11,45+2,Joe Gomez,Liverpool,0.03,,Off Target,31.0,Right Foot,,Darwin Núñez,Shot,,
+12,,,,,,,,,,,,,
+13,49,Cody Gakpo,Liverpool,0.66,0.74,Goal,2.0,Left Foot,,Mohamed Salah,Pass (Live),Andrew Robertson,Pass (Live)
+14,57,Alex Iwobi,Everton,0.04,0.25,Saved,21.0,Right Foot,,Vitaliy Mykolenko,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+15,58,Darwin Núñez,Liverpool,0.04,0.01,Saved,11.0,Right Foot,,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+16,62,Darwin Núñez,Liverpool,0.13,,Off Target,16.0,Right Foot,,Cody Gakpo,Pass (Live),Cody Gakpo,Take-On
+17,63,Mohamed Salah,Liverpool,0.04,0.07,Saved,15.0,Left Foot,,Cody Gakpo,Pass (Live),,
+18,81,Tom Davies,Everton,0.14,,Off Target,6.0,Head,,Alex Iwobi,Pass (Live),Demarai Gray,Pass (Live)
+19,82,Mohamed Salah,Liverpool,0.08,,Blocked,15.0,Left Foot,,Stefan Bajcetic,Pass (Live),Stefan Bajcetic,Take-On
+20,88,Mohamed Salah,Liverpool,0.11,0.3,Saved,13.0,Left Foot,Deflected,Mohamed Salah,Take-On,Roberto Firmino,Pass (Live)
+21,89,Mohamed Salah,Liverpool,0.09,,Blocked,11.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),James Milner,Pass (Live)

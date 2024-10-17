@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5.0,Riyad Mahrez,Manchester City,0.02,0.05,Saved,30.0,Left Foot,,João Cancelo,Pass (Live),Phil Foden,Pass (Live)
+1,12.0,Phil Foden,Manchester City,0.13,0.2,Saved,17.0,Left Foot,,Bernardo Silva,Pass (Live),João Cancelo,Pass (Live)
+2,12.0,Bernardo Silva,Manchester City,0.67,1.0,Goal,2.0,Left Foot,,Phil Foden,Shot,,
+3,15.0,João Cancelo,Manchester City,0.22,0.32,Saved,4.0,Right Foot,Volley,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+4,15.0,Riyad Mahrez,Manchester City,0.05,,Blocked,13.0,Right Foot,,João Cancelo,Shot,,
+5,22.0,Maxwel Cornet,Burnley,0.25,0.1,Saved,18.0,Right Foot,,Dwight McNeil,Pass (Live),James Tarkowski,Pass (Live)
+6,22.0,Maxwel Cornet,Burnley,0.03,,Off Target,18.0,Left Foot,,Maxwel Cornet,Shot,,
+7,33.0,Riyad Mahrez,Manchester City,0.11,,Off Target,17.0,Left Foot,,Aymeric Laporte,Pass (Live),Riyad Mahrez,Pass (Live)
+8,35.0,Josh Brownhill,Burnley,0.1,,Off Target,10.0,Left Foot,,,,,
+9,40.0,Raheem Sterling,Manchester City,0.14,,Blocked,12.0,Right Foot,Volley,Riyad Mahrez,Pass (Live),João Cancelo,Pass (Live)
+10,44.0,Bernardo Silva,Manchester City,0.13,,Off Target,11.0,Left Foot,,Kevin De Bruyne,Pass (Live),Aymeric Laporte,Pass (Live)
+11,,,,,,,,,,,,,
+12,46.0,Bernardo Silva,Manchester City,0.11,,Off Target,13.0,Left Foot,,,,,
+13,50.0,Riyad Mahrez,Manchester City,0.16,,Woodwork,15.0,Left Foot,,Bernardo Silva,Pass (Live),Raheem Sterling,Pass (Live)
+14,51.0,Phil Foden,Manchester City,0.08,0.09,Saved,12.0,Left Foot,,Bernardo Silva,Pass (Live),Aymeric Laporte,Pass (Live)
+15,55.0,João Cancelo,Manchester City,0.03,,Blocked,26.0,Right Foot,,Riyad Mahrez,Pass (Live),Rodri,Pass (Live)
+16,57.0,Ashley Barnes,Burnley,0.06,0.05,Saved,15.0,Right Foot,,,,,
+17,59.0,Aymeric Laporte,Manchester City,0.15,,Off Target,14.0,Left Foot,,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Live)
+18,60.0,Ashley Barnes,Burnley,0.05,,Blocked,9.0,Right Foot,Volley,Matthew Lowton,Pass (Live),James Tarkowski,Pass (Live)
+19,63.0,João Cancelo,Manchester City,0.03,,Blocked,17.0,Right Foot,,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+20,70.0,Kevin De Bruyne,Manchester City,0.21,0.33,Goal,13.0,Left Foot,,Riyad Mahrez,Pass (Live),Rodri,Pass (Live)
+21,75.0,Ashley Barnes,Burnley,0.06,,Off Target,23.0,Right Foot,,Ashley Westwood,Pass (Live),,
+22,79.0,Chris Wood,Burnley,0.37,,Woodwork,8.0,Right Foot,,Nathan Collins,Pass (Live),Dwight McNeil,Pass (Dead)

@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Mason Mount,Chelsea,0.05,,Blocked,19.0,Right Foot,Volley,Tammy Abraham,Take-On,Reece James,Pass (Live)
+1,5,Reece James,Chelsea,0.04,,Off Target,18.0,Right Foot,,N'Golo Kanté,Pass (Live),N'Golo Kanté,Pass (Live)
+2,6,Steven Alzate,Brighton,0.07,,Blocked,17.0,Right Foot,,Steven Alzate,Take-On,Dan Burn,Pass (Live)
+3,10,César Azpilicueta,Chelsea,0.62,0.75,Goal,4.0,Right Foot,,Tammy Abraham,Shot,,
+4,10,Tammy Abraham,Chelsea,0.17,,Blocked,8.0,Left Foot,,Kurt Zouma,Pass (Live),Willian,Pass (Dead)
+5,27,Tammy Abraham,Chelsea,0.05,,Blocked,18.0,Right Foot,,,,,
+6,30,Adam Webster,Brighton,0.05,,Off Target,15.0,Head,,Aaron Mooy,Pass (Live),Martín Montoya,Pass (Live)
+7,36,Adam Webster,Brighton,0.1,,Blocked,8.0,Head,,Aaron Mooy,Pass (Dead),,
+8,43,Leandro Trossard,Brighton,0.06,0.09,Saved,17.0,Left Foot,,Neal Maupay,Pass (Live),Leandro Trossard,Pass (Live)
+9,43,Martín Montoya,Brighton,0.03,,Off Target,20.0,Right Foot,Volley,Leandro Trossard,Shot,,
+10,45,Leandro Trossard,Brighton,0.05,,Blocked,11.0,Right Foot,,Martín Montoya,Pass (Live),Aaron Mooy,Pass (Live)
+11,45+2,Christian Pulisic,Chelsea,0.04,,Off Target,17.0,Left Foot,,N'Golo Kanté,Pass (Live),Willian,Pass (Live)
+12,,,,,,,,,,,,,
+13,54,Christian Pulisic,Chelsea,0.04,0.07,Saved,15.0,Left Foot,,Mason Mount,Pass (Live),Jorginho,Pass (Live)
+14,55,Mason Mount,Chelsea,0.03,,Blocked,29.0,Right Foot,,Christian Pulisic,Pass (Live),César Azpilicueta,Pass (Live)
+15,55,Christian Pulisic,Chelsea,0.04,,Off Target,18.0,Right Foot,,Reece James,Pass (Dead),Reece James,Fouled
+16,58,N'Golo Kanté,Chelsea,0.04,0.05,Saved,21.0,Right Foot,Volley,Mason Mount,Pass (Live),Christian Pulisic,Pass (Live)
+17,64,Christian Pulisic,Chelsea,0.04,0.13,Saved,15.0,Right Foot,,Willian,Pass (Live),Jorginho,Pass (Live)
+18,64,Reece James,Chelsea,0.04,,Blocked,20.0,Right Foot,,N'Golo Kanté,Pass (Live),Mason Mount,Pass (Live)
+19,65,Christian Pulisic,Chelsea,0.03,,Blocked,21.0,Right Foot,,Reece James,Shot,,
+20,67,Callum Hudson-Odoi,Chelsea,0.07,,Blocked,16.0,Right Foot,,Callum Hudson-Odoi,Take-On,N'Golo Kanté,Pass (Live)
+21,70,Steven Alzate,Brighton,0.03,,Blocked,25.0,Right Foot,,Alireza Jahanbakhsh,Pass (Live),Aaron Connolly,Fouled
+22,73,Aaron Connolly,Brighton,0.04,,Blocked,22.0,Right Foot,,Leandro Trossard,Pass (Live),Neal Maupay,Pass (Live)
+23,73,Alireza Jahanbakhsh,Brighton,0.04,,Off Target,21.0,Right Foot,,Aaron Connolly,Shot,,
+24,74,Callum Hudson-Odoi,Chelsea,0.04,,Blocked,17.0,Right Foot,,Mateo Kovačić,Pass (Live),Tammy Abraham,Pass (Live)
+25,80,Alireza Jahanbakhsh,Brighton,0.07,,Off Target,13.0,Right Foot,Volley,Leandro Trossard,Pass (Dead),Alireza Jahanbakhsh,Fouled
+26,80,Aaron Connolly,Brighton,0.23,0.45,Saved,9.0,Right Foot,Volley,Alireza Jahanbakhsh,Shot,,
+27,84,Alireza Jahanbakhsh,Brighton,0.06,0.42,Goal,11.0,Right Foot,Volley,Lewis Dunk,Pass (Live),Leandro Trossard,Pass (Dead)
+28,88,Callum Hudson-Odoi,Chelsea,0.06,,Off Target,16.0,Right Foot,,Tammy Abraham,Pass (Live),,
+29,89,Neal Maupay,Brighton,0.32,0.35,Saved,13.0,Right Foot,,Alireza Jahanbakhsh,Pass (Live),Davy Pröpper,Pass (Live)
+30,89,Steven Alzate,Brighton,0.07,,Blocked,15.0,Right Foot,,Neal Maupay,Shot,,
+31,89,Davy Pröpper,Brighton,0.03,,Blocked,29.0,Right Foot,,Leandro Trossard,Pass (Live),Bernardo,Pass (Dead)
+32,90+5,Lewis Dunk,Brighton,0.08,0.31,Saved,24.0,Right Foot,Free kick,Leandro Trossard,Fouled,Neal Maupay,Pass (Live)

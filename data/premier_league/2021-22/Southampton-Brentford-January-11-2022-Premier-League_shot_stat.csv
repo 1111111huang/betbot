@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Nathan Tella,Southampton,0.03,,Off Target,23.0,Right Foot,Volley,,,,
+1,5.0,Jan Bednarek,Southampton,0.2,0.08,Goal,3.0,Head,,James Ward-Prowse,Pass (Dead),Oriol Romeu,Pass (Live)
+2,14.0,James Ward-Prowse,Southampton,0.02,,Blocked,29.0,Right Foot,,Ibrahima Diallo,Pass (Live),Armando Broja,Pass (Live)
+3,23.0,Vitaly Janelt,Brentford,0.07,0.36,Goal,12.0,Left Foot,Volley,Bryan Mbeumo,Pass (Live),Mads Roerslev,Pass (Live)
+4,25.0,Vitaly Janelt,Brentford,0.03,0.14,Saved,29.0,Left Foot,,Vitaly Janelt,Pass (Live),Shandon Baptiste,Pass (Live)
+5,28.0,Romain Perraud,Southampton,0.03,,Off Target,15.0,Left Foot,,Nathan Redmond,Pass (Live),Mohammed Salisu,Pass (Live)
+6,33.0,Oriol Romeu,Southampton,0.15,,Off Target,12.0,Right Foot,,James Ward-Prowse,Pass (Live),Nathan Redmond,Pass (Live)
+7,35.0,Oriol Romeu,Southampton,0.01,,Blocked,35.0,Right Foot,,Mohammed Salisu,Pass (Live),,
+8,37.0,Ibrahima Diallo,Southampton,0.02,,Woodwork,24.0,Right Foot,Volley,James Ward-Prowse,Pass (Dead),Oriol Romeu,Pass (Live)
+9,39.0,Romain Perraud,Southampton,0.03,0.35,Saved,10.0,Head,Deflected,Nathan Redmond,Pass (Live),Jan Bednarek,Pass (Dead)
+10,,,,,,,,,,,,,
+11,49.0,Armando Broja,Southampton,0.64,0.96,Goal,13.0,Right Foot,,Oriol Romeu,Pass (Live),Mohammed Salisu,Pass (Live)
+12,57.0,Ibrahima Diallo,Southampton,0.03,0.06,Saved,20.0,Right Foot,,Oriol Romeu,Pass (Live),Ibrahima Diallo,Pass (Live)
+13,70.0,Che Adams,Southampton,0.22,0.24,Goal,14.0,Right Foot,Volley,Ibrahima Diallo,Pass (Live),,
+14,80.0,Adam Armstrong,Southampton,0.03,0.11,Saved,17.0,Right Foot,,Ibrahima Diallo,Pass (Live),Oriol Romeu,Pass (Live)
+15,83.0,Ivan Toney,Brentford,0.06,,Blocked,13.0,Right Foot,Volley,Finley Stevens,Pass (Live),,
+16,83.0,Ivan Toney,Brentford,0.14,0.1,Saved,6.0,Right Foot,,Ivan Toney,Shot,,
+17,85.0,Bryan Mbeumo,Brentford,0.25,0.85,Saved,4.0,Left Foot,,Mathias Jensen,Pass (Live),Kristoffer Ajer,Pass (Live)

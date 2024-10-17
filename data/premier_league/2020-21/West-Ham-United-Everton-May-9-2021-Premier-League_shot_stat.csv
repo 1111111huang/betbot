@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,21.0,Jesse Lingard,West Ham,0.03,,Blocked,29.0,Left Foot,,Michail Antonio,Pass (Live),Tomáš Souček,Pass (Live)
+1,24.0,Dominic Calvert-Lewin,Everton,0.34,0.76,Goal,10.0,Right Foot,,Ben Godfrey,Pass (Live),Michael Keane,Pass (Live)
+2,26.0,Saïd Benrahma,West Ham,0.06,,Blocked,13.0,Right Foot,,Jesse Lingard,Pass (Live),Pablo Fornals,Pass (Live)
+3,26.0,Pablo Fornals,West Ham,0.02,,Off Target,28.0,Left Foot,,Saïd Benrahma,Shot,,
+4,26.0,Jesse Lingard,West Ham,0.04,,Blocked,11.0,Right Foot,,Pablo Fornals,Shot,,
+5,28.0,Gylfi Sigurðsson,Everton,0.05,0.47,Saved,33.0,Right Foot,Free kick,Richarlison,Fouled,Tom Davies,Pass (Live)
+6,29.0,Tomáš Souček,West Ham,0.04,,Blocked,12.0,Head,,Aaron Cresswell,Pass (Live),Saïd Benrahma,Pass (Live)
+7,32.0,Dominic Calvert-Lewin,Everton,0.09,,Off Target,8.0,Head,,Gylfi Sigurðsson,Pass (Dead),Lucas Digne,Pass (Dead)
+8,32.0,Yerry Mina,Everton,0.2,,Off Target,7.0,Right Foot,Volley,Dominic Calvert-Lewin,Shot,,
+9,35.0,Richarlison,Everton,0.06,0.09,Saved,13.0,Left Foot,Deflected,Dominic Calvert-Lewin,Pass (Live),Jordan Pickford,Pass (Dead)
+10,39.0,Saïd Benrahma,West Ham,0.18,,Off Target,9.0,Head,,Pablo Fornals,Pass (Live),Vladimír Coufal,Pass (Live)
+11,,,,,,,,,,,,,
+12,48.0,Richarlison,Everton,0.04,,Blocked,22.0,Left Foot,,Michael Keane,Pass (Live),Yerry Mina,Pass (Live)
+13,48.0,Dominic Calvert-Lewin,Everton,0.06,,Off Target,10.0,Head,,Gylfi Sigurðsson,Pass (Live),Lucas Digne,Pass (Dead)
+14,55.0,Pablo Fornals,West Ham,0.08,,Blocked,17.0,Right Foot,Volley,Vladimír Coufal,Pass (Live),Michail Antonio,Pass (Live)
+15,61.0,Vladimír Coufal,West Ham,0.05,,Woodwork,18.0,Right Foot,,Pablo Fornals,Pass (Live),Michail Antonio,Pass (Live)
+16,61.0,Jarrod Bowen,West Ham,0.73,,Off Target,3.0,Right Foot,Volley,Vladimír Coufal,Shot,,
+17,76.0,Séamus Coleman,Everton,0.18,,Blocked,5.0,Right Foot,,Dominic Calvert-Lewin,Pass (Live),Allan,Pass (Live)
+18,79.0,Tomáš Souček,West Ham,0.05,,Off Target,13.0,Head,,Vladimír Coufal,Pass (Live),Pablo Fornals,Pass (Live)
+19,84.0,Joshua King,Everton,0.5,,Woodwork,4.0,Head,,Dominic Calvert-Lewin,Pass (Live),Gylfi Sigurðsson,Pass (Live)
+20,90.0,Vladimír Coufal,West Ham,0.03,,Off Target,20.0,Left Foot,,Pablo Fornals,Pass (Live),Jesse Lingard,Pass (Live)

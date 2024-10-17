@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,15,Youri Tielemans,Aston Villa,0.04,,Blocked,15.0,Left Foot,,Ollie Watkins,Pass (Live),Ollie Watkins,Interception
+1,22,Leon Bailey,Aston Villa,0.05,,Blocked,21.0,Left Foot,,John McGinn,Pass (Live),Leon Bailey,Pass (Live)
+2,29,Matty Cash,Aston Villa,0.2,,Off Target,4.0,Right Foot,,Matty Cash,Pass (Live),Ollie Watkins,Pass (Live)
+3,35,James Maddison,Tottenham,0.02,,Blocked,16.0,Right Foot,,Pedro Porro,Pass (Live),James Maddison,Pass (Dead)
+4,45,Ollie Watkins,Aston Villa,0.12,,Blocked,12.0,Right Foot,,Leon Bailey,Pass (Live),Leon Bailey,Interception
+5,45,Lucas Digne,Aston Villa,0.03,,Off Target,12.0,Other,,John McGinn,Pass (Live),Leon Bailey,Pass (Live)
+6,,,,,,,,,,,,,
+7,46,Matty Cash,Aston Villa,0.05,,Blocked,15.0,Left Foot,,John McGinn,Pass (Live),Matty Cash,Pass (Live)
+8,50,James Maddison,Tottenham,0.6,0.94,Goal,5.0,Left Foot,Volley,Pape Matar Sarr,Pass (Live),Pedro Porro,Pass (Live)
+9,52,Youri Tielemans,Aston Villa,0.03,,Blocked,29.0,Right Foot,,John McGinn,Pass (Live),Ollie Watkins,Pass (Live)
+10,53,Brennan Johnson,Tottenham,0.24,0.37,Goal,12.0,Right Foot,,Son Heung-min,Pass (Live),Dejan Kulusevski,Interception
+11,74,Moussa Diaby,Aston Villa,0.03,,Blocked,23.0,Left Foot,,Douglas Luiz,Pass (Live),Douglas Luiz,Take-On
+12,75,Dejan Kulusevski,Tottenham,0.06,,Off Target,23.0,Left Foot,,Rodrigo Bentancur,Pass (Live),Son Heung-min,Pass (Live)
+13,80,Brennan Johnson,Tottenham,0.1,,Blocked,10.0,Right Foot,,Dejan Kulusevski,Pass (Live),James Maddison,Pass (Live)
+14,84,Ezri Konsa,Aston Villa,0.14,,Blocked,8.0,Head,,Douglas Luiz,Pass (Dead),,
+15,84,Nicolò Zaniolo,Aston Villa,0.14,0.13,Saved,3.0,Left Foot,Volley,Ezri Konsa,Shot,,
+16,90,Dejan Kulusevski,Tottenham,0.07,,Blocked,16.0,Left Foot,,Pierre Højbjerg,Pass (Live),Pierre Højbjerg,Take-On
+17,90+1,Son Heung-min,Tottenham,0.19,0.43,Goal,15.0,Right Foot,,Dejan Kulusevski,Pass (Live),Dejan Kulusevski,Pass (Live)
+18,90+2,Son Heung-min,Tottenham,0.05,0.11,Saved,24.0,Right Foot,,Pedro Porro,Pass (Live),Yves Bissouma,Pass (Live)
+19,90+4,Timo Werner,Tottenham,0.22,0.86,Goal,12.0,Right Foot,,Son Heung-min,Pass (Live),Rodrigo Bentancur,Pass (Live)

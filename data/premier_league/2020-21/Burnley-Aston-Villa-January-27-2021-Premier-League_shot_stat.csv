@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Robbie Brady,Burnley,0.05,,Blocked,9.0,Head,,Dwight McNeil,Pass (Live),Chris Wood,Pass (Live)
+1,1,Josh Brownhill,Burnley,0.03,0.23,Saved,17.0,Head,,Robbie Brady,Shot,,
+2,3,Ezri Konsa,Aston Villa,0.16,,Off Target,6.0,Head,,Ross Barkley,Pass (Dead),,
+3,13,Ollie Watkins,Aston Villa,0.08,0.03,Saved,17.0,Right Foot,,Jack Grealish,Pass (Live),Ross Barkley,Pass (Live)
+4,14,Ollie Watkins,Aston Villa,0.41,0.91,Goal,5.0,Right Foot,,Matt Targett,Pass (Live),Jack Grealish,Pass (Live)
+5,27,Josh Brownhill,Burnley,0.03,,Blocked,24.0,Left Foot,,Robbie Brady,Pass (Live),,
+6,28,Jack Grealish,Aston Villa,0.03,0.04,Saved,26.0,Right Foot,Volley,John McGinn,Pass (Live),Ross Barkley,Pass (Dead)
+7,30,Bertrand Traoré,Aston Villa,0.06,,Off Target,18.0,Left Foot,,Jack Grealish,Pass (Live),Ollie Watkins,Pass (Live)
+8,39,Robbie Brady,Burnley,0.03,,Off Target,27.0,Left Foot,,Ashley Westwood,Pass (Live),Chris Wood,Pass (Live)
+9,41,Ollie Watkins,Aston Villa,0.46,0.38,Saved,12.0,Right Foot,,John McGinn,Pass (Live),Tyrone Mings,Pass (Dead)
+10,41,Ross Barkley,Aston Villa,0.25,,Woodwork,12.0,Left Foot,Volley,Ollie Watkins,Shot,,
+11,42,Bertrand Traoré,Aston Villa,0.05,,Blocked,17.0,Left Foot,,Jack Grealish,Pass (Live),Ross Barkley,Pass (Live)
+12,42,Tyrone Mings,Aston Villa,0.05,0.02,Saved,12.0,Left Foot,,Bertrand Traoré,Shot,,
+13,44,Matt Targett,Aston Villa,0.05,0.06,Saved,14.0,Left Foot,,Jack Grealish,Pass (Live),Matt Targett,Pass (Live)
+14,45+1,Bertrand Traoré,Aston Villa,0.07,,Off Target,24.0,Left Foot,Free kick,Bertrand Traoré,Fouled,Matty Cash,Pass (Live)
+15,,,,,,,,,,,,,
+16,49,John McGinn,Aston Villa,0.04,0.02,Saved,26.0,Left Foot,,Jack Grealish,Pass (Live),Bertrand Traoré,Pass (Live)
+17,50,Bertrand Traoré,Aston Villa,0.07,,Off Target,12.0,Left Foot,,Ollie Watkins,Pass (Live),Matt Targett,Pass (Live)
+18,52,Ben Mee,Burnley,0.15,0.36,Goal,4.0,Head,,Ashley Westwood,Pass (Dead),,
+19,53,Bertrand Traoré,Aston Villa,0.05,,Blocked,15.0,Left Foot,,Ollie Watkins,Pass (Live),Matt Targett,Pass (Live)
+20,64,Jack Grealish,Aston Villa,0.1,0.06,Saved,13.0,Left Foot,,Jack Grealish,Take-On,Jack Grealish,Take-On
+21,64,Ollie Watkins,Aston Villa,0.06,,Blocked,10.0,Head,,Matty Cash,Pass (Live),Douglas Luiz,Pass (Live)
+22,66,Chris Wood,Burnley,0.1,0.08,Saved,15.0,Right Foot,,Erik Pieters,Pass (Live),Dwight McNeil,Pass (Live)
+23,66,Dwight McNeil,Burnley,0.03,,Off Target,23.0,Left Foot,,,,,
+24,68,Jack Grealish,Aston Villa,0.41,0.72,Goal,9.0,Right Foot,,Douglas Luiz,Pass (Live),Jack Grealish,Pass (Live)
+25,73,Jay Rodriguez,Burnley,0.02,,Off Target,42.0,Right Foot,Volley,Jack Cork,Pass (Live),Nick Pope,Pass (Live)
+26,74,Ollie Watkins,Aston Villa,0.03,0.03,Saved,23.0,Right Foot,,Bertrand Traoré,Pass (Live),,
+27,76,Dwight McNeil,Burnley,0.02,0.64,Goal,27.0,Left Foot,,Erik Pieters,Pass (Live),,
+28,79,Chris Wood,Burnley,0.06,0.39,Goal,11.0,Head,,Dwight McNeil,Pass (Live),Matěj Vydra,Pass (Live)

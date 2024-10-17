@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Tyrone Mings,Aston Villa,0.15,,Off Target,5.0,Other,Deflected,Douglas Luiz,Pass (Dead),Philippe Coutinho,Pass (Live)
+1,9,Daniel James,Leeds United,0.08,0.56,Goal,14.0,Right Foot,,Rodrigo,Pass (Live),Luke Ayling,Pass (Live)
+2,14,Daniel James,Leeds United,0.03,0.08,Saved,11.0,Right Foot,,Rodrigo,Pass (Live),Luke Ayling,Pass (Live)
+3,19,Luke Ayling,Leeds United,0.01,,Off Target,14.0,Head,,,,,
+4,25,Tyrone Mings,Aston Villa,0.1,,Off Target,9.0,Head,,Lucas Digne,Pass (Dead),Lucas Digne,Pass (Dead)
+5,29,Daniel James,Leeds United,0.05,,Woodwork,24.0,Right Foot,,Jack Harrison,Pass (Live),Daniel James,Pass (Live)
+6,30,Philippe Coutinho,Aston Villa,0.11,0.57,Goal,16.0,Right Foot,,Matty Cash,Pass (Live),Emi Buendía,Pass (Live)
+7,34,Emi Buendía,Aston Villa,0.02,,Off Target,30.0,Right Foot,,Ollie Watkins,Pass (Live),Philippe Coutinho,Pass (Live)
+8,37,Mateusz Klich,Leeds United,0.06,0.12,Saved,23.0,Left Foot,,Rodrigo,Pass (Live),Rodrigo,Take-On
+9,38,Jacob Ramsey,Aston Villa,0.47,0.71,Goal,13.0,Left Foot,,Philippe Coutinho,Pass (Live),Philippe Coutinho,Take-On
+10,44,Jacob Ramsey,Aston Villa,0.33,0.9,Goal,13.0,Right Foot,,Philippe Coutinho,Pass (Live),Douglas Luiz,Pass (Live)
+11,45+1,Mateusz Klich,Leeds United,0.03,,Blocked,24.0,Right Foot,,Raphinha,Pass (Live),Raphinha,Take-On
+12,45+2,Daniel James,Leeds United,0.86,0.95,Goal,2.0,Head,,Mateusz Klich,Pass (Live),Robin Koch,Pass (Live)
+13,45+4,Matty Cash,Aston Villa,0.14,,Blocked,11.0,Right Foot,,Tyrone Mings,Pass (Live),Lucas Digne,Pass (Live)
+14,45+4,Lucas Digne,Aston Villa,0.09,,Off Target,11.0,Left Foot,,Matty Cash,Shot,,
+15,,,,,,,,,,,,,
+16,48,Stuart Dallas,Leeds United,0.02,0.04,Saved,28.0,Right Foot,Deflected,Jack Harrison,Pass (Live),Robin Koch,Pass (Live)
+17,51,Ollie Watkins,Aston Villa,0.12,,Off Target,3.0,Right Foot,Volley,Lucas Digne,Pass (Dead),Douglas Luiz,Pass (Dead)
+18,53,Raphinha,Leeds United,0.04,,Off Target,11.0,Left Foot,Volley,Robin Koch,Pass (Live),Stuart Dallas,Pass (Dead)
+19,62,Mateusz Klich,Leeds United,0.03,,Blocked,23.0,Right Foot,Volley,Rodrigo,Pass (Live),Stuart Dallas,Pass (Live)
+20,62,Pascal Struijk,Leeds United,0.25,,Blocked,4.0,Head,,Stuart Dallas,Pass (Dead),Mateusz Klich,Shot
+21,63,Pascal Struijk,Leeds United,0.08,,Blocked,9.0,Head,,Stuart Dallas,Pass (Dead),Mateusz Klich,Pass (Live)
+22,63,Diego Llorente,Leeds United,0.21,0.35,Goal,6.0,Left Foot,,Pascal Struijk,Shot,,
+23,67,Philippe Coutinho,Aston Villa,0.01,,Off Target,29.0,Right Foot,,Ollie Watkins,Pass (Live),,
+24,72,Diego Llorente,Leeds United,0.06,,Off Target,10.0,Head,,Daniel James,Fouled,Pascal Struijk,Pass (Live)
+25,74,Mateusz Klich,Leeds United,0.07,0.01,Saved,13.0,Left Foot,,Rodrigo,Pass (Live),Rodrigo,Interception
+26,78,Pascal Struijk,Leeds United,0.07,,Off Target,6.0,Head,,Raphinha,Pass (Live),Rodrigo,Pass (Dead)
+27,79,Carney Chukwuemeka,Aston Villa,0.08,,Blocked,24.0,Right Foot,,Ollie Watkins,Pass (Live),Carney Chukwuemeka,Pass (Live)
+28,84,Tyrone Mings,Aston Villa,0.02,0.08,Saved,25.0,Left Foot,,Ashley Young,Pass (Live),,

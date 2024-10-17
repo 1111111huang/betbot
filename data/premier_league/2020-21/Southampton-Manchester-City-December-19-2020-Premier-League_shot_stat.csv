@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Raheem Sterling,Manchester City,0.03,,Off Target,26.0,Right Foot,,Bernardo Silva,Pass (Live),Raheem Sterling,Pass (Live)
+1,12,Kevin De Bruyne,Manchester City,0.03,,Blocked,27.0,Right Foot,,İlkay Gündoğan,Pass (Live),Raheem Sterling,Pass (Live)
+2,12,İlkay Gündoğan,Manchester City,0.02,,Blocked,22.0,Right Foot,,Bernardo Silva,Pass (Live),İlkay Gündoğan,Pass (Live)
+3,13,João Cancelo,Manchester City,0.02,0.17,Saved,31.0,Right Foot,Deflected,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+4,16,Raheem Sterling,Manchester City,0.08,0.17,Goal,12.0,Right Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+5,20,Danny Ings,Southampton,0.05,,Blocked,17.0,Right Foot,,Oriol Romeu,Pass (Live),Che Adams,Pass (Live)
+6,21,Theo Walcott,Southampton,0.03,0.06,Saved,19.0,Right Foot,,Kyle Walker-Peters,Pass (Live),Jannik Vestergaard,Pass (Live)
+7,21,Oriol Romeu,Southampton,0.02,,Blocked,31.0,Left Foot,,Theo Walcott,Shot,,
+8,27,Danny Ings,Southampton,0.1,,Off Target,9.0,Head,,Theo Walcott,Pass (Live),Moussa Djenepo,Pass (Live)
+9,29,Jannik Vestergaard,Southampton,0.06,0.05,Saved,11.0,Head,,James Ward-Prowse,Pass (Dead),,
+10,34,Che Adams,Southampton,0.07,,Blocked,9.0,Head,,Theo Walcott,Pass (Live),Ryan Bertrand,Pass (Live)
+11,35,Jannik Vestergaard,Southampton,0.06,,Off Target,11.0,Head,,James Ward-Prowse,Pass (Dead),Che Adams,Shot
+12,,,,,,,,,,,,,
+13,47,Ferrán Torres,Manchester City,0.05,,Off Target,20.0,Right Foot,,João Cancelo,Pass (Live),Rodri,Pass (Live)
+14,54,Bernardo Silva,Manchester City,0.11,0.22,Saved,9.0,Right Foot,,Kevin De Bruyne,Pass (Live),Raheem Sterling,Pass (Live)
+15,61,Nathan Redmond,Southampton,0.03,0.04,Saved,25.0,Right Foot,,Nathan Redmond,Pass (Live),Oriol Romeu,Pass (Live)
+16,70,Kevin De Bruyne,Manchester City,0.06,0.13,Saved,21.0,Right Foot,,Bernardo Silva,Pass (Live),Ferrán Torres,Pass (Live)
+17,73,Che Adams,Southampton,0.31,,Off Target,5.0,Head,,,,,
+18,78,İlkay Gündoğan,Manchester City,0.03,0.48,Saved,27.0,Left Foot,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+19,90+1,Riyad Mahrez,Manchester City,0.05,,Off Target,17.0,Left Foot,,Kevin De Bruyne,Pass (Live),João Cancelo,Pass (Dead)
+20,90+2,Riyad Mahrez,Manchester City,0.39,,Off Target,10.0,Left Foot,Volley,Bernardo Silva,Pass (Live),Raheem Sterling,Pass (Live)

@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Che Adams,Southampton,0.08,,Blocked,6.0,Head,,Kyle Walker-Peters,Pass (Live),Ibrahima Diallo,Pass (Live)
+1,7,Kevin Schade,Brentford,0.06,,Off Target,13.0,Head,,Mathias Jensen,Pass (Live),Christian Nørgaard,Pass (Dead)
+2,10,Vitaly Janelt,Brentford,0.02,,Off Target,46.0,Left Foot,,Ben Mee,Pass (Live),David Raya,Pass (Live)
+3,19,Ben Mee,Brentford,0.02,,Blocked,17.0,Left Foot,,Bryan Mbeumo,Pass (Live),Mathias Jensen,Pass (Dead)
+4,20,Bryan Mbeumo,Brentford,0.12,0.09,Saved,9.0,Left Foot,Volley,Vitaly Janelt,Pass (Live),Ben Mee,Shot
+5,23,Bryan Mbeumo,Brentford,0.13,,Blocked,13.0,Left Foot,,Kevin Schade,Pass (Live),Kevin Schade,Take-On
+6,32,Christian Nørgaard,Brentford,0.11,,Blocked,5.0,Head,,Bryan Mbeumo,Pass (Dead),Bryan Mbeumo,Pass (Live)
+7,32,Ivan Toney,Brentford,0.93,0.93,Goal,2.0,Right Foot,Volley,Christian Nørgaard,Shot,,
+8,36,James Ward-Prowse,Southampton,0.02,,Blocked,31.0,Right Foot,Volley,Che Adams,Pass (Live),Che Adams,Take-On
+9,38,Carlos Alcaraz,Southampton,0.03,,Off Target,27.0,Right Foot,,Ibrahima Diallo,Pass (Live),Ibrahima Diallo,Take-On
+10,,,,,,,,,,,,,
+11,47,Che Adams,Southampton,0.25,,Blocked,5.0,Right Foot,,Carlos Alcaraz,Pass (Live),James Ward-Prowse,Pass (Live)
+12,63,James Ward-Prowse,Southampton,0.05,,Off Target,26.0,Right Foot,Free kick,Che Adams,Fouled,James Ward-Prowse,Pass (Live)
+13,65,Rico Henry,Brentford,0.02,,Blocked,28.0,Left Foot,Volley,Mathias Jensen,Pass (Dead),Ivan Toney,Fouled
+14,71,Rico Henry,Brentford,0.04,,Blocked,25.0,Left Foot,,Frank Onyeka,Fouled,Aaron Hickey,Pass (Dead)
+15,83,Romain Perraud,Southampton,0.01,,Blocked,25.0,Left Foot,,Kamaldeen Sulemana,Pass (Live),Kamaldeen Sulemana,Take-On
+16,90+2,Mikkel Damsgaard,Brentford,0.04,0.18,Saved,24.0,Right Foot,,Christian Nørgaard,Fouled,,
+17,90+4,Kamaldeen Sulemana,Southampton,0.09,,Off Target,16.0,Right Foot,Volley,James Bree,Pass (Live),James Ward-Prowse,Pass (Live)
+18,90+7,Yoane Wissa,Brentford,0.5,0.74,Goal,17.0,Right Foot,,Ivan Toney,Pass (Live),Frank Onyeka,Pass (Live)

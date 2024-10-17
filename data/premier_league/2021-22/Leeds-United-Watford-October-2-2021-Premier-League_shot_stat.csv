@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Raphinha,Leeds United,0.08,,Blocked,21.0,Left Foot,,Mateusz Klich,Pass (Live),,
+1,8,Daniel James,Leeds United,0.04,,Blocked,22.0,Right Foot,,Stuart Dallas,Pass (Live),Raphinha,Shot
+2,10,Stuart Dallas,Leeds United,0.07,0.21,Saved,22.0,Left Foot,,,,,
+3,17,Stuart Dallas,Leeds United,0.1,,Off Target,21.0,Right Foot,,Mateusz Klich,Pass (Live),Junior Firpo,Pass (Live)
+4,18,Diego Llorente,Leeds United,0.15,0.18,Goal,6.0,Left Foot,,Raphinha,Pass (Live),Mateusz Klich,Pass (Live)
+5,19,Juraj Kucka,Watford,0.03,,Blocked,28.0,Right Foot,,Emmanuel Dennis,Pass (Live),William Troost-Ekong,Pass (Live)
+6,22,Mateusz Klich,Leeds United,0.02,0.05,Saved,24.0,Right Foot,,Stuart Dallas,Pass (Live),,
+7,25,Stuart Dallas,Leeds United,0.14,,Blocked,17.0,Left Foot,,Raphinha,Pass (Live),Jamie Shackleton,Pass (Live)
+8,27,Raphinha,Leeds United,0.12,,Off Target,14.0,Left Foot,,Rodrigo,Pass (Live),Stuart Dallas,Pass (Live)
+9,28,Ozan Tufan,Watford,0.06,,Off Target,14.0,Right Foot,,,,,
+10,31,Raphinha,Leeds United,0.06,,Off Target,9.0,Head,,Rodrigo,Pass (Live),Daniel James,Pass (Live)
+11,39,Raphinha,Leeds United,0.03,,Off Target,23.0,Left Foot,,Stuart Dallas,Pass (Live),Daniel James,Pass (Live)
+12,42,Mateusz Klich,Leeds United,0.03,,Off Target,18.0,Right Foot,Volley,Jamie Shackleton,Pass (Live),Mateusz Klich,Pass (Live)
+13,45,Ismaila Sarr,Watford,0.02,,Off Target,22.0,Left Foot,,Emmanuel Dennis,Pass (Live),,
+14,45+2,Rodrigo,Leeds United,0.03,,Off Target,16.0,Head,,Junior Firpo,Pass (Live),Stuart Dallas,Pass (Live)
+15,,,,,,,,,,,,,
+16,47,Stuart Dallas,Leeds United,0.15,,Blocked,16.0,Right Foot,,Junior Firpo,Pass (Live),,
+17,48,Raphinha,Leeds United,0.06,,Off Target,29.0,Left Foot,Free kick,Mateusz Klich,Fouled,,
+18,50,Daniel James,Leeds United,0.04,,Blocked,17.0,Right Foot,,Junior Firpo,Pass (Live),Rodrigo,Pass (Live)
+19,57,Stuart Dallas,Leeds United,0.05,,Off Target,25.0,Left Foot,,Mateusz Klich,Pass (Live),Jamie Shackleton,Pass (Live)
+20,65,Rodrigo,Leeds United,0.04,,Blocked,24.0,Left Foot,,Liam Cooper,Pass (Live),Liam Cooper,Take-On
+21,72,Emmanuel Dennis,Watford,0.07,0.18,Saved,5.0,Right Foot,,William Troost-Ekong,Pass (Live),Kiko Femenía,Pass (Live)
+22,76,Jamie Shackleton,Leeds United,0.04,,Off Target,27.0,Right Foot,,Mateusz Klich,Pass (Live),Junior Firpo,Pass (Live)
+23,88,Tyler Roberts,Leeds United,0.05,,Blocked,13.0,Right Foot,"Deflected, Volley",Daniel James,Fouled,Raphinha,Pass (Dead)
+24,88,Tyler Roberts,Leeds United,0.04,,Woodwork,14.0,Right Foot,Volley,Tyler Roberts,Shot,,
+25,90+2,João Pedro,Watford,0.03,,Blocked,28.0,Right Foot,,Moussa Sissoko,Pass (Live),,

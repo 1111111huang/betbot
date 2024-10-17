@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Jóhann Berg Guðmundsson,Burnley,0.35,0.25,Saved,11.0,Right Foot,,Lyle Foster,Pass (Live),Josh Cullen,Pass (Live)
+1,8,Lyle Foster,Burnley,0.03,,Off Target,28.0,Left Foot,,Zeki Amdouni,Pass (Live),James Trafford,Pass (Dead)
+2,9,Ross Barkley,Luton Town,0.06,0.11,Saved,25.0,Right Foot,,Chiedozie Ogbene,Pass (Live),Ross Barkley,Pass (Live)
+3,12,Chiedozie Ogbene,Luton Town,0.02,0.1,Saved,13.0,Right Foot,,Ross Barkley,Pass (Live),Jordan Clark,Pass (Live)
+4,21,Ross Barkley,Luton Town,0.01,,Blocked,28.0,Right Foot,,Albert Sambi Lokonga,Pass (Live),Ross Barkley,Pass (Live)
+5,24,Jóhann Berg Guðmundsson,Burnley,0.04,,Off Target,25.0,Left Foot,Free kick,Lyle Foster,Fouled,Zeki Amdouni,Pass (Live)
+6,26,Ross Barkley,Luton Town,0.07,,Blocked,22.0,Right Foot,,Elijah Adebayo,Pass (Live),Andros Townsend,Pass (Live)
+7,28,Albert Sambi Lokonga,Luton Town,0.22,,Off Target,17.0,Right Foot,,Chiedozie Ogbene,Pass (Live),Ross Barkley,Pass (Live)
+8,34,Wilson Odobert,Burnley,0.01,,Off Target,27.0,Right Foot,,Wilson Odobert,Take-On,Ameen Al-Dakhil,Pass (Live)
+9,36,Zeki Amdouni,Burnley,0.33,0.41,Goal,9.0,Right Foot,,Lyle Foster,Pass (Live),Josh Brownhill,Pass (Live)
+10,40,Ameen Al-Dakhil,Burnley,0.11,,Off Target,9.0,Left Foot,,Wilson Odobert,Pass (Live),Josh Brownhill,Pass (Live)
+11,41,Jordan Clark,Luton Town,0.08,,Blocked,11.0,Right Foot,,Chiedozie Ogbene,Pass (Live),Chiedozie Ogbene,Take-On
+12,41,Albert Sambi Lokonga,Luton Town,0.04,,Blocked,19.0,Right Foot,,Chiedozie Ogbene,Pass (Live),Jordan Clark,Shot
+13,,,,,,,,,,,,,
+14,47,Vitinho,Burnley,0.01,0.02,Saved,22.0,Left Foot,,Lyle Foster,Pass (Live),,
+15,50,Chiedozie Ogbene,Luton Town,0.05,0.06,Saved,15.0,Left Foot,,Chiedozie Ogbene,Take-On,Ross Barkley,Pass (Live)
+16,52,Vitinho,Burnley,0.07,,Off Target,19.0,Left Foot,,Vitinho,Take-On,Josh Cullen,Pass (Live)
+17,56,Chiedozie Ogbene,Luton Town,0.1,0.09,Saved,9.0,Head,,Andros Townsend,Pass (Live),Jordan Clark,Pass (Live)
+18,58,Chiedozie Ogbene,Luton Town,0.03,,Blocked,19.0,Left Foot,,Chiedozie Ogbene,Take-On,Ross Barkley,Pass (Live)
+19,58,Jordan Clark,Luton Town,0.04,,Off Target,21.0,Right Foot,Volley,Ross Barkley,Pass (Live),Chiedozie Ogbene,Pass (Live)
+20,62,Wilson Odobert,Burnley,0.04,0.18,Saved,21.0,Right Foot,Deflected,Wilson Odobert,Take-On,Zeki Amdouni,Pass (Live)
+21,63,Hjalmar Ekdal,Burnley,0.04,,Off Target,13.0,Head,,Jóhann Berg Guðmundsson,Pass (Dead),Wilson Odobert,Shot
+22,66,Ross Barkley,Luton Town,0.05,,Blocked,26.0,Right Foot,,Tahith Chong,Pass (Live),Chiedozie Ogbene,Pass (Live)
+23,71,Ameen Al-Dakhil,Burnley,0.02,0.28,Saved,32.0,Right Foot,,Ameen Al-Dakhil,Take-On,Josh Cullen,Pass (Live)
+24,76,Lyle Foster,Burnley,0.03,0.11,Saved,16.0,Right Foot,Volley,Dara O'Shea,Pass (Live),Vitinho,Pass (Live)
+25,78,Carlton Morris,Luton Town,0.05,,Off Target,23.0,Left Foot,Volley,Elijah Adebayo,Pass (Live),Amari'i Bell,Pass (Live)
+26,81,Wilson Odobert,Burnley,0.02,0.19,Saved,14.0,Right Foot,,Connor Roberts,Pass (Dead),,
+27,90+2,Carlton Morris,Luton Town,0.13,0.34,Goal,9.0,Head,,Alfie Doughty,Pass (Live),Amari'i Bell,Pass (Live)

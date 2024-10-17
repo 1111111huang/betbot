@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Nélson Semedo,Wolves,0.07,0.25,Saved,12.0,Left Foot,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+1,11,Nélson Semedo,Wolves,0.05,,Blocked,13.0,Head,,Adama Traoré,Pass (Live),Rúben Neves,Pass (Live)
+2,13,Sadio Mané,Liverpool,0.06,,Blocked,12.0,Right Foot,,Sadio Mané,Take-On,Georginio Wijnaldum,Pass (Live)
+3,20,Sadio Mané,Liverpool,0.05,,Blocked,26.0,Right Foot,,Sadio Mané,Take-On,Sadio Mané,Take-On
+4,26,Sadio Mané,Liverpool,0.05,,Blocked,17.0,Left Foot,,Thiago Alcántara,Pass (Live),,
+5,38,Sadio Mané,Liverpool,0.2,,Off Target,13.0,Head,,Trent Alexander-Arnold,Pass (Live),Mohamed Salah,Pass (Live)
+6,43,Rúben Neves,Wolves,0.07,0.37,Saved,30.0,Right Foot,Free kick,Adama Traoré,Fouled,Pedro Neto,Pass (Live)
+7,45,Rúben Neves,Wolves,0.06,,Off Target,14.0,Right Foot,,,,,
+8,45+2,Diogo Jota,Liverpool,0.06,0.28,Goal,15.0,Left Foot,,Sadio Mané,Pass (Live),Mohamed Salah,Pass (Live)
+9,,,,,,,,,,,,,
+10,49,Willy Boly,Wolves,0.05,,Blocked,9.0,Head,,João Moutinho,Pass (Dead),Nélson Semedo,Pass (Live)
+11,49,Conor Coady,Wolves,0.06,,Off Target,10.0,Head,,Romain Saïss,Pass (Live),Romain Saïss,Take-On
+12,51,Mohamed Salah,Liverpool,0.02,,Off Target,28.0,Left Foot,,Sadio Mané,Pass (Live),Andrew Robertson,Pass (Live)
+13,53,Ozan Kabak,Liverpool,0.14,,Off Target,5.0,Head,,Trent Alexander-Arnold,Pass (Dead),Diogo Jota,Fouled
+14,64,João Moutinho,Wolves,0.06,,Blocked,17.0,Right Foot,Volley,,,,
+15,73,Adama Traoré,Wolves,0.03,0.02,Saved,26.0,Right Foot,,João Moutinho,Pass (Live),João Moutinho,Interception
+16,79,Sadio Mané,Liverpool,0.03,0.21,Saved,24.0,Right Foot,,James Milner,Pass (Live),,
+17,79,Fábio Silva,Wolves,0.04,0.03,Saved,14.0,Head,,Nélson Semedo,Pass (Live),João Moutinho,Pass (Live)
+18,80,Mohamed Salah,Liverpool,0.07,0.36,Saved,11.0,Right Foot,,Naby Keïta,Pass (Live),Naby Keïta,Pass (Live)
+19,80,Diogo Jota,Liverpool,0.07,0.17,Saved,17.0,Right Foot,,Mohamed Salah,Pass (Live),Sadio Mané,Pass (Live)
+20,90+13,Alex Oxlade-Chamberlain,Liverpool,0.04,,Off Target,12.0,Head,,Trent Alexander-Arnold,Pass (Dead),Mohamed Salah,Fouled
+21,90+14,Mohamed Salah,Liverpool,0.07,,Off Target,15.0,Left Foot,,Naby Keïta,Pass (Live),Sadio Mané,Pass (Live)
+22,90+15,Fábio Silva,Wolves,0.57,0.75,Saved,7.0,Other,,,,,

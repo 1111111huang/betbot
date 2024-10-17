@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Wesley Fofana,Leicester City,0.09,,Off Target,11.0,Head,,James Maddison,Pass (Dead),James Maddison,Fouled
+1,14,Jamie Vardy,Leicester City,0.09,,Blocked,9.0,Right Foot,,Wesley Fofana,Pass (Live),James Maddison,Pass (Dead)
+2,17,James Maddison,Leicester City,0.03,,Off Target,30.0,Right Foot,,James Justin,Pass (Live),James Maddison,Pass (Live)
+3,19,Harvey Barnes,Leicester City,0.07,,Blocked,17.0,Right Foot,,James Maddison,Pass (Live),Youri Tielemans,Pass (Live)
+4,20,Jamie Vardy,Leicester City,0.09,,Blocked,10.0,Right Foot,Volley,Marc Albrighton,Pass (Live),James Maddison,Pass (Live)
+5,34,Harry Kane,Tottenham,0.05,0.11,Saved,28.0,Right Foot,"Free kick, Deflected",Giovani Lo Celso,Fouled,Toby Alderweireld,Pass (Live)
+6,41,Harry Kane,Tottenham,0.16,,Off Target,6.0,Head,,Son Heung-min,Pass (Dead),,
+7,42,Harry Kane,Tottenham,0.06,,Off Target,9.0,Head,,Son Heung-min,Pass (Dead),Harry Kane,Pass (Live)
+8,43,Marc Albrighton,Leicester City,0.04,,Blocked,19.0,Left Foot,,Jamie Vardy,Pass (Live),Marc Albrighton,Pass (Live)
+9,44,James Maddison,Leicester City,0.03,0.22,Saved,26.0,Right Foot,,Wilfred Ndidi,Pass (Live),Timothy Castagne,Tackle
+10,45+4,Jamie Vardy (pen),Leicester City,0.79,0.95,Goal,13.0,Right Foot,,Wesley Fofana,Fouled,Harvey Barnes,Pass (Live)
+11,,,,,,,,,,,,,
+12,46,Marc Albrighton,Leicester City,0.03,,Blocked,25.0,Right Foot,,Harvey Barnes,Pass (Live),Timothy Castagne,Pass (Dead)
+13,46,James Maddison,Leicester City,0.03,0.04,Saved,26.0,Right Foot,,James Justin,Pass (Live),Youri Tielemans,Pass (Live)
+14,59,Jamie Vardy,Leicester City,0.14,,Off Target,5.0,Head,,Marc Albrighton,Pass (Live),James Maddison,Pass (Live)
+15,61,Harry Kane,Tottenham,0.04,0.06,Saved,22.0,Left Foot,,Harry Kane,Take-On,Harry Kane,Take-On
+16,69,James Maddison,Leicester City,0.04,,Off Target,19.0,Right Foot,,Harvey Barnes,Pass (Live),Jamie Vardy,Pass (Live)
+17,71,Toby Alderweireld,Tottenham,0.06,,Off Target,8.0,Head,,Gareth Bale,Pass (Dead),Harry Kane,Pass (Live)
+18,71,Son Heung-min,Tottenham,0.3,0.25,Saved,4.0,Right Foot,,Toby Alderweireld,Shot,,
+19,71,Son Heung-min,Tottenham,0.02,,Blocked,21.0,Right Foot,,Pierre Højbjerg,Pass (Live),Sergio Reguilón,Pass (Live)
+20,73,Gareth Bale,Tottenham,0.05,,Off Target,33.0,Left Foot,Free kick,Gareth Bale,Fouled,Gareth Bale,Take-On
+21,80,Wesley Fofana,Leicester City,0.05,,Off Target,13.0,Head,,James Maddison,Pass (Dead),Harvey Barnes,Fouled
+22,82,Jamie Vardy,Leicester City,0.07,,Blocked,15.0,Right Foot,,James Maddison,Pass (Live),Youri Tielemans,Pass (Live)
+23,82,Harvey Barnes,Leicester City,0.03,,Blocked,27.0,Right Foot,,Jamie Vardy,Shot,,
+24,82,Jamie Vardy,Leicester City,0.05,0.16,Saved,16.0,Right Foot,,James Maddison,Pass (Live),Harvey Barnes,Shot
+25,85,Youri Tielemans,Leicester City,0.07,,Off Target,16.0,Right Foot,,Jamie Vardy,Pass (Live),,

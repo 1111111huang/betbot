@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6.0,João Moutinho,Wolves,0.09,,Blocked,25.0,Right Foot,Free kick,Daniel Podence,Fouled,Rúben Neves,Pass (Live)
+1,6.0,Nélson Semedo,Wolves,0.02,0.22,Saved,30.0,Right Foot,,João Moutinho,Shot,,
+2,6.0,Leander Dendoncker,Wolves,0.08,0.1,Saved,11.0,Right Foot,,Nélson Semedo,Shot,,
+3,6.0,Max Kilman,Wolves,0.07,0.08,Saved,10.0,Head,,João Moutinho,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+4,15.0,Theo Walcott,Southampton,0.08,0.1,Saved,12.0,Right Foot,,Stuart Armstrong,Pass (Live),Che Adams,Pass (Live)
+5,24.0,Oriol Romeu,Southampton,0.02,,Blocked,32.0,Right Foot,,Moussa Djenepo,Pass (Live),Moussa Djenepo,Take-On
+6,26.0,Max Kilman,Wolves,0.16,,Blocked,8.0,Head,,Adama Traoré,Fouled,Adama Traoré,Take-On
+7,26.0,Willy Boly,Wolves,0.04,,Off Target,16.0,Head,,Rayan Aït-Nouri,Pass (Live),Max Kilman,Shot
+8,28.0,Che Adams,Southampton,0.05,,Off Target,20.0,Right Foot,Volley,Oriol Romeu,Pass (Live),Jannik Vestergaard,Pass (Live)
+9,30.0,Adama Traoré,Wolves,0.02,0.08,Saved,32.0,Right Foot,Deflected,Adama Traoré,Take-On,,
+10,31.0,Stuart Armstrong,Southampton,0.11,,Off Target,15.0,Right Foot,,Che Adams,Pass (Live),Oriol Romeu,Pass (Live)
+11,32.0,Daniel Podence,Wolves,0.03,,Off Target,11.0,Head,,Nélson Semedo,Pass (Live),Adama Traoré,Pass (Live)
+12,33.0,Che Adams,Southampton,0.06,,Blocked,15.0,Right Foot,,Moussa Djenepo,Pass (Live),Moussa Djenepo,Take-On
+13,34.0,Rayan Aït-Nouri,Wolves,0.02,,Blocked,33.0,Left Foot,,Leander Dendoncker,Pass (Live),Adama Traoré,Pass (Live)
+14,36.0,Daniel Podence,Wolves,0.06,0.04,Saved,10.0,Head,,João Moutinho,Pass (Dead),Adama Traoré,Fouled
+15,,,,,,,,,,,,,
+16,52.0,Daniel Podence,Wolves,0.06,0.07,Saved,13.0,Left Foot,,Rayan Aït-Nouri,Pass (Live),João Moutinho,Pass (Live)
+17,53.0,Raúl Jiménez,Wolves,0.05,,Off Target,11.0,Head,,Rayan Aït-Nouri,Pass (Live),João Moutinho,Pass (Live)
+18,58.0,Theo Walcott,Southampton,0.38,0.5,Goal,6.0,Right Foot,,Che Adams,Pass (Live),Moussa Djenepo,Pass (Live)
+19,65.0,Theo Walcott,Southampton,0.31,,Off Target,12.0,Right Foot,,Che Adams,Pass (Live),Che Adams,Take-On
+20,67.0,Raúl Jiménez,Wolves,0.04,0.24,Saved,18.0,Right Foot,,Rúben Neves,Pass (Live),Willy Boly,Pass (Live)
+21,71.0,Pedro Neto,Wolves,0.07,,Blocked,15.0,Left Foot,,Daniel Podence,Pass (Live),Adama Traoré,Pass (Live)
+22,73.0,Raúl Jiménez,Wolves,0.06,,Blocked,13.0,Right Foot,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+23,73.0,Max Kilman,Wolves,0.12,,Off Target,12.0,Right Foot,Volley,Adama Traoré,Fouled,Nélson Semedo,Pass (Dead)
+24,75.0,Raúl Jiménez,Wolves,0.04,,Woodwork,18.0,Right Foot,,João Moutinho,Pass (Live),Daniel Podence,Pass (Live)
+25,75.0,Pedro Neto,Wolves,0.43,0.43,Goal,9.0,Left Foot,,Raúl Jiménez,Shot,,
+26,83.0,Pedro Neto,Wolves,0.05,0.03,Saved,13.0,Left Foot,,Raúl Jiménez,Pass (Live),João Moutinho,Tackle
+27,84.0,Daniel Podence,Wolves,0.04,,Blocked,21.0,Left Foot,,Raúl Jiménez,Pass (Live),Pedro Neto,Shot

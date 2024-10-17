@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Phil Foden,Manchester City,0.08,0.02,Saved,12.0,Left Foot,,Bernardo Silva,Pass (Live),Phil Foden,Pass (Live)
+1,2,Bernardo Silva,Manchester City,0.06,,Off Target,18.0,Left Foot,Volley,Phil Foden,Shot,,
+2,19,Rodri,Manchester City,0.02,0.03,Saved,26.0,Right Foot,,Bernardo Silva,Pass (Live),Kyle Walker,Pass (Live)
+3,22,Joško Gvardiol,Manchester City,0.04,,Blocked,22.0,Right Foot,,Bernardo Silva,Pass (Live),Mateo Kovačić,Pass (Live)
+4,27,Phil Foden,Manchester City,0.05,0.12,Saved,22.0,Left Foot,,Rodri,Pass (Live),Mateo Kovačić,Pass (Live)
+5,29,Julián Álvarez,Manchester City,0.35,,Off Target,7.0,Right Foot,,Jack Grealish,Pass (Live),Julián Álvarez,Pass (Live)
+6,33,Andros Townsend,Luton Town,0.02,0.04,Saved,31.0,Right Foot,,Elijah Adebayo,Pass (Live),,
+7,35,Jack Grealish,Manchester City,0.04,,Blocked,20.0,Right Foot,,,,,
+8,36,Jack Grealish,Manchester City,0.07,,Blocked,16.0,Left Foot,,Jack Grealish,Pass (Live),Phil Foden,Pass (Live)
+9,36,Mateo Kovačić,Manchester City,0.05,,Off Target,24.0,Right Foot,,Jack Grealish,Shot,,
+10,40,Kyle Walker,Manchester City,0.02,,Off Target,25.0,Right Foot,,Phil Foden,Pass (Live),Jack Grealish,Pass (Live)
+11,45+2,Elijah Adebayo,Luton Town,0.25,0.84,Goal,4.0,Head,,Andros Townsend,Pass (Live),Alfie Doughty,Pass (Live)
+12,,,,,,,,,,,,,
+13,53,Rodri,Manchester City,0.13,,Off Target,11.0,Left Foot,,Kyle Walker,Pass (Live),Bernardo Silva,Pass (Live)
+14,57,Julián Álvarez,Manchester City,0.08,,Blocked,23.0,Right Foot,Free kick,Phil Foden,Fouled,Rodri,Pass (Live)
+15,59,Rúben Dias,Manchester City,0.15,0.13,Saved,9.0,Right Foot,,Nathan Aké,Pass (Live),,
+16,59,Rodri,Manchester City,0.02,,Off Target,30.0,Right Foot,,Mateo Kovačić,Pass (Live),Jack Grealish,Pass (Live)
+17,62,Bernardo Silva,Manchester City,0.05,0.51,Goal,17.0,Left Foot,,Rodri,Take-On,Kyle Walker,Pass (Live)
+18,65,Jack Grealish,Manchester City,0.31,0.35,Goal,7.0,Left Foot,,Julián Álvarez,Pass (Live),Phil Foden,Pass (Live)
+19,68,Ross Barkley,Luton Town,0.03,,Off Target,26.0,Right Foot,,Ross Barkley,Take-On,Amari'i Bell,Pass (Live)
+20,78,Bernardo Silva,Manchester City,0.05,,Blocked,18.0,Left Foot,,Kyle Walker,Pass (Live),Bernardo Silva,Pass (Live)
+21,79,Julián Álvarez,Manchester City,0.03,,Off Target,31.0,Right Foot,,Phil Foden,Tackle,,
+22,90+2,Tahith Chong,Luton Town,0.03,,Off Target,15.0,Left Foot,,Tahith Chong,Take-On,,Fouled

@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7.0,Mason Mount,Chelsea,0.3,0.24,Saved,11.0,Right Foot,Volley,Willian,Pass (Live),Olivier Giroud,Pass (Live)
+1,14.0,Mason Mount,Chelsea,0.04,0.24,Goal,17.0,Right Foot,,Pedro,Pass (Live),Pedro,Take-On
+2,19.0,Willian,Chelsea,0.07,0.42,Saved,14.0,Right Foot,,Ross Barkley,Pass (Live),,
+3,19.0,Ross Barkley,Chelsea,0.02,,Off Target,35.0,Right Foot,,Billy Gilmour,Pass (Live),Antonio Rüdiger,Pass (Live)
+4,21.0,Pedro,Chelsea,0.43,0.91,Goal,15.0,Right Foot,,Ross Barkley,Pass (Live),Olivier Giroud,Pass (Live)
+5,26.0,Dominic Calvert-Lewin,Everton,0.39,,Off Target,11.0,Left Foot,,Richarlison,Pass (Live),Richarlison,Tackle
+6,35.0,Olivier Giroud,Chelsea,0.04,0.24,Saved,21.0,Right Foot,,Mason Mount,Pass (Live),Olivier Giroud,Pass (Live)
+7,,,,,,,,,,,,,
+8,51.0,Willian,Chelsea,0.03,0.33,Goal,27.0,Right Foot,Deflected,Ross Barkley,Pass (Live),Pedro,Pass (Live)
+9,53.0,Pedro,Chelsea,0.08,,Blocked,16.0,Right Foot,,Pedro,Take-On,Olivier Giroud,Pass (Live)
+10,54.0,Olivier Giroud,Chelsea,0.5,0.94,Goal,4.0,Left Foot,,Willian,Pass (Live),Billy Gilmour,Pass (Live)
+11,55.0,Richarlison,Everton,0.03,0.14,Saved,26.0,Left Foot,Volley,Djibril Sidibé,Pass (Dead),Michael Keane,Pass (Live)
+12,57.0,Pedro,Chelsea,0.07,0.28,Saved,13.0,Right Foot,,Olivier Giroud,Pass (Live),Ross Barkley,Pass (Live)
+13,59.0,Ross Barkley,Chelsea,0.06,0.03,Saved,28.0,Right Foot,Free kick,Pedro,Fouled,Willian,Pass (Dead)
+14,62.0,Antonio Rüdiger,Chelsea,0.04,,Off Target,12.0,Head,,Willian,Pass (Dead),,
+15,69.0,Ross Barkley,Chelsea,0.07,0.24,Saved,15.0,Right Foot,,Ross Barkley,Take-On,Pedro,Pass (Live)
+16,72.0,Faustino Anjorin,Chelsea,0.02,,Off Target,32.0,Right Foot,Volley,,,,
+17,78.0,Richarlison,Everton,0.08,,Blocked,15.0,Right Foot,,Richarlison,Fouled,,
+18,84.0,César Azpilicueta,Chelsea,0.03,0.47,Saved,29.0,Right Foot,,Ross Barkley,Pass (Live),Marcos Alonso,Pass (Dead)
+19,84.0,Billy Gilmour,Chelsea,0.02,,Off Target,26.0,Right Foot,Volley,Ross Barkley,Pass (Dead),César Azpilicueta,Shot
+20,87.0,Marcos Alonso,Chelsea,0.03,,Off Target,27.0,Left Foot,,Ross Barkley,Pass (Live),Ross Barkley,Take-On

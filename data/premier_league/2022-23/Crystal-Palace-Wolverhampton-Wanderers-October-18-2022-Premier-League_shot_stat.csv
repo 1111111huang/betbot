@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Cheick Doucouré,Crystal Palace,0.04,0.38,Saved,31.0,Right Foot,,Eberechi Eze,Pass (Live),Wilfried Zaha,Pass (Live)
+1,5,Diego Costa,Wolves,0.14,0.77,Saved,9.0,Right Foot,Deflected,Daniel Podence,Pass (Live),Adama Traoré,Pass (Live)
+2,16,Marc Guéhi,Crystal Palace,0.05,,Off Target,9.0,Head,,Michael Olise,Pass (Live),Eberechi Eze,Fouled
+3,18,Rúben Neves,Wolves,0.01,,Off Target,30.0,Right Foot,,Matheus Nunes,Pass (Live),,
+4,25,Eberechi Eze,Crystal Palace,0.05,,Off Target,33.0,Right Foot,Free kick,Wilfried Zaha,Fouled,Wilfried Zaha,Take-On
+5,26,Michael Olise,Crystal Palace,0.03,,Blocked,25.0,Left Foot,,Jeffrey Schlupp,Pass (Live),Wilfried Zaha,Pass (Live)
+6,27,Joachim Andersen,Crystal Palace,0.06,,Off Target,7.0,Head,,Eberechi Eze,Pass (Live),Michael Olise,Shot
+7,31,Adama Traoré,Wolves,0.14,0.43,Goal,10.0,Head,,Hugo Bueno,Pass (Live),Rúben Neves,Pass (Live)
+8,45+2,Wilfried Zaha,Crystal Palace,0.09,,Off Target,16.0,Left Foot,,Jeffrey Schlupp,Pass (Live),Odsonne Édouard,Pass (Live)
+9,45+5,Rúben Neves,Wolves,0.07,,Woodwork,29.0,Right Foot,Free kick,Adama Traoré,Fouled,Diego Costa,Pass (Live)
+10,,,,,,,,,,,,,
+11,47,Eberechi Eze,Crystal Palace,0.19,0.76,Goal,4.0,Head,,Michael Olise,Pass (Live),Wilfried Zaha,Pass (Live)
+12,49,Odsonne Édouard,Crystal Palace,0.07,,Blocked,17.0,Left Foot,,Jeffrey Schlupp,Pass (Live),,
+13,51,Wilfried Zaha,Crystal Palace,0.04,,Blocked,25.0,Left Foot,,Michael Olise,Pass (Live),Joel Ward,Pass (Live)
+14,56,Daniel Podence,Wolves,0.07,0.06,Saved,15.0,Right Foot,,Adama Traoré,Pass (Live),Nélson Semedo,Pass (Live)
+15,57,Diego Costa,Wolves,0.07,,Off Target,11.0,Head,,Daniel Podence,Pass (Dead),Daniel Podence,Shot
+16,59,Joseph Hodge,Wolves,0.12,,Blocked,13.0,Right Foot,,Diego Costa,Pass (Live),Gonçalo Guedes,Pass (Live)
+17,64,Joachim Andersen,Crystal Palace,0.05,,Blocked,8.0,Right Foot,Volley,Michael Olise,Pass (Dead),Michael Olise,Pass (Live)
+18,68,Odsonne Édouard,Crystal Palace,0.07,,Off Target,16.0,Right Foot,Volley,Michael Olise,Pass (Live),Jeffrey Schlupp,Pass (Live)
+19,69,Wilfried Zaha,Crystal Palace,0.05,0.14,Saved,18.0,Right Foot,,Joachim Andersen,Pass (Live),Marc Guéhi,Pass (Live)
+20,70,Wilfried Zaha,Crystal Palace,0.36,0.55,Goal,13.0,Right Foot,,Odsonne Édouard,Pass (Live),Eberechi Eze,Pass (Live)
+21,80,Michael Olise,Crystal Palace,0.06,,Blocked,20.0,Left Foot,,Wilfried Zaha,Pass (Live),Odsonne Édouard,Pass (Live)
+22,82,João Moutinho,Wolves,0.15,,Off Target,10.0,Left Foot,,Hugo Bueno,Pass (Live),Gonçalo Guedes,Pass (Live)
+23,84,Gonçalo Guedes,Wolves,0.05,,Off Target,13.0,Right Foot,Volley,Gonçalo Guedes,Pass (Live),Hwang Hee-chan,Pass (Live)
+24,87,Rúben Neves,Wolves,0.02,0.34,Saved,25.0,Right Foot,,Daniel Podence,Pass (Live),Hugo Bueno,Pass (Live)

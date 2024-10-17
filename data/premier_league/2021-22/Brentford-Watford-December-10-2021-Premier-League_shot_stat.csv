@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Shandon Baptiste,Brentford,0.06,0.05,Saved,15.0,Right Foot,Volley,Mads Roerslev,Pass (Live),Yoane Wissa,Pass (Live)
+1,7,Pontus Jansson,Brentford,0.02,,Off Target,10.0,Head,,Charlie Goode,Pass (Dead),,
+2,14,Rico Henry,Brentford,0.02,,Blocked,26.0,Right Foot,,Shandon Baptiste,Pass (Live),Rico Henry,Pass (Live)
+3,21,Juraj Kucka,Watford,0.14,,Blocked,7.0,Head,,Tom Cleverley,Pass (Dead),Moussa Sissoko,Pass (Live)
+4,22,Bryan Mbeumo,Brentford,0.03,0.49,Saved,23.0,Left Foot,,Shandon Baptiste,Pass (Live),Charlie Goode,Tackle
+5,24,Joshua King,Watford,0.03,,Woodwork,24.0,Right Foot,,Cucho,Pass (Live),William Troost-Ekong,Tackle
+6,24,Emmanuel Dennis,Watford,0.11,0.21,Goal,8.0,Head,,Tom Cleverley,Pass (Dead),Joshua King,Shot
+7,26,Christian Nørgaard,Brentford,0.13,,Off Target,8.0,Right Foot,Volley,Charlie Goode,Pass (Dead),,
+8,28,Bryan Mbeumo,Brentford,0.04,,Off Target,21.0,Right Foot,Volley,Yoane Wissa,Fouled,Rico Henry,Pass (Live)
+9,36,Emmanuel Dennis,Watford,0.06,,Off Target,9.0,Head,,Moussa Sissoko,Pass (Live),Joshua King,Pass (Live)
+10,,,,,,,,,,,,,
+11,60,Rico Henry,Brentford,0.04,,Blocked,10.0,Left Foot,,Mathias Jensen,Pass (Live),Vitaly Janelt,Pass (Live)
+12,62,Christian Nørgaard,Brentford,0.04,,Blocked,10.0,Head,,Charlie Goode,Pass (Live),Mathias Jensen,Pass (Live)
+13,72,Cucho,Watford,0.06,,Off Target,28.0,Right Foot,Free kick,Moussa Sissoko,Fouled,João Pedro,Pass (Live)
+14,74,Vitaly Janelt,Brentford,0.06,0.08,Saved,17.0,Left Foot,,Christian Nørgaard,Pass (Live),,
+15,75,Joshua King,Watford,0.08,0.4,Saved,13.0,Right Foot,,Emmanuel Dennis,Pass (Live),João Pedro,Pass (Live)
+16,83,Frank Onyeka,Brentford,0.07,,Blocked,16.0,Right Foot,Volley,Vitaly Janelt,Pass (Live),,
+17,84,Marcus Forss,Brentford,0.04,,Off Target,12.0,Head,,Vitaly Janelt,Pass (Live),Saman Ghoddos,Pass (Live)
+18,84,Pontus Jansson,Brentford,0.24,0.61,Goal,4.0,Head,,Marcus Forss,Shot,,
+19,89,Vitaly Janelt,Brentford,0.02,,Blocked,15.0,Right Foot,Volley,,,,
+20,90+6,Bryan Mbeumo (pen),Brentford,0.79,0.98,Goal,13.0,Left Foot,,Saman Ghoddos,Fouled,Christian Nørgaard,Pass (Live)

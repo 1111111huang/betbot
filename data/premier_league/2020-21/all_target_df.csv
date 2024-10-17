@@ -1,0 +1,381 @@
+home_goals,away_goals,home_corners,away_corners,home_cards,away_cards,home_shots,away_shots,home_sots,away_sots,home,away,date
+0,0,5,3,3,0,6,10,1,2,Burnley,West Brom,February-20-2021
+0,2,2,6,0,0,13,15,2,5,Arsenal,Aston Villa,November-8-2020
+2,1,1,9,3,4,5,23,2,7,Aston Villa,Chelsea,May-23-2021
+1,2,9,0,2,0,25,3,5,2,Brighton,Crystal Palace,February-22-2021
+0,0,0,3,1,0,19,4,3,1,Brighton,Burnley,November-6-2020
+3,2,3,3,3,3,19,8,6,4,Brighton,Manchester City,May-18-2021
+1,1,2,5,5,0,7,10,3,6,West Brom,Manchester Utd,February-14-2021
+1,2,4,6,1,2,12,19,6,8,Leeds United,West Ham,December-11-2020
+3,0,2,1,1,1,11,9,6,3,Liverpool,Wolves,December-6-2020
+2,3,11,0,2,1,23,10,6,3,Wolves,West Brom,January-16-2021
+0,0,4,6,1,3,17,14,3,3,Arsenal,Manchester Utd,January-30-2021
+1,3,4,3,1,2,13,9,5,4,Southampton,Arsenal,January-26-2021
+3,1,8,3,0,2,23,8,10,3,Chelsea,Leeds United,December-5-2020
+3,3,5,1,2,1,14,6,5,3,Manchester Utd,Everton,February-6-2021
+0,2,3,5,2,1,5,19,1,4,Newcastle Utd,Arsenal,May-2-2021
+1,2,2,6,3,1,12,15,5,5,Fulham,Manchester Utd,January-20-2021
+0,0,3,6,1,0,8,11,2,1,Crystal Palace,Manchester Utd,March-3-2021
+0,1,3,1,0,4,9,17,2,6,West Ham,Chelsea,April-24-2021
+5,2,2,5,1,0,17,10,10,5,Manchester City,Southampton,March-10-2021
+0,0,1,4,1,2,18,11,6,4,Chelsea,Manchester Utd,February-28-2021
+0,2,6,10,3,4,11,13,3,3,Everton,Newcastle Utd,January-30-2021
+3,1,4,7,2,1,14,18,6,2,Arsenal,Chelsea,December-26-2020
+2,1,4,5,3,2,10,9,6,3,Wolves,Arsenal,February-2-2021
+1,0,7,8,0,2,14,9,4,3,Everton,Wolves,May-19-2021
+1,2,7,1,1,3,21,6,5,3,Newcastle Utd,Crystal Palace,February-2-2021
+0,0,5,12,2,3,8,11,2,4,Newcastle Utd,Liverpool,December-30-2020
+7,2,1,5,2,1,18,14,11,8,Aston Villa,Liverpool,October-4-2020
+1,2,13,6,2,2,13,13,6,4,Fulham,Leeds United,March-19-2021
+0,0,3,3,3,0,25,9,4,2,Leeds United,Arsenal,November-22-2020
+1,3,1,2,1,2,3,14,2,7,Tottenham,Liverpool,January-28-2021
+3,3,3,9,1,3,9,22,3,10,West Brom,Chelsea,September-26-2020
+2,1,5,9,4,0,18,15,8,5,Manchester Utd,Aston Villa,January-1-2021
+1,1,4,3,2,1,22,7,9,4,Liverpool,Newcastle Utd,April-24-2021
+0,0,7,5,3,1,14,6,4,1,Manchester Utd,Chelsea,October-24-2020
+1,1,6,6,2,0,20,10,7,2,Burnley,Brighton,February-6-2021
+2,0,3,1,3,2,13,10,4,1,Fulham,West Brom,November-2-2020
+0,1,1,4,2,3,7,15,2,1,Tottenham,Chelsea,February-4-2021
+1,1,6,8,3,1,10,11,5,5,Fulham,Liverpool,December-13-2020
+1,0,2,9,1,3,11,11,4,4,Newcastle Utd,Fulham,December-19-2020
+3,0,5,3,0,2,17,4,7,1,Leicester City,West Brom,April-22-2021
+1,0,5,3,0,3,18,7,8,1,Chelsea,Everton,March-8-2021
+1,0,9,2,2,2,16,12,7,2,West Ham,Fulham,November-7-2020
+0,2,7,4,2,0,21,14,3,5,Fulham,Burnley,May-10-2021
+3,2,6,7,0,0,24,6,8,4,Southampton,Burnley,April-4-2021
+0,1,9,0,0,1,19,5,4,2,Chelsea,Arsenal,May-12-2021
+1,1,3,2,1,3,9,12,2,1,Everton,Arsenal,December-19-2020
+2,3,0,5,2,0,13,9,6,7,Fulham,Everton,November-22-2020
+1,0,6,3,0,0,6,13,2,6,West Brom,Brighton,February-27-2021
+2,1,5,6,2,2,15,5,7,3,Manchester Utd,Brighton,April-4-2021
+0,0,0,3,2,2,7,11,4,2,Chelsea,Brighton,April-20-2021
+0,1,3,3,1,0,11,13,1,4,Liverpool,Brighton,February-3-2021
+3,2,5,5,2,1,12,10,3,3,Brighton,Wolves,January-2-2021
+2,0,3,8,1,2,5,11,3,2,Tottenham,Arsenal,December-6-2020
+1,0,4,10,0,2,7,9,1,1,Everton,Southampton,March-1-2021
+0,3,1,1,1,1,3,16,2,7,Arsenal,Liverpool,April-3-2021
+3,1,2,4,1,2,14,15,4,7,Aston Villa,Fulham,April-4-2021
+3,0,1,2,0,1,15,11,7,2,West Ham,Wolves,September-27-2020
+2,1,9,2,2,1,14,8,6,4,Sheffield Utd,West Brom,February-2-2021
+1,0,4,4,1,2,15,4,5,2,Fulham,Sheffield Utd,February-20-2021
+1,2,4,3,3,1,29,2,7,2,Manchester City,Leeds United,April-10-2021
+3,0,2,1,0,1,11,3,6,1,Brighton,Newcastle Utd,March-20-2021
+1,2,6,2,2,0,15,12,3,5,Manchester City,Chelsea,May-8-2021
+0,2,4,4,1,0,14,9,0,3,Fulham,Newcastle Utd,May-23-2021
+4,0,2,4,0,0,16,10,7,3,Tottenham,Burnley,February-28-2021
+4,3,4,3,1,2,9,13,6,5,Leeds United,Fulham,September-19-2020
+4,2,4,5,0,2,12,9,4,5,Arsenal,Leeds United,February-14-2021
+0,2,5,0,3,1,8,9,1,5,Fulham,Leicester City,February-3-2021
+1,1,5,6,0,2,12,16,7,4,Burnley,Leicester City,March-3-2021
+2,1,4,4,2,1,8,6,2,2,Tottenham,Brighton,November-1-2020
+2,0,6,0,1,2,13,4,6,1,Tottenham,West Brom,February-7-2021
+0,1,4,3,0,0,8,16,2,8,Sheffield Utd,Liverpool,February-28-2021
+1,2,6,1,2,3,16,10,7,6,Leeds United,Everton,February-3-2021
+0,1,5,4,2,0,10,11,2,5,Everton,West Ham,January-1-2021
+8,0,4,3,2,3,23,3,13,1,Manchester Utd,Southampton,February-2-2021
+0,3,6,3,0,0,10,20,3,3,Burnley,Liverpool,May-19-2021
+1,1,8,4,1,4,23,5,12,0,Tottenham,Newcastle Utd,September-27-2020
+1,3,5,4,0,3,18,8,8,6,Leicester City,Leeds United,January-31-2021
+0,0,5,2,1,0,9,10,1,2,Aston Villa,Wolves,March-6-2021
+0,2,7,2,4,3,8,14,2,6,Sheffield Utd,Southampton,March-6-2021
+2,3,3,4,0,0,6,17,3,7,Crystal Palace,West Ham,January-26-2021
+0,2,4,3,1,1,7,12,2,3,Everton,Fulham,February-14-2021
+0,1,7,1,1,0,20,8,4,4,Southampton,Aston Villa,January-30-2021
+0,0,8,5,3,0,7,15,4,8,Leeds United,Chelsea,March-13-2021
+0,2,7,6,2,2,15,15,3,2,West Ham,Newcastle Utd,September-12-2020
+2,1,5,5,0,1,7,14,3,2,Arsenal,West Ham,September-19-2020
+4,2,2,3,0,1,11,11,6,3,Everton,Brighton,October-3-2020
+1,0,3,11,0,3,10,14,3,6,Leeds United,Burnley,December-27-2020
+1,3,0,8,2,1,3,16,2,7,Everton,Manchester City,February-17-2021
+2,0,2,7,1,1,16,11,4,2,Brighton,Leeds United,May-1-2021
+2,3,5,8,1,0,10,15,5,6,Southampton,Manchester Utd,November-29-2020
+1,1,6,1,2,3,13,8,6,5,Manchester Utd,Fulham,May-18-2021
+5,2,6,4,3,1,25,10,10,4,Leeds United,Newcastle Utd,December-16-2020
+1,2,6,2,1,1,16,5,4,3,Manchester Utd,Sheffield Utd,January-27-2021
+3,1,5,2,0,1,22,6,10,1,Manchester City,Wolves,March-2-2021
+0,1,4,2,1,1,7,7,2,2,Leeds United,Brighton,January-16-2021
+0,3,5,3,2,2,12,27,3,9,Aston Villa,Leeds United,October-23-2020
+1,1,3,3,1,1,4,8,1,2,Southampton,Chelsea,February-20-2021
+1,2,6,6,0,1,7,8,2,4,Brighton,Leicester City,March-6-2021
+0,2,5,7,1,1,7,21,0,8,Sheffield Utd,Crystal Palace,May-8-2021
+1,2,6,4,0,2,16,9,3,4,Leicester City,Fulham,November-30-2020
+2,0,4,2,0,1,19,1,8,0,Chelsea,Burnley,January-31-2021
+1,1,5,3,0,3,9,8,2,2,West Ham,Crystal Palace,December-16-2020
+2,3,4,2,1,4,20,9,5,6,Wolves,West Ham,April-5-2021
+0,1,5,3,2,2,8,16,3,3,Tottenham,Leicester City,December-20-2020
+0,3,1,2,1,0,5,14,0,9,Burnley,Chelsea,October-31-2020
+1,2,4,5,0,0,9,8,4,6,Southampton,Brighton,March-14-2021
+0,1,2,5,0,0,3,16,1,8,Sheffield Utd,Manchester City,October-31-2020
+1,0,6,1,1,1,16,7,6,2,Manchester Utd,West Brom,November-21-2020
+0,4,8,5,1,2,12,14,2,7,Wolves,Burnley,April-25-2021
+1,1,3,6,2,0,10,20,3,10,West Brom,Wolves,May-3-2021
+5,2,10,1,1,0,17,6,7,4,Everton,West Brom,September-19-2020
+3,1,6,1,1,2,14,10,6,6,Manchester Utd,Newcastle Utd,February-21-2021
+0,0,10,0,2,1,16,10,5,2,Brighton,Fulham,January-27-2021
+2,1,4,3,2,3,12,13,6,3,Newcastle Utd,West Brom,December-12-2020
+2,2,6,3,3,2,22,11,6,4,Newcastle Utd,Tottenham,April-4-2021
+0,1,6,2,2,2,9,11,3,5,Southampton,Manchester City,December-19-2020
+1,1,1,1,3,1,6,9,2,2,Manchester City,Liverpool,November-8-2020
+3,1,2,10,1,2,11,15,6,4,Leicester City,Liverpool,February-13-2021
+2,1,4,0,2,4,23,9,10,5,Liverpool,Aston Villa,April-10-2021
+2,4,5,4,3,0,18,17,2,8,Manchester Utd,Liverpool,May-13-2021
+0,1,2,5,0,0,9,15,5,3,Sheffield Utd,West Ham,November-22-2020
+0,2,3,6,3,2,8,8,1,2,Aston Villa,Tottenham,March-21-2021
+0,4,2,5,1,2,7,21,3,11,West Brom,Arsenal,January-2-2021
+2,0,5,3,2,2,11,7,6,2,Manchester City,Newcastle Utd,December-26-2020
+2,1,9,4,0,2,23,9,10,3,Aston Villa,West Brom,April-25-2021
+1,1,3,3,1,1,10,20,4,4,Tottenham,Aston Villa,May-19-2021
+2,0,3,2,0,0,14,6,4,1,Manchester City,Fulham,December-5-2020
+6,2,11,13,1,0,25,17,13,4,Manchester Utd,Leeds United,December-20-2020
+1,2,3,5,0,2,16,13,3,5,Everton,Aston Villa,May-1-2021
+1,0,8,2,2,1,16,8,3,4,Brighton,Tottenham,January-31-2021
+3,2,0,7,4,1,6,14,4,5,Newcastle Utd,Southampton,February-6-2021
+1,0,5,4,0,2,15,5,6,1,Manchester City,Brighton,January-13-2021
+3,2,3,7,0,5,11,13,6,4,Tottenham,West Ham,October-18-2020
+0,0,11,0,1,1,14,4,5,0,Chelsea,Wolves,January-27-2021
+0,2,4,4,0,3,18,15,3,7,Southampton,Leeds United,May-18-2021
+1,2,8,12,0,0,9,26,3,6,West Brom,Liverpool,May-16-2021
+4,0,7,4,2,0,15,4,4,0,Chelsea,Crystal Palace,October-3-2020
+1,6,2,3,2,1,4,21,1,7,Manchester Utd,Tottenham,October-4-2020
+0,1,1,0,2,2,7,15,1,3,Arsenal,Manchester City,February-21-2021
+1,0,3,2,2,5,16,7,3,3,Sheffield Utd,Newcastle Utd,January-12-2021
+3,1,3,4,3,1,15,16,5,6,West Ham,Arsenal,March-21-2021
+2,0,4,0,2,1,13,5,7,2,Southampton,West Brom,October-4-2020
+1,0,12,1,2,3,26,5,7,1,Manchester City,West Brom,December-15-2020
+1,3,7,5,1,5,12,12,3,7,Tottenham,Manchester Utd,April-11-2021
+2,0,0,8,2,2,4,22,2,5,Tottenham,Manchester City,November-21-2020
+2,0,4,3,0,2,17,8,7,3,Leeds United,Crystal Palace,February-8-2021
+1,1,12,2,1,5,21,5,4,3,Brighton,Sheffield Utd,December-20-2020
+2,1,2,4,0,1,6,6,5,2,Arsenal,Sheffield Utd,October-4-2020
+1,0,3,6,4,1,13,11,5,3,Manchester City,Arsenal,October-17-2020
+0,0,4,1,2,1,11,9,3,2,Fulham,Tottenham,March-4-2021
+0,0,8,4,2,1,18,10,6,2,Arsenal,Burnley,December-13-2020
+0,4,0,7,1,1,7,27,4,11,Newcastle Utd,Manchester Utd,October-17-2020
+0,3,6,4,2,2,4,14,0,6,Leicester City,West Ham,October-4-2020
+0,1,1,7,4,3,11,10,5,4,Leicester City,Aston Villa,October-18-2020
+3,2,1,3,1,0,10,18,5,10,Burnley,Aston Villa,January-27-2021
+2,3,6,7,0,2,8,11,4,4,Leicester City,Tottenham,May-23-2021
+3,1,6,6,1,2,16,11,7,3,Leeds United,Tottenham,May-8-2021
+1,3,5,4,2,0,8,14,2,5,West Ham,Liverpool,January-31-2021
+4,1,1,4,2,3,12,5,5,1,Tottenham,Crystal Palace,March-7-2021
+1,1,5,4,1,1,8,8,3,3,Burnley,Fulham,February-17-2021
+4,0,6,5,1,1,20,8,10,1,Tottenham,Sheffield Utd,May-2-2021
+3,2,1,8,3,3,4,15,4,4,West Ham,Leicester City,April-11-2021
+1,0,4,1,1,1,14,10,5,2,Wolves,Fulham,October-4-2020
+0,0,6,8,1,0,15,18,5,7,Wolves,Leeds United,February-19-2021
+2,0,5,3,0,1,14,12,6,6,Liverpool,Southampton,May-8-2021
+0,2,4,6,2,3,14,11,2,6,Leicester City,Everton,December-16-2020
+3,4,4,3,2,2,9,15,3,6,Newcastle Utd,Manchester City,May-14-2021
+0,3,5,1,3,0,6,12,0,5,Newcastle Utd,Brighton,September-20-2020
+2,1,4,3,0,3,17,12,5,1,Liverpool,Sheffield Utd,October-24-2020
+4,3,8,0,1,0,20,6,4,3,Liverpool,Leeds United,September-12-2020
+2,1,3,5,2,1,11,10,2,5,Tottenham,Southampton,April-21-2021
+1,1,9,8,2,1,12,17,5,7,Leeds United,Liverpool,April-19-2021
+1,1,4,7,1,2,23,9,8,1,Leeds United,Sheffield Utd,April-3-2021
+0,1,8,6,1,0,12,19,2,5,West Brom,Tottenham,November-8-2020
+2,2,3,3,0,0,11,13,4,4,West Ham,Brighton,December-27-2020
+0,5,2,8,2,0,4,18,1,7,West Brom,Manchester City,January-26-2021
+1,1,6,3,1,2,15,15,6,4,Tottenham,Fulham,January-13-2021
+1,1,0,4,1,0,4,23,2,9,Southampton,Leicester City,April-30-2021
+0,1,2,2,2,1,10,12,5,4,Wolves,Liverpool,March-15-2021
+3,0,0,4,2,1,15,12,6,4,Leicester City,Brighton,December-13-2020
+1,0,1,5,1,2,11,6,2,4,Crystal Palace,Wolves,January-30-2021
+0,0,4,2,1,1,11,9,2,2,Manchester Utd,Manchester City,December-12-2020
+1,0,5,3,2,1,5,9,3,5,Crystal Palace,Southampton,September-12-2020
+2,0,3,4,0,3,14,7,5,1,Aston Villa,Newcastle Utd,January-23-2021
+5,0,5,5,2,2,21,7,11,2,Manchester City,Everton,May-23-2021
+0,3,2,2,2,2,5,13,2,5,Fulham,Arsenal,September-12-2020
+4,0,10,1,0,0,13,2,6,0,Manchester City,Crystal Palace,January-17-2021
+0,3,4,2,0,0,3,7,0,6,Fulham,Manchester City,March-13-2021
+0,0,7,3,1,3,14,8,3,1,Arsenal,Everton,April-23-2021
+2,0,2,5,2,2,16,8,4,3,Leicester City,Southampton,January-16-2021
+1,1,2,2,2,0,6,14,2,7,West Ham,Manchester City,October-24-2020
+1,2,6,3,2,3,15,7,4,3,Aston Villa,Brighton,November-21-2020
+1,0,7,4,2,1,15,10,3,2,West Ham,Burnley,January-16-2021
+0,0,1,3,1,1,3,16,0,4,Crystal Palace,Fulham,February-28-2021
+0,3,2,4,1,1,7,11,1,5,West Brom,Leicester City,September-13-2020
+0,2,0,6,0,0,4,18,2,5,Chelsea,Liverpool,September-20-2020
+1,4,0,8,1,0,1,23,1,9,Crystal Palace,Chelsea,April-10-2021
+1,2,9,4,1,3,22,9,5,2,Newcastle Utd,Leeds United,January-26-2021
+1,3,7,3,1,1,9,20,2,9,Aston Villa,West Ham,February-3-2021
+1,1,2,3,1,0,10,15,2,2,Brighton,West Ham,May-15-2021
+2,1,4,3,1,4,12,6,2,3,Arsenal,Tottenham,March-14-2021
+0,1,4,3,2,0,13,11,2,3,Brighton,Arsenal,December-29-2020
+3,0,4,9,0,1,14,13,5,3,West Brom,Southampton,April-12-2021
+1,0,1,7,1,3,7,17,2,1,Southampton,Liverpool,January-4-2021
+0,1,1,9,2,3,10,21,2,6,Fulham,Chelsea,January-16-2021
+3,0,4,3,0,0,11,6,7,0,Chelsea,West Ham,December-21-2020
+3,4,7,1,1,2,18,9,9,4,Aston Villa,Southampton,November-1-2020
+3,2,7,4,1,2,14,16,6,5,Leicester City,Burnley,September-20-2020
+0,0,1,7,1,0,9,9,4,4,Fulham,Brighton,December-16-2020
+2,1,2,5,2,2,16,5,6,3,Wolves,Brighton,May-9-2021
+1,2,5,2,2,1,7,22,1,4,Burnley,West Ham,May-3-2021
+1,0,3,0,1,2,10,8,4,2,Wolves,Sheffield Utd,April-17-2021
+2,0,10,0,2,2,19,5,5,4,Liverpool,Crystal Palace,May-23-2021
+1,1,5,2,4,1,11,6,6,3,Wolves,Tottenham,December-27-2020
+0,1,4,2,2,0,8,14,1,3,Newcastle Utd,Chelsea,November-21-2020
+1,1,4,7,1,1,16,14,5,6,Crystal Palace,Tottenham,December-13-2020
+2,0,9,3,0,2,24,11,11,4,Liverpool,Leicester City,November-22-2020
+0,1,7,1,3,5,12,6,4,2,Arsenal,Leicester City,October-25-2020
+0,0,7,2,2,3,26,4,9,1,Brighton,Aston Villa,February-13-2021
+1,1,3,2,2,0,15,13,7,6,Everton,Crystal Palace,April-5-2021
+3,1,1,4,2,3,9,7,4,3,Newcastle Utd,Burnley,October-3-2020
+0,2,2,6,2,0,9,20,4,3,Crystal Palace,Manchester City,May-1-2021
+3,0,5,2,0,0,20,4,6,1,Arsenal,Newcastle Utd,January-18-2021
+1,3,4,7,4,0,15,14,5,5,Sheffield Utd,Tottenham,January-17-2021
+3,1,5,3,1,2,17,10,8,3,Manchester Utd,Burnley,April-18-2021
+2,2,2,3,1,0,5,12,3,7,West Brom,Fulham,January-30-2021
+1,4,6,0,2,1,7,7,2,5,Liverpool,Manchester City,February-7-2021
+1,2,4,3,3,4,13,11,2,5,Arsenal,Wolves,November-29-2020
+0,2,12,3,2,1,9,11,1,4,Sheffield Utd,Wolves,September-14-2020
+2,2,6,1,4,2,17,6,4,2,Brighton,Manchester Utd,September-26-2020
+1,1,2,5,0,1,4,16,1,2,Crystal Palace,Leicester City,December-28-2020
+1,3,3,8,2,2,14,20,4,9,West Brom,West Ham,May-19-2021
+3,0,2,3,0,3,14,17,7,5,West Ham,Southampton,May-23-2021
+0,1,3,3,0,0,14,7,3,3,Fulham,Wolves,April-9-2021
+2,1,6,5,2,5,16,7,5,3,Chelsea,Leicester City,May-18-2021
+0,0,3,1,2,2,13,9,6,4,West Brom,Burnley,October-19-2020
+1,2,4,0,2,1,10,9,2,4,Leicester City,Manchester Utd,December-26-2020
+1,0,2,6,3,2,12,14,8,3,Aston Villa,Arsenal,February-6-2021
+3,0,4,2,1,3,14,7,5,3,Manchester City,Tottenham,February-13-2021
+0,1,4,2,1,2,15,23,8,6,Everton,Leeds United,November-28-2020
+0,1,5,5,2,1,14,17,4,8,Sheffield Utd,Leeds United,September-27-2020
+0,1,4,5,2,0,13,9,3,3,Burnley,Tottenham,October-26-2020
+2,0,4,3,1,2,13,6,6,2,Southampton,Everton,October-25-2020
+0,1,6,1,2,0,5,9,3,3,Brighton,West Brom,October-26-2020
+0,1,5,2,2,4,10,7,1,3,Sheffield Utd,Everton,December-26-2020
+1,2,5,3,2,2,12,5,3,3,Wolves,Everton,January-12-2021
+2,4,7,5,1,1,25,14,9,6,Leicester City,Newcastle Utd,May-7-2021
+0,1,8,0,2,1,27,5,6,3,Liverpool,Burnley,January-21-2021
+1,0,12,7,2,3,17,21,6,5,West Brom,Sheffield Utd,November-28-2020
+1,1,2,5,2,0,19,14,6,4,Newcastle Utd,Wolves,February-27-2021
+1,1,1,7,3,3,9,13,4,3,Arsenal,Southampton,December-16-2020
+0,1,3,7,4,7,16,12,7,1,Wolves,Aston Villa,December-12-2020
+1,0,1,1,1,1,11,9,3,5,Manchester Utd,Wolves,December-29-2020
+1,2,3,2,0,1,16,14,3,10,Fulham,Crystal Palace,October-24-2020
+3,1,6,3,2,2,21,4,8,3,Liverpool,Arsenal,September-28-2020
+3,0,1,4,1,2,11,13,7,5,Leeds United,Southampton,February-23-2021
+1,3,3,3,1,0,13,9,3,4,Brighton,Chelsea,September-14-2020
+0,3,6,4,0,0,13,16,3,4,Crystal Palace,Burnley,February-13-2021
+1,0,3,2,3,1,5,12,3,1,Crystal Palace,West Brom,March-13-2021
+1,1,4,2,2,1,9,6,2,2,Brighton,Liverpool,November-28-2020
+2,1,2,6,2,2,12,13,4,3,Wolves,Chelsea,December-15-2020
+1,3,4,5,3,1,11,17,5,6,Aston Villa,Manchester Utd,May-9-2021
+0,1,6,3,3,3,8,6,2,1,Manchester Utd,Arsenal,November-1-2020
+0,0,5,1,2,1,13,15,2,5,Aston Villa,Everton,May-13-2021
+1,0,6,8,3,1,12,10,3,3,Sheffield Utd,Burnley,May-23-2021
+1,4,8,3,1,1,11,9,4,7,Leeds United,Leicester City,November-2-2020
+1,3,4,2,4,2,7,13,1,5,Everton,Manchester Utd,November-7-2020
+3,0,4,4,3,4,20,13,9,6,Aston Villa,Crystal Palace,December-26-2020
+1,2,5,2,4,1,14,8,4,3,Wolves,Manchester Utd,May-23-2021
+3,1,6,5,0,1,11,10,6,3,Southampton,Fulham,May-15-2021
+0,0,2,6,4,1,6,16,3,4,Leeds United,Manchester Utd,April-25-2021
+3,1,10,4,2,3,13,10,6,3,Southampton,Crystal Palace,May-11-2021
+2,0,11,2,0,2,27,11,8,4,Manchester City,Aston Villa,January-20-2021
+0,2,5,2,2,1,15,8,6,5,Liverpool,Everton,February-20-2021
+0,3,1,4,1,2,1,18,1,9,West Brom,Aston Villa,December-20-2020
+0,0,3,3,4,2,13,5,3,1,Chelsea,Tottenham,November-29-2020
+1,1,2,2,0,1,16,5,3,2,Wolves,Newcastle Utd,October-25-2020
+1,2,3,3,3,3,11,9,3,2,Brighton,Southampton,December-7-2020
+2,1,1,2,2,1,10,14,4,2,Burnley,Wolves,December-21-2020
+1,1,9,3,3,1,16,10,5,2,Chelsea,Aston Villa,December-28-2020
+2,0,1,8,1,1,9,10,5,3,Chelsea,Fulham,May-1-2021
+0,2,6,2,2,2,12,14,3,7,Crystal Palace,Newcastle Utd,November-27-2020
+1,2,3,4,0,0,4,12,1,3,Manchester Utd,Leicester City,May-11-2021
+1,0,2,7,1,0,9,16,2,4,Sheffield Utd,Aston Villa,March-3-2021
+2,1,3,1,0,1,14,6,6,2,West Ham,West Brom,January-19-2021
+0,0,4,3,3,1,8,8,3,3,Southampton,West Ham,December-29-2020
+1,1,1,5,3,2,0,20,0,3,Crystal Palace,Brighton,October-18-2020
+1,1,8,3,0,0,8,13,3,6,Burnley,Everton,December-5-2020
+3,0,6,7,0,2,12,8,8,5,West Ham,Sheffield Utd,February-15-2021
+0,1,5,5,3,2,13,9,3,4,Leeds United,Aston Villa,February-27-2021
+0,0,6,3,2,0,10,3,1,2,Fulham,Southampton,December-26-2020
+2,5,3,1,1,3,16,4,5,4,Manchester City,Leicester City,September-27-2020
+0,1,3,3,3,1,11,11,3,3,West Brom,Everton,March-4-2021
+2,3,6,3,3,2,12,15,6,8,Sheffield Utd,Manchester Utd,December-17-2020
+2,0,3,5,1,3,9,7,4,2,Crystal Palace,Sheffield Utd,January-2-2021
+1,3,6,6,2,1,12,6,6,3,Crystal Palace,Arsenal,May-19-2021
+1,2,6,4,2,1,11,16,2,7,Aston Villa,Leicester City,February-21-2021
+5,0,0,4,0,0,19,9,6,1,Manchester City,Burnley,November-28-2020
+1,3,6,3,2,1,17,13,4,4,Manchester Utd,Crystal Palace,September-19-2020
+0,4,6,6,1,1,16,16,4,6,Burnley,Leeds United,May-15-2021
+0,0,7,6,0,0,13,9,3,5,West Brom,Newcastle Utd,March-7-2021
+1,1,9,1,0,3,18,2,5,0,Arsenal,Fulham,April-18-2021
+1,0,3,5,2,0,10,15,4,5,Burnley,Crystal Palace,November-23-2020
+2,0,6,6,1,1,15,17,4,2,West Ham,Leeds United,March-8-2021
+0,1,7,2,1,0,10,5,2,1,Burnley,Southampton,September-26-2020
+1,2,3,6,0,2,8,9,2,3,Newcastle Utd,Leicester City,January-3-2021
+2,2,2,5,3,2,11,22,5,8,Everton,Liverpool,October-17-2020
+2,1,5,7,4,3,4,20,4,4,West Ham,Tottenham,February-21-2021
+0,3,5,1,6,3,16,12,2,5,Fulham,Aston Villa,September-28-2020
+1,1,5,10,2,1,12,23,7,1,Leeds United,Manchester City,October-3-2020
+0,1,3,1,1,2,11,13,0,7,Burnley,Manchester Utd,January-12-2021
+1,0,7,0,0,3,10,4,5,1,Manchester City,Sheffield Utd,January-30-2021
+2,1,1,2,0,1,8,4,4,3,Liverpool,West Ham,October-31-2020
+2,0,7,3,1,2,15,4,7,2,Southampton,Newcastle Utd,November-6-2020
+1,1,4,2,1,1,8,19,2,6,Everton,Leicester City,January-27-2021
+2,2,3,6,2,2,16,15,6,5,Newcastle Utd,West Ham,April-17-2021
+1,2,13,2,1,0,24,10,4,4,Burnley,Newcastle Utd,April-11-2021
+3,0,3,5,4,1,19,18,6,5,Tottenham,Leeds United,January-2-2021
+0,0,9,3,1,2,23,8,3,1,Brighton,Everton,April-12-2021
+1,0,2,5,1,2,5,7,3,2,Burnley,Sheffield Utd,December-29-2020
+0,2,3,2,0,3,23,7,6,5,Manchester City,Manchester Utd,March-7-2021
+0,0,6,2,4,0,15,7,4,0,Manchester Utd,West Ham,March-14-2021
+1,1,6,2,0,1,17,5,2,3,Liverpool,West Brom,December-27-2020
+0,0,5,2,1,3,20,8,2,1,Fulham,West Ham,February-6-2021
+3,3,6,2,1,1,11,13,5,6,Chelsea,Southampton,October-17-2020
+4,1,4,5,0,2,20,6,9,3,Chelsea,Sheffield Utd,November-7-2020
+3,1,7,3,2,1,16,14,8,5,Leeds United,West Brom,May-23-2021
+2,1,4,4,0,2,17,8,11,2,Liverpool,Tottenham,December-16-2020
+1,2,7,4,3,1,8,9,1,4,Crystal Palace,Everton,September-26-2020
+2,5,10,2,3,1,18,14,7,7,Chelsea,West Brom,April-3-2021
+0,2,1,1,2,1,2,13,0,6,Burnley,Manchester City,February-3-2021
+0,1,9,3,2,3,16,10,3,3,Liverpool,Fulham,March-7-2021
+0,1,5,3,1,0,9,15,5,4,Tottenham,Everton,September-13-2020
+2,1,6,1,0,1,13,4,5,2,Leicester City,Crystal Palace,April-26-2021
+2,1,4,2,1,1,10,9,3,3,Manchester City,West Ham,February-27-2021
+1,0,2,9,3,0,7,17,3,4,Sheffield Utd,Brighton,April-24-2021
+1,3,3,3,0,3,10,13,1,8,Wolves,Manchester City,September-21-2020
+0,2,1,7,1,0,8,8,3,1,Sheffield Utd,Chelsea,February-7-2021
+0,1,5,6,2,1,11,9,0,3,West Ham,Everton,May-9-2021
+2,0,7,3,0,0,16,5,5,1,Arsenal,Brighton,May-23-2021
+0,1,4,2,0,0,7,11,1,4,Liverpool,Chelsea,March-4-2021
+2,0,4,3,1,3,8,9,6,5,Leicester City,Chelsea,January-19-2021
+2,0,8,5,0,0,18,10,5,4,Chelsea,Newcastle Utd,February-15-2021
+0,0,7,3,1,1,11,12,4,2,Arsenal,Crystal Palace,January-14-2021
+3,2,5,7,3,2,23,19,8,5,Crystal Palace,Aston Villa,May-16-2021
+1,1,1,3,2,0,20,7,9,2,Wolves,Southampton,November-23-2020
+0,4,3,9,0,1,4,14,1,6,West Brom,Leeds United,December-29-2020
+0,1,9,4,1,3,16,10,6,3,Everton,Sheffield Utd,May-16-2021
+1,3,2,7,2,1,8,11,3,3,Leicester City,Arsenal,February-28-2021
+1,2,3,3,2,2,7,9,3,3,Southampton,Wolves,February-14-2021
+0,7,3,3,1,0,5,14,3,7,Crystal Palace,Liverpool,December-19-2020
+1,2,7,4,0,4,14,14,4,5,Everton,Burnley,March-13-2021
+2,0,4,6,0,2,15,11,5,2,Wolves,Crystal Palace,October-30-2020
+0,0,5,2,1,3,13,13,1,3,Wolves,Leicester City,February-7-2021
+1,2,1,5,2,1,8,13,3,3,Aston Villa,Manchester City,April-21-2021
+0,1,6,3,2,1,13,7,2,3,Leeds United,Wolves,October-19-2020
+0,0,6,1,1,1,27,6,6,4,Aston Villa,Burnley,December-17-2020
+1,0,5,2,2,3,8,8,1,2,Leicester City,Wolves,November-8-2020
+1,4,4,6,2,2,9,18,4,6,West Brom,Crystal Palace,December-6-2020
+1,3,4,3,0,0,19,15,6,6,West Ham,Manchester Utd,December-5-2020
+4,0,6,1,0,2,19,1,9,0,Leicester City,Sheffield Utd,March-14-2021
+0,0,4,3,2,1,17,8,3,4,Liverpool,Manchester Utd,January-17-2021
+3,0,8,2,0,1,16,3,6,0,Southampton,Sheffield Utd,December-13-2020
+0,3,0,4,1,1,7,14,2,5,Sheffield Utd,Arsenal,April-11-2021
+2,2,6,3,1,1,17,12,6,3,Everton,Tottenham,April-16-2021
+2,1,4,4,2,4,10,15,3,4,Newcastle Utd,Everton,November-1-2020
+0,2,1,1,2,3,5,11,2,4,Leicester City,Manchester City,April-3-2021
+3,1,3,4,1,2,15,12,7,1,Arsenal,West Brom,May-9-2021
+1,1,1,5,0,2,9,14,5,6,Sheffield Utd,Fulham,October-18-2020
+3,1,3,6,0,2,10,9,6,3,Crystal Palace,Leeds United,November-7-2020
+1,0,5,4,2,3,8,10,3,3,Everton,Chelsea,December-12-2020
+1,0,5,2,0,2,16,11,5,1,Newcastle Utd,Sheffield Utd,May-19-2021
+2,0,9,3,1,0,24,15,11,3,Tottenham,Wolves,May-16-2021
+2,1,3,5,1,1,6,15,2,6,West Ham,Aston Villa,November-30-2020
+1,1,1,2,1,1,9,15,5,2,Burnley,Arsenal,March-6-2021
+1,0,6,4,3,1,18,3,2,0,Aston Villa,Sheffield Utd,September-21-2020
+1,0,2,0,2,3,12,15,3,6,Newcastle Utd,Aston Villa,March-12-2021
+1,2,6,5,1,3,4,13,1,4,Sheffield Utd,Leicester City,December-6-2020
+2,5,3,1,4,3,13,9,6,6,Southampton,Tottenham,September-20-2020
+1,3,5,1,3,1,9,18,2,6,Chelsea,Manchester City,January-3-2021

@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Bryan Mbeumo,Brentford,0.03,,Off Target,17.0,Left Foot,Volley,Rico Henry,Pass (Live),Frank Onyeka,Pass (Live)
+1,5,Harry Kane,Tottenham,0.04,0.07,Saved,17.0,Right Foot,Deflected,Dejan Kulusevski,Pass (Live),Arnaut Danjuma,Pass (Live)
+2,8,Harry Kane,Tottenham,0.02,0.57,Goal,29.0,Right Foot,Free kick,Dejan Kulusevski,Pass (Dead),Oliver Skipp,Fouled
+3,11,Son Heung-min,Tottenham,0.12,0.23,Saved,16.0,Left Foot,,Harry Kane,Pass (Live),Oliver Skipp,Interception
+4,24,Emerson,Tottenham,0.03,,Blocked,11.0,Head,,Son Heung-min,Pass (Live),Dejan Kulusevski,Pass (Live)
+5,24,Davinson Sánchez,Tottenham,0.11,,Off Target,8.0,Head,,Dejan Kulusevski,Pass (Dead),Emerson,Shot
+6,29,Bryan Mbeumo,Brentford,0.04,,Off Target,13.0,Head,,Yoane Wissa,Pass (Live),Vitaly Janelt,Pass (Live)
+7,32,Yoane Wissa,Brentford,0.07,,Blocked,17.0,Right Foot,Volley,Rico Henry,Pass (Live),Yoane Wissa,Pass (Live)
+8,35,Mathias Jensen,Brentford,0.04,,Off Target,25.0,Right Foot,,Frank Onyeka,Pass (Live),Kevin Schade,Pass (Live)
+9,43,Arnaut Danjuma,Tottenham,0.19,,Off Target,10.0,Head,,Son Heung-min,Pass (Live),Emerson,Pass (Live)
+10,45+1,Son Heung-min,Tottenham,0.24,,Blocked,11.0,Right Foot,,Dejan Kulusevski,Pass (Live),Son Heung-min,Pass (Live)
+11,45+4,Dejan Kulusevski,Tottenham,0.05,,Blocked,23.0,Right Foot,,Son Heung-min,Pass (Live),Ben Davies,Pass (Live)
+12,45+4,Dejan Kulusevski,Tottenham,0.09,0.15,Saved,14.0,Left Foot,,Ben Davies,Pass (Dead),,
+13,,,,,,,,,,,,,
+14,50,Bryan Mbeumo,Brentford,0.07,0.25,Goal,17.0,Left Foot,,Yoane Wissa,Pass (Live),Mikkel Damsgaard,Pass (Live)
+15,53,Emerson,Tottenham,0.01,,Blocked,29.0,Right Foot,,Son Heung-min,Pass (Live),Dejan Kulusevski,Pass (Dead)
+16,56,Bryan Mbeumo,Brentford,0.04,0.05,Saved,19.0,Left Foot,Volley,Ethan Pinnock,Pass (Live),Mathias Jensen,Pass (Dead)
+17,57,Harry Kane,Tottenham,0.04,,Off Target,20.0,Right Foot,,Dejan Kulusevski,Pass (Live),Dejan Kulusevski,Take-On
+18,59,Bryan Mbeumo,Brentford,0.11,,Off Target,8.0,Head,,Yoane Wissa,Pass (Live),Mathias Jensen,Pass (Live)
+19,61,Mathias Jensen,Brentford,0.03,,Off Target,33.0,Right Foot,Volley,,,,
+20,62,Bryan Mbeumo,Brentford,0.09,0.89,Goal,12.0,Left Foot,,Aaron Hickey,Pass (Live),Ethan Pinnock,Pass (Live)
+21,76,Rico Henry,Brentford,0.01,,Off Target,29.0,Left Foot,Volley,,,,
+22,80,Harry Kane,Tottenham,0.02,,Off Target,23.0,Left Foot,,Richarlison,Pass (Live),Harry Kane,Pass (Live)
+23,82,Richarlison,Tottenham,0.08,0.23,Saved,10.0,Head,,Lucas Moura,Pass (Live),Ben Davies,Pass (Live)
+24,85,Lucas Moura,Tottenham,0.09,,Blocked,8.0,Head,,Pedro Porro,Pass (Dead),Yves Bissouma,Pass (Live)
+25,88,Yoane Wissa,Brentford,0.7,0.92,Goal,10.0,Left Foot,,Bryan Mbeumo,Pass (Live),Shandon Baptiste,Pass (Live)
+26,90+1,Richarlison,Tottenham,0.09,0.18,Saved,7.0,Head,,Son Heung-min,Pass (Live),Yves Bissouma,Pass (Live)
+27,90+2,Richarlison,Tottenham,0.2,0.14,Saved,4.0,Head,,Richarlison,Shot,,
+28,90+2,Son Heung-min,Tottenham,0.03,,Blocked,19.0,Left Foot,,Son Heung-min,Take-On,Richarlison,Shot
+29,90+2,Lucas Moura,Tottenham,0.05,,Off Target,13.0,Right Foot,,Son Heung-min,Shot,,
+30,90+5,Pedro Porro,Tottenham,0.12,,Blocked,11.0,Right Foot,,Clément Lenglet,Pass (Live),Yves Bissouma,Pass (Live)
+31,90+5,Pedro Porro,Tottenham,0.01,,Blocked,25.0,Left Foot,,Pedro Porro,Shot,,
+32,90+6,Clément Lenglet,Tottenham,0.08,,Blocked,9.0,Head,,Pedro Porro,Pass (Live),Oliver Skipp,Pass (Live)
+33,90+7,Pedro Porro,Tottenham,0.02,,Off Target,23.0,Right Foot,Volley,Son Heung-min,Pass (Live),Ivan Perišić,Pass (Live)

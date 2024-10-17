@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Anthony Gordon,Newcastle Utd,0.08,,Off Target,8.0,Other,,Kieran Trippier,Pass (Live),Miguel Almirón,Pass (Live)
+1,6,Rayan Aït-Nouri,Wolves,0.03,,Off Target,21.0,Right Foot,,Mario Lemina,Pass (Live),Mario Lemina,Pass (Live)
+2,7,Sean Longstaff,Newcastle Utd,0.02,,Off Target,15.0,Right Foot,,Joelinton,Pass (Live),Kieran Trippier,Pass (Live)
+3,9,Boubacar Traoré,Wolves,0.02,,Blocked,21.0,Right Foot,Volley,,,,
+4,11,Boubacar Traoré,Wolves,0.02,,Off Target,37.0,Right Foot,,,,,
+5,19,Matheus Cunha,Wolves,0.07,0.05,Saved,21.0,Right Foot,,Hwang Hee-chan,Pass (Live),Matheus Cunha,Pass (Live)
+6,22,Callum Wilson,Newcastle Utd,0.39,,Blocked,8.0,Right Foot,,Joelinton,Pass (Live),Fabian Schär,Pass (Live)
+7,22,Callum Wilson,Newcastle Utd,0.57,0.91,Goal,6.0,Right Foot,Volley,Callum Wilson,Shot,,
+8,28,Matheus Cunha,Wolves,0.1,0.32,Saved,13.0,Left Foot,,Matheus Cunha,Take-On,Matheus Cunha,Take-On
+9,30,Sean Longstaff,Newcastle Utd,0.08,,Blocked,21.0,Right Foot,,Bruno Guimarães,Pass (Live),Bruno Guimarães,Take-On
+10,36,Pedro Neto,Wolves,0.03,0.06,Saved,15.0,Left Foot,,Boubacar Traoré,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+11,36,Mario Lemina,Wolves,0.07,0.19,Goal,9.0,Head,,Pedro Neto,Pass (Dead),Pedro Neto,Shot
+12,41,Sean Longstaff,Newcastle Utd,0.07,,Blocked,9.0,Right Foot,,Fabian Schär,Pass (Live),Miguel Almirón,Pass (Live)
+13,42,Bruno Guimarães,Newcastle Utd,0.06,,Blocked,17.0,Right Foot,,Bruno Guimarães,Take-On,Bruno Guimarães,Take-On
+14,45+4,Callum Wilson (pen),Newcastle Utd,0.79,0.89,Goal,13.0,Right Foot,,Fabian Schär,Fouled,Fabian Schär,Tackle
+15,45+7,Joelinton,Newcastle Utd,0.09,0.12,Saved,21.0,Right Foot,,Joelinton,Take-On,,
+16,,,,,,,,,,,,,
+17,49,Pedro Neto,Wolves,0.08,,Blocked,27.0,Left Foot,Free kick,Pedro Neto,Fouled,Pedro Neto,Take-On
+18,64,Matheus Cunha,Wolves,0.07,0.21,Saved,5.0,Right Foot,,Tommy Doyle,Pass (Live),Max Kilman,Pass (Live)
+19,71,Hwang Hee-chan,Wolves,0.35,0.44,Goal,8.0,Left Foot,,Hwang Hee-chan,Take-On,Toti Gomes,Pass (Live)
+20,80,Fabian Schär,Newcastle Utd,0.1,,Off Target,8.0,Head,,Kieran Trippier,Pass (Live),Joelinton,Pass (Live)
+21,85,Dan Burn,Newcastle Utd,0.07,0.02,Saved,18.0,Right Foot,,Joelinton,Pass (Live),Joe Willock,Pass (Live)
+22,90,Matheus Cunha,Wolves,0.07,,Blocked,11.0,Right Foot,,Hwang Hee-chan,Pass (Live),João Gomes,Pass (Live)
+23,90+3,Callum Wilson,Newcastle Utd,0.07,,Blocked,11.0,Left Foot,Volley,,,,
+24,90+3,Fabian Schär,Newcastle Utd,0.03,,Blocked,15.0,Right Foot,,Sean Longstaff,Pass (Live),Anthony Gordon,Pass (Live)

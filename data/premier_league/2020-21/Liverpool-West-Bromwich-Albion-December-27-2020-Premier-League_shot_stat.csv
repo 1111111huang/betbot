@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7.0,Fabinho,Liverpool,0.02,,Off Target,34.0,Right Foot,,Andrew Robertson,Pass (Live),Jordan Henderson,Pass (Live)
+1,12.0,Sadio Mané,Liverpool,0.44,0.86,Goal,11.0,Right Foot,Volley,Joël Matip,Pass (Live),Fabinho,Pass (Live)
+2,20.0,Trent Alexander-Arnold,Liverpool,0.03,,Blocked,27.0,Left Foot,,Georginio Wijnaldum,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+3,21.0,Sadio Mané,Liverpool,0.05,,Off Target,16.0,Head,,Jordan Henderson,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+4,23.0,Sadio Mané,Liverpool,0.27,,Blocked,5.0,Left Foot,,Trent Alexander-Arnold,Pass (Live),Curtis Jones,Pass (Live)
+5,23.0,Georginio Wijnaldum,Liverpool,0.05,,Off Target,9.0,Head,,Trent Alexander-Arnold,Pass (Dead),Sadio Mané,Shot
+6,28.0,Roberto Firmino,Liverpool,0.03,,Blocked,24.0,Left Foot,,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+7,30.0,Trent Alexander-Arnold,Liverpool,0.07,,Off Target,29.0,Right Foot,Free kick,Curtis Jones,Fouled,Jordan Henderson,Pass (Live)
+8,32.0,Romaine Sawyers,West Brom,0.03,,Blocked,25.0,Right Foot,Volley,Matt Phillips,Pass (Live),Callum Robinson,Pass (Live)
+9,34.0,Mohamed Salah,Liverpool,0.03,,Off Target,21.0,Left Foot,,Sadio Mané,Fouled,Andrew Robertson,Pass (Live)
+10,43.0,Mohamed Salah,Liverpool,0.05,,Off Target,13.0,Head,,Trent Alexander-Arnold,Pass (Live),Jordan Henderson,Pass (Live)
+11,,,,,,,,,,,,,
+12,46.0,Jordan Henderson,Liverpool,0.03,,Off Target,26.0,Right Foot,,Georginio Wijnaldum,Pass (Live),Andrew Robertson,Pass (Live)
+13,51.0,Karlan Grant,West Brom,0.05,0.02,Saved,21.0,Left Foot,Deflected,Darnell Furlong,Pass (Live),Romaine Sawyers,Pass (Live)
+14,65.0,Mohamed Salah,Liverpool,0.06,,Off Target,10.0,Head,,Georginio Wijnaldum,Pass (Live),Jordan Henderson,Pass (Live)
+15,68.0,Grady Diangana,West Brom,0.06,,Off Target,18.0,Left Foot,Volley,Callum Robinson,Pass (Live),Matt Phillips,Pass (Live)
+16,72.0,Karlan Grant,West Brom,0.36,0.69,Saved,15.0,Left Foot,,Romaine Sawyers,Pass (Live),,
+17,78.0,Trent Alexander-Arnold,Liverpool,0.05,,Off Target,33.0,Right Foot,Free kick,Jordan Henderson,Fouled,Sadio Mané,Pass (Live)
+18,82.0,Semi Ajayi,West Brom,0.07,0.25,Goal,9.0,Head,,Matheus Pereira,Pass (Live),Romaine Sawyers,Pass (Live)
+19,84.0,Alex Oxlade-Chamberlain,Liverpool,0.02,,Off Target,26.0,Right Foot,Volley,,,,
+20,86.0,Alex Oxlade-Chamberlain,Liverpool,0.04,,Blocked,23.0,Right Foot,,Sadio Mané,Pass (Live),Fabinho,Pass (Live)
+21,89.0,Roberto Firmino,Liverpool,0.25,0.68,Saved,7.0,Head,,Alex Oxlade-Chamberlain,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+22,90.0,Rhys Williams,Liverpool,0.04,,Off Target,12.0,Head,,Trent Alexander-Arnold,Pass (Dead),Roberto Firmino,Shot

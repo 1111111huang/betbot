@@ -1,0 +1,37 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Declan Rice (pen),West Ham,0.79,,Woodwork,13.0,Right Foot,,Michail Antonio,Fouled,,
+1,8,Matheus Pereira,West Brom,0.13,0.25,Saved,10.0,Head,,Kyle Bartley,Pass (Live),Conor Townsend,Pass (Dead)
+2,12,Saïd Benrahma,West Ham,0.03,0.04,Saved,27.0,Right Foot,,Aaron Cresswell,Pass (Live),Tomáš Souček,Pass (Live)
+3,13,Angelo Ogbonna,West Ham,0.14,,Off Target,4.0,Left Foot,,Saïd Benrahma,Shot,,
+4,21,Craig Dawson,West Ham,0.04,,Off Target,16.0,Right Foot,Volley,Jesse Lingard,Pass (Live),Pablo Fornals,Pass (Live)
+5,21,Michail Antonio,West Ham,0.05,,Off Target,11.0,Head,,Vladimír Coufal,Pass (Live),Jesse Lingard,Pass (Live)
+6,22,Matheus Pereira,West Brom,0.03,,Off Target,28.0,Left Foot,,Hal Robson-Kanu,Pass (Live),Conor Gallagher,Pass (Live)
+7,27,Matheus Pereira,West Brom,0.01,0.08,Goal,33.0,Left Foot,Deflected,Kyle Bartley,Pass (Live),Okay Yokuşlu,Pass (Live)
+8,29,Michail Antonio,West Ham,0.07,,Blocked,13.0,Right Foot,Volley,Vladimír Coufal,Pass (Dead),,
+9,35,Conor Townsend,West Brom,0.09,,Blocked,22.0,Left Foot,Free kick,Hal Robson-Kanu,Fouled,Matheus Pereira,Pass (Live)
+10,35,Conor Townsend,West Brom,0.02,,Blocked,24.0,Left Foot,Deflected,Conor Townsend,Shot,,
+11,35,Matheus Pereira,West Brom,0.07,0.08,Saved,15.0,Left Foot,Deflected,Conor Townsend,Shot,,
+12,37,Hal Robson-Kanu,West Brom,0.07,,Blocked,14.0,Left Foot,,Matt Phillips,Pass (Live),Matheus Pereira,Pass (Live)
+13,38,Pablo Fornals,West Ham,0.05,,Blocked,17.0,Left Foot,,Michail Antonio,Pass (Live),Saïd Benrahma,Pass (Live)
+14,38,Tomáš Souček,West Ham,0.03,,Off Target,25.0,Right Foot,,Pablo Fornals,Shot,,
+15,40,Jesse Lingard,West Ham,0.03,0.6,Saved,19.0,Right Foot,,Pablo Fornals,Pass (Live),Tomáš Souček,Pass (Live)
+16,41,Tomáš Souček,West Ham,0.04,0.08,Saved,13.0,Head,,Jesse Lingard,Pass (Dead),Jesse Lingard,Shot
+17,43,Pablo Fornals,West Ham,0.03,,Blocked,24.0,Right Foot,,Jesse Lingard,Pass (Live),Aaron Cresswell,Pass (Live)
+18,45,Matt Phillips,West Brom,0.04,,Off Target,23.0,Right Foot,,,,,
+19,45+1,Tomáš Souček,West Ham,0.91,0.98,Goal,1.0,Left Foot,,Saïd Benrahma,Pass (Live),Tomáš Souček,Pass (Live)
+20,,,,,,,,,,,,,
+21,49,Pablo Fornals,West Ham,0.06,,Off Target,17.0,Right Foot,,Saïd Benrahma,Pass (Live),Saïd Benrahma,Take-On
+22,55,Matheus Pereira,West Brom,0.06,,Blocked,17.0,Right Foot,,Matheus Pereira,Take-On,Conor Gallagher,Pass (Live)
+23,56,Semi Ajayi,West Brom,0.44,0.26,Saved,5.0,Right Foot,,Semi Ajayi,Take-On,Conor Townsend,Pass (Dead)
+24,62,Tomáš Souček,West Ham,0.05,,Off Target,8.0,Head,,Aaron Cresswell,Pass (Dead),Pablo Fornals,Pass (Live)
+25,65,Aaron Cresswell,West Ham,0.04,,Woodwork,35.0,Left Foot,Free kick,Michail Antonio,Fouled,Jesse Lingard,Pass (Live)
+26,68,Matheus Pereira,West Brom,0.05,,Off Target,23.0,Left Foot,,Hal Robson-Kanu,Pass (Live),Matheus Pereira,Pass (Live)
+27,71,Tomáš Souček,West Ham,0.04,,Off Target,22.0,Right Foot,Volley,Saïd Benrahma,Pass (Live),Tomáš Souček,Pass (Live)
+28,73,Grady Diangana,West Brom,0.03,,Off Target,25.0,Left Foot,,Semi Ajayi,Pass (Live),,
+29,74,Hal Robson-Kanu,West Brom,0.03,,Blocked,22.0,Left Foot,,,,,
+30,76,Pablo Fornals,West Ham,0.05,0.06,Saved,15.0,Right Foot,,Declan Rice,Pass (Live),Declan Rice,Take-On
+31,78,Semi Ajayi,West Brom,0.07,,Off Target,11.0,Head,,Darnell Furlong,Pass (Dead),Conor Gallagher,Pass (Live)
+32,81,Pablo Fornals,West Ham,0.42,0.68,Saved,9.0,Right Foot,,Jarrod Bowen,Pass (Live),Jesse Lingard,Pass (Live)
+33,82,Angelo Ogbonna,West Ham,0.32,0.57,Goal,3.0,Head,,Aaron Cresswell,Pass (Dead),Pablo Fornals,Shot
+34,88,Michail Antonio,West Ham,0.33,0.44,Goal,14.0,Right Foot,,Jesse Lingard,Pass (Live),Pablo Fornals,Pass (Live)
+35,90+1,Vladimír Coufal,West Ham,0.05,0.03,Saved,17.0,Right Foot,,Jesse Lingard,Pass (Live),,

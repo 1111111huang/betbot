@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Diego Costa,Wolves,0.07,,Blocked,5.0,Head,,João Moutinho,Pass (Dead),,
+1,10,Scott McKenna,Nott'ham Forest,0.06,,Off Target,8.0,Head,,Morgan Gibbs-White,Pass (Dead),Neco Williams,Pass (Dead)
+2,18,Rayan Aït-Nouri,Wolves,0.03,,Off Target,11.0,Head,,Adama Traoré,Pass (Live),João Moutinho,Pass (Live)
+3,19,Brennan Johnson,Nott'ham Forest,0.05,,Blocked,18.0,Left Foot,,,,,
+4,20,Adama Traoré,Wolves,0.11,,Off Target,15.0,Right Foot,,Matheus Nunes,Pass (Live),Daniel Podence,Pass (Live)
+5,26,Neco Williams,Nott'ham Forest,0.09,,Off Target,16.0,Right Foot,Volley,Neco Williams,Pass (Live),Ryan Yates,Pass (Live)
+6,36,Rayan Aït-Nouri,Wolves,0.07,,Off Target,16.0,Left Foot,,Daniel Podence,Pass (Live),Adama Traoré,Pass (Live)
+7,39,Max Kilman,Wolves,0.09,,Woodwork,9.0,Head,,Adama Traoré,Pass (Live),Daniel Podence,Pass (Live)
+8,42,Adama Traoré,Wolves,0.06,,Off Target,14.0,Left Foot,,Adama Traoré,Pass (Live),Matheus Nunes,Pass (Live)
+9,45,Cheikhou Kouyaté,Nott'ham Forest,0.0,0.32,Saved,21.0,Head,,Neco Williams,Pass (Live),Remo Freuler,Pass (Live)
+10,,,,,,,,,,,,,
+11,50,Morgan Gibbs-White,Nott'ham Forest,0.07,,Off Target,17.0,Right Foot,,Remo Freuler,Pass (Live),,
+12,52,Adama Traoré,Wolves,0.08,,Blocked,16.0,Left Foot,,João Moutinho,Pass (Live),Rúben Neves,Pass (Live)
+13,56,Rúben Neves (pen),Wolves,0.79,0.99,Goal,13.0,Right Foot,,,Fouled,Adama Traoré,Shot
+14,61,Morgan Gibbs-White,Nott'ham Forest,0.09,,Off Target,28.0,Right Foot,Free kick,Emmanuel Dennis,Fouled,,
+15,71,Rúben Neves,Wolves,0.01,0.03,Saved,34.0,Right Foot,Volley,Daniel Podence,Pass (Live),João Moutinho,Pass (Live)
+16,74,Orel Mangala,Nott'ham Forest,0.05,,Blocked,25.0,Right Foot,,Jesse Lingard,Pass (Live),Ryan Yates,Pass (Live)
+17,79,Brennan Johnson (pen),Nott'ham Forest,0.79,0.99,Saved,13.0,Right Foot,,Ryan Yates,Fouled,,
+18,87,Orel Mangala,Nott'ham Forest,0.04,,Off Target,27.0,Right Foot,Volley,,,,
+19,90+1,Ryan Yates,Nott'ham Forest,0.24,,Off Target,5.0,Head,,Steve Cook,Pass (Live),Morgan Gibbs-White,Pass (Dead)

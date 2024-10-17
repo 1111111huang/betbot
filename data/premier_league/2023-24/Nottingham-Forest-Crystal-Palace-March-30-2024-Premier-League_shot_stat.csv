@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Felipe,Nott'ham Forest,0.01,,Blocked,36.0,Right Foot,,Ola Aina,Pass (Live),Murillo,Pass (Live)
+1,11.0,Jean-Philippe Mateta,Crystal Palace,0.14,0.24,Goal,17.0,Right Foot,,Eberechi Eze,Pass (Live),Jefferson Lerma,Pass (Live)
+2,12.0,Callum Hudson-Odoi,Nott'ham Forest,0.02,0.05,Saved,23.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Ryan Yates,Pass (Live)
+3,15.0,Daniel Muñoz,Crystal Palace,0.11,,Off Target,4.0,Head,,Eberechi Eze,Pass (Dead),Daniel Muñoz,Fouled
+4,22.0,Murillo,Nott'ham Forest,0.04,,Blocked,22.0,Right Foot,,Morgan Gibbs-White,Pass (Dead),,
+5,23.0,Divock Origi,Nott'ham Forest,0.05,,Blocked,14.0,Right Foot,,Ryan Yates,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+6,29.0,Ibrahim Sangaré,Nott'ham Forest,0.02,,Off Target,29.0,Right Foot,,Ryan Yates,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+7,38.0,Eberechi Eze,Crystal Palace,0.47,0.5,Saved,16.0,Right Foot,,Adam Wharton,Pass (Live),Daniel Muñoz,Pass (Live)
+8,44.0,Jean-Philippe Mateta,Crystal Palace,0.11,,Blocked,6.0,Right Foot,,Tyrick Mitchell,Pass (Live),Tyrick Mitchell,Take-On
+9,45.0,Jefferson Lerma,Crystal Palace,0.04,,Off Target,28.0,Right Foot,,,,,
+10,,,,,,,,,,,,,
+11,51.0,Eberechi Eze,Crystal Palace,0.1,,Off Target,11.0,Right Foot,,Adam Wharton,Pass (Live),Eberechi Eze,Pass (Live)
+12,52.0,Callum Hudson-Odoi,Nott'ham Forest,0.04,0.15,Saved,18.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Anthony Elanga,Pass (Live)
+13,56.0,Jordan Ayew,Crystal Palace,0.04,,Off Target,30.0,Right Foot,,,,,
+14,57.0,Chris Wood,Nott'ham Forest,0.1,,Off Target,9.0,Head,,Neco Williams,Pass (Live),Divock Origi,Pass (Live)
+15,58.0,Ola Aina,Nott'ham Forest,0.01,,Blocked,30.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Anthony Elanga,Pass (Live)
+16,61.0,Chris Wood,Nott'ham Forest,0.48,0.65,Goal,5.0,Head,,Morgan Gibbs-White,Pass (Live),Gio Reyna,Pass (Live)
+17,68.0,Adam Wharton,Crystal Palace,0.02,,Off Target,30.0,Left Foot,,Jefferson Lerma,Pass (Live),Eberechi Eze,Pass (Dead)
+18,69.0,Eberechi Eze,Crystal Palace,0.14,0.02,Saved,13.0,Left Foot,,,,,
+19,71.0,Chris Wood,Nott'ham Forest,0.06,0.03,Saved,11.0,Head,,Morgan Gibbs-White,Pass (Dead),Ola Aina,Fouled
+20,74.0,Gio Reyna,Nott'ham Forest,0.07,0.16,Saved,21.0,Left Foot,,Gio Reyna,Take-On,Callum Hudson-Odoi,Pass (Live)
+21,74.0,Morgan Gibbs-White,Nott'ham Forest,0.02,,Off Target,29.0,Right Foot,Volley,Morgan Gibbs-White,Pass (Dead),Morgan Gibbs-White,Fouled
+22,88.0,Jefferson Lerma,Crystal Palace,0.03,,Off Target,29.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Jean-Philippe Mateta,Pass (Live)

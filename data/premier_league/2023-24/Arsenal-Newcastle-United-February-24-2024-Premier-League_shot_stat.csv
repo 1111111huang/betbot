@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,William Saliba,Arsenal,0.12,,Blocked,6.0,Head,,Declan Rice,Pass (Dead),Kai Havertz,Pass (Live)
+1,2,Bukayo Saka,Arsenal,0.02,,Off Target,24.0,Left Foot,,Jorginho,Pass (Live),Ben White,Pass (Live)
+2,8,Bukayo Saka,Arsenal,0.04,,Blocked,14.0,Left Foot,,Declan Rice,Pass (Live),Kai Havertz,Pass (Live)
+3,10,Declan Rice,Arsenal,0.06,0.08,Saved,16.0,Right Foot,,Martin Ødegaard,Pass (Live),Jorginho,Pass (Live)
+4,13,Gabriel Martinelli,Arsenal,0.01,,Off Target,16.0,Head,,Martin Ødegaard,Pass (Live),Ben White,Pass (Live)
+5,18,Gabriel Magalhães,Arsenal,0.21,0.14,Saved,4.0,Head,,Bukayo Saka,Pass (Dead),Kai Havertz,Pass (Live)
+6,23,Gabriel Martinelli,Arsenal,0.02,,Blocked,25.0,Right Foot,,,,,
+7,24,Kai Havertz,Arsenal,0.64,0.69,Goal,7.0,Right Foot,,Gabriel Martinelli,Pass (Live),Jorginho,Pass (Live)
+8,31,Gabriel Martinelli,Arsenal,0.51,,Off Target,9.0,Head,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+9,35,Gabriel Martinelli,Arsenal,0.04,,Off Target,17.0,Right Foot,,Gabriel Martinelli,Pass (Live),Kai Havertz,Pass (Live)
+10,38,Bukayo Saka,Arsenal,0.05,0.37,Saved,13.0,Right Foot,,,,,
+11,,,,,,,,,,,,,
+12,47,Kai Havertz,Arsenal,0.64,,Off Target,15.0,Left Foot,,Gabriel Martinelli,Pass (Live),Bukayo Saka,Pass (Live)
+13,49,Anthony Gordon,Newcastle Utd,0.04,0.22,Saved,19.0,Right Foot,,Valentino Livramento,Pass (Live),,
+14,62,Alexander Isak,Newcastle Utd,0.05,,Off Target,15.0,Right Foot,,Alexander Isak,Take-On,Bruno Guimarães,Pass (Live)
+15,65,Bukayo Saka,Arsenal,0.03,0.41,Goal,16.0,Left Foot,Deflected,Kai Havertz,Pass (Live),Declan Rice,Pass (Live)
+16,69,Jakub Kiwior,Arsenal,0.05,0.1,Goal,6.0,Head,Deflected,Declan Rice,Pass (Dead),Jakub Kiwior,Pass (Live)
+17,80,Emile Smith Rowe,Arsenal,0.1,,Blocked,15.0,Right Foot,,David Raya,Pass (Dead),Leandro Trossard,Fouled
+18,84,Joe Willock,Newcastle Utd,0.07,0.52,Goal,9.0,Head,,Dan Burn,Pass (Live),Anthony Gordon,Pass (Live)
+19,90+3,Emile Smith Rowe,Arsenal,0.2,,Blocked,13.0,Left Foot,,,,,
+20,90+3,Reiss Nelson,Arsenal,0.03,0.23,Saved,23.0,Right Foot,,Declan Rice,Pass (Live),Emile Smith Rowe,Pass (Live)
+21,90+5,Emile Smith Rowe,Arsenal,0.08,,Off Target,10.0,Head,,Reiss Nelson,Pass (Live),Mohamed Elneny,Pass (Live)

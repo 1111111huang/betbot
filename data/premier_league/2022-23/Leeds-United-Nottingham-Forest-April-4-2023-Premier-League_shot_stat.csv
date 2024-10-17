@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Marc Roca,Leeds United,0.05,,Blocked,26.0,Left Foot,,Jack Harrison,Pass (Live),Jack Harrison,Take-On
+1,8,Emmanuel Dennis,Nott'ham Forest,0.11,,Woodwork,4.0,Right Foot,Volley,Felipe,Shot,,
+2,8,Felipe,Nott'ham Forest,0.03,,Blocked,8.0,Head,,Morgan Gibbs-White,Pass (Dead),Harry Toffolo,Pass (Live)
+3,8,Remo Freuler,Nott'ham Forest,0.05,,Off Target,11.0,Right Foot,,Emmanuel Dennis,Shot,,
+4,12,Orel Mangala,Nott'ham Forest,0.19,0.3,Goal,17.0,Right Foot,,Emmanuel Dennis,Pass (Live),Danilo,Pass (Live)
+5,13,Luke Ayling,Leeds United,0.04,,Off Target,22.0,Left Foot,,Luis Sinisterra,Pass (Live),Jack Harrison,Pass (Live)
+6,20,Marc Roca,Leeds United,0.03,0.12,Saved,28.0,Left Foot,,Weston McKennie,Pass (Live),Jack Harrison,Pass (Live)
+7,20,Jack Harrison,Leeds United,0.67,0.74,Goal,7.0,Left Foot,,Marc Roca,Shot,,
+8,24,Luis Sinisterra,Leeds United,0.02,,Blocked,23.0,Right Foot,,Luke Ayling,Pass (Live),Jack Harrison,Pass (Live)
+9,31,Robin Koch,Leeds United,0.04,,Off Target,13.0,Right Foot,Volley,Brenden Aaronson,Pass (Dead),Jack Harrison,Pass (Live)
+10,35,Patrick Bamford,Leeds United,0.17,,Off Target,5.0,Left Foot,,Marc Roca,Pass (Live),Marc Roca,Take-On
+11,36,Patrick Bamford,Leeds United,0.15,,Blocked,10.0,Right Foot,,Luis Sinisterra,Pass (Live),Patrick Bamford,Shot
+12,45+1,Luis Sinisterra,Leeds United,0.05,0.34,Goal,16.0,Right Foot,,Junior Firpo,Pass (Live),Patrick Bamford,Pass (Live)
+13,,,,,,,,,,,,,
+14,46,Jack Harrison,Leeds United,0.03,,Blocked,27.0,Left Foot,,Luis Sinisterra,Pass (Live),Jack Harrison,Pass (Live)
+15,47,Marc Roca,Leeds United,0.05,,Blocked,16.0,Right Foot,,Marc Roca,Take-On,Weston McKennie,Pass (Live)
+16,48,Emmanuel Dennis,Nott'ham Forest,0.04,,Blocked,17.0,Right Foot,,Danilo,Pass (Live),Brennan Johnson,Pass (Live)
+17,51,Patrick Bamford,Leeds United,0.15,,Blocked,12.0,Left Foot,,Marc Roca,Pass (Live),,
+18,55,Emmanuel Dennis,Nott'ham Forest,0.07,,Blocked,10.0,Head,,Remo Freuler,Pass (Live),Morgan Gibbs-White,Pass (Dead)
+19,55,Morgan Gibbs-White,Nott'ham Forest,0.07,,Blocked,12.0,Right Foot,Volley,,,,
+20,59,Jack Harrison,Leeds United,0.05,,Blocked,13.0,Right Foot,,Marc Roca,Pass (Live),Pascal Struijk,Pass (Live)
+21,60,Jack Harrison,Leeds United,0.02,,Off Target,19.0,Left Foot,,,,,
+22,62,Luis Sinisterra,Leeds United,0.04,0.02,Saved,14.0,Head,,Brenden Aaronson,Pass (Dead),Marc Roca,Fouled
+23,63,Luis Sinisterra,Leeds United,0.03,,Off Target,24.0,Right Foot,,Brenden Aaronson,Pass (Live),Weston McKennie,Pass (Live)
+24,67,Patrick Bamford,Leeds United,0.17,,Off Target,13.0,Left Foot,,,,,
+25,77,Crysencio Summerville,Leeds United,0.03,,Blocked,21.0,Right Foot,,Rodrigo,Pass (Live),Rodrigo,Take-On
+26,77,Weston McKennie,Leeds United,0.04,0.28,Saved,16.0,Right Foot,,Crysencio Summerville,Shot,,
+27,81,Patrick Bamford,Leeds United,0.05,,Blocked,16.0,Left Foot,,Jack Harrison,Pass (Live),Rodrigo,Pass (Live)
+28,85,Rodrigo,Leeds United,0.01,0.04,Saved,20.0,Left Foot,Volley,Pascal Struijk,Pass (Dead),Patrick Bamford,Fouled
+29,86,Neco Williams,Nott'ham Forest,0.08,,Blocked,17.0,Left Foot,,,,,
+30,86,Harry Toffolo,Nott'ham Forest,0.03,,Off Target,26.0,Left Foot,,Neco Williams,Shot,,
+31,88,Gustavo Scarpa,Nott'ham Forest,0.01,,Blocked,35.0,Left Foot,,Moussa Niakhate,Pass (Dead),Brennan Johnson,Pass (Live)
+32,90+1,André Ayew,Nott'ham Forest,0.05,,Blocked,22.0,Left Foot,Volley,Jonjo Shelvey,Pass (Live),Moussa Niakhate,Pass (Live)
+33,90+2,Felipe,Nott'ham Forest,0.05,,Off Target,12.0,Head,,Jonjo Shelvey,Pass (Dead),Gustavo Scarpa,Fouled
+34,90+3,Jonjo Shelvey,Nott'ham Forest,0.04,,Blocked,24.0,Right Foot,Volley,Taiwo Awoniyi,Pass (Live),Jonjo Shelvey,Pass (Live)

@@ -1,0 +1,18 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Michael Olise,Crystal Palace,0.08,,Off Target,12.0,Right Foot,,Wilfried Zaha,Pass (Live),Jeffrey Schlupp,Pass (Live)
+1,9,Christian Pulisic,Chelsea,0.22,,Off Target,6.0,Left Foot,Volley,N'Golo Kanté,Pass (Live),Thiago Silva,Pass (Live)
+2,11,Antonio Rüdiger,Chelsea,0.02,0.22,Saved,36.0,Right Foot,,Malang Sarr,Pass (Live),Jorginho,Pass (Live)
+3,17,Christian Pulisic,Chelsea,0.07,,Blocked,12.0,Right Foot,,N'Golo Kanté,Pass (Live),Kai Havertz,Pass (Live)
+4,20,N'Golo Kanté,Chelsea,0.32,0.28,Saved,16.0,Right Foot,,Malang Sarr,Pass (Live),Antonio Rüdiger,Pass (Live)
+5,37,Malang Sarr,Chelsea,0.04,,Off Target,22.0,Left Foot,,Kai Havertz,Pass (Live),Malang Sarr,Pass (Live)
+6,39,Marc Guéhi,Crystal Palace,0.15,,Blocked,6.0,Head,,Michael Olise,Pass (Dead),Jordan Ayew,Fouled
+7,45+1,Wilfried Zaha,Crystal Palace,0.15,,Off Target,8.0,Right Foot,,Michael Olise,Pass (Live),James McArthur,Pass (Live)
+8,,,,,,,,,,,,,
+9,48,Jeffrey Schlupp,Crystal Palace,0.04,,Blocked,10.0,Head,,Nathaniel Clyne,Pass (Live),Joachim Andersen,Pass (Live)
+10,54,Jeffrey Schlupp,Crystal Palace,0.04,,Off Target,25.0,Left Foot,,,,,
+11,60,Hakim Ziyech,Chelsea,0.07,,Blocked,22.0,Left Foot,Free kick,Kai Havertz,Fouled,N'Golo Kanté,Pass (Live)
+12,60,Hakim Ziyech,Chelsea,0.02,,Blocked,25.0,Left Foot,,Hakim Ziyech,Shot,,
+13,82,Kai Havertz,Chelsea,0.07,,Off Target,9.0,Head,,Andreas Christensen,Pass (Live),Hakim Ziyech,Pass (Live)
+14,87,Cheikhou Kouyaté,Crystal Palace,0.03,,Off Target,27.0,Right Foot,,Marc Guéhi,Pass (Live),Wilfried Zaha,Pass (Live)
+15,89,Hakim Ziyech,Chelsea,0.11,0.03,Goal,5.0,Left Foot,Volley,Marcos Alonso,Pass (Live),Antonio Rüdiger,Pass (Live)
+16,90+1,Wilfried Zaha,Crystal Palace,0.03,,Off Target,14.0,Left Foot,,Wilfried Zaha,Take-On,Wilfried Zaha,Take-On

@@ -1,0 +1,44 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Jacob Ramsey,Aston Villa,0.07,,Off Target,17.0,Right Foot,,Ollie Watkins,Pass (Live),Matt Targett,Pass (Live)
+1,7,Christian Benteke,Crystal Palace,0.07,,Off Target,9.0,Head,,Andros Townsend,Pass (Live),Joel Ward,Pass (Live)
+2,10,Kortney Hause,Aston Villa,0.04,,Off Target,10.0,Head,,Bertrand Traoré,Pass (Dead),,
+3,13,Bertrand Traoré,Aston Villa,0.03,,Blocked,25.0,Left Foot,,Ahmed Elmohamady,Pass (Live),Bertrand Traoré,Pass (Live)
+4,15,Ollie Watkins,Aston Villa,0.05,0.26,Saved,15.0,Right Foot,,Bertrand Traoré,Pass (Live),,
+5,16,Kortney Hause,Aston Villa,0.05,,Off Target,9.0,Head,,Bertrand Traoré,Pass (Dead),Ollie Watkins,Shot
+6,17,John McGinn,Aston Villa,0.03,0.2,Goal,27.0,Left Foot,,Douglas Luiz,Pass (Dead),Ollie Watkins,Fouled
+7,19,Jeffrey Schlupp,Crystal Palace,0.04,0.08,Saved,15.0,Left Foot,,,,,
+8,20,Andros Townsend,Crystal Palace,0.05,,Blocked,19.0,Left Foot,,Eberechi Eze,Pass (Live),Andros Townsend,Pass (Live)
+9,21,Gary Cahill,Crystal Palace,0.07,,Off Target,16.0,Left Foot,Volley,James McCarthy,Fouled,Joel Ward,Pass (Live)
+10,24,Andros Townsend,Crystal Palace,0.05,0.13,Saved,32.0,Left Foot,Free kick,Andros Townsend,Fouled,Joel Ward,Pass (Live)
+11,32,Wilfried Zaha,Crystal Palace,0.04,,Blocked,28.0,Right Foot,,Wilfried Zaha,Take-On,Gary Cahill,Pass (Live)
+12,32,Christian Benteke,Crystal Palace,0.1,0.09,Goal,7.0,Head,,Tyrick Mitchell,Pass (Live),Wilfried Zaha,Pass (Live)
+13,34,Anwar El Ghazi,Aston Villa,0.39,0.21,Goal,9.0,Right Foot,,Ollie Watkins,Pass (Live),John McGinn,Take-On
+14,37,Wilfried Zaha,Crystal Palace,0.03,0.05,Saved,25.0,Right Foot,,Jeffrey Schlupp,Pass (Live),James McCarthy,Pass (Live)
+15,39,Bertrand Traoré,Aston Villa,0.06,,Blocked,14.0,Left Foot,,Ahmed Elmohamady,Pass (Live),Bertrand Traoré,Pass (Live)
+16,42,Andros Townsend,Crystal Palace,0.04,,Blocked,22.0,Right Foot,,Wilfried Zaha,Pass (Live),Wilfried Zaha,Take-On
+17,42,Gary Cahill,Crystal Palace,0.04,,Blocked,10.0,Head,,Andros Townsend,Pass (Live),Joel Ward,Pass (Live)
+18,43,Wilfried Zaha,Crystal Palace,0.04,,Blocked,17.0,Right Foot,,Gary Cahill,Pass (Live),Gary Cahill,Shot
+19,45+2,Ahmed Elmohamady,Aston Villa,0.05,,Off Target,12.0,Head,,Anwar El Ghazi,Pass (Dead),John McGinn,Fouled
+20,,,,,,,,,,,,,
+21,48,Anwar El Ghazi,Aston Villa,0.02,,Off Target,35.0,Right Foot,,Ollie Watkins,Pass (Live),Emiliano Martínez,Pass (Live)
+22,54,Eberechi Eze,Crystal Palace,0.03,,Blocked,30.0,Right Foot,,Christian Benteke,Pass (Live),James McCarthy,Pass (Live)
+23,59,Christian Benteke,Crystal Palace,0.08,0.16,Saved,9.0,Head,,Jeffrey Schlupp,Pass (Live),Andros Townsend,Pass (Live)
+24,59,Andros Townsend,Crystal Palace,0.02,,Blocked,20.0,Left Foot,,Joel Ward,Pass (Live),Christian Benteke,Shot
+25,62,Anwar El Ghazi,Aston Villa,0.06,0.1,Saved,25.0,Right Foot,Free kick,Anwar El Ghazi,Fouled,Douglas Luiz,Pass (Live)
+26,62,Ezri Konsa,Aston Villa,0.11,,Blocked,10.0,Right Foot,,Anwar El Ghazi,Shot,,
+27,67,Jacob Ramsey,Aston Villa,0.06,,Blocked,18.0,Right Foot,,Ollie Watkins,Pass (Live),Jack Grealish,Pass (Dead)
+28,68,Eberechi Eze,Crystal Palace,0.07,,Blocked,16.0,Right Foot,,Eberechi Eze,Take-On,Andros Townsend,Pass (Live)
+29,69,Wilfried Zaha,Crystal Palace,0.07,,Blocked,16.0,Right Foot,,Wilfried Zaha,Take-On,Eberechi Eze,Pass (Live)
+30,70,Eberechi Eze,Crystal Palace,0.02,,Blocked,24.0,Right Foot,,Cheikhou Kouyaté,Pass (Live),Wilfried Zaha,Shot
+31,74,Anwar El Ghazi,Aston Villa,0.06,,Off Target,25.0,Right Foot,Free kick,Jack Grealish,Fouled,Matt Targett,Pass (Dead)
+32,76,Wilfried Zaha,Crystal Palace,0.05,0.06,Goal,14.0,Right Foot,Deflected,Eberechi Eze,Pass (Live),Gary Cahill,Pass (Live)
+33,77,Jacob Ramsey,Aston Villa,0.04,,Blocked,18.0,Right Foot,,Jack Grealish,Pass (Live),Matt Targett,Pass (Dead)
+34,78,John McGinn,Aston Villa,0.04,0.22,Saved,29.0,Left Foot,,Jacob Ramsey,Pass (Live),Jacob Ramsey,Shot
+35,81,Jacob Ramsey,Aston Villa,0.02,,Blocked,23.0,Left Foot,,Jack Grealish,Pass (Live),Ahmed Elmohamady,Pass (Live)
+36,81,Eberechi Eze,Crystal Palace,0.09,,Blocked,11.0,Left Foot,,Wilfried Zaha,Pass (Live),Eberechi Eze,Pass (Live)
+37,82,Eberechi Eze,Crystal Palace,0.01,,Woodwork,27.0,Right Foot,,Gary Cahill,Pass (Live),Wilfried Zaha,Take-On
+38,84,Eberechi Eze,Crystal Palace,0.07,,Blocked,14.0,Right Foot,Volley,Wilfried Zaha,Take-On,Andros Townsend,Pass (Live)
+39,84,Tyrick Mitchell,Crystal Palace,0.79,0.98,Goal,4.0,Other,,Eberechi Eze,Shot,,
+40,87,Eberechi Eze,Crystal Palace,0.06,0.26,Saved,31.0,Right Foot,Free kick,Wilfried Zaha,Fouled,Andros Townsend,Pass (Live)
+41,90+3,Keinan Davis,Aston Villa,0.08,,Off Target,9.0,Other,,Matt Targett,Pass (Live),Jack Grealish,Pass (Live)
+42,90+5,Ezri Konsa,Aston Villa,0.1,,Off Target,9.0,Head,,Matt Targett,Pass (Dead),Wesley Moraes,Fouled

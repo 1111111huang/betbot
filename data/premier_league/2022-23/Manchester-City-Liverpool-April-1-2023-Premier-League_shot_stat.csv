@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Rodri,Manchester City,0.03,0.11,Saved,18.0,Right Foot,,Riyad Mahrez,Pass (Live),Riyad Mahrez,Pass (Live)
+1,15,Riyad Mahrez,Manchester City,0.09,,Off Target,24.0,Left Foot,Free kick,Kevin De Bruyne,Fouled,Kevin De Bruyne,Interception
+2,15,Mohamed Salah,Liverpool,0.09,,Blocked,17.0,Left Foot,,Harvey Elliott,Pass (Live),Jordan Henderson,Pass (Live)
+3,15,Harvey Elliott,Liverpool,0.06,,Blocked,16.0,Left Foot,,Mohamed Salah,Pass (Live),Mohamed Salah,Shot
+4,17,Mohamed Salah,Liverpool,0.13,0.57,Goal,16.0,Left Foot,,Diogo Jota,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+5,21,İlkay Gündoğan,Manchester City,0.08,,Off Target,10.0,Left Foot,,Kevin De Bruyne,Pass (Live),Jack Grealish,Pass (Live)
+6,22,Riyad Mahrez,Manchester City,0.06,,Off Target,16.0,Left Foot,Volley,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Pass (Live)
+7,27,Julián Álvarez,Manchester City,0.51,0.42,Goal,8.0,Right Foot,,Jack Grealish,Pass (Live),İlkay Gündoğan,Pass (Live)
+8,34,Riyad Mahrez,Manchester City,0.06,,Blocked,12.0,Right Foot,,Julián Álvarez,Pass (Live),Kevin De Bruyne,Pass (Live)
+9,44,İlkay Gündoğan,Manchester City,0.05,,Blocked,26.0,Right Foot,,Riyad Mahrez,Pass (Live),Rúben Dias,Pass (Live)
+10,45+1,Rodri,Manchester City,0.03,,Blocked,14.0,Right Foot,Volley,Riyad Mahrez,Pass (Dead),Riyad Mahrez,Pass (Live)
+11,,,,,,,,,,,,,
+12,46,Kevin De Bruyne,Manchester City,0.84,0.56,Goal,8.0,Left Foot,,Julián Álvarez,Pass (Live),Jack Grealish,Pass (Live)
+13,53,Julián Álvarez,Manchester City,0.18,,Blocked,14.0,Left Foot,,Julián Álvarez,Take-On,Riyad Mahrez,Pass (Live)
+14,53,İlkay Gündoğan,Manchester City,0.32,0.96,Goal,8.0,Right Foot,,Julián Álvarez,Shot,,
+15,55,Cody Gakpo,Liverpool,0.06,,Blocked,15.0,Right Foot,,Diogo Jota,Pass (Live),Virgil van Dijk,Pass (Live)
+16,60,Jack Grealish,Manchester City,0.03,0.65,Saved,16.0,Right Foot,,Julián Álvarez,Pass (Live),İlkay Gündoğan,Pass (Live)
+17,74,Jack Grealish,Manchester City,0.37,0.87,Goal,10.0,Right Foot,,Kevin De Bruyne,Pass (Live),Jack Grealish,Pass (Live)
+18,82,Jack Grealish,Manchester City,0.08,0.04,Saved,12.0,Right Foot,Volley,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+19,82,Rodri,Manchester City,0.04,,Blocked,26.0,Right Foot,,Riyad Mahrez,Pass (Live),Jack Grealish,Pass (Live)
+20,86,Julián Álvarez,Manchester City,0.13,0.26,Saved,9.0,Right Foot,,Kevin De Bruyne,Pass (Live),,
+21,86,Riyad Mahrez,Manchester City,0.06,,Blocked,14.0,Left Foot,,Kevin De Bruyne,Pass (Live),Manuel Akanji,Pass (Live)

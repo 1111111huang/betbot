@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Willian,Chelsea,0.04,,Blocked,19.0,Right Foot,,Tammy Abraham,Pass (Live),Willian,Pass (Live)
+1,3,Tammy Abraham,Chelsea,0.05,0.28,Saved,11.0,Right Foot,,,,,
+2,4,Jorginho,Chelsea,0.03,,Off Target,21.0,Right Foot,Volley,Mason Mount,Pass (Dead),Tammy Abraham,Shot
+3,6,Tammy Abraham,Chelsea,0.07,,Off Target,8.0,Left Foot,Volley,Mason Mount,Pass (Live),Fikayo Tomori,Pass (Live)
+4,12,Willian,Chelsea,0.04,,Off Target,23.0,Right Foot,,Mason Mount,Pass (Live),Tammy Abraham,Pass (Live)
+5,15,Willian,Chelsea,0.03,,Blocked,23.0,Right Foot,,Pedro,Pass (Live),Andreas Christensen,Pass (Live)
+6,20,Ross Barkley,Chelsea,0.04,,Blocked,22.0,Left Foot,,Tammy Abraham,Pass (Live),Fikayo Tomori,Pass (Live)
+7,20,Pedro,Chelsea,0.05,,Blocked,14.0,Right Foot,,Ross Barkley,Shot,,
+8,21,Tammy Abraham,Chelsea,0.07,,Blocked,14.0,Right Foot,,Jorginho,Pass (Live),Willian,Pass (Live)
+9,21,Willian,Chelsea,0.04,,Blocked,25.0,Right Foot,,Pedro,Pass (Live),Jorginho,Pass (Live)
+10,35,Ross Barkley,Chelsea,0.03,,Blocked,26.0,Right Foot,,Willian,Pass (Live),Fikayo Tomori,Pass (Live)
+11,35,Ross Barkley,Chelsea,0.07,,Blocked,13.0,Right Foot,,Ross Barkley,Shot,,
+12,36,Ross Barkley,Chelsea,0.44,0.79,Saved,7.0,Right Foot,Volley,Marcos Alonso,Pass (Live),Ross Barkley,Pass (Live)
+13,39,Pedro,Chelsea,0.33,0.29,Saved,14.0,Left Foot,,Jorginho,Pass (Live),Tammy Abraham,Pass (Live)
+14,39,Pedro,Chelsea,0.05,,Blocked,13.0,Right Foot,,Pedro,Shot,,
+15,41,Marcos Alonso,Chelsea,0.55,,Off Target,5.0,Left Foot,,César Azpilicueta,Pass (Live),Mason Mount,Pass (Live)
+16,45+1,Pedro,Chelsea,0.04,0.07,Saved,20.0,Left Foot,,Ross Barkley,Pass (Live),Marcos Alonso,Pass (Live)
+17,,,,,,,,,,,,,
+18,48,Willian,Chelsea,0.03,0.02,Saved,20.0,Right Foot,,Jorginho,Pass (Live),,
+19,50,Jorginho (pen),Chelsea,0.79,0.98,Goal,13.0,Right Foot,,Mason Mount,Fouled,,
+20,51,Pedro,Chelsea,0.06,0.04,Saved,14.0,Right Foot,,Ross Barkley,Pass (Live),Ross Barkley,Interception
+21,60,Pascal Groß,Brighton,0.16,,Off Target,6.0,Other,,Gaëtan Bong,Pass (Live),Pascal Groß,Pass (Live)
+22,61,Tammy Abraham,Chelsea,0.48,0.46,Saved,9.0,Left Foot,,,,,
+23,70,Pascal Groß,Brighton,0.03,,Blocked,26.0,Left Foot,,Martín Montoya,Pass (Live),Lewis Dunk,Pass (Live)
+24,72,Steven Alzate,Brighton,0.07,,Blocked,17.0,Left Foot,,Steven Alzate,Take-On,Gaëtan Bong,Pass (Live)
+25,73,Dan Burn,Brighton,0.16,,Woodwork,6.0,Head,,Pascal Groß,Pass (Dead),Steven Alzate,Shot
+26,76,Willian,Chelsea,0.05,0.11,Goal,13.0,Right Foot,Deflected,Callum Hudson-Odoi,Pass (Live),Marcos Alonso,Pass (Live)
+27,78,Tammy Abraham,Chelsea,0.39,0.59,Saved,10.0,Right Foot,,Mateo Kovačić,Pass (Live),Tammy Abraham,Pass (Live)
+28,85,Michy Batshuayi,Chelsea,0.03,,Blocked,23.0,Left Foot,,Mateo Kovačić,Pass (Live),Fikayo Tomori,Pass (Live)
+29,88,Glenn Murray,Brighton,0.02,,Off Target,34.0,Right Foot,,Adam Webster,Pass (Live),Dale Stephens,Pass (Live)
+30,90+1,Adam Webster,Brighton,0.09,,Off Target,7.0,Head,,Pascal Groß,Pass (Dead),,
+31,90+2,Dan Burn,Brighton,0.04,,Blocked,18.0,Left Foot,,Martín Montoya,Pass (Live),Aaron Connolly,Pass (Live)
+32,90+3,Dale Stephens,Brighton,0.03,0.06,Saved,25.0,Right Foot,,Steven Alzate,Pass (Live),,

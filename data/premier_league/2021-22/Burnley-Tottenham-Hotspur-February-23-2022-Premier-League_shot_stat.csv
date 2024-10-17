@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Dwight McNeil,Burnley,0.02,,Blocked,26.0,Left Foot,,Josh Brownhill,Pass (Live),Dwight McNeil,Pass (Live)
+1,6.0,Josh Brownhill,Burnley,0.01,,Blocked,34.0,Right Foot,,Josh Brownhill,Take-On,Erik Pieters,Pass (Live)
+2,14.0,Josh Brownhill,Burnley,0.02,0.14,Saved,22.0,Right Foot,Volley,,,,
+3,20.0,Cristian Romero,Tottenham,0.08,,Off Target,15.0,Left Foot,,Dejan Kulusevski,Pass (Live),Dejan Kulusevski,Take-On
+4,25.0,Jay Rodriguez,Burnley,0.02,,Blocked,26.0,Right Foot,,Dwight McNeil,Pass (Live),Erik Pieters,Pass (Live)
+5,33.0,Emerson,Tottenham,0.04,,Off Target,22.0,Left Foot,,Emerson,Take-On,Harry Kane,Pass (Live)
+6,43.0,Harry Kane,Tottenham,0.02,,Blocked,29.0,Right Foot,,Ryan Sessegnon,Pass (Live),Rodrigo Bentancur,Pass (Live)
+7,43.0,Josh Brownhill,Burnley,0.02,,Blocked,29.0,Right Foot,,Connor Roberts,Pass (Live),Jack Cork,Pass (Live)
+8,,,,,,,,,,,,,
+9,47.0,Harry Kane,Tottenham,0.13,,Woodwork,8.0,Head,,Son Heung-min,Pass (Dead),Son Heung-min,Fouled
+10,54.0,Wout Weghorst,Burnley,0.01,,Off Target,22.0,Right Foot,Volley,Josh Brownhill,Pass (Dead),Jay Rodriguez,Fouled
+11,57.0,Ben Mee,Burnley,0.02,0.1,Saved,12.0,Head,,Dwight McNeil,Pass (Dead),Dwight McNeil,Fouled
+12,60.0,Harry Kane,Tottenham,0.02,,Off Target,30.0,Left Foot,,Emerson,Pass (Live),,
+13,62.0,Dwight McNeil,Burnley,0.02,,Blocked,14.0,Left Foot,,Dwight McNeil,Take-On,Dwight McNeil,Take-On
+14,64.0,Dejan Kulusevski,Tottenham,0.1,,Off Target,13.0,Left Foot,Volley,Emerson,Pass (Live),Harry Kane,Pass (Live)
+15,64.0,Ben Davies,Tottenham,0.05,0.19,Saved,8.0,Left Foot,,Emerson,Pass (Live),Dejan Kulusevski,Shot
+16,67.0,Dejan Kulusevski,Tottenham,0.03,,Blocked,16.0,Left Foot,,Son Heung-min,Pass (Live),Harry Winks,Pass (Live)
+17,67.0,Cristian Romero,Tottenham,0.03,,Blocked,23.0,Right Foot,,Dejan Kulusevski,Pass (Live),Dejan Kulusevski,Shot
+18,69.0,Jay Rodriguez,Burnley,0.07,0.17,Saved,11.0,Head,,Dwight McNeil,Pass (Live),Ben Mee,Pass (Live)
+19,69.0,Dejan Kulusevski,Tottenham,0.08,,Off Target,14.0,Left Foot,,Son Heung-min,Pass (Live),Harry Kane,Pass (Live)
+20,71.0,Ben Mee,Burnley,0.14,0.24,Goal,6.0,Head,,Josh Brownhill,Pass (Dead),Aaron Lennon,Fouled
+21,83.0,Ben Mee,Burnley,0.18,,Off Target,5.0,Right Foot,Volley,Connor Roberts,Pass (Live),Dwight McNeil,Pass (Live)
+22,83.0,Ben Mee,Burnley,0.16,,Off Target,5.0,Left Foot,,Ben Mee,Shot,,
+23,83.0,Jay Rodriguez,Burnley,0.36,,Off Target,4.0,Right Foot,,Ben Mee,Shot,,
+24,85.0,Lucas Moura,Tottenham,0.04,,Off Target,18.0,Right Foot,Volley,Cristian Romero,Pass (Live),Eric Dier,Pass (Live)
+25,86.0,Josh Brownhill,Burnley,0.01,,Off Target,31.0,Right Foot,,Connor Roberts,Pass (Live),Aaron Lennon,Pass (Live)
+26,87.0,Steven Bergwijn,Tottenham,0.12,0.04,Saved,10.0,Right Foot,,Son Heung-min,Pass (Live),,
+27,90.0,James Tarkowski,Burnley,0.03,,Off Target,12.0,Head,,Josh Brownhill,Pass (Dead),Ashley Barnes,Fouled

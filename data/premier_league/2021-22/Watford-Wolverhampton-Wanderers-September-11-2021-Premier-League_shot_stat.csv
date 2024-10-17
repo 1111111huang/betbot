@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Fernando Marçal,Wolves,0.02,,Off Target,29.0,Left Foot,,Raúl Jiménez,Pass (Live),Nélson Semedo,Pass (Live)
+1,5,Rúben Neves,Wolves,0.02,,Blocked,28.0,Right Foot,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+2,12,Rúben Neves,Wolves,0.01,,Off Target,31.0,Right Foot,,João Moutinho,Pass (Live),Fernando Marçal,Pass (Live)
+3,16,Moussa Sissoko,Watford,0.05,0.09,Saved,17.0,Right Foot,,Ismaila Sarr,Pass (Live),Jeremy Ngakia,Pass (Live)
+4,18,Oghenekaro Etebo,Watford,0.02,,Off Target,29.0,Right Foot,,Moussa Sissoko,Shot,,
+5,22,Joshua King,Watford,0.08,0.14,Saved,11.0,Right Foot,,Moussa Sissoko,Pass (Live),Ismaila Sarr,Pass (Live)
+6,25,Nélson Semedo,Wolves,0.03,,Blocked,19.0,Right Foot,,João Moutinho,Pass (Live),Adama Traoré,Pass (Live)
+7,35,Francisco Trincão,Wolves,0.04,0.05,Saved,26.0,Left Foot,,Francisco Trincão,Take-On,Rúben Neves,Pass (Live)
+8,37,Emmanuel Dennis,Watford,0.01,,Off Target,24.0,Left Foot,Volley,Danny Rose,Pass (Live),Francisco Sierralta,Pass (Live)
+9,42,João Moutinho,Wolves,0.06,,Off Target,29.0,Right Foot,Free kick,Rúben Neves,Fouled,Rúben Neves,Pass (Live)
+10,45+1,Nélson Semedo,Wolves,0.53,0.47,Saved,14.0,Right Foot,,Francisco Trincão,Pass (Live),Francisco Trincão,Take-On
+11,45+1,Romain Saïss,Wolves,0.1,0.09,Saved,9.0,Head,,João Moutinho,Pass (Dead),Nélson Semedo,Shot
+12,,,,,,,,,,,,,
+13,47,Francisco Trincão,Wolves,0.08,0.22,Saved,9.0,Head,,Adama Traoré,Pass (Live),Adama Traoré,Take-On
+14,52,Oghenekaro Etebo,Watford,0.02,,Off Target,32.0,Right Foot,,Danny Rose,Pass (Live),Francisco Sierralta,Pass (Live)
+15,62,Nélson Semedo,Wolves,0.36,,Off Target,12.0,Right Foot,,Raúl Jiménez,Pass (Live),Max Kilman,Pass (Live)
+16,69,Raúl Jiménez,Wolves,0.21,,Off Target,10.0,Head,,João Moutinho,Pass (Dead),Adama Traoré,Fouled
+17,71,Conor Coady,Wolves,0.04,,Off Target,10.0,Head,,João Moutinho,Pass (Dead),Adama Traoré,Take-On
+18,78,Juraj Kucka,Watford,0.03,,Off Target,25.0,Left Foot,Volley,Danny Rose,Fouled,Moussa Sissoko,Pass (Live)
+19,83,Fernando Marçal,Wolves,0.18,,Blocked,3.0,Left Foot,Volley,Daniel Podence,Pass (Live),Nélson Semedo,Pass (Live)
+20,83,Hwang Hee-chan,Wolves,0.73,0.96,Goal,2.0,Left Foot,,Fernando Marçal,Shot,,

@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Mohammed Salisu,Southampton,0.02,,Off Target,15.0,Head,,James Ward-Prowse,Pass (Dead),Che Adams,Fouled
+1,7,Kyle Walker-Peters,Southampton,0.08,0.46,Goal,13.0,Right Foot,,Nathan Redmond,Pass (Live),Kyle Walker-Peters,Pass (Live)
+2,27,João Cancelo,Manchester City,0.02,,Off Target,28.0,Right Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Pass (Live)
+3,35,Raheem Sterling,Manchester City,0.05,,Off Target,15.0,Left Foot,,Raheem Sterling,Take-On,Bernardo Silva,Pass (Live)
+4,38,Raheem Sterling,Manchester City,0.56,0.51,Saved,8.0,Right Foot,,Phil Foden,Pass (Live),João Cancelo,Pass (Live)
+5,40,Kevin De Bruyne,Manchester City,0.07,,Blocked,22.0,Right Foot,,Raheem Sterling,Pass (Live),Rodri,Pass (Live)
+6,42,Rodri,Manchester City,0.04,,Off Target,17.0,Right Foot,Volley,Kyle Walker,Pass (Live),Raheem Sterling,Pass (Live)
+7,,,,,,,,,,,,,
+8,46,Jan Bednarek,Southampton,0.11,0.12,Saved,5.0,Head,,James Ward-Prowse,Pass (Dead),Stuart Armstrong,Pass (Live)
+9,47,Jack Grealish,Manchester City,0.13,,Blocked,11.0,Right Foot,,João Cancelo,Pass (Live),Phil Foden,Pass (Live)
+10,48,Rodri,Manchester City,0.06,0.38,Saved,22.0,Right Foot,Volley,Kyle Walker,Pass (Live),Rodri,Pass (Live)
+11,50,Aymeric Laporte,Manchester City,0.07,,Off Target,5.0,Head,,Phil Foden,Pass (Dead),Kevin De Bruyne,Pass (Live)
+12,53,Armando Broja,Southampton,0.05,,Blocked,14.0,Right Foot,,Stuart Armstrong,Pass (Live),James Ward-Prowse,Pass (Live)
+13,54,Armando Broja,Southampton,0.43,,Woodwork,3.0,Head,,Armando Broja,Shot,,
+14,54,Jan Bednarek,Southampton,0.12,,Off Target,5.0,Right Foot,Volley,Armando Broja,Shot,,
+15,58,Phil Foden,Manchester City,0.02,0.05,Saved,13.0,Left Foot,Volley,Bernardo Silva,Pass (Live),Kyle Walker,Pass (Live)
+16,59,Phil Foden,Manchester City,0.02,,Blocked,31.0,Left Foot,,Kevin De Bruyne,Pass (Live),Jack Grealish,Pass (Live)
+17,59,Rodri,Manchester City,0.03,,Woodwork,27.0,Right Foot,,Bernardo Silva,Pass (Live),Rodri,Pass (Live)
+18,65,Aymeric Laporte,Manchester City,0.28,0.24,Goal,8.0,Head,,Kevin De Bruyne,Pass (Dead),Gabriel Jesus,Fouled
+19,68,João Cancelo,Manchester City,0.03,,Blocked,25.0,Right Foot,,Bernardo Silva,Pass (Live),Phil Foden,Pass (Live)
+20,68,Phil Foden,Manchester City,0.06,,Blocked,12.0,Left Foot,Volley,Rúben Dias,Pass (Live),João Cancelo,Pass (Live)
+21,68,Bernardo Silva,Manchester City,0.04,,Blocked,22.0,Left Foot,,Phil Foden,Shot,,
+22,70,Kevin De Bruyne,Manchester City,0.02,,Woodwork,29.0,Right Foot,,Bernardo Silva,Pass (Live),Gabriel Jesus,Pass (Live)
+23,72,Gabriel Jesus,Manchester City,0.21,,Woodwork,4.0,Head,,João Cancelo,Pass (Live),Kevin De Bruyne,Pass (Live)
+24,86,Ibrahima Diallo,Southampton,0.04,0.02,Saved,22.0,Left Foot,Deflected,,,,
+25,88,Jack Grealish,Manchester City,0.09,,Blocked,10.0,Right Foot,,Bernardo Silva,Pass (Live),Kyle Walker,Pass (Live)
+26,88,Kevin De Bruyne,Manchester City,0.02,,Off Target,29.0,Right Foot,,Jack Grealish,Pass (Live),Bernardo Silva,Pass (Live)
+27,90+6,Kevin De Bruyne,Manchester City,0.02,0.07,Saved,10.0,Right Foot,Volley,Aymeric Laporte,Pass (Live),Bernardo Silva,Pass (Live)

@@ -1,0 +1,33 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Timm Klose,Norwich City,0.05,,Blocked,11.0,Head,,Kenny McLean,Pass (Live),Emi Buendía,Pass (Dead)
+1,6,Kenny McLean,Norwich City,0.02,,Off Target,29.0,Left Foot,,Emi Buendía,Pass (Live),,
+2,8,Josip Drmić,Norwich City,0.11,,Blocked,16.0,Left Foot,,Teemu Pukki,Pass (Live),Jamal Lewis,Pass (Live)
+3,18,Danny Ings,Southampton,0.09,,Blocked,13.0,Left Foot,,Danny Ings,Tackle,,
+4,21,Kenny McLean,Norwich City,0.05,,Blocked,24.0,Left Foot,,Todd Cantwell,Pass (Live),Kenny McLean,Pass (Live)
+5,29,Stuart Armstrong,Southampton,0.06,0.04,Saved,14.0,Right Foot,,James Ward-Prowse,Pass (Dead),,
+6,34,Danny Ings,Southampton,0.31,,Woodwork,15.0,Right Foot,,Jack Stephens,Pass (Live),Jack Stephens,Tackle
+7,41,Kenny McLean,Norwich City,0.03,0.04,Saved,26.0,Left Foot,,Todd Cantwell,Pass (Live),Josip Drmić,Pass (Live)
+8,45,Timm Klose,Norwich City,0.1,,Off Target,10.0,Head,,Emi Buendía,Pass (Dead),Teemu Pukki,Fouled
+9,45+2,James Ward-Prowse,Southampton,0.07,0.05,Saved,24.0,Right Foot,Free kick,Stuart Armstrong,Fouled,Ryan Bertrand,Pass (Live)
+10,,,,,,,,,,,,,
+11,49,Danny Ings,Southampton,0.04,0.31,Goal,17.0,Right Foot,,,,,
+12,52,Michael Obafemi,Southampton,0.05,,Off Target,14.0,Left Foot,,Danny Ings,Pass (Live),,
+13,52,Nathan Redmond,Southampton,0.04,,Blocked,18.0,Left Foot,,Danny Ings,Pass (Live),Stuart Armstrong,Pass (Live)
+14,54,Stuart Armstrong,Southampton,0.06,0.29,Goal,21.0,Left Foot,,Stuart Armstrong,Take-On,Danny Ings,Pass (Live)
+15,57,Ryan Bertrand,Southampton,0.03,,Off Target,25.0,Left Foot,,Michael Obafemi,Pass (Live),Michael Obafemi,Take-On
+16,59,Danny Ings,Southampton,0.06,,Blocked,8.0,Head,,James Ward-Prowse,Pass (Dead),,
+17,60,Michael Obafemi,Southampton,0.09,,Blocked,17.0,Right Foot,,Nathan Redmond,Pass (Live),,
+18,60,James Ward-Prowse,Southampton,0.37,,Blocked,15.0,Right Foot,,Michael Obafemi,Shot,,
+19,63,James Ward-Prowse,Southampton,0.07,,Blocked,20.0,Right Foot,,Ryan Bertrand,Pass (Live),Nathan Redmond,Pass (Live)
+20,64,Teemu Pukki,Norwich City,0.17,,Blocked,12.0,Right Foot,,Teemu Pukki,Take-On,Josip Drmić,Pass (Live)
+21,70,Michael Obafemi,Southampton,0.06,,Blocked,17.0,Left Foot,,Danny Ings,Pass (Live),Yan Valery,Pass (Dead)
+22,72,Stuart Armstrong,Southampton,0.07,0.35,Saved,16.0,Right Foot,,Nathan Redmond,Pass (Live),Yan Valery,Pass (Live)
+23,77,Ryan Bertrand,Southampton,0.02,,Off Target,26.0,Left Foot,Volley,James Ward-Prowse,Pass (Live),Ryan Bertrand,Pass (Dead)
+24,79,Nathan Redmond,Southampton,0.06,0.49,Goal,16.0,Left Foot,,Michael Obafemi,Pass (Live),Danny Ings,Pass (Live)
+25,81,Adam Idah,Norwich City,0.06,,Off Target,17.0,Right Foot,,Jamal Lewis,Pass (Live),Onel Hernández,Pass (Live)
+26,84,Onel Hernández,Norwich City,0.02,,Blocked,29.0,Right Foot,,Onel Hernández,Fouled,Ondrej Duda,Pass (Live)
+27,87,William Smallbone,Southampton,0.05,,Blocked,16.0,Left Foot,,Che Adams,Pass (Live),Yan Valery,Pass (Live)
+28,87,Ryan Bertrand,Southampton,0.03,,Off Target,28.0,Left Foot,,William Smallbone,Shot,,
+29,89,William Smallbone,Southampton,0.02,,Off Target,26.0,Left Foot,,Che Adams,Pass (Live),James Ward-Prowse,Pass (Dead)
+30,90+3,James Ward-Prowse,Southampton,0.05,0.29,Saved,32.0,Right Foot,Free kick,Nathan Tella,Fouled,Sofiane Boufal,Tackle
+31,90+4,Nathan Tella,Southampton,0.04,0.03,Saved,18.0,Right Foot,,Sofiane Boufal,Pass (Live),Ryan Bertrand,Pass (Live)

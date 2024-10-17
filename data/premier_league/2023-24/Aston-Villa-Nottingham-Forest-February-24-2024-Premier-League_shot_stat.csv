@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Ollie Watkins,Aston Villa,0.95,0.96,Goal,3.0,Right Foot,,Leon Bailey,Pass (Live),Leon Bailey,Take-On
+1,7,Callum Hudson-Odoi,Nott'ham Forest,0.07,,Off Target,17.0,Left Foot,,Callum Hudson-Odoi,Pass (Live),Murillo,Pass (Live)
+2,10,Ollie Watkins,Aston Villa,0.24,,Blocked,9.0,Left Foot,,Jacob Ramsey,Pass (Live),Ollie Watkins,Pass (Live)
+3,15,Callum Hudson-Odoi,Nott'ham Forest,0.01,,Blocked,15.0,Right Foot,,Anthony Elanga,Fouled,Anthony Elanga,Take-On
+4,20,Leon Bailey,Aston Villa,0.07,0.2,Saved,12.0,Right Foot,,Youri Tielemans,Pass (Live),Jacob Ramsey,Pass (Live)
+5,29,Douglas Luiz,Aston Villa,0.25,0.8,Goal,12.0,Right Foot,,Jacob Ramsey,Pass (Live),Matty Cash,Pass (Live)
+6,39,Douglas Luiz,Aston Villa,0.23,0.19,Goal,8.0,Head,,John McGinn,Pass (Live),Matty Cash,Pass (Live)
+7,42,Jacob Ramsey,Aston Villa,0.05,,Off Target,9.0,Left Foot,,Ollie Watkins,Pass (Live),Pau Torres,Pass (Live)
+8,43,Jacob Ramsey,Aston Villa,0.12,,Off Target,20.0,Right Foot,,Jacob Ramsey,Take-On,John McGinn,Pass (Live)
+9,45+4,Nicolás Domínguez,Nott'ham Forest,0.02,,Off Target,27.0,Right Foot,,Callum Hudson-Odoi,Pass (Live),Callum Hudson-Odoi,Take-On
+10,45+5,Moussa Niakhate,Nott'ham Forest,0.93,0.97,Goal,2.0,Other,,Taiwo Awoniyi,Pass (Live),Morgan Gibbs-White,Pass (Dead)
+11,,,,,,,,,,,,,
+12,48,Morgan Gibbs-White,Nott'ham Forest,0.59,0.83,Goal,11.0,Right Foot,,Divock Origi,Pass (Live),Anthony Elanga,Tackle
+13,50,Anthony Elanga,Nott'ham Forest,0.21,,Off Target,17.0,Right Foot,,Divock Origi,Pass (Live),Andrew Omobamidele,Pass (Live)
+14,53,Youri Tielemans,Aston Villa,0.21,,Woodwork,16.0,Left Foot,,Álex Moreno,Pass (Live),Álex Moreno,Take-On
+15,54,Danilo,Nott'ham Forest,0.04,,Off Target,23.0,Left Foot,,Morgan Gibbs-White,Pass (Live),,
+16,61,Ollie Watkins,Aston Villa,0.11,0.22,Saved,9.0,Left Foot,,,,,
+17,61,Leon Bailey,Aston Villa,0.94,0.46,Goal,9.0,Left Foot,,Ollie Watkins,Shot,,
+18,63,Callum Hudson-Odoi,Nott'ham Forest,0.2,,Off Target,17.0,Right Foot,,Neco Williams,Pass (Live),Danilo,Pass (Live)
+19,67,Callum Hudson-Odoi,Nott'ham Forest,0.13,0.16,Saved,21.0,Right Foot,,Callum Hudson-Odoi,Take-On,Divock Origi,Pass (Live)
+20,73,Lucas Digne,Aston Villa,0.06,,Blocked,27.0,Left Foot,Free kick,Douglas Luiz,Fouled,Jacob Ramsey,Pass (Live)
+21,75,Ryan Yates,Nott'ham Forest,0.37,,Off Target,14.0,Left Foot,Volley,Morgan Gibbs-White,Pass (Dead),Danilo,Fouled
+22,80,Matty Cash,Aston Villa,0.11,,Off Target,19.0,Left Foot,,Jacob Ramsey,Pass (Live),Lucas Digne,Pass (Live)
+23,83,Leon Bailey,Aston Villa,0.05,,Blocked,12.0,Left Foot,,John McGinn,Pass (Live),Clément Lenglet,Pass (Live)
+24,84,Douglas Luiz,Aston Villa,0.06,,Blocked,30.0,Right Foot,Free kick,John McGinn,Fouled,Leon Bailey,Shot
+25,86,Ollie Watkins,Aston Villa,0.09,,Off Target,18.0,Right Foot,,,,,
+26,90+4,Morgan Rogers,Aston Villa,0.12,,Blocked,15.0,Right Foot,,Nicolò Zaniolo,Pass (Live),Moussa Diaby,Pass (Live)

@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Wilfried Zaha,Crystal Palace,0.04,,Off Target,15.0,Left Foot,,Andros Townsend,Pass (Live),Jaïro Riedewald,Pass (Live)
+1,5,Rúben Neves,Wolves,0.05,,Blocked,19.0,Left Foot,,Pedro Neto,Pass (Live),Nélson Semedo,Pass (Live)
+2,7,Leander Dendoncker,Wolves,0.07,,Woodwork,11.0,Head,,Daniel Podence,Pass (Live),Daniel Podence,Take-On
+3,9,Daniel Podence,Wolves,0.03,0.24,Saved,20.0,Right Foot,,Rúben Neves,Pass (Live),Pedro Neto,Pass (Live)
+4,12,Willy Boly,Wolves,0.07,,Off Target,10.0,Head,,Pedro Neto,Pass (Live),Daniel Podence,Pass (Dead)
+5,12,Rayan Aït-Nouri,Wolves,0.02,,Blocked,25.0,Left Foot,,Leander Dendoncker,Pass (Live),Willy Boly,Shot
+6,18,Rayan Aït-Nouri,Wolves,0.04,0.36,Goal,18.0,Left Foot,,Nélson Semedo,Pass (Live),Conor Coady,Pass (Live)
+7,21,Nélson Semedo,Wolves,0.02,,Off Target,28.0,Left Foot,,Rúben Neves,Pass (Live),Rayan Aït-Nouri,Pass (Live)
+8,25,Leander Dendoncker,Wolves,0.03,,Woodwork,28.0,Right Foot,Volley,Rúben Neves,Pass (Live),Daniel Podence,Pass (Live)
+9,27,Andros Townsend,Crystal Palace,0.03,,Blocked,24.0,Right Foot,,Jaïro Riedewald,Pass (Live),Luka Milivojević,Pass (Live)
+10,27,Daniel Podence,Wolves,0.34,0.45,Goal,8.0,Left Foot,Volley,Pedro Neto,Pass (Live),Raúl Jiménez,Pass (Live)
+11,35,Scott Dann,Crystal Palace,0.1,,Blocked,5.0,Head,,,,,
+12,45+3,Nélson Semedo,Wolves,0.02,,Off Target,28.0,Right Foot,Volley,Rúben Neves,Pass (Live),Nélson Semedo,Pass (Live)
+13,,,,,,,,,,,,,
+14,46,Andros Townsend,Crystal Palace,0.02,0.03,Saved,27.0,Left Foot,"Deflected, Volley",Michy Batshuayi,Fouled,Michy Batshuayi,Take-On
+15,52,Andros Townsend,Crystal Palace,0.02,0.03,Saved,29.0,Left Foot,,Luka Milivojević,Pass (Live),,
+16,55,Nathaniel Clyne,Crystal Palace,0.05,,Blocked,18.0,Right Foot,,Wilfried Zaha,Pass (Live),Michy Batshuayi,Pass (Live)
+17,56,Rúben Neves,Wolves,0.02,,Off Target,29.0,Right Foot,,Nélson Semedo,Pass (Live),Rúben Neves,Pass (Live)
+18,57,Jeffrey Schlupp,Crystal Palace,0.03,,Blocked,20.0,Left Foot,,Andros Townsend,Pass (Live),Wilfried Zaha,Pass (Live)
+19,60,Leander Dendoncker,Wolves,0.39,,Off Target,10.0,Right Foot,Volley,Pedro Neto,Pass (Live),Daniel Podence,Pass (Live)
+20,64,Wilfried Zaha,Crystal Palace,0.06,,Blocked,10.0,Right Foot,Volley,Nathaniel Clyne,Pass (Live),Andros Townsend,Pass (Live)
+21,65,Luka Milivojević,Crystal Palace,0.07,,Off Target,29.0,Right Foot,Free kick,Cheikhou Kouyaté,Fouled,Wilfried Zaha,Shot
+22,68,Daniel Podence,Wolves,0.07,,Off Target,14.0,Right Foot,,Pedro Neto,Pass (Live),Rúben Neves,Pass (Live)
+23,70,Raúl Jiménez,Wolves,0.04,0.04,Saved,22.0,Right Foot,,Raúl Jiménez,Take-On,Rúben Neves,Pass (Live)
+24,77,Michy Batshuayi,Crystal Palace,0.15,,Blocked,5.0,Head,,Patrick van Aanholt,Pass (Live),Eberechi Eze,Pass (Live)
+25,79,Patrick van Aanholt,Crystal Palace,0.07,,Off Target,29.0,Left Foot,Free kick,Luka Milivojević,Fouled,,
+26,83,Adama Traoré,Wolves,0.06,0.11,Saved,13.0,Right Foot,,Raúl Jiménez,Pass (Live),Leander Dendoncker,Pass (Live)

@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Riyad Mahrez,Manchester City,0.04,,Blocked,19.0,Left Foot,,Rodri,Pass (Live),Bernardo Silva,Tackle
+1,5,Manuel Akanji,Manchester City,0.17,0.07,Saved,6.0,Head,Deflected,Jack Grealish,Pass (Dead),Riyad Mahrez,Shot
+2,6,Julián Álvarez,Manchester City,0.06,,Blocked,17.0,Right Foot,Volley,Jack Grealish,Pass (Live),Riyad Mahrez,Pass (Live)
+3,15,Harry Kane,Tottenham,0.35,0.63,Goal,13.0,Right Foot,,Pierre Højbjerg,Pass (Live),,
+4,19,Bernardo Silva,Manchester City,0.04,0.07,Saved,26.0,Left Foot,,Rodri,Pass (Live),Rico Lewis,Pass (Live)
+5,30,Dejan Kulusevski,Tottenham,0.04,,Blocked,23.0,Left Foot,,Emerson,Pass (Live),Eric Dier,Pass (Live)
+6,41,Rodri,Manchester City,0.1,0.39,Saved,20.0,Right Foot,,Julián Álvarez,Pass (Live),Riyad Mahrez,Pass (Live)
+7,42,Jack Grealish,Manchester City,0.05,,Off Target,17.0,Right Foot,,Erling Haaland,Pass (Live),Kyle Walker,Pass (Live)
+8,44,Eric Dier,Tottenham,0.09,,Blocked,6.0,Right Foot,,Ivan Perišić,Pass (Live),Pierre Højbjerg,Pass (Live)
+9,44,Harry Kane,Tottenham,0.07,,Blocked,10.0,Right Foot,Deflected,Eric Dier,Shot,,
+10,44,Eric Dier,Tottenham,0.08,,Blocked,10.0,Left Foot,,Harry Kane,Shot,,
+11,44,Eric Dier,Tottenham,0.05,,Off Target,10.0,Right Foot,,Eric Dier,Shot,,
+12,45+1,Riyad Mahrez,Manchester City,0.12,,Woodwork,11.0,Left Foot,,Julián Álvarez,Pass (Live),Rodri,Interception
+13,,,,,,,,,,,,,
+14,47,Harry Kane,Tottenham,0.27,,Off Target,15.0,Left Foot,,Emerson,Pass (Live),Cristian Romero,Pass (Live)
+15,56,Ben Davies,Tottenham,0.07,,Off Target,6.0,Head,,Ivan Perišić,Pass (Dead),,
+16,64,Julián Álvarez,Manchester City,0.14,,Blocked,15.0,Right Foot,,Kevin De Bruyne,Pass (Dead),Jack Grealish,Fouled
+17,65,Manuel Akanji,Manchester City,0.07,,Blocked,15.0,Right Foot,,Rodri,Pass (Live),Julián Álvarez,Shot
+18,65,Kevin De Bruyne,Manchester City,0.06,,Off Target,21.0,Right Foot,,Manuel Akanji,Pass (Live),Manuel Akanji,Shot
+19,68,Julián Álvarez,Manchester City,0.06,,Off Target,19.0,Right Foot,,Kevin De Bruyne,Pass (Live),Julián Álvarez,Pass (Live)
+20,69,Harry Kane,Tottenham,0.05,,Off Target,20.0,Right Foot,,Rodrigo Bentancur,Pass (Live),,
+21,70,Harry Kane,Tottenham,0.31,0.2,Saved,10.0,Right Foot,,Harry Kane,Take-On,Harry Kane,Take-On
+22,73,Rodri,Manchester City,0.06,,Off Target,10.0,Head,,Kevin De Bruyne,Pass (Dead),Rodri,Pass (Live)
+23,76,Kyle Walker,Manchester City,0.01,0.04,Saved,31.0,Right Foot,Deflected,Rico Lewis,Pass (Live),Kevin De Bruyne,Pass (Live)
+24,77,Son Heung-min,Tottenham,0.02,0.21,Saved,31.0,Left Foot,,,,,
+25,77,Pierre Højbjerg,Tottenham,0.05,,Off Target,23.0,Right Foot,,Harry Kane,Pass (Live),Son Heung-min,Shot
+26,89,Kevin De Bruyne,Manchester City,0.04,,Blocked,32.0,Right Foot,Free kick,Jack Grealish,Fouled,Jack Grealish,Take-On
+27,90+3,Rodri,Manchester City,0.3,0.31,Saved,4.0,Head,,Jack Grealish,Pass (Live),İlkay Gündoğan,Pass (Live)

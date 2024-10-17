@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Oliver McBurnie,Sheffield Utd,0.08,0.02,Saved,16.0,Right Foot,,Enda Stevens,Pass (Live),John Lundstram,Pass (Live)
+1,16,Georginio Wijnaldum,Liverpool,0.04,,Blocked,21.0,Left Foot,Volley,,,,
+2,17,Sadio Mané,Liverpool,0.05,,Off Target,12.0,Right Foot,Volley,Georginio Wijnaldum,Shot,,
+3,21,Callum Robinson,Sheffield Utd,0.04,,Off Target,17.0,Right Foot,,Oliver Norwood,Pass (Live),John Egan,Pass (Live)
+4,26,Mohamed Salah,Liverpool,0.04,,Off Target,17.0,Left Foot,,,,,
+5,28,John Lundstram,Sheffield Utd,0.04,,Blocked,20.0,Right Foot,,John Fleck,Pass (Live),George Baldock,Pass (Live)
+6,34,Sadio Mané,Liverpool,0.32,,Off Target,15.0,Right Foot,,Virgil van Dijk,Pass (Live),Adrián,Pass (Live)
+7,36,Andrew Robertson,Liverpool,0.03,,Off Target,25.0,Left Foot,,Mohamed Salah,Pass (Live),Fabinho,Pass (Live)
+8,37,Callum Robinson,Sheffield Utd,0.07,,Off Target,10.0,Head,,Enda Stevens,Pass (Live),Oliver Norwood,Pass (Live)
+9,38,Georginio Wijnaldum,Liverpool,0.04,,Off Target,24.0,Right Foot,,Sadio Mané,Pass (Live),Fabinho,Pass (Live)
+10,43,Sadio Mané,Liverpool,0.53,,Woodwork,6.0,Right Foot,,Roberto Firmino,Pass (Live),Mohamed Salah,Pass (Live)
+11,,,,,,,,,,,,,
+12,46,Fabinho,Liverpool,0.03,,Blocked,27.0,Right Foot,Volley,Fabinho,Pass (Live),Georginio Wijnaldum,Pass (Live)
+13,53,Oliver McBurnie,Sheffield Utd,0.27,,Off Target,5.0,Head,,Oliver Norwood,Pass (Dead),Jack O'Connell,Pass (Live)
+14,60,Trent Alexander-Arnold,Liverpool,0.05,,Off Target,33.0,Right Foot,Free kick,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Dead)
+15,64,Oliver Norwood,Sheffield Utd,0.02,0.16,Saved,32.0,Right Foot,,Enda Stevens,Pass (Live),Enda Stevens,Pass (Live)
+16,67,John Fleck,Sheffield Utd,0.11,,Blocked,13.0,Right Foot,,John Fleck,Take-On,Enda Stevens,Pass (Live)
+17,67,John Lundstram,Sheffield Utd,0.07,,Blocked,11.0,Right Foot,Volley,John Fleck,Shot,,
+18,70,Georginio Wijnaldum,Liverpool,0.05,0.06,Goal,20.0,Right Foot,Volley,Andrew Robertson,Pass (Live),Roberto Firmino,Pass (Live)
+19,72,Sadio Mané,Liverpool,0.03,0.02,Saved,25.0,Left Foot,,Divock Origi,Pass (Live),Andrew Robertson,Pass (Live)
+20,72,Mohamed Salah,Liverpool,0.05,0.35,Saved,17.0,Left Foot,,,,,
+21,78,Mohamed Salah,Liverpool,0.44,0.82,Saved,13.0,Left Foot,,,,,
+22,79,Georginio Wijnaldum,Liverpool,0.02,,Off Target,22.0,Right Foot,,Mohamed Salah,Pass (Dead),Mohamed Salah,Shot
+23,82,Jack O'Connell,Sheffield Utd,0.03,,Blocked,11.0,Head,,John Lundstram,Pass (Dead),Enda Stevens,Pass (Dead)
+24,85,Leon Clarke,Sheffield Utd,0.46,,Off Target,10.0,Right Foot,,John Fleck,Pass (Live),Enda Stevens,Pass (Live)
+25,88,Divock Origi,Liverpool,0.07,,Off Target,14.0,Right Foot,,Divock Origi,Take-On,Andrew Robertson,Pass (Live)
+26,90,Mohamed Salah,Liverpool,0.09,,Blocked,15.0,Left Foot,,Mohamed Salah,Take-On,Fabinho,Pass (Live)
+27,90,Oliver McBurnie,Sheffield Utd,0.04,,Off Target,11.0,Head,,George Baldock,Pass (Live),Chris Basham,Pass (Live)
+28,90+3,Oliver McBurnie,Sheffield Utd,0.05,,Off Target,14.0,Head,,John Fleck,Pass (Live),Enda Stevens,Pass (Live)

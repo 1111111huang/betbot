@@ -1,0 +1,20 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Abdoulaye Doucouré,Everton,0.11,0.15,Saved,4.0,Right Foot,,James Rodríguez,Pass (Live),Michael Keane,Pass (Live)
+1,10,Dominic Calvert-Lewin,Everton,0.38,0.27,Goal,10.0,Right Foot,,Séamus Coleman,Pass (Live),James Rodríguez,Pass (Live)
+2,18,Wilfried Zaha,Crystal Palace,0.07,,Blocked,15.0,Left Foot,,James McArthur,Pass (Live),Joel Ward,Pass (Live)
+3,22,Lucas Digne,Everton,0.02,,Blocked,32.0,Left Foot,Deflected,Allan,Pass (Live),Richarlison,Pass (Live)
+4,26,Cheikhou Kouyaté,Crystal Palace,0.12,0.08,Goal,6.0,Head,,Andros Townsend,Pass (Dead),Wilfried Zaha,Pass (Live)
+5,30,James McCarthy,Crystal Palace,0.01,,Blocked,33.0,Right Foot,,,,,
+6,40,Richarlison (pen),Everton,0.79,1.0,Goal,13.0,Right Foot,,,Fouled,James Rodríguez,Pass (Live)
+7,45+4,James Rodríguez,Everton,0.11,0.29,Saved,24.0,Left Foot,Free kick,James Rodríguez,Fouled,Abdoulaye Doucouré,Pass (Live)
+8,,,,,,,,,,,,,
+9,48,Eberechi Eze,Crystal Palace,0.04,,Blocked,19.0,Left Foot,,Jordan Ayew,Fouled,Joel Ward,Pass (Dead)
+10,51,Dominic Calvert-Lewin,Everton,0.26,,Off Target,6.0,Right Foot,Volley,James Rodríguez,Pass (Dead),Richarlison,Pass (Live)
+11,52,Eberechi Eze,Crystal Palace,0.02,,Off Target,24.0,Right Foot,,,,,
+12,55,Dominic Calvert-Lewin,Everton,0.1,,Off Target,7.0,Head,,James Rodríguez,Pass (Dead),André Gomes,Pass (Live)
+13,65,Cheikhou Kouyaté,Crystal Palace,0.09,,Woodwork,5.0,Head,,Andros Townsend,Pass (Dead),Jordan Ayew,Fouled
+14,67,James Rodríguez,Everton,0.06,,Blocked,16.0,Left Foot,Volley,Lucas Digne,Pass (Live),Richarlison,Pass (Live)
+15,71,Wilfried Zaha,Crystal Palace,0.04,,Blocked,19.0,Right Foot,,Eberechi Eze,Pass (Live),Andros Townsend,Pass (Live)
+16,73,Eberechi Eze,Crystal Palace,0.02,,Blocked,26.0,Right Foot,,James McCarthy,Pass (Live),Wilfried Zaha,Fouled
+17,78,Dominic Calvert-Lewin,Everton,0.08,0.05,Saved,13.0,Right Foot,"Deflected, Volley",James Rodríguez,Pass (Live),Richarlison,Pass (Live)
+18,83,Allan,Everton,0.02,,Off Target,28.0,Right Foot,Volley,Richarlison,Fouled,Dominic Calvert-Lewin,Pass (Live)

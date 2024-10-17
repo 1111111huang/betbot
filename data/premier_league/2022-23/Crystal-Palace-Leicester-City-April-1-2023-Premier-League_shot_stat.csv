@@ -1,0 +1,36 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Wilfried Zaha,Crystal Palace,0.09,,Blocked,15.0,Right Foot,,Odsonne Édouard,Pass (Live),Wilfried Zaha,Pass (Live)
+1,6,Wilfried Zaha,Crystal Palace,0.04,,Blocked,16.0,Right Foot,,Odsonne Édouard,Pass (Live),,
+2,7,Cheick Doucouré,Crystal Palace,0.07,,Blocked,18.0,Right Foot,,Eberechi Eze,Pass (Live),Michael Olise,Pass (Live)
+3,7,Wilfried Zaha,Crystal Palace,0.03,,Blocked,17.0,Left Foot,,Jeffrey Schlupp,Pass (Live),Tyrick Mitchell,Pass (Live)
+4,7,Cheick Doucouré,Crystal Palace,0.04,0.16,Saved,22.0,Right Foot,,Michael Olise,Pass (Dead),Wilfried Zaha,Shot
+5,9,Joachim Andersen,Crystal Palace,0.02,,Off Target,30.0,Right Foot,,Cheick Doucouré,Pass (Live),,
+6,13,Eberechi Eze,Crystal Palace,0.05,0.18,Saved,16.0,Right Foot,,Eberechi Eze,Take-On,Michael Olise,Pass (Live)
+7,13,Michael Olise,Crystal Palace,0.05,,Blocked,13.0,Right Foot,,Eberechi Eze,Pass (Live),,
+8,17,Odsonne Édouard,Crystal Palace,0.05,,Blocked,9.0,Head,,Michael Olise,Pass (Live),Eberechi Eze,Pass (Live)
+9,19,Wilfried Zaha,Crystal Palace,0.02,0.04,Saved,20.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Cheick Doucouré,Pass (Live)
+10,21,Odsonne Édouard,Crystal Palace,0.09,,Blocked,10.0,Left Foot,,Wilfried Zaha,Pass (Live),Jeffrey Schlupp,Pass (Live)
+11,21,Wilfried Zaha,Crystal Palace,0.13,,Blocked,12.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Odsonne Édouard,Shot
+12,25,Wilfried Zaha,Crystal Palace,0.07,,Blocked,14.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Cheick Doucouré,Pass (Live)
+13,27,Joachim Andersen,Crystal Palace,0.06,,Off Target,10.0,Head,,Michael Olise,Pass (Dead),Tyrick Mitchell,Pass (Live)
+14,32,Michael Olise,Crystal Palace,0.05,,Blocked,25.0,Left Foot,,Jeffrey Schlupp,Pass (Live),,
+15,32,Odsonne Édouard,Crystal Palace,0.05,0.17,Saved,13.0,Right Foot,Deflected,Michael Olise,Shot,,
+16,38,Wilfried Zaha,Crystal Palace,0.08,,Off Target,10.0,Right Foot,Volley,Joachim Andersen,Pass (Live),Michael Olise,Pass (Live)
+17,41,Odsonne Édouard,Crystal Palace,0.11,,Blocked,13.0,Left Foot,,Cheick Doucouré,Pass (Live),Cheick Doucouré,Interception
+18,41,Eberechi Eze,Crystal Palace,0.04,,Off Target,27.0,Right Foot,,Odsonne Édouard,Shot,,
+19,45+3,Joachim Andersen,Crystal Palace,0.02,0.47,Saved,64.0,Right Foot,Free kick,Cheick Doucouré,Fouled,,
+20,,,,,,,,,,,,,
+21,46,Timothy Castagne,Leicester City,0.05,,Blocked,16.0,Right Foot,,Patson Daka,Pass (Live),Harvey Barnes,Pass (Live)
+22,49,James Maddison,Leicester City,0.11,0.08,Saved,10.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Harvey Barnes,Pass (Live)
+23,51,Michael Olise,Crystal Palace,0.02,,Blocked,24.0,Left Foot,,Eberechi Eze,Pass (Live),Joel Ward,Pass (Live)
+24,56,Ricardo Pereira,Leicester City,0.06,0.15,Goal,16.0,Right Foot,,Timothy Castagne,Pass (Live),Wilfred Ndidi,Pass (Live)
+25,59,Eberechi Eze,Crystal Palace,0.07,0.32,Saved,28.0,Right Foot,Free kick,Eberechi Eze,Fouled,Jordan Ayew,Pass (Live)
+26,67,Jordan Ayew,Crystal Palace,0.01,0.01,Saved,29.0,Right Foot,,Tyrick Mitchell,Pass (Live),Eberechi Eze,Pass (Live)
+27,73,Michael Olise,Crystal Palace,0.09,,Blocked,17.0,Left Foot,Volley,Tyrick Mitchell,Pass (Live),Tyrick Mitchell,Take-On
+28,76,Eberechi Eze,Crystal Palace,0.05,0.35,Saved,27.0,Right Foot,,Cheick Doucouré,Pass (Live),,
+29,77,Eberechi Eze,Crystal Palace,0.02,,Off Target,30.0,Left Foot,Volley,Eberechi Eze,Shot,,
+30,80,Jordan Ayew,Crystal Palace,0.02,,Off Target,29.0,Right Foot,,Joachim Andersen,Pass (Live),Tyrick Mitchell,Pass (Live)
+31,85,Joel Ward,Crystal Palace,0.05,,Off Target,9.0,Head,,Michael Olise,Pass (Dead),Eberechi Eze,Fouled
+32,90+3,Jean-Philippe Mateta,Crystal Palace,0.26,,Blocked,6.0,Head,,Jordan Ayew,Pass (Live),Eberechi Eze,Pass (Live)
+33,90+3,Tyrick Mitchell,Crystal Palace,0.17,,Off Target,4.0,Left Foot,Volley,Jean-Philippe Mateta,Shot,,
+34,90+4,Jean-Philippe Mateta,Crystal Palace,0.5,0.84,Goal,12.0,Left Foot,,Jordan Ayew,Pass (Live),Tyrick Mitchell,Pass (Live)

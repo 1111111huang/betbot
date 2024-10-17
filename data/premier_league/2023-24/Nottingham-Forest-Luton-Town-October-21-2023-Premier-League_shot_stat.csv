@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Chris Wood,Nott'ham Forest,0.11,0.19,Saved,9.0,Left Foot,Volley,Harry Toffolo,Pass (Live),Anthony Elanga,Pass (Live)
+1,7,Anthony Elanga,Nott'ham Forest,0.04,,Off Target,13.0,Head,,Serge Aurier,Pass (Live),Orel Mangala,Pass (Live)
+2,14,Willy Boly,Nott'ham Forest,0.05,,Blocked,8.0,Head,,Morgan Gibbs-White,Pass (Live),Anthony Elanga,Pass (Live)
+3,14,Chris Wood,Nott'ham Forest,0.17,0.15,Saved,6.0,Head,,Willy Boly,Shot,,
+4,16,Jacob Brown,Luton Town,0.09,,Off Target,16.0,Right Foot,,Chiedozie Ogbene,Pass (Live),Alfie Doughty,Pass (Dead)
+5,21,Pelly Ruddock Mpanzu,Luton Town,0.02,,Off Target,27.0,Left Foot,Volley,,,,
+6,23,Harry Toffolo,Nott'ham Forest,0.34,0.51,Saved,4.0,Left Foot,Deflected,Nicolás Domínguez,Pass (Live),Morgan Gibbs-White,Pass (Live)
+7,24,Chris Wood,Nott'ham Forest,0.27,,Blocked,11.0,Left Foot,,Anthony Elanga,Pass (Live),Orel Mangala,Pass (Live)
+8,25,Serge Aurier,Nott'ham Forest,0.04,,Off Target,7.0,Head,,Morgan Gibbs-White,Pass (Dead),Chris Wood,Shot
+9,37,Tahith Chong,Luton Town,0.01,0.07,Saved,25.0,Left Foot,Volley,Jacob Brown,Fouled,Carlton Morris,Pass (Live)
+10,44,Carlton Morris,Luton Town,0.02,,Off Target,16.0,Head,,Reece Burke,Pass (Live),Marvelous Nakamba,Pass (Live)
+11,45+1,Chris Wood,Nott'ham Forest,0.29,,Off Target,3.0,Head,,Morgan Gibbs-White,Pass (Live),Orel Mangala,Pass (Live)
+12,45+3,Ibrahim Sangaré,Nott'ham Forest,0.28,,Off Target,11.0,Right Foot,,Willy Boly,Pass (Live),Murillo,Pass (Live)
+13,,,,,,,,,,,,,
+14,48,Chris Wood,Nott'ham Forest,0.7,0.62,Goal,16.0,Left Foot,,Anthony Elanga,Pass (Live),Morgan Gibbs-White,Pass (Live)
+15,50,Chris Wood,Nott'ham Forest,0.16,,Off Target,8.0,Head,,Morgan Gibbs-White,Pass (Live),Willy Boly,Pass (Live)
+16,52,Jacob Brown,Luton Town,0.3,0.19,Saved,9.0,Head,,Chiedozie Ogbene,Pass (Live),Carlton Morris,Pass (Live)
+17,54,Morgan Gibbs-White,Nott'ham Forest,0.03,0.56,Saved,25.0,Right Foot,,Morgan Gibbs-White,Take-On,,
+18,63,Morgan Gibbs-White,Nott'ham Forest,0.1,,Off Target,14.0,Left Foot,,Morgan Gibbs-White,Take-On,Orel Mangala,Pass (Live)
+19,67,Nicolás Domínguez,Nott'ham Forest,0.05,,Off Target,6.0,Head,,Morgan Gibbs-White,Pass (Dead),,
+20,67,Ibrahim Sangaré,Nott'ham Forest,0.17,,Off Target,4.0,Right Foot,Volley,Nicolás Domínguez,Shot,,
+21,68,Anthony Elanga,Nott'ham Forest,0.03,0.01,Saved,23.0,Left Foot,,Nicolás Domínguez,Pass (Live),Morgan Gibbs-White,Pass (Dead)
+22,69,Marvelous Nakamba,Luton Town,0.02,,Off Target,31.0,Left Foot,,Alfie Doughty,Pass (Live),Tom Lockyer,Pass (Live)
+23,71,Nicolás Domínguez,Nott'ham Forest,0.03,0.25,Saved,13.0,Head,,Anthony Elanga,Pass (Live),Ibrahim Sangaré,Pass (Live)
+24,73,Chiedozie Ogbene,Luton Town,0.03,,Blocked,18.0,Left Foot,,Issa Kaboré,Pass (Live),Carlton Morris,Pass (Live)
+25,73,Elijah Adebayo,Luton Town,0.13,,Off Target,9.0,Left Foot,,Chiedozie Ogbene,Shot,,
+26,76,Chris Wood,Nott'ham Forest,0.05,0.59,Goal,13.0,Head,,Anthony Elanga,Pass (Live),Morgan Gibbs-White,Pass (Live)
+27,79,Ryan Yates,Nott'ham Forest,0.05,,Off Target,17.0,Left Foot,,Chris Wood,Pass (Live),,
+28,80,Carlton Morris,Luton Town,0.16,,Blocked,15.0,Left Foot,,Chiedozie Ogbene,Pass (Live),Carlton Morris,Pass (Live)
+29,83,Chiedozie Ogbene,Luton Town,0.34,0.42,Goal,10.0,Right Foot,Volley,Ross Barkley,Fouled,Alfie Doughty,Pass (Live)
+30,90,Cauley Woodrow,Luton Town,0.06,,Blocked,17.0,Right Foot,,Cauley Woodrow,Take-On,Elijah Adebayo,Pass (Live)
+31,90+1,Alfie Doughty,Luton Town,0.03,,Blocked,26.0,Left Foot,,Tom Lockyer,Pass (Live),Ross Barkley,Pass (Live)
+32,90+2,Elijah Adebayo,Luton Town,0.51,0.56,Goal,11.0,Right Foot,,Tom Lockyer,Pass (Live),Ross Barkley,Pass (Live)

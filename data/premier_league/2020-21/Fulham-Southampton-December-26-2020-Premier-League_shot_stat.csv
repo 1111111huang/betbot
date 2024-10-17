@@ -1,0 +1,15 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Ademola Lookman,Fulham,0.06,0.13,Saved,15.0,Left Foot,Deflected,Andre-Frank Zambo Anguissa,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+1,25,Andre-Frank Zambo Anguissa,Fulham,0.11,,Off Target,11.0,Left Foot,,Ademola Lookman,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+2,27,James Ward-Prowse,Southampton,0.06,0.5,Saved,29.0,Right Foot,Free kick,Che Adams,Fouled,Shane Long,Pass (Live)
+3,,,,,,,,,,,,,
+4,53,Antonee Robinson,Fulham,0.06,,Blocked,14.0,Right Foot,,Ivan Cavaleiro,Pass (Live),Ademola Lookman,Pass (Live)
+5,55,Ivan Cavaleiro,Fulham,0.22,,Off Target,12.0,Head,,Antonee Robinson,Pass (Live),Ademola Lookman,Pass (Live)
+6,67,Harrison Reed,Fulham,0.02,,Off Target,31.0,Right Foot,,Antonee Robinson,Fouled,Ademola Lookman,Pass (Live)
+7,67,Shane Long,Southampton,0.03,0.05,Saved,29.0,Right Foot,Volley,Shane Long,Pass (Live),Alex McCarthy,Pass (Live)
+8,70,Ademola Lookman,Fulham,0.04,,Blocked,21.0,Right Foot,,Joachim Andersen,Pass (Live),Antonee Robinson,Pass (Live)
+9,71,Andre-Frank Zambo Anguissa,Fulham,0.07,,Blocked,9.0,Head,,Ademola Lookman,Pass (Dead),Ademola Lookman,Shot
+10,71,Ruben Loftus-Cheek,Fulham,0.03,,Blocked,28.0,Right Foot,,Ademola Lookman,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+11,84,Jack Stephens,Southampton,0.09,,Off Target,9.0,Head,,James Ward-Prowse,Pass (Dead),James Ward-Prowse,Pass (Live)
+12,90+2,Aleksandar Mitrović,Fulham,0.06,,Off Target,19.0,Left Foot,Volley,Antonee Robinson,Pass (Live),,
+13,90+4,Ola Aina,Fulham,0.1,,Blocked,16.0,Right Foot,Volley,Andre-Frank Zambo Anguissa,Pass (Live),Andre-Frank Zambo Anguissa,Take-On

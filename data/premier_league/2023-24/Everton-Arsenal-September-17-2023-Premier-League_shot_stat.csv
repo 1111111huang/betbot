@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Fabio Vieira,Arsenal,0.04,,Off Target,19.0,Right Foot,,Oleksandr Zinchenko,Pass (Live),Martin Ødegaard,Pass (Live)
+1,26,Declan Rice,Arsenal,0.13,,Blocked,13.0,Right Foot,,Declan Rice,Take-On,Bukayo Saka,Pass (Live)
+2,31,Arnaut Danjuma,Everton,0.02,,Blocked,33.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),,
+3,31,Idrissa Gana Gueye,Everton,0.06,0.09,Saved,26.0,Right Foot,,Beto,Pass (Live),Abdoulaye Doucouré,Tackle
+4,39,Dwight McNeil,Everton,0.01,,Blocked,32.0,Left Foot,,Abdoulaye Doucouré,Pass (Live),Amadou Onana,Pass (Live)
+5,40,Ben White,Arsenal,0.04,0.05,Saved,22.0,Left Foot,,Martin Ødegaard,Pass (Live),Ben White,Pass (Live)
+6,45+1,Dwight McNeil,Everton,0.06,,Blocked,15.0,Left Foot,,Idrissa Gana Gueye,Pass (Live),Idrissa Gana Gueye,Interception
+7,,,,,,,,,,,,,
+8,46,Martin Ødegaard,Arsenal,0.21,0.07,Saved,13.0,Left Foot,,Declan Rice,Pass (Live),Ben White,Pass (Live)
+9,47,Fabio Vieira,Arsenal,0.03,,Off Target,14.0,Left Foot,,Martin Ødegaard,Shot,,
+10,50,Oleksandr Zinchenko,Arsenal,0.02,,Blocked,27.0,Left Foot,,Martin Ødegaard,Pass (Live),Martin Ødegaard,Take-On
+11,58,Eddie Nketiah,Arsenal,0.04,,Blocked,12.0,Right Foot,,Martin Ødegaard,Pass (Live),Declan Rice,Interception
+12,59,Oleksandr Zinchenko,Arsenal,0.02,,Blocked,26.0,Left Foot,,Eddie Nketiah,Shot,,
+13,59,Oleksandr Zinchenko,Arsenal,0.04,,Blocked,26.0,Left Foot,,Leandro Trossard,Pass (Live),Bukayo Saka,Pass (Dead)
+14,67,Arnaut Danjuma,Everton,0.04,,Off Target,21.0,Left Foot,,Dominic Calvert-Lewin,Pass (Live),Dwight McNeil,Pass (Live)
+15,69,Leandro Trossard,Arsenal,0.09,0.65,Goal,13.0,Left Foot,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+16,72,Vitaliy Mykolenko,Everton,0.01,,Blocked,15.0,Left Foot,Volley,Jordan Pickford,Pass (Live),Amadou Onana,Pass (Live)
+17,74,Fabio Vieira,Arsenal,0.09,,Off Target,10.0,Left Foot,Volley,Ben White,Pass (Live),Martin Ødegaard,Pass (Live)
+18,76,Idrissa Gana Gueye,Everton,0.05,,Off Target,18.0,Right Foot,,Arnaut Danjuma,Pass (Live),Amadou Onana,Pass (Live)
+19,77,Martin Ødegaard,Arsenal,0.1,0.03,Saved,15.0,Right Foot,,Leandro Trossard,Pass (Live),,
+20,77,Fabio Vieira,Arsenal,0.21,,Blocked,16.0,Left Foot,,Martin Ødegaard,Shot,,
+21,90,Dominic Calvert-Lewin,Everton,0.1,,Off Target,13.0,Right Foot,,Nathan Patterson,Pass (Live),Nathan Patterson,Interception

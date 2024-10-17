@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,9,Andre Gray,Watford,0.63,,Off Target,5.0,Right Foot,,Roberto Pereyra,Pass (Live),Tom Cleverley,Pass (Live)
+1,12,Sebastian Prödl,Watford,0.05,,Off Target,9.0,Head,,Daryl Janmaat,Pass (Live),Tom Cleverley,Pass (Live)
+2,19,John Egan,Sheffield Utd,0.02,,Off Target,14.0,Head,,,,,
+3,19,Oliver McBurnie,Sheffield Utd,0.04,,Off Target,10.0,Head,,Oliver Norwood,Pass (Dead),John Egan,Shot
+4,19,John Fleck,Sheffield Utd,0.04,0.2,Saved,25.0,Left Foot,,John Fleck,Take-On,John Lundstram,Pass (Live)
+5,41,Abdoulaye Doucouré,Watford,0.02,,Blocked,33.0,Right Foot,,Tom Cleverley,Pass (Live),Daryl Janmaat,Pass (Live)
+6,42,Sebastian Prödl,Watford,0.05,,Off Target,12.0,Head,,Tom Cleverley,Pass (Live),Roberto Pereyra,Pass (Live)
+7,45,Callum Robinson,Sheffield Utd,0.1,0.58,Saved,12.0,Left Foot,Volley,Enda Stevens,Pass (Live),Oliver Norwood,Pass (Live)
+8,,,,,,,,,,,,,
+9,49,Danny Welbeck,Watford,0.52,0.62,Saved,15.0,Right Foot,,Danny Welbeck,Take-On,Andre Gray,Pass (Live)
+10,53,Callum Robinson,Sheffield Utd,0.08,0.04,Saved,14.0,Right Foot,Volley,Oliver McBurnie,Pass (Live),John Lundstram,Pass (Live)
+11,55,Enda Stevens,Sheffield Utd,0.02,,Off Target,32.0,Left Foot,,Oliver Norwood,Pass (Live),George Baldock,Pass (Live)
+12,64,Roberto Pereyra,Watford,0.03,,Blocked,28.0,Left Foot,Volley,Daryl Janmaat,Pass (Live),Roberto Pereyra,Fouled
+13,73,Lys Mousset,Sheffield Utd,0.03,,Blocked,30.0,Left Foot,,John Lundstram,Pass (Live),George Baldock,Pass (Live)
+14,78,John Fleck,Sheffield Utd,0.03,,Blocked,26.0,Left Foot,,Oliver Norwood,Pass (Live),Lys Mousset,Pass (Live)
+15,79,John Lundstram,Sheffield Utd,0.06,,Off Target,15.0,Left Foot,Volley,Lys Mousset,Fouled,Lys Mousset,Tackle
+16,90+3,Craig Dawson,Watford,0.1,0.12,Saved,10.0,Head,,Gerard Deulofeu,Pass (Dead),Christian Kabasele,Fouled
+17,90+4,Abdoulaye Doucouré,Watford,0.03,,Off Target,29.0,Right Foot,,Tom Cleverley,Pass (Live),Ismaila Sarr,Pass (Live)

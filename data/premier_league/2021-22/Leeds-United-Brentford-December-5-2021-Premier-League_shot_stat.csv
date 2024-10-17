@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Bryan Mbeumo,Brentford,0.04,,Blocked,18.0,Left Foot,,Sergi Canós,Pass (Live),Christian Nørgaard,Pass (Live)
+1,6,Tyler Roberts,Leeds United,0.05,,Blocked,20.0,Left Foot,,Junior Firpo,Pass (Live),,
+2,9,Sergi Canós,Brentford,0.03,0.06,Saved,18.0,Right Foot,Deflected,Christian Nørgaard,Pass (Live),Sergi Canós,Pass (Live)
+3,11,Bryan Mbeumo,Brentford,0.08,,Off Target,11.0,Left Foot,,Ethan Pinnock,Pass (Live),Sergi Canós,Pass (Live)
+4,27,Tyler Roberts,Leeds United,0.55,0.68,Goal,8.0,Right Foot,,Raphinha,Pass (Live),Adam Forshaw,Pass (Live)
+5,31,Tyler Roberts,Leeds United,0.06,0.16,Saved,22.0,Right Foot,,Daniel James,Pass (Live),Kalvin Phillips,Pass (Live)
+6,41,Tyler Roberts,Leeds United,0.07,,Off Target,13.0,Left Foot,,Adam Forshaw,Pass (Live),Jack Harrison,Pass (Live)
+7,45+1,Kalvin Phillips,Leeds United,0.02,,Off Target,30.0,Right Foot,,Daniel James,Pass (Live),Kalvin Phillips,Pass (Live)
+8,,,,,,,,,,,,,
+9,50,Luke Ayling,Leeds United,0.02,0.23,Saved,13.0,Head,,Raphinha,Pass (Dead),Daniel James,Fouled
+10,50,Luke Ayling,Leeds United,0.06,,Blocked,6.0,Head,,Luke Ayling,Shot,,
+11,54,Shandon Baptiste,Brentford,0.12,0.31,Goal,19.0,Left Foot,,Rico Henry,Pass (Live),Rico Henry,Take-On
+12,57,Sergi Canós,Brentford,0.17,,Blocked,17.0,Right Foot,,Vitaly Janelt,Pass (Live),,
+13,60,Sergi Canós,Brentford,0.16,,Off Target,4.0,Head,,Mads Roerslev,Pass (Live),Mads Roerslev,Take-On
+14,61,Sergi Canós,Brentford,0.33,0.42,Goal,10.0,Right Foot,,Bryan Mbeumo,Pass (Live),Shandon Baptiste,Pass (Live)
+15,76,Stuart Dallas,Leeds United,0.02,0.12,Saved,23.0,Right Foot,,Adam Forshaw,Pass (Live),Stuart Dallas,Pass (Live)
+16,78,Bryan Mbeumo,Brentford,0.06,,Blocked,24.0,Left Foot,,Vitaly Janelt,Pass (Live),,
+17,81,Mateusz Klich,Leeds United,0.06,,Blocked,18.0,Right Foot,,Raphinha,Pass (Dead),Daniel James,Fouled
+18,81,Tyler Roberts,Leeds United,0.02,0.03,Saved,31.0,Right Foot,,Jack Harrison,Pass (Live),Stuart Dallas,Pass (Live)
+19,86,Bryan Mbeumo,Brentford,0.06,,Blocked,30.0,Left Foot,Free kick,Yoane Wissa,Fouled,Frank Onyeka,Pass (Live)
+20,88,Raphinha,Leeds United,0.02,,Off Target,28.0,Left Foot,,Diego Llorente,Pass (Live),Stuart Dallas,Pass (Live)
+21,90+5,Luke Ayling,Leeds United,0.1,,Off Target,7.0,Head,,Raphinha,Pass (Dead),Diego Llorente,Pass (Live)
+22,90+5,Patrick Bamford,Leeds United,0.19,0.36,Goal,5.0,Left Foot,Volley,Luke Ayling,Shot,,

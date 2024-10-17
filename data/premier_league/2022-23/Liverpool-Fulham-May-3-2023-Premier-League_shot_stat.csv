@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Trent Alexander-Arnold,Liverpool,0.05,,Blocked,26.0,Right Foot,,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+1,4,Luis Díaz,Liverpool,0.03,,Off Target,31.0,Right Foot,,Darwin Núñez,Pass (Live),Virgil van Dijk,Pass (Live)
+2,8,Trent Alexander-Arnold,Liverpool,0.03,0.02,Saved,31.0,Right Foot,,Luis Díaz,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+3,10,Trent Alexander-Arnold,Liverpool,0.07,,Off Target,23.0,Right Foot,,Mohamed Salah,Pass (Live),Luis Díaz,Pass (Live)
+4,14,Carlos Vinícius,Fulham,0.05,0.27,Saved,18.0,Right Foot,,Tosin Adarabioyo,Pass (Live),Issa Diop,Pass (Live)
+5,15,Willian,Fulham,0.03,,Off Target,20.0,Right Foot,,Harry Wilson,Pass (Live),Tom Cairney,Pass (Live)
+6,17,Mohamed Salah,Liverpool,0.23,,Off Target,6.0,Left Foot,,Mohamed Salah,Take-On,Trent Alexander-Arnold,Pass (Live)
+7,19,Luis Díaz,Liverpool,0.04,,Blocked,14.0,Right Foot,,Darwin Núñez,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+8,27,Harry Wilson,Fulham,0.03,,Blocked,17.0,Left Foot,Volley,Saša Lukić,Pass (Live),Cédric Soares,Pass (Live)
+9,29,João Palhinha,Fulham,0.24,0.54,Saved,2.0,Left Foot,,Cédric Soares,Pass (Live),Tom Cairney,Pass (Live)
+10,30,João Palhinha,Fulham,0.03,,Off Target,29.0,Right Foot,Volley,Carlos Vinícius,Pass (Live),Willian,Pass (Live)
+11,39,Mohamed Salah (pen),Liverpool,0.79,0.92,Goal,13.0,Left Foot,,Darwin Núñez,Fouled,,
+12,45+1,Jordan Henderson,Liverpool,0.05,,Off Target,26.0,Right Foot,,Curtis Jones,Pass (Live),Luis Díaz,Pass (Live)
+13,,,,,,,,,,,,,
+14,48,Darwin Núñez,Liverpool,0.1,,Off Target,12.0,Right Foot,,Jordan Henderson,Pass (Live),Fabinho,Pass (Live)
+15,50,Mohamed Salah,Liverpool,0.14,,Off Target,12.0,Left Foot,,Luis Díaz,Pass (Live),Luis Díaz,Take-On
+16,54,Cédric Soares,Fulham,0.04,,Blocked,26.0,Left Foot,,Cédric Soares,Take-On,Willian,Pass (Live)
+17,54,Willian,Fulham,0.02,,Blocked,19.0,Left Foot,,Harry Wilson,Pass (Live),Tom Cairney,Pass (Live)
+18,68,Cody Gakpo,Liverpool,0.18,0.14,Saved,9.0,Right Foot,,Mohamed Salah,Pass (Live),,
+19,76,Curtis Jones,Liverpool,0.02,,Blocked,33.0,Right Foot,,Cody Gakpo,Fouled,Cody Gakpo,Take-On
+20,77,Carlos Vinícius,Fulham,0.32,0.73,Saved,10.0,Left Foot,,Carlos Vinícius,Take-On,Willian,Pass (Live)
+21,81,Jordan Henderson,Liverpool,0.03,,Off Target,32.0,Right Foot,,Cody Gakpo,Pass (Live),Fabinho,Pass (Live)
+22,87,Cody Gakpo,Liverpool,0.05,,Off Target,21.0,Right Foot,,Harvey Elliott,Pass (Live),,
+23,90+3,Jordan Henderson,Liverpool,0.03,,Off Target,27.0,Right Foot,Volley,Fabinho,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+24,90+4,Bobby Reid,Fulham,0.12,,Off Target,10.0,Left Foot,,Daniel James,Pass (Live),Manor Solomon,Pass (Live)

@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Jonjo Shelvey,Newcastle Utd,0.06,0.38,Goal,22.0,Right Foot,,Callum Wilson,Pass (Live),Miguel Almirón,Pass (Live)
+1,9,Jeff Hendrick,Newcastle Utd,0.08,,Off Target,12.0,Right Foot,Volley,Ryan Fraser,Pass (Live),Ciaran Clark,Pass (Live)
+2,13,Jordan Ayew,Crystal Palace,0.12,,Blocked,7.0,Head,,Eberechi Eze,Pass (Live),Michy Batshuayi,Pass (Live)
+3,13,Patrick van Aanholt,Crystal Palace,0.02,,Off Target,28.0,Left Foot,Volley,Jordan Ayew,Shot,,
+4,18,Callum Wilson,Newcastle Utd,0.15,,Off Target,9.0,Left Foot,Volley,Miguel Almirón,Pass (Live),Miguel Almirón,Take-On
+5,21,Jaïro Riedewald,Crystal Palace,0.03,0.03,Goal,27.0,Left Foot,Deflected,,,,
+6,25,Gary Cahill,Crystal Palace,0.18,0.11,Goal,8.0,Head,,Eberechi Eze,Pass (Dead),Jordan Ayew,Fouled
+7,30,Miguel Almirón,Newcastle Utd,0.11,,Blocked,9.0,Right Foot,,Miguel Almirón,Pass (Live),Callum Wilson,Pass (Live)
+8,30,Ryan Fraser,Newcastle Utd,0.07,0.07,Saved,15.0,Right Foot,,Miguel Almirón,Shot,,
+9,34,Ryan Fraser,Newcastle Utd,0.35,0.32,Saved,14.0,Right Foot,,,,,
+10,37,Miguel Almirón,Newcastle Utd,0.08,,Blocked,26.0,Left Foot,Free kick,Callum Wilson,Fouled,Javier Manquillo,Pass (Live)
+11,37,Fabian Schär,Newcastle Utd,0.09,,Off Target,9.0,Head,,Ryan Fraser,Pass (Dead),Miguel Almirón,Shot
+12,40,Fabian Schär,Newcastle Utd,0.02,,Off Target,31.0,Right Foot,,Miguel Almirón,Pass (Live),Ryan Fraser,Pass (Live)
+13,41,Michy Batshuayi,Crystal Palace,0.02,0.44,Saved,34.0,Left Foot,,Michy Batshuayi,Take-On,Eberechi Eze,Pass (Live)
+14,,,,,,,,,,,,,
+15,46,Callum Wilson,Newcastle Utd,0.04,,Off Target,15.0,Head,,Jonjo Shelvey,Pass (Live),Jamal Lewis,Pass (Dead)
+16,52,Miguel Almirón,Newcastle Utd,0.03,,Blocked,27.0,Left Foot,,Jamal Lewis,Pass (Live),Javier Manquillo,Pass (Live)
+17,53,Ciaran Clark,Newcastle Utd,0.21,,Blocked,7.0,Right Foot,Volley,Ryan Fraser,Pass (Dead),Miguel Almirón,Shot
+18,54,Callum Wilson,Newcastle Utd,0.06,,Off Target,11.0,Head,,Ryan Fraser,Pass (Live),Jonjo Shelvey,Pass (Live)
+19,72,Jonjo Shelvey,Newcastle Utd,0.1,,Off Target,9.0,Head,,Ryan Fraser,Pass (Dead),Callum Wilson,Fouled
+20,74,Fabian Schär,Newcastle Utd,0.1,0.02,Saved,8.0,Head,,Ryan Fraser,Pass (Live),Callum Wilson,Pass (Live)
+21,80,Allan Saint-Maximin,Newcastle Utd,0.09,,Blocked,14.0,Right Foot,,Allan Saint-Maximin,Take-On,Ryan Fraser,Pass (Live)
+22,80,Allan Saint-Maximin,Newcastle Utd,0.02,,Blocked,20.0,Right Foot,,Miguel Almirón,Pass (Live),Miguel Almirón,Take-On
+23,84,Fabian Schär,Newcastle Utd,0.02,,Off Target,30.0,Right Foot,,,,,
+24,86,Jonjo Shelvey,Newcastle Utd,0.02,,Off Target,36.0,Right Foot,,Jamal Lewis,Pass (Live),Ciaran Clark,Pass (Live)
+25,90+1,Andros Townsend,Crystal Palace,0.38,,Off Target,8.0,Right Foot,,Jaïro Riedewald,Pass (Live),Gary Cahill,Pass (Live)
+26,90+1,Callum Wilson,Newcastle Utd,0.06,,Off Target,11.0,Head,,Ryan Fraser,Pass (Live),Miguel Almirón,Pass (Live)
+27,90+5,Andy Carroll,Newcastle Utd,0.13,0.03,Saved,6.0,Head,,Jamal Lewis,Pass (Live),Isaac Hayden,Pass (Live)

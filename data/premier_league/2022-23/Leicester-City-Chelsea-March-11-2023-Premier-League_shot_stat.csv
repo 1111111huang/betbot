@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Kiernan Dewsbury-Hall,Leicester City,0.03,,Blocked,25.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Timothy Castagne,Pass (Dead)
+1,9,James Maddison,Leicester City,0.02,0.03,Saved,25.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Ricardo Pereira,Pass (Live)
+2,11,Ben Chilwell,Chelsea,0.01,0.18,Goal,18.0,Left Foot,Volley,Kalidou Koulibaly,Pass (Live),,
+3,14,Daniel Amartey,Leicester City,0.96,,Off Target,1.0,Head,,James Maddison,Pass (Dead),Timothy Castagne,Fouled
+4,20,Kai Havertz,Chelsea,0.1,,Blocked,21.0,Left Foot,,Mateo Kovačić,Pass (Live),Mateo Kovačić,Interception
+5,24,João Félix,Chelsea,0.49,,Woodwork,16.0,Left Foot,,Kai Havertz,Pass (Live),,
+6,26,Kiernan Dewsbury-Hall,Leicester City,0.03,,Blocked,28.0,Left Foot,,James Maddison,Pass (Live),Wout Faes,Pass (Live)
+7,39,Patson Daka,Leicester City,0.02,0.18,Goal,24.0,Left Foot,,Patson Daka,Take-On,Ricardo Pereira,Pass (Live)
+8,41,James Maddison,Leicester City,0.07,0.03,Saved,15.0,Right Foot,,Ricardo Pereira,Pass (Live),Kelechi Iheanacho,Pass (Live)
+9,42,Kelechi Iheanacho,Leicester City,0.06,0.03,Saved,16.0,Left Foot,,Kiernan Dewsbury-Hall,Pass (Live),James Maddison,Pass (Live)
+10,42,Ricardo Pereira,Leicester City,0.06,,Blocked,20.0,Left Foot,,Kelechi Iheanacho,Shot,,
+11,44,James Maddison,Leicester City,0.12,,Blocked,25.0,Right Foot,Free kick,James Maddison,Fouled,Kiernan Dewsbury-Hall,Pass (Live)
+12,45+5,João Félix,Chelsea,0.02,,Blocked,23.0,Right Foot,,Ruben Loftus-Cheek,Pass (Live),João Félix,Pass (Live)
+13,45+6,Kai Havertz,Chelsea,0.52,0.92,Goal,10.0,Left Foot,Volley,Enzo Fernández,Pass (Live),Wesley Fofana,Pass (Live)
+14,,,,,,,,,,,,,
+15,46,Wesley Fofana,Chelsea,0.06,0.23,Saved,9.0,Head,,Ben Chilwell,Pass (Dead),Conor Gallagher,Take-On
+16,63,Kai Havertz,Chelsea,0.09,,Off Target,21.0,Right Foot,,Conor Gallagher,Pass (Live),Mateo Kovačić,Pass (Live)
+17,65,Wout Faes,Leicester City,0.09,,Blocked,9.0,Head,,James Maddison,Pass (Dead),James Maddison,Pass (Live)
+18,65,Timothy Castagne,Leicester City,0.04,,Off Target,16.0,Right Foot,,Kelechi Iheanacho,Pass (Live),Wout Faes,Shot
+19,65,Harry Souttar,Leicester City,0.4,,Blocked,8.0,Left Foot,,Timothy Castagne,Shot,,
+20,67,James Maddison,Leicester City,0.03,,Blocked,25.0,Left Foot,,Kiernan Dewsbury-Hall,Tackle,,
+21,67,Mykhailo Mudryk,Chelsea,0.03,,Blocked,13.0,Left Foot,,Ruben Loftus-Cheek,Pass (Live),,
+22,68,Kai Havertz,Chelsea,0.07,0.09,Saved,10.0,Head,,Ben Chilwell,Pass (Dead),Mykhailo Mudryk,Shot
+23,70,Kai Havertz,Chelsea,0.05,,Off Target,11.0,Head,,Ben Chilwell,Pass (Dead),Enzo Fernández,Pass (Live)
+24,71,Conor Gallagher,Chelsea,0.04,0.22,Saved,17.0,Left Foot,,Mykhailo Mudryk,Pass (Live),Enzo Fernández,Pass (Live)
+25,72,Kiernan Dewsbury-Hall,Leicester City,0.33,0.9,Saved,8.0,Left Foot,,Harvey Barnes,Pass (Live),Ricardo Pereira,Pass (Live)
+26,74,Kiernan Dewsbury-Hall,Leicester City,0.04,0.05,Saved,29.0,Left Foot,,Kiernan Dewsbury-Hall,Take-On,Kiernan Dewsbury-Hall,Take-On
+27,77,Jamie Vardy,Leicester City,0.2,,Off Target,7.0,Head,,Ricardo Pereira,Pass (Live),Tetê,Pass (Live)
+28,78,Mateo Kovačić,Chelsea,0.08,0.07,Goal,11.0,Right Foot,Volley,Mykhailo Mudryk,Pass (Live),Kai Havertz,Pass (Live)
+29,84,James Maddison,Leicester City,0.03,,Off Target,29.0,Left Foot,,Boubakary Soumaré,Pass (Live),Wout Faes,Pass (Live)

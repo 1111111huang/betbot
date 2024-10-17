@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Scott McTominay,Manchester Utd,0.06,,Blocked,23.0,Right Foot,,Bruno Fernandes,Pass (Live),Jadon Sancho,Pass (Live)
+1,14,Alex Telles,Manchester Utd,0.05,0.09,Saved,22.0,Left Foot,"Free kick, Deflected",Marcus Rashford,Fouled,Jadon Sancho,Pass (Live)
+2,32,Diogo Dalot,Manchester Utd,0.04,0.08,Saved,17.0,Left Foot,,Jadon Sancho,Pass (Live),Scott McTominay,Pass (Live)
+3,37,Cristiano Ronaldo,Manchester Utd,0.19,0.11,Saved,8.0,Left Foot,,Cristiano Ronaldo,Take-On,Scott McTominay,Pass (Live)
+4,39,Marcus Rashford,Manchester Utd,0.06,,Off Target,11.0,Head,,Alex Telles,Pass (Live),Fred,Pass (Live)
+5,39,Teemu Pukki,Norwich City,0.1,,Blocked,13.0,Right Foot,,Lukas Rupp,Pass (Live),Lukas Rupp,Take-On
+6,40,Lukas Rupp,Norwich City,0.14,0.32,Saved,8.0,Head,Deflected,Dimitris Giannoulis,Pass (Live),Kenny McLean,Pass (Live)
+7,45,Harry Maguire,Manchester Utd,0.03,0.1,Saved,12.0,Head,,Jadon Sancho,Pass (Live),Diogo Dalot,Pass (Live)
+8,,,,,,,,,,,,,
+9,47,Scott McTominay,Manchester Utd,0.05,,Blocked,22.0,Right Foot,Volley,Harry Maguire,Pass (Live),Fred,Pass (Live)
+10,47,Przemysław Płacheta,Norwich City,0.05,0.08,Saved,13.0,Left Foot,,Przemysław Płacheta,Take-On,Max Aarons,Pass (Live)
+11,52,Fred,Manchester Utd,0.02,,Blocked,29.0,Left Foot,,Bruno Fernandes,Pass (Live),Cristiano Ronaldo,Pass (Live)
+12,57,Teemu Pukki,Norwich City,0.09,0.12,Saved,19.0,Left Foot,,Lukas Rupp,Pass (Live),Billy Gilmour,Pass (Live)
+13,59,Jakob Sørensen,Norwich City,0.37,,Blocked,4.0,Head,,Josh Sargent,Pass (Live),Przemysław Płacheta,Pass (Dead)
+14,61,Marcus Rashford,Manchester Utd,0.01,,Off Target,26.0,Right Foot,,Jadon Sancho,Pass (Live),Harry Maguire,Pass (Live)
+15,62,Josh Sargent,Norwich City,0.04,,Blocked,22.0,Right Foot,,Dimitris Giannoulis,Pass (Live),Tim Krul,Pass (Dead)
+16,75,Cristiano Ronaldo (pen),Manchester Utd,0.79,0.98,Goal,13.0,Right Foot,,Cristiano Ronaldo,Fouled,Scott McTominay,Pass (Live)
+17,77,Ozan Kabak,Norwich City,0.04,0.16,Saved,12.0,Head,,Billy Gilmour,Pass (Dead),Josh Sargent,Fouled
+18,78,Pierre Lees-Melou,Norwich City,0.02,,Off Target,24.0,Right Foot,,Teemu Pukki,Pass (Live),Billy Gilmour,Pass (Dead)
+19,82,Billy Gilmour,Norwich City,0.09,,Blocked,21.0,Right Foot,,Pierre Lees-Melou,Pass (Live),Todd Cantwell,Pass (Live)
+20,82,Billy Gilmour,Norwich City,0.07,,Blocked,17.0,Left Foot,,Billy Gilmour,Shot,,
+21,86,Cristiano Ronaldo,Manchester Utd,0.66,,Off Target,7.0,Left Foot,,Marcus Rashford,Pass (Live),Marcus Rashford,Take-On
+22,88,Bruno Fernandes,Manchester Utd,0.03,,Off Target,16.0,Right Foot,,Fred,Pass (Live),Alex Telles,Pass (Live)
+23,90+2,Ozan Kabak,Norwich City,0.17,0.12,Saved,4.0,Head,,Todd Cantwell,Fouled,Billy Gilmour,Pass (Live)
+24,90+5,Marcus Rashford,Manchester Utd,0.04,,Blocked,24.0,Right Foot,Free kick,Fred,Fouled,Mason Greenwood,Pass (Live)

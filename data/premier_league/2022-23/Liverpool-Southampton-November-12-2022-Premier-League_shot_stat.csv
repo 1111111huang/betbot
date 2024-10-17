@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Che Adams,Southampton,0.23,,Off Target,9.0,Head,,Mohamed Elyounoussi,Pass (Live),James Ward-Prowse,Pass (Live)
+1,6,Roberto Firmino,Liverpool,0.02,0.15,Goal,16.0,Head,,Andrew Robertson,Pass (Dead),Mohamed Salah,Fouled
+2,9,Che Adams,Southampton,0.26,0.08,Goal,9.0,Head,,James Ward-Prowse,Pass (Dead),Romain Perraud,Fouled
+3,12,Romain Perraud,Southampton,0.03,,Blocked,18.0,Left Foot,Volley,Mohamed Elyounoussi,Pass (Live),James Ward-Prowse,Pass (Live)
+4,16,Mohamed Salah,Liverpool,0.34,0.31,Saved,9.0,Right Foot,,Darwin Núñez,Pass (Live),Andrew Robertson,Pass (Live)
+5,21,Darwin Núñez,Liverpool,0.36,0.95,Goal,10.0,Left Foot,Volley,Harvey Elliott,Pass (Live),Mohamed Salah,Tackle
+6,30,Roberto Firmino,Liverpool,0.17,0.22,Saved,9.0,Right Foot,,Darwin Núñez,Pass (Live),Mohamed Salah,Pass (Live)
+7,31,Darwin Núñez,Liverpool,0.09,0.51,Saved,8.0,Head,,Trent Alexander-Arnold,Pass (Live),Harvey Elliott,Pass (Live)
+8,32,Mohamed Salah,Liverpool,0.13,0.08,Saved,14.0,Left Foot,Deflected,Andrew Robertson,Pass (Live),Roberto Firmino,Pass (Live)
+9,35,Trent Alexander-Arnold,Liverpool,0.04,,Off Target,23.0,Right Foot,Volley,Darwin Núñez,Pass (Live),Joe Gomez,Pass (Live)
+10,40,Adam Armstrong,Southampton,0.07,,Off Target,13.0,Head,,Mohamed Elyounoussi,Pass (Live),James Ward-Prowse,Pass (Live)
+11,42,Darwin Núñez,Liverpool,0.26,0.76,Goal,8.0,Right Foot,,Andrew Robertson,Pass (Live),Roberto Firmino,Pass (Live)
+12,,,,,,,,,,,,,
+13,47,Adam Armstrong,Southampton,0.04,0.04,Saved,16.0,Left Foot,,Roméo Lavia,Pass (Live),Mohammed Salisu,Pass (Live)
+14,50,Roberto Firmino,Liverpool,0.04,,Off Target,10.0,Head,,Andrew Robertson,Pass (Dead),,
+15,54,Adam Armstrong,Southampton,0.05,,Off Target,14.0,Left Foot,,Romain Perraud,Pass (Live),Stuart Armstrong,Pass (Live)
+16,55,Mohamed Salah,Liverpool,0.18,,Off Target,9.0,Head,,Trent Alexander-Arnold,Pass (Live),Harvey Elliott,Pass (Live)
+17,62,Mohamed Elyounoussi,Southampton,0.06,0.54,Saved,9.0,Left Foot,,Romain Perraud,Pass (Live),Samuel Edozie,Pass (Live)
+18,63,Samuel Edozie,Southampton,0.22,0.46,Saved,10.0,Right Foot,,Che Adams,Pass (Live),Samuel Edozie,Pass (Live)
+19,72,Virgil van Dijk,Liverpool,0.03,,Off Target,14.0,Head,,Andrew Robertson,Pass (Live),Joe Gomez,Pass (Live)
+20,77,Che Adams,Southampton,0.1,0.02,Saved,10.0,Head,,Ainsley Maitland-Niles,Pass (Live),Theo Walcott,Pass (Live)
+21,82,Fabinho,Liverpool,0.05,,Off Target,9.0,Head,,Andrew Robertson,Pass (Dead),Mohamed Salah,Take-On
+22,88,Virgil van Dijk,Liverpool,0.07,,Off Target,10.0,Head,,Kostas Tsimikas,Pass (Dead),Fabio Carvalho,Pass (Live)
+23,90+2,Mohamed Salah,Liverpool,0.13,,Blocked,22.0,Left Foot,,Alex Oxlade-Chamberlain,Pass (Live),Fabinho,Pass (Live)
+24,90+3,Virgil van Dijk,Liverpool,0.03,,Blocked,13.0,Head,,Kostas Tsimikas,Pass (Dead),Mohamed Salah,Shot

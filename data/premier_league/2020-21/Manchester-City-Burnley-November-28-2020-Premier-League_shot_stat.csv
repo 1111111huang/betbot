@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Ferrán Torres,Manchester City,0.05,,Off Target,20.0,Left Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+1,6,Riyad Mahrez,Manchester City,0.31,0.86,Goal,12.0,Left Foot,,Kevin De Bruyne,Pass (Live),Ferrán Torres,Pass (Live)
+2,18,John Stones,Manchester City,0.03,,Blocked,22.0,Right Foot,,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+3,19,Kyle Walker,Manchester City,0.03,,Off Target,29.0,Right Foot,,Riyad Mahrez,Pass (Live),Kyle Walker,Pass (Live)
+4,22,Riyad Mahrez,Manchester City,0.2,0.8,Goal,9.0,Left Foot,,Riyad Mahrez,Take-On,Kevin De Bruyne,Pass (Live)
+5,24,İlkay Gündoğan,Manchester City,0.02,,Off Target,33.0,Right Foot,,Ferrán Torres,Pass (Live),İlkay Gündoğan,Pass (Live)
+6,25,Kevin De Bruyne,Manchester City,0.01,0.1,Saved,45.0,Right Foot,,John Stones,Pass (Live),Rúben Dias,Pass (Live)
+7,26,Gabriel Jesus,Manchester City,0.07,,Off Target,8.0,Head,,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+8,38,Ashley Barnes,Burnley,0.03,,Blocked,11.0,Head,,Charlie Taylor,Pass (Live),Ashley Westwood,Pass (Live)
+9,41,Benjamin Mendy,Manchester City,0.06,0.37,Goal,10.0,Left Foot,Volley,Kevin De Bruyne,Pass (Live),Gabriel Jesus,Pass (Live)
+10,45+1,Gabriel Jesus,Manchester City,0.07,,Off Target,8.0,Right Foot,,Gabriel Jesus,Take-On,İlkay Gündoğan,Pass (Live)
+11,,,,,,,,,,,,,
+12,46,Ashley Barnes,Burnley,0.03,,Off Target,24.0,Right Foot,,Ashley Westwood,Pass (Live),Josh Benson,Pass (Live)
+13,48,Riyad Mahrez,Manchester City,0.06,,Off Target,18.0,Left Foot,,Ferrán Torres,Pass (Live),Kevin De Bruyne,Pass (Live)
+14,50,James Tarkowski,Burnley,0.08,,Off Target,8.0,Head,,Ashley Westwood,Pass (Live),Jay Rodriguez,Pass (Live)
+15,52,Kevin De Bruyne,Manchester City,0.04,,Off Target,22.0,Left Foot,,Gabriel Jesus,Pass (Live),Fernandinho,Pass (Live)
+16,53,Dwight McNeil,Burnley,0.02,,Off Target,37.0,Left Foot,,Bailey Peacock-Farrell,Pass (Dead),,
+17,56,Rúben Dias,Manchester City,0.09,,Off Target,7.0,Head,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+18,61,Jay Rodriguez,Burnley,0.05,0.02,Saved,13.0,Right Foot,,Ashley Westwood,Pass (Live),Ashley Westwood,Pass (Live)
+19,62,Josh Benson,Burnley,0.16,,Blocked,21.0,Right Foot,Free kick,Ashley Westwood,Fouled,Jay Rodriguez,Shot
+20,66,Ferrán Torres,Manchester City,0.11,0.2,Goal,12.0,Right Foot,,Gabriel Jesus,Pass (Live),Riyad Mahrez,Pass (Live)
+21,69,Riyad Mahrez,Manchester City,0.32,0.45,Goal,6.0,Head,,Phil Foden,Pass (Live),Kevin De Bruyne,Pass (Live)
+22,72,Ashley Barnes,Burnley,0.03,,Off Target,22.0,Left Foot,,Erik Pieters,Pass (Live),,
+23,73,Josh Benson,Burnley,0.03,,Off Target,28.0,Right Foot,,Ashley Westwood,Pass (Live),Dwight McNeil,Pass (Live)
+24,80,Phil Foden,Manchester City,0.05,,Blocked,13.0,Left Foot,,Riyad Mahrez,Pass (Live),,
+25,81,Fernandinho,Manchester City,0.06,,Off Target,9.0,Head,,Riyad Mahrez,Pass (Live),İlkay Gündoğan,Pass (Live)
+26,84,Dwight McNeil,Burnley,0.04,,Off Target,15.0,Left Foot,,Erik Pieters,Pass (Live),,
+27,90,Kevin De Bruyne,Manchester City,0.05,,Woodwork,12.0,Right Foot,,Riyad Mahrez,Pass (Live),Gabriel Jesus,Pass (Live)
+28,90+3,Riyad Mahrez,Manchester City,0.06,,Blocked,15.0,Left Foot,,Kevin De Bruyne,Pass (Live),Fernandinho,Pass (Live)

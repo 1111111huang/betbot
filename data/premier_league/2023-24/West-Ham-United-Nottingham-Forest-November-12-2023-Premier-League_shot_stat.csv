@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Lucas Paquetá,West Ham,0.1,0.23,Goal,22.0,Left Foot,,,,,
+1,12,Taiwo Awoniyi,Nott'ham Forest,0.16,0.46,Saved,10.0,Head,,Harry Toffolo,Pass (Live),Nicolás Domínguez,Pass (Live)
+2,14,Lucas Paquetá,West Ham,0.33,0.07,Saved,15.0,Left Foot,,Mohammed Kudus,Pass (Live),James Ward-Prowse,Pass (Live)
+3,33,Nicolás Domínguez,Nott'ham Forest,0.04,,Blocked,12.0,Head,,Morgan Gibbs-White,Pass (Live),Ola Aina,Pass (Live)
+4,38,Edson Álvarez,West Ham,0.02,,Off Target,31.0,Right Foot,,,,,
+5,44,Morgan Gibbs-White,Nott'ham Forest,0.12,0.19,Saved,16.0,Right Foot,,Ibrahim Sangaré,Pass (Live),,
+6,44,Taiwo Awoniyi,Nott'ham Forest,0.89,0.8,Goal,7.0,Right Foot,,Morgan Gibbs-White,Shot,,
+7,,,,,,,,,,,,,
+8,47,Emerson Palmieri,West Ham,0.13,,Blocked,9.0,Left Foot,,Jarrod Bowen,Take-On,Vladimír Coufal,Pass (Live)
+9,47,Mohammed Kudus,West Ham,0.03,,Blocked,23.0,Left Foot,,Jarrod Bowen,Pass (Live),Tomáš Souček,Pass (Live)
+10,48,Taiwo Awoniyi,Nott'ham Forest,0.25,,Off Target,12.0,Left Foot,,Anthony Elanga,Pass (Live),Taiwo Awoniyi,Pass (Live)
+11,49,Mohammed Kudus,West Ham,0.04,,Blocked,22.0,Left Foot,,Emerson Palmieri,Pass (Live),,
+12,49,Emerson Palmieri,West Ham,0.03,,Off Target,26.0,Left Foot,,Emerson Palmieri,Take-On,James Ward-Prowse,Pass (Live)
+13,53,Anthony Elanga,Nott'ham Forest,0.03,,Blocked,30.0,Right Foot,,Odisseas Vlachodimos,Pass (Live),,
+14,53,Morgan Gibbs-White,Nott'ham Forest,0.06,,Off Target,19.0,Right Foot,,Anthony Elanga,Shot,,
+15,56,James Ward-Prowse,West Ham,0.04,,Off Target,26.0,Right Foot,Free kick,Emerson Palmieri,Fouled,Jarrod Bowen,Pass (Live)
+16,63,Anthony Elanga,Nott'ham Forest,0.12,0.38,Goal,15.0,Right Foot,,Ola Aina,Pass (Live),Ibrahim Sangaré,Pass (Live)
+17,65,Jarrod Bowen,West Ham,0.26,0.66,Goal,4.0,Head,,James Ward-Prowse,Pass (Dead),Jarrod Bowen,Pass (Live)
+18,70,Tomáš Souček,West Ham,0.32,,Woodwork,11.0,Right Foot,Volley,,,,
+19,72,James Ward-Prowse,West Ham,0.02,,Blocked,30.0,Right Foot,,Mohammed Kudus,Pass (Live),Jarrod Bowen,Pass (Live)
+20,74,Edson Álvarez,West Ham,0.07,,Blocked,12.0,Left Foot,Volley,Nayef Aguerd,Pass (Live),Vladimír Coufal,Pass (Live)
+21,82,Tomáš Souček,West Ham,0.02,0.03,Saved,14.0,Head,,James Ward-Prowse,Pass (Dead),Kurt Zouma,Fouled
+22,85,Tomáš Souček,West Ham,0.23,0.1,Saved,9.0,Head,,James Ward-Prowse,Pass (Dead),Lucas Paquetá,Fouled
+23,88,Tomáš Souček,West Ham,0.06,0.2,Goal,10.0,Head,,James Ward-Prowse,Pass (Dead),Lucas Paquetá,Pass (Live)
+24,90+3,Divock Origi,Nott'ham Forest,0.08,0.08,Saved,21.0,Left Foot,,Chris Wood,Pass (Live),Harry Toffolo,Pass (Live)
+25,90+7,James Ward-Prowse,West Ham,0.09,,Blocked,23.0,Right Foot,,Lucas Paquetá,Pass (Live),,
+26,90+9,Serge Aurier,Nott'ham Forest,0.05,,Blocked,14.0,Left Foot,Volley,Harry Toffolo,Pass (Live),Serge Aurier,Pass (Live)

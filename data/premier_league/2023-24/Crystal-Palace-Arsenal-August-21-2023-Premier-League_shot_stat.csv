@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Gabriel Martinelli,Arsenal,0.06,,Blocked,14.0,Right Foot,,Kai Havertz,Pass (Live),Bukayo Saka,Pass (Live)
+1,2,Bukayo Saka,Arsenal,0.17,,Blocked,15.0,Right Foot,,Gabriel Martinelli,Shot,,
+2,14,Bukayo Saka,Arsenal,0.02,,Blocked,14.0,Right Foot,,Eddie Nketiah,Pass (Live),Bukayo Saka,Pass (Live)
+3,16,Odsonne Édouard,Crystal Palace,0.06,,Blocked,12.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Cheick Doucouré,Pass (Live)
+4,16,Eberechi Eze,Crystal Palace,0.02,0.1,Saved,31.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Tyrick Mitchell,Tackle
+5,21,Eberechi Eze,Crystal Palace,0.02,,Blocked,32.0,Left Foot,,Odsonne Édouard,Pass (Live),Cheick Doucouré,Pass (Live)
+6,21,Cheick Doucouré,Crystal Palace,0.01,,Off Target,28.0,Right Foot,,Eberechi Eze,Shot,,
+7,28,Thomas Partey,Arsenal,0.04,,Off Target,12.0,Head,,Martin Ødegaard,Pass (Dead),Kai Havertz,Fouled
+8,29,Eddie Nketiah,Arsenal,0.2,,Woodwork,10.0,Left Foot,,Eddie Nketiah,Take-On,Bukayo Saka,Pass (Live)
+9,36,Eddie Nketiah,Arsenal,0.45,,Off Target,5.0,Right Foot,,Declan Rice,Pass (Live),Martin Ødegaard,Pass (Live)
+10,40,Bukayo Saka,Arsenal,0.05,,Off Target,14.0,Left Foot,,Eddie Nketiah,Pass (Live),Ben White,Pass (Live)
+11,42,Martin Ødegaard,Arsenal,0.01,0.05,Saved,24.0,Left Foot,,Bukayo Saka,Pass (Live),Thomas Partey,Pass (Live)
+12,43,Gabriel Martinelli,Arsenal,0.05,,Off Target,16.0,Right Foot,Volley,Thomas Partey,Pass (Live),Bukayo Saka,Pass (Dead)
+13,45+1,Eberechi Eze,Crystal Palace,0.09,,Blocked,13.0,Left Foot,,Jordan Ayew,Tackle,,
+14,,,,,,,,,,,,,
+15,54,Martin Ødegaard (pen),Arsenal,0.79,0.99,Goal,13.0,Left Foot,,Eddie Nketiah,Fouled,Gabriel Martinelli,Pass (Dead)
+16,55,Jordan Ayew,Crystal Palace,0.02,,Off Target,15.0,Right Foot,,Jefferson Lerma,Pass (Live),Odsonne Édouard,Pass (Live)
+17,58,Eberechi Eze,Crystal Palace,0.13,,Off Target,26.0,Right Foot,Free kick,Eberechi Eze,Fouled,Cheick Doucouré,Pass (Live)
+18,62,Thomas Partey,Arsenal,0.03,0.03,Saved,22.0,Right Foot,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+19,63,Martin Ødegaard,Arsenal,0.02,,Off Target,28.0,Left Foot,,Eddie Nketiah,Pass (Live),Bukayo Saka,Pass (Dead)
+20,66,Eddie Nketiah,Arsenal,0.11,,Blocked,8.0,Left Foot,,Takehiro Tomiyasu,Pass (Live),Thomas Partey,Pass (Live)
+21,66,Kai Havertz,Arsenal,0.02,,Off Target,17.0,Left Foot,Volley,Eddie Nketiah,Shot,,
+22,70,Jordan Ayew,Crystal Palace,0.1,,Blocked,9.0,Right Foot,Volley,Eberechi Eze,Pass (Dead),Jordan Ayew,Fouled
+23,86,Odsonne Édouard,Crystal Palace,0.24,,Off Target,10.0,Head,,Tyrick Mitchell,Pass (Live),Joachim Andersen,Pass (Live)
+24,87,Jesurun Rak Sakyi,Crystal Palace,0.02,,Blocked,18.0,Left Foot,,Jesurun Rak Sakyi,Take-On,Jordan Ayew,Pass (Live)
+25,88,Jordan Ayew,Crystal Palace,0.03,,Blocked,10.0,Left Foot,,Tyrick Mitchell,Pass (Live),Joachim Andersen,Pass (Live)
+26,90+5,Cheick Doucouré,Crystal Palace,0.1,,Blocked,9.0,Head,,Jesurun Rak Sakyi,Pass (Live),Marc Guéhi,Pass (Live)
+27,90+5,Odsonne Édouard,Crystal Palace,0.13,0.13,Saved,4.0,Right Foot,Volley,Jefferson Lerma,Pass (Live),Cheick Doucouré,Shot
+28,90+5,Tyrick Mitchell,Crystal Palace,0.06,,Off Target,12.0,Left Foot,Volley,Odsonne Édouard,Shot,,

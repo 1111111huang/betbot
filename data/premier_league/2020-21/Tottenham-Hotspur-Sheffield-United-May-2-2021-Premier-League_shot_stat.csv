@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Ben Osborn,Sheffield Utd,0.12,,Blocked,7.0,Left Foot,,Enda Stevens,Pass (Live),Rhian Brewster,Pass (Live)
+1,7,David McGoldrick,Sheffield Utd,0.03,,Off Target,27.0,Left Foot,,,,,
+2,12,Gareth Bale,Tottenham,0.04,,Off Target,19.0,Left Foot,,Harry Kane,Pass (Live),Serge Aurier,Pass (Live)
+3,14,Dele Alli,Tottenham,0.03,0.06,Saved,23.0,Head,,Toby Alderweireld,Pass (Live),Eric Dier,Pass (Live)
+4,16,Son Heung-min,Tottenham,0.03,0.12,Saved,25.0,Left Foot,,Serge Aurier,Pass (Live),Serge Aurier,Tackle
+5,18,Harry Kane,Tottenham,0.08,,Blocked,15.0,Left Foot,,Harry Kane,Take-On,Son Heung-min,Pass (Live)
+6,26,Harry Kane,Tottenham,0.07,,Off Target,17.0,Left Foot,,Sergio Reguilón,Pass (Live),Sergio Reguilón,Take-On
+7,31,Rhian Brewster,Sheffield Utd,0.03,,Off Target,26.0,Left Foot,,George Baldock,Pass (Live),John Fleck,Pass (Live)
+8,36,Gareth Bale,Tottenham,0.61,0.77,Goal,5.0,Left Foot,,Serge Aurier,Pass (Live),,
+9,40,John Fleck,Sheffield Utd,0.03,,Blocked,25.0,Right Foot,,Rhian Brewster,Pass (Live),George Baldock,Pass (Live)
+10,41,Harry Kane,Tottenham,0.06,,Blocked,29.0,Right Foot,Free kick,Son Heung-min,Fouled,Dele Alli,Pass (Live)
+11,41,Harry Kane,Tottenham,0.02,,Off Target,26.0,Right Foot,,Harry Kane,Shot,,
+12,45,Giovani Lo Celso,Tottenham,0.03,,Off Target,24.0,Left Foot,,Son Heung-min,Pass (Live),Dele Alli,Pass (Live)
+13,45+2,Dele Alli,Tottenham,0.03,0.13,Saved,26.0,Right Foot,,Harry Kane,Pass (Live),Son Heung-min,Pass (Live)
+14,,,,,,,,,,,,,
+15,49,George Baldock,Sheffield Utd,0.05,,Blocked,18.0,Left Foot,Volley,Sander Berge,Pass (Live),Ben Osborn,Pass (Live)
+16,55,Gareth Bale,Tottenham,0.02,0.03,Saved,33.0,Left Foot,,Serge Aurier,Interception,,
+17,61,Gareth Bale,Tottenham,0.35,0.75,Goal,18.0,Left Foot,,Son Heung-min,Pass (Live),Son Heung-min,Take-On
+18,65,Oliver Norwood,Sheffield Utd,0.09,0.09,Saved,17.0,Right Foot,,Oliver Burke,Pass (Live),George Baldock,Pass (Live)
+19,67,Gareth Bale,Tottenham,0.05,0.04,Saved,29.0,Left Foot,Free kick,Gareth Bale,Fouled,Giovani Lo Celso,Pass (Live)
+20,69,Gareth Bale,Tottenham,0.06,0.12,Goal,22.0,Left Foot,,Serge Aurier,Pass (Live),Serge Aurier,Take-On
+21,74,Toby Alderweireld,Tottenham,0.06,,Blocked,10.0,Right Foot,Volley,Son Heung-min,Pass (Dead),Harry Kane,Pass (Live)
+22,75,Toby Alderweireld,Tottenham,0.05,0.02,Saved,10.0,Right Foot,,Son Heung-min,Pass (Dead),Toby Alderweireld,Shot
+23,77,Son Heung-min,Tottenham,0.03,0.41,Goal,24.0,Right Foot,,Son Heung-min,Take-On,Steven Bergwijn,Pass (Live)
+24,80,Ben Osborn,Sheffield Utd,0.06,,Blocked,16.0,Left Foot,,Oliver Burke,Pass (Live),Ben Osborn,Pass (Live)
+25,82,Enda Stevens,Sheffield Utd,0.06,,Off Target,8.0,Head,,Chris Basham,Pass (Live),Sander Berge,Pass (Live)
+26,90,Harry Kane,Tottenham,0.04,,Blocked,18.0,Right Foot,,Son Heung-min,Pass (Live),Érik Lamela,Pass (Live)
+27,90+1,Harry Kane,Tottenham,0.48,,Off Target,4.0,Head,,Toby Alderweireld,Pass (Live),Eric Dier,Pass (Live)
+28,90+3,Sergio Reguilón,Tottenham,0.06,,Off Target,16.0,Left Foot,,Harry Kane,Pass (Live),Pierre Højbjerg,Pass (Live)

@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Jacob Murphy,Newcastle Utd,0.03,0.5,Goal,14.0,Right Foot,Volley,Kieran Trippier,Pass (Live),Fabian Schär,Pass (Live)
+1,8,Jean-Philippe Mateta,Crystal Palace,0.09,,Off Target,9.0,Head,,Will Hughes,Pass (Dead),Jefferson Lerma,Pass (Live)
+2,19,Tyrick Mitchell,Crystal Palace,0.04,,Off Target,20.0,Left Foot,Volley,,,,
+3,25,Jacob Murphy,Newcastle Utd,0.02,0.02,Saved,26.0,Right Foot,,Sean Longstaff,Fouled,Anthony Gordon,Pass (Live)
+4,30,Anthony Gordon,Newcastle Utd,0.38,,Woodwork,5.0,Right Foot,Volley,Jacob Murphy,Take-On,Sean Longstaff,Pass (Live)
+5,34,Callum Wilson,Newcastle Utd,0.25,,Off Target,3.0,Head,,Kieran Trippier,Pass (Live),Jacob Murphy,Pass (Live)
+6,37,Bruno Guimarães,Newcastle Utd,0.13,0.23,Saved,3.0,Right Foot,,Kieran Trippier,Pass (Dead),Bruno Guimarães,Pass (Live)
+7,42,Sean Longstaff,Newcastle Utd,0.04,,Off Target,11.0,Right Foot,Volley,Fabian Schär,Pass (Live),Jamaal Lascelles,Pass (Live)
+8,44,Anthony Gordon,Newcastle Utd,0.37,0.7,Goal,5.0,Left Foot,,Jacob Murphy,Pass (Live),Callum Wilson,Pass (Live)
+9,45+2,Sean Longstaff,Newcastle Utd,0.53,0.83,Goal,9.0,Right Foot,,Sean Longstaff,Take-On,Fabian Schär,Pass (Live)
+10,,,,,,,,,,,,,
+11,53,Jordan Ayew,Crystal Palace,0.02,,Blocked,24.0,Right Foot,,Jordan Ayew,Take-On,Jefferson Lerma,Pass (Live)
+12,53,Odsonne Édouard,Crystal Palace,0.05,,Blocked,17.0,Right Foot,,Will Hughes,Pass (Live),Jordan Ayew,Pass (Live)
+13,54,Joel Ward,Crystal Palace,0.01,,Off Target,24.0,Right Foot,Volley,Cheick Doucouré,Pass (Live),Odsonne Édouard,Shot
+14,57,Odsonne Édouard,Crystal Palace,0.11,,Blocked,9.0,Right Foot,,Tyrick Mitchell,Pass (Live),Joel Ward,Pass (Live)
+15,61,Jefferson Lerma,Crystal Palace,0.01,,Off Target,38.0,Right Foot,Volley,,,,
+16,66,Cheick Doucouré,Crystal Palace,0.06,0.3,Saved,21.0,Right Foot,,Jesurun Rak Sakyi,Pass (Live),Tyrick Mitchell,Pass (Live)
+17,66,Callum Wilson,Newcastle Utd,0.48,0.66,Goal,10.0,Right Foot,,Jacob Murphy,Pass (Live),Kieran Trippier,Pass (Live)
+18,74,Jordan Ayew,Crystal Palace,0.02,,Off Target,10.0,Head,,Matheus França,Pass (Dead),Jordan Ayew,Pass (Live)
+19,74,Cheick Doucouré,Crystal Palace,0.05,,Off Target,18.0,Right Foot,,Jordan Ayew,Shot,,
+20,74,Marc Guéhi,Crystal Palace,0.1,,Blocked,9.0,Left Foot,,Cheick Doucouré,Shot,,
+21,74,Marc Guéhi,Crystal Palace,0.17,,Off Target,11.0,Right Foot,,Marc Guéhi,Shot,,
+22,75,Miguel Almirón,Newcastle Utd,0.16,0.07,Saved,15.0,Left Foot,,Alexander Isak,Pass (Live),Joelinton,Pass (Live)
+23,77,Matheus França,Crystal Palace,0.02,,Off Target,34.0,Right Foot,,,,,
+24,78,Jordan Ayew,Crystal Palace,0.12,,Off Target,11.0,Left Foot,,Matheus França,Pass (Live),Jefferson Lerma,Pass (Live)
+25,84,Odsonne Édouard,Crystal Palace,0.07,0.59,Saved,29.0,Right Foot,Free kick,Odsonne Édouard,Fouled,Cheick Doucouré,Pass (Live)
+26,87,Joel Ward,Crystal Palace,0.06,,Off Target,10.0,Head,,Matheus França,Pass (Dead),Jesurun Rak Sakyi,Pass (Live)
+27,90,Jesurun Rak Sakyi,Crystal Palace,0.21,0.1,Saved,10.0,Right Foot,,Matheus França,Pass (Live),Joel Ward,Pass (Live)

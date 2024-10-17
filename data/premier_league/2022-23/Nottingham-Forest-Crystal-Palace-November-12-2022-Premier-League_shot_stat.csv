@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Wilfried Zaha,Crystal Palace,0.03,,Off Target,14.0,Right Foot,Volley,,,,
+1,16,Brennan Johnson,Nott'ham Forest,0.16,,Off Target,12.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Remo Freuler,Pass (Live)
+2,19,Jeffrey Schlupp,Crystal Palace,0.07,,Off Target,18.0,Left Foot,,Tyrick Mitchell,Pass (Live),Joachim Andersen,Pass (Live)
+3,28,Eberechi Eze,Crystal Palace,0.04,,Off Target,22.0,Right Foot,,Cheick Doucouré,Pass (Live),Jeffrey Schlupp,Pass (Live)
+4,34,Renan Lodi,Nott'ham Forest,0.05,,Off Target,22.0,Left Foot,Free kick,Jesse Lingard,Fouled,,
+5,41,Wilfried Zaha (pen),Crystal Palace,0.79,,Woodwork,13.0,Right Foot,,Wilfried Zaha,Fouled,Jordan Ayew,Pass (Live)
+6,,,,,,,,,,,,,
+7,46,Willy Boly,Nott'ham Forest,0.02,,Blocked,22.0,Right Foot,Volley,Morgan Gibbs-White,Pass (Dead),Renan Lodi,Fouled
+8,53,Jordan Ayew,Crystal Palace,0.05,,Off Target,18.0,Left Foot,,Wilfried Zaha,Pass (Live),Cheick Doucouré,Pass (Live)
+9,54,Brennan Johnson,Nott'ham Forest,0.02,0.05,Saved,20.0,Right Foot,,Serge Aurier,Pass (Live),Remo Freuler,Pass (Live)
+10,54,Morgan Gibbs-White,Nott'ham Forest,0.39,0.99,Goal,4.0,Right Foot,Volley,Brennan Johnson,Shot,,
+11,60,Morgan Gibbs-White,Nott'ham Forest,0.28,,Off Target,14.0,Right Foot,,Jesse Lingard,Pass (Live),Joe Worrall,Pass (Dead)
+12,74,Joe Worrall,Nott'ham Forest,0.02,,Off Target,16.0,Right Foot,Volley,Brennan Johnson,Fouled,Brennan Johnson,Take-On
+13,75,Jesse Lingard,Nott'ham Forest,0.14,,Off Target,12.0,Right Foot,,Brennan Johnson,Pass (Live),Morgan Gibbs-White,Pass (Live)
+14,85,Sam Surridge,Nott'ham Forest,0.07,,Off Target,15.0,Right Foot,,Morgan Gibbs-White,Pass (Live),Willy Boly,Pass (Live)
+15,90,Odsonne Édouard,Crystal Palace,0.12,,Off Target,10.0,Head,,Michael Olise,Pass (Live),Malcolm Ebiowei,Pass (Live)
+16,90+1,Wilfried Zaha,Crystal Palace,0.04,,Blocked,13.0,Right Foot,,Will Hughes,Pass (Live),Marc Guéhi,Pass (Live)
+17,90+7,Jeffrey Schlupp,Crystal Palace,0.1,,Off Target,10.0,Head,,Wilfried Zaha,Pass (Live),Wilfried Zaha,Fouled

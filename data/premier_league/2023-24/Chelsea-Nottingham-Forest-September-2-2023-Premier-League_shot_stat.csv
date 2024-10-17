@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Enzo Fernández,Chelsea,0.04,,Blocked,21.0,Left Foot,,Nicolas Jackson,Take-On,Moisés Caicedo,Pass (Live)
+1,2,Raheem Sterling,Chelsea,0.32,,Blocked,5.0,Left Foot,,Ben Chilwell,Pass (Live),Moisés Caicedo,Pass (Live)
+2,16,Conor Gallagher,Chelsea,0.05,,Off Target,23.0,Left Foot,,,,,
+3,22,Ben Chilwell,Chelsea,0.19,,Off Target,10.0,Right Foot,,Raheem Sterling,Pass (Live),Nicolas Jackson,Pass (Live)
+4,26,Taiwo Awoniyi,Nott'ham Forest,0.13,,Off Target,8.0,Right Foot,Volley,Taiwo Awoniyi,Fouled,Matt Turner,Pass (Live)
+5,31,Taiwo Awoniyi,Nott'ham Forest,0.1,,Off Target,5.0,Right Foot,Volley,Scott McKenna,Pass (Live),Morgan Gibbs-White,Pass (Dead)
+6,35,Enzo Fernández,Chelsea,0.08,,Off Target,21.0,Left Foot,,Malo Gusto,Pass (Live),Conor Gallagher,Pass (Live)
+7,37,Ben Chilwell,Chelsea,0.07,,Blocked,25.0,Left Foot,Free kick,Nicolas Jackson,Fouled,Nicolas Jackson,Take-On
+8,39,Nicolas Jackson,Chelsea,0.11,,Blocked,13.0,Right Foot,,Conor Gallagher,Pass (Live),Conor Gallagher,Tackle
+9,43,Orel Mangala,Nott'ham Forest,0.01,,Off Target,25.0,Right Foot,Volley,Morgan Gibbs-White,Pass (Dead),Ola Aina,Fouled
+10,45,Raheem Sterling,Chelsea,0.06,,Blocked,11.0,Right Foot,,Enzo Fernández,Pass (Live),Conor Gallagher,Pass (Live)
+11,45+4,Nicolas Jackson,Chelsea,0.13,,Blocked,13.0,Right Foot,,Raheem Sterling,Pass (Live),Ben Chilwell,Pass (Live)
+12,45+4,Enzo Fernández,Chelsea,0.02,0.02,Saved,32.0,Right Foot,,Nicolas Jackson,Pass (Live),Nicolas Jackson,Take-On
+13,45+6,Enzo Fernández,Chelsea,0.07,,Blocked,28.0,Right Foot,Free kick,Moisés Caicedo,Fouled,Enzo Fernández,Pass (Live)
+14,,,,,,,,,,,,,
+15,48,Ryan Yates,Nott'ham Forest,0.02,,Off Target,37.0,Right Foot,,Taiwo Awoniyi,Pass (Live),Orel Mangala,Interception
+16,48,Anthony Elanga,Nott'ham Forest,0.43,0.68,Goal,16.0,Right Foot,,Taiwo Awoniyi,Pass (Live),Orel Mangala,Pass (Live)
+17,53,Moisés Caicedo,Chelsea,0.08,,Blocked,22.0,Left Foot,,Enzo Fernández,Pass (Live),Moisés Caicedo,Pass (Live)
+18,54,Axel Disasi,Chelsea,0.1,,Off Target,8.0,Head,,Moisés Caicedo,Shot,,
+19,56,Nicolas Jackson,Chelsea,0.3,,Blocked,8.0,Right Foot,,Enzo Fernández,Pass (Live),Raheem Sterling,Pass (Live)
+20,64,Axel Disasi,Chelsea,0.03,,Blocked,26.0,Right Foot,,Thiago Silva,Pass (Live),Levi Colwill,Pass (Live)
+21,78,Noni Madueke,Chelsea,0.02,,Blocked,18.0,Left Foot,,Enzo Fernández,Pass (Live),Thiago Silva,Pass (Live)
+22,83,Nicolas Jackson,Chelsea,0.45,,Off Target,5.0,Right Foot,,Cole Palmer,Pass (Live),Enzo Fernández,Pass (Live)
+23,86,Thiago Silva,Chelsea,0.06,0.15,Saved,9.0,Right Foot,,Enzo Fernández,Pass (Dead),Noni Madueke,Fouled
+24,87,Mykhailo Mudryk,Chelsea,0.02,,Blocked,36.0,Right Foot,,Ian Maatsen,Pass (Live),,
+25,88,Ian Maatsen,Chelsea,0.07,,Blocked,22.0,Left Foot,,Cole Palmer,Pass (Live),Cole Palmer,Take-On
+26,89,Anthony Elanga,Nott'ham Forest,0.03,0.14,Saved,29.0,Right Foot,,Anthony Elanga,Take-On,Anthony Elanga,Take-On
+27,90+5,Anthony Elanga,Nott'ham Forest,0.04,0.12,Saved,12.0,Right Foot,,Anthony Elanga,Take-On,Cheikhou Kouyaté,Pass (Live)
+28,90+6,Raheem Sterling,Chelsea,0.05,,Off Target,14.0,Right Foot,,Axel Disasi,Pass (Live),Nicolas Jackson,Pass (Live)

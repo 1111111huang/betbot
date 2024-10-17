@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6.0,Son Heung-min,Tottenham,0.03,,Blocked,27.0,Left Foot,,Giovani Lo Celso,Pass (Live),Son Heung-min,Pass (Live)
+1,7.0,Giovani Lo Celso,Tottenham,0.02,,Off Target,23.0,Left Foot,,Son Heung-min,Shot,,
+2,8.0,Edinson Cavani,Manchester Utd,0.01,,Off Target,14.0,Head,,Bruno Fernandes,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+3,9.0,Edinson Cavani,Manchester Utd,0.19,,Blocked,13.0,Right Foot,,Aaron Wan-Bissaka,Pass (Live),Victor Lindelöf,Pass (Live)
+4,9.0,Scott McTominay,Manchester Utd,0.01,,Blocked,34.0,Right Foot,,Fred,Pass (Live),Luke Shaw,Pass (Live)
+5,24.0,Giovani Lo Celso,Tottenham,0.06,,Blocked,26.0,Left Foot,Free kick,Giovani Lo Celso,Fouled,Lucas Moura,Pass (Live)
+6,24.0,Son Heung-min,Tottenham,0.23,,Off Target,5.0,Right Foot,Volley,Lucas Moura,Pass (Live),Oliver Skipp,Pass (Live)
+7,25.0,Edinson Cavani,Manchester Utd,0.12,,Off Target,9.0,Head,,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)
+8,28.0,Eric Dier,Tottenham,0.07,,Off Target,10.0,Head,,Son Heung-min,Pass (Dead),Emerson,Take-On
+9,33.0,Fred,Manchester Utd,0.02,0.43,Saved,34.0,Left Foot,,Cristiano Ronaldo,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+10,39.0,Aaron Wan-Bissaka,Manchester Utd,0.02,,Blocked,18.0,Right Foot,,Luke Shaw,Pass (Live),Luke Shaw,Take-On
+11,39.0,Cristiano Ronaldo,Manchester Utd,0.08,,Blocked,16.0,Right Foot,,Aaron Wan-Bissaka,Shot,,
+12,39.0,Cristiano Ronaldo,Manchester Utd,0.04,0.54,Goal,9.0,Right Foot,Volley,Bruno Fernandes,Pass (Live),Luke Shaw,Pass (Live)
+13,44.0,Giovani Lo Celso,Tottenham,0.06,,Off Target,23.0,Left Foot,,Emerson,Pass (Live),Emerson,Take-On
+14,45.0,Ben Davies,Tottenham,0.42,,Off Target,5.0,Head,,Giovani Lo Celso,Pass (Dead),Giovani Lo Celso,Take-On
+15,,,,,,,,,,,,,
+16,47.0,Son Heung-min,Tottenham,0.12,,Off Target,22.0,Right Foot,,Lucas Moura,Pass (Live),,
+17,64.0,Edinson Cavani,Manchester Utd,0.55,0.82,Goal,17.0,Right Foot,,Cristiano Ronaldo,Pass (Live),Cristiano Ronaldo,Take-On
+18,83.0,Harry Kane,Tottenham,0.04,,Blocked,8.0,Right Foot,,Steven Bergwijn,Pass (Live),Dele Alli,Pass (Live)
+19,86.0,Marcus Rashford,Manchester Utd,0.45,0.64,Goal,14.0,Right Foot,,Nemanja Matić,Pass (Live),Nemanja Matić,Pass (Live)

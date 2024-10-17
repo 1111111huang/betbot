@@ -1,0 +1,39 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Tariq Lamptey,Brighton,0.02,0.08,Saved,30.0,Right Foot,,,,,
+1,7,Neal Maupay,Brighton,0.02,,Off Target,30.0,Right Foot,,Danny Welbeck,Pass (Live),Marc Cucurella,Pass (Live)
+2,15,Neal Maupay,Brighton,0.02,,Off Target,16.0,Head,,Pascal Groß,Pass (Live),Tariq Lamptey,Pass (Live)
+3,20,Neal Maupay,Brighton,0.18,,Off Target,13.0,Left Foot,,Solly March,Pass (Live),Leandro Trossard,Pass (Live)
+4,20,Danny Welbeck,Brighton,0.1,,Blocked,9.0,Left Foot,,Neal Maupay,Shot,,
+5,22,Alexis Mac Allister,Brighton,0.02,,Off Target,32.0,Right Foot,,Marc Cucurella,Pass (Live),Alexis Mac Allister,Pass (Live)
+6,24,Joël Veltman,Brighton,0.03,,Off Target,24.0,Right Foot,,Danny Welbeck,Pass (Live),Marc Cucurella,Pass (Live)
+7,27,Danny Welbeck,Brighton,0.26,,Off Target,13.0,Right Foot,,Pascal Groß,Pass (Live),Tariq Lamptey,Pass (Live)
+8,27,Alexis Mac Allister,Brighton,0.07,,Blocked,23.0,Right Foot,,Alexis Mac Allister,Take-On,Neal Maupay,Pass (Live)
+9,29,Neal Maupay (pen),Brighton,0.79,,Off Target,13.0,Right Foot,,,Fouled,Tariq Lamptey,Pass (Live)
+10,31,Kenny McLean,Norwich City,0.02,,Off Target,31.0,Right Foot,,Dimitris Giannoulis,Pass (Live),Dimitris Giannoulis,Take-On
+11,34,Tariq Lamptey,Brighton,0.04,,Blocked,20.0,Left Foot,,Danny Welbeck,Pass (Live),Neal Maupay,Pass (Live)
+12,38,Alexis Mac Allister,Brighton,0.06,,Off Target,21.0,Right Foot,,Solly March,Pass (Dead),Tariq Lamptey,Fouled
+13,41,Solly March,Brighton,0.02,,Off Target,21.0,Left Foot,,Marc Cucurella,Pass (Live),Leandro Trossard,Pass (Live)
+14,44,Alexis Mac Allister,Brighton,0.02,,Off Target,29.0,Right Foot,,Marc Cucurella,Pass (Live),Solly March,Pass (Live)
+15,,,,,,,,,,,,,
+16,49,Milot Rashica,Norwich City,0.05,,Blocked,10.0,Right Foot,,Kenny McLean,Pass (Live),Sam Byram,Pass (Live)
+17,54,Leandro Trossard,Brighton,0.06,,Blocked,11.0,Left Foot,,Leandro Trossard,Take-On,Leandro Trossard,Take-On
+18,54,Joël Veltman,Brighton,0.19,0.04,Saved,9.0,Head,,Lewis Dunk,Shot,,
+19,54,Lewis Dunk,Brighton,0.02,,Off Target,12.0,Head,,Solly March,Pass (Dead),Leandro Trossard,Shot
+20,55,Danny Welbeck,Brighton,0.02,,Off Target,11.0,Head,,Solly March,Pass (Dead),Joël Veltman,Shot
+21,55,Neal Maupay,Brighton,0.08,,Off Target,11.0,Right Foot,,Danny Welbeck,Shot,,
+22,63,Leandro Trossard,Brighton,0.11,,Blocked,20.0,Left Foot,,Danny Welbeck,Pass (Live),Alexis Mac Allister,Pass (Live)
+23,64,Lewis Dunk,Brighton,0.1,,Blocked,12.0,Left Foot,,Solly March,Pass (Live),Marc Cucurella,Pass (Live)
+24,64,Joël Veltman,Brighton,0.06,,Blocked,12.0,Right Foot,Volley,Lewis Dunk,Shot,,
+25,64,Solly March,Brighton,0.03,,Off Target,15.0,Left Foot,,Neal Maupay,Pass (Live),Joël Veltman,Pass (Live)
+26,66,Tariq Lamptey,Brighton,0.04,,Off Target,26.0,Right Foot,,Leandro Trossard,Pass (Live),Marc Cucurella,Pass (Live)
+27,68,Billy Gilmour,Norwich City,0.01,,Blocked,15.0,Right Foot,,Kenny McLean,Pass (Live),Billy Gilmour,Pass (Live)
+28,73,Alexis Mac Allister,Brighton,0.08,,Blocked,26.0,Right Foot,Free kick,Danny Welbeck,Fouled,Alexis Mac Allister,Pass (Live)
+29,74,Lewis Dunk,Brighton,0.03,,Off Target,11.0,Head,,Pascal Groß,Pass (Dead),,
+30,77,Solly March,Brighton,0.03,0.05,Saved,23.0,Right Foot,,Leandro Trossard,Pass (Live),Joël Veltman,Pass (Live)
+31,77,Neal Maupay,Brighton,0.21,,Off Target,11.0,Left Foot,,Leandro Trossard,Pass (Live),Leandro Trossard,Take-On
+32,79,Milot Rashica,Norwich City,0.26,,Off Target,9.0,Right Foot,Volley,Teemu Pukki,Pass (Live),Teemu Pukki,Take-On
+33,83,Kenny McLean,Norwich City,0.02,,Blocked,18.0,Left Foot,,Dimitris Giannoulis,Pass (Live),Christos Tzolis,Pass (Live)
+34,85,Teemu Pukki,Norwich City,0.01,,Off Target,23.0,Right Foot,,,,,
+35,90,Alexis Mac Allister,Brighton,0.03,0.03,Saved,26.0,Right Foot,Volley,Tariq Lamptey,Pass (Live),Leandro Trossard,Pass (Live)
+36,90+2,Leandro Trossard,Brighton,0.07,,Blocked,14.0,Right Foot,,Marc Cucurella,Pass (Live),Pascal Groß,Pass (Live)
+37,90+2,Alexis Mac Allister,Brighton,0.04,,Off Target,15.0,Left Foot,,Marc Cucurella,Pass (Live),Pascal Groß,Pass (Live)

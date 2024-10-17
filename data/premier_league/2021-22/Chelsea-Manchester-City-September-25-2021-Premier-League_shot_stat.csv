@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Aymeric Laporte,Manchester City,0.07,,Off Target,9.0,Head,,Phil Foden,Pass (Dead),Bernardo Silva,Pass (Live)
+1,18.0,Timo Werner,Chelsea,0.02,,Blocked,17.0,Right Foot,Deflected,Antonio Rüdiger,Pass (Live),Jorginho,Pass (Live)
+2,31.0,Kevin De Bruyne,Manchester City,0.06,,Blocked,19.0,Left Foot,,Kyle Walker,Pass (Live),Rúben Dias,Pass (Live)
+3,34.0,Rodri,Manchester City,0.03,,Blocked,31.0,Right Foot,,Jack Grealish,Pass (Live),Rodri,Pass (Live)
+4,34.0,Rúben Dias,Manchester City,0.11,,Blocked,5.0,Head,,Phil Foden,Pass (Dead),Rodri,Shot
+5,39.0,Kevin De Bruyne,Manchester City,0.03,,Off Target,27.0,Right Foot,,Jack Grealish,Pass (Live),Rodri,Pass (Live)
+6,41.0,Gabriel Jesus,Manchester City,0.14,,Off Target,13.0,Left Foot,Volley,Phil Foden,Pass (Live),Kevin De Bruyne,Pass (Live)
+7,,,,,,,,,,,,,
+8,48.0,Kevin De Bruyne,Manchester City,0.05,,Blocked,23.0,Right Foot,,Bernardo Silva,Pass (Live),Jack Grealish,Pass (Live)
+9,48.0,Jack Grealish,Manchester City,0.03,,Off Target,19.0,Right Foot,,Kevin De Bruyne,Pass (Live),Kyle Walker,Pass (Live)
+10,53.0,João Cancelo,Manchester City,0.04,,Blocked,24.0,Left Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+11,53.0,Gabriel Jesus,Manchester City,0.03,0.14,Goal,17.0,Right Foot,Deflected,João Cancelo,Shot,,
+12,58.0,Jack Grealish,Manchester City,0.04,0.44,Saved,13.0,Right Foot,,Jack Grealish,Take-On,João Cancelo,Pass (Live)
+13,61.0,Gabriel Jesus,Manchester City,0.19,,Blocked,11.0,Left Foot,,Jack Grealish,Pass (Live),Rodri,Pass (Live)
+14,66.0,Marcos Alonso,Chelsea,0.05,,Blocked,25.0,Left Foot,Free kick,Romelu Lukaku,Fouled,César Azpilicueta,Pass (Live)
+15,68.0,Kevin De Bruyne,Manchester City,0.05,,Blocked,18.0,Left Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+16,71.0,Mateo Kovačić,Chelsea,0.09,,Blocked,20.0,Right Foot,,Romelu Lukaku,Pass (Live),,
+17,79.0,Aymeric Laporte,Manchester City,0.35,,Off Target,10.0,Left Foot,,Kevin De Bruyne,Pass (Dead),Kyle Walker,Fouled
+18,83.0,Jack Grealish,Manchester City,0.48,0.1,Saved,17.0,Right Foot,,Phil Foden,Pass (Live),Gabriel Jesus,Pass (Live)
+19,85.0,Timo Werner,Chelsea,0.06,,Blocked,16.0,Left Foot,,César Azpilicueta,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+20,89.0,Marcos Alonso,Chelsea,0.01,,Off Target,62.0,Left Foot,,Antonio Rüdiger,Pass (Live),Thiago Silva,Pass (Live)

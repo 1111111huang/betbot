@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Christian Benteke,Crystal Palace,0.12,0.43,Goal,17.0,Left Foot,Deflected,Joachim Andersen,Pass (Live),Jordan Ayew,Pass (Live)
+1,9,Conor Gallagher,Crystal Palace,0.11,0.03,Saved,17.0,Left Foot,,Christian Benteke,Pass (Live),Wilfried Zaha,Pass (Live)
+2,11,Josh Brownhill,Burnley,0.06,,Off Target,28.0,Right Foot,Free kick,Chris Wood,Fouled,Ben Mee,Pass (Live)
+3,19,Ben Mee,Burnley,0.19,0.83,Goal,5.0,Head,,Ashley Westwood,Pass (Dead),Ashley Westwood,Pass (Live)
+4,20,Jóhann Berg Guðmundsson,Burnley,0.07,0.21,Saved,9.0,Left Foot,,Dwight McNeil,Pass (Live),Dwight McNeil,Take-On
+5,20,Wilfried Zaha,Crystal Palace,0.14,,Off Target,14.0,Left Foot,,Jordan Ayew,Pass (Live),,
+6,20,Christian Benteke,Crystal Palace,0.13,,Off Target,5.0,Right Foot,,Wilfried Zaha,Shot,,
+7,27,Chris Wood,Burnley,0.1,0.38,Goal,9.0,Head,,James Tarkowski,Pass (Live),Dwight McNeil,Pass (Dead)
+8,28,Christian Benteke,Crystal Palace,0.29,,Off Target,9.0,Head,,Conor Gallagher,Pass (Live),Cheikhou Kouyaté,Pass (Live)
+9,33,Luka Milivojević,Crystal Palace,0.06,,Off Target,24.0,Right Foot,Free kick,Wilfried Zaha,Fouled,Christian Benteke,Pass (Live)
+10,36,Christian Benteke,Crystal Palace,0.21,0.39,Goal,16.0,Right Foot,,Conor Gallagher,Pass (Live),Conor Gallagher,Take-On
+11,37,Ashley Westwood,Burnley,0.04,,Blocked,19.0,Right Foot,Volley,Maxwel Cornet,Pass (Live),Charlie Taylor,Pass (Live)
+12,38,Matthew Lowton,Burnley,0.03,0.04,Saved,28.0,Right Foot,,Ashley Westwood,Shot,,
+13,38,Wilfried Zaha,Crystal Palace,0.02,,Off Target,31.0,Right Foot,,Cheikhou Kouyaté,Pass (Live),,
+14,39,James Tarkowski,Burnley,0.07,,Off Target,10.0,Head,,Dwight McNeil,Pass (Dead),Charlie Taylor,Fouled
+15,41,Joachim Andersen,Crystal Palace,0.27,0.38,Saved,5.0,Head,,Cheikhou Kouyaté,Pass (Live),Jordan Ayew,Pass (Live)
+16,41,Marc Guéhi,Crystal Palace,0.38,0.11,Goal,7.0,Right Foot,Deflected,Joachim Andersen,Shot,,
+17,45,Marc Guéhi,Crystal Palace,0.12,0.03,Saved,10.0,Right Foot,,Luka Milivojević,Pass (Dead),Jordan Ayew,Pass (Live)
+18,,,,,,,,,,,,,
+19,47,Jóhann Berg Guðmundsson,Burnley,0.03,,Off Target,21.0,Left Foot,,Dwight McNeil,Fouled,,
+20,49,Maxwel Cornet,Burnley,0.07,0.2,Goal,11.0,Left Foot,Volley,James Tarkowski,Pass (Live),Jóhann Berg Guðmundsson,Pass (Live)
+21,54,Jordan Ayew,Crystal Palace,0.02,,Blocked,18.0,Right Foot,,Wilfried Zaha,Pass (Live),Christian Benteke,Pass (Live)
+22,55,Christian Benteke,Crystal Palace,0.01,,Blocked,16.0,Head,,Luka Milivojević,Pass (Dead),Jordan Ayew,Shot
+23,58,Jóhann Berg Guðmundsson,Burnley,0.07,0.1,Saved,18.0,Left Foot,,Ben Mee,Pass (Live),Ashley Westwood,Pass (Live)
+24,63,Michael Olise,Crystal Palace,0.02,,Blocked,25.0,Left Foot,,Conor Gallagher,Pass (Live),Cheikhou Kouyaté,Pass (Live)
+25,63,Wilfried Zaha,Crystal Palace,0.05,0.07,Saved,17.0,Left Foot,Volley,Michael Olise,Shot,,
+26,71,Joel Ward,Crystal Palace,0.02,,Off Target,22.0,Right Foot,Volley,Christian Benteke,Pass (Live),Wilfried Zaha,Pass (Live)
+27,76,James Tarkowski,Burnley,0.05,0.1,Saved,12.0,Head,,Dwight McNeil,Pass (Live),Charlie Taylor,Pass (Live)
+28,79,Ben Mee,Burnley,0.09,,Off Target,8.0,Head,,Dwight McNeil,Pass (Dead),Charlie Taylor,Fouled
+29,82,Luka Milivojević,Crystal Palace,0.04,,Blocked,22.0,Right Foot,,Jeffrey Schlupp,Pass (Live),Wilfried Zaha,Pass (Live)
+30,88,Josh Brownhill,Burnley,0.07,0.06,Saved,22.0,Right Foot,,Josh Brownhill,Pass (Live),Josh Brownhill,Take-On
+31,90,Jóhann Berg Guðmundsson,Burnley,0.01,,Blocked,27.0,Left Foot,"Deflected, Volley",Dwight McNeil,Pass (Live),Dwight McNeil,Pass (Live)
+32,90+1,Michael Olise,Crystal Palace,0.03,0.05,Saved,20.0,Left Foot,,Joel Ward,Pass (Live),,
+33,90+3,Matěj Vydra,Burnley,0.54,0.52,Saved,15.0,Left Foot,,Josh Brownhill,Pass (Live),,

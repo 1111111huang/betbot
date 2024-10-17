@@ -1,0 +1,22 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Julián Álvarez,Manchester City,0.31,,Off Target,8.0,Other,,Kevin De Bruyne,Pass (Live),João Cancelo,Pass (Live)
+1,9,Kevin De Bruyne,Manchester City,0.03,0.15,Saved,32.0,Right Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+2,13,İlkay Gündoğan,Manchester City,0.05,0.33,Saved,27.0,Right Foot,,Rodri,Pass (Live),Nathan Aké,Pass (Live)
+3,14,Manuel Akanji,Manchester City,0.02,,Blocked,29.0,Right Foot,,Bernardo Silva,Pass (Dead),İlkay Gündoğan,Shot
+4,16,Julián Álvarez,Manchester City,0.1,0.24,Goal,14.0,Right Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+5,28,Andreas Pereira (pen),Fulham,0.79,0.99,Goal,13.0,Right Foot,,Harry Wilson,Fouled,Carlos Vinícius,Pass (Live)
+6,37,Julián Álvarez,Manchester City,0.12,,Blocked,12.0,Right Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+7,42,Jack Grealish,Manchester City,0.04,,Off Target,19.0,Right Foot,,Julián Álvarez,Pass (Live),Nathan Aké,Pass (Live)
+8,45,Jack Grealish,Manchester City,0.08,,Blocked,16.0,Right Foot,,Nathan Aké,Pass (Live),Julián Álvarez,Pass (Live)
+9,45+1,Manuel Akanji,Manchester City,0.14,0.06,Saved,9.0,Head,,Bernardo Silva,Pass (Live),Jack Grealish,Shot
+10,45+3,Manuel Akanji,Manchester City,0.05,,Off Target,12.0,Head,,Kevin De Bruyne,Pass (Dead),Bernardo Silva,Fouled
+11,,,,,,,,,,,,,
+12,62,Harry Wilson,Fulham,0.12,,Off Target,16.0,Left Foot,,Harrison Reed,Pass (Live),Tim Ream,Pass (Live)
+13,64,Kevin De Bruyne,Manchester City,0.01,,Off Target,32.0,Right Foot,Free kick,Jack Grealish,Fouled,İlkay Gündoğan,Pass (Live)
+14,66,Kenny Tete,Fulham,0.03,0.32,Saved,31.0,Right Foot,,Willian,Pass (Live),Carlos Vinícius,Pass (Live)
+15,67,Bernardo Silva,Manchester City,0.04,,Blocked,20.0,Left Foot,,Rodri,Pass (Live),Phil Foden,Pass (Live)
+16,69,Erling Haaland,Manchester City,0.14,,Off Target,8.0,Left Foot,,John Stones,Pass (Live),Bernardo Silva,Pass (Live)
+17,84,Erling Haaland,Manchester City,0.06,,Blocked,13.0,Right Foot,,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Live)
+18,89,Erling Haaland,Manchester City,0.11,,Blocked,8.0,Head,,Kevin De Bruyne,Pass (Live),Erling Haaland,Pass (Live)
+19,90+5,Erling Haaland (pen),Manchester City,0.79,0.99,Goal,13.0,Left Foot,,Kevin De Bruyne,Fouled,Phil Foden,Pass (Live)
+20,90+7,Issa Diop,Fulham,0.01,,Blocked,18.0,Head,,Tom Cairney,Pass (Live),,

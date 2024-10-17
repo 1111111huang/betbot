@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Jamie Vardy,Leicester City,0.04,,Blocked,7.0,Head,,Youri Tielemans,Pass (Dead),Timothy Castagne,Pass (Live)
+1,20,Pervis Estupiñán,Brighton,0.02,,Blocked,25.0,Left Foot,Volley,Pervis Estupiñán,Pass (Live),Solly March,Pass (Live)
+2,24,Danny Welbeck,Brighton,0.7,,Off Target,1.0,Head,,Pascal Groß,Pass (Dead),,
+3,24,Jan Paul van Hecke,Brighton,0.56,,Off Target,2.0,Head,,Danny Welbeck,Shot,,
+4,25,Luke Thomas,Leicester City,0.02,,Saved off Target,14.0,Head,,Youri Tielemans,Pass (Dead),Youri Tielemans,Pass (Live)
+5,27,Kaoru Mitoma,Brighton,0.03,0.55,Goal,22.0,Right Foot,,Pervis Estupiñán,Pass (Live),Alexis Mac Allister,Pass (Live)
+6,38,Harvey Barnes,Leicester City,0.04,,Blocked,17.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Kiernan Dewsbury-Hall,Take-On
+7,38,Youri Tielemans,Leicester City,0.09,,Blocked,13.0,Right Foot,,Harvey Barnes,Shot,,
+8,38,Marc Albrighton,Leicester City,0.3,0.86,Goal,6.0,Right Foot,,Youri Tielemans,Shot,,
+9,42,Pascal Groß,Brighton,0.08,,Blocked,17.0,Left Foot,,Moisés Caicedo,Pass (Live),Alexis Mac Allister,Pass (Live)
+10,42,Joël Veltman,Brighton,0.05,,Off Target,28.0,Right Foot,,Pascal Groß,Shot,,
+11,,,,,,,,,,,,,
+12,51,Solly March,Brighton,0.08,,Blocked,22.0,Left Foot,,Danny Welbeck,Pass (Live),Pascal Groß,Pass (Live)
+13,57,Solly March,Brighton,0.24,,Off Target,12.0,Left Foot,,Kaoru Mitoma,Pass (Live),Kaoru Mitoma,Take-On
+14,62,Harvey Barnes,Leicester City,0.08,,Blocked,13.0,Right Foot,,Kiernan Dewsbury-Hall,Pass (Live),Jamie Vardy,Pass (Live)
+15,63,Luke Thomas,Leicester City,0.05,,Off Target,8.0,Head,,Marc Albrighton,Pass (Dead),Harvey Barnes,Shot
+16,63,Harvey Barnes,Leicester City,0.29,0.09,Goal,4.0,Right Foot,Volley,Luke Thomas,Shot,,
+17,73,Jan Paul van Hecke,Brighton,0.04,,Off Target,31.0,Right Foot,,Alexis Mac Allister,Pass (Live),Kaoru Mitoma,Pass (Live)
+18,76,Solly March,Brighton,0.13,0.08,Saved,12.0,Left Foot,,Alexis Mac Allister,Pass (Live),Pascal Groß,Pass (Live)
+19,80,Tariq Lamptey,Brighton,0.07,,Off Target,16.0,Right Foot,,Pascal Groß,Pass (Live),Tariq Lamptey,Pass (Live)
+20,84,Alexis Mac Allister,Brighton,0.09,0.07,Saved,21.0,Right Foot,,Alexis Mac Allister,Take-On,Alexis Mac Allister,Take-On
+21,88,Evan Ferguson,Brighton,0.07,0.27,Goal,12.0,Head,,Pervis Estupiñán,Pass (Live),Kaoru Mitoma,Pass (Live)
+22,90+4,James Maddison,Leicester City,0.08,,Blocked,25.0,Right Foot,Free kick,James Maddison,Fouled,Luke Thomas,Pass (Live)

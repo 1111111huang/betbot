@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Antonio Rüdiger,Chelsea,0.18,,Blocked,5.0,Head,,Mason Mount,Pass (Dead),Willian,Pass (Live)
+1,8,César Azpilicueta,Chelsea,0.03,,Blocked,28.0,Right Foot,,Willian,Pass (Live),César Azpilicueta,Pass (Live)
+2,19,Allan Saint-Maximin,Newcastle Utd,0.03,,Off Target,26.0,Right Foot,,Jonjo Shelvey,Pass (Live),Joelinton,Pass (Live)
+3,21,Joelinton,Newcastle Utd,0.24,,Woodwork,10.0,Head,,Federico Fernández,Pass (Live),Isaac Hayden,Pass (Live)
+4,29,Tammy Abraham,Chelsea,0.03,,Off Target,31.0,Right Foot,,Jorginho,Pass (Live),Willian,Pass (Live)
+5,34,N'Golo Kanté,Chelsea,0.04,0.18,Saved,11.0,Right Foot,,Reece James,Pass (Live),Andreas Christensen,Pass (Live)
+6,38,Federico Fernández,Newcastle Utd,0.1,,Off Target,10.0,Head,,Jonjo Shelvey,Pass (Dead),Jamaal Lascelles,Fouled
+7,40,Mason Mount,Chelsea,0.28,,Off Target,9.0,Head,,Callum Hudson-Odoi,Pass (Live),Willian,Pass (Live)
+8,43,Mason Mount,Chelsea,0.06,,Blocked,28.0,Right Foot,Free kick,Jorginho,Fouled,N'Golo Kanté,Pass (Live)
+9,45+2,Willian,Chelsea,0.06,,Off Target,12.0,Left Foot,,Willian,Pass (Live),Jorginho,Pass (Live)
+10,45+5,Willian,Chelsea,0.07,,Blocked,21.0,Right Foot,,N'Golo Kanté,Pass (Live),Mason Mount,Pass (Live)
+11,,,,,,,,,,,,,
+12,48,Willian,Chelsea,0.03,,Blocked,25.0,Right Foot,,Reece James,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+13,53,Willian,Chelsea,0.08,,Off Target,15.0,Left Foot,,Mason Mount,Pass (Live),Tammy Abraham,Pass (Live)
+14,55,César Azpilicueta,Chelsea,0.05,0.12,Saved,28.0,Right Foot,,Mason Mount,Pass (Live),Willian,Pass (Live)
+15,58,N'Golo Kanté,Chelsea,0.02,0.04,Saved,32.0,Right Foot,Deflected,Mason Mount,Pass (Live),César Azpilicueta,Pass (Live)
+16,59,César Azpilicueta,Chelsea,0.03,,Blocked,24.0,Right Foot,,Willian,Pass (Live),Reece James,Pass (Live)
+17,60,Jonjo Shelvey,Newcastle Utd,0.03,0.32,Saved,31.0,Right Foot,,Ciaran Clark,Pass (Live),,
+18,60,Tammy Abraham,Chelsea,0.11,,Off Target,9.0,Right Foot,Volley,Callum Hudson-Odoi,Pass (Live),Reece James,Pass (Live)
+19,66,Jorginho,Chelsea,0.03,,Blocked,27.0,Right Foot,,Willian,Pass (Live),César Azpilicueta,Pass (Live)
+20,72,Tammy Abraham,Chelsea,0.54,,Off Target,4.0,Left Foot,,Tammy Abraham,Take-On,,
+21,75,Isaac Hayden,Newcastle Utd,0.02,,Off Target,23.0,Head,,Jonjo Shelvey,Pass (Live),Ciaran Clark,Pass (Dead)
+22,79,Tammy Abraham,Chelsea,0.69,,Blocked,5.0,Right Foot,"Deflected, Volley",César Azpilicueta,Pass (Live),Jorginho,Pass (Live)
+23,83,Emerson Palmieri,Chelsea,0.03,,Blocked,24.0,Left Foot,,N'Golo Kanté,Pass (Live),Jorginho,Pass (Live)
+24,88,Joelinton,Newcastle Utd,0.06,,Off Target,13.0,Left Foot,,Miguel Almirón,Pass (Live),Matthew Longstaff,Pass (Live)
+25,90+1,Callum Hudson-Odoi,Chelsea,0.03,,Off Target,24.0,Right Foot,,Willian,Pass (Live),Andreas Christensen,Pass (Live)
+26,90+4,Isaac Hayden,Newcastle Utd,0.11,0.34,Goal,8.0,Head,,Allan Saint-Maximin,Pass (Live),,

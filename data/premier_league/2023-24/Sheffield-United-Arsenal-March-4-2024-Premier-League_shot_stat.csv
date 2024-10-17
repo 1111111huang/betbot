@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2.0,Declan Rice,Arsenal,0.11,,Blocked,12.0,Right Foot,,,,,
+1,2.0,Bukayo Saka,Arsenal,0.07,,Woodwork,6.0,Left Foot,Volley,Declan Rice,Shot,,
+2,2.0,Gabriel Martinelli,Arsenal,0.15,,Blocked,10.0,Right Foot,Volley,Bukayo Saka,Shot,,
+3,5.0,Martin Ødegaard,Arsenal,0.56,0.89,Goal,9.0,Left Foot,,Gabriel Martinelli,Pass (Live),Jorginho,Pass (Live)
+4,9.0,Martin Ødegaard,Arsenal,0.02,,Off Target,22.0,Left Foot,,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Dead)
+5,11.0,Bukayo Saka,Arsenal,0.11,,Blocked,12.0,Left Foot,,Gabriel Martinelli,Pass (Live),Martin Ødegaard,Pass (Live)
+6,12.0,Jakub Kiwior,Arsenal,0.02,,Blocked,28.0,Left Foot,,Kai Havertz,Pass (Live),Martin Ødegaard,Pass (Live)
+7,15.0,Gabriel Martinelli,Arsenal,0.07,0.2,Goal,14.0,Left Foot,Deflected,Jakub Kiwior,Pass (Live),Gabriel Martinelli,Pass (Live)
+8,20.0,James Mcatee,Sheffield Utd,0.04,,Off Target,26.0,Left Foot,,James Mcatee,Take-On,Oliver McBurnie,Pass (Live)
+9,21.0,Declan Rice,Arsenal,0.03,0.06,Saved,23.0,Right Foot,,Martin Ødegaard,Pass (Live),Declan Rice,Pass (Live)
+10,22.0,Kai Havertz,Arsenal,0.1,0.05,Saved,10.0,Left Foot,Volley,Gabriel Magalhães,Pass (Live),Ben White,Pass (Live)
+11,25.0,Kai Havertz,Arsenal,0.08,0.2,Goal,13.0,Left Foot,,,,,
+12,36.0,Gabriel Martinelli,Arsenal,0.13,,Blocked,17.0,Left Foot,,Jorginho,Pass (Live),Martin Ødegaard,Pass (Live)
+13,37.0,Martin Ødegaard,Arsenal,0.05,,Blocked,18.0,Left Foot,,Declan Rice,Pass (Dead),Gabriel Martinelli,Shot
+14,38.0,Martin Ødegaard,Arsenal,0.05,,Blocked,16.0,Left Foot,,Bukayo Saka,Pass (Live),William Saliba,Pass (Live)
+15,39.0,Declan Rice,Arsenal,0.19,0.24,Goal,12.0,Right Foot,Deflected,Bukayo Saka,Pass (Live),Martin Ødegaard,Pass (Live)
+16,43.0,Bukayo Saka,Arsenal,0.02,,Off Target,19.0,Left Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+17,,,,,,,,,,,,,
+18,46.0,Jayden Bogle,Sheffield Utd,0.09,,Blocked,16.0,Right Foot,,George Baldock,Pass (Live),George Baldock,Take-On
+19,52.0,Declan Rice,Arsenal,0.04,0.04,Saved,26.0,Right Foot,Free kick,Kai Havertz,Fouled,,
+20,53.0,Gabriel Martinelli,Arsenal,0.36,,Off Target,11.0,Left Foot,Volley,Fabio Vieira,Pass (Live),Kai Havertz,Pass (Live)
+21,57.0,Declan Rice,Arsenal,0.04,,Blocked,20.0,Right Foot,,Kai Havertz,Pass (Live),Declan Rice,Pass (Live)
+22,58.0,Ben White,Arsenal,0.04,0.44,Goal,16.0,Left Foot,,Kai Havertz,Pass (Live),Kai Havertz,Take-On
+23,78.0,Jakub Kiwior,Arsenal,0.03,,Off Target,13.0,Other,,Martin Ødegaard,Pass (Live),Fabio Vieira,Pass (Live)
+24,81.0,William Osula,Sheffield Utd,0.06,,Off Target,27.0,Right Foot,,,,,
+25,82.0,Gabriel Jesus,Arsenal,0.05,0.12,Saved,16.0,Right Foot,,Kai Havertz,Pass (Live),,
+26,84.0,Jayden Bogle,Sheffield Utd,0.04,,Off Target,18.0,Right Foot,,Oliver Arblaster,Pass (Live),George Baldock,Pass (Live)

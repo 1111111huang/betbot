@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Jamie Vardy,Leicester City,0.2,,Off Target,9.0,Head,,Youri Tielemans,Pass (Dead),Hamza Choudhury,Fouled
+1,4,Harvey Barnes,Leicester City,0.06,,Blocked,17.0,Right Foot,,Kelechi Iheanacho,Pass (Live),,
+2,13,Wilfried Zaha,Crystal Palace,0.23,0.08,Saved,10.0,Right Foot,,,,,
+3,13,Conor Gallagher,Crystal Palace,0.04,0.05,Saved,13.0,Right Foot,,Wilfried Zaha,Shot,,
+4,15,Youri Tielemans,Leicester City,0.02,0.25,Saved,31.0,Right Foot,,,,,
+5,31,Kelechi Iheanacho,Leicester City,0.34,0.63,Goal,20.0,Left Foot,,Kelechi Iheanacho,Tackle,,
+6,33,Ademola Lookman,Leicester City,0.07,0.04,Saved,27.0,Left Foot,,Ademola Lookman,Take-On,,
+7,37,Jamie Vardy,Leicester City,0.37,0.62,Goal,12.0,Right Foot,,Youri Tielemans,Pass (Live),Youri Tielemans,Pass (Live)
+8,39,Conor Gallagher,Crystal Palace,0.03,,Blocked,23.0,Right Foot,,Odsonne Édouard,Pass (Live),Luka Milivojević,Pass (Live)
+9,41,Wilfried Zaha,Crystal Palace,0.02,,Blocked,22.0,Right Foot,,Jordan Ayew,Pass (Live),Odsonne Édouard,Pass (Live)
+10,41,Conor Gallagher,Crystal Palace,0.1,,Off Target,17.0,Left Foot,,Wilfried Zaha,Shot,,
+11,,,,,,,,,,,,,
+12,49,Harvey Barnes,Leicester City,0.05,,Off Target,14.0,Left Foot,,Kelechi Iheanacho,Pass (Live),Hamza Choudhury,Pass (Live)
+13,50,Jordan Ayew,Crystal Palace,0.03,,Off Target,22.0,Left Foot,,Wilfried Zaha,Pass (Live),James McArthur,Pass (Live)
+14,51,Wilfried Zaha,Crystal Palace,0.02,,Off Target,31.0,Right Foot,,Wilfried Zaha,Take-On,Joachim Andersen,Pass (Live)
+15,52,Odsonne Édouard,Crystal Palace,0.12,,Woodwork,17.0,Right Foot,,Odsonne Édouard,Take-On,Luka Milivojević,Pass (Live)
+16,53,Odsonne Édouard,Crystal Palace,0.13,,Off Target,9.0,Right Foot,,Wilfried Zaha,Pass (Live),James McArthur,Pass (Live)
+17,54,Conor Gallagher,Crystal Palace,0.04,,Off Target,16.0,Right Foot,,Wilfried Zaha,Pass (Live),Odsonne Édouard,Pass (Live)
+18,54,Michael Olise,Crystal Palace,0.09,,Off Target,10.0,Right Foot,,Conor Gallagher,Shot,,
+19,61,Michael Olise,Crystal Palace,0.11,,Blocked,17.0,Left Foot,,Tyrick Mitchell,Pass (Live),Joachim Andersen,Pass (Live)
+20,61,Michael Olise,Crystal Palace,0.17,0.13,Goal,15.0,Left Foot,Volley,Michael Olise,Shot,,
+21,63,Jamie Vardy,Leicester City,0.02,,Blocked,13.0,Right Foot,,Jannik Vestergaard,Pass (Live),Ademola Lookman,Pass (Live)
+22,72,Jeffrey Schlupp,Crystal Palace,0.09,,Blocked,10.0,Head,,James McArthur,Pass (Live),James McArthur,Take-On
+23,72,Jeffrey Schlupp,Crystal Palace,0.12,0.16,Goal,10.0,Head,,Jeffrey Schlupp,Shot,,
+24,74,James Maddison,Leicester City,0.06,0.08,Saved,17.0,Left Foot,,Harvey Barnes,Pass (Live),Youri Tielemans,Pass (Live)
+25,87,Jeffrey Schlupp,Crystal Palace,0.12,,Off Target,7.0,Head,,Michael Olise,Pass (Dead),Luka Milivojević,Pass (Live)
+26,90,Joel Ward,Crystal Palace,0.05,,Blocked,11.0,Right Foot,,Michael Olise,Pass (Live),Wilfried Zaha,Pass (Live)
+27,90+5,Jeffrey Schlupp,Crystal Palace,0.03,,Off Target,16.0,Head,,Luka Milivojević,Pass (Dead),Michael Olise,Fouled

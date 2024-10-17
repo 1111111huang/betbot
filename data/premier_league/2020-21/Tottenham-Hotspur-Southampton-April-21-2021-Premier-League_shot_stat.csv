@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Mohammed Salisu,Southampton,0.18,0.1,Saved,7.0,Head,,Nathan Tella,Pass (Live),Stuart Armstrong,Pass (Dead)
+1,2,Che Adams,Southampton,0.37,0.21,Saved,5.0,Right Foot,Volley,Mohammed Salisu,Shot,,
+2,8,Kyle Walker-Peters,Southampton,0.02,,Off Target,35.0,Left Foot,,,,,
+3,10,Giovani Lo Celso,Tottenham,0.06,,Off Target,11.0,Left Foot,,Eric Dier,Pass (Live),Tanguy Ndombele,Pass (Live)
+4,12,Lucas Moura,Tottenham,0.02,,Off Target,29.0,Right Foot,,Giovani Lo Celso,Pass (Live),Tanguy Ndombele,Pass (Live)
+5,13,Kyle Walker-Peters,Southampton,0.06,0.02,Saved,14.0,Right Foot,,Stuart Armstrong,Pass (Live),Mohammed Salisu,Pass (Live)
+6,16,Giovani Lo Celso,Tottenham,0.05,,Blocked,18.0,Left Foot,,Gareth Bale,Pass (Live),Gareth Bale,Take-On
+7,19,Nathan Tella,Southampton,0.02,,Blocked,30.0,Right Foot,,Che Adams,Pass (Live),Kyle Walker-Peters,Pass (Live)
+8,19,Stuart Armstrong,Southampton,0.03,,Off Target,26.0,Left Foot,,Danny Ings,Pass (Live),Nathan Tella,Pass (Live)
+9,30,Danny Ings,Southampton,0.08,0.57,Goal,9.0,Head,,James Ward-Prowse,Pass (Dead),Danny Ings,Pass (Live)
+10,37,Theo Walcott,Southampton,0.03,,Blocked,24.0,Right Foot,,Stuart Armstrong,Pass (Live),,
+11,38,Nathan Tella,Southampton,0.04,,Off Target,17.0,Right Foot,,Jannik Vestergaard,Pass (Live),Jannik Vestergaard,Pass (Live)
+12,40,Eric Dier,Tottenham,0.08,,Blocked,24.0,Right Foot,Free kick,Son Heung-min,Fouled,Giovani Lo Celso,Pass (Live)
+13,45,Toby Alderweireld,Tottenham,0.06,,Off Target,9.0,Head,,Gareth Bale,Pass (Dead),Son Heung-min,Pass (Live)
+14,45+1,Lucas Moura,Tottenham,0.1,,Off Target,10.0,Right Foot,,Serge Aurier,Pass (Live),Tanguy Ndombele,Pass (Live)
+15,,,,,,,,,,,,,
+16,51,Son Heung-min,Tottenham,0.06,,Blocked,17.0,Right Foot,,Gareth Bale,Pass (Live),Lucas Moura,Pass (Live)
+17,54,Gareth Bale,Tottenham,0.04,0.02,Saved,29.0,Left Foot,,Gareth Bale,Take-On,Lucas Moura,Pass (Live)
+18,56,Danny Ings,Southampton,0.03,0.01,Saved,26.0,Right Foot,,Kyle Walker-Peters,Pass (Live),Jannik Vestergaard,Pass (Live)
+19,60,Lucas Moura,Tottenham,0.09,,Blocked,16.0,Right Foot,,Son Heung-min,Pass (Live),Tanguy Ndombele,Pass (Live)
+20,60,Gareth Bale,Tottenham,0.06,0.27,Goal,10.0,Left Foot,,Lucas Moura,Shot,,
+21,70,Gareth Bale,Tottenham,0.03,,Off Target,23.0,Left Foot,Volley,Toby Alderweireld,Pass (Live),Tanguy Ndombele,Pass (Live)
+22,90,Son Heung-min (pen),Tottenham,0.79,0.98,Goal,13.0,Right Foot,,Sergio Reguilón,Fouled,Son Heung-min,Pass (Live)

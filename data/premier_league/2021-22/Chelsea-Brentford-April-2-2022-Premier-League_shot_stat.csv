@@ -1,0 +1,40 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Christian Eriksen,Brentford,0.03,,Off Target,30.0,Right Foot,Free kick,Vitaly Janelt,Fouled,Mads Roerslev,Pass (Live)
+1,6,Ivan Toney,Brentford,0.08,,Off Target,25.0,Right Foot,,,,,
+2,9,Ivan Toney,Brentford,0.06,0.34,Saved,17.0,Right Foot,,Bryan Mbeumo,Pass (Live),Christian Eriksen,Pass (Live)
+3,11,Ivan Toney,Brentford,0.09,,Off Target,6.0,Head,,Rico Henry,Pass (Live),Christian Eriksen,Interception
+4,13,Ivan Toney,Brentford,0.02,,Blocked,9.0,Head,,Christian Eriksen,Pass (Dead),Mads Roerslev,Fouled
+5,13,Kristoffer Ajer,Brentford,0.08,,Blocked,5.0,Head,,Ivan Toney,Shot,,
+6,21,Mason Mount,Chelsea,0.05,,Off Target,23.0,Right Foot,,Marcos Alonso,Pass (Live),Timo Werner,Pass (Live)
+7,31,Ruben Loftus-Cheek,Chelsea,0.05,0.04,Saved,24.0,Left Foot,,N'Golo Kanté,Pass (Live),Marcos Alonso,Pass (Live)
+8,34,Mason Mount,Chelsea,0.06,0.08,Saved,14.0,Right Foot,Volley,N'Golo Kanté,Pass (Live),Marcos Alonso,Pass (Live)
+9,38,Antonio Rüdiger,Chelsea,0.01,,Off Target,29.0,Right Foot,,Timo Werner,Pass (Live),Marcos Alonso,Pass (Dead)
+10,39,Hakim Ziyech,Chelsea,0.05,0.08,Saved,19.0,Left Foot,,Mason Mount,Pass (Live),,
+11,45+1,Kai Havertz,Chelsea,0.21,0.62,Saved,5.0,Head,,Hakim Ziyech,Pass (Dead),,
+12,45+2,Marcos Alonso,Chelsea,0.14,0.09,Saved,4.0,Head,,Kai Havertz,Shot,,
+13,,,,,,,,,,,,,
+14,47,Marcos Alonso,Chelsea,0.04,,Blocked,18.0,Left Foot,Volley,Kai Havertz,Pass (Live),César Azpilicueta,Pass (Live)
+15,48,Antonio Rüdiger,Chelsea,0.02,0.37,Goal,40.0,Right Foot,,N'Golo Kanté,Pass (Live),Marcos Alonso,Pass (Live)
+16,50,Bryan Mbeumo,Brentford,0.1,0.07,Saved,17.0,Left Foot,,Vitaly Janelt,Pass (Live),Ivan Toney,Pass (Live)
+17,50,Vitaly Janelt,Brentford,0.09,0.25,Goal,18.0,Left Foot,,Bryan Mbeumo,Pass (Live),Christian Nørgaard,Pass (Live)
+18,53,Timo Werner,Chelsea,0.13,,Blocked,17.0,Right Foot,,Kai Havertz,Pass (Live),César Azpilicueta,Pass (Live)
+19,53,Antonio Rüdiger,Chelsea,0.05,,Off Target,15.0,Right Foot,,Timo Werner,Shot,,
+20,54,Christian Eriksen,Brentford,0.5,0.71,Goal,10.0,Left Foot,,Bryan Mbeumo,Pass (Live),,
+21,60,Vitaly Janelt,Brentford,0.28,0.27,Goal,9.0,Left Foot,,Ivan Toney,Pass (Live),Bryan Mbeumo,Pass (Live)
+22,63,N'Golo Kanté,Chelsea,0.03,0.02,Saved,28.0,Right Foot,,Timo Werner,Pass (Live),Antonio Rüdiger,Pass (Live)
+23,64,César Azpilicueta,Chelsea,0.02,,Blocked,26.0,Left Foot,,César Azpilicueta,Take-On,Thiago Silva,Pass (Live)
+24,68,Antonio Rüdiger,Chelsea,0.02,0.03,Saved,33.0,Right Foot,Deflected,Mateo Kovačić,Pass (Live),Hakim Ziyech,Pass (Live)
+25,69,Kai Havertz,Chelsea,0.16,,Off Target,16.0,Right Foot,,Mateo Kovačić,Pass (Live),,
+26,74,Mateo Kovačić,Chelsea,0.02,,Off Target,27.0,Right Foot,,,,,
+27,75,Ivan Toney,Brentford,0.02,,Blocked,14.0,Right Foot,,Bryan Mbeumo,Pass (Live),Christian Eriksen,Pass (Live)
+28,76,Ivan Toney,Brentford,0.1,,Blocked,8.0,Head,,Christian Eriksen,Pass (Dead),Ivan Toney,Shot
+29,76,Vitaly Janelt,Brentford,0.02,,Blocked,17.0,Left Foot,,Ivan Toney,Shot,,
+30,78,Christian Nørgaard,Brentford,0.07,,Blocked,10.0,Right Foot,Volley,Kristoffer Ajer,Pass (Live),David Raya,Pass (Live)
+31,78,Vitaly Janelt,Brentford,0.03,,Off Target,20.0,Left Foot,,Christian Nørgaard,Shot,,
+32,80,Kai Havertz,Chelsea,0.22,,Off Target,10.0,Head,,Hakim Ziyech,Pass (Live),Romelu Lukaku,Pass (Live)
+33,82,Antonio Rüdiger,Chelsea,0.02,,Off Target,19.0,Right Foot,Volley,Mason Mount,Pass (Live),,
+34,82,Antonio Rüdiger,Chelsea,0.03,,Off Target,14.0,Right Foot,Volley,Ruben Loftus-Cheek,Pass (Live),Mateo Kovačić,Pass (Live)
+35,87,Yoane Wissa,Brentford,0.13,0.38,Goal,10.0,Right Foot,Volley,Christian Nørgaard,Pass (Live),Christian Eriksen,Pass (Dead)
+36,89,Mateo Kovačić,Chelsea,0.01,,Blocked,28.0,Right Foot,"Deflected, Volley",Reece James,Fouled,Ruben Loftus-Cheek,Pass (Live)
+37,90+2,Kai Havertz,Chelsea,0.04,,Off Target,11.0,Head,,Hakim Ziyech,Pass (Dead),Mason Mount,Pass (Live)
+38,90+6,Kristoffer Ajer,Brentford,0.11,,Off Target,4.0,Right Foot,,Christian Eriksen,Pass (Dead),Ivan Toney,Pass (Live)

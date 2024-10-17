@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Reece Burke,Luton Town,0.03,,Blocked,25.0,Right Foot,Volley,Alfie Doughty,Pass (Live),Ross Barkley,Pass (Live)
+1,5,Tahith Chong,Luton Town,0.04,,Off Target,17.0,Left Foot,,Alfie Doughty,Pass (Live),Gabriel Osho,Pass (Live)
+2,19,James Garner,Everton,0.06,,Blocked,22.0,Left Foot,,Jack Harrison,Pass (Live),Jarrad Branthwaite,Pass (Live)
+3,24,Dominic Calvert-Lewin (pen),Everton,0.79,0.85,Goal,13.0,Right Foot,,Jarrad Branthwaite,Fouled,James Tarkowski,Pass (Live)
+4,31,Elijah Adebayo,Luton Town,0.1,0.65,Goal,8.0,Left Foot,,Albert Sambi Lokonga,Pass (Live),Gabriel Osho,Pass (Live)
+5,40,Jack Harrison,Everton,0.02,,Off Target,23.0,Left Foot,,James Garner,Pass (Live),James Tarkowski,Pass (Live)
+6,44,James Tarkowski,Everton,0.12,,Off Target,5.0,Right Foot,,Jarrad Branthwaite,Pass (Live),Dwight McNeil,Pass (Dead)
+7,45+1,Alfie Doughty,Luton Town,0.01,0.04,Saved,15.0,Left Foot,Volley,Reece Burke,Pass (Live),Fred Onyedinma,Pass (Dead)
+8,45+1,Abdoulaye Doucouré,Everton,0.04,,Blocked,25.0,Right Foot,,Idrissa Gana Gueye,Tackle,,
+9,45+3,James Garner,Everton,0.05,,Off Target,15.0,Right Foot,Volley,James Garner,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+10,45+4,Carlton Morris,Luton Town,0.02,,Off Target,21.0,Left Foot,,Fred Onyedinma,Pass (Live),Carlton Morris,Pass (Live)
+11,,,,,,,,,,,,,
+12,51,Gabriel Osho,Luton Town,0.02,,Off Target,25.0,Right Foot,,Tahith Chong,Pass (Live),Ross Barkley,Pass (Live)
+13,54,Teden Mengi,Luton Town,0.11,,Off Target,9.0,Head,,Alfie Doughty,Pass (Dead),Tahith Chong,Fouled
+14,66,Ross Barkley,Luton Town,0.05,,Off Target,10.0,Head,,Alfie Doughty,Pass (Live),Tahith Chong,Pass (Live)
+15,68,Carlton Morris,Luton Town,0.07,,Off Target,10.0,Head,,Alfie Doughty,Pass (Dead),,
+16,69,Jack Harrison,Everton,0.02,0.62,Saved,27.0,Left Foot,Deflected,Jack Harrison,Tackle,,
+17,70,Amadou Onana,Everton,0.06,,Blocked,11.0,Right Foot,Volley,Jack Harrison,Pass (Live),Jack Harrison,Shot
+18,76,Ross Barkley,Luton Town,0.07,,Blocked,13.0,Right Foot,,Alfie Doughty,Pass (Dead),,
+19,77,Dominic Calvert-Lewin,Everton,0.24,0.13,Saved,6.0,Head,,Dwight McNeil,Pass (Live),Jack Harrison,Pass (Live)
+20,78,Jack Harrison,Everton,0.03,,Blocked,21.0,Left Foot,Volley,Dominic Calvert-Lewin,Shot,,
+21,83,Ross Barkley,Luton Town,0.02,0.07,Saved,34.0,Right Foot,,Albert Sambi Lokonga,Pass (Live),Ross Barkley,Pass (Live)
+22,85,Cauley Woodrow,Luton Town,0.02,,Off Target,38.0,Right Foot,,Ross Barkley,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+23,90+1,Cauley Woodrow,Luton Town,0.02,,Blocked,22.0,Right Foot,,Alfie Doughty,Pass (Live),Teden Mengi,Pass (Live)
+24,90+5,Teden Mengi,Luton Town,0.02,0.27,Saved,34.0,Right Foot,,Teden Mengi,Take-On,Albert Sambi Lokonga,Fouled
+25,90+6,Luke Berry,Luton Town,0.04,0.47,Saved,16.0,Head,,Cauley Woodrow,Pass (Live),Ross Barkley,Pass (Live)
+26,90+7,Teden Mengi,Luton Town,0.05,,Off Target,10.0,Head,,Alfie Doughty,Pass (Dead),Luke Berry,Shot
+27,90+7,Luke Berry,Luton Town,0.09,,Blocked,5.0,Right Foot,Volley,Teden Mengi,Shot,,
+28,90+8,Andros Townsend,Luton Town,0.04,,Blocked,19.0,Right Foot,,Albert Sambi Lokonga,Fouled,Luke Berry,Shot

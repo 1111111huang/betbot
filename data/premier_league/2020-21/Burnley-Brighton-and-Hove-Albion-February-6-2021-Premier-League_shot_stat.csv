@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Ben Mee,Burnley,0.06,0.41,Saved,12.0,Head,Deflected,Dwight McNeil,Pass (Dead),Matěj Vydra,Fouled
+1,9,Neal Maupay,Brighton,0.06,,Off Target,11.0,Head,,Joël Veltman,Pass (Live),Joël Veltman,Pass (Live)
+2,10,Neal Maupay,Brighton,0.04,,Blocked,22.0,Left Foot,,Alexis Mac Allister,Pass (Live),Dan Burn,Pass (Live)
+3,15,Matthew Lowton,Burnley,0.02,,Off Target,30.0,Right Foot,,Ashley Barnes,Pass (Live),James Tarkowski,Pass (Live)
+4,21,Pascal Groß,Brighton,0.09,,Off Target,22.0,Right Foot,Free kick,Neal Maupay,Fouled,Pascal Groß,Pass (Live)
+5,23,Jóhann Berg Guðmundsson,Burnley,0.02,,Off Target,29.0,Left Foot,Volley,Erik Pieters,Pass (Live),Dwight McNeil,Pass (Live)
+6,26,Dwight McNeil,Burnley,0.05,0.21,Saved,27.0,Left Foot,Free kick,,Fouled,Ashley Westwood,Pass (Live)
+7,27,Matěj Vydra,Burnley,0.11,,Off Target,6.0,Head,,Dwight McNeil,Pass (Dead),Dwight McNeil,Shot
+8,27,James Tarkowski,Burnley,0.19,0.08,Saved,5.0,Left Foot,,Matěj Vydra,Shot,,
+9,29,Ashley Barnes,Burnley,0.06,,Off Target,24.0,Right Foot,,Matěj Vydra,Take-On,Ashley Barnes,Pass (Live)
+10,36,Lewis Dunk,Brighton,0.05,0.34,Goal,11.0,Head,,Pascal Groß,Pass (Dead),,
+11,40,Matthew Lowton,Burnley,0.05,,Blocked,16.0,Right Foot,,,,,
+12,40,Jack Cork,Burnley,0.07,,Blocked,19.0,Right Foot,,Matthew Lowton,Pass (Live),Ashley Barnes,Pass (Live)
+13,40,Jack Cork,Burnley,0.06,,Off Target,17.0,Right Foot,,Jack Cork,Shot,,
+14,42,Aaron Connolly,Brighton,0.04,0.21,Saved,25.0,Right Foot,,Pascal Groß,Pass (Live),,
+15,45+1,Dwight McNeil,Burnley,0.05,0.1,Saved,14.0,Left Foot,,Matěj Vydra,Take-On,Ashley Barnes,Pass (Live)
+16,,,,,,,,,,,,,
+17,47,Lewis Dunk,Brighton,0.05,,Off Target,14.0,Right Foot,Volley,Pascal Groß,Pass (Dead),Yves Bissouma,Pass (Live)
+18,49,Aaron Connolly,Brighton,0.05,,Off Target,13.0,Right Foot,,Neal Maupay,Pass (Live),Aaron Connolly,Pass (Live)
+19,50,Aaron Connolly,Brighton,0.08,,Off Target,18.0,Right Foot,,Yves Bissouma,Tackle,,
+20,53,Ashley Barnes,Burnley,0.06,,Blocked,14.0,Left Foot,Volley,Ashley Westwood,Pass (Live),,
+21,53,Erik Pieters,Burnley,0.05,0.18,Saved,20.0,Left Foot,,Dwight McNeil,Pass (Live),Ashley Barnes,Shot
+22,54,Jóhann Berg Guðmundsson,Burnley,0.05,0.12,Goal,17.0,Left Foot,,Erik Pieters,Shot,,
+23,57,Ashley Barnes,Burnley,0.18,,Blocked,9.0,Right Foot,,Matěj Vydra,Pass (Live),Matthew Lowton,Pass (Live)
+24,62,Matěj Vydra,Burnley,0.27,,Off Target,5.0,Head,,Ashley Westwood,Pass (Dead),,
+25,65,Danny Welbeck,Brighton,0.04,,Blocked,23.0,Right Foot,,Adam Webster,Pass (Live),Lewis Dunk,Pass (Live)
+26,65,Yves Bissouma,Brighton,0.02,,Off Target,34.0,Right Foot,,Danny Welbeck,Shot,,
+27,67,Matthew Lowton,Burnley,0.02,,Off Target,31.0,Right Foot,Volley,Nick Pope,Pass (Live),Dwight McNeil,Pass (Live)
+28,71,Matěj Vydra,Burnley,0.41,0.25,Saved,7.0,Right Foot,,Ashley Westwood,Pass (Live),Erik Pieters,Pass (Live)
+29,79,Dwight McNeil,Burnley,0.03,,Blocked,28.0,Left Foot,,Jóhann Berg Guðmundsson,Pass (Live),Matthew Lowton,Pass (Live)
+30,90+3,Jack Cork,Burnley,0.03,,Blocked,25.0,Right Foot,Volley,James Tarkowski,Pass (Live),Jóhann Berg Guðmundsson,Pass (Live)

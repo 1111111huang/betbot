@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Todd Cantwell,Norwich City,0.01,,Off Target,27.0,Right Foot,Volley,,,,
+1,8,Jamie Vardy,Leicester City,0.37,0.72,Goal,14.0,Right Foot,,Ricardo Pereira,Pass (Live),,
+2,16,Kenny McLean,Norwich City,0.02,0.02,Saved,30.0,Left Foot,,Max Aarons,Pass (Live),Pierre Lees-Melou,Pass (Live)
+3,21,Todd Cantwell,Norwich City,0.02,,Off Target,26.0,Right Foot,Volley,Pierre Lees-Melou,Pass (Live),Todd Cantwell,Pass (Live)
+4,27,Pierre Lees-Melou,Norwich City,0.04,0.24,Saved,27.0,Left Foot,,Milot Rashica,Pass (Live),,
+5,29,Jamie Vardy,Leicester City,0.5,0.51,Saved,13.0,Right Foot,,Jamie Vardy,Take-On,,
+6,32,Harvey Barnes,Leicester City,0.11,,Off Target,19.0,Right Foot,,Youri Tielemans,Pass (Live),Marc Albrighton,Pass (Live)
+7,44,Teemu Pukki (pen),Norwich City,0.79,0.99,Goal,13.0,Right Foot,,Pierre Lees-Melou,Fouled,Todd Cantwell,Pass (Live)
+8,45+3,Harvey Barnes,Leicester City,0.02,,Blocked,31.0,Right Foot,,Harvey Barnes,Take-On,Luke Thomas,Pass (Dead)
+9,,,,,,,,,,,,,
+10,48,Todd Cantwell,Norwich City,0.07,,Off Target,27.0,Right Foot,,Milot Rashica,Take-On,Brandon Williams,Pass (Live)
+11,50,Pierre Lees-Melou,Norwich City,0.05,,Off Target,25.0,Right Foot,,Teemu Pukki,Pass (Live),Milot Rashica,Pass (Live)
+12,56,Teemu Pukki,Norwich City,0.08,0.05,Saved,12.0,Head,,Max Aarons,Pass (Live),Max Aarons,Interception
+13,58,James Maddison,Leicester City,0.13,,Off Target,4.0,Right Foot,,Youri Tielemans,Pass (Live),James Maddison,Tackle
+14,61,James Maddison,Leicester City,0.13,,Off Target,9.0,Right Foot,,Luke Thomas,Pass (Dead),Harvey Barnes,Pass (Live)
+15,63,Youri Tielemans,Leicester City,0.03,,Off Target,20.0,Right Foot,,Daniel Amartey,Pass (Live),Çağlar Söyüncü,Pass (Live)
+16,70,Milot Rashica,Norwich City,0.05,,Blocked,24.0,Right Foot,Free kick,Brandon Williams,Fouled,Billy Gilmour,Pass (Live)
+17,76,Marc Albrighton,Leicester City,0.03,0.34,Goal,16.0,Right Foot,Deflected,Jamie Vardy,Pass (Live),James Maddison,Pass (Live)
+18,78,Josh Sargent,Norwich City,0.13,,Off Target,10.0,Right Foot,,Lukas Rupp,Pass (Live),Brandon Williams,Pass (Live)
+19,79,Billy Gilmour,Norwich City,0.07,,Blocked,21.0,Left Foot,,Josh Sargent,Pass (Live),Billy Gilmour,Pass (Live)
+20,84,Max Aarons,Norwich City,0.04,,Blocked,16.0,Right Foot,,,,,
+21,84,Lukas Rupp,Norwich City,0.05,,Blocked,26.0,Right Foot,,Max Aarons,Shot,,
+22,90+3,Kelechi Iheanacho,Leicester City,0.14,,Off Target,19.0,Left Foot,,Jamie Vardy,Pass (Live),Jamie Vardy,Take-On
+23,90+5,Adam Idah,Norwich City,0.12,,Off Target,10.0,Right Foot,,Max Aarons,Pass (Live),Max Aarons,Take-On

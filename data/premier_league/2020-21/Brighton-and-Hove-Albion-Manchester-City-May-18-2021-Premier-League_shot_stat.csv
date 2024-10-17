@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,İlkay Gündoğan,Manchester City,0.41,0.84,Goal,3.0,Head,,Riyad Mahrez,Pass (Live),João Cancelo,Pass (Live)
+1,5,Pascal Groß,Brighton,0.03,,Blocked,28.0,Right Foot,,Yves Bissouma,Pass (Live),Steven Alzate,Pass (Live)
+2,13,Pascal Groß,Brighton,0.07,,Blocked,25.0,Right Foot,Free kick,Danny Welbeck,Fouled,Alexis Mac Allister,Pass (Live)
+3,13,Adam Webster,Brighton,0.03,,Off Target,16.0,Head,,Pascal Groß,Pass (Dead),Pascal Groß,Shot
+4,18,Riyad Mahrez,Manchester City,0.05,,Blocked,15.0,Right Foot,,Bernardo Silva,Pass (Live),İlkay Gündoğan,Pass (Live)
+5,23,Phil Foden,Manchester City,0.14,,Blocked,18.0,Right Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+6,31,Alireza Jahanbakhsh,Brighton,0.07,,Blocked,21.0,Right Foot,,Alexis Mac Allister,Pass (Live),Jakub Moder,Pass (Live)
+7,38,Alexis Mac Allister,Brighton,0.02,,Blocked,28.0,Right Foot,,Leandro Trossard,Pass (Live),Jakub Moder,Pass (Dead)
+8,43,Adam Webster,Brighton,0.06,,Off Target,10.0,Head,,Pascal Groß,Pass (Dead),,
+9,45,Rúben Dias,Manchester City,0.07,,Off Target,9.0,Head,,Phil Foden,Pass (Dead),,
+10,45+1,Alireza Jahanbakhsh,Brighton,0.03,0.39,Saved,33.0,Right Foot,,Alexis Mac Allister,Pass (Live),Steven Alzate,Pass (Live)
+11,,,,,,,,,,,,,
+12,48,Alexis Mac Allister,Brighton,0.03,,Blocked,27.0,Right Foot,,,,,
+13,48,Phil Foden,Manchester City,0.09,0.66,Goal,13.0,Left Foot,,,,,
+14,50,Leandro Trossard,Brighton,0.11,0.42,Goal,10.0,Right Foot,,Leandro Trossard,Take-On,,
+15,59,Dan Burn,Brighton,0.03,,Blocked,25.0,Left Foot,Volley,Leandro Trossard,Pass (Live),Pascal Groß,Pass (Live)
+16,62,Ben White,Brighton,0.05,,Blocked,18.0,Right Foot,Volley,Leandro Trossard,Pass (Live),Leandro Trossard,Take-On
+17,67,Yves Bissouma,Brighton,0.03,,Off Target,26.0,Right Foot,,Adam Lallana,Pass (Live),Dan Burn,Pass (Live)
+18,71,Ben White,Brighton,0.04,,Blocked,17.0,Right Foot,Volley,Jakub Moder,Pass (Live),Dan Burn,Pass (Live)
+19,72,Adam Webster,Brighton,0.09,0.27,Goal,11.0,Head,,Pascal Groß,Pass (Live),Jakub Moder,Pass (Live)
+20,75,Riyad Mahrez,Manchester City,0.07,0.09,Saved,29.0,Left Foot,Free kick,Riyad Mahrez,Fouled,Bernardo Silva,Pass (Live)
+21,76,Dan Burn,Brighton,0.14,0.09,Saved,11.0,Left Foot,,Alexis Mac Allister,Pass (Live),Adam Lallana,Pass (Live)
+22,76,Dan Burn,Brighton,0.11,0.25,Goal,11.0,Right Foot,,Dan Burn,Shot,,
+23,85,Alexis Mac Allister,Brighton,0.08,,Blocked,17.0,Right Foot,,Andi Zeqiri,Pass (Live),Adam Lallana,Pass (Live)
+24,85,Yves Bissouma,Brighton,0.03,,Off Target,27.0,Right Foot,,Alexis Mac Allister,Shot,,
+25,89,Andi Zeqiri,Brighton,0.1,0.06,Saved,15.0,Left Foot,,Andi Zeqiri,Take-On,,
+26,90+1,Gabriel Jesus,Manchester City,0.06,0.04,Saved,15.0,Right Foot,,Fernandinho,Pass (Live),,
+27,90+1,Eric García,Manchester City,0.06,,Off Target,12.0,Right Foot,Volley,Gabriel Jesus,Shot,,

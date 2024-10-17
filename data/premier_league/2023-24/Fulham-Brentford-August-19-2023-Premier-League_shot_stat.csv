@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Yoane Wissa,Brentford,0.01,,Off Target,13.0,Right Foot,Volley,Mathias Jensen,Fouled,Rico Henry,Pass (Live)
+1,6,Issa Diop,Fulham,0.11,,Off Target,10.0,Right Foot,Volley,Raúl Jiménez,Tackle,,
+2,9,Andreas Pereira,Fulham,0.02,,Off Target,38.0,Right Foot,,,,,
+3,15,Bryan Mbeumo,Brentford,0.11,0.05,Saved,10.0,Left Foot,Volley,Mathias Jensen,Pass (Live),Aaron Hickey,Pass (Live)
+4,19,Mathias Jensen,Brentford,0.03,,Off Target,48.0,Right Foot,Free kick,Kevin Schade,Fouled,Christian Nørgaard,Interception
+5,22,Issa Diop,Fulham,0.02,,Blocked,27.0,Right Foot,,Harry Wilson,Fouled,Harrison Reed,Pass (Live)
+6,24,Christian Nørgaard,Brentford,0.02,,Off Target,12.0,Head,,Mathias Jensen,Pass (Dead),Aaron Hickey,Fouled
+7,24,Yoane Wissa,Brentford,0.13,0.31,Saved,8.0,Head,Deflected,Christian Nørgaard,Shot,,
+8,28,Yoane Wissa,Brentford,0.04,0.22,Saved,26.0,Right Foot,,,,,
+9,34,Bobby Reid,Fulham,0.01,,Blocked,26.0,Right Foot,,Harrison Reed,Pass (Live),Bobby Reid,Pass (Live)
+10,38,Yoane Wissa,Brentford,0.09,,Off Target,9.0,Left Foot,,Bryan Mbeumo,Pass (Live),Vitaly Janelt,Pass (Live)
+11,44,Yoane Wissa,Brentford,0.31,0.69,Goal,15.0,Right Foot,,,,,
+12,,,,,,,,,,,,,
+13,46,Nathan Collins,Brentford,0.12,,Off Target,4.0,Head,,Mathias Jensen,Pass (Dead),,
+14,50,Raúl Jiménez,Fulham,0.03,,Blocked,24.0,Right Foot,,Antonee Robinson,Pass (Live),Andreas Pereira,Pass (Live)
+15,53,Bobby Reid,Fulham,0.14,,Woodwork,16.0,Left Foot,,Harrison Reed,Pass (Live),Kenny Tete,Pass (Live)
+16,54,Mathias Jensen,Brentford,0.06,0.05,Saved,18.0,Right Foot,Volley,Vitaly Janelt,Pass (Live),Aaron Hickey,Pass (Live)
+17,58,Harry Wilson,Fulham,0.03,0.09,Saved,28.0,Left Foot,,Antonee Robinson,Pass (Live),,
+18,62,Yoane Wissa,Brentford,0.27,,Blocked,6.0,Right Foot,,Ethan Pinnock,Pass (Live),Mathias Jensen,Pass (Dead)
+19,66,Bryan Mbeumo (pen),Brentford,0.79,1.0,Goal,13.0,Left Foot,,Yoane Wissa,Fouled,Kevin Schade,Pass (Live)
+20,69,Raúl Jiménez,Fulham,0.02,,Blocked,17.0,Right Foot,,Harry Wilson,Pass (Live),Issa Diop,Pass (Live)
+21,75,Yoane Wissa,Brentford,0.56,,Off Target,4.0,Head,,Ethan Pinnock,Shot,,
+22,75,Ethan Pinnock,Brentford,0.04,,Off Target,9.0,Head,,Mathias Jensen,Pass (Dead),Bryan Mbeumo,Pass (Live)
+23,82,Willian,Fulham,0.07,,Off Target,27.0,Right Foot,Free kick,Harry Wilson,Fouled,João Palhinha,Pass (Live)
+24,90+2,Bryan Mbeumo,Brentford,0.96,0.96,Goal,4.0,Left Foot,,Kristoffer Ajer,Pass (Live),Rico Henry,Pass (Live)
+25,90+5,Kristoffer Ajer,Brentford,0.14,,Blocked,12.0,Left Foot,,Vitaly Janelt,Pass (Live),Mathias Jensen,Pass (Dead)
+26,90+5,Keane Lewis-Potter,Brentford,0.26,0.13,Saved,8.0,Right Foot,,Kristoffer Ajer,Shot,,
+27,90+6,Harry Wilson,Fulham,0.02,0.12,Saved,11.0,Right Foot,,Saša Lukić,Pass (Live),Harry Wilson,Pass (Live)

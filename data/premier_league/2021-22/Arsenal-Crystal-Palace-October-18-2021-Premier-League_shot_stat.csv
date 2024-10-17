@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Nicolas Pépé,Arsenal,0.02,0.55,Saved,19.0,Left Foot,,Takehiro Tomiyasu,Pass (Live),Nicolas Pépé,Pass (Live)
+1,8,Pierre-Emerick Aubameyang,Arsenal,0.39,0.21,Goal,4.0,Left Foot,Volley,Nicolas Pépé,Shot,,
+2,16,Nicolas Pépé,Arsenal,0.02,,Off Target,16.0,Right Foot,Volley,Emile Smith Rowe,Pass (Live),Gabriel Magalhães,Tackle
+3,22,Emile Smith Rowe,Arsenal,0.06,0.07,Saved,27.0,Right Foot,,Bukayo Saka,Pass (Live),,
+4,23,Conor Gallagher,Crystal Palace,0.08,0.07,Saved,21.0,Left Foot,,Odsonne Édouard,Pass (Live),Conor Gallagher,Pass (Live)
+5,24,Thomas Partey,Arsenal,0.03,,Blocked,29.0,Right Foot,,Emile Smith Rowe,Pass (Live),Bukayo Saka,Pass (Live)
+6,28,Christian Benteke,Crystal Palace,0.08,0.2,Saved,21.0,Left Foot,,James McArthur,Pass (Live),Marc Guéhi,Pass (Live)
+7,35,Odsonne Édouard,Crystal Palace,0.12,,Off Target,14.0,Left Foot,,Tyrick Mitchell,Pass (Live),James McArthur,Pass (Live)
+8,45+4,Conor Gallagher,Crystal Palace,0.01,0.09,Saved,23.0,Right Foot,Volley,,,,
+9,,,,,,,,,,,,,
+10,47,Thomas Partey,Arsenal,0.02,,Off Target,33.0,Right Foot,,Kieran Tierney,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+11,50,Christian Benteke,Crystal Palace,0.15,0.34,Goal,17.0,Right Foot,,,,,
+12,57,Jordan Ayew,Crystal Palace,0.07,0.05,Saved,22.0,Right Foot,,Tyrick Mitchell,Pass (Live),,
+13,59,Marc Guéhi,Crystal Palace,0.01,,Off Target,33.0,Right Foot,,Odsonne Édouard,Pass (Live),Marc Guéhi,Pass (Live)
+14,64,Thomas Partey,Arsenal,0.02,,Off Target,29.0,Right Foot,,Thomas Partey,Take-On,Albert Sambi Lokonga,Pass (Live)
+15,69,Ben White,Arsenal,0.05,,Blocked,25.0,Right Foot,,,,,
+16,70,Emile Smith Rowe,Arsenal,0.1,,Off Target,16.0,Left Foot,Volley,Alexandre Lacazette,Pass (Live),Pierre-Emerick Aubameyang,Pass (Live)
+17,71,Conor Gallagher,Crystal Palace,0.02,,Off Target,27.0,Right Foot,,Odsonne Édouard,Tackle,,
+18,72,Alexandre Lacazette,Arsenal,0.15,0.35,Saved,16.0,Right Foot,,Pierre-Emerick Aubameyang,Pass (Live),Albert Sambi Lokonga,Pass (Live)
+19,73,Odsonne Édouard,Crystal Palace,0.17,0.14,Goal,16.0,Right Foot,,Michael Olise,Pass (Live),Conor Gallagher,Pass (Live)
+20,76,Nicolas Pépé,Arsenal,0.14,,Blocked,23.0,Left Foot,Free kick,Alexandre Lacazette,Fouled,Thomas Partey,Pass (Live)
+21,76,Gabriel Magalhães,Arsenal,0.03,,Off Target,13.0,Head,,Thomas Partey,Pass (Live),Nicolas Pépé,Pass (Live)
+22,87,Kieran Tierney,Arsenal,0.05,,Woodwork,11.0,Left Foot,,Alexandre Lacazette,Pass (Live),Nicolas Pépé,Pass (Live)
+23,90,Alexandre Lacazette,Arsenal,0.03,,Off Target,15.0,Left Foot,,Alexandre Lacazette,Take-On,Nicolas Pépé,Pass (Live)
+24,90+5,Gabriel Martinelli,Arsenal,0.28,0.44,Saved,5.0,Left Foot,,Ben White,Shot,,
+25,90+5,Ben White,Arsenal,0.05,,Blocked,15.0,Left Foot,Volley,Nicolas Pépé,Pass (Live),,
+26,90+5,Alexandre Lacazette,Arsenal,0.4,0.36,Goal,3.0,Right Foot,,Gabriel Martinelli,Shot,,

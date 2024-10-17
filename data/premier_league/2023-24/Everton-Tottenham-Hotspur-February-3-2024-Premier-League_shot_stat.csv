@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Richarlison,Tottenham,0.58,0.7,Goal,9.0,Left Foot,Volley,Destiny Udogie,Pass (Live),Timo Werner,Pass (Live)
+1,5,Dominic Calvert-Lewin,Everton,0.08,,Off Target,10.0,Head,,Ashley Young,Pass (Live),Jack Harrison,Pass (Live)
+2,9,James Maddison,Tottenham,0.04,0.37,Saved,24.0,Left Foot,,Richarlison,Pass (Live),,
+3,10,Pierre Højbjerg,Tottenham,0.03,,Off Target,20.0,Right Foot,Volley,James Maddison,Shot,,
+4,15,Idrissa Gana Gueye,Everton,0.03,,Blocked,25.0,Left Foot,,Ashley Young,Pass (Live),Dwight McNeil,Fouled
+5,25,Dominic Calvert-Lewin,Everton,0.04,,Off Target,4.0,Head,,Dwight McNeil,Pass (Dead),Vitaliy Mykolenko,Pass (Live)
+6,30,Dominic Calvert-Lewin,Everton,0.65,,Blocked,3.0,Head,,James Tarkowski,Pass (Live),Jack Harrison,Pass (Live)
+7,30,Jack Harrison,Everton,0.87,0.96,Goal,1.0,Right Foot,,Dominic Calvert-Lewin,Shot,,
+8,41,Richarlison,Tottenham,0.04,0.36,Goal,21.0,Right Foot,,James Maddison,Pass (Live),Timo Werner,Pass (Live)
+9,43,Dwight McNeil,Everton,0.03,,Off Target,29.0,Left Foot,,,,,
+10,45,Idrissa Gana Gueye,Everton,0.04,,Blocked,22.0,Right Foot,,,,,
+11,45+1,Ben Godfrey,Everton,0.16,0.08,Saved,5.0,Head,,James Garner,Pass (Dead),Idrissa Gana Gueye,Shot
+12,45+2,Dominic Calvert-Lewin,Everton,0.1,,Blocked,15.0,Right Foot,,Dwight McNeil,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+13,,,,,,,,,,,,,
+14,50,Jack Harrison,Everton,0.02,,Off Target,25.0,Left Foot,,James Tarkowski,Pass (Live),Jordan Pickford,Pass (Live)
+15,50,Pedro Porro,Tottenham,0.04,0.21,Saved,23.0,Right Foot,,Timo Werner,Pass (Live),James Maddison,Take-On
+16,52,Pierre Højbjerg,Tottenham,0.05,,Off Target,14.0,Left Foot,Volley,Richarlison,Pass (Live),Pedro Porro,Pass (Dead)
+17,58,James Maddison,Tottenham,0.07,0.14,Saved,22.0,Left Foot,,Pedro Porro,Take-On,James Maddison,Pass (Live)
+18,60,Richarlison,Tottenham,0.04,,Blocked,13.0,Left Foot,,Destiny Udogie,Pass (Live),Destiny Udogie,Take-On
+19,65,Dominic Calvert-Lewin,Everton,0.03,,Off Target,21.0,Head,,James Garner,Pass (Dead),Ashley Young,Fouled
+20,68,Ben Godfrey,Everton,0.01,,Off Target,28.0,Right Foot,,Jordan Pickford,Pass (Dead),Idrissa Gana Gueye,Fouled
+21,70,Richarlison,Tottenham,0.08,0.03,Saved,13.0,Right Foot,,Dejan Kulusevski,Pass (Live),James Maddison,Pass (Live)
+22,88,Youssef Chermiti,Everton,0.29,0.22,Saved,11.0,Right Foot,Volley,Lewis Dobbin,Pass (Live),Vitaliy Mykolenko,Pass (Live)
+23,90+4,Jarrad Branthwaite,Everton,0.86,0.97,Goal,2.0,Head,,James Garner,Fouled,James Garner,Interception

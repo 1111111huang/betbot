@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Anthony Martial,Manchester Utd,0.19,,Off Target,4.0,Head,,Aaron Wan-Bissaka,Pass (Live),Aaron Wan-Bissaka,Take-On
+1,16,Michael Keane,Everton,0.06,,Off Target,10.0,Head,,Andros Townsend,Pass (Dead),Andros Townsend,Fouled
+2,21,Edinson Cavani,Manchester Utd,0.07,0.5,Saved,11.0,Head,,Fred,Pass (Live),Bruno Fernandes,Pass (Live)
+3,25,Salomón Rondón,Everton,0.13,,Blocked,11.0,Right Foot,Volley,Abdoulaye Doucouré,Pass (Live),Andros Townsend,Pass (Live)
+4,26,Mason Greenwood,Manchester Utd,0.02,0.05,Saved,23.0,Right Foot,,Scott McTominay,Pass (Live),Fred,Pass (Live)
+5,31,Salomón Rondón,Everton,0.08,,Off Target,9.0,Right Foot,,Anthony Gordon,Pass (Live),Lucas Digne,Pass (Live)
+6,31,Andros Townsend,Everton,0.15,,Blocked,9.0,Left Foot,,Salomón Rondón,Shot,,
+7,33,Demarai Gray,Everton,0.03,0.22,Saved,27.0,Right Foot,,Demarai Gray,Take-On,Lucas Digne,Pass (Live)
+8,36,Abdoulaye Doucouré,Everton,0.15,,Blocked,17.0,Right Foot,,Andros Townsend,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+9,39,Yerry Mina,Everton,0.03,,Off Target,13.0,Head,,Demarai Gray,Pass (Dead),Demarai Gray,Fouled
+10,43,Anthony Martial,Manchester Utd,0.06,0.06,Goal,13.0,Right Foot,Deflected,Bruno Fernandes,Pass (Live),Mason Greenwood,Pass (Live)
+11,45+1,Anthony Martial,Manchester Utd,0.02,0.06,Saved,27.0,Right Foot,,Edinson Cavani,Pass (Live),Anthony Martial,Pass (Live)
+12,,,,,,,,,,,,,
+13,49,Mason Greenwood,Manchester Utd,0.02,0.04,Saved,27.0,Left Foot,,Luke Shaw,Pass (Dead),Anthony Martial,Pass (Live)
+14,56,Andros Townsend,Everton,0.07,,Off Target,9.0,Head,,Lucas Digne,Pass (Live),Demarai Gray,Pass (Live)
+15,59,Demarai Gray,Everton,0.06,,Off Target,14.0,Right Foot,,Anthony Gordon,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+16,65,Andros Townsend,Everton,0.46,0.81,Goal,16.0,Right Foot,,Abdoulaye Doucouré,Pass (Live),Abdoulaye Doucouré,Take-On
+17,68,Raphaël Varane,Manchester Utd,0.04,,Off Target,9.0,Head,,Luke Shaw,Pass (Dead),,
+18,70,Andros Townsend,Everton,0.02,,Off Target,23.0,Left Foot,,Ben Godfrey,Pass (Live),Salomón Rondón,Pass (Live)
+19,73,Scott McTominay,Manchester Utd,0.08,,Blocked,17.0,Left Foot,,Paul Pogba,Pass (Live),Jadon Sancho,Pass (Live)
+20,74,Cristiano Ronaldo,Manchester Utd,0.08,,Off Target,9.0,Left Foot,,Jadon Sancho,Pass (Live),Cristiano Ronaldo,Pass (Live)
+21,79,Bruno Fernandes,Manchester Utd,0.03,,Off Target,11.0,Head,,Aaron Wan-Bissaka,Pass (Live),Jadon Sancho,Pass (Live)
+22,81,Paul Pogba,Manchester Utd,0.03,,Off Target,22.0,Right Foot,,Jadon Sancho,Pass (Live),Jadon Sancho,Take-On
+23,84,Paul Pogba,Manchester Utd,0.28,,Off Target,8.0,Head,,Bruno Fernandes,Pass (Dead),Bruno Fernandes,Pass (Live)
+24,85,Abdoulaye Doucouré,Everton,0.03,,Blocked,16.0,Left Foot,,Demarai Gray,Pass (Live),Tom Davies,Pass (Live)
+25,90,Jadon Sancho,Manchester Utd,0.05,0.16,Saved,15.0,Right Foot,,Cristiano Ronaldo,Pass (Live),Paul Pogba,Pass (Live)

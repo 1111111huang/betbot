@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Bryan Mbeumo,Brentford,0.06,,Blocked,17.0,Right Foot,Volley,Mark Flekken,Pass (Live),Bryan Mbeumo,Pass (Live)
+1,7,Nicolas Jackson,Chelsea,0.03,,Off Target,20.0,Right Foot,,Nicolas Jackson,Take-On,Marc Cucurella,Pass (Live)
+2,9,Bryan Mbeumo,Brentford,0.01,0.23,Saved,15.0,Right Foot,,Kristoffer Ajer,Pass (Live),Kristoffer Ajer,Take-On
+3,10,Noni Madueke,Chelsea,0.03,,Woodwork,14.0,Left Foot,,Cole Palmer,Pass (Live),Robert Sánchez,Pass (Live)
+4,11,Noni Madueke,Chelsea,0.05,,Blocked,18.0,Left Foot,,Raheem Sterling,Pass (Live),Nicolas Jackson,Pass (Live)
+5,12,Nicolas Jackson,Chelsea,0.05,,Blocked,20.0,Right Foot,,Cole Palmer,Pass (Live),Nicolas Jackson,Pass (Live)
+6,12,Conor Gallagher,Chelsea,0.04,0.25,Saved,27.0,Right Foot,,Conor Gallagher,Take-On,Nicolas Jackson,Pass (Live)
+7,19,Marc Cucurella,Chelsea,0.46,0.5,Saved,11.0,Right Foot,Volley,Cole Palmer,Pass (Live),Axel Disasi,Pass (Live)
+8,20,Raheem Sterling,Chelsea,0.08,,Off Target,11.0,Right Foot,,Noni Madueke,Pass (Live),Raheem Sterling,Take-On
+9,38,Noni Madueke,Chelsea,0.04,,Blocked,13.0,Left Foot,Volley,Nicolas Jackson,Pass (Live),Conor Gallagher,Pass (Live)
+10,40,Marc Cucurella,Chelsea,0.13,,Blocked,12.0,Right Foot,,Noni Madueke,Pass (Live),Cole Palmer,Pass (Live)
+11,44,Cole Palmer,Chelsea,0.07,,Off Target,26.0,Left Foot,Free kick,Moisés Caicedo,Fouled,Conor Gallagher,Pass (Live)
+12,,,,,,,,,,,,,
+13,50,Vitaly Janelt,Brentford,0.26,0.31,Saved,14.0,Right Foot,,Kristoffer Ajer,Pass (Live),Mads Roerslev,Pass (Live)
+14,53,Thiago Silva,Chelsea,0.05,,Blocked,9.0,Head,,Conor Gallagher,Pass (Dead),Conor Gallagher,Take-On
+15,54,Raheem Sterling,Chelsea,0.05,,Blocked,21.0,Left Foot,,Nicolas Jackson,Pass (Live),Raheem Sterling,Pass (Live)
+16,57,Nicolas Jackson,Chelsea,0.03,,Off Target,24.0,Left Foot,,Noni Madueke,Pass (Live),Nicolas Jackson,Pass (Live)
+17,58,Ethan Pinnock,Brentford,0.19,0.37,Goal,4.0,Head,,Bryan Mbeumo,Pass (Live),Mathias Jensen,Pass (Live)
+18,86,Thiago Silva,Chelsea,0.01,,Off Target,9.0,Head,,Conor Gallagher,Pass (Dead),,
+19,88,Cole Palmer,Chelsea,0.37,,Off Target,12.0,Left Foot,,Reece James,Pass (Live),Thiago Silva,Pass (Live)
+20,88,Deivid Washington,Chelsea,0.47,,Off Target,9.0,Left Foot,,Cole Palmer,Shot,,
+21,90,Yehor Yarmoliuk,Brentford,0.49,0.25,Saved,12.0,Right Foot,,,,,
+22,90,Bryan Mbeumo,Brentford,0.31,,Off Target,10.0,Left Foot,,Neal Maupay,Pass (Live),Mads Roerslev,Pass (Live)
+23,90+5,Reece James,Chelsea,0.07,,Blocked,17.0,Right Foot,,Conor Gallagher,Pass (Live),Conor Gallagher,Take-On
+24,90+6,Bryan Mbeumo,Brentford,0.83,0.23,Goal,17.0,Left Foot,,Neal Maupay,Pass (Live),,

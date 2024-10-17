@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Abdoulaye Doucouré,Everton,0.03,,Off Target,13.0,Head,,Dwight McNeil,Pass (Live),Nathan Patterson,Pass (Live)
+1,7,Kai Havertz,Chelsea,0.09,0.04,Saved,10.0,Head,,Reece James,Pass (Dead),Raheem Sterling,Fouled
+2,19,Mason Mount,Chelsea,0.04,0.16,Saved,20.0,Right Foot,,Raheem Sterling,Pass (Live),Reece James,Pass (Dead)
+3,22,Raheem Sterling,Chelsea,0.05,,Blocked,8.0,Right Foot,Volley,César Azpilicueta,Pass (Live),Reece James,Pass (Live)
+4,24,James Tarkowski,Everton,0.09,0.09,Saved,11.0,Head,,Vitaliy Mykolenko,Pass (Live),Dwight McNeil,Pass (Live)
+5,28,Anthony Gordon,Everton,0.05,,Off Target,11.0,Head,,Alex Iwobi,Pass (Live),Nathan Patterson,Pass (Live)
+6,41,Mason Mount,Chelsea,0.07,,Blocked,21.0,Right Foot,,Raheem Sterling,Pass (Live),,
+7,43,N'Golo Kanté,Chelsea,0.05,0.05,Saved,20.0,Right Foot,,Reece James,Pass (Live),Mason Mount,Pass (Live)
+8,45+2,Raheem Sterling,Chelsea,0.09,,Blocked,18.0,Right Foot,,N'Golo Kanté,Pass (Live),Mason Mount,Pass (Live)
+9,45+3,Reece James,Chelsea,0.03,,Blocked,18.0,Right Foot,,César Azpilicueta,Pass (Live),Jorginho,Pass (Live)
+10,45+4,Kalidou Koulibaly,Chelsea,0.05,0.18,Saved,13.0,Head,,Mason Mount,Pass (Live),Raheem Sterling,Pass (Live)
+11,45+7,Kai Havertz,Chelsea,0.11,,Off Target,10.0,Head,,N'Golo Kanté,Pass (Live),Reece James,Pass (Live)
+12,45+9,Jorginho (pen),Chelsea,0.79,1.0,Goal,13.0,Right Foot,,Ben Chilwell,Fouled,Kalidou Koulibaly,Pass (Live)
+13,,,,,,,,,,,,,
+14,48,Demarai Gray,Everton,0.11,,Blocked,12.0,Right Foot,,Alex Iwobi,Pass (Live),Dwight McNeil,Pass (Live)
+15,52,Abdoulaye Doucouré,Everton,0.1,0.03,Saved,13.0,Right Foot,,Alex Iwobi,Pass (Live),Anthony Gordon,Pass (Live)
+16,52,Mason Holgate,Everton,0.21,,Blocked,10.0,Right Foot,,Abdoulaye Doucouré,Shot,,
+17,60,Kai Havertz,Chelsea,0.06,,Blocked,17.0,Left Foot,,Jorginho,Pass (Live),Thiago Silva,Pass (Live)
+18,62,Vitaliy Mykolenko,Everton,0.11,,Off Target,22.0,Left Foot,Volley,James Tarkowski,Pass (Live),Abdoulaye Doucouré,Pass (Live)
+19,82,Reece James,Chelsea,0.04,,Off Target,25.0,Right Foot,Free kick,Ruben Loftus-Cheek,Fouled,Raheem Sterling,Pass (Live)
+20,83,Raheem Sterling,Chelsea,0.1,,Blocked,10.0,Left Foot,,Marc Cucurella,Pass (Live),Jorginho,Pass (Live)
+21,89,Christian Pulisic,Chelsea,0.04,,Off Target,11.0,Left Foot,Volley,Marc Cucurella,Pass (Dead),,
+22,90+7,Armando Broja,Chelsea,0.03,0.49,Saved,10.0,Head,,Reece James,Pass (Dead),Armando Broja,Fouled
+23,90+11,James Tarkowski,Everton,0.0,0.03,Saved,16.0,Head,,Demarai Gray,Pass (Dead),Nathan Patterson,Fouled

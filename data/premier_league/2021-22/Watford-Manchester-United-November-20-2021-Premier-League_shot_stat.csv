@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Ismaila Sarr (pen),Watford,0.79,0.95,Saved,13.0,Right Foot,,Joshua King,Fouled,,
+1,11,Moussa Sissoko,Watford,0.06,,Blocked,9.0,Head,,Imran Louza,Pass (Dead),Ismaila Sarr,Shot
+2,12,Emmanuel Dennis,Watford,0.07,,Off Target,10.0,Head,,Imran Louza,Pass (Dead),Moussa Sissoko,Shot
+3,13,Cristiano Ronaldo,Manchester Utd,0.08,,Blocked,13.0,Left Foot,,Scott McTominay,Pass (Live),,
+4,18,Joshua King,Watford,0.07,,Blocked,16.0,Right Foot,,Adam Masina,Tackle,,
+5,23,Joshua King,Watford,0.08,,Blocked,10.0,Right Foot,,Imran Louza,Pass (Dead),Joshua King,Pass (Live)
+6,27,Ismaila Sarr,Watford,0.08,,Blocked,15.0,Left Foot,,,,,
+7,28,Joshua King,Watford,0.49,0.4,Goal,10.0,Left Foot,,Emmanuel Dennis,Pass (Live),Imran Louza,Pass (Live)
+8,32,Marcus Rashford,Manchester Utd,0.3,0.48,Saved,14.0,Right Foot,Volley,Bruno Fernandes,Pass (Live),Nemanja Matić,Pass (Live)
+9,33,Joshua King,Watford,0.05,,Blocked,21.0,Right Foot,,Ismaila Sarr,Pass (Live),Ismaila Sarr,Interception
+10,40,Joshua King,Watford,0.15,0.19,Saved,10.0,Head,,Adam Masina,Pass (Live),Emmanuel Dennis,Pass (Live)
+11,40,Moussa Sissoko,Watford,0.08,,Off Target,18.0,Right Foot,Volley,Joshua King,Shot,,
+12,44,Ismaila Sarr,Watford,0.06,0.44,Goal,14.0,Right Foot,,Kiko Femenía,Pass (Live),,
+13,,,,,,,,,,,,,
+14,50,Donny van de Beek,Manchester Utd,0.33,0.63,Goal,5.0,Head,,Cristiano Ronaldo,Pass (Live),Jadon Sancho,Pass (Live)
+15,52,Joshua King,Watford,0.2,,Off Target,10.0,Right Foot,,Moussa Sissoko,Pass (Live),Moussa Sissoko,Interception
+16,55,Bruno Fernandes,Manchester Utd,0.14,,Off Target,16.0,Right Foot,,Jadon Sancho,Pass (Live),Donny van de Beek,Pass (Live)
+17,57,Cristiano Ronaldo,Manchester Utd,0.3,0.17,Saved,15.0,Right Foot,,Donny van de Beek,Pass (Live),Harry Maguire,Pass (Live)
+18,64,Imran Louza,Watford,0.05,,Blocked,24.0,Left Foot,Free kick,Ismaila Sarr,Fouled,Kiko Femenía,Pass (Live)
+19,68,Nemanja Matić,Manchester Utd,0.03,,Off Target,19.0,Left Foot,,Donny van de Beek,Pass (Live),,
+20,70,Emmanuel Dennis,Watford,0.03,,Off Target,33.0,Right Foot,Free kick,Tom Cleverley,Fouled,,
+21,71,Emmanuel Dennis,Watford,0.06,,Blocked,26.0,Right Foot,,Joshua King,Pass (Live),Moussa Sissoko,Pass (Live)
+22,72,Cristiano Ronaldo,Manchester Utd,0.06,,Off Target,17.0,Right Foot,,Donny van de Beek,Pass (Live),Jadon Sancho,Pass (Live)
+23,76,Cristiano Ronaldo,Manchester Utd,0.03,,Off Target,14.0,Head,,Jadon Sancho,Pass (Live),Jadon Sancho,Take-On
+24,79,Bruno Fernandes,Manchester Utd,0.12,,Off Target,21.0,Right Foot,,Cristiano Ronaldo,Pass (Live),Cristiano Ronaldo,Take-On
+25,85,João Pedro,Watford,0.11,,Off Target,6.0,Head,,Cucho,Pass (Dead),Adam Masina,Pass (Live)
+26,90,João Pedro,Watford,0.04,,Off Target,24.0,Right Foot,,Cucho,Pass (Live),Kiko Femenía,Pass (Live)
+27,90+2,João Pedro,Watford,0.24,0.07,Saved,12.0,Right Foot,,Cucho,Pass (Live),Emmanuel Dennis,Pass (Live)
+28,90+2,João Pedro,Watford,0.04,0.16,Goal,11.0,Right Foot,,Emmanuel Dennis,Pass (Live),Kiko Femenía,Pass (Live)
+29,90+6,Emmanuel Dennis,Watford,0.06,0.36,Goal,11.0,Right Foot,,Ben Foster,Pass (Live),,

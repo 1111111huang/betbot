@@ -1,0 +1,30 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Harry Kane,Tottenham,0.04,,Blocked,21.0,Right Foot,,Ryan Sessegnon,Pass (Live),Harry Kane,Pass (Live)
+1,8,Pierre Højbjerg,Tottenham,0.21,,Off Target,12.0,Right Foot,,Dejan Kulusevski,Pass (Live),Dejan Kulusevski,Take-On
+2,9,Harry Kane,Tottenham,0.11,0.05,Saved,18.0,Left Foot,Deflected,,,,
+3,11,Harry Kane,Tottenham,0.06,0.09,Saved,8.0,Right Foot,,Pierre Højbjerg,Pass (Live),Pierre Højbjerg,Take-On
+4,12,Harry Kane,Tottenham,0.07,,Blocked,17.0,Right Foot,,Son Heung-min,Pass (Live),Ben Davies,Pass (Live)
+5,16,Dejan Kulusevski,Tottenham,0.18,0.61,Goal,12.0,Left Foot,Deflected,Rodrigo Bentancur,Pass (Live),Pierre Højbjerg,Pass (Live)
+6,23,Milot Rashica,Norwich City,0.06,,Off Target,23.0,Right Foot,,Milot Rashica,Interception,,
+7,32,Harry Kane,Tottenham,0.25,0.52,Goal,9.0,Head,Deflected,Rodrigo Bentancur,Pass (Live),,
+8,34,Son Heung-min,Tottenham,0.08,,Off Target,20.0,Right Foot,Volley,Pierre Højbjerg,Pass (Live),,
+9,40,Milot Rashica,Norwich City,0.07,,Blocked,17.0,Left Foot,,Teemu Pukki,Pass (Live),Milot Rashica,Pass (Live)
+10,41,Teemu Pukki,Norwich City,0.04,,Blocked,25.0,Right Foot,,Pierre Lees-Melou,Pass (Live),Milot Rashica,Pass (Live)
+11,43,Grant Hanley,Norwich City,0.02,,Off Target,13.0,Head,,Milot Rashica,Pass (Dead),Kieran Dowell,Pass (Live)
+12,45,Ben Davies,Tottenham,0.03,0.04,Saved,28.0,Left Foot,,Dejan Kulusevski,Pass (Live),,
+13,45+1,Harry Kane,Tottenham,0.05,0.22,Saved,11.0,Head,,Ryan Sessegnon,Pass (Live),Ben Davies,Pass (Live)
+14,,,,,,,,,,,,,
+15,46,Teemu Pukki,Norwich City,0.02,,Blocked,19.0,Right Foot,,Mathias Normann,Pass (Live),Jakob Sørensen,Tackle
+16,55,Son Heung-min,Tottenham,0.13,0.1,Saved,12.0,Left Foot,,Harry Kane,Pass (Live),Rodrigo Bentancur,Pass (Live)
+17,55,Teemu Pukki,Norwich City,0.18,,Off Target,10.0,Head,,Milot Rashica,Pass (Live),Max Aarons,Pass (Live)
+18,57,Max Aarons,Norwich City,0.02,,Blocked,18.0,Left Foot,,Milot Rashica,Pass (Live),Grant Hanley,Pass (Live)
+19,57,Mathias Normann,Norwich City,0.05,,Off Target,27.0,Right Foot,,Max Aarons,Shot,,
+20,60,Son Heung-min,Tottenham,0.72,0.41,Saved,8.0,Left Foot,,Harry Kane,Pass (Live),Emerson,Pass (Live)
+21,60,Son Heung-min,Tottenham,0.4,,Off Target,4.0,Right Foot,,Son Heung-min,Shot,,
+22,62,Dejan Kulusevski,Tottenham,0.68,,Blocked,10.0,Right Foot,,Dejan Kulusevski,Take-On,Dejan Kulusevski,Take-On
+23,64,Dejan Kulusevski,Tottenham,0.03,0.63,Goal,16.0,Left Foot,,Dejan Kulusevski,Take-On,Harry Kane,Pass (Live)
+24,70,Son Heung-min,Tottenham,0.43,0.71,Saved,17.0,Right Foot,,Lucas Moura,Pass (Live),Harry Kane,Pass (Live)
+25,70,Son Heung-min,Tottenham,0.27,0.61,Goal,15.0,Right Foot,,Lucas Moura,Pass (Live),Harry Kane,Pass (Live)
+26,75,Son Heung-min,Tottenham,0.02,0.31,Goal,25.0,Right Foot,,Lucas Moura,Fouled,Eric Dier,Pass (Live)
+27,87,Harry Kane,Tottenham,0.05,,Off Target,20.0,Right Foot,,Steven Bergwijn,Pass (Live),Lucas Moura,Pass (Live)
+28,89,Christoph Zimmermann,Norwich City,0.01,,Off Target,16.0,Head,,Milot Rashica,Pass (Dead),Teemu Pukki,Fouled

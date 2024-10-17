@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Danny Ings,Southampton,0.06,,Off Target,12.0,Right Foot,Volley,Ryan Bertrand,Pass (Live),Nathan Redmond,Pass (Live)
+1,1,Stuart Armstrong,Southampton,0.1,,Blocked,11.0,Left Foot,Volley,Danny Ings,Shot,,
+2,7,Pierre-Emerick Aubameyang,Arsenal,0.03,0.01,Saved,27.0,Right Foot,,Dani Ceballos,Pass (Live),Dani Ceballos,Interception
+3,10,Pierre-Emerick Aubameyang,Arsenal,0.31,,Woodwork,7.0,Right Foot,,Kieran Tierney,Pass (Live),Rob Holding,Pass (Live)
+4,12,Stuart Armstrong,Southampton,0.03,,Off Target,26.0,Right Foot,,Danny Ings,Fouled,,
+5,13,Danny Ings,Southampton,0.07,,Blocked,17.0,Right Foot,,Danny Ings,Take-On,,
+6,20,Eddie Nketiah,Arsenal,0.83,0.99,Goal,3.0,Left Foot,,Eddie Nketiah,Interception,,
+7,24,James Ward-Prowse,Southampton,0.03,0.02,Saved,26.0,Right Foot,,Stuart Armstrong,Pass (Live),James Ward-Prowse,Pass (Live)
+8,45+1,Eddie Nketiah,Arsenal,0.09,,Off Target,17.0,Right Foot,,Nicolas Pépé,Pass (Live),,
+9,,,,,,,,,,,,,
+10,51,James Ward-Prowse,Southampton,0.06,,Off Target,26.0,Right Foot,,Pierre Højbjerg,Pass (Live),Ryan Bertrand,Pass (Live)
+11,56,Stuart Armstrong,Southampton,0.05,0.03,Saved,16.0,Left Foot,,Kyle Walker-Peters,Pass (Live),James Ward-Prowse,Tackle
+12,58,Héctor Bellerín,Arsenal,0.06,,Blocked,12.0,Right Foot,,Héctor Bellerín,Pass (Live),Granit Xhaka,Pass (Live)
+13,62,Jan Bednarek,Southampton,0.24,,Off Target,5.0,Head,,James Ward-Prowse,Pass (Dead),Stuart Armstrong,Pass (Live)
+14,63,Danny Ings,Southampton,0.17,,Off Target,11.0,Right Foot,Volley,Shane Long,Pass (Live),Ryan Bertrand,Pass (Dead)
+15,68,Stuart Armstrong,Southampton,0.03,,Off Target,22.0,Left Foot,,James Ward-Prowse,Pass (Live),Pierre Højbjerg,Pass (Live)
+16,73,Nathan Redmond,Southampton,0.05,,Off Target,14.0,Right Foot,Volley,Kyle Walker-Peters,Pass (Live),Jan Bednarek,Pass (Live)
+17,78,Shane Long,Southampton,0.05,0.09,Saved,13.0,Left Foot,Volley,Jack Stephens,Pass (Live),Jan Bednarek,Pass (Live)
+18,86,Alexandre Lacazette,Arsenal,0.14,,Blocked,22.0,Right Foot,Free kick,Pierre-Emerick Aubameyang,Fouled,,
+19,86,Alexandre Lacazette,Arsenal,0.05,0.03,Saved,20.0,Right Foot,,Alexandre Lacazette,Shot,,
+20,87,Joe Willock,Arsenal,0.36,0.79,Goal,6.0,Right Foot,,Alexandre Lacazette,Shot,,
+21,90+3,Pierre-Emerick Aubameyang,Arsenal,0.03,0.37,Saved,24.0,Right Foot,,Bukayo Saka,Pass (Live),Bukayo Saka,Take-On
+22,90+6,Alexandre Lacazette,Arsenal,0.07,,Off Target,5.0,Head,,Bukayo Saka,Pass (Live),Joe Willock,Pass (Live)

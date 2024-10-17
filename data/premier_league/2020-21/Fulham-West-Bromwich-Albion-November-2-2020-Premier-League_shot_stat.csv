@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Ademola Lookman,Fulham,0.05,0.12,Saved,11.0,Right Foot,Volley,Tom Cairney,Pass (Live),Mario Lemina,Pass (Live)
+1,18,Filip Krovinović,West Brom,0.04,,Blocked,20.0,Right Foot,,Filip Krovinović,Take-On,,
+2,19,Ademola Lookman,Fulham,0.03,,Off Target,24.0,Right Foot,,Antonee Robinson,Pass (Live),Tom Cairney,Pass (Live)
+3,25,Bobby Reid,Fulham,0.03,,Off Target,32.0,Right Foot,,Mario Lemina,Pass (Live),Bobby Reid,Pass (Live)
+4,26,Bobby Reid,Fulham,0.63,0.89,Goal,4.0,Head,Deflected,Aleksandar Mitrović,Pass (Live),Antonee Robinson,Pass (Live)
+5,30,Ola Aina,Fulham,0.03,0.69,Goal,22.0,Left Foot,,Aleksandar Mitrović,Pass (Live),Bobby Reid,Pass (Live)
+6,31,Grady Diangana,West Brom,0.05,,Off Target,11.0,Head,,Jake Livermore,Pass (Live),Karlan Grant,Pass (Live)
+7,32,Andre-Frank Zambo Anguissa,Fulham,0.03,,Blocked,26.0,Left Foot,,,,,
+8,36,Karlan Grant,West Brom,0.06,,Off Target,19.0,Left Foot,,Conor Gallagher,Tackle,,
+9,45+1,Andre-Frank Zambo Anguissa,Fulham,0.04,0.04,Saved,22.0,Right Foot,,Tom Cairney,Pass (Live),Tom Cairney,Take-On
+10,,,,,,,,,,,,,
+11,53,Matheus Pereira,West Brom,0.06,,Blocked,29.0,Left Foot,Free kick,Matheus Pereira,Fouled,Filip Krovinović,Pass (Live)
+12,63,Joachim Andersen,Fulham,0.02,,Off Target,27.0,Right Foot,,Ademola Lookman,Pass (Live),Harrison Reed,Pass (Live)
+13,64,Andre-Frank Zambo Anguissa,Fulham,0.06,,Blocked,11.0,Left Foot,,Andre-Frank Zambo Anguissa,Take-On,Andre-Frank Zambo Anguissa,Take-On
+14,65,Grady Diangana,West Brom,0.03,,Blocked,27.0,Right Foot,,,,,
+15,66,Karlan Grant,West Brom,0.05,0.05,Saved,9.0,Head,,Darnell Furlong,Pass (Live),Callum Robinson,Pass (Live)
+16,68,Tom Cairney,Fulham,0.05,,Blocked,13.0,Left Foot,,Tom Cairney,Take-On,Ademola Lookman,Pass (Live)
+17,71,Callum Robinson,West Brom,0.07,,Blocked,16.0,Right Foot,Volley,Matt Phillips,Pass (Live),Semi Ajayi,Pass (Live)
+18,75,Callum Robinson,West Brom,0.01,,Off Target,55.0,Left Foot,,,,,
+19,79,Callum Robinson,West Brom,0.07,,Blocked,16.0,Right Foot,Volley,Branislav Ivanović,Pass (Live),Romaine Sawyers,Pass (Live)
+20,80,Tom Cairney,Fulham,0.02,,Blocked,27.0,Left Foot,,Ademola Lookman,Pass (Live),Aleksandar Mitrović,Pass (Live)
+21,80,Bobby Reid,Fulham,0.43,,Blocked,10.0,Left Foot,,Tom Cairney,Shot,,
+22,84,Ademola Lookman,Fulham,0.05,,Blocked,17.0,Left Foot,,Harrison Reed,Pass (Live),,
+23,88,Conor Townsend,West Brom,0.05,,Off Target,12.0,Head,,Matt Phillips,Pass (Live),Darnell Furlong,Pass (Dead)

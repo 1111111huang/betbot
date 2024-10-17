@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6,Ainsley Maitland-Niles,West Brom,0.02,,Blocked,32.0,Right Foot,,Conor Gallagher,Pass (Live),Matt Phillips,Pass (Live)
+1,6,Joelinton,Newcastle Utd,0.09,,Blocked,18.0,Left Foot,,,,,
+2,7,Emil Krafth,Newcastle Utd,0.03,0.35,Saved,30.0,Right Foot,"Deflected, Volley",,,,
+3,20,Matheus Pereira,West Brom,0.06,0.05,Saved,16.0,Left Foot,Volley,Conor Townsend,Pass (Live),Matheus Pereira,Pass (Live)
+4,28,Mbaye Diagne,West Brom,0.3,,Off Target,8.0,Right Foot,Volley,Kyle Bartley,Pass (Live),Darnell Furlong,Pass (Dead)
+5,30,Jonjo Shelvey,Newcastle Utd,0.04,0.04,Saved,14.0,Right Foot,Deflected,Ryan Fraser,Pass (Dead),Jeff Hendrick,Pass (Live)
+6,32,Isaac Hayden,Newcastle Utd,0.04,,Blocked,15.0,Head,,Ryan Fraser,Pass (Live),Jonjo Shelvey,Pass (Dead)
+7,35,Matt Phillips,West Brom,0.02,0.35,Saved,33.0,Right Foot,,Conor Townsend,Pass (Live),Sam Johnstone,Pass (Live)
+8,37,Mbaye Diagne,West Brom,0.04,0.2,Saved,15.0,Head,,Conor Townsend,Pass (Live),,
+9,,,,,,,,,,,,,
+10,53,Okay Yokuşlu,West Brom,0.06,,Blocked,25.0,Left Foot,,Matheus Pereira,Pass (Live),Mbaye Diagne,Pass (Live)
+11,54,Conor Gallagher,West Brom,0.03,,Blocked,28.0,Right Foot,,Okay Yokuşlu,Pass (Live),Matt Phillips,Pass (Live)
+12,55,Matt Phillips,West Brom,0.4,,Off Target,10.0,Left Foot,,Conor Townsend,Pass (Live),Matheus Pereira,Pass (Live)
+13,57,Emil Krafth,Newcastle Utd,0.02,,Off Target,31.0,Right Foot,Volley,Jeff Hendrick,Pass (Live),Isaac Hayden,Pass (Live)
+14,61,Joe Willock,Newcastle Utd,0.07,0.33,Saved,17.0,Right Foot,,Dwight Gayle,Pass (Live),,
+15,61,Ciaran Clark,Newcastle Utd,0.06,,Off Target,10.0,Head,,Ryan Fraser,Pass (Dead),Joe Willock,Shot
+16,62,Mbaye Diagne,West Brom,0.26,,Off Target,10.0,Head,,Conor Townsend,Pass (Live),Matheus Pereira,Pass (Live)
+17,68,Kyle Bartley,West Brom,0.05,,Off Target,10.0,Head,,Matt Phillips,Pass (Dead),Conor Townsend,Pass (Live)
+18,71,Joelinton,Newcastle Utd,0.06,0.09,Saved,15.0,Left Foot,,Joe Willock,Pass (Live),,
+19,81,Mbaye Diagne,West Brom,0.45,,Off Target,4.0,Head,,,,,
+20,83,Kyle Bartley,West Brom,0.26,,Blocked,5.0,Head,,Matheus Pereira,Pass (Dead),Conor Gallagher,Pass (Live)
+21,87,Joelinton,Newcastle Utd,0.04,0.21,Saved,16.0,Head,Deflected,Jonjo Shelvey,Pass (Dead),Joelinton,Fouled
+22,90+3,Okay Yokuşlu,West Brom,0.02,,Off Target,37.0,Right Foot,,,,,

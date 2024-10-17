@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Saïd Benrahma,West Ham,0.04,,Off Target,24.0,Right Foot,,,,,
+1,11,Leandro Trossard,Brighton,0.06,,Blocked,13.0,Left Foot,,Joël Veltman,Pass (Live),Solly March,Pass (Live)
+2,13,Jarrod Bowen,West Ham,0.07,,Blocked,21.0,Left Foot,,Pablo Fornals,Pass (Live),Kurt Zouma,Pass (Live)
+3,22,Alexis Mac Allister (pen),Brighton,0.79,0.99,Goal,13.0,Right Foot,,Danny Welbeck,Fouled,Leandro Trossard,Pass (Live)
+4,24,Kurt Zouma,West Ham,0.05,,Blocked,12.0,Head,,Jarrod Bowen,Pass (Dead),Vladimír Coufal,Fouled
+5,26,Moisés Caicedo,Brighton,0.02,,Blocked,30.0,Right Foot,,Solly March,Pass (Live),Pascal Groß,Pass (Live)
+6,27,Leandro Trossard,Brighton,0.05,,Off Target,16.0,Right Foot,Volley,Pascal Groß,Pass (Dead),Moisés Caicedo,Shot
+7,28,Adam Webster,Brighton,0.12,,Off Target,9.0,Head,,Pascal Groß,Pass (Dead),Danny Welbeck,Pass (Live)
+8,30,Jarrod Bowen,West Ham,0.02,,Off Target,12.0,Right Foot,,Vladimír Coufal,Pass (Live),Tomáš Souček,Pass (Live)
+9,40,Leandro Trossard,Brighton,0.05,,Blocked,19.0,Right Foot,,Adam Lallana,Pass (Live),Leandro Trossard,Pass (Live)
+10,,,,,,,,,,,,,
+11,52,Saïd Benrahma,West Ham,0.06,,Blocked,14.0,Right Foot,,Declan Rice,Pass (Live),Jarrod Bowen,Pass (Live)
+12,52,Declan Rice,West Ham,0.02,,Blocked,27.0,Right Foot,,Saïd Benrahma,Shot,,
+13,53,Aaron Cresswell,West Ham,0.05,,Blocked,13.0,Left Foot,Volley,Declan Rice,Shot,,
+14,58,Pablo Fornals,West Ham,0.04,0.02,Saved,25.0,Right Foot,,Michail Antonio,Pass (Live),Declan Rice,Pass (Live)
+15,66,Leandro Trossard,Brighton,0.39,0.5,Goal,12.0,Right Foot,,Pascal Groß,Pass (Live),Alexis Mac Allister,Pass (Live)
+16,68,Solly March,Brighton,0.06,,Off Target,16.0,Left Foot,Volley,Leandro Trossard,Pass (Live),,
+17,72,Leandro Trossard,Brighton,0.04,,Blocked,20.0,Right Foot,,Pervis Estupiñán,Pass (Live),Alexis Mac Allister,Pass (Live)
+18,77,Solly March,Brighton,0.1,,Off Target,8.0,Head,,Pervis Estupiñán,Pass (Live),Alexis Mac Allister,Pass (Live)
+19,82,Alexis Mac Allister,Brighton,0.04,,Off Target,32.0,Right Foot,,Leandro Trossard,Pass (Live),Moisés Caicedo,Pass (Live)
+20,83,Jarrod Bowen,West Ham,0.04,,Blocked,25.0,Right Foot,,Declan Rice,Pass (Live),Tomáš Souček,Pass (Live)
+21,83,Tomáš Souček,West Ham,0.1,0.27,Saved,11.0,Head,,Ben Johnson,Pass (Live),Jarrod Bowen,Shot
+22,84,Tomáš Souček,West Ham,0.19,0.23,Saved,8.0,Head,,Aaron Cresswell,Pass (Dead),Tomáš Souček,Shot
+23,84,Kurt Zouma,West Ham,0.14,,Off Target,8.0,Head,,Aaron Cresswell,Pass (Dead),Tomáš Souček,Shot
+24,90+1,Tomáš Souček,West Ham,0.06,,Blocked,12.0,Right Foot,Volley,Gianluca Scamacca,Pass (Live),Ben Johnson,Pass (Live)

@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Saïd Benrahma,West Ham,0.02,,Blocked,25.0,Right Foot,,,,,
+1,3,Adam Armstrong,Southampton,0.03,0.05,Saved,20.0,Right Foot,,Nathan Redmond,Pass (Live),Valentino Livramento,Pass (Live)
+2,14,Aaron Cresswell,West Ham,0.07,,Blocked,24.0,Left Foot,Free kick,Saïd Benrahma,Fouled,Declan Rice,Pass (Live)
+3,14,Aaron Cresswell,West Ham,0.02,,Off Target,21.0,Right Foot,,Aaron Cresswell,Shot,,
+4,21,Moussa Djenepo,Southampton,0.08,,Blocked,15.0,Right Foot,,Mohamed Elyounoussi,Pass (Live),Nathan Redmond,Pass (Live)
+5,32,Jarrod Bowen,West Ham,0.02,,Blocked,24.0,Left Foot,,Declan Rice,Pass (Live),,
+6,33,Tomáš Souček,West Ham,0.02,,Blocked,32.0,Right Foot,,Declan Rice,Pass (Live),Saïd Benrahma,Pass (Live)
+7,38,Moussa Djenepo,Southampton,0.02,,Off Target,17.0,Left Foot,Volley,Moussa Djenepo,Pass (Live),Adam Armstrong,Pass (Live)
+8,,,,,,,,,,,,,
+9,47,Michail Antonio,West Ham,0.03,0.17,Saved,18.0,Right Foot,,Saïd Benrahma,Pass (Live),Pablo Fornals,Pass (Live)
+10,49,Mohamed Elyounoussi,Southampton,0.03,0.02,Saved,11.0,Head,,Mohamed Elyounoussi,Pass (Live),Adam Armstrong,Pass (Live)
+11,51,Saïd Benrahma,West Ham,0.05,,Blocked,23.0,Left Foot,,,,,
+12,52,Nathan Redmond,Southampton,0.14,,Blocked,16.0,Right Foot,,Adam Armstrong,Pass (Live),,
+13,52,Nathan Redmond,Southampton,0.09,,Off Target,13.0,Left Foot,,Moussa Djenepo,Pass (Live),Nathan Redmond,Shot
+14,56,Tomáš Souček,West Ham,0.15,,Off Target,10.0,Head,,Saïd Benrahma,Pass (Live),Vladimír Coufal,Pass (Dead)
+15,61,Adam Armstrong,Southampton,0.04,,Off Target,10.0,Head,,Romain Perraud,Pass (Live),Moussa Djenepo,Pass (Live)
+16,64,Michail Antonio,West Ham,0.12,,Blocked,8.0,Right Foot,Volley,Nikola Vlašić,Pass (Live),Aaron Cresswell,Pass (Live)
+17,68,Jarrod Bowen,West Ham,0.06,0.12,Saved,10.0,Left Foot,Volley,Vladimír Coufal,Pass (Live),Craig Dawson,Pass (Live)
+18,68,Craig Dawson,West Ham,0.1,0.06,Saved,9.0,Head,Deflected,Jarrod Bowen,Pass (Dead),Jarrod Bowen,Shot
+19,81,Armando Broja,Southampton,0.07,,Woodwork,23.0,Right Foot,,,,,
+20,82,Ibrahima Diallo,Southampton,0.09,,Off Target,7.0,Right Foot,,Valentino Livramento,Pass (Live),Mohamed Elyounoussi,Pass (Live)
+21,83,Andriy Yarmolenko,West Ham,0.04,,Off Target,26.0,Left Foot,,Aaron Cresswell,Pass (Live),Andriy Yarmolenko,Pass (Live)
+22,90+2,Armando Broja,Southampton,0.11,,Blocked,6.0,Head,,James Ward-Prowse,Pass (Dead),Mohamed Elyounoussi,Pass (Live)
+23,90+2,Mohamed Elyounoussi,Southampton,0.03,,Blocked,17.0,Right Foot,Volley,Armando Broja,Shot,,
+24,90+3,Declan Rice,West Ham,0.02,,Blocked,29.0,Right Foot,,Aaron Cresswell,Pass (Dead),Nikola Vlašić,Fouled

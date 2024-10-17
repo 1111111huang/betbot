@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Sébastien Haller,West Ham,0.06,,Off Target,10.0,Head,,Ryan Fredericks,Pass (Live),Declan Rice,Pass (Live)
+1,20,Son Heung-min,Tottenham,0.03,0.16,Saved,27.0,Right Foot,,Dele Alli,Pass (Live),Eric Dier,Pass (Live)
+2,20,Son Heung-min,Tottenham,0.03,,Blocked,23.0,Left Foot,,Serge Aurier,Pass (Live),Son Heung-min,Shot
+3,20,Lucas Moura,Tottenham,0.23,,Off Target,10.0,Head,,Son Heung-min,Shot,,
+4,32,Toby Alderweireld,Tottenham,0.05,,Blocked,7.0,Head,,Harry Winks,Pass (Dead),Ben Davies,Pass (Live)
+5,32,Toby Alderweireld,Tottenham,0.05,,Blocked,16.0,Left Foot,,Toby Alderweireld,Shot,,
+6,34,Eric Dier,Tottenham,0.02,,Off Target,17.0,Head,,Ben Davies,Pass (Live),Dele Alli,Pass (Dead)
+7,36,Son Heung-min,Tottenham,0.23,0.7,Goal,11.0,Left Foot,,Dele Alli,Pass (Live),Harry Winks,Pass (Live)
+8,38,Dele Alli,Tottenham,0.03,,Off Target,28.0,Right Foot,,Harry Kane,Pass (Live),Serge Aurier,Pass (Live)
+9,41,Dele Alli,Tottenham,0.04,,Off Target,21.0,Right Foot,Volley,Son Heung-min,Fouled,,
+10,43,Lucas Moura,Tottenham,0.68,0.97,Goal,5.0,Left Foot,,Son Heung-min,Pass (Live),Dele Alli,Pass (Live)
+11,45,Robert Snodgrass,West Ham,0.04,,Off Target,29.0,Right Foot,,Robert Snodgrass,Take-On,Aaron Cresswell,Pass (Live)
+12,45+2,Davinson Sánchez,Tottenham,0.07,0.45,Saved,10.0,Head,,Lucas Moura,Pass (Live),,
+13,45+3,Eric Dier,Tottenham,0.05,,Off Target,11.0,Head,,Son Heung-min,Pass (Dead),Davinson Sánchez,Shot
+14,,,,,,,,,,,,,
+15,48,Lucas Moura,Tottenham,0.32,,Off Target,12.0,Right Foot,,Son Heung-min,Pass (Live),Lucas Moura,Pass (Live)
+16,49,Harry Kane,Tottenham,0.27,0.36,Goal,8.0,Head,,Serge Aurier,Pass (Live),Harry Winks,Pass (Live)
+17,61,Michail Antonio,West Ham,0.04,0.08,Saved,19.0,Left Foot,,Mark Noble,Pass (Live),Sébastien Haller,Pass (Live)
+18,70,Aaron Cresswell,West Ham,0.05,,Blocked,32.0,Left Foot,Free kick,Michail Antonio,Fouled,Michail Antonio,Take-On
+19,73,Sébastien Haller,West Ham,0.09,,Blocked,15.0,Left Foot,,Robert Snodgrass,Pass (Live),Ryan Fredericks,Pass (Live)
+20,73,Michail Antonio,West Ham,0.07,0.46,Goal,16.0,Right Foot,,Mark Noble,Pass (Live),Sébastien Haller,Shot
+21,77,Sébastien Haller,West Ham,0.05,,Blocked,22.0,Left Foot,Volley,Michail Antonio,Pass (Live),Mark Noble,Pass (Live)
+22,81,Harry Kane,Tottenham,0.04,0.04,Saved,33.0,Right Foot,Free kick,Lucas Moura,Fouled,Lucas Moura,Pass (Live)
+23,82,Michail Antonio,West Ham,0.04,,Off Target,16.0,Head,,Robert Snodgrass,Pass (Dead),Aaron Cresswell,Fouled
+24,89,Sébastien Haller,West Ham,0.08,,Off Target,9.0,Head,,Robert Snodgrass,Pass (Dead),Michail Antonio,Pass (Live)
+25,90+1,Sébastien Haller,West Ham,0.07,0.06,Saved,11.0,Head,,Robert Snodgrass,Pass (Live),Aaron Cresswell,Pass (Live)
+26,90+6,Angelo Ogbonna,West Ham,0.1,0.21,Goal,10.0,Left Foot,Volley,Robert Snodgrass,Pass (Dead),,

@@ -1,0 +1,28 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Gareth Bale,Tottenham,0.49,0.74,Goal,7.0,Right Foot,,Son Heung-min,Pass (Live),Sergio Reguilón,Pass (Live)
+1,5,Harry Kane,Tottenham,0.03,,Blocked,25.0,Left Foot,,Serge Aurier,Pass (Live),Gareth Bale,Pass (Live)
+2,6,Harry Kane,Tottenham,0.04,,Off Target,24.0,Right Foot,,Tanguy Ndombele,Pass (Live),Pierre Højbjerg,Pass (Live)
+3,7,Josh Brownhill,Burnley,0.02,,Off Target,36.0,Right Foot,Volley,,,,
+4,9,Jay Rodriguez,Burnley,0.03,,Blocked,28.0,Right Foot,,Josh Brownhill,Pass (Live),Jay Rodriguez,Pass (Live)
+5,9,Jay Rodriguez,Burnley,0.04,0.04,Saved,15.0,Head,,Matthew Lowton,Pass (Live),Jack Cork,Pass (Live)
+6,10,Lucas Moura,Tottenham,0.42,0.23,Saved,15.0,Right Foot,,Lucas Moura,Take-On,Son Heung-min,Pass (Live)
+7,15,Harry Kane,Tottenham,0.04,0.11,Goal,19.0,Right Foot,Deflected,Gareth Bale,Pass (Live),Pierre Højbjerg,Pass (Live)
+8,24,Matěj Vydra,Burnley,0.05,,Off Target,17.0,Right Foot,,Ashley Westwood,Pass (Live),Dwight McNeil,Pass (Live)
+9,26,Gareth Bale,Tottenham,0.06,,Off Target,11.0,Left Foot,,Son Heung-min,Pass (Live),Lucas Moura,Pass (Live)
+10,31,Lucas Moura,Tottenham,0.09,0.42,Goal,12.0,Left Foot,,Gareth Bale,Pass (Live),Lucas Moura,Pass (Live)
+11,35,Lucas Moura,Tottenham,0.06,,Off Target,18.0,Right Foot,,Serge Aurier,Pass (Live),Serge Aurier,Take-On
+12,41,Dwight McNeil,Burnley,0.03,,Blocked,22.0,Left Foot,,Jack Cork,Pass (Live),Dwight McNeil,Pass (Live)
+13,45,Serge Aurier,Tottenham,0.03,,Off Target,28.0,Right Foot,,Lucas Moura,Pass (Live),Son Heung-min,Pass (Live)
+14,45+3,Jay Rodriguez,Burnley,0.06,0.07,Saved,17.0,Left Foot,,Ashley Westwood,Pass (Live),Josh Brownhill,Pass (Live)
+15,,,,,,,,,,,,,
+16,55,Gareth Bale,Tottenham,0.05,0.47,Goal,18.0,Left Foot,,Son Heung-min,Pass (Live),Sergio Reguilón,Pass (Live)
+17,60,Matěj Vydra,Burnley,0.29,,Off Target,9.0,Head,,Matthew Lowton,Pass (Live),Jack Cork,Pass (Live)
+18,61,Sergio Reguilón,Tottenham,0.03,,Blocked,26.0,Right Foot,,Sergio Reguilón,Take-On,Harry Kane,Pass (Live)
+19,62,Sergio Reguilón,Tottenham,0.03,,Off Target,22.0,Left Foot,Volley,Son Heung-min,Pass (Dead),Tanguy Ndombele,Pass (Live)
+20,64,Matěj Vydra,Burnley,0.04,,Blocked,24.0,Left Foot,,Jay Rodriguez,Pass (Live),,
+21,68,Matěj Vydra,Burnley,0.04,0.17,Saved,18.0,Left Foot,Deflected,James Tarkowski,Pass (Dead),Josh Brownhill,Fouled
+22,71,Harry Kane,Tottenham,0.05,0.06,Saved,28.0,Right Foot,,Son Heung-min,Pass (Live),Tanguy Ndombele,Pass (Live)
+23,73,Son Heung-min,Tottenham,0.11,0.3,Saved,15.0,Right Foot,,Dele Alli,Pass (Live),Harry Kane,Pass (Live)
+24,83,Son Heung-min,Tottenham,0.1,,Off Target,23.0,Right Foot,,Harry Kane,Pass (Live),Dele Alli,Pass (Live)
+25,89,James Tarkowski,Burnley,0.06,,Off Target,8.0,Head,,Dwight McNeil,Pass (Dead),Matthew Lowton,Pass (Dead)
+26,90+2,Harry Kane,Tottenham,0.49,,Off Target,10.0,Right Foot,,Son Heung-min,Pass (Live),Tanguy Ndombele,Pass (Live)

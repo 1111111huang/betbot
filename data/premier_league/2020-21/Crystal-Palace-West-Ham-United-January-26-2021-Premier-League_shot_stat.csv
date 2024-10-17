@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Wilfried Zaha,Crystal Palace,0.1,0.4,Goal,23.0,Right Foot,,Wilfried Zaha,Take-On,Christian Benteke,Pass (Live)
+1,9,Tomáš Souček,West Ham,0.49,0.77,Goal,5.0,Head,,Michail Antonio,Pass (Live),Pablo Fornals,Pass (Live)
+2,25,Tomáš Souček,West Ham,0.29,0.39,Goal,2.0,Right Foot,Volley,Michail Antonio,Fouled,Declan Rice,Pass (Live)
+3,27,Michail Antonio,West Ham,0.04,,Woodwork,22.0,Right Foot,,,,,
+4,32,Tomáš Souček,West Ham,0.03,0.26,Saved,25.0,Right Foot,,Pablo Fornals,Pass (Live),,
+5,36,Saïd Benrahma,West Ham,0.02,,Off Target,34.0,Right Foot,,Pablo Fornals,Pass (Live),Saïd Benrahma,Pass (Live)
+6,37,Pablo Fornals,West Ham,0.04,0.04,Saved,21.0,Left Foot,Deflected,Jarrod Bowen,Pass (Live),Michail Antonio,Pass (Live)
+7,39,Aaron Cresswell,West Ham,0.05,,Off Target,18.0,Left Foot,,,,,
+8,39,Michail Antonio,West Ham,0.26,,Woodwork,6.0,Right Foot,,Aaron Cresswell,Shot,,
+9,,,,,,,,,,,,,
+10,47,Wilfried Zaha,Crystal Palace,0.41,0.63,Saved,13.0,Left Foot,,Eberechi Eze,Pass (Live),Eberechi Eze,Take-On
+11,55,Jarrod Bowen,West Ham,0.04,,Blocked,23.0,Left Foot,,Pablo Fornals,Pass (Live),Saïd Benrahma,Pass (Live)
+12,59,Michail Antonio,West Ham,0.58,0.58,Saved,6.0,Right Foot,,Saïd Benrahma,Pass (Live),Vladimír Coufal,Pass (Dead)
+13,59,Saïd Benrahma,West Ham,0.32,0.2,Saved,5.0,Right Foot,,,,,
+14,64,Michail Antonio,West Ham,0.08,,Blocked,18.0,Right Foot,,Michail Antonio,Take-On,Saïd Benrahma,Pass (Live)
+15,65,Craig Dawson,West Ham,0.21,0.1,Goal,5.0,Head,,Jarrod Bowen,Pass (Dead),Vladimír Coufal,Pass (Live)
+16,69,Vladimír Coufal,West Ham,0.05,,Off Target,17.0,Right Foot,,Declan Rice,Pass (Live),Pablo Fornals,Pass (Live)
+17,69,Michail Antonio,West Ham,0.48,,Off Target,9.0,Left Foot,,Vladimír Coufal,Shot,,
+18,71,Pablo Fornals,West Ham,0.04,,Blocked,22.0,Right Foot,,Pablo Fornals,Take-On,Saïd Benrahma,Pass (Live)
+19,77,Tomáš Souček,West Ham,0.06,,Blocked,24.0,Right Foot,,Pablo Fornals,Pass (Live),Michail Antonio,Pass (Live)
+20,78,Wilfried Zaha,Crystal Palace,0.03,,Off Target,28.0,Right Foot,,Jordan Ayew,Pass (Live),Gary Cahill,Pass (Live)
+21,83,Wilfried Zaha,Crystal Palace,0.03,,Off Target,27.0,Right Foot,,James McArthur,Pass (Live),Tyrick Mitchell,Pass (Live)
+22,85,James McArthur,Crystal Palace,0.03,,Off Target,30.0,Right Foot,,Jordan Ayew,Pass (Live),Jaïro Riedewald,Pass (Live)
+23,90+7,Michy Batshuayi,Crystal Palace,0.11,0.15,Goal,10.0,Left Foot,,Jordan Ayew,Pass (Live),James McArthur,Pass (Live)

@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3.0,Jack Cork,Burnley,0.07,,Off Target,5.0,Head,,Dwight McNeil,Pass (Dead),Ben Mee,Pass (Live)
+1,5.0,Richarlison,Everton,0.03,,Blocked,28.0,Left Foot,,Djibril Sidibé,Pass (Live),Gylfi Sigurðsson,Pass (Live)
+2,6.0,Yerry Mina,Everton,0.08,,Off Target,8.0,Head,,Gylfi Sigurðsson,Pass (Dead),Dominic Calvert-Lewin,Fouled
+3,6.0,Mason Holgate,Everton,0.37,0.46,Saved,4.0,Right Foot,,Yerry Mina,Shot,,
+4,6.0,Yerry Mina,Everton,0.26,,Off Target,4.0,Left Foot,,Mason Holgate,Shot,,
+5,13.0,Lucas Digne,Everton,0.07,,Blocked,29.0,Left Foot,Free kick,Richarlison,Fouled,Fabian Delph,Pass (Live)
+6,23.0,Dominic Calvert-Lewin,Everton,0.1,,Off Target,10.0,Head,,Gylfi Sigurðsson,Pass (Dead),Dominic Calvert-Lewin,Fouled
+7,28.0,Fabian Delph,Everton,0.02,,Blocked,33.0,Left Foot,,Bernard,Pass (Live),Djibril Sidibé,Pass (Live)
+8,29.0,Djibril Sidibé,Everton,0.02,,Blocked,22.0,Right Foot,,Richarlison,Pass (Live),Fabian Delph,Shot
+9,32.0,Djibril Sidibé,Everton,0.06,0.22,Saved,13.0,Right Foot,,Bernard,Pass (Live),Richarlison,Pass (Live)
+10,33.0,Richarlison,Everton,0.02,,Blocked,32.0,Right Foot,,Fabian Delph,Pass (Live),Mason Holgate,Pass (Live)
+11,35.0,Chris Wood,Burnley,0.17,,Off Target,8.0,Head,,Ashley Westwood,Pass (Dead),Robbie Brady,Fouled
+12,42.0,Dominic Calvert-Lewin,Everton,0.09,,Off Target,8.0,Head,,Lucas Digne,Pass (Live),Bernard,Pass (Live)
+13,44.0,Lucas Digne,Everton,0.02,,Blocked,23.0,Right Foot,,Gylfi Sigurðsson,Pass (Dead),,
+14,,,,,,,,,,,,,
+15,46.0,Jay Rodriguez,Burnley,0.02,,Off Target,35.0,Right Foot,Volley,Charlie Taylor,Pass (Live),,
+16,47.0,Robbie Brady,Burnley,0.03,,Off Target,22.0,Right Foot,Volley,Chris Wood,Pass (Live),Robbie Brady,Pass (Live)
+17,50.0,Jay Rodriguez,Burnley,0.02,,Off Target,21.0,Head,,Dwight McNeil,Pass (Dead),Jack Cork,Fouled
+18,53.0,Gylfi Sigurðsson,Everton,0.02,,Blocked,35.0,Right Foot,,Lucas Digne,Pass (Live),Richarlison,Pass (Live)
+19,54.0,Bernard,Everton,0.04,,Blocked,21.0,Right Foot,,Djibril Sidibé,Pass (Live),Djibril Sidibé,Interception
+20,59.0,Robbie Brady,Burnley,0.04,,Off Target,10.0,Head,,Dwight McNeil,Pass (Live),Chris Wood,Pass (Live)
+21,60.0,Dominic Calvert-Lewin,Everton,0.04,0.09,Saved,15.0,Head,,Fabian Delph,Pass (Live),Lucas Digne,Pass (Live)
+22,69.0,Gylfi Sigurðsson,Everton,0.04,,Off Target,24.0,Left Foot,,Lucas Digne,Pass (Live),Fabian Delph,Pass (Live)
+23,70.0,Séamus Coleman,Everton,0.02,,Off Target,31.0,Left Foot,,Bernard,Pass (Live),Dominic Calvert-Lewin,Pass (Live)
+24,75.0,Richarlison,Everton,0.06,0.19,Saved,14.0,Head,,Gylfi Sigurðsson,Pass (Dead),Djibril Sidibé,Fouled
+25,80.0,Dominic Calvert-Lewin,Everton,0.04,0.56,Goal,13.0,Head,,Djibril Sidibé,Pass (Live),Gylfi Sigurðsson,Pass (Live)
+26,85.0,Dominic Calvert-Lewin,Everton,0.05,,Off Target,9.0,Head,,Gylfi Sigurðsson,Pass (Dead),,
+27,87.0,Dominic Calvert-Lewin,Everton,0.03,,Off Target,26.0,Left Foot,,Moise Kean,Pass (Live),Dominic Calvert-Lewin,Pass (Live)

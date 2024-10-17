@@ -1,0 +1,34 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Orel Mangala,Nott'ham Forest,0.03,,Blocked,24.0,Right Foot,Volley,Harry Toffolo,Pass (Live),Lewis O'Brien,Pass (Live)
+1,4,Neco Williams,Nott'ham Forest,0.03,,Blocked,20.0,Right Foot,,Jesse Lingard,Pass (Live),Jesse Lingard,Take-On
+2,6,Neco Williams,Nott'ham Forest,0.04,,Off Target,27.0,Right Foot,Free kick,Taiwo Awoniyi,Fouled,Jesse Lingard,Pass (Dead)
+3,8,Aaron Cresswell,West Ham,0.05,,Off Target,28.0,Left Foot,Free kick,Michail Antonio,Fouled,Łukasz Fabiański,Pass (Dead)
+4,11,Moussa Niakhate,Nott'ham Forest,0.04,,Saved off Target,7.0,Head,,Orel Mangala,Pass (Live),Lewis O'Brien,Pass (Live)
+5,13,Taiwo Awoniyi,Nott'ham Forest,0.11,,Off Target,12.0,Head,,Neco Williams,Pass (Live),,
+6,16,Saïd Benrahma,West Ham,0.02,0.32,Saved,25.0,Right Foot,,Michail Antonio,Pass (Live),Pablo Fornals,Pass (Live)
+7,25,Tomáš Souček,West Ham,0.05,0.02,Saved,12.0,Head,,Aaron Cresswell,Pass (Live),Saïd Benrahma,Pass (Live)
+8,29,Brennan Johnson,Nott'ham Forest,0.04,0.07,Saved,18.0,Right Foot,,Jesse Lingard,Pass (Live),Harry Toffolo,Pass (Live)
+9,30,Vladimír Coufal,West Ham,0.03,,Off Target,27.0,Right Foot,,,,,
+10,32,Vladimír Coufal,West Ham,0.07,,Blocked,23.0,Right Foot,,Pablo Fornals,Pass (Live),Saïd Benrahma,Pass (Live)
+11,36,Jarrod Bowen,West Ham,0.09,,Off Target,9.0,Right Foot,Volley,Saïd Benrahma,Pass (Live),Saïd Benrahma,Take-On
+12,39,Saïd Benrahma,West Ham,0.03,,Blocked,26.0,Right Foot,,Aaron Cresswell,Pass (Live),Saïd Benrahma,Pass (Live)
+13,39,Michail Antonio,West Ham,0.08,,Off Target,10.0,Left Foot,Volley,Saïd Benrahma,Shot,,
+14,41,Brennan Johnson,Nott'ham Forest,0.05,,Off Target,13.0,Head,,Harry Toffolo,Pass (Live),Lewis O'Brien,Pass (Live)
+15,41,Neco Williams,Nott'ham Forest,0.18,0.91,Saved,3.0,Right Foot,,Brennan Johnson,Shot,,
+16,45,Neco Williams,Nott'ham Forest,0.04,0.19,Saved,23.0,Left Foot,,Neco Williams,Take-On,,
+17,45+2,Jesse Lingard,Nott'ham Forest,0.22,,Blocked,13.0,Right Foot,,Harry Toffolo,Pass (Live),Harry Toffolo,Take-On
+18,45+2,Taiwo Awoniyi,Nott'ham Forest,0.37,0.93,Goal,7.0,Right Foot,,Jesse Lingard,Shot,,
+19,,,,,,,,,,,,,
+20,46,Pablo Fornals,West Ham,0.03,,Woodwork,25.0,Right Foot,,Saïd Benrahma,Pass (Live),Pablo Fornals,Pass (Live)
+21,46,Tomáš Souček,West Ham,0.26,0.78,Saved,8.0,Head,,Pablo Fornals,Shot,,
+22,49,Pablo Fornals,West Ham,0.02,,Off Target,29.0,Right Foot,,Vladimír Coufal,Pass (Live),Pablo Fornals,Pass (Live)
+23,57,Moussa Niakhate,Nott'ham Forest,0.02,0.1,Saved,11.0,Head,,Taiwo Awoniyi,Pass (Live),Neco Williams,Pass (Live)
+24,61,Saïd Benrahma,West Ham,0.07,,Woodwork,27.0,Right Foot,Free kick,Saïd Benrahma,Fouled,Saïd Benrahma,Take-On
+25,61,Tomáš Souček,West Ham,0.22,,Blocked,12.0,Left Foot,,Saïd Benrahma,Pass (Live),Saïd Benrahma,Take-On
+26,65,Declan Rice (pen),West Ham,0.79,0.99,Saved,13.0,Right Foot,,,Fouled,Tomáš Souček,Shot
+27,66,Moussa Niakhate,Nott'ham Forest,0.21,0.62,Saved,7.0,Left Foot,,Neco Williams,Pass (Dead),Taiwo Awoniyi,Fouled
+28,68,Michail Antonio,West Ham,0.05,,Blocked,13.0,Left Foot,,Michail Antonio,Take-On,Vladimír Coufal,Pass (Live)
+29,76,Gianluca Scamacca,West Ham,0.02,,Blocked,19.0,Right Foot,,Aaron Cresswell,Pass (Live),Declan Rice,Pass (Live)
+30,83,Kurt Zouma,West Ham,0.18,,Blocked,8.0,Head,,Aaron Cresswell,Pass (Dead),Aaron Cresswell,Pass (Live)
+31,89,Manuel Lanzini,West Ham,0.04,,Blocked,26.0,Right Foot,,Saïd Benrahma,Pass (Live),Aaron Cresswell,Pass (Live)
+32,90,Tomáš Souček,West Ham,0.17,,Off Target,9.0,Right Foot,Volley,Aaron Cresswell,Pass (Dead),Manuel Lanzini,Shot

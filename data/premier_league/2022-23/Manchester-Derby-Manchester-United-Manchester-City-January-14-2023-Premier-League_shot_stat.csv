@@ -1,0 +1,15 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,11,Bruno Fernandes,Manchester Utd,0.09,,Off Target,13.0,Right Foot,,Christian Eriksen,Pass (Live),Marcus Rashford,Pass (Live)
+1,23,Erling Haaland,Manchester City,0.1,,Blocked,18.0,Left Foot,,Rodri,Pass (Live),Riyad Mahrez,Pass (Live)
+2,34,Marcus Rashford,Manchester Utd,0.2,,Blocked,16.0,Right Foot,,Marcus Rashford,Take-On,Bruno Fernandes,Pass (Live)
+3,34,Anthony Martial,Manchester Utd,0.04,,Blocked,12.0,Head,,Casemiro,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+4,37,Marcus Rashford,Manchester Utd,0.33,0.7,Saved,10.0,Right Foot,,Christian Eriksen,Pass (Live),Fred,Pass (Live)
+5,45+1,Kyle Walker,Manchester City,0.02,,Off Target,34.0,Right Foot,,Rodri,Pass (Live),João Cancelo,Pass (Live)
+6,,,,,,,,,,,,,
+7,48,Bernardo Silva,Manchester City,0.02,,Blocked,26.0,Left Foot,,Kyle Walker,Pass (Live),Manuel Akanji,Pass (Live)
+8,60,Jack Grealish,Manchester City,0.44,0.9,Goal,4.0,Head,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+9,67,Aaron Wan-Bissaka,Manchester Utd,0.04,,Blocked,26.0,Right Foot,,Fred,Pass (Live),Bruno Fernandes,Pass (Live)
+10,78,Bruno Fernandes,Manchester Utd,0.31,0.15,Goal,21.0,Right Foot,,Casemiro,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+11,82,Marcus Rashford,Manchester Utd,0.67,0.71,Goal,5.0,Right Foot,,Alejandro Garnacho,Pass (Live),Bruno Fernandes,Pass (Live)
+12,87,Erling Haaland,Manchester City,0.05,,Off Target,14.0,Head,,João Cancelo,Pass (Live),Jack Grealish,Pass (Live)
+13,90+2,Alejandro Garnacho,Manchester Utd,0.04,,Blocked,14.0,Right Foot,,Marcus Rashford,Pass (Live),Antony,Pass (Live)

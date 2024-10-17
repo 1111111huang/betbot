@@ -1,0 +1,23 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Ben Brereton,Sheffield Utd,0.05,0.18,Goal,22.0,Right Foot,,Gustavo Hamer,Pass (Live),Oliver McBurnie,Pass (Live)
+1,5,Michael Olise,Crystal Palace,0.06,,Blocked,10.0,Right Foot,,Jordan Ayew,Pass (Live),Jordan Ayew,Tackle
+2,5,Joachim Andersen,Crystal Palace,0.02,,Off Target,11.0,Right Foot,Volley,Michael Olise,Shot,,
+3,17,Eberechi Eze,Crystal Palace,0.63,0.92,Goal,5.0,Right Foot,Volley,Michael Olise,Pass (Live),Chris Richards,Pass (Live)
+4,18,Eberechi Eze,Crystal Palace,0.05,,Blocked,9.0,Right Foot,,Jordan Ayew,Pass (Dead),,
+5,20,James Mcatee,Sheffield Utd,0.14,0.2,Goal,16.0,Right Foot,Deflected,Oliver McBurnie,Pass (Live),Ben Brereton,Pass (Live)
+6,22,Jordan Ayew,Crystal Palace,0.04,,Off Target,26.0,Right Foot,,Will Hughes,Pass (Live),Jordan Ayew,Pass (Live)
+7,27,Eberechi Eze,Crystal Palace,0.03,0.31,Goal,25.0,Left Foot,,Michael Olise,Pass (Live),Jean-Philippe Mateta,Pass (Live)
+8,37,Oliver McBurnie,Sheffield Utd,0.02,0.03,Saved,16.0,Left Foot,Volley,Auston Trusty,Pass (Dead),Ben Brereton,Pass (Live)
+9,41,Michael Olise,Crystal Palace,0.04,,Blocked,29.0,Left Foot,,Michael Olise,Take-On,,
+10,41,Michael Olise,Crystal Palace,0.05,,Off Target,21.0,Left Foot,,Jordan Ayew,Pass (Dead),Michael Olise,Shot
+11,44,Jordan Ayew,Crystal Palace,0.02,,Off Target,24.0,Right Foot,,Eberechi Eze,Pass (Live),Eberechi Eze,Take-On
+12,,,,,,,,,,,,,
+13,63,Jean-Philippe Mateta,Crystal Palace,0.12,,Off Target,12.0,Left Foot,,Eberechi Eze,Pass (Live),Marc Guéhi,Pass (Live)
+14,67,Michael Olise,Crystal Palace,0.03,0.3,Goal,27.0,Left Foot,,Michael Olise,Pass (Live),Eberechi Eze,Pass (Live)
+15,72,Eberechi Eze,Crystal Palace,0.07,0.13,Saved,8.0,Right Foot,,Marc Guéhi,Pass (Live),Tyrick Mitchell,Pass (Dead)
+16,76,William Osula,Sheffield Utd,0.05,0.06,Saved,25.0,Left Foot,,Anel Ahmedhodžić,Pass (Live),Vinicius Souza,Pass (Live)
+17,84,Anel Ahmedhodžić,Sheffield Utd,0.25,,Woodwork,10.0,Head,,Yasser Larouci,Shot,,
+18,84,Yasser Larouci,Sheffield Utd,0.02,,Blocked,22.0,Right Foot,,Rhys Norrington-Davies,Pass (Live),Vinicius Souza,Pass (Live)
+19,85,William Osula,Sheffield Utd,0.13,,Blocked,10.0,Right Foot,,Jayden Bogle,Pass (Live),James Mcatee,Pass (Live)
+20,85,Andre Brooks,Sheffield Utd,0.05,0.04,Saved,17.0,Left Foot,Volley,William Osula,Shot,,
+21,90+11,William Osula,Sheffield Utd,0.06,,Off Target,10.0,Left Foot,Volley,Vinicius Souza,Pass (Live),James Mcatee,Pass (Dead)

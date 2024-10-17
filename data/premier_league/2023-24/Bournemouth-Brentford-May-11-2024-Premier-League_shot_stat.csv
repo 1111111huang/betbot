@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4,Christian Nørgaard,Brentford,0.02,,Blocked,11.0,Right Foot,,Sergio Reguilón,Pass (Dead),Sergio Reguilón,Pass (Dead)
+1,7,Keane Lewis-Potter,Brentford,0.03,0.32,Saved,19.0,Right Foot,,Vitaly Janelt,Pass (Live),Mikkel Damsgaard,Pass (Live)
+2,16,Antoine Semenyo,Bournemouth,0.02,,Off Target,30.0,Right Foot,,Lewis Cook,Pass (Live),Lloyd Kelly,Pass (Live)
+3,17,Dominic Solanke,Bournemouth,0.12,,Off Target,5.0,Other,,Justin Kluivert,Pass (Live),Antoine Semenyo,Pass (Live)
+4,18,Ivan Toney,Brentford,0.03,0.19,Saved,31.0,Right Foot,Volley,Mark Flekken,Pass (Dead),,
+5,20,Dango Ouattara,Bournemouth,0.06,0.02,Saved,24.0,Left Foot,,Lewis Cook,Pass (Live),Lloyd Kelly,Pass (Live)
+6,23,Antoine Semenyo,Bournemouth,0.07,,Off Target,9.0,Left Foot,,Justin Kluivert,Pass (Live),Ryan Christie,Pass (Live)
+7,33,Bryan Mbeumo,Brentford,0.13,,Blocked,10.0,Right Foot,,Keane Lewis-Potter,Take-On,Ivan Toney,Pass (Live)
+8,33,Ivan Toney,Brentford,0.07,,Blocked,19.0,Left Foot,,Bryan Mbeumo,Pass (Live),Bryan Mbeumo,Shot
+9,40,Dango Ouattara,Bournemouth,0.03,,Off Target,22.0,Left Foot,,Ryan Christie,Pass (Live),Lewis Cook,Pass (Live)
+10,45,Antoine Semenyo,Bournemouth,0.04,0.09,Saved,16.0,Left Foot,,Antoine Semenyo,Pass (Live),Mark Travers,Pass (Dead)
+11,45,Lewis Cook,Bournemouth,0.01,0.04,Saved,35.0,Right Foot,,Marcos Senesi,Pass (Live),Ryan Christie,Pass (Live)
+12,,,,,,,,,,,,,
+13,54,Dango Ouattara,Bournemouth,0.02,,Blocked,24.0,Left Foot,,Ryan Christie,Pass (Live),,
+14,60,Keane Lewis-Potter,Brentford,0.12,,Blocked,7.0,Right Foot,,Christian Nørgaard,Pass (Live),Bryan Mbeumo,Pass (Live)
+15,60,Ivan Toney,Brentford,0.05,,Blocked,22.0,Left Foot,,Keane Lewis-Potter,Pass (Live),Vitaly Janelt,Pass (Live)
+16,62,Ethan Pinnock,Brentford,0.15,,Off Target,9.0,Right Foot,Volley,Kristoffer Ajer,Pass (Live),Christian Nørgaard,Pass (Dead)
+17,64,Lloyd Kelly,Bournemouth,0.04,,Off Target,7.0,Head,,Lewis Cook,Pass (Dead),,
+18,66,Dominic Solanke,Bournemouth,0.07,,Blocked,14.0,Right Foot,,Antoine Semenyo,Pass (Live),,
+19,66,Dominic Solanke,Bournemouth,0.06,,Off Target,11.0,Head,,Marcos Senesi,Pass (Live),Lloyd Kelly,Pass (Live)
+20,80,Bryan Mbeumo,Brentford,0.02,,Off Target,22.0,Left Foot,,Yoane Wissa,Pass (Live),Kevin Schade,Pass (Live)
+21,87,Bryan Mbeumo,Brentford,0.34,0.42,Goal,17.0,Left Foot,,Yoane Wissa,Pass (Live),Mark Flekken,Pass (Live)
+22,89,Dominic Solanke,Bournemouth,0.09,0.47,Goal,9.0,Head,,Marcos Senesi,Pass (Live),Lloyd Kelly,Pass (Live)
+23,90+1,Enes Ünal,Bournemouth,0.03,,Off Target,16.0,Right Foot,,Alex Scott,Pass (Live),Tyler Adams,Pass (Live)
+24,90+5,Yoane Wissa,Brentford,0.11,0.7,Goal,6.0,Right Foot,,Bryan Mbeumo,Pass (Live),Yoane Wissa,Pass (Live)

@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,4.0,Bryan Gil,Tottenham,0.07,,Blocked,17.0,Left Foot,,Son Heung-min,Pass (Live),Oliver Skipp,Pass (Live)
+1,8.0,Bryan Gil,Tottenham,0.03,0.08,Saved,22.0,Left Foot,Deflected,Bryan Gil,Take-On,Matt Doherty,Pass (Live)
+2,13.0,Pierre Højbjerg,Tottenham,0.07,,Blocked,22.0,Right Foot,,Son Heung-min,Pass (Live),Harry Kane,Pass (Live)
+3,23.0,Cheick Doucouré,Crystal Palace,0.04,,Blocked,27.0,Right Foot,,Eberechi Eze,Pass (Live),Wilfried Zaha,Pass (Live)
+4,23.0,Michael Olise,Crystal Palace,0.04,,Off Target,29.0,Left Foot,,Cheick Doucouré,Pass (Live),Cheick Doucouré,Shot
+5,25.0,Harry Kane,Tottenham,0.04,,Off Target,16.0,Head,,Matt Doherty,Pass (Live),Pierre Højbjerg,Pass (Live)
+6,27.0,Jordan Ayew,Crystal Palace,0.07,0.19,Saved,16.0,Right Foot,,Wilfried Zaha,Pass (Live),Wilfried Zaha,Take-On
+7,29.0,Cheick Doucouré,Crystal Palace,0.02,,Off Target,22.0,Right Foot,Volley,,,,
+8,31.0,Joachim Andersen,Crystal Palace,0.03,,Off Target,33.0,Left Foot,,Joel Ward,Pass (Live),Nathaniel Clyne,Pass (Live)
+9,33.0,Eberechi Eze,Crystal Palace,0.06,,Blocked,12.0,Left Foot,Volley,Michael Olise,Pass (Dead),Jordan Ayew,Fouled
+10,33.0,Michael Olise,Crystal Palace,0.04,,Blocked,15.0,Left Foot,Deflected,Michael Olise,Tackle,,
+11,34.0,Eberechi Eze,Crystal Palace,0.01,,Blocked,32.0,Right Foot,,Wilfried Zaha,Pass (Live),Michael Olise,Pass (Live)
+12,37.0,Joachim Andersen,Crystal Palace,0.06,0.43,Saved,10.0,Other,,Michael Olise,Pass (Dead),,
+13,44.0,Harry Kane,Tottenham,0.05,,Blocked,22.0,Right Foot,,Harry Kane,Pass (Live),Harry Kane,Take-On
+14,,,,,,,,,,,,,
+15,46.0,Jordan Ayew,Crystal Palace,0.06,,Blocked,10.0,Left Foot,,Jordan Ayew,Take-On,,
+16,46.0,Joel Ward,Crystal Palace,0.03,,Blocked,16.0,Right Foot,,Cheick Doucouré,Pass (Live),Jordan Ayew,Shot
+17,47.0,Matt Doherty,Tottenham,0.06,,Off Target,13.0,Right Foot,,Harry Kane,Pass (Live),Pierre Højbjerg,Pass (Live)
+18,48.0,Harry Kane,Tottenham,0.21,0.69,Goal,2.0,Head,,Ivan Perišić,Pass (Live),Bryan Gil,Pass (Live)
+19,52.0,Cheick Doucouré,Crystal Palace,0.03,,Off Target,28.0,Right Foot,,Jordan Ayew,Pass (Live),Jordan Ayew,Take-On
+20,53.0,Harry Kane,Tottenham,0.11,0.43,Goal,12.0,Right Foot,,Bryan Gil,Pass (Live),Harry Kane,Pass (Live)
+21,63.0,Michael Olise,Crystal Palace,0.05,,Off Target,22.0,Left Foot,,Cheick Doucouré,Pass (Live),Marc Guéhi,Pass (Live)
+22,66.0,Jean-Philippe Mateta,Crystal Palace,0.07,,Off Target,10.0,Head,,Eberechi Eze,Pass (Live),,
+23,67.0,Son Heung-min,Tottenham,0.47,0.49,Saved,20.0,Right Foot,,Harry Kane,Pass (Live),Cristian Romero,Pass (Live)
+24,68.0,Matt Doherty,Tottenham,0.09,0.36,Goal,10.0,Left Foot,,Son Heung-min,Take-On,Harry Kane,Pass (Live)
+25,71.0,Matt Doherty,Tottenham,0.07,,Blocked,12.0,Left Foot,Volley,Harry Kane,Pass (Live),Ivan Perišić,Pass (Live)
+26,71.0,Matt Doherty,Tottenham,0.04,,Blocked,13.0,Right Foot,Volley,Matt Doherty,Shot,,
+27,72.0,Wilfried Zaha,Crystal Palace,0.06,,Off Target,20.0,Right Foot,,Eberechi Eze,Pass (Live),Marc Guéhi,Pass (Live)
+28,72.0,Son Heung-min,Tottenham,0.05,0.28,Goal,19.0,Left Foot,"Deflected, Volley",Bryan Gil,Pass (Live),Harry Kane,Pass (Live)
+29,80.0,Jordan Ayew,Crystal Palace,0.03,0.21,Saved,22.0,Right Foot,Deflected,Odsonne Édouard,Pass (Live),Wilfried Zaha,Pass (Live)
+30,80.0,Odsonne Édouard,Crystal Palace,0.03,,Off Target,12.0,Head,,Will Hughes,Pass (Dead),Jordan Ayew,Shot
+31,81.0,Wilfried Zaha,Crystal Palace,0.09,0.06,Saved,10.0,Right Foot,,Odsonne Édouard,Pass (Live),Wilfried Zaha,Pass (Live)
+32,86.0,Cheick Doucouré,Crystal Palace,0.02,,Off Target,36.0,Right Foot,,,,,
+33,90.0,Pape Matar Sarr,Tottenham,0.03,,Off Target,28.0,Left Foot,,,,,

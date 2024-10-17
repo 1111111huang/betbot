@@ -1,0 +1,26 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Wilfried Gnonto,Leeds United,0.02,,Off Target,28.0,Right Foot,,Adam Forshaw,Pass (Live),Jack Harrison,Pass (Live)
+1,6,Chris Wood,Newcastle Utd,0.26,,Off Target,13.0,Right Foot,Volley,Kieran Trippier,Pass (Live),Fabian Schär,Pass (Live)
+2,9,Joelinton,Newcastle Utd,0.04,0.09,Saved,17.0,Right Foot,,Chris Wood,Pass (Live),Joe Willock,Pass (Live)
+3,11,Wilfried Gnonto,Leeds United,0.04,,Blocked,21.0,Right Foot,,,,,
+4,12,Rodrigo,Leeds United,0.08,,Off Target,9.0,Head,,Jack Harrison,Pass (Live),Brenden Aaronson,Pass (Live)
+5,20,Fabian Schär,Newcastle Utd,0.16,,Off Target,8.0,Head,,Kieran Trippier,Pass (Dead),,
+6,22,Brenden Aaronson,Leeds United,0.09,,Blocked,15.0,Right Foot,,Tyler Adams,Pass (Live),,
+7,24,Dan Burn,Newcastle Utd,0.43,,Off Target,5.0,Right Foot,Volley,Joelinton,Pass (Live),Kieran Trippier,Pass (Dead)
+8,24,Miguel Almirón,Newcastle Utd,0.05,,Off Target,22.0,Left Foot,,Dan Burn,Shot,,
+9,27,Sven Botman,Newcastle Utd,0.31,0.22,Saved,11.0,Left Foot,,Kieran Trippier,Pass (Dead),Joelinton,Fouled
+10,33,Joe Willock,Newcastle Utd,0.04,0.29,Saved,23.0,Right Foot,,Kieran Trippier,Pass (Live),Miguel Almirón,Pass (Live)
+11,36,Jack Harrison,Leeds United,0.04,,Off Target,17.0,Left Foot,,Jack Harrison,Take-On,Tyler Adams,Pass (Live)
+12,39,Joelinton,Newcastle Utd,0.01,,Blocked,34.0,Right Foot,,Miguel Almirón,Pass (Live),,
+13,39,Rodrigo,Leeds United,0.05,,Blocked,11.0,Left Foot,,Wilfried Gnonto,Pass (Live),Jack Harrison,Pass (Live)
+14,45+3,Kieran Trippier,Newcastle Utd,0.07,,Blocked,28.0,Right Foot,Free kick,Joe Willock,Fouled,Fabian Schär,Pass (Live)
+15,,,,,,,,,,,,,
+16,47,Fabian Schär,Newcastle Utd,0.06,,Off Target,11.0,Right Foot,,Miguel Almirón,Fouled,Kieran Trippier,Tackle
+17,53,Chris Wood,Newcastle Utd,0.11,0.22,Saved,11.0,Right Foot,,Dan Burn,Pass (Live),Kieran Trippier,Pass (Dead)
+18,56,Rodrigo,Leeds United,0.02,0.36,Saved,21.0,Left Foot,,Jack Harrison,Pass (Live),Brenden Aaronson,Pass (Live)
+19,62,Fabian Schär,Newcastle Utd,0.09,0.1,Saved,7.0,Head,,Kieran Trippier,Pass (Dead),Miguel Almirón,Pass (Live)
+20,63,Sean Longstaff,Newcastle Utd,0.38,,Off Target,12.0,Left Foot,,Joelinton,Pass (Live),Joelinton,Take-On
+21,68,Sean Longstaff,Newcastle Utd,0.08,,Off Target,18.0,Right Foot,,Miguel Almirón,Pass (Live),Bruno Guimarães,Pass (Live)
+22,73,Joelinton,Newcastle Utd,0.04,,Off Target,11.0,Head,,Kieran Trippier,Pass (Dead),Bruno Guimarães,Fouled
+23,84,Joelinton,Newcastle Utd,0.06,,Off Target,16.0,Left Foot,,Allan Saint-Maximin,Pass (Live),Fabian Schär,Pass (Live)
+24,87,Joe Gelhardt,Leeds United,0.05,,Blocked,20.0,Left Foot,Free kick,Brenden Aaronson,Pass (Dead),Brenden Aaronson,Fouled

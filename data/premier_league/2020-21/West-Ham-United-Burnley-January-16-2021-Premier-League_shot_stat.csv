@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,7,Jóhann Berg Guðmundsson,Burnley,0.03,0.2,Saved,31.0,Left Foot,,Josh Brownhill,Pass (Live),Ashley Westwood,Pass (Live)
+1,9,Michail Antonio,West Ham,0.79,0.97,Goal,4.0,Right Foot,,Jarrod Bowen,Pass (Live),Saïd Benrahma,Pass (Live)
+2,18,Angelo Ogbonna,West Ham,0.05,,Off Target,8.0,Head,,Jarrod Bowen,Pass (Dead),,
+3,28,Robbie Brady,Burnley,0.09,,Blocked,24.0,Left Foot,Free kick,Josh Brownhill,Fouled,Robbie Brady,Pass (Live)
+4,28,Matthew Lowton,Burnley,0.02,,Off Target,28.0,Right Foot,Volley,Robbie Brady,Shot,,
+5,36,Angelo Ogbonna,West Ham,0.07,,Woodwork,6.0,Head,,Angelo Ogbonna,Shot,,
+6,36,Angelo Ogbonna,West Ham,0.23,,Blocked,4.0,Head,,Declan Rice,Pass (Live),Jarrod Bowen,Pass (Dead)
+7,38,Chris Wood,Burnley,0.03,,Off Target,29.0,Right Foot,,Robbie Brady,Pass (Live),Chris Wood,Pass (Live)
+8,42,Jóhann Berg Guðmundsson,Burnley,0.03,0.21,Saved,27.0,Left Foot,,Ashley Barnes,Pass (Live),Jóhann Berg Guðmundsson,Pass (Live)
+9,45+1,Saïd Benrahma,West Ham,0.03,0.15,Saved,22.0,Right Foot,,Saïd Benrahma,Take-On,,
+10,,,,,,,,,,,,,
+11,50,Pablo Fornals,West Ham,0.03,,Blocked,22.0,Right Foot,,,,,
+12,51,Michail Antonio,West Ham,0.08,,Blocked,9.0,Head,,Vladimír Coufal,Pass (Live),Jarrod Bowen,Pass (Live)
+13,59,Declan Rice,West Ham,0.07,,Off Target,23.0,Right Foot,Free kick,Michail Antonio,Fouled,Aaron Cresswell,Pass (Dead)
+14,61,Robbie Brady,Burnley,0.05,,Blocked,15.0,Left Foot,Volley,Erik Pieters,Pass (Live),Dwight McNeil,Pass (Live)
+15,62,Michail Antonio,West Ham,0.08,,Off Target,10.0,Right Foot,Volley,Jarrod Bowen,Pass (Live),Saïd Benrahma,Pass (Live)
+16,64,Pablo Fornals,West Ham,0.07,,Blocked,14.0,Right Foot,Volley,Declan Rice,Pass (Live),Michail Antonio,Pass (Live)
+17,69,Jarrod Bowen,West Ham,0.05,,Off Target,16.0,Right Foot,,Declan Rice,Pass (Live),Manuel Lanzini,Pass (Live)
+18,70,Ben Mee,Burnley,0.12,,Off Target,8.0,Head,,Ashley Westwood,Pass (Live),Robbie Brady,Pass (Live)
+19,77,Jay Rodriguez,Burnley,0.02,,Blocked,30.0,Right Foot,,Ashley Westwood,Pass (Live),Erik Pieters,Pass (Live)
+20,83,Declan Rice,West Ham,0.04,0.05,Saved,11.0,Head,,Craig Dawson,Pass (Live),,
+21,85,Josh Brownhill,Burnley,0.05,,Blocked,19.0,Left Foot,,Robbie Brady,Pass (Live),Robbie Brady,Take-On
+22,87,Dwight McNeil,Burnley,0.03,,Blocked,31.0,Left Foot,,Matthew Lowton,Pass (Live),Matthew Lowton,Take-On
+23,87,Andriy Yarmolenko,West Ham,0.07,,Blocked,12.0,Right Foot,,Declan Rice,Pass (Live),Declan Rice,Take-On
+24,88,Andriy Yarmolenko,West Ham,0.03,,Blocked,18.0,Right Foot,Volley,Andriy Yarmolenko,Shot,,
+25,90+4,Manuel Lanzini,West Ham,0.06,,Off Target,16.0,Left Foot,,Andriy Yarmolenko,Take-On,Vladimír Coufal,Pass (Dead)

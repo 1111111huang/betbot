@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,10,Roberto Firmino,Liverpool,0.05,,Off Target,13.0,Left Foot,,Sadio Mané,Pass (Live),Andrew Robertson,Pass (Live)
+1,12,Andreas Pereira,Manchester Utd,0.02,,Off Target,32.0,Right Foot,,Daniel James,Pass (Live),Marcus Rashford,Pass (Live)
+2,13,Georginio Wijnaldum,Liverpool,0.04,0.03,Saved,28.0,Right Foot,,Georginio Wijnaldum,Take-On,Andrew Robertson,Pass (Live)
+3,21,Andreas Pereira,Manchester Utd,0.04,,Blocked,21.0,Left Foot,,Marcus Rashford,Pass (Live),Harry Maguire,Pass (Live)
+4,25,Scott McTominay,Manchester Utd,0.03,0.05,Saved,29.0,Right Foot,,Andreas Pereira,Pass (Live),Andreas Pereira,Take-On
+5,29,Roberto Firmino,Liverpool,0.06,,Off Target,16.0,Right Foot,Volley,Trent Alexander-Arnold,Pass (Live),Jordan Henderson,Pass (Live)
+6,34,Roberto Firmino,Liverpool,0.35,0.6,Saved,16.0,Right Foot,,Sadio Mané,Pass (Live),Joël Matip,Pass (Live)
+7,36,Marcus Rashford,Manchester Utd,0.51,0.4,Goal,9.0,Right Foot,,Daniel James,Pass (Live),Scott McTominay,Pass (Live)
+8,,,,,,,,,,,,,
+9,56,Divock Origi,Liverpool,0.02,,Blocked,28.0,Right Foot,,Fabinho,Pass (Live),,
+10,64,Alex Oxlade-Chamberlain,Liverpool,0.04,,Blocked,23.0,Right Foot,,Fabinho,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+11,67,Marcus Rashford,Manchester Utd,0.05,,Off Target,26.0,Right Foot,,Marcus Rashford,Take-On,Andreas Pereira,Pass (Live)
+12,73,Fred,Manchester Utd,0.05,,Off Target,15.0,Left Foot,,Ashley Young,Pass (Live),Marcus Rashford,Pass (Live)
+13,77,Roberto Firmino,Liverpool,0.04,0.02,Saved,16.0,Head,,Trent Alexander-Arnold,Pass (Dead),Adam Lallana,Fouled
+14,83,Fred,Manchester Utd,0.04,,Off Target,20.0,Left Foot,,Aaron Wan-Bissaka,Pass (Live),Andreas Pereira,Pass (Live)
+15,85,Adam Lallana,Liverpool,0.51,0.83,Goal,5.0,Right Foot,,Andrew Robertson,Pass (Live),Naby Keïta,Pass (Live)
+16,88,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,19.0,Right Foot,Volley,Alex Oxlade-Chamberlain,Pass (Live),Virgil van Dijk,Pass (Live)
+17,90+2,Alex Oxlade-Chamberlain,Liverpool,0.03,,Off Target,28.0,Left Foot,,Sadio Mané,Pass (Live),Trent Alexander-Arnold,Pass (Live)

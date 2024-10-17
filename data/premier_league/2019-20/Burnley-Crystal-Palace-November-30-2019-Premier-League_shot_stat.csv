@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Luka Milivojević,Crystal Palace,0.06,,Off Target,25.0,Right Foot,Free kick,Wilfried Zaha,Fouled,,
+1,11,Jack Cork,Burnley,0.06,,Off Target,27.0,Right Foot,Volley,Chris Wood,Pass (Live),Phil Bardsley,Pass (Live)
+2,18,Dwight McNeil,Burnley,0.03,0.05,Saved,30.0,Left Foot,Deflected,Robbie Brady,Pass (Live),James Tarkowski,Interception
+3,18,Cheikhou Kouyaté,Crystal Palace,0.04,,Off Target,11.0,Head,,Wilfried Zaha,Pass (Live),James McArthur,Pass (Live)
+4,27,Ashley Barnes,Burnley,0.05,,Blocked,12.0,Left Foot,Volley,Ben Mee,Pass (Live),Jack Cork,Pass (Live)
+5,38,Cheikhou Kouyaté,Crystal Palace,0.38,,Off Target,8.0,Right Foot,,Andros Townsend,Pass (Live),Patrick van Aanholt,Pass (Live)
+6,45+1,Wilfried Zaha,Crystal Palace,0.06,0.09,Goal,12.0,Left Foot,,Scott Dann,Pass (Live),,
+7,,,,,,,,,,,,,
+8,46,Erik Pieters,Burnley,0.03,,Off Target,20.0,Left Foot,Volley,Robbie Brady,Pass (Live),Jeff Hendrick,Pass (Live)
+9,46,Erik Pieters,Burnley,0.05,,Off Target,14.0,Left Foot,,Erik Pieters,Shot,,
+10,51,Jordan Ayew,Crystal Palace,0.08,,Off Target,14.0,Right Foot,,Luka Milivojević,Pass (Live),Luka Milivojević,Pass (Live)
+11,58,Chris Wood,Burnley,0.3,,Off Target,12.0,Right Foot,,,,,
+12,60,Ben Mee,Burnley,0.39,,Blocked,4.0,Head,,Jeff Hendrick,Pass (Dead),Ashley Barnes,Pass (Live)
+13,60,Chris Wood,Burnley,0.4,,Blocked,3.0,Head,,Ben Mee,Shot,,
+14,78,Jeffrey Schlupp,Crystal Palace,0.06,0.09,Goal,12.0,Left Foot,,Patrick van Aanholt,Pass (Dead),,
+15,83,James Tarkowski,Burnley,0.04,,Off Target,13.0,Head,,Dwight McNeil,Pass (Dead),Dwight McNeil,Fouled
+16,85,Dwight McNeil,Burnley,0.07,0.08,Saved,14.0,Left Foot,,Aaron Lennon,Pass (Live),,
+17,86,Chris Wood,Burnley,0.08,0.44,Saved,9.0,Head,,Jeff Hendrick,Pass (Live),Aaron Lennon,Pass (Live)
+18,86,Jack Cork,Burnley,0.28,,Off Target,3.0,Right Foot,,Chris Wood,Shot,,
+19,87,James McArthur,Crystal Palace,0.06,,Blocked,17.0,Right Foot,,Wilfried Zaha,Pass (Live),Martin Kelly,Pass (Live)
+20,90+4,James Tarkowski,Burnley,0.11,,Off Target,4.0,Head,,Dwight McNeil,Pass (Dead),Dwight McNeil,Pass (Dead)
+21,90+5,Dwight McNeil,Burnley,0.03,,Blocked,23.0,Left Foot,,Jay Rodriguez,Pass (Live),James Tarkowski,Pass (Live)
+22,90+6,Jay Rodriguez,Burnley,0.23,,Off Target,4.0,Head,,Jeff Hendrick,Pass (Dead),Dwight McNeil,Shot

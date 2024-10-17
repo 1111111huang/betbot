@@ -1,0 +1,21 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,15,Shane Long,Southampton,0.06,0.03,Saved,14.0,Left Foot,,Danny Ings,Pass (Live),Oriol Romeu,Pass (Live)
+1,16,Danny Ings,Southampton,0.05,0.46,Goal,26.0,Right Foot,,Danny Ings,Take-On,William Smallbone,Pass (Live)
+2,24,James Ward-Prowse,Southampton,0.41,,Off Target,5.0,Left Foot,,Oriol Romeu,Pass (Live),Nathan Redmond,Pass (Live)
+3,33,Nathan Redmond,Southampton,0.05,0.02,Saved,35.0,Right Foot,Free kick,Shane Long,Fouled,Jan Bednarek,Pass (Live)
+4,36,Will Hughes,Watford,0.03,,Blocked,30.0,Left Foot,,,,,
+5,,,,,,,,,,,,,
+6,47,Ismaila Sarr,Watford,0.19,,Blocked,9.0,Right Foot,Volley,Craig Dawson,Pass (Live),Will Hughes,Fouled
+7,48,Troy Deeney,Watford,0.03,,Off Target,26.0,Right Foot,,,,,
+8,60,Will Hughes,Watford,0.03,,Blocked,21.0,Left Foot,Volley,,,,
+9,61,Abdoulaye Doucouré,Watford,0.03,,Off Target,18.0,Right Foot,,Roberto Pereyra,Pass (Live),Abdoulaye Doucouré,Pass (Dead)
+10,62,Abdoulaye Doucouré,Watford,0.04,,Blocked,23.0,Left Foot,,Ismaila Sarr,Pass (Live),Troy Deeney,Pass (Live)
+11,62,Will Hughes,Watford,0.03,,Blocked,23.0,Left Foot,,Abdoulaye Doucouré,Shot,,
+12,70,Danny Ings,Southampton,0.05,0.26,Goal,14.0,Right Foot,Deflected,Danny Ings,Interception,,
+13,74,Nathan Redmond,Southampton,0.08,,Off Target,12.0,Right Foot,,Danny Ings,Pass (Live),Stuart Armstrong,Pass (Live)
+14,77,Craig Dawson,Watford,0.11,,Blocked,11.0,Right Foot,,Danny Welbeck,Pass (Live),Kiko Femenía,Pass (Live)
+15,82,James Ward-Prowse,Southampton,0.13,0.42,Goal,23.0,Right Foot,Free kick,Che Adams,Fouled,Oriol Romeu,Pass (Live)
+16,85,Che Adams,Southampton,0.05,,Blocked,18.0,Right Foot,,Danny Ings,Pass (Live),Danny Ings,Take-On
+17,89,Che Adams,Southampton,0.34,0.18,Saved,12.0,Right Foot,,Che Adams,Take-On,James Ward-Prowse,Pass (Live)
+18,89,Nathan Redmond,Southampton,0.02,,Woodwork,25.0,Right Foot,,James Ward-Prowse,Pass (Dead),Che Adams,Shot
+19,90+6,James Ward-Prowse,Southampton,0.07,0.03,Saved,25.0,Right Foot,Free kick,Stuart Armstrong,Fouled,Oriol Romeu,Pass (Live)

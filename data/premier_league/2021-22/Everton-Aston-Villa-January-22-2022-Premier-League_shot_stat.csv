@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,8,Douglas Luiz,Aston Villa,0.03,,Off Target,34.0,Right Foot,Free kick,Emi Buendía,Fouled,Jacob Ramsey,Pass (Live)
+1,13,Emi Buendía,Aston Villa,0.03,0.36,Saved,29.0,Right Foot,,Philippe Coutinho,Pass (Live),Ezri Konsa,Pass (Live)
+2,20,Emi Buendía,Aston Villa,0.02,,Off Target,32.0,Right Foot,,Emi Buendía,Take-On,Emi Buendía,Take-On
+3,35,Emi Buendía,Aston Villa,0.03,,Blocked,14.0,Head,,Lucas Digne,Pass (Live),Tyrone Mings,Pass (Live)
+4,38,Ollie Watkins,Aston Villa,0.48,,Off Target,9.0,Left Foot,,Tyrone Mings,Pass (Live),Jacob Ramsey,Pass (Live)
+5,45+2,Philippe Coutinho,Aston Villa,0.07,0.08,Saved,12.0,Head,,Jacob Ramsey,Fouled,John McGinn,Pass (Live)
+6,45+3,Emi Buendía,Aston Villa,0.05,0.7,Goal,8.0,Head,,Lucas Digne,Pass (Dead),Philippe Coutinho,Shot
+7,,,,,,,,,,,,,
+8,48,Demarai Gray,Everton,0.1,,Blocked,25.0,Right Foot,Free kick,Dominic Calvert-Lewin,Fouled,Richarlison,Pass (Live)
+9,48,Dominic Calvert-Lewin,Everton,0.1,,Off Target,5.0,Head,,Andros Townsend,Pass (Dead),Demarai Gray,Shot
+10,55,Abdoulaye Doucouré,Everton,0.03,,Blocked,22.0,Left Foot,,Jonjoe Kenny,Pass (Live),Yerry Mina,Pass (Live)
+11,57,Demarai Gray,Everton,0.03,,Blocked,19.0,Right Foot,,Dominic Calvert-Lewin,Pass (Live),Richarlison,Pass (Live)
+12,57,Richarlison,Everton,0.19,,Off Target,7.0,Head,,Anthony Gordon,Pass (Live),Demarai Gray,Shot
+13,59,Philippe Coutinho,Aston Villa,0.11,,Off Target,21.0,Right Foot,Free kick,Jacob Ramsey,Fouled,,
+14,60,Richarlison,Everton,0.07,,Blocked,14.0,Left Foot,,Jordan Pickford,Pass (Dead),,
+15,61,Ben Godfrey,Everton,0.1,,Off Target,9.0,Head,,Anthony Gordon,Pass (Dead),Richarlison,Shot
+16,61,Ben Godfrey,Everton,0.09,,Blocked,7.0,Head,Deflected,Dominic Calvert-Lewin,Pass (Live),Ben Godfrey,Shot
+17,66,Dominic Calvert-Lewin,Everton,0.58,,Off Target,7.0,Left Foot,,Anthony Gordon,Pass (Live),Richarlison,Pass (Live)
+18,68,Yerry Mina,Everton,0.07,,Off Target,9.0,Head,,Anthony Gordon,Pass (Dead),Ben Godfrey,Pass (Dead)
+19,72,Tyler Onyango,Everton,0.05,,Blocked,12.0,Head,,Demarai Gray,Pass (Live),Allan,Pass (Live)
+20,73,Yerry Mina,Everton,0.07,,Off Target,9.0,Head,,Allan,Pass (Live),,
+21,77,Demarai Gray,Everton,0.03,,Off Target,18.0,Right Foot,Volley,,,,
+22,87,Anthony Gordon,Everton,0.05,,Blocked,27.0,Right Foot,Free kick,Richarlison,Fouled,Jordan Pickford,Pass (Live)
+23,88,Richarlison,Everton,0.05,,Blocked,20.0,Left Foot,,,,,

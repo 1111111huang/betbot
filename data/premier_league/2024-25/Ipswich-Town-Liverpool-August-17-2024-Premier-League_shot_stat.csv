@@ -1,0 +1,27 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Omari Hutchinson,Ipswich Town,0.04,0.0,Blocked,17.0,Right Foot,,,,,
+1,16,Dominik Szoboszlai,Liverpool,0.02,0.0,Blocked,28.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Alexis Mac Allister,Pass (Live)
+2,20,Jacob Greaves,Ipswich Town,0.07,0.05,Saved,10.0,Head,,Sam Morsy,Pass (Dead),Wes Burns,Fouled
+3,31,Dominik Szoboszlai,Liverpool,0.02,0.0,Blocked,20.0,Left Foot,,,,,
+4,32,Omari Hutchinson,Ipswich Town,0.13,0.2,Saved,24.0,Left Foot,,Omari Hutchinson,Take-On,Liam Delap,Pass (Live)
+5,41,Axel Tuanzebe,Ipswich Town,0.07,0.0,Off Target,10.0,Head,,Conor Chaplin,Pass (Live),Leif Davis,Pass (Dead)
+6,45,Trent Alexander-Arnold,Liverpool,0.06,0.0,Off Target,21.0,Right Foot,,Mohamed Salah,Pass (Live),Luis Díaz,Pass (Live)
+7,,,,,,,,,,,,,
+8,47,Mohamed Salah,Liverpool,0.02,0.0,Blocked,16.0,Left Foot,,Luis Díaz,Pass (Live),,
+9,48,Luis Díaz,Liverpool,0.06,0.0,Off Target,21.0,Right Foot,,Luis Díaz,Take-On,Dominik Szoboszlai,Pass (Live)
+10,55,Luis Díaz,Liverpool,0.29,0.0,Off Target,5.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Diogo Jota,Pass (Live)
+11,59,Dominik Szoboszlai,Liverpool,0.12,0.0,Blocked,15.0,Right Foot,,Luis Díaz,Pass (Live),Andrew Robertson,Pass (Live)
+12,59,Alexis Mac Allister,Liverpool,0.07,0.0,Blocked,22.0,Right Foot,,Dominik Szoboszlai,Shot,,
+13,59,Diogo Jota,Liverpool,0.35,0.0,Off Target,8.0,Head,,Trent Alexander-Arnold,Pass (Live),Alexis Mac Allister,Shot
+14,60,Diogo Jota,Liverpool,0.44,0.92,Goal,11.0,Left Foot,,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+15,65,Mohamed Salah,Liverpool,0.41,0.82,Goal,7.0,Left Foot,,Virgil van Dijk,Pass (Live),Ryan Gravenberch,Pass (Live)
+16,68,Omari Hutchinson,Ipswich Town,0.1,0.0,Off Target,17.0,Right Foot,Volley,Marcus Harness,Pass (Live),Leif Davis,Pass (Dead)
+17,71,Mohamed Salah,Liverpool,0.21,0.26,Saved,19.0,Left Foot,,Dominik Szoboszlai,Pass (Live),Alexis Mac Allister,Pass (Live)
+18,78,Diogo Jota,Liverpool,0.16,0.0,Off Target,10.0,Head,,Andrew Robertson,Pass (Live),Luis Díaz,Pass (Live)
+19,88,Luis Díaz,Liverpool,0.11,0.0,Blocked,11.0,Right Foot,,Dominik Szoboszlai,Pass (Live),Conor Bradley,Pass (Live)
+20,90+2,Alexis Mac Allister,Liverpool,0.02,0.0,Off Target,24.0,Right Foot,Volley,Kostas Tsimikas,Pass (Live),Alisson,Pass (Live)
+21,90+4,Mohamed Salah,Liverpool,0.06,0.05,Saved,11.0,Left Foot,Volley,,,,
+22,90+4,Conor Bradley,Liverpool,0.12,0.0,Blocked,13.0,Right Foot,Volley,Mohamed Salah,Shot,,
+23,90+4,Conor Bradley,Liverpool,0.12,0.3,Saved,4.0,Right Foot,,Luis Díaz,Pass (Live),Luis Díaz,Take-On
+24,90+8,Jack Taylor,Ipswich Town,0.02,0.0,Blocked,24.0,Right Foot,Volley,Omari Hutchinson,Pass (Live),Leif Davis,Pass (Dead)
+25,90+8,Jacob Greaves,Ipswich Town,0.03,0.0,Blocked,10.0,Left Foot,,Sammie Szmodics,Pass (Live),Marcus Harness,Pass (Live)

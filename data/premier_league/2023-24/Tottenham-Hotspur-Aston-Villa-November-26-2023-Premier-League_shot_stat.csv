@@ -1,0 +1,35 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,1,Matty Cash,Aston Villa,0.12,,Off Target,10.0,Other,Volley,John McGinn,Pass (Live),John McGinn,Take-On
+1,3,Destiny Udogie,Tottenham,0.34,,Off Target,18.0,Right Foot,,Pedro Porro,Pass (Live),Dejan Kulusevski,Pass (Live)
+2,3,Dejan Kulusevski,Tottenham,0.56,,Woodwork,9.0,Left Foot,,Dejan Kulusevski,Take-On,Son Heung-min,Pass (Live)
+3,3,Brennan Johnson,Tottenham,0.18,,Blocked,11.0,Right Foot,,Dejan Kulusevski,Shot,,
+4,5,Pau Torres,Aston Villa,0.22,,Off Target,9.0,Head,,Lucas Digne,Pass (Dead),Douglas Luiz,Fouled
+5,7,Bryan Gil,Tottenham,0.09,0.04,Saved,13.0,Left Foot,,Dejan Kulusevski,Pass (Live),Giovani Lo Celso,Pass (Live)
+6,7,Pedro Porro,Tottenham,0.06,,Off Target,12.0,Head,,Bryan Gil,Shot,,
+7,22,Giovani Lo Celso,Tottenham,0.05,0.05,Goal,18.0,Left Foot,Deflected,Pedro Porro,Pass (Dead),Giovani Lo Celso,Pass (Live)
+8,35,Dejan Kulusevski,Tottenham,0.02,,Off Target,18.0,Left Foot,,Brennan Johnson,Pass (Live),Dejan Kulusevski,Pass (Live)
+9,45+1,Diego Carlos,Aston Villa,0.11,,Off Target,11.0,Left Foot,,Moussa Diaby,Pass (Live),Boubacar Kamara,Pass (Live)
+10,45+5,Moussa Diaby,Aston Villa,0.06,,Off Target,11.0,Left Foot,Volley,Boubacar Kamara,Pass (Live),John McGinn,Pass (Live)
+11,45+7,Pau Torres,Aston Villa,0.16,0.39,Goal,11.0,Head,,Douglas Luiz,Pass (Dead),Matty Cash,Fouled
+12,,,,,,,,,,,,,
+13,49,Giovani Lo Celso,Tottenham,0.03,,Blocked,25.0,Left Foot,,Bryan Gil,Pass (Live),Pedro Porro,Fouled
+14,50,Son Heung-min,Tottenham,0.08,,Off Target,9.0,Head,,Dejan Kulusevski,Pass (Live),Pedro Porro,Pass (Dead)
+15,52,Leon Bailey,Aston Villa,0.06,0.28,Saved,22.0,Left Foot,,Leon Bailey,Take-On,John McGinn,Pass (Live)
+16,55,Son Heung-min,Tottenham,0.06,0.05,Saved,13.0,Left Foot,,Giovani Lo Celso,Pass (Live),Bryan Gil,Pass (Live)
+17,60,John McGinn,Aston Villa,0.08,,Off Target,35.0,Left Foot,,Douglas Luiz,Pass (Live),Pau Torres,Pass (Dead)
+18,61,Ollie Watkins,Aston Villa,0.09,0.17,Goal,17.0,Right Foot,,Youri Tielemans,Pass (Live),Ollie Watkins,Pass (Live)
+19,67,Pedro Porro,Tottenham,0.05,0.39,Saved,17.0,Right Foot,Volley,Son Heung-min,Pass (Live),Pierre Højbjerg,Pass (Live)
+20,68,Ben Davies,Tottenham,0.24,,Off Target,4.0,Head,,Pedro Porro,Pass (Dead),Pedro Porro,Shot
+21,70,Lucas Digne,Aston Villa,0.06,0.48,Saved,27.0,Left Foot,Free kick,Boubacar Kamara,Fouled,Leon Bailey,Pass (Live)
+22,71,Ollie Watkins,Aston Villa,0.17,,Off Target,4.0,Head,,Lucas Digne,Pass (Dead),Lucas Digne,Shot
+23,72,Leon Bailey,Aston Villa,0.16,,Blocked,12.0,Left Foot,,Youri Tielemans,Pass (Live),John McGinn,Pass (Live)
+24,73,Brennan Johnson,Tottenham,0.43,0.57,Saved,11.0,Right Foot,,Brennan Johnson,Take-On,Son Heung-min,Pass (Live)
+25,73,Pierre Højbjerg,Tottenham,0.03,0.56,Saved,29.0,Right Foot,,Dejan Kulusevski,Pass (Live),Brennan Johnson,Shot
+26,74,Dejan Kulusevski,Tottenham,0.09,0.23,Saved,8.0,Right Foot,,Oliver Skipp,Pass (Live),Dejan Kulusevski,Tackle
+27,80,Leon Bailey,Aston Villa,0.02,,Blocked,26.0,Left Foot,,Ollie Watkins,Pass (Live),Douglas Luiz,Pass (Live)
+28,80,Brennan Johnson,Tottenham,0.02,,Off Target,15.0,Left Foot,,Giovani Lo Celso,Pass (Live),Destiny Udogie,Pass (Live)
+29,81,Boubacar Kamara,Aston Villa,0.03,0.17,Saved,25.0,Right Foot,,Douglas Luiz,Pass (Live),Douglas Luiz,Take-On
+30,81,Ollie Watkins,Aston Villa,0.41,,Off Target,2.0,Head,,John McGinn,Pass (Live),Boubacar Kamara,Shot
+31,85,Pedro Porro,Tottenham,0.09,,Woodwork,16.0,Right Foot,,Giovani Lo Celso,Pass (Live),Dejan Kulusevski,Pass (Live)
+32,90+5,Emerson,Tottenham,0.04,,Off Target,6.0,Head,,Pedro Porro,Pass (Dead),Brennan Johnson,Fouled
+33,90+7,Jhon Durán,Aston Villa,0.01,,Off Target,29.0,Left Foot,,Leon Bailey,Pass (Live),,

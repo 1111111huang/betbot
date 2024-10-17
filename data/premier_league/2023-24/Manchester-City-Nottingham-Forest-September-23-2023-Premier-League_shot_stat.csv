@@ -1,0 +1,19 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Julián Álvarez,Manchester City,0.13,0.34,Saved,26.0,Right Foot,Free kick,Erling Haaland,Fouled,Rúben Dias,Pass (Live)
+1,7,Phil Foden,Manchester City,0.1,0.32,Goal,15.0,Left Foot,Volley,Kyle Walker,Pass (Live),Rodri,Pass (Live)
+2,14,Erling Haaland,Manchester City,0.14,0.25,Goal,8.0,Head,,Matheus Nunes,Pass (Live),Phil Foden,Pass (Live)
+3,21,Morgan Gibbs-White,Nott'ham Forest,0.13,,Blocked,23.0,Right Foot,Free kick,Taiwo Awoniyi,Fouled,,
+4,26,Julián Álvarez,Manchester City,0.08,0.09,Saved,24.0,Right Foot,,Phil Foden,Pass (Live),Rodri,Pass (Live)
+5,31,Julián Álvarez,Manchester City,0.28,,Blocked,9.0,Left Foot,,Jeremy Doku,Pass (Live),Jeremy Doku,Take-On
+6,42,Julián Álvarez,Manchester City,0.06,,Blocked,29.0,Right Foot,Free kick,Jeremy Doku,Fouled,Erling Haaland,Pass (Live)
+7,,,,,,,,,,,,,
+8,50,Morgan Gibbs-White,Nott'ham Forest,0.06,,Blocked,20.0,Right Foot,,Taiwo Awoniyi,Pass (Live),Nicolás Domínguez,Pass (Live)
+9,51,Orel Mangala,Nott'ham Forest,0.06,,Off Target,18.0,Right Foot,,Gonzalo Montiel,Pass (Live),Morgan Gibbs-White,Pass (Dead)
+10,58,Taiwo Awoniyi,Nott'ham Forest,0.49,,Off Target,9.0,Right Foot,,Willy Boly,Pass (Live),Nicolás Domínguez,Pass (Live)
+11,63,Nicolás Domínguez,Nott'ham Forest,0.04,,Off Target,21.0,Right Foot,,Gonzalo Montiel,Pass (Live),Anthony Elanga,Pass (Live)
+12,71,Anthony Elanga,Nott'ham Forest,0.03,0.14,Saved,11.0,Left Foot,Volley,Moussa Niakhate,Pass (Live),Nicolás Domínguez,Pass (Live)
+13,75,Morgan Gibbs-White,Nott'ham Forest,0.06,,Blocked,17.0,Right Foot,,,,,
+14,78,Erling Haaland,Manchester City,0.55,,Off Target,8.0,Right Foot,,Nathan Aké,Pass (Live),Kyle Walker,Pass (Dead)
+15,84,Divock Origi,Nott'ham Forest,0.06,,Blocked,22.0,Right Foot,,Anthony Elanga,Pass (Live),Callum Hudson-Odoi,Pass (Live)
+16,90+5,Anthony Elanga,Nott'ham Forest,0.04,0.07,Saved,15.0,Right Foot,Volley,Chris Wood,Pass (Live),Morgan Gibbs-White,Pass (Live)
+17,90+5,Willy Boly,Nott'ham Forest,0.04,0.2,Saved,23.0,Right Foot,,Callum Hudson-Odoi,Pass (Dead),Anthony Elanga,Shot

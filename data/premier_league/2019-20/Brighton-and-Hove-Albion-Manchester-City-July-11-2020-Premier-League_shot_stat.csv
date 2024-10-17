@@ -1,0 +1,31 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,6.0,Gabriel Jesus,Manchester City,0.06,,Off Target,12.0,Head,,Benjamin Mendy,Pass (Live),Bernardo Silva,Pass (Live)
+1,7.0,Gabriel Jesus,Manchester City,0.08,,Blocked,14.0,Right Foot,,Kyle Walker,Pass (Live),Raheem Sterling,Pass (Live)
+2,16.0,Benjamin Mendy,Manchester City,0.05,,Blocked,21.0,Left Foot,,Raheem Sterling,Pass (Live),Riyad Mahrez,Pass (Live)
+3,17.0,Eric García,Manchester City,0.48,,Off Target,4.0,Right Foot,,Riyad Mahrez,Pass (Dead),Benjamin Mendy,Shot
+4,21.0,Raheem Sterling,Manchester City,0.03,0.42,Goal,26.0,Right Foot,,Gabriel Jesus,Pass (Live),Riyad Mahrez,Pass (Live)
+5,22.0,Benjamin Mendy,Manchester City,0.05,,Woodwork,16.0,Left Foot,,Riyad Mahrez,Pass (Live),Raheem Sterling,Pass (Live)
+6,26.0,Leandro Trossard,Brighton,0.06,,Off Target,17.0,Right Foot,,Leandro Trossard,Take-On,Bernardo,Pass (Live)
+7,27.0,Rodri,Manchester City,0.02,,Off Target,30.0,Right Foot,,Bernardo Silva,Pass (Live),Rodri,Pass (Live)
+8,28.0,Gabriel Jesus,Manchester City,0.08,,Blocked,12.0,Right Foot,,Raheem Sterling,Pass (Live),Riyad Mahrez,Pass (Live)
+9,29.0,Eric García,Manchester City,0.06,0.03,Saved,10.0,Head,,Kevin De Bruyne,Pass (Dead),Raheem Sterling,Pass (Live)
+10,32.0,Gabriel Jesus,Manchester City,0.32,,Off Target,9.0,Head,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+11,36.0,Gabriel Jesus,Manchester City,0.06,,Blocked,12.0,Right Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Tackle
+12,37.0,Riyad Mahrez,Manchester City,0.08,,Off Target,13.0,Left Foot,,Gabriel Jesus,Pass (Live),Gabriel Jesus,Take-On
+13,39.0,Leandro Trossard,Brighton,0.06,,Off Target,8.0,Head,,Pascal Groß,Pass (Live),Bernardo,Pass (Live)
+14,42.0,Lewis Dunk,Brighton,0.03,,Off Target,15.0,Head,,Pascal Groß,Pass (Dead),,Fouled
+15,43.0,Gabriel Jesus,Manchester City,0.14,,Blocked,5.0,Right Foot,,Kyle Walker,Pass (Live),Kyle Walker,Take-On
+16,44.0,Rodri,Manchester City,0.04,,Off Target,10.0,Head,,Kevin De Bruyne,Pass (Dead),Gabriel Jesus,Shot
+17,44.0,Gabriel Jesus,Manchester City,0.72,0.96,Goal,1.0,Left Foot,,Rodri,Shot,,
+18,,,,,,,,,,,,,
+19,51.0,Kevin De Bruyne,Manchester City,0.07,,Woodwork,26.0,Right Foot,Free kick,Kevin De Bruyne,Fouled,Bernardo Silva,Pass (Live)
+20,51.0,Bernardo Silva,Manchester City,0.04,,Off Target,16.0,Left Foot,,Kevin De Bruyne,Shot,,
+21,51.0,Raheem Sterling,Manchester City,0.4,0.33,Saved,6.0,Right Foot,,Bernardo Silva,Shot,,
+22,53.0,Raheem Sterling,Manchester City,0.52,0.81,Goal,5.0,Head,,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+23,56.0,Bernardo Silva,Manchester City,0.05,0.09,Saved,19.0,Left Foot,Deflected,Riyad Mahrez,Pass (Live),Gabriel Jesus,Pass (Live)
+24,56.0,Bernardo Silva,Manchester City,0.45,0.75,Goal,9.0,Left Foot,,Gabriel Jesus,Pass (Live),Bernardo Silva,Shot
+25,61.0,Raheem Sterling,Manchester City,0.03,,Off Target,29.0,Right Foot,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+26,71.0,Riyad Mahrez,Manchester City,0.03,,Blocked,25.0,Left Foot,,David Silva,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+27,78.0,Riyad Mahrez,Manchester City,0.65,,Off Target,5.0,Left Foot,,Riyad Mahrez,Take-On,Riyad Mahrez,Take-On
+28,81.0,Raheem Sterling,Manchester City,0.1,0.32,Goal,5.0,Head,Deflected,David Silva,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+29,84.0,Riyad Mahrez,Manchester City,0.06,,Off Target,12.0,Right Foot,,Raheem Sterling,Pass (Live),,

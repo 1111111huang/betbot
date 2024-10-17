@@ -1,0 +1,32 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Deniz Undav,Brighton,0.03,,Blocked,24.0,Left Foot,,Jason Steele,Pass (Live),Jan Paul van Hecke,Pass (Live)
+1,5,Alexander Isak,Newcastle Utd,0.04,,Off Target,22.0,Right Foot,,Joelinton,Pass (Live),Callum Wilson,Pass (Live)
+2,6,Miguel Almirón,Newcastle Utd,0.05,,Blocked,16.0,Left Foot,,Bruno Guimarães,Pass (Live),Alexander Isak,Pass (Live)
+3,9,Fabian Schär,Newcastle Utd,0.04,0.05,Saved,32.0,Right Foot,Free kick,Bruno Guimarães,Fouled,Dan Burn,Pass (Live)
+4,10,Joe Willock,Newcastle Utd,0.1,,Off Target,14.0,Left Foot,,Miguel Almirón,Pass (Live),Bruno Guimarães,Pass (Live)
+5,13,Miguel Almirón,Newcastle Utd,0.08,,Off Target,13.0,Left Foot,,Joe Willock,Pass (Live),Miguel Almirón,Pass (Live)
+6,16,Danny Welbeck,Brighton,0.03,0.03,Saved,24.0,Right Foot,,Kaoru Mitoma,Pass (Live),Danny Welbeck,Pass (Live)
+7,18,Dan Burn,Newcastle Utd,0.05,,Blocked,8.0,Head,,Kieran Trippier,Pass (Dead),Fabian Schär,Pass (Live)
+8,22,Joelinton,Newcastle Utd,0.07,,Blocked,12.0,Left Foot,,Callum Wilson,Pass (Live),Joelinton,Pass (Live)
+9,29,Miguel Almirón,Newcastle Utd,0.07,,Blocked,11.0,Left Foot,,,,,
+10,34,Dan Burn,Newcastle Utd,0.05,,Blocked,10.0,Left Foot,,Callum Wilson,Pass (Live),Sven Botman,Pass (Live)
+11,35,Fabian Schär,Newcastle Utd,0.06,0.08,Saved,5.0,Head,,Kieran Trippier,Pass (Dead),Dan Burn,Shot
+12,37,Kaoru Mitoma,Brighton,0.05,,Off Target,20.0,Right Foot,,Pervis Estupiñán,Pass (Live),Lewis Dunk,Pass (Live)
+13,45+4,Dan Burn,Newcastle Utd,0.37,0.5,Goal,5.0,Head,,Kieran Trippier,Pass (Dead),Joe Willock,Fouled
+14,,,,,,,,,,,,,
+15,47,Alexander Isak,Newcastle Utd,0.03,,Blocked,17.0,Right Foot,,Bruno Guimarães,Pass (Live),,
+16,50,Miguel Almirón,Newcastle Utd,0.3,0.37,Saved,8.0,Left Foot,Volley,Joe Willock,Pass (Live),Dan Burn,Pass (Live)
+17,50,Callum Wilson,Newcastle Utd,0.15,,Off Target,10.0,Head,,Miguel Almirón,Shot,,
+18,51,Deniz Undav,Brighton,0.14,0.19,Goal,14.0,Right Foot,,Billy Gilmour,Pass (Live),Kaoru Mitoma,Pass (Live)
+19,52,Callum Wilson,Newcastle Utd,0.55,,Off Target,9.0,Right Foot,Volley,Miguel Almirón,Pass (Live),Joe Willock,Pass (Live)
+20,65,Alexander Isak,Newcastle Utd,0.07,0.11,Saved,11.0,Head,,Miguel Almirón,Pass (Live),Callum Wilson,Fouled
+21,65,Fabian Schär,Newcastle Utd,0.23,,Blocked,6.0,Head,,Alexander Isak,Shot,,
+22,65,Dan Burn,Newcastle Utd,0.18,,Blocked,11.0,Right Foot,Volley,Fabian Schär,Shot,,
+23,69,Julio Enciso,Brighton,0.09,,Off Target,12.0,Head,,Moisés Caicedo,Pass (Live),Pascal Groß,Pass (Live)
+24,80,Bruno Guimarães,Newcastle Utd,0.03,,Off Target,27.0,Right Foot,,Alexander Isak,Pass (Live),Bruno Guimarães,Pass (Live)
+25,87,Cameron Peupion,Brighton,0.06,,Blocked,8.0,Head,,Pervis Estupiñán,Pass (Dead),Pervis Estupiñán,Take-On
+26,87,Moisés Caicedo,Brighton,0.02,,Blocked,25.0,Right Foot,,Alexis Mac Allister,Pass (Live),Pervis Estupiñán,Pass (Live)
+27,89,Callum Wilson,Newcastle Utd,0.59,0.92,Goal,15.0,Right Foot,,Miguel Almirón,Pass (Live),Miguel Almirón,Take-On
+28,90+1,Bruno Guimarães,Newcastle Utd,0.18,0.15,Goal,12.0,Right Foot,,Callum Wilson,Pass (Live),Callum Wilson,Take-On
+29,90+4,Callum Wilson,Newcastle Utd,0.37,0.66,Saved,19.0,Right Foot,,Joelinton,Interception,,
+30,90+8,Julio Enciso,Brighton,0.09,,Off Target,11.0,Right Foot,,Julio Enciso,Pass (Live),Lewis Dunk,Pass (Live)

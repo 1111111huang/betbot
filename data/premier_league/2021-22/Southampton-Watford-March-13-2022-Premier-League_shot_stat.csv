@@ -1,0 +1,24 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Mohamed Elyounoussi,Southampton,0.1,,Blocked,8.0,Head,,Stuart Armstrong,Pass (Live),Kyle Walker-Peters,Pass (Live)
+1,11,João Pedro,Watford,0.1,,Blocked,15.0,Right Foot,Volley,João Pedro,Pass (Live),Juraj Kucka,Pass (Live)
+2,14,Cucho,Watford,0.4,0.45,Goal,15.0,Left Foot,,,,,
+3,29,João Pedro,Watford,0.03,,Off Target,25.0,Right Foot,,Hassane Kamara,Pass (Live),,
+4,31,Mohammed Salisu,Southampton,0.24,,Off Target,6.0,Head,,James Ward-Prowse,Pass (Dead),Stuart Armstrong,Fouled
+5,34,Cucho,Watford,0.23,0.7,Goal,10.0,Right Foot,Volley,Juraj Kucka,Pass (Live),Emmanuel Dennis,Pass (Live)
+6,36,Kyle Walker-Peters,Southampton,0.06,0.17,Saved,18.0,Right Foot,,Oriol Romeu,Pass (Live),James Ward-Prowse,Pass (Live)
+7,37,Mohammed Salisu,Southampton,0.06,0.1,Saved,9.0,Head,,James Ward-Prowse,Pass (Dead),Kyle Walker-Peters,Shot
+8,41,Juraj Kucka,Watford,0.47,0.77,Saved,12.0,Right Foot,,Moussa Sissoko,Pass (Live),João Pedro,Pass (Live)
+9,43,Romain Perraud,Southampton,0.02,,Off Target,19.0,Left Foot,Volley,Kyle Walker-Peters,Fouled,William Smallbone,Pass (Live)
+10,45,Mohamed Elyounoussi,Southampton,0.39,0.92,Goal,5.0,Left Foot,,Che Adams,Pass (Live),James Ward-Prowse,Pass (Dead)
+11,45+2,Stuart Armstrong,Southampton,0.01,,Off Target,23.0,Left Foot,Volley,James Ward-Prowse,Pass (Dead),,
+12,,,,,,,,,,,,,
+13,63,Mohammed Salisu,Southampton,0.15,,Off Target,9.0,Head,,James Ward-Prowse,Pass (Dead),Che Adams,Fouled
+14,71,Juraj Kucka,Watford,0.05,0.11,Saved,18.0,Right Foot,,Imran Louza,Pass (Live),Emmanuel Dennis,Pass (Live)
+15,75,Cucho,Watford,0.16,,Off Target,23.0,Right Foot,,Emmanuel Dennis,Pass (Live),Emmanuel Dennis,Take-On
+16,81,Emmanuel Dennis,Watford,0.12,,Off Target,23.0,Right Foot,,Cucho,Pass (Live),,
+17,86,James Ward-Prowse,Southampton,0.07,,Off Target,21.0,Right Foot,Free kick,Che Adams,Fouled,Stuart Armstrong,Pass (Live)
+18,88,Che Adams,Southampton,0.14,0.32,Saved,9.0,Head,,Nathan Redmond,Pass (Live),Mohammed Salisu,Pass (Live)
+19,89,Jan Bednarek,Southampton,0.05,,Blocked,10.0,Head,,James Ward-Prowse,Pass (Dead),Che Adams,Shot
+20,90+1,Mohammed Salisu,Southampton,0.07,0.45,Saved,9.0,Head,,,,,
+21,90+6,Imran Louza,Watford,0.17,0.1,Saved,11.0,Right Foot,Volley,Joshua King,Pass (Live),Imran Louza,Pass (Live)
+22,90+8,Nathan Redmond,Southampton,0.05,0.16,Saved,20.0,Right Foot,Deflected,Shane Long,Pass (Live),Che Adams,Pass (Live)

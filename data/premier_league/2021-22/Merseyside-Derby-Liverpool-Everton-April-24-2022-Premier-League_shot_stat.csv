@@ -1,0 +1,29 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,5,Demarai Gray,Everton,0.06,,Blocked,30.0,Right Foot,Free kick,Anthony Gordon,Fouled,,
+1,15,Demarai Gray,Everton,0.04,,Blocked,21.0,Right Foot,,Demarai Gray,Take-On,Richarlison,Pass (Live)
+2,21,Sadio Mané,Liverpool,0.03,,Off Target,28.0,Right Foot,,Sadio Mané,Take-On,Naby Keïta,Pass (Live)
+3,31,Diogo Jota,Liverpool,0.08,,Off Target,12.0,Right Foot,,Andrew Robertson,Pass (Live),Thiago Alcántara,Pass (Live)
+4,34,Abdoulaye Doucouré,Everton,0.08,,Off Target,13.0,Right Foot,,Richarlison,Pass (Live),Richarlison,Tackle
+5,43,Mohamed Salah,Liverpool,0.04,,Off Target,20.0,Left Foot,,Naby Keïta,Pass (Live),Mohamed Salah,Pass (Live)
+6,,,,,,,,,,,,,
+7,47,Naby Keïta,Liverpool,0.03,,Off Target,26.0,Right Foot,,Andrew Robertson,Pass (Live),Sadio Mané,Pass (Live)
+8,55,Fabinho,Liverpool,0.02,,Off Target,29.0,Right Foot,,Thiago Alcántara,Pass (Live),Andrew Robertson,Pass (Live)
+9,56,Anthony Gordon,Everton,0.06,,Off Target,13.0,Left Foot,,Alex Iwobi,Pass (Live),,
+10,59,Alex Iwobi,Everton,0.03,,Off Target,14.0,Head,,Vitaliy Mykolenko,Pass (Dead),Anthony Gordon,Fouled
+11,59,Sadio Mané,Liverpool,0.03,,Off Target,11.0,Head,,Trent Alexander-Arnold,Pass (Live),Naby Keïta,Pass (Live)
+12,59,Andrew Robertson,Liverpool,0.04,,Blocked,20.0,Right Foot,,Sadio Mané,Shot,,
+13,62,Andrew Robertson,Liverpool,0.2,0.1,Goal,7.0,Head,,Mohamed Salah,Pass (Live),Divock Origi,Pass (Live)
+14,64,Luis Díaz,Liverpool,0.03,0.04,Saved,10.0,Right Foot,,Trent Alexander-Arnold,Pass (Live),Mohamed Salah,Pass (Live)
+15,66,Joël Matip,Liverpool,0.13,,Off Target,7.0,Head,,Luis Díaz,Pass (Live),Luis Díaz,Shot
+16,66,Joël Matip,Liverpool,0.09,,Blocked,5.0,Head,,Trent Alexander-Arnold,Pass (Live),Joël Matip,Shot
+17,66,Mohamed Salah,Liverpool,0.12,,Off Target,10.0,Left Foot,Volley,Joël Matip,Shot,,
+18,67,Divock Origi,Liverpool,0.16,,Off Target,10.0,Head,,Trent Alexander-Arnold,Pass (Live),Diogo Jota,Pass (Live)
+19,70,Luis Díaz,Liverpool,0.02,,Blocked,16.0,Right Foot,,Diogo Jota,Pass (Live),Thiago Alcántara,Pass (Live)
+20,71,Virgil van Dijk,Liverpool,0.01,,Off Target,31.0,Right Foot,Volley,Thiago Alcántara,Pass (Live),Luis Díaz,Pass (Live)
+21,72,Demarai Gray,Everton,0.03,,Off Target,28.0,Right Foot,,Alex Iwobi,Pass (Live),Anthony Gordon,Pass (Live)
+22,79,Richarlison,Everton,0.03,,Blocked,16.0,Right Foot,,Richarlison,Take-On,Abdoulaye Doucouré,Pass (Live)
+23,84,Thiago Alcántara,Liverpool,0.11,0.14,Saved,21.0,Right Foot,Deflected,Mohamed Salah,Pass (Live),Jordan Henderson,Pass (Live)
+24,85,Luis Díaz,Liverpool,0.08,,Off Target,11.0,Right Foot,Volley,Jordan Henderson,Pass (Live),Andrew Robertson,Pass (Dead)
+25,85,Divock Origi,Liverpool,0.68,0.78,Goal,3.0,Head,,Luis Díaz,Shot,,
+26,86,Salomón Rondón,Everton,0.03,,Blocked,14.0,Right Foot,,Séamus Coleman,Pass (Live),,
+27,90+1,Richarlison,Everton,0.03,0.1,Saved,22.0,Right Foot,,,,,

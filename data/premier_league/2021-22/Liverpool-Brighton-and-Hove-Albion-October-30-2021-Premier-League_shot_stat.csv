@@ -1,0 +1,25 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,3,Solly March,Brighton,0.07,0.05,Saved,13.0,Left Foot,,Leandro Trossard,Pass (Live),Marc Cucurella,Pass (Live)
+1,4,Jordan Henderson,Liverpool,0.04,0.31,Goal,20.0,Right Foot,,Mohamed Salah,Pass (Live),Virgil van Dijk,Pass (Live)
+2,15,Yves Bissouma,Brighton,0.04,0.21,Saved,26.0,Right Foot,,Yves Bissouma,Interception,,
+3,16,Roberto Firmino,Liverpool,0.59,,Off Target,15.0,Right Foot,,Mohamed Salah,Pass (Live),Naby Keïta,Pass (Live)
+4,24,Sadio Mané,Liverpool,0.35,0.67,Goal,9.0,Head,,Alex Oxlade-Chamberlain,Pass (Live),Ibrahima Konaté,Pass (Live)
+5,28,Enock Mwepu,Brighton,0.25,,Off Target,8.0,Head,,Marc Cucurella,Pass (Live),Leandro Trossard,Pass (Live)
+6,33,Roberto Firmino,Liverpool,0.12,,Blocked,16.0,Right Foot,,Sadio Mané,Pass (Live),Andrew Robertson,Pass (Live)
+7,41,Enock Mwepu,Brighton,0.02,0.15,Goal,27.0,Right Foot,,Solly March,Pass (Live),Adam Lallana,Pass (Live)
+8,,,,,,,,,,,,,
+9,49,Adam Lallana,Brighton,0.07,0.12,Saved,16.0,Left Foot,,Solly March,Pass (Live),Adam Lallana,Pass (Live)
+10,52,Leandro Trossard,Brighton,0.03,,Blocked,19.0,Right Foot,,Adam Lallana,Pass (Live),Marc Cucurella,Pass (Live)
+11,53,Roberto Firmino,Liverpool,0.03,,Off Target,25.0,Right Foot,,Sadio Mané,Pass (Live),Andrew Robertson,Pass (Live)
+12,55,Alex Oxlade-Chamberlain,Liverpool,0.07,,Blocked,24.0,Right Foot,,Alex Oxlade-Chamberlain,Take-On,Trent Alexander-Arnold,Pass (Live)
+13,59,Alex Oxlade-Chamberlain,Liverpool,0.02,,Off Target,24.0,Right Foot,Volley,,,,
+14,61,Mohamed Salah,Liverpool,0.04,0.02,Saved,19.0,Left Foot,,Roberto Firmino,Pass (Live),Ibrahima Konaté,Interception
+15,64,Roberto Firmino,Liverpool,0.05,,Blocked,20.0,Right Foot,,Alex Oxlade-Chamberlain,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+16,65,Leandro Trossard,Brighton,0.47,0.94,Goal,9.0,Right Foot,,Leandro Trossard,Take-On,Adam Lallana,Pass (Live)
+17,67,Marc Cucurella,Brighton,0.03,0.03,Saved,27.0,Left Foot,,Leandro Trossard,Pass (Live),Joël Veltman,Pass (Live)
+18,72,Trent Alexander-Arnold,Liverpool,0.01,,Off Target,27.0,Right Foot,,Jordan Henderson,Pass (Dead),Curtis Jones,Fouled
+19,74,Jordan Henderson,Liverpool,0.01,,Off Target,28.0,Right Foot,Volley,,,,
+20,79,Shane Duffy,Brighton,0.04,,Off Target,8.0,Other,,Pascal Groß,Pass (Dead),Marc Cucurella,Pass (Live)
+21,88,Mohamed Salah,Liverpool,0.07,,Blocked,15.0,Right Foot,,Diogo Jota,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+22,88,Jordan Henderson,Liverpool,0.01,,Blocked,35.0,Right Foot,,Mohamed Salah,Shot,,
+23,90+1,Sadio Mané,Liverpool,0.05,,Blocked,15.0,Right Foot,,Andrew Robertson,Pass (Dead),Alex Oxlade-Chamberlain,Fouled

@@ -1,0 +1,16 @@
+,minute,player,squad,xg,psxg,outcome,distance,body part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event
+0,2,Ollie Watkins,Aston Villa,0.04,,Off Target,16.0,Right Foot,,,,,
+1,7,Cheikhou Kouyaté,Nott'ham Forest,0.03,,Blocked,31.0,Right Foot,,Morgan Gibbs-White,Pass (Live),,
+2,25,Ollie Watkins,Aston Villa,0.25,0.2,Saved,4.0,Head,,Leon Bailey,Pass (Live),Ashley Young,Pass (Live)
+3,40,Harry Toffolo,Nott'ham Forest,0.03,0.09,Saved,11.0,Head,,Neco Williams,Pass (Live),Keylor Navas,Pass (Dead)
+4,45,Bertrand Traoré,Aston Villa,0.15,,Off Target,16.0,Left Foot,,Álex Moreno,Pass (Live),Douglas Luiz,Pass (Live)
+5,,,,,,,,,,,,,
+6,48,Bertrand Traoré,Aston Villa,0.21,0.91,Goal,8.0,Left Foot,,Ashley Young,Pass (Live),Ezri Konsa,Pass (Live)
+7,50,Remo Freuler,Nott'ham Forest,0.07,,Blocked,15.0,Right Foot,,Moussa Niakhate,Pass (Dead),Jonjo Shelvey,Pass (Live)
+8,51,Morgan Gibbs-White,Nott'ham Forest,0.07,,Blocked,17.0,Right Foot,,Morgan Gibbs-White,Take-On,Harry Toffolo,Pass (Live)
+9,53,Danilo,Nott'ham Forest,0.03,0.23,Saved,27.0,Left Foot,,Danilo,Take-On,,
+10,55,Ollie Watkins,Aston Villa,0.05,,Off Target,19.0,Right Foot,Volley,Emi Buendía,Take-On,,
+11,56,Bertrand Traoré,Aston Villa,0.04,,Blocked,14.0,Left Foot,,John McGinn,Pass (Live),Jacob Ramsey,Pass (Live)
+12,67,Emi Buendía,Aston Villa,0.25,,Off Target,12.0,Left Foot,,Álex Moreno,Pass (Live),Álex Moreno,Take-On
+13,70,Danilo,Nott'ham Forest,0.02,,Off Target,31.0,Left Foot,,Neco Williams,Tackle,,
+14,90+5,Ollie Watkins,Aston Villa,0.3,0.86,Goal,10.0,Right Foot,,Ollie Watkins,Take-On,Jacob Ramsey,Pass (Live)
