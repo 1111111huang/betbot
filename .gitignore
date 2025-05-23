@@ -1,1 +1,6 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore the data folder and all its contents
 data/
+__pycache__/
