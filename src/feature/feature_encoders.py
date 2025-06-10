@@ -242,3 +242,43 @@ class PreviousSeasonTeamAverager:
             results.append(role_avg_df)
 
         return pd.concat(results, ignore_index=True)
+
+class TeamRestDaysCalculator:
+    def __init__(self, home_col='home', away_col='away', date_col='date'):
+        self.home_col = home_col
+        self.away_col = away_col
+        self.date_col = date_col
+
+    def transform(self, season_dfs):
+        all_results = []
+        last_match_dates = defaultdict(lambda: None)
+
+        for df in season_dfs:
+            df = df.copy()
+            df.sort_values(by=self.date_col, inplace=True)
+
+            home_rest_days = []
+            away_rest_days = []
+
+            for _, row in df.iterrows():
+                date = pd.to_datetime(row[self.date_col])
+                home_team = row[self.home_col]
+                away_team = row[self.away_col]
+
+                last_home_date = last_match_dates[home_team]
+                last_away_date = last_match_dates[away_team]
+
+                home_rest = (date - last_home_date).days if last_home_date is not None else None
+                away_rest = (date - last_away_date).days if last_away_date is not None else None
+
+                home_rest_days.append(home_rest)
+                away_rest_days.append(away_rest)
+
+                last_match_dates[home_team] = date
+                last_match_dates[away_team] = date
+
+            df['days_since_last_home'] = home_rest_days
+            df['days_since_last_away'] = away_rest_days
+            all_results.append(df[['days_since_last_home', 'days_since_last_away']])
+
+        return pd.concat(all_results, ignore_index=True)
