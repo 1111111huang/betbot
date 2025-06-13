@@ -2,6 +2,7 @@ import pandas as pd
 from sklearn.preprocessing import OneHotEncoder
 import joblib
 import numpy as np
+from collections import defaultdict
 
 class TeamEncoder:
     def __init__(self, n_first_matches=5, home_col='home', away_col='away', date_col='date', history=1):
@@ -9,7 +10,7 @@ class TeamEncoder:
         self.home_col = home_col
         self.away_col = away_col
         self.date_col = date_col
-        self.history = history
+        self.history = history  # Number of seasons to use for fitting
         self.encoder = OneHotEncoder(handle_unknown='ignore', sparse_output=False)
         self.fitted = False
         self.team_last_seen_season = set()
@@ -20,8 +21,8 @@ class TeamEncoder:
         team_match_counts = {}
         team_last_seen_season = set()
 
-        # Only use first len(season_dfs) - history seasons for fitting
-        fit_seasons = season_dfs[:len(season_dfs) - self.history]
+        # Use the first `history` seasons for fitting
+        fit_seasons = season_dfs[:self.history]
 
         for season_idx, df in enumerate(fit_seasons):
             df = df.copy()
@@ -74,8 +75,8 @@ class TeamEncoder:
         team_match_counts = self.team_match_counts.copy()
         team_last_seen_season = self.team_last_seen_season.copy()
 
-        # Only transform the most recent `history` seasons
-        transform_seasons = season_dfs[-self.history:]
+        # Transform the seasons after the first `history` seasons
+        transform_seasons = season_dfs[self.history:]
 
         for season_idx, df in enumerate(transform_seasons):
             df = df.copy()
@@ -118,7 +119,12 @@ class TeamEncoder:
         team_feature_names = self.encoder.get_feature_names_out(['encoded_home', 'encoded_away'])
         team_df = pd.DataFrame(team_features, columns=team_feature_names, index=final_df.index)
 
-        return pd.concat([final_df, team_df], axis=1)
+        # Attach home_col, away_col, date_col to the transformed dataframe
+        meta_df = final_df[[self.home_col, self.away_col, self.date_col]].reset_index(drop=True)
+        team_df = pd.concat([meta_df, team_df.reset_index(drop=True)], axis=1)
+        # Ensure date_col is datetime
+        team_df[self.date_col] = pd.to_datetime(team_df[self.date_col])
+        return team_df
 
     def save(self, path):
         joblib.dump(self, path)
@@ -152,7 +158,10 @@ class TeamLagFeatureGenerator:
                 away_team = row[self.away_col]
                 match_date = row[self.date_col]
 
-                lag_row = row.copy()
+                lag_row = pd.Series(dtype=object)
+                lag_row[self.home_col] = home_team
+                lag_row[self.away_col] = away_team
+                lag_row[self.date_col] = match_date
 
                 for team_role, team_name in [(self.home_col, home_team), (self.away_col, away_team)]:
                     history = team_history.get(team_name, [])
@@ -176,6 +185,9 @@ class TeamLagFeatureGenerator:
                                     lag_row[f'{team_role}_lag{lag_i}_{col}'] = None
                             lag_row[f'{team_role}_lag{lag_i}_was_home'] = None
 
+                # Always keep home_col, away_col, date_col in the output
+                lag_row = lag_row[[self.home_col, self.away_col, self.date_col] + [c for c in lag_row.index if c not in [self.home_col, self.away_col, self.date_col]]]
+
                 new_rows.append(lag_row)
 
                 # Store current match in team history
@@ -184,7 +196,11 @@ class TeamLagFeatureGenerator:
 
             all_rows.extend(new_rows)
 
-        return pd.DataFrame(all_rows)
+        result_df = pd.DataFrame(all_rows)
+        # Ensure date_col is datetime
+        if not result_df.empty:
+            result_df[self.date_col] = pd.to_datetime(result_df[self.date_col])
+        return result_df
     
 class PreviousSeasonTeamAverager:
     def __init__(self, decay_factor=1.0, date_col='date', home_col='home', away_col='away'):
@@ -234,14 +250,21 @@ class PreviousSeasonTeamAverager:
             current_season = season_dfs[i].copy()
             team_avg_stats = self._compute_team_averages(prev_season)
 
+            # Prepare output DataFrame with home_col, away_col, date_col
+            output_df = current_season[[self.home_col, self.away_col, self.date_col]].reset_index(drop=True)
+
             for team_role in [self.home_col, self.away_col]:
                 role_avg_df = current_season[team_role].map(lambda team: team_avg_stats.get(team, {}))
                 role_avg_df = pd.json_normalize(role_avg_df)
                 role_avg_df.columns = [f'prev_season_avg_{team_role}_{col}' for col in role_avg_df.columns]
+                output_df = pd.concat([output_df, role_avg_df], axis=1)
 
-            results.append(role_avg_df)
-
-        return pd.concat(results, ignore_index=True)
+            results.append(output_df)
+        result_df = pd.concat(results, ignore_index=True)
+        # Ensure date_col is datetime
+        if not result_df.empty:
+            result_df[self.date_col] = pd.to_datetime(result_df[self.date_col])
+        return result_df
 
 class TeamRestDaysCalculator:
     def __init__(self, home_col='home', away_col='away', date_col='date'):
@@ -279,6 +302,10 @@ class TeamRestDaysCalculator:
 
             df['days_since_last_home'] = home_rest_days
             df['days_since_last_away'] = away_rest_days
-            all_results.append(df[['days_since_last_home', 'days_since_last_away']])
-
-        return pd.concat(all_results, ignore_index=True)
+            # Include home_col, away_col, date_col in the output
+            all_results.append(df[[self.home_col, self.away_col, self.date_col, 'days_since_last_home', 'days_since_last_away']])
+        result_df = pd.concat(all_results, ignore_index=True)
+        # Ensure date_col is datetime
+        if not result_df.empty:
+            result_df[self.date_col] = pd.to_datetime(result_df[self.date_col])
+        return result_df

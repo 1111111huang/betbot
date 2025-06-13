@@ -2,6 +2,7 @@ REPO_PATH='/Users/tianqihuang/Documents/GitHub/betbot/'
 RAW_DATA_PATH=f'{REPO_PATH}/data/raw/premier_league/'
 PROCESSED_DATA_PATH=f'{REPO_PATH}/data/processed/premier_league/'
 DATA_PROCESSOR_PATH=f'{REPO_PATH}/models/data_processors/'
+FEATURES_PATH=f'{REPO_PATH}/data/features/'
 
 SEASONS=[
     '2020-21',
