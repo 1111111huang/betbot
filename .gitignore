@@ -4,3 +4,4 @@
 # Ignore the data folder and all its contents
 data/
 __pycache__/
+mlflow/
