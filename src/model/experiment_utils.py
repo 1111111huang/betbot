@@ -19,6 +19,11 @@ def align_on_keys(feature_df: pd.DataFrame, target_df: pd.DataFrame, key_columns
         if not (merged[key] == merged[f"{key}"]).all():
             raise ValueError(f"Mismatch detected in key column '{key}' after merging.")
 
+    # Sort by date if it's in key_columns
+    if 'date' in key_columns:
+        merged['date'] = pd.to_datetime(merged['date'])
+        merged = merged.sort_values('date')
+
     # Separate aligned outputs
     X_aligned = merged[feature_df.columns]
     target_aligned = merged[target_df.columns]
