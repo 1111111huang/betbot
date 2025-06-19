@@ -15,12 +15,6 @@ TEST_SIZE = 0.1
 VALIDATION_SIZE = 0.2
 RANDOM_STATE = 42
 
-EXPERIMENT_NAME = "mlflow_distribution_ts_kfold_test"
-
-MODEL_PARAMS={
-    "n_estimators": 100,
-    "max_depth": 10,
-    "random_state": RANDOM_STATE
-}
+EXPERIMENT_NAME = "mlflow_distribution_ts_kfold_0.5train_test"
 
 KEY_COLUMNS=['home', 'away', 'date']
