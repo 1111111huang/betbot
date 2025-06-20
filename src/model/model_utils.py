@@ -49,13 +49,13 @@ class SklearnWrapper(ModelWrapper):
 class TorchWrapper(ModelWrapper):
     def __init__(
         self,
-        model_class,  # <--- now takes any model class!
-        model_params={},  # <--- params for model init
+        model_class,
+        model_params={},
         learning_rate=0.001,
         batch_size=64,
         epochs=20,
         weight_decay=1e-4,
-        device='cpu',
+        device='auto',  # <=== NEW: device param
         **kwargs
     ):
         super().__init__(
@@ -64,7 +64,8 @@ class TorchWrapper(ModelWrapper):
             learning_rate=learning_rate,
             batch_size=batch_size,
             epochs=epochs,
-            weight_decay=weight_decay
+            weight_decay=weight_decay,
+            device=device
         )
 
         self.model_class = model_class
@@ -73,7 +74,19 @@ class TorchWrapper(ModelWrapper):
         self.batch_size = batch_size
         self.epochs = epochs
         self.weight_decay = weight_decay
-        self.device = torch.device(device)
+
+        # === device auto-selection ===
+        if device == 'auto':
+            if torch.backends.mps.is_available():
+                self.device = torch.device('mps')
+            elif torch.cuda.is_available():
+                self.device = torch.device('cuda')
+            else:
+                self.device = torch.device('cpu')
+        else:
+            self.device = torch.device(device)
+
+        print(f"[TorchWrapper] Using device: {self.device}")
 
         self.model = None
         self.input_dim = None
@@ -126,7 +139,6 @@ class TorchWrapper(ModelWrapper):
 
     def load(self, path):
         if self.model is None:
-            # create model first
             self.model = self.model_class(
                 input_dim=self.input_dim,
                 output_dim=self.output_dim,

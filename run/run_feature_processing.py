@@ -43,5 +43,5 @@ if __name__ == '__main__':
     combined_features = combined_features.merge(team_lag_feature_df, on=key_columns, how='inner')
     combined_features = combined_features.merge(team_rest_days_features, on=key_columns, how='inner')
     print('Combined features shape:', combined_features.shape)
-    combined_features.to_csv(f"{FEATURES_PATH}/all_combined_features.csv", index=False)
+    combined_features.to_csv(f"{FEATURES_PATH}/all_combined_features_2017-24.csv", index=False)
 
