@@ -1,0 +1,5 @@
+REPO_PATH='/Users/tianqihuang/Documents/GitHub/betbot/'
+RAW_DATA_PATH=f'{REPO_PATH}/data/raw/'
+DATA_PROCESSOR_PATH=f'{REPO_PATH}/models/data_processors/'
+PROCESSED_DATA_PATH=f'{REPO_PATH}/data/processed/'
+FEATURES_PATH=f'{REPO_PATH}/data/features/'
