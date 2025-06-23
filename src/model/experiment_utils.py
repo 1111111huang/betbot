@@ -306,7 +306,7 @@ def run_multiclass_distribution_experiment(
             keys, values = zip(*model_param_grid.items()) if model_param_grid else ([], [])
             for param_combination in product(*values) if values else [()]:
                 model_params = dict(zip(keys, param_combination))
-                param_key = tuple(model_params.items())
+                param_key = (target_col, tuple(model_params.items()))
                 
                 if param_key not in param_metrics:
                     param_metrics[param_key] = {
@@ -378,3 +378,75 @@ def run_multiclass_distribution_experiment(
                 mlflow.log_metric(f"{metric_name}_std", std_value)
 
             print(f"Logged cross-validation metrics for {param_data['target_col']} with params: {param_data['params']}")
+
+def plot_run_metrics_side_by_side(experiment_name, model_name, model_param, tracking_uri, metric_type="accuracy"):
+    """
+    Plot train, valid, and test metrics side by side for all runs matching model_name and model_param.
+    Each subplot is a run (target variable), showing metric from lte to gt in increasing order.
+    Title for each graph is the target variable name from the run_name.
+    """
+    mlflow.set_tracking_uri(tracking_uri)
+    experiment = mlflow.get_experiment_by_name(experiment_name)
+    if experiment is None:
+        print(f"Experiment '{experiment_name}' not found.")
+        return
+
+    # Build filter string for model_name and all param values
+    filter_clauses = [f"params.model_name = '{model_name}'"]
+    for k, v in model_param.items():
+        filter_clauses.append(f"params.{k} = '{v}'")
+    filter_string = " and ".join(filter_clauses)
+
+    runs = mlflow.search_runs(
+        experiment_ids=[experiment.experiment_id],
+        filter_string=filter_string,
+        output_format="pandas"
+    )
+    if runs.empty:
+        print(f"No runs found with model_name '{model_name}' and params {model_param}.")
+        return
+
+    # For each run, plot a line graph of the metric from lte to gt in increasing order
+    n_runs = len(runs)
+    n_cols = min(3, n_runs)
+    n_rows = (n_runs + n_cols - 1) // n_cols
+    fig = plt.figure(figsize=(6*n_cols, 5*n_rows))
+
+    for idx, (_, run) in enumerate(runs.iterrows(), 1):
+        ax = plt.subplot(n_rows, n_cols, idx)
+        target_col = run["params.target"]
+        run_name = run.get("tags.mlflow.runName", "")
+        splits = ["train", "valid", "test"]
+
+        # Collect all lte/gt metrics for the test split, sorted by threshold
+        test_metrics = {
+            k: v for k, v in run.items()
+            if (f"{target_col}_test_" in k) and
+               (k.endswith(f"_{metric_type}")) and
+               not k.endswith("_std")
+        }
+        # lte metrics
+        lte_metrics = sorted(
+            [(k, v) for k, v in test_metrics.items() if "_lte_" in k],
+            key=lambda x: int(x[0].split("_")[-2])
+        )
+        # gt metrics
+        gt_metrics = sorted(
+            [(k, v) for k, v in test_metrics.items() if "_gt_" in k],
+            key=lambda x: int(x[0].split("_")[-2])
+        )
+        # Compose x_labels and values
+        x_labels = [f"lte_{k.split('_')[-2]}" for k, _ in lte_metrics] + [f"gt_{k.split('_')[-2]}" for k, _ in gt_metrics]
+        values = [v for _, v in lte_metrics] + [v for _, v in gt_metrics]
+
+        ax.plot(x_labels, values, marker='o', linewidth=2)
+        ax.set_title(target_col)
+        ax.set_xlabel('Metric Type')
+        ax.set_ylabel(metric_type.capitalize())
+        ax.set_ylim(0, 1)
+        ax.grid(True)
+        plt.setp(ax.get_xticklabels(), rotation=45)
+
+    plt.suptitle(f'{metric_type.capitalize()} Metrics by Threshold for model {model_name}\nParams: {model_param}', y=1.02)
+    plt.tight_layout()
+    plt.show()
