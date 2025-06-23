@@ -50,6 +50,7 @@ def train_and_log_model(
     param_metrics = {}
 
     for fold, (train_idx, valid_idx) in enumerate(tscv.split(train_valid_df)):
+        print(f"\nTraining fold {fold+1}/{k}...")
         X_train = train_valid_df.iloc[train_idx]
         y_train_df = train_valid_target.iloc[train_idx]
         X_valid = train_valid_df.iloc[valid_idx]
@@ -58,6 +59,7 @@ def train_and_log_model(
         y_test_df = test_target
 
         for target_col, (lower_bound, upper_bound) in target_ranges.items():
+            print(f"Training target variable: {target_col}")
             y_train = y_train_df[target_col]
             y_valid = y_valid_df[target_col]
             y_test = y_test_df[target_col]
