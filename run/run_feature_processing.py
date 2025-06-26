@@ -8,7 +8,7 @@ from src.feature.feature_encoders import TeamEncoder, TeamLagFeatureGenerator, P
 
 if __name__ == '__main__':
     seasons=sorted(FEATURE_CONFIG['seasons'])
-    data_dfs=[pd.read_csv(f"{FEATURE_CONFIG['processed_path']}/all_data_df.csv") for season in seasons]
+    data_dfs=[pd.read_csv(f"{FEATURE_CONFIG['processed_path']}/{season}/all_data_df.csv") for season in seasons]
     print(len(data_dfs), 'seasons loaded')
 
     key_columns = ['home', 'away', 'date']

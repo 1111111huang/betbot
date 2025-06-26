@@ -24,6 +24,7 @@ def train_and_log_model(
 ):
     mlflow.set_tracking_uri(tracking_uri)
     mlflow.set_experiment(experiment_name)
+    print(f"Using MLflow tracking URI: {tracking_uri}, experiment: {experiment_name}")
 
     # Sort by date for time series split
     if not feature_df["date"].is_monotonic_increasing:
@@ -145,7 +146,10 @@ def train_and_log_model(
 
             # Save model
             os.makedirs(os.path.dirname(save_model_path), exist_ok=True)
-            joblib.dump(model, save_model_path)
+            # Auto-generate file name using run_name and attach to save_model_path
+            model_file_name = f"{run_name}.joblib"
+            model_file_path = os.path.join(save_model_path, model_file_name)
+            joblib.dump(model, model_file_path)
             mlflow.log_artifact(save_model_path, artifact_path="model")
 
             print(f"Saved and logged model for {param_data['target_col']} with params: {param_data['params']}")

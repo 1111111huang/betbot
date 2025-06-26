@@ -61,6 +61,6 @@ MODEL_CONFIG = {
     },
     'model_wrapper_class': lambda **params: SklearnWrapper(XGBClassifier, **params),
     'model_name': 'XGBoostClassifier',
-    'mlflow_tracking_uri': "{REPO_PATH}/mlflow",
+    'mlflow_tracking_uri': f"{REPO_PATH}/mlflow",
     'save_model_path': f"{MODELS_PATH}/{COMPETITION}/",
 }
