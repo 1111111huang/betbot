@@ -4,11 +4,12 @@ import sys
 sys.path.insert(1, f"{REPO_PATH}")
 
 import pandas as pd
-from src.feature.feature_encoders import TeamEncoder, TeamLagFeatureGenerator, PreviousSeasonTeamAverager, TeamRestDaysCalculator
+from src.feature.feature_encoders import TeamEncoder, TeamLagFeatureGenerator, PreviousSeasonTeamAverager, TeamRestDaysCalculator, TeamLagTargetFeature
 
 if __name__ == '__main__':
     seasons=sorted(FEATURE_CONFIG['seasons'])
     data_dfs=[pd.read_csv(f"{FEATURE_CONFIG['processed_path']}/{season}/all_data_df.csv") for season in seasons]
+    target_dfs=[pd.read_csv(f"{FEATURE_CONFIG['processed_path']}/{season}/all_target_df.csv") for season in seasons[1:]]
     print(len(data_dfs), 'seasons loaded')
 
     key_columns = ['home', 'away', 'date']
@@ -33,10 +34,15 @@ if __name__ == '__main__':
     team_rest_days_calculator = TeamRestDaysCalculator()
     team_rest_days_features = team_rest_days_calculator.transform(data_dfs[1:]).reset_index(drop=True)
 
+    lag_target_feature = TeamLagTargetFeature()
+    team_lag_target_df = lag_target_feature.transform(data_dfs[1:], target_dfs[1:]).reset_index(drop=True)
+
+
     print('Team rest days features shape:', team_rest_days_features.shape)
     print('Team lag features shape:', team_lag_feature_df.shape)
     print('Team encoding features shape:', team_encoding_df.shape)
     print('Previous season features shape:', prev_season_feature_df.shape)
+    print('Team lag target features shape:', team_lag_target_df.shape)
 
     # Combine all features
     combined_features = team_encoding_df.merge(prev_season_feature_df, on=key_columns, how='inner')

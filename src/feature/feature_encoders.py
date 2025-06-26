@@ -309,3 +309,73 @@ class TeamRestDaysCalculator:
         if not result_df.empty:
             result_df[self.date_col] = pd.to_datetime(result_df[self.date_col])
         return result_df
+
+class TeamLagTargetFeature:
+    def __init__(self, lookback=5, date_col='date', home_col='home', away_col='away'):
+        """
+        Args:
+            lookback (int): Number of previous matches to use for lag features.
+            date_col, home_col, away_col: Column names.
+        """
+        self.lookback = lookback
+        self.date_col = date_col
+        self.home_col = home_col
+        self.away_col = away_col
+
+    def transform(self, season_dfs, target_dfs):
+        """
+        For each match, compute lagged values for each target column for each team over their last n matches.
+        Returns a DataFrame with columns:
+            {team_role}_lag_{i}_{target_col}
+        """
+        all_rows = []
+
+        for season_df, target_df in zip(season_dfs, target_dfs):
+            df = season_df.copy()
+            targets = target_df.copy()
+            df[self.date_col] = pd.to_datetime(df[self.date_col])
+            targets[self.date_col] = pd.to_datetime(targets[self.date_col])
+            df = df.sort_values(self.date_col).reset_index(drop=True)
+            targets = targets.sort_values(self.date_col).reset_index(drop=True)
+
+            # Identify target columns
+            target_cols = [col for col in targets.columns if col not in [self.home_col, self.away_col, self.date_col]]
+
+            # Track target history for each team
+            team_history = {}
+
+            for idx, (row, target_row) in enumerate(zip(df.itertuples(index=False), targets.itertuples(index=False))):
+                home_team = getattr(row, self.home_col)
+                away_team = getattr(row, self.away_col)
+                match_date = getattr(row, self.date_col)
+
+                lag_row = {
+                    self.home_col: home_team,
+                    self.away_col: away_team,
+                    self.date_col: match_date
+                }
+
+                for team_role, team_name in [(self.home_col, home_team), (self.away_col, away_team)]:
+                    history = team_history.get(team_name, [])
+                    for lag_i in range(1, self.lookback + 1):
+                        if len(history) >= lag_i:
+                            hist_entry = history[-lag_i]
+                            for target_col in target_cols:
+                                lag_row[f"{team_role}_lag_{lag_i}_{target_col}"] = hist_entry[target_col]
+                        else:
+                            for target_col in target_cols:
+                                lag_row[f"{team_role}_lag_{lag_i}_{target_col}"] = None
+
+                all_rows.append(lag_row)
+
+                # Update team history with current match's target values
+                for team_role, team_name in [(self.home_col, home_team), (self.away_col, away_team)]:
+                    if team_name not in team_history:
+                        team_history[team_name] = []
+                    # Store as dict for easy access
+                    team_history[team_name].append({col: getattr(target_row, col) for col in target_cols})
+
+        result_df = pd.DataFrame(all_rows)
+        if not result_df.empty:
+            result_df[self.date_col] = pd.to_datetime(result_df[self.date_col])
+        return result_df

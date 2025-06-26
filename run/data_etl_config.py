@@ -12,7 +12,7 @@ SEASONS = [
     '2024-25',
 ]
 
-COMPETITION = 'la_liga'
+COMPETITION = 'premier_league'
 
 DESTS=[
     f"{RAW_DATA_PATH}/{COMPETITION}/{season}/" for season in SEASONS
