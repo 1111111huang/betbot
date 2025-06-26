@@ -48,6 +48,7 @@ if __name__ == '__main__':
     combined_features = team_encoding_df.merge(prev_season_feature_df, on=key_columns, how='inner')
     combined_features = combined_features.merge(team_lag_feature_df, on=key_columns, how='inner')
     combined_features = combined_features.merge(team_rest_days_features, on=key_columns, how='inner')
+    combined_features = combined_features.merge(team_lag_target_df, on=key_columns, how='inner')
     print('Combined features shape:', combined_features.shape)
     combined_features.to_csv(f"{FEATURE_CONFIG['features_path']}/all_combined_features_2017-24.csv", index=False)
 
