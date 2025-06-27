@@ -38,7 +38,7 @@ TEST_SIZE = 0.1
 VALIDATION_SIZE = 0.2
 RANDOM_STATE = 42
 
-EXPERIMENT_NAME = "mlflow_distribution_ts_5fold_0.5train_2017-24_premier_league_inference_2025_06"
+EXPERIMENT_NAME = "mlflow_distribution_ts_5fold_0.5train_2017-24_premier_league_inference_2025_06_with_lag_target"
 
 KEY_COLUMNS=['home', 'away', 'date']
 
@@ -55,9 +55,9 @@ MODEL_CONFIG = {
     'key_columns': KEY_COLUMNS,
     'params':{
         'n_estimators': 200, 
-        'max_depth': 3, 
+        'max_depth': 5, 
         'learning_rate': 0.01, 
-        'gamma': 1
+        'gamma': 0
     },
     'model_wrapper_class': lambda **params: SklearnWrapper(XGBClassifier, **params),
     'model_name': 'XGBoostClassifier',

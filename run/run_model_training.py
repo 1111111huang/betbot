@@ -26,6 +26,7 @@ if __name__ == "__main__":
 
     feature_df.fillna(-1, inplace=True)
 
+    print(feature_df.shape, target_df.shape)
 
     train_and_log_model(
         feature_df=feature_df,

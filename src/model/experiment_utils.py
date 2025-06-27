@@ -237,7 +237,7 @@ def run_multiclass_distribution_experiment(
     target_df,
     target_ranges,
     model_wrapper_class,
-    model_param_grid,  # now a dict, not a grid
+    model_param_grid,  # now a dict of lists (parameter grid)
     test_size,
     experiment_name,
     uri,
@@ -302,59 +302,59 @@ def run_multiclass_distribution_experiment(
             y_valid_encoded = y_valid.map(class_to_idx)
             y_test_encoded = y_test.map(class_to_idx)
 
-            # Only one param set
-            model_params = model_param_grid
-            param_key = (target_col, tuple(model_params.items()))
-            if param_key not in param_metrics:
-                param_metrics[param_key] = {
-                    'target_col': target_col,
-                    'params': model_params,
-                    'metrics': defaultdict(list)
-                }
+            # Parameter grid logic
+            keys, values = zip(*model_param_grid.items()) if model_param_grid else ([], [])
+            for param_combination in product(*values) if values else [()]:
+                model_params = dict(zip(keys, param_combination))
+                param_key = (target_col, tuple(model_params.items()))
+                if param_key not in param_metrics:
+                    param_metrics[param_key] = {
+                        'target_col': target_col,
+                        'params': model_params,
+                        'metrics': defaultdict(list)
+                    }
 
-            model = model_wrapper_class(**model_params)
-            model.fit(X_train, y_train_encoded)
+                model = model_wrapper_class(**model_params)
+                model.fit(X_train, y_train_encoded)
 
-            for split_name, X_split, y_split, y_split_encoded in [
-                ("train", X_train, y_train, y_train_encoded),
-                ("valid", X_valid, y_valid, y_valid_encoded),
-                ("test", X_test, y_test, y_test_encoded)
-            ]:
-                proba = model.predict_proba(X_split)
-                predicted_class_indices = np.argmax(proba, axis=1)
-                predicted_classes = np.array([idx_to_class[i] for i in predicted_class_indices])
+                for split_name, X_split, y_split, y_split_encoded in [
+                    ("train", X_train, y_train, y_train_encoded),
+                    ("valid", X_valid, y_valid, y_valid_encoded),
+                    ("test", X_test, y_test, y_test_encoded)
+                ]:
+                    proba = model.predict_proba(X_split)
+                    predicted_class_indices = np.argmax(proba, axis=1)
+                    predicted_classes = np.array([idx_to_class[i] for i in predicted_class_indices])
 
-                # Base accuracy
-                base_acc = accuracy_score(y_split, predicted_classes)
-                param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_top1_accuracy"].append(base_acc)
+                    # Base accuracy
+                    base_acc = accuracy_score(y_split, predicted_classes)
+                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_top1_accuracy"].append(base_acc)
 
-                # Calculate metrics for greater than thresholds
-                for threshold in range(lower_bound, upper_bound + 1):
-                    y_true_binary = (y_split > threshold).astype(int)
-                    proba_gt = np.zeros(len(y_split))
+                    # Calculate metrics for greater than thresholds
+                    for threshold in range(lower_bound, upper_bound + 1):
+                        y_true_binary = (y_split > threshold).astype(int)
+                        proba_gt = np.zeros(len(y_split))
+                        for cls, idx in class_to_idx.items():
+                            if cls > threshold:
+                                proba_gt += proba[:, idx]
+                        y_pred_binary = (proba_gt >= 0.5).astype(int)
+                        acc = accuracy_score(y_true_binary, y_pred_binary)
+                        prec = precision_score(y_true_binary, y_pred_binary, zero_division=0)
+                        param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_gt_{threshold}_accuracy"].append(acc)
+                        param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_gt_{threshold}_precision"].append(prec)
+
+                    # Calculate metrics for less than or equal threshold
+                    y_true_le = (y_split <= lower_bound).astype(int)
+                    proba_gt_lb = np.zeros(len(y_split))
                     for cls, idx in class_to_idx.items():
-                        if cls > threshold:
-                            proba_gt += proba[:, idx]
-                    y_pred_binary = (proba_gt >= 0.5).astype(int)
-                    acc = accuracy_score(y_true_binary, y_pred_binary)
-                    prec = precision_score(y_true_binary, y_pred_binary, zero_division=0)
-                    
-                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_gt_{threshold}_accuracy"].append(acc)
-                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_gt_{threshold}_precision"].append(prec)
-
-                # Calculate metrics for less than or equal threshold
-                y_true_le = (y_split <= lower_bound).astype(int)
-                proba_gt_lb = np.zeros(len(y_split))
-                for cls, idx in class_to_idx.items():
-                    if cls > lower_bound:
-                        proba_gt_lb += proba[:, idx]
-                proba_le = 1 - proba_gt_lb
-                y_pred_le = (proba_le >= 0.5).astype(int)
-                acc_le = accuracy_score(y_true_le, y_pred_le)
-                prec_le = precision_score(y_true_le, y_pred_le, zero_division=0)
-                
-                param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_lte_{lower_bound}_accuracy"].append(acc_le)
-                param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_lte_{lower_bound}_precision"].append(prec_le)
+                        if cls > lower_bound:
+                            proba_gt_lb += proba[:, idx]
+                    proba_le = 1 - proba_gt_lb
+                    y_pred_le = (proba_le >= 0.5).astype(int)
+                    acc_le = accuracy_score(y_true_le, y_pred_le)
+                    prec_le = precision_score(y_true_le, y_pred_le, zero_division=0)
+                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_lte_{lower_bound}_accuracy"].append(acc_le)
+                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_lte_{lower_bound}_precision"].append(prec_le)
 
                 #print(f"Computed metrics for {target_col} fold {fold+1} with params: {model_params}")
 
