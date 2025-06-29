@@ -6,26 +6,26 @@ import pandas as pd
 from collections import defaultdict
 from sklearn.model_selection import TimeSeriesSplit
 from sklearn.metrics import accuracy_score, precision_score
+from itertools import product
 
-def train_and_log_model(
+def train_model_and_collect_metrics(
     feature_df,
     target_df,
     target_ranges,
     model_wrapper_class,
-    model_params,
-    test_size,
-    experiment_name,
-    tracking_uri,
-    model_name,
+    param_grid,  # dict of param_name: list of values, or single dict for one param set
     k,
     key_columns,
-    save_model_path,
+    test_size,
+    return_final_model=False,
     random_state=None
 ):
-    mlflow.set_tracking_uri(tracking_uri)
-    mlflow.set_experiment(experiment_name)
-    print(f"Using MLflow tracking URI: {tracking_uri}, experiment: {experiment_name}")
-
+    """
+    Shared function for cross-validation, metric calculation, and (optionally) final model training.
+    param_grid: dict of param_name: list of values (for grid search) or dict of param_name: value (for single run)
+    return_final_model: if True, also fit and return final model on all train_valid data for each param set
+    Returns: param_metrics, final_models (if return_final_model)
+    """
     # Sort by date for time series split
     if not feature_df["date"].is_monotonic_increasing:
         raise ValueError("feature_df['date'] must be sorted in increasing order.")
@@ -48,10 +48,18 @@ def train_and_log_model(
 
     tscv = TimeSeriesSplit(n_splits=k, test_size=fold_size)
 
+    # Prepare param grid
+    if isinstance(param_grid, dict) and all(isinstance(v, list) for v in param_grid.values()):
+        keys, values = zip(*param_grid.items()) if param_grid else ([], [])
+        param_combinations = [dict(zip(keys, comb)) for comb in product(*values)] if values else [{}]
+    else:
+        # Single param set
+        param_combinations = [param_grid]
+
     param_metrics = {}
+    final_models = {}
 
     for fold, (train_idx, valid_idx) in enumerate(tscv.split(train_valid_df)):
-        print(f"\nTraining fold {fold+1}/{k}...")
         X_train = train_valid_df.iloc[train_idx]
         y_train_df = train_valid_target.iloc[train_idx]
         X_valid = train_valid_df.iloc[valid_idx]
@@ -60,7 +68,6 @@ def train_and_log_model(
         y_test_df = test_target
 
         for target_col, (lower_bound, upper_bound) in target_ranges.items():
-            print(f"Training target variable: {target_col}")
             y_train = y_train_df[target_col]
             y_valid = y_valid_df[target_col]
             y_test = y_test_df[target_col]
@@ -73,54 +80,102 @@ def train_and_log_model(
             y_valid_encoded = y_valid.map(class_to_idx)
             y_test_encoded = y_test.map(class_to_idx)
 
-            # Only one param set
-            param_key = (target_col, tuple(model_params.items()))
+            for model_params in param_combinations:
+                param_key = (target_col, tuple(model_params.items()))
+                if param_key not in param_metrics:
+                    param_metrics[param_key] = {
+                        'target_col': target_col,
+                        'params': model_params,
+                        'metrics': defaultdict(list)
+                    }
 
-            if param_key not in param_metrics:
-                param_metrics[param_key] = {
-                    'target_col': target_col,
-                    'params': model_params,
-                    'metrics': defaultdict(list)
-                }
+                model = model_wrapper_class(**model_params)
+                model.fit(X_train, y_train_encoded)
 
-            model = model_wrapper_class(**model_params)
-            model.fit(X_train, y_train_encoded)
+                for split_name, X_split, y_split, y_split_encoded in [
+                    ("train", X_train, y_train, y_train_encoded),
+                    ("valid", X_valid, y_valid, y_valid_encoded),
+                    ("test", X_test, y_test, y_test_encoded)
+                ]:
+                    proba = model.predict_proba(X_split)
+                    predicted_class_indices = np.argmax(proba, axis=1)
+                    predicted_classes = np.array([idx_to_class[i] for i in predicted_class_indices])
 
-            for split_name, X_split, y_split, y_split_encoded in [
-                ("train", X_train, y_train, y_train_encoded),
-                ("valid", X_valid, y_valid, y_valid_encoded),
-                ("test", X_test, y_test, y_test_encoded)
-            ]:
-                proba = model.predict_proba(X_split)
-                predicted_class_indices = np.argmax(proba, axis=1)
-                predicted_classes = np.array([idx_to_class[i] for i in predicted_class_indices])
+                    base_acc = accuracy_score(y_split, predicted_classes)
+                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_top1_accuracy"].append(base_acc)
 
-                base_acc = accuracy_score(y_split, predicted_classes)
-                param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_top1_accuracy"].append(base_acc)
+                    for threshold in range(lower_bound, upper_bound + 1):
+                        y_true_binary = (y_split > threshold).astype(int)
+                        proba_gt = np.zeros(len(y_split))
+                        for cls, idx in class_to_idx.items():
+                            if cls > threshold:
+                                proba_gt += proba[:, idx]
+                        y_pred_binary = (proba_gt >= 0.5).astype(int)
+                        acc = accuracy_score(y_true_binary, y_pred_binary)
+                        prec = precision_score(y_true_binary, y_pred_binary, zero_division=0)
+                        param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_gt_{threshold}_accuracy"].append(acc)
+                        param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_gt_{threshold}_precision"].append(prec)
 
-                for threshold in range(lower_bound, upper_bound + 1):
-                    y_true_binary = (y_split > threshold).astype(int)
-                    proba_gt = np.zeros(len(y_split))
+                    y_true_le = (y_split <= lower_bound).astype(int)
+                    proba_gt_lb = np.zeros(len(y_split))
                     for cls, idx in class_to_idx.items():
-                        if cls > threshold:
-                            proba_gt += proba[:, idx]
-                    y_pred_binary = (proba_gt >= 0.5).astype(int)
-                    acc = accuracy_score(y_true_binary, y_pred_binary)
-                    prec = precision_score(y_true_binary, y_pred_binary, zero_division=0)
-                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_gt_{threshold}_accuracy"].append(acc)
-                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_gt_{threshold}_precision"].append(prec)
+                        if cls > lower_bound:
+                            proba_gt_lb += proba[:, idx]
+                    proba_le = 1 - proba_gt_lb
+                    y_pred_le = (proba_le >= 0.5).astype(int)
+                    acc_le = accuracy_score(y_true_le, y_pred_le)
+                    prec_le = precision_score(y_true_le, y_pred_le, zero_division=0)
+                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_lte_{lower_bound}_accuracy"].append(acc_le)
+                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_lte_{lower_bound}_precision"].append(prec_le)
 
-                y_true_le = (y_split <= lower_bound).astype(int)
-                proba_gt_lb = np.zeros(len(y_split))
-                for cls, idx in class_to_idx.items():
-                    if cls > lower_bound:
-                        proba_gt_lb += proba[:, idx]
-                proba_le = 1 - proba_gt_lb
-                y_pred_le = (proba_le >= 0.5).astype(int)
-                acc_le = accuracy_score(y_true_le, y_pred_le)
-                prec_le = precision_score(y_true_le, y_pred_le, zero_division=0)
-                param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_lte_{lower_bound}_accuracy"].append(acc_le)
-                param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_lte_{lower_bound}_precision"].append(prec_le)
+    # Optionally fit final model on all train_valid data for each param set
+    if return_final_model:
+        for param_key, param_data in param_metrics.items():
+            model = model_wrapper_class(**param_data['params'])
+            y_full = train_valid_target[param_data['target_col']]
+            all_classes = sorted(y_full.unique())
+            class_to_idx = {c: i for i, c in enumerate(all_classes)}
+            y_full_encoded = y_full.map(class_to_idx)
+            model.fit(train_valid_df, y_full_encoded)
+            final_models[param_key] = model
+
+    if return_final_model:
+        return param_metrics, final_models
+    else:
+        return param_metrics
+
+def train_and_log_model(
+    feature_df,
+    target_df,
+    target_ranges,
+    model_wrapper_class,
+    model_params,
+    test_size,
+    experiment_name,
+    tracking_uri,
+    model_name,
+    k,
+    key_columns,
+    save_model_path,
+    random_state=None
+):
+    mlflow.set_tracking_uri(tracking_uri)
+    mlflow.set_experiment(experiment_name)
+    print(f"Using MLflow tracking URI: {tracking_uri}, experiment: {experiment_name}")
+
+    # Use shared function for training and metrics
+    param_metrics, final_models = train_model_and_collect_metrics(
+        feature_df,
+        target_df,
+        target_ranges,
+        model_wrapper_class,
+        model_params,
+        k,
+        key_columns,
+        test_size,
+        return_final_model=True,
+        random_state=random_state
+    )
 
     # Log average metrics across folds for each parameter combination and save model
     for param_key, param_data in param_metrics.items():
@@ -136,20 +191,12 @@ def train_and_log_model(
                 mlflow.log_metric(f"{metric_name}", avg_value)
                 mlflow.log_metric(f"{metric_name}_std", std_value)
 
-            # Fit on all train_valid data for final model saving
-            model = model_wrapper_class(**param_data['params'])
-            y_full = train_valid_target[param_data['target_col']]
-            all_classes = sorted(y_full.unique())
-            class_to_idx = {c: i for i, c in enumerate(all_classes)}
-            y_full_encoded = y_full.map(class_to_idx)
-            model.fit(train_valid_df, y_full_encoded)
-
             # Save model
+            model = final_models[param_key]
             os.makedirs(os.path.dirname(save_model_path), exist_ok=True)
-            # Auto-generate file name using run_name and attach to save_model_path
             model_file_name = f"{run_name}.joblib"
             model_file_path = os.path.join(save_model_path, model_file_name)
             joblib.dump(model, model_file_path)
-            mlflow.log_artifact(save_model_path, artifact_path="model")
+            mlflow.log_artifact(model_file_path, artifact_path="model")
 
             print(f"Saved and logged model for {param_data['target_col']} with params: {param_data['params']}")
