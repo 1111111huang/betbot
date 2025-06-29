@@ -18,7 +18,8 @@ def train_model_and_collect_metrics(
     key_columns,
     test_size,
     return_final_model=False,
-    random_state=None
+    random_state=None,
+    verbose=True
 ):
     """
     Shared function for cross-validation, metric calculation, and (optionally) final model training.
@@ -60,6 +61,8 @@ def train_model_and_collect_metrics(
     final_models = {}
 
     for fold, (train_idx, valid_idx) in enumerate(tscv.split(train_valid_df)):
+        if verbose:
+            print(f"Training fold {fold+1}/{k}...")
         X_train = train_valid_df.iloc[train_idx]
         y_train_df = train_valid_target.iloc[train_idx]
         X_valid = train_valid_df.iloc[valid_idx]
