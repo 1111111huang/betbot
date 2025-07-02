@@ -5,6 +5,7 @@ import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import DataLoader, TensorDataset
 import numpy as np
+import matplotlib.pyplot as plt
 
 class ModelWrapper(ABC):
     """Abstract base class for model wrappers"""
@@ -47,6 +48,8 @@ class SklearnWrapper(ModelWrapper):
         self.model = joblib.load(path)
 
 class TorchWrapper(ModelWrapper):
+    show_graph = True  # class property
+
     def __init__(
         self,
         model_class,
@@ -56,6 +59,7 @@ class TorchWrapper(ModelWrapper):
         epochs=20,
         weight_decay=1e-4,
         device='auto',  # <=== NEW: device param
+        show_graph=None,  # allow override
         **kwargs
     ):
         super().__init__(
@@ -74,6 +78,7 @@ class TorchWrapper(ModelWrapper):
         self.batch_size = batch_size
         self.epochs = epochs
         self.weight_decay = weight_decay
+        self.show_graph = self.__class__.show_graph if show_graph is None else show_graph
 
         # === device auto-selection ===
         if device == 'auto':
@@ -112,8 +117,10 @@ class TorchWrapper(ModelWrapper):
         optimizer = optim.Adam(self.model.parameters(), lr=self.learning_rate, weight_decay=self.weight_decay)
         criterion = nn.CrossEntropyLoss()
 
+        losses = []
         self.model.train()
         for epoch in range(self.epochs):
+            epoch_loss = 0.0
             for xb, yb in loader:
                 xb = xb.to(self.device)
                 yb = yb.to(self.device)
@@ -123,6 +130,17 @@ class TorchWrapper(ModelWrapper):
                 loss = criterion(logits, yb)
                 loss.backward()
                 optimizer.step()
+                epoch_loss += loss.item() * xb.size(0)
+            avg_loss = epoch_loss / len(dataset)
+            losses.append(avg_loss)
+        if self.show_graph:
+            plt.figure()
+            plt.plot(range(1, self.epochs + 1), losses, marker='o')
+            plt.xlabel('Epoch')
+            plt.ylabel('Loss')
+            plt.title('Training Loss over Epochs')
+            plt.show()
+            print(f"Final training loss: {losses[-1]}")
 
     def predict_proba(self, X):
         X = np.asarray(X).astype(np.float32)
@@ -149,6 +167,8 @@ class TorchWrapper(ModelWrapper):
         self.model.to(self.device)
 
 class TorchSequenceWrapper(ModelWrapper):
+    show_graph = True  # class property
+
     def __init__(
         self,
         model_class,
@@ -158,6 +178,7 @@ class TorchSequenceWrapper(ModelWrapper):
         epochs=20,
         weight_decay=1e-4,
         device='auto',
+        show_graph=None,  # allow override
         **kwargs
     ):
         super().__init__(
@@ -186,6 +207,7 @@ class TorchSequenceWrapper(ModelWrapper):
         self.batch_size = batch_size
         self.epochs = epochs
         self.weight_decay = weight_decay
+        self.show_graph = self.__class__.show_graph if show_graph is None else show_graph
 
         self.model = None
 
@@ -208,8 +230,10 @@ class TorchSequenceWrapper(ModelWrapper):
         optimizer = optim.Adam(self.model.parameters(), lr=self.learning_rate, weight_decay=self.weight_decay)
         criterion = nn.CrossEntropyLoss()
 
+        losses = []
         self.model.train()
         for epoch in range(self.epochs):
+            epoch_loss = 0.0
             for xb, yb in loader:
                 xb = xb.to(self.device)
                 yb = yb.to(self.device)
@@ -219,6 +243,16 @@ class TorchSequenceWrapper(ModelWrapper):
                 loss = criterion(logits, yb)
                 loss.backward()
                 optimizer.step()
+                epoch_loss += loss.item() * xb.size(0)
+            avg_loss = epoch_loss / len(dataset)
+            losses.append(avg_loss)
+        if self.show_graph:
+            plt.figure()
+            plt.plot(range(1, self.epochs + 1), losses, marker='o')
+            plt.xlabel('Epoch')
+            plt.ylabel('Loss')
+            plt.title('Training Loss over Epochs')
+            plt.show()
 
     def predict_proba(self, X):
         X = np.asarray(X).astype(np.float32)
