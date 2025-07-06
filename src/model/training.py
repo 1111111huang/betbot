@@ -18,7 +18,7 @@ def train_model_and_collect_metrics(
     key_columns,
     test_size,
     return_final_model=False,
-    random_state=None,
+    include_key_columns=False,
     verbose=True
 ):
     """
@@ -33,8 +33,9 @@ def train_model_and_collect_metrics(
     if not target_df["date"].is_monotonic_increasing:
         raise ValueError("target_df['date'] must be sorted in increasing order.")
 
-    feature_df = feature_df.drop(columns=key_columns, errors='ignore')
-    target_df = target_df.drop(columns=key_columns, errors='ignore')
+    if not include_key_columns:
+        feature_df = feature_df.drop(columns=key_columns, errors='ignore')
+        target_df = target_df.drop(columns=key_columns, errors='ignore')
 
     n_samples = len(feature_df)
     test_split = int(n_samples * (1 - test_size))
@@ -50,12 +51,15 @@ def train_model_and_collect_metrics(
     tscv = TimeSeriesSplit(n_splits=k, test_size=fold_size)
 
     # Prepare param grid
+    print('param_grid:', param_grid)
     if isinstance(param_grid, dict) and all(isinstance(v, list) for v in param_grid.values()):
         keys, values = zip(*param_grid.items()) if param_grid else ([], [])
         param_combinations = [dict(zip(keys, comb)) for comb in product(*values)] if values else [{}]
     else:
         # Single param set
         param_combinations = [param_grid]
+
+    print('having param combinations:', param_combinations)
 
     param_metrics = {}
     final_models = {}
@@ -103,7 +107,8 @@ def train_model_and_collect_metrics(
                     proba = model.predict_proba(X_split)
                     predicted_class_indices = np.argmax(proba, axis=1)
                     predicted_classes = np.array([idx_to_class[i] for i in predicted_class_indices])
-
+                    
+                    print(y_split.shape, predicted_classes.shape, proba.shape)
                     base_acc = accuracy_score(y_split, predicted_classes)
                     param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_top1_accuracy"].append(base_acc)
 

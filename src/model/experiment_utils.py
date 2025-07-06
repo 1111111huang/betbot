@@ -2,11 +2,13 @@ import pandas as pd
 import mlflow
 import matplotlib.pyplot as plt
 import numpy as np
+import numpy as np
+from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score
-from itertools import product
-from sklearn.model_selection import TimeSeriesSplit
-from collections import defaultdict
+from sklearn.metrics import accuracy_score, precision_score
 from src.model.training import train_model_and_collect_metrics
+from itertools import product
+import itertools
 
 def plot_metrics_for_target_and_model(
     experiment_name, target_col, model_name, tracking_uri, top_n=5
@@ -282,6 +284,65 @@ def run_multiclass_distribution_experiment(
                 mlflow.log_metric(f"{metric_name}", avg_value)
                 mlflow.log_metric(f"{metric_name}_std", std_value)
 
+            print(f"Logged cross-validation metrics for {param_data['target_col']} with params: {param_data['params']}")
+
+def run_multiclass_distribution_experiment_seq(
+    feature_df,
+    target_df,
+    target_ranges,
+    model_wrapper_class,  # now a single callable, not two arguments
+    model_param_grid,  # dict of lists, with 'model_params.*' keys
+    test_size,
+    experiment_name,
+    repo_path,
+    model_name,
+    target_columns,
+    k=5,
+    key_columns=None,
+):
+    """
+    Run multiclass distribution experiment for sequence models using time series split.
+    Uses train_model_and_collect_metrics for consistent cross-validation and metric logging.
+    model_wrapper_class: callable that returns a model instance, should accept all params needed.
+    """
+    k_split = k
+
+    mlflow.set_tracking_uri(f"file://{repo_path}/mlflow")
+    mlflow.set_experiment(experiment_name)
+
+    # Prepare target_ranges for selected target_columns
+    target_ranges = {col: target_ranges[col] for col in target_columns}
+
+    # Use train_model_and_collect_metrics for all target_columns
+    param_metrics = train_model_and_collect_metrics(
+        feature_df=feature_df,
+        target_df=target_df,
+        target_ranges=target_ranges,
+        model_wrapper_class=model_wrapper_class,
+        param_grid=model_param_grid,
+        k=k_split,
+        key_columns=key_columns or [],
+        test_size=test_size,
+        return_final_model=False,
+        include_key_columns=True  # Include key columns in the feature_df
+    )
+
+    # Log average metrics across folds for each parameter combination
+    for param_key, param_data in param_metrics.items():
+        run_name = f"{model_name}_{param_data['target_col']}_seq_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
+        with mlflow.start_run(run_name=run_name):
+            mlflow.log_param("target", param_data['target_col'])
+            mlflow.log_param("model_name", model_name)
+            mlflow.log_params(param_data['params'])
+
+            for metric_name, values in param_data['metrics'].items():
+                avg_value = np.mean(values)
+                std_value = np.std(values)
+                mlflow.log_metric(f"{metric_name}", avg_value)
+                mlflow.log_metric(f"{metric_name}_std", std_value)
+
+            mlflow.set_tag("model_name", model_name)
+            mlflow.set_tag("target_column", param_data['target_col'])
             print(f"Logged cross-validation metrics for {param_data['target_col']} with params: {param_data['params']}")
 
 def plot_run_metrics_side_by_side(experiment_name, model_name, model_param, tracking_uri, metric_type="accuracy"):

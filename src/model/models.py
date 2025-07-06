@@ -96,12 +96,19 @@ class TCNModel(nn.Module):
 
 # === LSTM model ===
 class LSTMModel(nn.Module):
-    def __init__(self, input_dim, output_dim, hidden_dim=64, num_layers=1, dropout=0.2):
-        super().__init__()
-        self.lstm = nn.LSTM(input_dim, hidden_dim, num_layers=num_layers, batch_first=True, dropout=dropout)
-        self.fc = nn.Linear(hidden_dim, output_dim)
+    def __init__(self, input_dim, hidden_dim=64, num_layers=1, dropout=0.2):
+        super(LSTMModel, self).__init__()
+        self.lstm = nn.LSTM(
+            input_size=input_dim,
+            hidden_size=hidden_dim,
+            num_layers=num_layers,
+            batch_first=True,
+            dropout=dropout if num_layers > 1 else 0.0  # dropout only if >1 layer
+        )
+        self.fc = nn.Linear(hidden_dim, 1)
 
     def forward(self, x):
-        out, _ = self.lstm(x)  # [batch, seq, hidden]
-        out = out[:, -1, :]    # take last output
-        return self.fc(out)
+        _, (hn, _) = self.lstm(x)
+        last_hidden = hn[-1]
+        out = self.fc(last_hidden)
+        return out
