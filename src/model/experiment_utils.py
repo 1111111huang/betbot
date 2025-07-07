@@ -7,8 +7,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score
 from sklearn.metrics import accuracy_score, precision_score
 from src.model.training import train_model_and_collect_metrics
+from src.model.experiment_utils import *
 from itertools import product
-import itertools
+import mlflow
+from itertools import product
 
 def plot_metrics_for_target_and_model(
     experiment_name, target_col, model_name, tracking_uri, top_n=5
@@ -240,7 +242,7 @@ def run_multiclass_distribution_experiment(
     target_df,
     target_ranges,
     model_wrapper_class,
-    model_param_grid,  # now a dict of lists (parameter grid)
+    model_param_grid,
     test_size,
     experiment_name,
     uri,
@@ -249,101 +251,38 @@ def run_multiclass_distribution_experiment(
     key_columns,
 ):
     mlflow.set_tracking_uri(uri)
-    mlflow.set_experiment(experiment_name)
+    results = {}
+    for target_col, (min_val, max_val) in target_ranges.items():
+        feature_columns = [c for c in feature_df.columns if c not in key_columns]
+        feature = feature_df[feature_columns].values
+        target = target_df[target_col].values
 
-    # Sort by date for time series split
-    if not feature_df["date"].is_monotonic_increasing:
-        raise ValueError("feature_df['date'] must be sorted in increasing order.")
-    if not target_df["date"].is_monotonic_increasing:
-        raise ValueError("target_df['date'] must be sorted in increasing order.")
-
-    # Use shared function for training and metrics (no final model needed)
-    param_metrics = train_model_and_collect_metrics(
-        feature_df,
-        target_df,
-        target_ranges,
-        model_wrapper_class,
-        model_param_grid,
-        k,
-        key_columns,
-        test_size,
-        return_final_model=False
-    )
-
-    # Log average metrics across folds for each parameter combination
-    for param_key, param_data in param_metrics.items():
-        run_name = f"{model_name}_{param_data['target_col']}_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
-        with mlflow.start_run(run_name=run_name):
-            mlflow.log_param("target", param_data['target_col'])
-            mlflow.log_param("model_name", model_name)
-            mlflow.log_params(param_data['params'])
-
-            for metric_name, values in param_data['metrics'].items():
-                avg_value = np.mean(values)
-                std_value = np.std(values)
-                mlflow.log_metric(f"{metric_name}", avg_value)
-                mlflow.log_metric(f"{metric_name}_std", std_value)
-
-            print(f"Logged cross-validation metrics for {param_data['target_col']} with params: {param_data['params']}")
-
-def run_multiclass_distribution_experiment_seq(
-    feature_df,
-    target_df,
-    target_ranges,
-    model_wrapper_class,  # now a single callable, not two arguments
-    model_param_grid,  # dict of lists, with 'model_params.*' keys
-    test_size,
-    experiment_name,
-    repo_path,
-    model_name,
-    target_columns,
-    k=5,
-    key_columns=None,
-):
-    """
-    Run multiclass distribution experiment for sequence models using time series split.
-    Uses train_model_and_collect_metrics for consistent cross-validation and metric logging.
-    model_wrapper_class: callable that returns a model instance, should accept all params needed.
-    """
-    k_split = k
-
-    mlflow.set_tracking_uri(f"file://{repo_path}/mlflow")
-    mlflow.set_experiment(experiment_name)
-
-    # Prepare target_ranges for selected target_columns
-    target_ranges = {col: target_ranges[col] for col in target_columns}
-
-    # Use train_model_and_collect_metrics for all target_columns
-    param_metrics = train_model_and_collect_metrics(
-        feature_df=feature_df,
-        target_df=target_df,
-        target_ranges=target_ranges,
-        model_wrapper_class=model_wrapper_class,
-        param_grid=model_param_grid,
-        k=k_split,
-        key_columns=key_columns or [],
-        test_size=test_size,
-        return_final_model=False,
-        include_key_columns=True  # Include key columns in the feature_df
-    )
-
-    # Log average metrics across folds for each parameter combination
-    for param_key, param_data in param_metrics.items():
-        run_name = f"{model_name}_{param_data['target_col']}_seq_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
-        with mlflow.start_run(run_name=run_name):
-            mlflow.log_param("target", param_data['target_col'])
-            mlflow.log_param("model_name", model_name)
-            mlflow.log_params(param_data['params'])
-
-            for metric_name, values in param_data['metrics'].items():
-                avg_value = np.mean(values)
-                std_value = np.std(values)
-                mlflow.log_metric(f"{metric_name}", avg_value)
-                mlflow.log_metric(f"{metric_name}_std", std_value)
-
-            mlflow.set_tag("model_name", model_name)
-            mlflow.set_tag("target_column", param_data['target_col'])
-            print(f"Logged cross-validation metrics for {param_data['target_col']} with params: {param_data['params']}")
+        print(f"Training {model_name} on {target_col} with param grid: {model_param_grid}")
+        param_metrics, _ = train_model_and_collect_metrics(
+            feature=feature,
+            target=target,
+            target_ranges={target_col: (min_val, max_val)},
+            model_wrapper_class=model_wrapper_class,
+            param_grid=model_param_grid,
+            k=k,
+            key_columns=key_columns,
+            test_size=test_size,
+            return_final_model=False,
+            include_key_columns=False,
+            verbose=True
+        )
+        # Log metrics to MLflow
+        for param_set, metrics in param_metrics.items():
+            with mlflow.start_run(run_name=f"{model_name}_{target_col}_{param_set}"):
+                if isinstance(param_set, dict):
+                    mlflow.log_params(param_set)
+                else:
+                    mlflow.log_param("param_set", param_set)
+                mlflow.log_param("target_col", target_col)
+                for metric_name, metric_val in metrics.items():
+                    mlflow.log_metric(metric_name, metric_val)
+            results[(target_col, str(param_set))] = metrics
+    return results
 
 def plot_run_metrics_side_by_side(experiment_name, model_name, model_param, tracking_uri, metric_type="accuracy"):
     """
@@ -416,3 +355,91 @@ def plot_run_metrics_side_by_side(experiment_name, model_name, model_param, trac
     plt.suptitle(f'{metric_type.capitalize()} Metrics by Threshold for model {model_name}\nParams: {model_param}', y=1.02)
     plt.tight_layout()
     plt.show()
+
+def make_sequence_dataset(feature_df, target_df, key_columns, sequence_length=5, target_col=None, pad_value=0):
+    """
+    Convert flat feature/target DataFrames into sequences for temporal models, with padding for short histories.
+    Returns: X_seq [N, T, F], y_seq [N]
+    """
+    feature_columns = [c for c in feature_df.columns if c not in key_columns]
+    all_sequences = []
+    all_targets = []
+    group_key = [k for k in key_columns if k != 'date']
+    # Merge feature and target for grouping
+    merged = feature_df.copy()
+    if target_col is not None and target_col in target_df.columns:
+        merged[target_col] = target_df[target_col]
+    grouped = merged.groupby(group_key)
+    for _, group in grouped:
+        group = group.sort_values('date')
+        features = group[feature_columns].values
+        targets = group[target_col].values
+        n = len(group)
+        for i in range(n):
+            # For each row, build a sequence ending at i (inclusive), pad if needed
+            start_idx = max(0, i - sequence_length)
+            seq = features[start_idx:i]
+            # Pad at the beginning if needed
+            if seq.shape[0] < sequence_length:
+                pad_width = sequence_length - seq.shape[0]
+                pad = np.full((pad_width, features.shape[1]), pad_value, dtype=features.dtype)
+                seq = np.vstack([pad, seq])
+            all_sequences.append(seq)
+            all_targets.append(targets[i])
+    if not all_sequences:
+        raise ValueError("No sequences generated. Check your group_key, sequence_length, and data size.")
+    return np.stack(all_sequences), np.array(all_targets)
+
+def run_multiclass_distribution_experiment_seq(
+    feature_df,
+    target_df,
+    target_ranges,
+    model_wrapper_class,
+    model_param_grid,
+    test_size,
+    experiment_name,
+    uri,
+    model_name,
+    k,
+    key_columns,
+    sequence_length=5,
+    pad_value=0,
+):
+    mlflow.set_tracking_uri(uri)
+    results = {}
+    for target_col, (min_val, max_val) in target_ranges.items():
+        print(f"Preparing sequence data for target: {target_col}")
+        X_seq, y_seq = make_sequence_dataset(
+            feature_df, target_df, key_columns,
+            sequence_length=sequence_length,
+            target_col=target_col,
+            pad_value=pad_value
+        )
+        print(f"  X_seq shape: {X_seq.shape}, y_seq shape: {y_seq.shape}")
+
+        print(f"Training {model_name} on {target_col} with param grid: {model_param_grid}")
+        param_metrics, _ = train_model_and_collect_metrics(
+            feature=X_seq,
+            target=y_seq,
+            target_ranges={target_col: (min_val, max_val)},
+            model_wrapper_class=model_wrapper_class,
+            param_grid=model_param_grid,
+            k=k,
+            key_columns=key_columns,
+            test_size=test_size,
+            return_final_model=False,
+            include_key_columns=False,
+            verbose=True
+        )
+        # Log metrics to MLflow
+        for param_set, metrics in param_metrics.items():
+            with mlflow.start_run(run_name=f"{model_name}_{target_col}_{param_set}"):
+                if isinstance(param_set, dict):
+                    mlflow.log_params(param_set)
+                else:
+                    mlflow.log_param("param_set", param_set)
+                mlflow.log_param("target_col", target_col)
+                for metric_name, metric_val in metrics.items():
+                    mlflow.log_metric(metric_name, metric_val)
+            results[(target_col, str(param_set))] = metrics
+    return results

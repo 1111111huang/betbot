@@ -167,31 +167,34 @@ class TorchWrapper(ModelWrapper):
         self.model.load_state_dict(torch.load(path))
         self.model.to(self.device)
 
-class TorchSequenceWrapper:
+class TorchSequenceWrapper(ModelWrapper):
     def __init__(
         self,
         model_class,
-        model_params,
-        sequence_length,
-        date_col='date',
-        home_col='home',
-        away_col='away',
+        model_params={},
         learning_rate=0.001,
-        batch_size=32,
-        epochs=10,
+        batch_size=64,
+        epochs=20,
+        weight_decay=1e-4,
         device='auto',
-        use_padding=False,
+        show_graph=None,
+        **kwargs
     ):
+        super().__init__(
+            model_class=model_class,
+            model_params=model_params,
+            learning_rate=learning_rate,
+            batch_size=batch_size,
+            epochs=epochs,
+            weight_decay=weight_decay,
+            device=device
+        )
         self.model_class = model_class
-        self.model_params = model_params  # model init params only
-        self.sequence_length = sequence_length
-        self.date_col = date_col
-        self.home_col = home_col
-        self.away_col = away_col
+        self.model_params = model_params
         self.learning_rate = learning_rate
         self.batch_size = batch_size
         self.epochs = epochs
-        self.use_padding = use_padding
+        self.weight_decay = weight_decay
 
         if device == 'auto':
             if torch.backends.mps.is_available():
@@ -202,93 +205,45 @@ class TorchSequenceWrapper:
                 self.device = torch.device('cpu')
         else:
             self.device = torch.device(device)
-
         self.model = None
 
-    def _melt_matches(self, df):
-        rows = []
-        for _, row in df.iterrows():
-            for is_home in [True, False]:
-                team = row[self.home_col] if is_home else row[self.away_col]
-                opponent = row[self.away_col] if is_home else row[self.home_col]
-                new_row = row.copy()
-                new_row['team'] = team
-                new_row['opponent'] = opponent
-                new_row['is_home'] = is_home
-                rows.append(new_row)
-        return pd.DataFrame(rows)
+    def fit(self, X, y):
+        # X: [N, T, F], y: [N]
+        X = np.asarray(X).astype(np.float32)
+        y = np.asarray(y).astype(np.int64)
+        self.input_dim = X.shape[2]
+        self.seq_len = X.shape[1]
+        self.output_dim = len(np.unique(y))
 
-    def _build_sequences(self, feature_df, y_series):
-        df = feature_df.copy()
-        df[self.date_col] = pd.to_datetime(df[self.date_col])
-        df['season'] = df[self.date_col].apply(lambda d: d.year if d.month >= 7 else d.year - 1)
-        df = self._melt_matches(df)
-        df = df.sort_values(['team', 'season', self.date_col])
+        self.model = self.model_class(
+            input_dim=self.input_dim,
+            output_dim=self.output_dim,
+            seq_len=self.seq_len,
+            **self.model_params
+        ).to(self.device)
 
-        exclude_cols = [self.home_col, self.away_col, self.date_col, 'season', 'team', 'opponent', 'is_home']
-        feature_cols = [c for c in df.columns if c not in exclude_cols and c in feature_df.columns]
+        dataset = TensorDataset(torch.tensor(X), torch.tensor(y))
+        loader = DataLoader(dataset, batch_size=self.batch_size, shuffle=True)
 
-        sequences = []
-        targets = []
-
-        # y_series is a pandas Series, index should match feature_df
-        for _, group in df.groupby(['team', 'season']):
-            group = group.sort_values(self.date_col)
-            values = group[feature_cols].values
-            for i in range(1, len(group)):
-                start_idx = max(0, i - self.sequence_length)
-                seq = values[start_idx:i]
-                if len(seq) < self.sequence_length:
-                    if self.use_padding:
-                        pad_len = self.sequence_length - len(seq)
-                        seq = np.vstack([np.zeros((pad_len, seq.shape[1])), seq])
-                    else:
-                        continue  # skip sequences shorter than sequence_length if no padding
-                match_index = group.iloc[i].name
-                if match_index in y_series.index:
-                    sequences.append(seq)
-                    targets.append(y_series.loc[match_index])
-
-        X = np.array(sequences)
-        y = np.array(targets)
-        return X, y
-
-    def fit(self, X_df, y_series):
-        # y_series is a pandas Series
-        X_seq, y_seq = self._build_sequences(X_df, y_series)
-
-        X_tensor = torch.tensor(X_seq, dtype=torch.float32)
-        y_tensor = torch.tensor(y_seq, dtype=torch.float32)
-
-        dataset = TensorDataset(X_tensor, y_tensor)
-        dataloader = DataLoader(dataset, batch_size=self.batch_size, shuffle=True)
-
-        self.model = self.model_class(input_dim=X_seq.shape[2], **self.model_params).to(self.device)
-
-        criterion = torch.nn.BCEWithLogitsLoss()
-        optimizer = torch.optim.Adam(self.model.parameters(), lr=self.learning_rate)
+        optimizer = optim.Adam(self.model.parameters(), lr=self.learning_rate, weight_decay=self.weight_decay)
+        criterion = nn.CrossEntropyLoss()
 
         self.model.train()
-        for _ in range(self.epochs):
-            for batch_X, batch_y in dataloader:
-                batch_X, batch_y = batch_X.to(self.device), batch_y.to(self.device).unsqueeze(1)
+        for epoch in range(self.epochs):
+            for xb, yb in loader:
+                xb, yb = xb.to(self.device), yb.to(self.device)
                 optimizer.zero_grad()
-                output = self.model(batch_X)
-                loss = criterion(output, batch_y)
+                out = self.model(xb)
+                loss = criterion(out, yb)
                 loss.backward()
                 optimizer.step()
 
-    def predict_proba(self, X_df):
-        # Create dummy y_df to pass to _build_sequences
-        print(X_df.shape)
-        dummy_y_df = pd.Series(index=X_df.index)
-        dummy_y_df.iloc[:] = 0  # dummy values
-
-        X_seq, _ = self._build_sequences(X_df, dummy_y_df)
-
-        X_tensor = torch.tensor(X_seq, dtype=torch.float32).to(self.device)
+    def predict_proba(self, X):
+        X = np.asarray(X).astype(np.float32)
         self.model.eval()
         with torch.no_grad():
-            logits = self.model(X_tensor)  # (batch, n_classes)
-            probs = torch.softmax(logits, dim=1).cpu().numpy()
-        return probs  # (n_data_points, n_classes)
+            X_tensor = torch.tensor(X).to(self.device)
+            logits = self.model(X_tensor)
+            probs = torch.softmax(logits, dim=1)
+            return probs.cpu().numpy()
+

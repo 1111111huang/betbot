@@ -9,8 +9,8 @@ from sklearn.metrics import accuracy_score, precision_score
 from itertools import product
 
 def train_model_and_collect_metrics(
-    feature_df,
-    target_df,
+    feature,
+    target,
     target_ranges,
     model_wrapper_class,
     param_grid,  # dict of param_name: list of values, or single dict for one param set
@@ -23,134 +23,59 @@ def train_model_and_collect_metrics(
 ):
     """
     Shared function for cross-validation, metric calculation, and (optionally) final model training.
-    param_grid: dict of param_name: list of values (for grid search) or dict of param_name: value (for single run)
-    return_final_model: if True, also fit and return final model on all train_valid data for each param set
-    Returns: param_metrics, final_models (if return_final_model)
+    feature: numpy array [N, ...]
+    target: numpy array [N] or [N, ...]
     """
-    # Sort by date for time series split
-    if not feature_df["date"].is_monotonic_increasing:
-        raise ValueError("feature_df['date'] must be sorted in increasing order.")
-    if not target_df["date"].is_monotonic_increasing:
-        raise ValueError("target_df['date'] must be sorted in increasing order.")
 
-    if not include_key_columns:
-        feature_df = feature_df.drop(columns=key_columns, errors='ignore')
-        target_df = target_df.drop(columns=key_columns, errors='ignore')
-
-    n_samples = len(feature_df)
+    n_samples = len(feature)
     test_split = int(n_samples * (1 - test_size))
-    train_valid_df = feature_df.iloc[:test_split]
-    test_df = feature_df.iloc[test_split:]
-    train_valid_target = target_df.iloc[:test_split]
-    test_target = target_df.iloc[test_split:]
+    X_train, X_test = feature[:test_split], feature[test_split:]
+    y_train, y_test = target[:test_split], target[test_split:]
 
-    n_train_valid = len(train_valid_df)
-    min_train_size = n_train_valid // 2
-    fold_size = (n_train_valid - min_train_size) // k
+    # Use KFold or TimeSeriesSplit for cross-validation
+    cv = TimeSeriesSplit(n_splits=k) if k > 1 else None
 
-    tscv = TimeSeriesSplit(n_splits=k, test_size=fold_size)
+    metrics_dict = {}
+    best_model = None
 
-    # Prepare param grid
-    print('param_grid:', param_grid)
-    if isinstance(param_grid, dict) and all(isinstance(v, list) for v in param_grid.values()):
-        keys, values = zip(*param_grid.items()) if param_grid else ([], [])
-        param_combinations = [dict(zip(keys, comb)) for comb in product(*values)] if values else [{}]
+    # Prepare param grid as list of dicts
+    if isinstance(param_grid, dict) and param_grid:
+        from itertools import product
+        keys, values = zip(*param_grid.items())
+        param_dicts = [dict(zip(keys, v)) for v in product(*values)]
     else:
-        # Single param set
-        param_combinations = [param_grid]
+        param_dicts = [{}]
 
-    print('having param combinations:', param_combinations)
+    for params in param_dicts:
+        scores = []
+        if cv:
+            for fold_idx, (train_idx, val_idx) in enumerate(cv.split(X_train)):
+                print(f"Training fold {fold_idx + 1}/{k} with params: {params}")
+                X_tr, X_val = X_train[train_idx], X_train[val_idx]
+                y_tr, y_val = y_train[train_idx], y_train[val_idx]
+                model = model_wrapper_class(**params)
+                model.fit(X_tr, y_tr)
+                y_pred = model.predict_proba(X_val).argmax(axis=1)
+                acc = accuracy_score(y_val, y_pred)
+                prec = precision_score(y_val, y_pred, average='macro', zero_division=0)
+                scores.append({'accuracy': acc, 'precision': prec})
+        else:
+            print(f"Training single split with params: {params}")
+            model = model_wrapper_class(**params)
+            model.fit(X_train, y_train)
+            y_pred = model.predict_proba(X_test).argmax(axis=1)
+            acc = accuracy_score(y_test, y_pred)
+            prec = precision_score(y_test, y_pred, average='macro', zero_division=0)
+            scores.append({'accuracy': acc, 'precision': prec})
 
-    param_metrics = {}
-    final_models = {}
+        # Aggregate metrics
+        avg_metrics = {k: np.mean([score[k] for score in scores]) for k in scores[0]}
+        metrics_dict[str(params)] = avg_metrics
 
-    for fold, (train_idx, valid_idx) in enumerate(tscv.split(train_valid_df)):
-        if verbose:
-            print(f"Training fold {fold+1}/{k}...")
-        X_train = train_valid_df.iloc[train_idx]
-        y_train_df = train_valid_target.iloc[train_idx]
-        X_valid = train_valid_df.iloc[valid_idx]
-        y_valid_df = train_valid_target.iloc[valid_idx]
-        X_test = test_df
-        y_test_df = test_target
+        if return_final_model:
+            best_model = model
 
-        for target_col, (lower_bound, upper_bound) in target_ranges.items():
-            y_train = y_train_df[target_col]
-            y_valid = y_valid_df[target_col]
-            y_test = y_test_df[target_col]
-
-            all_classes = sorted(y_train.unique())
-            class_to_idx = {c: i for i, c in enumerate(all_classes)}
-            idx_to_class = {i: c for c, i in class_to_idx.items()}
-
-            y_train_encoded = y_train.map(class_to_idx)
-            y_valid_encoded = y_valid.map(class_to_idx)
-            y_test_encoded = y_test.map(class_to_idx)
-
-            for model_params in param_combinations:
-                param_key = (target_col, tuple(model_params.items()))
-                if param_key not in param_metrics:
-                    param_metrics[param_key] = {
-                        'target_col': target_col,
-                        'params': model_params,
-                        'metrics': defaultdict(list)
-                    }
-
-                model = model_wrapper_class(**model_params)
-                model.fit(X_train, y_train_encoded)
-
-                for split_name, X_split, y_split, y_split_encoded in [
-                    ("train", X_train, y_train, y_train_encoded),
-                    ("valid", X_valid, y_valid, y_valid_encoded),
-                    ("test", X_test, y_test, y_test_encoded)
-                ]:
-                    proba = model.predict_proba(X_split)
-                    predicted_class_indices = np.argmax(proba, axis=1)
-                    predicted_classes = np.array([idx_to_class[i] for i in predicted_class_indices])
-                    
-                    print(y_split.shape, predicted_classes.shape, proba.shape)
-                    base_acc = accuracy_score(y_split, predicted_classes)
-                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_top1_accuracy"].append(base_acc)
-
-                    for threshold in range(lower_bound, upper_bound + 1):
-                        y_true_binary = (y_split > threshold).astype(int)
-                        proba_gt = np.zeros(len(y_split))
-                        for cls, idx in class_to_idx.items():
-                            if cls > threshold:
-                                proba_gt += proba[:, idx]
-                        y_pred_binary = (proba_gt >= 0.5).astype(int)
-                        acc = accuracy_score(y_true_binary, y_pred_binary)
-                        prec = precision_score(y_true_binary, y_pred_binary, zero_division=0)
-                        param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_gt_{threshold}_accuracy"].append(acc)
-                        param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_gt_{threshold}_precision"].append(prec)
-
-                    y_true_le = (y_split <= lower_bound).astype(int)
-                    proba_gt_lb = np.zeros(len(y_split))
-                    for cls, idx in class_to_idx.items():
-                        if cls > lower_bound:
-                            proba_gt_lb += proba[:, idx]
-                    proba_le = 1 - proba_gt_lb
-                    y_pred_le = (proba_le >= 0.5).astype(int)
-                    acc_le = accuracy_score(y_true_le, y_pred_le)
-                    prec_le = precision_score(y_true_le, y_pred_le, zero_division=0)
-                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_lte_{lower_bound}_accuracy"].append(acc_le)
-                    param_metrics[param_key]['metrics'][f"{target_col}_{split_name}_lte_{lower_bound}_precision"].append(prec_le)
-
-    # Optionally fit final model on all train_valid data for each param set
-    if return_final_model:
-        for param_key, param_data in param_metrics.items():
-            model = model_wrapper_class(**param_data['params'])
-            y_full = train_valid_target[param_data['target_col']]
-            all_classes = sorted(y_full.unique())
-            class_to_idx = {c: i for i, c in enumerate(all_classes)}
-            y_full_encoded = y_full.map(class_to_idx)
-            model.fit(train_valid_df, y_full_encoded)
-            final_models[param_key] = model
-
-    if return_final_model:
-        return param_metrics, final_models
-    else:
-        return param_metrics
+    return metrics_dict, best_model
 
 def train_and_log_model(
     feature_df,
