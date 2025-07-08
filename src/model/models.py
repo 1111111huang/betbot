@@ -46,21 +46,25 @@ class MLPWithDropout(nn.Module):
         return self.network(x)
 
 class LSTMClassifier(nn.Module):
-    def __init__(self, input_dim, output_dim, seq_len, hidden_dim=128, num_layers=1):
+    def __init__(self, input_dim, output_dim, seq_len, hidden_dim=128, num_layers=1, use_layernorm=True):
         super().__init__()
         self.lstm = nn.LSTM(
             input_dim,
             hidden_dim,
             num_layers=num_layers,
             batch_first=True,
-            dropout=0.0  # No dropout
+            dropout=0.0
         )
+        self.use_layernorm = use_layernorm
+        if use_layernorm:
+            self.norm = nn.LayerNorm(hidden_dim)
         self.fc = nn.Linear(hidden_dim, output_dim)
 
     def forward(self, x):
-        # x: [batch, seq, features]
         _, (hn, _) = self.lstm(x)
-        out = hn[-1]  # last layer's hidden state
+        out = hn[-1]  # [batch, hidden_dim]
+        if self.use_layernorm:
+            out = self.norm(out)
         return self.fc(out)
 
 class TemporalBlock(nn.Module):

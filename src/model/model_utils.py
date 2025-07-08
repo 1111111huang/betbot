@@ -229,7 +229,9 @@ class TorchSequenceWrapper(ModelWrapper):
         criterion = nn.CrossEntropyLoss()
 
         self.model.train()
+        epoch_losses = []
         for epoch in range(self.epochs):
+            batch_losses = []
             for xb, yb in loader:
                 xb, yb = xb.to(self.device), yb.to(self.device)
                 optimizer.zero_grad()
@@ -237,6 +239,21 @@ class TorchSequenceWrapper(ModelWrapper):
                 loss = criterion(out, yb)
                 loss.backward()
                 optimizer.step()
+                batch_losses.append(loss.item())
+            avg_loss = np.mean(batch_losses)
+            epoch_losses.append(avg_loss)
+            # Optionally print progress
+            if (epoch + 1) % max(1, self.epochs // 10) == 0 or epoch == 0:
+                print(f"Epoch {epoch+1}/{self.epochs}, Loss: {avg_loss:.4f}")
+
+        # Plot loss curve
+        plt.figure(figsize=(8, 4))
+        plt.plot(range(1, self.epochs + 1), epoch_losses, marker='o')
+        plt.xlabel('Epoch')
+        plt.ylabel('Training Loss')
+        plt.title('Training Loss Curve')
+        plt.grid(True)
+        plt.show()
 
     def predict_proba(self, X):
         X = np.asarray(X).astype(np.float32)
