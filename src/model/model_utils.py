@@ -228,8 +228,19 @@ class TorchSequenceWrapper(ModelWrapper):
         optimizer = optim.Adam(self.model.parameters(), lr=self.learning_rate, weight_decay=self.weight_decay)
         criterion = nn.CrossEntropyLoss()
 
+        # --- Learning rate scheduler with warm-up ---
+        warmup_epochs = max(1, self.epochs // 10)
+        def lr_lambda(epoch):
+            if epoch < warmup_epochs:
+                return float(epoch + 1) / warmup_epochs
+            else:
+                return 1.0
+        scheduler = torch.optim.lr_scheduler.LambdaLR(optimizer, lr_lambda=lr_lambda)
+
         self.model.train()
         epoch_losses = []
+        lrs = []
+        max_grad_norm = 1.0  # gradient clipping value
         for epoch in range(self.epochs):
             batch_losses = []
             for xb, yb in loader:
@@ -238,21 +249,30 @@ class TorchSequenceWrapper(ModelWrapper):
                 out = self.model(xb)
                 loss = criterion(out, yb)
                 loss.backward()
+                torch.nn.utils.clip_grad_norm_(self.model.parameters(), max_grad_norm)  # gradient clipping
                 optimizer.step()
                 batch_losses.append(loss.item())
             avg_loss = np.mean(batch_losses)
             epoch_losses.append(avg_loss)
+            lrs.append(optimizer.param_groups[0]['lr'])
+            scheduler.step()
             # Optionally print progress
             if (epoch + 1) % max(1, self.epochs // 10) == 0 or epoch == 0:
-                print(f"Epoch {epoch+1}/{self.epochs}, Loss: {avg_loss:.4f}")
+                print(f"Epoch {epoch+1}/{self.epochs}, Loss: {avg_loss:.4f}, LR: {lrs[-1]:.6f}")
 
-        # Plot loss curve
-        plt.figure(figsize=(8, 4))
-        plt.plot(range(1, self.epochs + 1), epoch_losses, marker='o')
-        plt.xlabel('Epoch')
-        plt.ylabel('Training Loss')
-        plt.title('Training Loss Curve')
-        plt.grid(True)
+        # Plot loss and LR curve
+        fig, ax1 = plt.subplots(figsize=(8, 4))
+        ax1.plot(range(1, self.epochs + 1), epoch_losses, marker='o', label='Training Loss', color='tab:blue')
+        ax1.set_xlabel('Epoch')
+        ax1.set_ylabel('Training Loss', color='tab:blue')
+        ax1.tick_params(axis='y', labelcolor='tab:blue')
+        ax1.grid(True)
+        ax2 = ax1.twinx()
+        ax2.plot(range(1, self.epochs + 1), lrs, marker='x', label='Learning Rate', color='tab:orange')
+        ax2.set_ylabel('Learning Rate', color='tab:orange')
+        ax2.tick_params(axis='y', labelcolor='tab:orange')
+        plt.title('Training Loss and Learning Rate Curve')
+        fig.tight_layout()
         plt.show()
 
     def predict_proba(self, X):
