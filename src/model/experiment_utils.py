@@ -251,6 +251,7 @@ def run_multiclass_distribution_experiment(
     key_columns,
 ):
     mlflow.set_tracking_uri(uri)
+    mlflow.set_experiment(experiment_name)
     results = {}
     for target_col, (min_val, max_val) in target_ranges.items():
         feature_columns = [c for c in feature_df.columns if c not in key_columns]

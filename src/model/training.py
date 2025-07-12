@@ -8,6 +8,26 @@ from sklearn.model_selection import TimeSeriesSplit
 from sklearn.metrics import accuracy_score, precision_score
 from itertools import product
 
+def compute_threshold_metrics(y_true, y_pred, min_val, max_val):
+    """Compute accuracy and precision for lte and gt thresholds."""
+    metrics = {}
+    for thresh in range(min_val, max_val + 1):
+        # lte: true values <= thresh
+        mask_lte = y_true <= thresh
+        if np.any(mask_lte):
+            acc = accuracy_score(y_true[mask_lte], y_pred[mask_lte])
+            prec = precision_score(y_true[mask_lte], y_pred[mask_lte], average='macro', zero_division=0)
+            metrics[f"lte_{thresh}_accuracy"] = acc
+            metrics[f"lte_{thresh}_precision"] = prec
+        # gt: true values > thresh
+        mask_gt = y_true > thresh
+        if np.any(mask_gt):
+            acc = accuracy_score(y_true[mask_gt], y_pred[mask_gt])
+            prec = precision_score(y_true[mask_gt], y_pred[mask_gt], average='macro', zero_division=0)
+            metrics[f"gt_{thresh}_accuracy"] = acc
+            metrics[f"gt_{thresh}_precision"] = prec
+    return metrics
+
 def train_model_and_collect_metrics(
     feature,
     target,
@@ -48,9 +68,11 @@ def train_model_and_collect_metrics(
 
     for params in param_dicts:
         scores = []
+        threshold_metrics = {}
         if cv:
             for fold_idx, (train_idx, val_idx) in enumerate(cv.split(X_train)):
-                print(f"Training fold {fold_idx + 1}/{k} with params: {params}")
+                if verbose:
+                    print(f"Training fold {fold_idx + 1}/{k} with params: {params}")
                 X_tr, X_val = X_train[train_idx], X_train[val_idx]
                 y_tr, y_val = y_train[train_idx], y_train[val_idx]
                 model = model_wrapper_class(**params)
@@ -59,8 +81,15 @@ def train_model_and_collect_metrics(
                 acc = accuracy_score(y_val, y_pred)
                 prec = precision_score(y_val, y_pred, average='macro', zero_division=0)
                 scores.append({'accuracy': acc, 'precision': prec})
+
+                # Compute threshold metrics for each target
+                for target_col, (min_val, max_val) in target_ranges.items():
+                    th_metrics = compute_threshold_metrics(y_val, y_pred, min_val, max_val)
+                    for k_, v_ in th_metrics.items():
+                        threshold_metrics.setdefault(f"{target_col}_{k_}", []).append(v_)
         else:
-            print(f"Training single split with params: {params}")
+            if verbose:
+                print(f"Training single split with params: {params}")
             model = model_wrapper_class(**params)
             model.fit(X_train, y_train)
             y_pred = model.predict_proba(X_test).argmax(axis=1)
@@ -68,8 +97,17 @@ def train_model_and_collect_metrics(
             prec = precision_score(y_test, y_pred, average='macro', zero_division=0)
             scores.append({'accuracy': acc, 'precision': prec})
 
+            for target_col, (min_val, max_val) in target_ranges.items():
+                th_metrics = compute_threshold_metrics(y_test, y_pred, min_val, max_val)
+                for k_, v_ in th_metrics.items():
+                    threshold_metrics.setdefault(f"{target_col}_{k_}", []).append(v_)
+
         # Aggregate metrics
         avg_metrics = {k: np.mean([score[k] for score in scores]) for k in scores[0]}
+        # Add threshold metrics (mean over folds if CV)
+        for k_, v_ in threshold_metrics.items():
+            avg_metrics[k_] = np.mean(v_)
+            avg_metrics[k_ + "_std"] = np.std(v_)
         metrics_dict[str(params)] = avg_metrics
 
         if return_final_model:
