@@ -52,6 +52,22 @@ def train_model_and_collect_metrics(
     X_train, X_test = feature[:test_split], feature[test_split:]
     y_train, y_test = target[:test_split], target[test_split:]
 
+    # Explicit mapping from value to class index
+    if isinstance(y_train, pd.Series):
+        all_classes = sorted(y_train.unique())
+    else:
+        all_classes = sorted(np.unique(y_train))
+    class_to_idx = {c: i for i, c in enumerate(all_classes)}
+    idx_to_class = {i: c for c, i in class_to_idx.items()}
+
+    # Encode train/test labels
+    if isinstance(y_train, pd.Series):
+        y_train_encoded = y_train.map(class_to_idx).values
+        y_test_encoded = y_test.map(class_to_idx).values
+    else:
+        y_train_encoded = np.vectorize(class_to_idx.get)(y_train)
+        y_test_encoded = np.vectorize(class_to_idx.get)(y_test)
+
     # Use KFold or TimeSeriesSplit for cross-validation
     cv = TimeSeriesSplit(n_splits=k) if k > 1 else None
 
@@ -74,31 +90,36 @@ def train_model_and_collect_metrics(
                 if verbose:
                     print(f"Training fold {fold_idx + 1}/{k} with params: {params}")
                 X_tr, X_val = X_train[train_idx], X_train[val_idx]
-                y_tr, y_val = y_train[train_idx], y_train[val_idx]
+                y_tr, y_val = y_train_encoded[train_idx], y_train_encoded[val_idx]
                 model = model_wrapper_class(**params)
                 model.fit(X_tr, y_tr)
-                y_pred = model.predict_proba(X_val).argmax(axis=1)
-                acc = accuracy_score(y_val, y_pred)
-                prec = precision_score(y_val, y_pred, average='macro', zero_division=0)
+                y_pred_idx = model.predict_proba(X_val).argmax(axis=1)
+                # Map predictions and y_val back to original values
+                y_pred = np.vectorize(idx_to_class.get)(y_pred_idx)
+                y_val_orig = np.vectorize(idx_to_class.get)(y_val)
+                acc = accuracy_score(y_val_orig, y_pred)
+                prec = precision_score(y_val_orig, y_pred, average='macro', zero_division=0)
                 scores.append({'accuracy': acc, 'precision': prec})
 
                 # Compute threshold metrics for each target
                 for target_col, (min_val, max_val) in target_ranges.items():
-                    th_metrics = compute_threshold_metrics(y_val, y_pred, min_val, max_val)
+                    th_metrics = compute_threshold_metrics(y_val_orig, y_pred, min_val, max_val)
                     for k_, v_ in th_metrics.items():
                         threshold_metrics.setdefault(f"{target_col}_{k_}", []).append(v_)
         else:
             if verbose:
                 print(f"Training single split with params: {params}")
             model = model_wrapper_class(**params)
-            model.fit(X_train, y_train)
-            y_pred = model.predict_proba(X_test).argmax(axis=1)
-            acc = accuracy_score(y_test, y_pred)
-            prec = precision_score(y_test, y_pred, average='macro', zero_division=0)
+            model.fit(X_train, y_train_encoded)
+            y_pred_idx = model.predict_proba(X_test).argmax(axis=1)
+            y_pred = np.vectorize(idx_to_class.get)(y_pred_idx)
+            y_test_orig = np.vectorize(idx_to_class.get)(y_test_encoded)
+            acc = accuracy_score(y_test_orig, y_pred)
+            prec = precision_score(y_test_orig, y_pred, average='macro', zero_division=0)
             scores.append({'accuracy': acc, 'precision': prec})
 
             for target_col, (min_val, max_val) in target_ranges.items():
-                th_metrics = compute_threshold_metrics(y_test, y_pred, min_val, max_val)
+                th_metrics = compute_threshold_metrics(y_test_orig, y_pred, min_val, max_val)
                 for k_, v_ in th_metrics.items():
                     threshold_metrics.setdefault(f"{target_col}_{k_}", []).append(v_)
 

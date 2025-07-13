@@ -274,7 +274,14 @@ def run_multiclass_distribution_experiment(
         )
         # Log metrics to MLflow
         for param_set, metrics in param_metrics.items():
-            with mlflow.start_run(run_name=f"{model_name}_{target_col}_{param_set}"):
+            # Compose run_name as requested
+            if isinstance(param_set, dict):
+                param_data = {'target_col': target_col, 'params': param_set}
+                run_name = f"{model_name}_{param_data['target_col']}" + "_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
+            else:
+                param_data = {'target_col': target_col, 'params': {'param_set': param_set}}
+                run_name = f"{model_name}_{param_data['target_col']}" + "_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
+            with mlflow.start_run(run_name=run_name):
                 if isinstance(param_set, dict):
                     mlflow.log_params(param_set)
                 else:
@@ -300,8 +307,10 @@ def plot_run_metrics_side_by_side(experiment_name, model_name, model_param, trac
     # Build filter string for model_name and all param values
     filter_clauses = [f"params.model_name = '{model_name}'"]
     for k, v in model_param.items():
-        filter_clauses.append(f"params.{k} = '{v}'")
+        filter_clauses.append(f"params.{k}: '{v}'")
     filter_string = " and ".join(filter_clauses)
+
+    print(f"Searching for runs with filter: {filter_string}")
 
     runs = mlflow.search_runs(
         experiment_ids=[experiment.experiment_id],
@@ -407,6 +416,7 @@ def run_multiclass_distribution_experiment_seq(
     pad_value=0,
 ):
     mlflow.set_tracking_uri(uri)
+    mlflow.set_experiment(experiment_name)
     results = {}
     for target_col, (min_val, max_val) in target_ranges.items():
         print(f"Preparing sequence data for target: {target_col}")
@@ -434,7 +444,14 @@ def run_multiclass_distribution_experiment_seq(
         )
         # Log metrics to MLflow
         for param_set, metrics in param_metrics.items():
-            with mlflow.start_run(run_name=f"{model_name}_{target_col}_{param_set}"):
+            # Compose run_name as requested
+            if isinstance(param_set, dict):
+                param_data = {'target_col': target_col, 'params': param_set}
+                run_name = f"{model_name}_{param_data['target_col']}" + "_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
+            else:
+                param_data = {'target_col': target_col, 'params': {'param_set': param_set}}
+                run_name = f"{model_name}_{param_data['target_col']}" + "_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
+            with mlflow.start_run(run_name=run_name):
                 if isinstance(param_set, dict):
                     mlflow.log_params(param_set)
                 else:
