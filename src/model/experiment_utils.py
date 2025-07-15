@@ -274,6 +274,8 @@ def run_multiclass_distribution_experiment(
         )
         # Log metrics to MLflow
         for param_set, metrics in param_metrics.items():
+            import ast
+            param_set = ast.literal_eval(param_set)
             # Compose run_name as requested
             if isinstance(param_set, dict):
                 param_data = {'target_col': target_col, 'params': param_set}
@@ -281,6 +283,7 @@ def run_multiclass_distribution_experiment(
             else:
                 param_data = {'target_col': target_col, 'params': {'param_set': param_set}}
                 run_name = f"{model_name}_{param_data['target_col']}" + "_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
+            print(f"Starting MLflow run: {run_name}, params: {isinstance(param_set, dict)}")
             with mlflow.start_run(run_name=run_name):
                 if isinstance(param_set, dict):
                     mlflow.log_params(param_set)
