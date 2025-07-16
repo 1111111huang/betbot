@@ -111,9 +111,9 @@ def train_model_and_collect_metrics(
                 y_tr, y_val = y_train_encoded[train_idx], y_train_encoded[val_idx]
                 model = model_wrapper_class(**params)
                 if use_range_conversion:
-                    model.fit(X_tr, y_tr, range=target_range)
-                    y_val_pred_proba = model.predict_proba(X_val, range=target_range)
-                    y_tr_pred_proba = model.predict_proba(X_tr, range=target_range)
+                    model.fit(X_tr, y_tr, target_range=target_range)
+                    y_val_pred_proba = model.predict_proba(X_val, target_range=target_range)
+                    y_tr_pred_proba = model.predict_proba(X_tr, target_range=target_range)
                 else:
                     model.fit(X_tr, y_tr)
                     y_val_pred_proba = model.predict_proba(X_val)
@@ -152,8 +152,8 @@ def train_model_and_collect_metrics(
             # After CV, fit on all training data and evaluate on test set
             model = model_wrapper_class(**params)
             if use_range_conversion:
-                model.fit(X_train, y_train_encoded, range=target_range)
-                y_test_pred_proba = model.predict_proba(X_test, range=target_range)
+                model.fit(X_train, y_train_encoded, target_range=target_range)
+                y_test_pred_proba = model.predict_proba(X_test, target_range=target_range)
             else:
                 model.fit(X_train, y_train_encoded)
                 y_test_pred_proba = model.predict_proba(X_test)
@@ -180,9 +180,9 @@ def train_model_and_collect_metrics(
                 print(f"Training single split with params: {params}")
             model = model_wrapper_class(**params)
             if use_range_conversion:
-                model.fit(X_train, y_train_encoded, range=target_range)
-                y_test_pred_proba = model.predict_proba(X_test, range=target_range)
-                y_train_pred_proba = model.predict_proba(X_train, range=target_range)
+                model.fit(X_train, y_train_encoded, target_range=target_range)
+                y_test_pred_proba = model.predict_proba(X_test, target_range=target_range)
+                y_train_pred_proba = model.predict_proba(X_train, target_range=target_range)
             else:
                 model.fit(X_train, y_train_encoded)
                 y_test_pred_proba = model.predict_proba(X_test)

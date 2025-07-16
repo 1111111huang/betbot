@@ -77,25 +77,25 @@ class ModelWrapper(ABC):
         return mapping
 
     @abstractmethod
-    def fit(self, X, y, range=None):
+    def fit(self, X, y, target_range=None):
         """
         Fit the model.
         
         Args:
             X: input features
             y: target values (continuous)
-            range: tuple of (min, max) defining the range for class conversion
+            target_range: tuple of (min, max) defining the range for class conversion
         """
         pass
 
     @abstractmethod
-    def predict_proba(self, X, range=None):
+    def predict_proba(self, X, target_range=None):
         """
         Predict class probabilities.
         
         Args:
             X: input features
-            range: tuple of (min, max) defining the range for class conversion
+            target_range: tuple of (min, max) defining the range for class conversion
             
         Returns:
             array of shape (n_samples, n_classes) with class probabilities
@@ -115,9 +115,9 @@ class SklearnWrapper(ModelWrapper):
         super().__init__(**params)
         self.model = model_class(**params)
 
-    def fit(self, X, y, range=None):
-        if range is not None:
-            range_min, range_max = range
+    def fit(self, X, y, target_range=None):
+        if target_range is not None:
+            range_min, range_max = target_range
             self.range_min = range_min
             self.range_max = range_max
             y_classes = self._convert_to_classes(y, range_min, range_max)
@@ -129,10 +129,10 @@ class SklearnWrapper(ModelWrapper):
             
         self.model.fit(X, y_classes)
 
-    def predict_proba(self, X, range=None):
-        if range is not None and self.range_min is None:
+    def predict_proba(self, X, target_range=None):
+        if target_range is not None and self.range_min is None:
             # If range is provided but not set during fit, set it now
-            range_min, range_max = range
+            range_min, range_max = target_range
             self.range_min = range_min
             self.range_max = range_max
             self.class_mapping = self._get_class_mapping(range_min, range_max)
@@ -197,12 +197,12 @@ class TorchWrapper(ModelWrapper):
         self.input_dim = None
         self.output_dim = None
 
-    def fit(self, X, y, range=None):
+    def fit(self, X, y, target_range=None):
         X = np.asarray(X).astype(np.float32)
         y = np.asarray(y).astype(np.int64)
 
-        if range is not None:
-            range_min, range_max = range
+        if target_range is not None:
+            range_min, range_max = target_range
             self.range_min = range_min
             self.range_max = range_max
             y_classes = self._convert_to_classes(y, range_min, range_max)
@@ -254,12 +254,12 @@ class TorchWrapper(ModelWrapper):
             plt.show()
             print(f"Final training loss: {losses[-1]}")
 
-    def predict_proba(self, X, range=None):
+    def predict_proba(self, X, target_range=None):
         X = np.asarray(X).astype(np.float32)
         
-        if range is not None and self.range_min is None:
+        if target_range is not None and self.range_min is None:
             # If range is provided but not set during fit, set it now
-            range_min, range_max = range
+            range_min, range_max = target_range
             self.range_min = range_min
             self.range_max = range_max
             self.class_mapping = self._get_class_mapping(range_min, range_max)
@@ -341,13 +341,13 @@ class TorchSequenceWrapper(ModelWrapper):
             self.device = torch.device(device)
         self.model = None
 
-    def fit(self, X, y, range=None):
+    def fit(self, X, y, target_range=None):
         # X: [N, T, F], y: [N]
         X = np.asarray(X).astype(np.float32)
         y = np.asarray(y).astype(np.int64)
         
-        if range is not None:
-            range_min, range_max = range
+        if target_range is not None:
+            range_min, range_max = target_range
             self.range_min = range_min
             self.range_max = range_max
             y_classes = self._convert_to_classes(y, range_min, range_max)
@@ -422,12 +422,12 @@ class TorchSequenceWrapper(ModelWrapper):
         fig.tight_layout()
         plt.show()
 
-    def predict_proba(self, X, range=None):
+    def predict_proba(self, X, target_range=None):
         X = np.asarray(X).astype(np.float32)
         
-        if range is not None and self.range_min is None:
+        if target_range is not None and self.range_min is None:
             # If range is provided but not set during fit, set it now
-            range_min, range_max = range
+            range_min, range_max = target_range
             self.range_min = range_min
             self.range_max = range_max
             self.class_mapping = self._get_class_mapping(range_min, range_max)
