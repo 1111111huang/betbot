@@ -12,20 +12,21 @@ def compute_threshold_metrics(y_true, y_pred, min_val, max_val):
     """Compute accuracy and precision for lte and gt thresholds."""
     metrics = {}
     for thresh in range(min_val, max_val + 1):
-        # lte: true values <= thresh
-        mask_lte = y_true <= thresh
-        if np.any(mask_lte):
-            acc = accuracy_score(y_true[mask_lte], y_pred[mask_lte])
-            prec = precision_score(y_true[mask_lte], y_pred[mask_lte], average='macro', zero_division=0)
-            metrics[f"lte_{thresh}_accuracy"] = acc
-            metrics[f"lte_{thresh}_precision"] = prec
-        # gt: true values > thresh
-        mask_gt = y_true > thresh
-        if np.any(mask_gt):
-            acc = accuracy_score(y_true[mask_gt], y_pred[mask_gt])
-            prec = precision_score(y_true[mask_gt], y_pred[mask_gt], average='macro', zero_division=0)
-            metrics[f"gt_{thresh}_accuracy"] = acc
-            metrics[f"gt_{thresh}_precision"] = prec
+        if thresh == min_val:
+            # lte: true values <= thresh
+            mask_lte = y_true <= thresh
+            if np.any(mask_lte):
+                acc = accuracy_score(y_true[mask_lte], y_pred[mask_lte])
+                prec = precision_score(y_true[mask_lte], y_pred[mask_lte], average='macro', zero_division=0.0)
+                metrics[f"lte_{thresh}_accuracy"] = acc
+                metrics[f"lte_{thresh}_precision"] = prec
+        else:
+            mask_gt = y_true > thresh
+            if np.any(mask_gt):
+                acc = accuracy_score(y_true[mask_gt], y_pred[mask_gt])
+                prec = precision_score(y_true[mask_gt], y_pred[mask_gt], average='macro', zero_division=0.0)
+                metrics[f"gt_{thresh}_accuracy"] = acc
+                metrics[f"gt_{thresh}_precision"] = prec
     return metrics
 
 def train_model_and_collect_metrics(
@@ -45,6 +46,7 @@ def train_model_and_collect_metrics(
     Shared function for cross-validation, metric calculation, and (optionally) final model training.
     feature: numpy array [N, ...]
     target: numpy array [N] or [N, ...]
+    target_ranges: dict mapping target column names to (min, max) tuples for range-based class conversion
     """
 
     n_samples = len(feature)
@@ -52,29 +54,41 @@ def train_model_and_collect_metrics(
     X_train, X_test = feature[:test_split], feature[test_split:]
     y_train, y_test = target[:test_split], target[test_split:]
 
-    # Explicit mapping from value to class index
-    if isinstance(y_train, pd.Series):
-        all_classes = sorted(y_train.unique())
-    else:
-        all_classes = sorted(np.unique(y_train))
-    class_to_idx = {c: i for i, c in enumerate(all_classes)}
-    idx_to_class = {i: c for c, i in class_to_idx.items()}
+    use_range_conversion = False
+    target_range = None
+    if target_ranges and len(target_ranges) == 1:
+        target_col, (min_val, max_val) = list(target_ranges.items())[0]
+        target_range = (min_val, max_val)
+        use_range_conversion = True
+        if verbose:
+            print(f"Using range-based class conversion with range: {target_range}")
+    elif target_ranges and len(target_ranges) > 1:
+        if verbose:
+            print("Multiple targets detected. This function should be called for each target separately.")
 
-    # Encode train/test labels
-    if isinstance(y_train, pd.Series):
-        y_train_encoded = y_train.map(class_to_idx).values
-        y_test_encoded = y_test.map(class_to_idx).values
+    if use_range_conversion:
+        y_train_encoded = y_train
+        y_test_encoded = y_test
+        class_to_idx = None
+        idx_to_class = None
     else:
-        y_train_encoded = np.vectorize(class_to_idx.get)(y_train)
-        y_test_encoded = np.vectorize(class_to_idx.get)(y_test)
+        if isinstance(y_train, pd.Series):
+            all_classes = sorted(y_train.unique())
+        else:
+            all_classes = sorted(np.unique(y_train))
+        class_to_idx = {c: i for i, c in enumerate(all_classes)}
+        idx_to_class = {i: c for c, i in class_to_idx.items()}
+        if isinstance(y_train, pd.Series):
+            y_train_encoded = y_train.map(class_to_idx).values
+            y_test_encoded = y_test.map(class_to_idx).values
+        else:
+            y_train_encoded = np.vectorize(class_to_idx.get)(y_train)
+            y_test_encoded = np.vectorize(class_to_idx.get)(y_test)
 
-    # Use KFold or TimeSeriesSplit for cross-validation
     cv = TimeSeriesSplit(n_splits=k) if k > 1 else None
-
     metrics_dict = {}
     best_model = None
 
-    # Prepare param grid as list of dicts
     if isinstance(param_grid, dict) and param_grid:
         from itertools import product
         keys, values = zip(*param_grid.items())
@@ -83,8 +97,12 @@ def train_model_and_collect_metrics(
         param_dicts = [{}]
 
     for params in param_dicts:
-        scores = []
-        threshold_metrics = {}
+        train_scores = []
+        valid_scores = []
+        train_threshold_metrics = {}
+        valid_threshold_metrics = {}
+        test_scores = []
+        test_threshold_metrics = {}
         if cv:
             for fold_idx, (train_idx, val_idx) in enumerate(cv.split(X_train)):
                 if verbose:
@@ -92,48 +110,146 @@ def train_model_and_collect_metrics(
                 X_tr, X_val = X_train[train_idx], X_train[val_idx]
                 y_tr, y_val = y_train_encoded[train_idx], y_train_encoded[val_idx]
                 model = model_wrapper_class(**params)
-                model.fit(X_tr, y_tr)
-                y_pred_idx = model.predict_proba(X_val).argmax(axis=1)
-                # Map predictions and y_val back to original values
-                y_pred = np.vectorize(idx_to_class.get)(y_pred_idx)
-                y_val_orig = np.vectorize(idx_to_class.get)(y_val)
-                acc = accuracy_score(y_val_orig, y_pred)
-                prec = precision_score(y_val_orig, y_pred, average='macro', zero_division=0)
-                scores.append({'accuracy': acc, 'precision': prec})
-
-                # Compute threshold metrics for each target
+                if use_range_conversion:
+                    model.fit(X_tr, y_tr, range=target_range)
+                    y_val_pred_proba = model.predict_proba(X_val, range=target_range)
+                    y_tr_pred_proba = model.predict_proba(X_tr, range=target_range)
+                else:
+                    model.fit(X_tr, y_tr)
+                    y_val_pred_proba = model.predict_proba(X_val)
+                    y_tr_pred_proba = model.predict_proba(X_tr)
+                y_val_pred_idx = y_val_pred_proba.argmax(axis=1)
+                y_tr_pred_idx = y_tr_pred_proba.argmax(axis=1)
+                if use_range_conversion:
+                    y_val_pred = y_val_pred_idx
+                    y_val_orig = y_val
+                    y_tr_pred = y_tr_pred_idx
+                    y_tr_orig = y_tr
+                else:
+                    if idx_to_class is not None:
+                        y_val_pred = np.vectorize(idx_to_class.get)(y_val_pred_idx)
+                        y_val_orig = np.vectorize(idx_to_class.get)(y_val)
+                        y_tr_pred = np.vectorize(idx_to_class.get)(y_tr_pred_idx)
+                        y_tr_orig = np.vectorize(idx_to_class.get)(y_tr)
+                    else:
+                        y_val_pred = y_val_pred_idx
+                        y_val_orig = y_val
+                        y_tr_pred = y_tr_pred_idx
+                        y_tr_orig = y_tr
+                acc_valid = accuracy_score(y_val_orig, y_val_pred)
+                prec_valid = precision_score(y_val_orig, y_val_pred, average='macro', zero_division=0.0)
+                valid_scores.append({'accuracy': acc_valid, 'precision': prec_valid})
+                acc_train = accuracy_score(y_tr_orig, y_tr_pred)
+                prec_train = precision_score(y_tr_orig, y_tr_pred, average='macro', zero_division=0.0)
+                train_scores.append({'accuracy': acc_train, 'precision': prec_train})
                 for target_col, (min_val, max_val) in target_ranges.items():
-                    th_metrics = compute_threshold_metrics(y_val_orig, y_pred, min_val, max_val)
-                    for k_, v_ in th_metrics.items():
-                        threshold_metrics.setdefault(f"{target_col}_{k_}", []).append(v_)
+                    th_metrics_valid = compute_threshold_metrics(y_val_orig, y_val_pred, min_val, max_val)
+                    th_metrics_train = compute_threshold_metrics(y_tr_orig, y_tr_pred, min_val, max_val)
+                    for k_, v_ in th_metrics_valid.items():
+                        valid_threshold_metrics.setdefault(f"{target_col}_valid_{k_}", []).append(v_)
+                    for k_, v_ in th_metrics_train.items():
+                        train_threshold_metrics.setdefault(f"{target_col}_train_{k_}", []).append(v_)
+            # After CV, fit on all training data and evaluate on test set
+            model = model_wrapper_class(**params)
+            if use_range_conversion:
+                model.fit(X_train, y_train_encoded, range=target_range)
+                y_test_pred_proba = model.predict_proba(X_test, range=target_range)
+            else:
+                model.fit(X_train, y_train_encoded)
+                y_test_pred_proba = model.predict_proba(X_test)
+            y_test_pred_idx = y_test_pred_proba.argmax(axis=1)
+            if use_range_conversion:
+                y_test_pred = y_test_pred_idx
+                y_test_orig = y_test_encoded
+            else:
+                if idx_to_class is not None:
+                    y_test_pred = np.vectorize(idx_to_class.get)(y_test_pred_idx)
+                    y_test_orig = np.vectorize(idx_to_class.get)(y_test_encoded)
+                else:
+                    y_test_pred = y_test_pred_idx
+                    y_test_orig = y_test_encoded
+            acc_test = accuracy_score(y_test_orig, y_test_pred)
+            prec_test = precision_score(y_test_orig, y_test_pred, average='macro', zero_division=0.0)
+            test_scores = [{'accuracy': acc_test, 'precision': prec_test}]
+            for target_col, (min_val, max_val) in target_ranges.items():
+                th_metrics_test = compute_threshold_metrics(y_test_orig, y_test_pred, min_val, max_val)
+                for k_, v_ in th_metrics_test.items():
+                    test_threshold_metrics.setdefault(f"{target_col}_test_{k_}", []).append(v_)
         else:
             if verbose:
                 print(f"Training single split with params: {params}")
             model = model_wrapper_class(**params)
-            model.fit(X_train, y_train_encoded)
-            y_pred_idx = model.predict_proba(X_test).argmax(axis=1)
-            y_pred = np.vectorize(idx_to_class.get)(y_pred_idx)
-            y_test_orig = np.vectorize(idx_to_class.get)(y_test_encoded)
-            acc = accuracy_score(y_test_orig, y_pred)
-            prec = precision_score(y_test_orig, y_pred, average='macro', zero_division=0)
-            scores.append({'accuracy': acc, 'precision': prec})
-
+            if use_range_conversion:
+                model.fit(X_train, y_train_encoded, range=target_range)
+                y_test_pred_proba = model.predict_proba(X_test, range=target_range)
+                y_train_pred_proba = model.predict_proba(X_train, range=target_range)
+            else:
+                model.fit(X_train, y_train_encoded)
+                y_test_pred_proba = model.predict_proba(X_test)
+                y_train_pred_proba = model.predict_proba(X_train)
+            y_test_pred_idx = y_test_pred_proba.argmax(axis=1)
+            y_train_pred_idx = y_train_pred_proba.argmax(axis=1)
+            if use_range_conversion:
+                y_test_pred = y_test_pred_idx
+                y_test_orig = y_test_encoded
+                y_train_pred = y_train_pred_idx
+                y_train_orig = y_train_encoded
+            else:
+                if idx_to_class is not None:
+                    y_test_pred = np.vectorize(idx_to_class.get)(y_test_pred_idx)
+                    y_test_orig = np.vectorize(idx_to_class.get)(y_test_encoded)
+                    y_train_pred = np.vectorize(idx_to_class.get)(y_train_pred_idx)
+                    y_train_orig = np.vectorize(idx_to_class.get)(y_train_encoded)
+                else:
+                    y_test_pred = y_test_pred_idx
+                    y_test_orig = y_test_encoded
+                    y_train_pred = y_train_pred_idx
+                    y_train_orig = y_train_encoded
+            acc_test = accuracy_score(y_test_orig, y_test_pred)
+            prec_test = precision_score(y_test_orig, y_test_pred, average='macro', zero_division=0.0)
+            acc_train = accuracy_score(y_train_orig, y_train_pred)
+            prec_train = precision_score(y_train_orig, y_train_pred, average='macro', zero_division=0.0)
+            valid_scores = []  # No validation in single split
+            train_scores = [{'accuracy': acc_train, 'precision': prec_train}]
+            test_scores = [{'accuracy': acc_test, 'precision': prec_test}]
+            valid_threshold_metrics = {}
+            train_threshold_metrics = {}
+            test_threshold_metrics = {}
             for target_col, (min_val, max_val) in target_ranges.items():
-                th_metrics = compute_threshold_metrics(y_test_orig, y_pred, min_val, max_val)
-                for k_, v_ in th_metrics.items():
-                    threshold_metrics.setdefault(f"{target_col}_{k_}", []).append(v_)
-
+                th_metrics_test = compute_threshold_metrics(y_test_orig, y_test_pred, min_val, max_val)
+                th_metrics_train = compute_threshold_metrics(y_train_orig, y_train_pred, min_val, max_val)
+                for k_, v_ in th_metrics_test.items():
+                    test_threshold_metrics.setdefault(f"{target_col}_test_{k_}", []).append(v_)
+                for k_, v_ in th_metrics_train.items():
+                    train_threshold_metrics.setdefault(f"{target_col}_train_{k_}", []).append(v_)
         # Aggregate metrics
-        avg_metrics = {k: np.mean([score[k] for score in scores]) for k in scores[0]}
-        # Add threshold metrics (mean over folds if CV)
-        for k_, v_ in threshold_metrics.items():
+        avg_metrics = {}
+        # Train metrics
+        if train_scores:
+            for k in train_scores[0]:
+                avg_metrics[f"{target_col}_train_{k}"] = np.mean([score[k] for score in train_scores])
+        # Validation metrics
+        if valid_scores:
+            for k in valid_scores[0]:
+                avg_metrics[f"{target_col}_valid_{k}"] = np.mean([score[k] for score in valid_scores])
+        # Test metrics (always computed)
+        if test_scores:
+            for k in test_scores[0]:
+                avg_metrics[f"{target_col}_test_{k}"] = np.mean([score[k] for score in test_scores])
+        # Add threshold metrics
+        for k_, v_ in train_threshold_metrics.items():
+            avg_metrics[k_] = np.mean(v_)
+            avg_metrics[k_ + "_std"] = np.std(v_)
+        for k_, v_ in valid_threshold_metrics.items():
+            avg_metrics[k_] = np.mean(v_)
+            avg_metrics[k_ + "_std"] = np.std(v_)
+        for k_, v_ in test_threshold_metrics.items():
             avg_metrics[k_] = np.mean(v_)
             avg_metrics[k_ + "_std"] = np.std(v_)
         metrics_dict[str(params)] = avg_metrics
-
+        print(avg_metrics)
         if return_final_model:
             best_model = model
-
     return metrics_dict, best_model
 
 def train_and_log_model(
@@ -165,8 +281,7 @@ def train_and_log_model(
         k,
         key_columns,
         test_size,
-        return_final_model=True,
-        random_state=random_state
+        return_final_model=True
     )
 
     # Log average metrics across folds for each parameter combination and save model

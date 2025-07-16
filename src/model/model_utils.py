@@ -12,13 +12,94 @@ class ModelWrapper(ABC):
     """Abstract base class for model wrappers"""
     def __init__(self, **params):
         self.params = params
+        self.range_min = None
+        self.range_max = None
+        self.class_labels = None
+
+    def _convert_to_classes(self, y, range_min, range_max):
+        """
+        Convert continuous values to class labels based on range.
+        
+        Classes are:
+        - Class 0: values <= range_min
+        - Class 1: values > range_min and <= range_min + 1
+        - Class 2: values > range_min + 1 and <= range_min + 2
+        - ...
+        - Class N: values > range_max
+        
+        Args:
+            y: array-like of continuous values
+            range_min: minimum value for range
+            range_max: maximum value for range
+            
+        Returns:
+            class_labels: array of class indices
+        """
+        y = np.asarray(y)
+        class_labels = np.zeros_like(y, dtype=np.int64)
+        
+        # Create class boundaries
+        boundaries = list(range(range_min, range_max + 2))  # +2 to include > max class
+        
+        for i, boundary in enumerate(boundaries[:-1]):
+            if i == 0:
+                # First class: <= min
+                mask = y <= boundary
+            else:
+                # Other classes: > previous_boundary and <= current_boundary
+                mask = (y > boundaries[i-1]) & (y <= boundary)
+            class_labels[mask] = i
+        
+        # Last class: > max
+        class_labels[y > range_max] = len(boundaries) - 1
+        
+        return class_labels
+
+    def _get_class_mapping(self, range_min, range_max):
+        """
+        Get the mapping from class indices to value ranges.
+        
+        Returns:
+            dict: mapping from class index to (min_val, max_val, description)
+        """
+        boundaries = list(range(range_min, range_max + 2))
+        mapping = {}
+        
+        for i, boundary in enumerate(boundaries[:-1]):
+            if i == 0:
+                mapping[i] = (float('-inf'), boundary, f"≤ {boundary}")
+            else:
+                mapping[i] = (boundaries[i-1], boundary, f"{boundaries[i-1]+1}-{boundary}")
+        
+        # Last class: > max
+        mapping[len(boundaries) - 1] = (range_max, float('inf'), f"> {range_max}")
+        
+        return mapping
 
     @abstractmethod
-    def fit(self, X, y):
+    def fit(self, X, y, range=None):
+        """
+        Fit the model.
+        
+        Args:
+            X: input features
+            y: target values (continuous)
+            range: tuple of (min, max) defining the range for class conversion
+        """
         pass
 
     @abstractmethod
-    def predict_proba(self, X):
+    def predict_proba(self, X, range=None):
+        """
+        Predict class probabilities.
+        
+        Args:
+            X: input features
+            range: tuple of (min, max) defining the range for class conversion
+            
+        Returns:
+            array of shape (n_samples, n_classes) with class probabilities
+        """
         pass
 
     def save(self, path):
@@ -34,10 +115,28 @@ class SklearnWrapper(ModelWrapper):
         super().__init__(**params)
         self.model = model_class(**params)
 
-    def fit(self, X, y):
-        self.model.fit(X, y)
+    def fit(self, X, y, range=None):
+        if range is not None:
+            range_min, range_max = range
+            self.range_min = range_min
+            self.range_max = range_max
+            y_classes = self._convert_to_classes(y, range_min, range_max)
+            self.class_labels = y_classes
+            self.class_mapping = self._get_class_mapping(range_min, range_max)
+        else:
+            # Fallback to original behavior
+            y_classes = y
+            
+        self.model.fit(X, y_classes)
 
-    def predict_proba(self, X):
+    def predict_proba(self, X, range=None):
+        if range is not None and self.range_min is None:
+            # If range is provided but not set during fit, set it now
+            range_min, range_max = range
+            self.range_min = range_min
+            self.range_max = range_max
+            self.class_mapping = self._get_class_mapping(range_min, range_max)
+            
         return self.model.predict_proba(X)
 
     def save(self, path):
@@ -98,12 +197,24 @@ class TorchWrapper(ModelWrapper):
         self.input_dim = None
         self.output_dim = None
 
-    def fit(self, X, y):
+    def fit(self, X, y, range=None):
         X = np.asarray(X).astype(np.float32)
         y = np.asarray(y).astype(np.int64)
 
+        if range is not None:
+            range_min, range_max = range
+            self.range_min = range_min
+            self.range_max = range_max
+            y_classes = self._convert_to_classes(y, range_min, range_max)
+            self.class_labels = y_classes
+            self.class_mapping = self._get_class_mapping(range_min, range_max)
+            self.output_dim = len(self.class_mapping)
+        else:
+            # Fallback to original behavior
+            y_classes = y
+            self.output_dim = len(np.unique(y_classes))
+
         self.input_dim = X.shape[1]
-        self.output_dim = len(np.unique(y))
 
         # instantiate model
         self.model = self.model_class(
@@ -112,7 +223,7 @@ class TorchWrapper(ModelWrapper):
             **self.model_params
         ).to(self.device)
 
-        dataset = TensorDataset(torch.tensor(X), torch.tensor(y))
+        dataset = TensorDataset(torch.tensor(X), torch.tensor(y_classes))
         loader = DataLoader(dataset, batch_size=self.batch_size, shuffle=True)
 
         optimizer = optim.Adam(self.model.parameters(), lr=self.learning_rate, weight_decay=self.weight_decay)
@@ -143,8 +254,29 @@ class TorchWrapper(ModelWrapper):
             plt.show()
             print(f"Final training loss: {losses[-1]}")
 
-    def predict_proba(self, X):
+    def predict_proba(self, X, range=None):
         X = np.asarray(X).astype(np.float32)
+        
+        if range is not None and self.range_min is None:
+            # If range is provided but not set during fit, set it now
+            range_min, range_max = range
+            self.range_min = range_min
+            self.range_max = range_max
+            self.class_mapping = self._get_class_mapping(range_min, range_max)
+            self.output_dim = len(self.class_mapping)
+            
+            # Need to recreate model with correct output dimension
+            if self.model is None:
+                self.model = self.model_class(
+                    input_dim=self.input_dim,
+                    output_dim=self.output_dim,
+                    **self.model_params
+                ).to(self.device)
+        
+        if self.model is None:
+            raise ValueError("Model not fitted. Call fit() first.")
+            
+        assert self.model is not None  # Type checker hint
         self.model.eval()
 
         with torch.no_grad():
@@ -154,6 +286,8 @@ class TorchWrapper(ModelWrapper):
         return probs.cpu().numpy()
 
     def save(self, path):
+        if self.model is None:
+            raise ValueError("Model not fitted. Call fit() first.")
         torch.save(self.model.state_dict(), path)
 
     def load(self, path):
@@ -207,13 +341,26 @@ class TorchSequenceWrapper(ModelWrapper):
             self.device = torch.device(device)
         self.model = None
 
-    def fit(self, X, y):
+    def fit(self, X, y, range=None):
         # X: [N, T, F], y: [N]
         X = np.asarray(X).astype(np.float32)
         y = np.asarray(y).astype(np.int64)
+        
+        if range is not None:
+            range_min, range_max = range
+            self.range_min = range_min
+            self.range_max = range_max
+            y_classes = self._convert_to_classes(y, range_min, range_max)
+            self.class_labels = y_classes
+            self.class_mapping = self._get_class_mapping(range_min, range_max)
+            self.output_dim = len(self.class_mapping)
+        else:
+            # Fallback to original behavior
+            y_classes = y
+            self.output_dim = len(np.unique(y_classes))
+            
         self.input_dim = X.shape[2]
         self.seq_len = X.shape[1]
-        self.output_dim = len(np.unique(y))
 
         self.model = self.model_class(
             input_dim=self.input_dim,
@@ -222,7 +369,7 @@ class TorchSequenceWrapper(ModelWrapper):
             **self.model_params
         ).to(self.device)
 
-        dataset = TensorDataset(torch.tensor(X), torch.tensor(y))
+        dataset = TensorDataset(torch.tensor(X), torch.tensor(y_classes))
         loader = DataLoader(dataset, batch_size=self.batch_size, shuffle=True)
 
         optimizer = optim.Adam(self.model.parameters(), lr=self.learning_rate, weight_decay=self.weight_decay)
@@ -275,8 +422,30 @@ class TorchSequenceWrapper(ModelWrapper):
         fig.tight_layout()
         plt.show()
 
-    def predict_proba(self, X):
+    def predict_proba(self, X, range=None):
         X = np.asarray(X).astype(np.float32)
+        
+        if range is not None and self.range_min is None:
+            # If range is provided but not set during fit, set it now
+            range_min, range_max = range
+            self.range_min = range_min
+            self.range_max = range_max
+            self.class_mapping = self._get_class_mapping(range_min, range_max)
+            self.output_dim = len(self.class_mapping)
+            
+            # Need to recreate model with correct output dimension
+            if self.model is None:
+                self.model = self.model_class(
+                    input_dim=self.input_dim,
+                    output_dim=self.output_dim,
+                    seq_len=self.seq_len,
+                    **self.model_params
+                ).to(self.device)
+        
+        if self.model is None:
+            raise ValueError("Model not fitted. Call fit() first.")
+            
+        assert self.model is not None  # Type checker hint
         self.model.eval()
         with torch.no_grad():
             X_tensor = torch.tensor(X).to(self.device)

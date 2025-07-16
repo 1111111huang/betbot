@@ -16,10 +16,11 @@ def plot_metrics_for_target_and_model(
     experiment_name, target_col, model_name, tracking_uri, top_n=5
 ):
     mlflow.set_tracking_uri(tracking_uri)
+    mlflow.set_experiment(experiment_name)
     experiment = mlflow.get_experiment_by_name(experiment_name)
 
     # Search runs
-    filter_string = f"params.target = '{target_col}' and params.model_name = '{model_name}'"
+    filter_string = f"params.target_col = '{target_col}' and params.model_name = '{model_name}'"
     runs = mlflow.search_runs(
         experiment_ids=[experiment.experiment_id],
         filter_string=filter_string,
@@ -211,8 +212,6 @@ def plot_run_metrics_by_split(experiment_name, run_name, target_col, tracking_ur
                     [f"lte_{k.split('_')[-2]}" for k, _ in lte_metrics] +
                     [f"gt_{k.split('_')[-2]}" for k, _ in gt_metrics]
                 )
-                print(lte_metrics, gt_metrics)
-                print(x_labels)
             
             values = []
             for label in x_labels:
@@ -283,17 +282,16 @@ def run_multiclass_distribution_experiment(
             else:
                 param_data = {'target_col': target_col, 'params': {'param_set': param_set}}
                 run_name = f"{model_name}_{param_data['target_col']}" + "_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
-            print(f"Starting MLflow run: {run_name}, params: {isinstance(param_set, dict)}")
             with mlflow.start_run(run_name=run_name):
                 if isinstance(param_set, dict):
                     mlflow.log_params(param_set)
                 else:
                     mlflow.log_param("param_set", param_set)
                 mlflow.log_param("target_col", target_col)
+                mlflow.log_param("model_name", model_name)
                 for metric_name, metric_val in metrics.items():
                     mlflow.log_metric(metric_name, metric_val)
             results[(target_col, str(param_set))] = metrics
-    return results
 
 def plot_run_metrics_side_by_side(experiment_name, model_name, model_param, tracking_uri, metric_type="accuracy"):
     """
@@ -460,7 +458,7 @@ def run_multiclass_distribution_experiment_seq(
                 else:
                     mlflow.log_param("param_set", param_set)
                 mlflow.log_param("target_col", target_col)
+                mlflow.log_param("model_name", model_name)
                 for metric_name, metric_val in metrics.items():
                     mlflow.log_metric(metric_name, metric_val)
             results[(target_col, str(param_set))] = metrics
-    return results
