@@ -195,6 +195,7 @@ def plot_run_metrics_by_split(experiment_name, run_name, target_col, tracking_ur
                 k.endswith(f"_{metric_type}") and 
                 not k.endswith("_std")
             }
+            print(split_metrics)
             
             if not x_labels:
                 # Create x_labels based on metric types in a specific order
@@ -247,8 +248,7 @@ def run_multiclass_distribution_experiment(
     model_name,
     k,
     key_columns,
-    save_model_path=None,
-):
+    save_model_path=None,):
     import joblib
     mlflow.set_tracking_uri(uri)
     mlflow.set_experiment(experiment_name)
@@ -318,7 +318,7 @@ def plot_run_metrics_side_by_side(experiment_name, model_name, model_param, trac
     # Build filter string for model_name and all param values
     filter_clauses = [f"params.model_name = '{model_name}'"]
     for k, v in model_param.items():
-        filter_clauses.append(f"params.{k}: '{v}'")
+        filter_clauses.append(f"params.{k}= '{v}'")
     filter_string = " and ".join(filter_clauses)
 
     print(f"Searching for runs with filter: {filter_string}")
@@ -340,7 +340,7 @@ def plot_run_metrics_side_by_side(experiment_name, model_name, model_param, trac
 
     for idx, (_, run) in enumerate(runs.iterrows(), 1):
         ax = plt.subplot(n_rows, n_cols, idx)
-        target_col = run["params.target"]
+        target_col = run["params.target_col"]
         run_name = run.get("tags.mlflow.runName", "")
         splits = ["train", "valid", "test"]
 
