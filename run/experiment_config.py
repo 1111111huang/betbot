@@ -1,4 +1,4 @@
-from const import PROCESSED_DATA_PATH, FEATURES_PATH
+from const import PROCESSED_DATA_PATH, FEATURES_PATH, MODELS_PATH
 TARGET_RANGES={
     'home_goals': [0,5],
     'away_goals': [0,6],
@@ -26,6 +26,7 @@ SEASONS=[
 COMPETITION = 'premier_league'
 COMP_PROCESSED_DATA_PATH=f'{PROCESSED_DATA_PATH}/{COMPETITION}/'
 COMP_FEATURES_PATH=f'{FEATURES_PATH}/{COMPETITION}/'
+SAVE_MODEL_PATH=f'{MODELS_PATH}/experiment/{COMPETITION}/'
 
 TEST_SIZE = 0.1
 VALIDATION_SIZE = 0.2
@@ -45,5 +46,6 @@ TRAINGING_CONFIG = {
     'validation_size': VALIDATION_SIZE,
     'random_state': RANDOM_STATE,
     'experiment_name': EXPERIMENT_NAME,
-    'key_columns': KEY_COLUMNS
+    'key_columns': KEY_COLUMNS,
+    'save_model_path': SAVE_MODEL_PATH
 }

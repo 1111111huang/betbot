@@ -11,10 +11,9 @@ from src.model.experiment_utils import *
 from itertools import product
 import mlflow
 from itertools import product
+import os
 
-def plot_metrics_for_target_and_model(
-    experiment_name, target_col, model_name, tracking_uri, top_n=5
-):
+def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, tracking_uri, top_n=5):
     mlflow.set_tracking_uri(tracking_uri)
     mlflow.set_experiment(experiment_name)
     experiment = mlflow.get_experiment_by_name(experiment_name)
@@ -248,7 +247,9 @@ def run_multiclass_distribution_experiment(
     model_name,
     k,
     key_columns,
+    save_model_path=None,
 ):
+    import joblib
     mlflow.set_tracking_uri(uri)
     mlflow.set_experiment(experiment_name)
     results = {}
@@ -258,7 +259,7 @@ def run_multiclass_distribution_experiment(
         target = target_df[target_col].values
 
         print(f"Training {model_name} on {target_col} with param grid: {model_param_grid}")
-        param_metrics, _ = train_model_and_collect_metrics(
+        param_metrics, final_models = train_model_and_collect_metrics(
             feature=feature,
             target=target,
             target_ranges={target_col: (min_val, max_val)},
@@ -267,30 +268,39 @@ def run_multiclass_distribution_experiment(
             k=k,
             key_columns=key_columns,
             test_size=test_size,
-            return_final_model=False,
+            return_final_model=True,
             include_key_columns=False,
             verbose=True
         )
-        # Log metrics to MLflow
+        # Log metrics and models to MLflow
         for param_set, metrics in param_metrics.items():
             import ast
-            param_set = ast.literal_eval(param_set)
+            param_set_eval = ast.literal_eval(param_set)
             # Compose run_name as requested
-            if isinstance(param_set, dict):
-                param_data = {'target_col': target_col, 'params': param_set}
+            if isinstance(param_set_eval, dict):
+                param_data = {'target_col': target_col, 'params': param_set_eval}
                 run_name = f"{model_name}_{param_data['target_col']}" + "_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
             else:
-                param_data = {'target_col': target_col, 'params': {'param_set': param_set}}
+                param_data = {'target_col': target_col, 'params': {'param_set': param_set_eval}}
                 run_name = f"{model_name}_{param_data['target_col']}" + "_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
             with mlflow.start_run(run_name=run_name):
-                if isinstance(param_set, dict):
-                    mlflow.log_params(param_set)
+                if isinstance(param_set_eval, dict):
+                    mlflow.log_params(param_set_eval)
                 else:
-                    mlflow.log_param("param_set", param_set)
+                    mlflow.log_param("param_set", param_set_eval)
                 mlflow.log_param("target_col", target_col)
                 mlflow.log_param("model_name", model_name)
                 for metric_name, metric_val in metrics.items():
                     mlflow.log_metric(metric_name, metric_val)
+                # Save and log model
+                if final_models is not None and param_set in final_models:
+                    model = final_models[param_set]
+                    if save_model_path is not None:
+                        os.makedirs(save_model_path, exist_ok=True)
+                        model_file_name = f"{run_name}.joblib"
+                        model_file_path = os.path.join(save_model_path, model_file_name)
+                        joblib.dump(model, model_file_path)
+                        mlflow.log_artifact(model_file_path, artifact_path="model")
             results[(target_col, str(param_set))] = metrics
 
 def plot_run_metrics_side_by_side(experiment_name, model_name, model_param, tracking_uri, metric_type="accuracy"):
@@ -415,7 +425,9 @@ def run_multiclass_distribution_experiment_seq(
     key_columns,
     sequence_length=5,
     pad_value=0,
+    save_model_path=None,
 ):
+    import joblib
     mlflow.set_tracking_uri(uri)
     mlflow.set_experiment(experiment_name)
     results = {}
@@ -430,7 +442,7 @@ def run_multiclass_distribution_experiment_seq(
         print(f"  X_seq shape: {X_seq.shape}, y_seq shape: {y_seq.shape}")
 
         print(f"Training {model_name} on {target_col} with param grid: {model_param_grid}")
-        param_metrics, _ = train_model_and_collect_metrics(
+        param_metrics, final_models = train_model_and_collect_metrics(
             feature=X_seq,
             target=y_seq,
             target_ranges={target_col: (min_val, max_val)},
@@ -439,26 +451,37 @@ def run_multiclass_distribution_experiment_seq(
             k=k,
             key_columns=key_columns,
             test_size=test_size,
-            return_final_model=False,
+            return_final_model=True,
             include_key_columns=False,
             verbose=True
         )
-        # Log metrics to MLflow
+        # Log metrics and models to MLflow
         for param_set, metrics in param_metrics.items():
+            import ast
+            param_set_eval = ast.literal_eval(param_set)
             # Compose run_name as requested
-            if isinstance(param_set, dict):
-                param_data = {'target_col': target_col, 'params': param_set}
+            if isinstance(param_set_eval, dict):
+                param_data = {'target_col': target_col, 'params': param_set_eval}
                 run_name = f"{model_name}_{param_data['target_col']}" + "_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
             else:
-                param_data = {'target_col': target_col, 'params': {'param_set': param_set}}
+                param_data = {'target_col': target_col, 'params': {'param_set': param_set_eval}}
                 run_name = f"{model_name}_{param_data['target_col']}" + "_" + "_".join(f"{k}={v}" for k, v in param_data['params'].items())
             with mlflow.start_run(run_name=run_name):
-                if isinstance(param_set, dict):
-                    mlflow.log_params(param_set)
+                if isinstance(param_set_eval, dict):
+                    mlflow.log_params(param_set_eval)
                 else:
-                    mlflow.log_param("param_set", param_set)
+                    mlflow.log_param("param_set", param_set_eval)
                 mlflow.log_param("target_col", target_col)
                 mlflow.log_param("model_name", model_name)
                 for metric_name, metric_val in metrics.items():
                     mlflow.log_metric(metric_name, metric_val)
+                # Save and log model
+                if final_models is not None and param_set in final_models:
+                    model = final_models[param_set]
+                    if save_model_path is not None:
+                        os.makedirs(save_model_path, exist_ok=True)
+                        model_file_name = f"{run_name}.joblib"
+                        model_file_path = os.path.join(save_model_path, model_file_name)
+                        joblib.dump(model, model_file_path)
+                        mlflow.log_artifact(model_file_path, artifact_path="model")
             results[(target_col, str(param_set))] = metrics
