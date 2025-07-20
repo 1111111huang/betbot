@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score, precision_score
 from itertools import product
 
 def compute_threshold_metrics(y_true, y_pred, min_val, max_val, class_mapping=None):
-    """Compute binary accuracy and precision for each threshold, using class mapping if provided."""
+    """Compute binary accuracy and precision for lte_min, gt_min, gt_min+1 ... gt_max+1 thresholds, using class mapping if provided."""
     metrics = {}
     # If class_mapping is provided, map class indices to value upper bounds
     if class_mapping is not None:
@@ -23,17 +23,22 @@ def compute_threshold_metrics(y_true, y_pred, min_val, max_val, class_mapping=No
     y_true_val = np.where(y_true_val == np.inf, max_val + 1, y_true_val)
     y_pred_val = np.where(y_pred_val == -np.inf, min_val - 1, y_pred_val)
     y_pred_val = np.where(y_pred_val == np.inf, max_val + 1, y_pred_val)
-    for thresh in range(min_val, max_val + 1):
-        # Binary mapping: 0 if value <= thresh, 1 if value > thresh
-        y_true_bin = (y_true_val > thresh).astype(int)
-        y_pred_bin = (y_pred_val > thresh).astype(int)
+    # lte_min_value
+    lte_thresh = min_val
+    y_true_bin = (y_true_val <= lte_thresh).astype(int)
+    y_pred_bin = (y_pred_val <= lte_thresh).astype(int)
+    acc = accuracy_score(y_true_bin, y_pred_bin)
+    prec = precision_score(y_true_bin, y_pred_bin, average='binary', zero_division=0.0)
+    metrics[f"lte_{lte_thresh}_accuracy"] = acc
+    metrics[f"lte_{lte_thresh}_precision"] = prec
+    # gt_min_value, gt_min_value+1, ..., gt_max_value
+    for t in range(min_val, max_val + 1):
+        y_true_bin = (y_true_val > t).astype(int)
+        y_pred_bin = (y_pred_val > t).astype(int)
         acc = accuracy_score(y_true_bin, y_pred_bin)
         prec = precision_score(y_true_bin, y_pred_bin, average='binary', zero_division=0.0)
-        metrics[f"lte_{thresh}_accuracy"] = acc
-        metrics[f"lte_{thresh}_precision"] = prec
-        # Optionally, you can also add gt metrics (which are just the inverse)
-        # metrics[f"gt_{thresh}_accuracy"] = acc
-        # metrics[f"gt_{thresh}_precision"] = prec
+        metrics[f"gt_{t}_accuracy"] = acc
+        metrics[f"gt_{t}_precision"] = prec
     return metrics
 
 def train_model_and_collect_metrics(
