@@ -6,6 +6,3 @@ data/
 __pycache__/
 mlflow/
 models/experiments/
-
-!notebooks/data/
-!src/data/
