@@ -10,7 +10,7 @@ from src.data.match_data_processing import process_match_target_var, process_mat
 
 if __name__=='__main__':
     for season in PROCESSED_DATA_CONFIG['seasons']:
-        season_path=f'{RAW_DATA_PATH}/{season}/'
+        season_path=f'{RAW_DATA_PATH}/{PROCESSED_DATA_CONFIG['competition']}/{season}/'
         processed_path=f'{PROCESSED_DATA_CONFIG['processed_path']}/{season}/'
         if not os.path.exists(processed_path):
             os.makedirs(processed_path)
