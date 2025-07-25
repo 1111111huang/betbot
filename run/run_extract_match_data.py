@@ -25,7 +25,7 @@ if __name__=='__main__':
         target_df.to_csv(f'{processed_path}/all_target_df.csv', index=False)
     
     for season in PROCESSED_DATA_CONFIG['seasons']:
-        season_path=f'{RAW_DATA_PATH}/{season}/'
+        season_path=f'{RAW_DATA_PATH}/{PROCESSED_DATA_CONFIG['competition']}/{season}/'
         processed_path=f'{PROCESSED_DATA_CONFIG['processed_path']}/{season}/'
         all_matches=pd.read_csv(f'{season_path}/all_matches.csv').iloc[:,1].tolist()
         data_df=[]
