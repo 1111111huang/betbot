@@ -2,6 +2,7 @@ from const import REPO_PATH
 from data_etl_config import FEATURE_CONFIG
 import sys
 sys.path.insert(1, f"{REPO_PATH}")
+import os
 
 import pandas as pd
 from src.feature.feature_encoders import TeamEncoder, TeamLagFeatureGenerator, PreviousSeasonTeamAverager, TeamRestDaysCalculator, TeamLagTargetFeature
@@ -50,5 +51,7 @@ if __name__ == '__main__':
     combined_features = combined_features.merge(team_rest_days_features, on=key_columns, how='inner')
     combined_features = combined_features.merge(team_lag_target_df, on=key_columns, how='inner')
     print('Combined features shape:', combined_features.shape)
+    if not os.path.exists(FEATURE_CONFIG['features_path']):
+            os.makedirs(FEATURE_CONFIG['features_path'])
     combined_features.to_csv(f"{FEATURE_CONFIG['features_path']}/all_combined_features_2017-24.csv", index=False)
 
