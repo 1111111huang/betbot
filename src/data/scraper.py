@@ -19,7 +19,7 @@ def get_season_match_links(url):
     links = list(set([l for l in links if '/matches/' in l and len(l)>22]))
     return links
 
-def scrape_season_match_data(url, dest):
+def scrape_season_match_data(url, dest, verbose=True):
     if not os.path.exists(dest):
         os.makedirs(dest)
     links = get_season_match_links(url)
@@ -32,9 +32,11 @@ def scrape_season_match_data(url, dest):
         existing_df = pd.read_csv(csv_path, index_col=0)
         if all_matches_df.equals(existing_df):
             already_scraped_flag = True
-            print("all_matches.csv already exists and is identical. Skipping save.")
+            if verbose:
+                print("all_matches.csv already exists and is identical. Skipping save.")
         else:
-            print("all_matches.csv exists but is different. Overwriting.")
+            if verbose:
+                print("all_matches.csv exists but is different. Overwriting.")
             all_matches_df.to_csv(csv_path)
     else:
         all_matches_df.to_csv(csv_path)
@@ -47,7 +49,8 @@ def scrape_season_match_data(url, dest):
         away_player_stat_path = f'{dest}/{match_id}_away_player_stat.csv'
         shot_stat_path = f'{dest}/{match_id}_shot_stat.csv'
         if all(os.path.exists(p) for p in [match_stat_path, home_player_stat_path, away_player_stat_path, shot_stat_path]):
-            print(f"Files for match {match_id} already exist. Skipping.")
+            if verbose:
+                print(f"Files for match {match_id} already exist. Skipping.")
             continue
 
         dfs = pd.read_html(f"https://fbref.com{link}")
