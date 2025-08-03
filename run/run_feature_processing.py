@@ -36,7 +36,7 @@ if __name__ == '__main__':
     team_rest_days_features = team_rest_days_calculator.transform(data_dfs[1:]).reset_index(drop=True)
 
     lag_target_feature = TeamLagTargetFeature()
-    team_lag_target_df = lag_target_feature.transform(data_dfs[1:], target_dfs[1:]).reset_index(drop=True)
+    team_lag_target_df = lag_target_feature.transform(data_dfs[1:], target_dfs).reset_index(drop=True)
 
 
     print('Team rest days features shape:', team_rest_days_features.shape)
