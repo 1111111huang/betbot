@@ -13,7 +13,7 @@ TARGET_COLUMNS=[
 
 URLs={
     'premier_league':{
-        '2024-25': "https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures",
+        '2024-25': "https://fbref.com/en/comps/9/2024-2025/schedule/2024-2025-Premier-League-Scores-and-Fixtures",
         '2023-24': "https://fbref.com/en/comps/9/2023-2024/schedule/2023-2024-Premier-League-Scores-and-Fixtures",
         '2022-23': "https://fbref.com/en/comps/9/2022-2023/schedule/2022-2023-Premier-League-Scores-and-Fixtures",
         '2021-22': "https://fbref.com/en/comps/9/2021-2022/schedule/2021-2022-Premier-League-Scores-and-Fixtures",
@@ -25,7 +25,7 @@ URLs={
         '2015-16': "https://fbref.com/en/comps/9/2015-2016/schedule/2015-2016-Premier-League-Scores-and-Fixtures",
     },
     'la_liga': {
-        '2024-25': "https://fbref.com/en/comps/12/schedule/La-Liga-Scores-and-Fixtures",
+        '2024-25': "https://fbref.com/en/comps/12/2024-2025/schedule/2024-2025-La-Liga-Scores-and-Fixtures",
         '2023-24': "https://fbref.com/en/comps/12/2023-2024/schedule/2023-2024-La-Liga-Scores-and-Fixtures",
         '2022-23': "https://fbref.com/en/comps/12/2022-2023/schedule/2022-2023-La-Liga-Scores-and-Fixtures",
         '2021-22': "https://fbref.com/en/comps/12/2021-2022/schedule/2021-2022-La-Liga-Scores-and-Fixtures",

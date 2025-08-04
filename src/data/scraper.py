@@ -60,4 +60,4 @@ def scrape_season_match_data(url, dest, verbose=True):
         results[1].to_csv(home_player_stat_path)
         results[2].to_csv(away_player_stat_path)
         results[3].to_csv(shot_stat_path)
-        time.sleep(20)
+        time.sleep(25)

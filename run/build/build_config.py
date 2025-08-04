@@ -16,4 +16,4 @@ ALL_SEASONS = [
 CURRENT_SEASON = '2024-25'
 assert CURRENT_SEASON in ALL_SEASONS, f"Current season {CURRENT_SEASON} is not in the list of all seasons."
 
-COMPETITIONS = ('premier_league',)
+COMPETITIONS = ('premier_league',)# 'la_liga')
