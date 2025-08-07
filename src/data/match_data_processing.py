@@ -48,8 +48,8 @@ def process_match_target_var(home_df, away_df, match_df, match_name):
     targets={
         'home_goals': home_df.loc[home_ind, 'performance_gls']+away_df.loc[away_ind, 'performance_og'],
         'away_goals': away_df.loc[away_ind, 'performance_gls']+home_df.loc[home_ind, 'performance_og'],
-        'home_corners': home_df.loc[home_ind, 'corner_kicks_in']+home_df.loc[home_ind, 'corner_kicks_out']+home_df.loc[home_ind, 'corner_kicks_str'],
-        'away_corners': away_df.loc[away_ind, 'corner_kicks_in']+away_df.loc[away_ind, 'corner_kicks_out']+away_df.loc[away_ind, 'corner_kicks_str'],
+        'home_corners': home_df.loc[home_ind, 'pass_types_ck'],
+        'away_corners': away_df.loc[away_ind, 'pass_types_ck'],
         'home_cards': home_df.loc[home_ind, 'performance_crdy'],
         'away_cards': away_df.loc[away_ind, 'performance_crdy'],
         'home_shots': home_df.loc[home_ind, 'performance_sh'],
