@@ -9,6 +9,8 @@ from src.feature.feature_encoders import TeamEncoder, TeamLagFeatureGenerator, P
 
 if __name__=='__main__':
 
-    #scrape_competitions_for_seasons(ALL_SEASONS, RAW_DATA_PATH, COMPETITIONS, URLs)
+    scrape_competitions_for_seasons(ALL_SEASONS, RAW_DATA_PATH, COMPETITIONS, URLs)
 
     process_raw_match_data(COMPETITIONS, ALL_SEASONS, RAW_DATA_PATH, PROCESSED_DATA_PATH, TARGET_COLUMNS)
+
+    

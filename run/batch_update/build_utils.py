@@ -90,3 +90,4 @@ def process_raw_match_data(all_competitions, all_seasons, raw_data_path, process
                     data_df.append(process_match_other_var(home_df, away_df, match_df, match_name, target_columns))
                 data_df = pd.concat(data_df, axis=0)
                 data_df.to_csv(f'{processed_path}/all_data_df.csv', index=False)
+
