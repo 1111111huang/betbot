@@ -30,16 +30,16 @@ def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, t
         print("No matching runs found.")
         return
 
-    # Extract test metrics without standard deviations
+    # Extract valid metrics without standard deviations
     metric_rows = []
     for _, run in runs.iterrows():
         run_id = run["run_id"]
         run_name = run.get("tags.mlflow.runName", run_id)
         metrics = {}
         
-        # Look for all test metrics in the run using exact metric names
+        # Look for all valid metrics in the run using exact metric names
         for k, v in run.items():
-            if (f"{target_col}_test_") in k and \
+            if (f"{target_col}_valid_") in k and \
                 ("_accuracy" in k or "_precision" in k) and \
                 not k.endswith("_std"):
                 metrics[k] = v
@@ -52,10 +52,10 @@ def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, t
             })
 
     if not metric_rows:
-        print("No test metrics found.")
+        print("No valid metrics found.")
         return
 
-    # Calculate average test metrics for ranking
+    # Calculate average valid metrics for ranking
     avg_scores = []
     for row in metric_rows:
         metrics = row["metrics"]
@@ -64,13 +64,13 @@ def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, t
         avg_scores.append({
             "run_id": row["run_id"],
             "run_name": row["run_name"],
-            "avg_test_accuracy": avg_acc,
-            "avg_test_precision": avg_prec
+            "avg_valid_accuracy": avg_acc,
+            "avg_valid_precision": avg_prec
         })
     
     avg_scores_df = pd.DataFrame(avg_scores)
-    top_acc_runs = avg_scores_df.nlargest(top_n, "avg_test_accuracy")
-    top_prec_runs = avg_scores_df.nlargest(top_n, "avg_test_precision")
+    top_acc_runs = avg_scores_df.nlargest(top_n, "avg_valid_accuracy")
+    top_prec_runs = avg_scores_df.nlargest(top_n, "avg_valid_precision")
 
     # Create figure with subplots vertically arranged
     fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(15, 16))
@@ -90,7 +90,7 @@ def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, t
             # First add lte metrics
             lte_metrics = sorted(
                 [(k, v) for k, v in metrics.items() 
-                 if f"{target_col}_test_lte_" in k and f"_{metric_type}" in k],
+                 if f"{target_col}_valid_lte_" in k and f"_{metric_type}" in k],
                 key=lambda x: int(x[0].split("_")[-2])
             )
             for k, v in lte_metrics:
@@ -100,7 +100,7 @@ def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, t
             # Then add gt metrics
             gt_metrics = sorted(
                 [(k, v) for k, v in metrics.items() 
-                 if f"{target_col}_test_gt_" in k and f"_{metric_type}" in k],
+                 if f"{target_col}_valid_gt_" in k and f"_{metric_type}" in k],
                 key=lambda x: int(x[0].split("_")[-2])
             )
             for k, v in gt_metrics:
@@ -108,7 +108,7 @@ def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, t
                 values.append(v)
             
             # Finally add top1 if present
-            top1_key = f"{target_col}_test_top1_{metric_type}"
+            top1_key = f"{target_col}_valid_top1_{metric_type}"
             if top1_key in metrics:
                 x_labels.append("top1")
                 values.append(metrics[top1_key])
@@ -116,9 +116,9 @@ def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, t
             ax.plot(x_labels, values, marker='o', label=run_data["run_name"],
                    markersize=8, linewidth=2)
         
-        ax.set_title(f'Test {metric_type.capitalize()} Metrics (Top {top_n} Models)')
+        ax.set_title(f'Valid {metric_type.capitalize()} Metrics (Top {top_n} Models)')
         ax.set_xlabel('Metric Type')
-        ax.set_ylabel(f'Test {metric_type.capitalize()}')
+        ax.set_ylabel(f'Valid {metric_type.capitalize()}')
         ax.grid(True)
         ax.legend(bbox_to_anchor=(1.02, 1), loc='upper left')
         plt.setp(ax.get_xticklabels(), rotation=45)
