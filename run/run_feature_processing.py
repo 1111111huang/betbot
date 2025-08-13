@@ -21,7 +21,7 @@ if __name__ == '__main__':
     encoder.save(f"{FEATURE_CONFIG['data_processor_path']}/team_encoder.pkl")
 
     encoder = TeamEncoder.load(f"{FEATURE_CONFIG['data_processor_path']}/team_encoder.pkl")
-    #team_encoding_df = encoder.transform(data_dfs).reset_index(drop=True)
+    team_encoding_df = encoder.transform(data_dfs).reset_index(drop=True)
 
     # Previous Season Team Average
     previous_season_feature= PreviousSeasonTeamAverager(decay_factor=1, date_col='date', home_col='home', away_col='away')
@@ -41,13 +41,13 @@ if __name__ == '__main__':
 
     print('Team rest days features shape:', team_rest_days_features.shape)
     print('Team lag features shape:', team_lag_feature_df.shape)
-    #print('Team encoding features shape:', team_encoding_df.shape)
+    print('Team encoding features shape:', team_encoding_df.shape)
     print('Previous season features shape:', prev_season_feature_df.shape)
     print('Team lag target features shape:', team_lag_target_df.shape)
 
     # Combine all features
-    #combined_features = team_encoding_df.merge(prev_season_feature_df, on=key_columns, how='inner')
-    combined_features = team_lag_feature_df#combined_features.merge(team_lag_feature_df, on=key_columns, how='inner')
+    combined_features = team_encoding_df.merge(prev_season_feature_df, on=key_columns, how='inner')
+    combined_features = combined_features.merge(team_lag_feature_df, on=key_columns, how='inner')
     combined_features = combined_features.merge(team_rest_days_features, on=key_columns, how='inner')
     combined_features = combined_features.merge(team_lag_target_df, on=key_columns, how='inner')
     print('Combined features shape:', combined_features.shape)

@@ -32,7 +32,7 @@ TEST_SIZE = 0.1
 VALIDATION_SIZE = 0.2
 RANDOM_STATE = 42
 
-EXPERIMENT_NAME = "mlflow_distribution_ts_5fold_0.5train_2017-24_lag_target_norm-2024-08-11"
+EXPERIMENT_NAME = "mlflow_distribution_ts_5fold_0.5train_2017-24_lag_target_norm-2024-08-13"
 
 KEY_COLUMNS=['home', 'away', 'date']
 

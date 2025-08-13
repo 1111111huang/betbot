@@ -85,6 +85,8 @@ class TeamEncoder:
 
         # Transform the seasons after the first `history` seasons
         transform_seasons = season_dfs_list[self.history:]
+        home_categories = set(self.encoder.categories_[0])
+        away_categories = set(self.encoder.categories_[1])
 
         for season_idx, df in enumerate(transform_seasons):
             df = df.copy()
@@ -98,23 +100,18 @@ class TeamEncoder:
                 home_team = row[self.home_col]
                 away_team = row[self.away_col]
 
-                home_new = home_team not in team_last_seen_season
-                away_new = away_team not in team_last_seen_season
-
                 team_match_counts.setdefault(home_team, 0)
                 team_match_counts.setdefault(away_team, 0)
 
-                if home_new and team_match_counts[home_team] < self.n_first_matches:
+                if home_team not in home_categories:
                     encoded_home.append('new_team_home')
                 else:
                     encoded_home.append(home_team)
 
-                if away_new and team_match_counts[away_team] < self.n_first_matches:
+                if away_team not in away_categories:
                     encoded_away.append('new_team_away')
                 else:
                     encoded_away.append(away_team)
-
-                team_match_counts[home_team] += 1
                 team_match_counts[away_team] += 1
 
             df['encoded_home'] = encoded_home
@@ -170,18 +167,18 @@ class TeamEncoder:
             df = df.sort_values(self.date_col)
             encoded_home = []
             encoded_away = []
+            home_categories = set(self.encoder.categories_[0])
+            away_categories = set(self.encoder.categories_[1])
             for _, row in df.iterrows():
                 home_team = row[self.home_col]
                 away_team = row[self.away_col]
-                home_new = home_team not in team_last_seen_season
-                away_new = away_team not in team_last_seen_season
                 team_match_counts.setdefault(home_team, 0)
                 team_match_counts.setdefault(away_team, 0)
-                if home_new and team_match_counts[home_team] < self.n_first_matches:
+                if home_team not in home_categories:
                     encoded_home.append('new_team_home')
                 else:
                     encoded_home.append(home_team)
-                if away_new and team_match_counts[away_team] < self.n_first_matches:
+                if away_team not in away_categories:
                     encoded_away.append('new_team_away')
                 else:
                     encoded_away.append(away_team)
