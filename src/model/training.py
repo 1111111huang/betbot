@@ -48,10 +48,8 @@ def train_model_and_collect_metrics(
     model_wrapper_class,
     param_grid,  # dict of param_name: list of values, or single dict for one param set
     k,
-    key_columns,
     test_size,
     return_final_model=False,
-    include_key_columns=False,
     verbose=True
 ):
     """

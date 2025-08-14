@@ -158,6 +158,7 @@ class TorchWrapper(ModelWrapper):
         batch_size=64,
         epochs=20,
         weight_decay=1e-4,
+        l2_reg=0.0,
         device='auto',  # <=== NEW: device param
         show_graph=None,  # allow override
         **kwargs
@@ -169,6 +170,7 @@ class TorchWrapper(ModelWrapper):
             batch_size=batch_size,
             epochs=epochs,
             weight_decay=weight_decay,
+            l2_reg=l2_reg,
             device=device
         )
 
@@ -178,6 +180,7 @@ class TorchWrapper(ModelWrapper):
         self.batch_size = batch_size
         self.epochs = epochs
         self.weight_decay = weight_decay
+        self.l2_reg = l2_reg
         self.show_graph = self.__class__.show_graph if show_graph is None else show_graph
 
         # === device auto-selection ===
@@ -240,6 +243,12 @@ class TorchWrapper(ModelWrapper):
                 optimizer.zero_grad()
                 logits = self.model(xb)
                 loss = criterion(logits, yb)
+                # Add l2 regularization if specified
+                if self.l2_reg > 0:
+                    l2_loss = 0.0
+                    for param in self.model.parameters():
+                        l2_loss += torch.sum(param ** 2)
+                    loss = loss + self.l2_reg * l2_loss
                 loss.backward()
                 optimizer.step()
                 epoch_loss += loss.item() * xb.size(0)

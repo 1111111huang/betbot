@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
     # Combine all features
     combined_features = team_encoding_df.merge(prev_season_feature_df, on=key_columns, how='inner')
-    combined_features = combined_features.merge(team_lag_feature_df, on=key_columns, how='inner')
+    combined_features = team_lag_feature_df#combined_features.merge(team_lag_feature_df, on=key_columns, how='inner')
     combined_features = combined_features.merge(team_rest_days_features, on=key_columns, how='inner')
     combined_features = combined_features.merge(team_lag_target_df, on=key_columns, how='inner')
     print('Combined features shape:', combined_features.shape)
@@ -65,5 +65,5 @@ if __name__ == '__main__':
     scaler_path = os.path.join(encoder_folder, 'standard_scaler.pkl')
     joblib.dump(scaler, scaler_path)
     print(f"StandardScaler saved to {scaler_path}")
-    combined_features.to_csv(f"{FEATURE_CONFIG['features_path']}/all_combined_features_2017-24.csv", index=False)
+    combined_features.to_csv(f"{FEATURE_CONFIG['features_path']}/all_combined_features_no_team_2017-24.csv", index=False)
 
