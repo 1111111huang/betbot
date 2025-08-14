@@ -6,6 +6,8 @@ import os
 
 import pandas as pd
 from src.feature.feature_encoders import TeamEncoder, TeamLagFeatureGenerator, PreviousSeasonTeamAverager, TeamRestDaysCalculator, TeamLagTargetFeature
+from sklearn.preprocessing import StandardScaler
+import joblib
 
 if __name__ == '__main__':
     seasons=sorted(FEATURE_CONFIG['seasons'])
@@ -53,5 +55,15 @@ if __name__ == '__main__':
     print('Combined features shape:', combined_features.shape)
     if not os.path.exists(FEATURE_CONFIG['features_path']):
             os.makedirs(FEATURE_CONFIG['features_path'])
-    combined_features.to_csv(f"{FEATURE_CONFIG['features_path']}/all_combined_features_no_team_2017-24.csv", index=False)
+    # Identify one-hot encoded columns (from TeamEncoder)
+    onehot_prefixes = ['encoded_home', 'encoded_away']
+    numerical_cols = [col for col in combined_features.columns if (combined_features[col].dtype in ['float64', 'int64']) and not any(col.startswith(prefix) for prefix in onehot_prefixes)]
+    scaler = StandardScaler()
+    combined_features[numerical_cols] = scaler.fit_transform(combined_features[numerical_cols])
+    # Save scaler to the same folder as the encoder
+    encoder_folder = FEATURE_CONFIG['data_processor_path']
+    scaler_path = os.path.join(encoder_folder, 'standard_scaler.pkl')
+    joblib.dump(scaler, scaler_path)
+    print(f"StandardScaler saved to {scaler_path}")
+    combined_features.to_csv(f"{FEATURE_CONFIG['features_path']}/all_combined_features_2017-24.csv", index=False)
 

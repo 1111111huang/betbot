@@ -130,6 +130,7 @@ def train_model_and_collect_metrics(
                     model.fit(X_tr, y_tr)
                     y_val_pred_proba = model.predict_proba(X_val)
                     y_tr_pred_proba = model.predict_proba(X_tr)
+                
                 y_val_pred_idx = y_val_pred_proba.argmax(axis=1)
                 y_tr_pred_idx = y_tr_pred_proba.argmax(axis=1)
                 if use_range_conversion:
