@@ -13,13 +13,15 @@ import mlflow
 from itertools import product
 import os
 
-def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, tracking_uri, top_n=5):
+def plot_metrics_for_target_and_model(experiment_name, target_col, model_name=None, tracking_uri=None, top_n=5):
     mlflow.set_tracking_uri(tracking_uri)
     mlflow.set_experiment(experiment_name)
     experiment = mlflow.get_experiment_by_name(experiment_name)
 
     # Search runs
-    filter_string = f"params.target_col = '{target_col}' and params.model_name = '{model_name}'"
+    filter_string = f"params.target_col = '{target_col}'"
+    if model_name is not None:
+        filter_string += f" and params.model_name = '{model_name}'"
     runs = mlflow.search_runs(
         experiment_ids=[experiment.experiment_id],
         filter_string=filter_string,
@@ -72,9 +74,16 @@ def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, t
     top_acc_runs = avg_scores_df.nlargest(top_n, "avg_valid_accuracy")
     top_prec_runs = avg_scores_df.nlargest(top_n, "avg_valid_precision")
 
-    # Create figure with subplots vertically arranged
-    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(15, 16))
-    
+    # Create figure with subplots vertically arranged, width at least 50% of the figure width
+    fig_width = 16
+    fig_height = 16
+    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(fig_width, fig_height))
+
+    def wrap_label(label, width=30):
+        # Wrap label to multiple lines if too long
+        import textwrap
+        return '\n'.join(textwrap.wrap(label, width))
+
     for ax, metric_type, top_runs in [
         (ax1, "accuracy", top_acc_runs),
         (ax2, "precision", top_prec_runs)
@@ -82,11 +91,11 @@ def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, t
         for _, run in top_runs.iterrows():
             run_data = next(r for r in metric_rows if r["run_id"] == run["run_id"])
             metrics = run_data["metrics"]
-            
+
             # Collect metrics by type
             x_labels = []
             values = []
-            
+
             # First add lte metrics
             lte_metrics = sorted(
                 [(k, v) for k, v in metrics.items() 
@@ -96,7 +105,7 @@ def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, t
             for k, v in lte_metrics:
                 x_labels.append(f"lte_{k.split('_')[-2]}")
                 values.append(v)
-            
+
             # Then add gt metrics
             gt_metrics = sorted(
                 [(k, v) for k, v in metrics.items() 
@@ -106,16 +115,18 @@ def plot_metrics_for_target_and_model(experiment_name, target_col, model_name, t
             for k, v in gt_metrics:
                 x_labels.append(f"gt_{k.split('_')[-2]}")
                 values.append(v)
-            
+
             # Finally add top1 if present
             top1_key = f"{target_col}_valid_top1_{metric_type}"
             if top1_key in metrics:
                 x_labels.append("top1")
                 values.append(metrics[top1_key])
-            
-            ax.plot(x_labels, values, marker='o', label=run_data["run_name"],
-                   markersize=8, linewidth=2)
-        
+
+            # Wrap long run names for legend
+            legend_label = wrap_label(run_data["run_name"], width=max(30, fig_width*2))
+            ax.plot(x_labels, values, marker='o', label=legend_label,
+                   markersize=8,)
+
         ax.set_title(f'Valid {metric_type.capitalize()} Metrics (Top {top_n} Models)')
         ax.set_xlabel('Metric Type')
         ax.set_ylabel(f'Valid {metric_type.capitalize()}')
@@ -266,10 +277,8 @@ def run_multiclass_distribution_experiment(
             model_wrapper_class=model_wrapper_class,
             param_grid=model_param_grid,
             k=k,
-            key_columns=key_columns,
             test_size=test_size,
             return_final_model=True,
-            include_key_columns=False,
             verbose=True
         )
         # Log metrics and models to MLflow
