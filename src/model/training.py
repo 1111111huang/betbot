@@ -8,7 +8,7 @@ from sklearn.model_selection import TimeSeriesSplit
 from sklearn.metrics import accuracy_score, precision_score
 from itertools import product
 
-def compute_threshold_metrics(y_true, y_pred, min_val, max_val, class_mapping=None):
+def compute_acc_threshold_metrics(y_true, y_pred, min_val, max_val, class_mapping=None):
     """Compute binary accuracy and precision for lte_min, gt_min, gt_min+1 ... gt_max+1 thresholds, using class mapping if provided."""
     metrics = {}
     # If class_mapping is provided, map class indices to value upper bounds
@@ -39,6 +39,50 @@ def compute_threshold_metrics(y_true, y_pred, min_val, max_val, class_mapping=No
         prec = precision_score(y_true_bin, y_pred_bin, average='binary', zero_division=0.0)
         metrics[f"gt_{t}_accuracy"] = acc
         metrics[f"gt_{t}_precision"] = prec
+    return metrics
+
+def compute_threshold_metrics(y_true, y_pred, min_val, max_val, class_mapping=None):
+    """Compute binary accuracy and precision for lte_min, min+1, min+2, ..., max, gt_max thresholds, using class mapping if provided."""
+    metrics = {}
+    # If class_mapping is provided, map class indices to value upper bounds
+    if class_mapping is not None:
+        y_true_val = np.array([class_mapping[c][1] for c in y_true])
+        y_pred_val = np.array([class_mapping[c][1] for c in y_pred])
+    else:
+        y_true_val = y_true
+        y_pred_val = y_pred
+    
+    # Substitute -inf and inf for edge classes
+    y_true_val = np.where(y_true_val == -np.inf, min_val - 1, y_true_val)
+    y_true_val = np.where(y_true_val == np.inf, max_val + 1, y_true_val)
+    y_pred_val = np.where(y_pred_val == -np.inf, min_val - 1, y_pred_val)
+    y_pred_val = np.where(y_pred_val == np.inf, max_val + 1, y_pred_val)
+    
+    # lte_min_value
+    y_true_bin = (y_true_val <= min_val).astype(int)
+    y_pred_bin = (y_pred_val <= min_val).astype(int)
+    acc = accuracy_score(y_true_bin, y_pred_bin)
+    prec = precision_score(y_true_bin, y_pred_bin, average='binary', zero_division=0.0)
+    metrics[f"lte_{min_val}_accuracy"] = acc
+    metrics[f"lte_{min_val}_precision"] = prec
+    
+    # exact values from min+1 to max
+    for val in range(min_val + 1, max_val + 1):
+        y_true_bin = (y_true_val == val).astype(int)
+        y_pred_bin = (y_pred_val == val).astype(int)
+        acc = accuracy_score(y_true_bin, y_pred_bin)
+        prec = precision_score(y_true_bin, y_pred_bin, average='binary', zero_division=0.0)
+        metrics[f"eq_{val}_accuracy"] = acc
+        metrics[f"eq_{val}_precision"] = prec
+    
+    # gt_max_value
+    y_true_bin = (y_true_val > max_val).astype(int)
+    y_pred_bin = (y_pred_val > max_val).astype(int)
+    acc = accuracy_score(y_true_bin, y_pred_bin)
+    prec = precision_score(y_true_bin, y_pred_bin, average='binary', zero_division=0.0)
+    metrics[f"gt_{max_val}_accuracy"] = acc
+    metrics[f"gt_{max_val}_precision"] = prec
+
     return metrics
 
 def train_model_and_collect_metrics(
@@ -245,16 +289,16 @@ def train_model_and_collect_metrics(
         avg_metrics = {}
         # Train metrics
         if train_scores:
-            for k in train_scores[0]:
-                avg_metrics[f"{target_col}_train_{k}"] = np.mean([score[k] for score in train_scores])
+            for k_ in train_scores[0]:
+                avg_metrics[f"{target_col}_train_{k_}"] = np.mean([score[k_] for score in train_scores])
         # Validation metrics
         if valid_scores:
-            for k in valid_scores[0]:
-                avg_metrics[f"{target_col}_valid_{k}"] = np.mean([score[k] for score in valid_scores])
+            for k_ in valid_scores[0]:
+                avg_metrics[f"{target_col}_valid_{k_}"] = np.mean([score[k_] for score in valid_scores])
         # Test metrics (always computed)
         if test_scores:
-            for k in test_scores[0]:
-                avg_metrics[f"{target_col}_test_{k}"] = np.mean([score[k] for score in test_scores])
+            for k_ in test_scores[0]:
+                avg_metrics[f"{target_col}_test_{k_}"] = np.mean([score[k_] for score in test_scores])
         # Add threshold metrics
         for k_, v_ in train_threshold_metrics.items():
             avg_metrics[k_] = np.mean(v_)

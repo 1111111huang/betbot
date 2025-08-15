@@ -22,6 +22,8 @@ INPUT_CSV_PATHS = {
     'premier_league': 'data/inputs/2025-26-01.csv',
 }
 
+OUTPUT_CSV_PATH = 'data/outputs/'
+
 TARGET_RANGES={
     'home_goals': [0,5],
     'away_goals': [0,6],

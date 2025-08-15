@@ -96,31 +96,35 @@ def plot_metrics_for_target_and_model(experiment_name, target_col, model_name=No
             x_labels = []
             values = []
 
-            # First add lte metrics
+            # First add lte metrics (should be only one for min value)
             lte_metrics = sorted(
                 [(k, v) for k, v in metrics.items() 
                  if f"{target_col}_valid_lte_" in k and f"_{metric_type}" in k],
                 key=lambda x: int(x[0].split("_")[-2])
             )
             for k, v in lte_metrics:
-                x_labels.append(f"lte_{k.split('_')[-2]}")
+                x_labels.append(f"≤{k.split('_')[-2]}")
                 values.append(v)
 
-            # Then add gt metrics
+            # Then add eq metrics
+            eq_metrics = sorted(
+                [(k, v) for k, v in metrics.items() 
+                 if f"{target_col}_valid_eq_" in k and f"_{metric_type}" in k],
+                key=lambda x: int(x[0].split("_")[-2])
+            )
+            for k, v in eq_metrics:
+                x_labels.append(f"={k.split('_')[-2]}")
+                values.append(v)
+
+            # Finally add gt metric (should be only one for max value)
             gt_metrics = sorted(
                 [(k, v) for k, v in metrics.items() 
                  if f"{target_col}_valid_gt_" in k and f"_{metric_type}" in k],
                 key=lambda x: int(x[0].split("_")[-2])
             )
             for k, v in gt_metrics:
-                x_labels.append(f"gt_{k.split('_')[-2]}")
+                x_labels.append(f">{k.split('_')[-2]}")
                 values.append(v)
-
-            # Finally add top1 if present
-            top1_key = f"{target_col}_valid_top1_{metric_type}"
-            if top1_key in metrics:
-                x_labels.append("top1")
-                values.append(metrics[top1_key])
 
             # Wrap long run names for legend
             legend_label = wrap_label(run_data["run_name"], width=max(30, fig_width*2))
@@ -214,14 +218,14 @@ def plot_run_metrics_by_split(experiment_name, run_name, target_col, tracking_ur
                     [(k, v) for k, v in split_metrics.items() if "_lte_" in k],
                     key=lambda x: int(x[0].split("_")[-2])
                 )
-                gt_metrics = sorted(
-                    [(k, v) for k, v in split_metrics.items() if "_gt_" in k],
+                exact_metrics = sorted(
+                    [(k, v) for k, v in split_metrics.items() if "_exact_" in k],
                     key=lambda x: int(x[0].split("_")[-2])
                 )
                 
                 x_labels = (
                     [f"lte_{k.split('_')[-2]}" for k, _ in lte_metrics] +
-                    [f"gt_{k.split('_')[-2]}" for k, _ in gt_metrics]
+                    [f"exact_{k.split('_')[-2]}" for k, _ in exact_metrics]
                 )
             
             values = []
@@ -231,7 +235,7 @@ def plot_run_metrics_by_split(experiment_name, run_name, target_col, tracking_ur
                     key = f"metrics.{target_col}_{split}_lte_{threshold}_{metric_type}"
                 else:  # gt
                     threshold = label.split("_")[1]
-                    key = f"metrics.{target_col}_{split}_gt_{threshold}_{metric_type}"
+                    key = f"metrics.{target_col}_{split}_exact_{threshold}_{metric_type}"
                 values.append(run[key])
             
             ax.plot(x_labels, values, marker='o', label=split,
@@ -366,13 +370,13 @@ def plot_run_metrics_side_by_side(experiment_name, model_name, model_param, trac
             key=lambda x: int(x[0].split("_")[-2])
         )
         # gt metrics
-        gt_metrics = sorted(
-            [(k, v) for k, v in test_metrics.items() if "_gt_" in k],
+        exact_metrics = sorted(
+            [(k, v) for k, v in test_metrics.items() if "_exact_" in k],
             key=lambda x: int(x[0].split("_")[-2])
         )
         # Compose x_labels and values
-        x_labels = [f"lte_{k.split('_')[-2]}" for k, _ in lte_metrics] + [f"gt_{k.split('_')[-2]}" for k, _ in gt_metrics]
-        values = [v for _, v in lte_metrics] + [v for _, v in gt_metrics]
+        x_labels = [f"lte_{k.split('_')[-2]}" for k, _ in lte_metrics] + [f"exact_{k.split('_')[-2]}" for k, _ in exact_metrics]
+        values = [v for _, v in lte_metrics] + [v for _, v in exact_metrics]
 
         ax.plot(x_labels, values, marker='o', linewidth=2)
         ax.set_title(target_col)
