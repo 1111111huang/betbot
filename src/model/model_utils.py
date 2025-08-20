@@ -159,7 +159,9 @@ class TorchWrapper(ModelWrapper):
         epochs=20,
         weight_decay=1e-4,
         l2_reg=0.0,
-        device='auto',  # <=== NEW: device param
+        patience=5,  # NEW: early stopping patience
+        min_delta=1e-4,  # NEW: minimum change to be considered an improvement
+        device='auto',
         show_graph=None,  # allow override
         **kwargs
     ):
@@ -171,6 +173,8 @@ class TorchWrapper(ModelWrapper):
             epochs=epochs,
             weight_decay=weight_decay,
             l2_reg=l2_reg,
+            patience=patience,
+            min_delta=min_delta,
             device=device
         )
 
@@ -181,6 +185,8 @@ class TorchWrapper(ModelWrapper):
         self.epochs = epochs
         self.weight_decay = weight_decay
         self.l2_reg = l2_reg
+        self.patience = patience
+        self.min_delta = min_delta
         self.show_graph = self.__class__.show_graph if show_graph is None else show_graph
 
         # === device auto-selection ===
@@ -199,6 +205,8 @@ class TorchWrapper(ModelWrapper):
         self.model = None
         self.input_dim = None
         self.output_dim = None
+        self.best_model_state = None
+        self.best_loss = float('inf')
 
     def fit(self, X, y, target_range=None):
         X = np.asarray(X).astype(np.float32)
@@ -234,6 +242,13 @@ class TorchWrapper(ModelWrapper):
 
         losses = []
         self.model.train()
+        
+        # Early stopping variables
+        best_loss = float('inf')
+        best_epoch = 0
+        epochs_without_improvement = 0
+        self.best_model_state = None
+
         for epoch in range(self.epochs):
             epoch_loss = 0.0
             for xb, yb in loader:
@@ -252,16 +267,43 @@ class TorchWrapper(ModelWrapper):
                 loss.backward()
                 optimizer.step()
                 epoch_loss += loss.item() * xb.size(0)
+            
             avg_loss = epoch_loss / len(dataset)
             losses.append(avg_loss)
+
+            # Early stopping check
+            if avg_loss < best_loss - self.min_delta:
+                best_loss = avg_loss
+                best_epoch = epoch
+                epochs_without_improvement = 0
+                # Save best model state
+                self.best_model_state = {k: v.cpu().clone() for k, v in self.model.state_dict().items()}
+            else:
+                epochs_without_improvement += 1
+
+            if epochs_without_improvement >= self.patience:
+                print(f"Early stopping triggered at epoch {epoch+1}. Best loss was at epoch {best_epoch+1}")
+                # Restore best model
+                self.model.load_state_dict(self.best_model_state)
+                break
+
         if self.show_graph:
-            plt.figure()
-            plt.plot(range(1, self.epochs + 1), losses, marker='o')
+            plt.figure(figsize=(10, 5))
+            plt.plot(range(1, len(losses) + 1), losses, marker='o')
+            plt.axvline(x=best_epoch + 1, color='r', linestyle='--', 
+                       label=f'Best epoch ({best_epoch + 1})')
             plt.xlabel('Epoch')
             plt.ylabel('Loss')
             plt.title('Training Loss over Epochs')
+            plt.legend()
+            plt.grid(True)
             plt.show()
-            print(f"Final training loss: {losses[-1]}")
+            print(f"Best loss: {best_loss:.6f} at epoch {best_epoch + 1}")
+            print(f"Final loss: {losses[-1]:.6f}")
+
+        # Ensure we're using the best model
+        if self.best_model_state is not None:
+            self.model.load_state_dict(self.best_model_state)
 
     def predict_proba(self, X, target_range=None):
         X = np.asarray(X).astype(np.float32)

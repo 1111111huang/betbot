@@ -25,10 +25,6 @@ if __name__ == '__main__':
     encoder = TeamEncoder.load(f"{FEATURE_CONFIG['data_processor_path']}/team_encoder.pkl")
     team_encoding_df = encoder.transform(data_dfs).reset_index(drop=True)
 
-    # Previous Season Team Average
-    previous_season_feature= PreviousSeasonTeamAverager(decay_factor=1, date_col='date', home_col='home', away_col='away')
-    prev_season_feature_df = previous_season_feature.transform(data_dfs).reset_index(drop=True)
-
     # Team Lag Features
     generator = TeamLagFeatureGenerator(lookback=5)
     team_lag_feature_df = generator.transform(data_dfs[1:]).reset_index(drop=True)
@@ -44,11 +40,10 @@ if __name__ == '__main__':
     print('Team rest days features shape:', team_rest_days_features.shape)
     print('Team lag features shape:', team_lag_feature_df.shape)
     print('Team encoding features shape:', team_encoding_df.shape)
-    print('Previous season features shape:', prev_season_feature_df.shape)
     print('Team lag target features shape:', team_lag_target_df.shape)
 
     # Combine all features
-    combined_features = team_encoding_df.merge(prev_season_feature_df, on=key_columns, how='inner')
+    combined_features = team_encoding_df.copy()
     combined_features = combined_features.merge(team_lag_feature_df, on=key_columns, how='inner')
     combined_features = combined_features.merge(team_rest_days_features, on=key_columns, how='inner')
     combined_features = combined_features.merge(team_lag_target_df, on=key_columns, how='inner')
@@ -65,5 +60,5 @@ if __name__ == '__main__':
     scaler_path = os.path.join(encoder_folder, 'standard_scaler.pkl')
     joblib.dump(scaler, scaler_path)
     print(f"StandardScaler saved to {scaler_path}")
-    combined_features.to_csv(f"{FEATURE_CONFIG['features_path']}/all_combined_features_no_team_2017-24.csv", index=False)
+    combined_features.to_csv(f"{FEATURE_CONFIG['features_path']}/all_combined_features_fixed_lag_2017-24.csv", index=False)
 
