@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import time
 import os
 import cloudscraper
+import httpx
 
 from src.data.match_data_processing import *
 
@@ -52,8 +53,19 @@ def scrape_season_match_data(url, dest, verbose=True):
             if verbose:
                 print(f"Files for match {match_id} already exist. Skipping.")
             continue
-
-        dfs = pd.read_html(f"https://fbref.com{link}")
+        print(f"https://fbref.com{link}")
+        url = f"https://fbref.com{link}"
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                        "AppleWebKit/537.36 (KHTML, like Gecko) "
+                        "Chrome/120.0.0.0 Safari/537.36",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Referer": "https://www.google.com/",
+        }
+        with httpx.Client(headers=headers, follow_redirects=True) as client:
+            r = client.get(url)
+            r.raise_for_status()
+            dfs = pd.read_html(r.text)
         results = process_match_data(dfs)
 
         results[0].to_csv(match_stat_path)

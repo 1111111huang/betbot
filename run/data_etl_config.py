@@ -2,14 +2,7 @@ from const import RAW_DATA_PATH, REPO_PATH, PROCESSED_DATA_PATH, FEATURES_PATH, 
 from fbref_const import TARGET_COLUMNS
 
 SEASONS = [
-    '2017-18',
-    '2018-19',
-    '2019-20',
-    '2020-21',
-    '2021-22',
-    '2022-23',
-    '2023-24',
-    '2024-25',
+    '2025-26'
 ]
 
 COMPETITION = 'premier_league'
