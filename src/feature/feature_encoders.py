@@ -475,94 +475,65 @@ class PreviousSeasonTeamAverager:
         for k in sorted_keys:
             season_dfs[k][self.date_col] = pd.to_datetime(season_dfs[k][self.date_col])
             season_dfs[k] = season_dfs[k].sort_values(self.date_col).reset_index(drop=True)
-
+        
         spot_df = spot_df.copy()
         spot_df[self.date_col] = pd.to_datetime(spot_df[self.date_col])
-        spot_df = spot_df.sort_values(self.date_col).reset_index(drop=True)
 
-        # First build complete team history from all available seasons
-        team_history = {}
+        def get_season(date):
+            year = date.year
+            if date.month >= 8:
+                return f"{year}-{str(year+1)[-2:]}"
+            else:
+                return f"{year-1}-{str(year)[-2:]}"
+
+        # Find the most recent season in season_dfs that's before each spot season
+        spot_df['__season__'] = spot_df[self.date_col].apply(get_season)
         
-        # Get column structure from first available season
-        first_season_df = next(iter(season_dfs.values()))
-        available_columns = [col for col in first_season_df.columns 
-                           if col not in [self.date_col, self.home_col, self.away_col]]
+        # Convert season keys to dates for comparison
+        season_dates = {}
+        for season in sorted_keys:
+            year = int(season.split('-')[0])
+            # Use August 1st as the season start date
+            season_dates[season] = pd.Timestamp(year=year, month=8, day=1)
 
-        # Build history from historical data
-        for season_key in sorted_keys:
-            df = season_dfs[season_key]
-            for _, row in df.iterrows():
-                match_date = pd.to_datetime(row[self.date_col])
-                
-                # Only include matches that happened before the earliest spot match
-                if match_date >= spot_df[self.date_col].min():
-                    continue
-                    
-                home_team = row[self.home_col]
-                away_team = row[self.away_col]
-                
-                team_history.setdefault(home_team, []).append({
-                    'date': match_date,
-                    'row': row,
-                    'was_home': True
-                })
-                team_history.setdefault(away_team, []).append({
-                    'date': match_date,
-                    'row': row,
-                    'was_home': False
-                })
-
-        # Process spot matches chronologically
         results = []
-        for _, row in spot_df.iterrows():
-            match_date = pd.to_datetime(row[self.date_col])
-            home_team = row[self.home_col]
-            away_team = row[self.away_col]
+        for season in spot_df['__season__'].unique():
+            # Get the date of the spot season
+            spot_year = int(season.split('-')[0])
+            spot_season_date = pd.Timestamp(year=spot_year, month=8, day=1)
 
-            lag_row = pd.Series(dtype=object)
-            lag_row[self.home_col] = home_team
-            lag_row[self.away_col] = away_team
-            lag_row[self.date_col] = match_date
+            # Find the most recent previous season
+            prev_season_key = None
+            for season_key, season_date in season_dates.items():
+                if season_date < spot_season_date and (prev_season_key is None or season_date > season_dates[prev_season_key]):
+                    prev_season_key = season_key
 
-            # Get history before current match date for each team
-            for team_role, team_name in [(self.home_col, home_team), (self.away_col, away_team)]:
-                history = [h for h in team_history.get(team_name, []) if h['date'] < match_date]
-                history.sort(key=lambda x: x['date'])  # Ensure chronological order
-                
-                for lag_i in range(1, self.lookback + 1):
-                    if len(history) >= lag_i:
-                        hist_entry = history[-lag_i]
-                        hist_row = hist_entry['row']
-                        was_home = hist_entry['was_home']
+            if prev_season_key is None:
+                continue  # No previous season found
 
-                        # Copy all columns except identifiers
-                        for col in available_columns:
-                            lag_row[f'{team_role}_lag{lag_i}_{col}'] = hist_row[col]
-                        lag_row[f'{team_role}_lag{lag_i}_was_home'] = int(was_home)
-                    else:
-                        # Set all features to None when no history exists
-                        for col in available_columns:
-                            lag_row[f'{team_role}_lag{lag_i}_{col}'] = None
-                        lag_row[f'{team_role}_lag{lag_i}_was_home'] = None
+            # Get spot matches for this season
+            sub_spot = spot_df[spot_df['__season__'] == season]
             
-            # Order columns consistently
-            lag_row = lag_row[[self.home_col, self.away_col, self.date_col] + 
-                             [c for c in lag_row.index if c not in [self.home_col, self.away_col, self.date_col]]]
-            results.append(lag_row)
+            # Compute averages from previous season
+            prev_season = season_dfs[prev_season_key]
+            team_avg_stats = self._compute_team_averages(prev_season)
 
-            # Update history with current match for future spot matches
-            match_info = {
-                'date': match_date,
-                'row': row,
-                'was_home': True
-            }
-            team_history.setdefault(home_team, []).append({**match_info, 'was_home': True})
-            team_history.setdefault(away_team, []).append({**match_info, 'was_home': False})
+            # Create output DataFrame directly from spot matches
+            output_df = sub_spot[[self.home_col, self.away_col, self.date_col]].reset_index(drop=True)
+
+            # Add average stats for each team
+            for team_role in [self.home_col, self.away_col]:
+                role_avg_df = output_df[team_role].map(lambda team: team_avg_stats.get(team, {}))
+                role_avg_df = pd.json_normalize(role_avg_df)
+                role_avg_df.columns = [f'prev_season_avg_{team_role}_{col}' for col in role_avg_df.columns]
+                output_df = pd.concat([output_df, role_avg_df], axis=1)
+
+            if not output_df.empty:
+                output_df[self.date_col] = pd.to_datetime(output_df[self.date_col])
+                results.append(output_df)
 
         if results:
-            result_df = pd.DataFrame(results)
-            result_df[self.date_col] = pd.to_datetime(result_df[self.date_col])
-            return result_df
+            return pd.concat(results, ignore_index=True)
         else:
             return pd.DataFrame()
 
@@ -680,6 +651,37 @@ class TeamLagTargetFeature:
         self.date_col = date_col
         self.home_col = home_col
         self.away_col = away_col
+        
+    def _get_team_history(self, team, merged_df):
+        """Helper function to get team's match history with home/away flags"""
+        home_matches = merged_df[merged_df[self.home_col] == team].copy()
+        away_matches = merged_df[merged_df[self.away_col] == team].copy()
+        
+        history = []
+        
+        # Process home matches
+        for _, match in home_matches.iterrows():
+            target_cols = [col for col in match.index 
+                          if col not in [self.home_col, self.away_col, self.date_col]]
+            history.append({
+                'date': match[self.date_col],
+                'was_home': True,
+                'stats': {col: match[col] for col in target_cols}
+            })
+            
+        # Process away matches
+        for _, match in away_matches.iterrows():
+            target_cols = [col for col in match.index 
+                          if col not in [self.home_col, self.away_col, self.date_col]]
+            history.append({
+                'date': match[self.date_col],
+                'was_home': False,
+                'stats': {col: match[col] for col in target_cols}
+            })
+            
+        # Sort by date
+        history.sort(key=lambda x: x['date'])
+        return history
 
     def _compute_team_averages(self, df, target_cols):
         """Compute average target values for each team from a season."""
@@ -746,7 +748,10 @@ class TeamLagTargetFeature:
                 for team_role, team_name in [(self.home_col, home_team), (self.away_col, away_team)]:
                     if team_name not in team_history:
                         team_history[team_name] = []
-                    team_history[team_name].append({col: row[col] for col in target_cols})
+                    team_history[team_name].append({
+                        'was_home': team_name == home_team,
+                        'stats': {col: row[col] for col in target_cols}
+                    })
 
                 lag_row = {
                     self.home_col: home_team,
@@ -761,16 +766,21 @@ class TeamLagTargetFeature:
                     for lag_i in range(1, self.lookback + 1):
                         if len(history) >= lag_i:
                             hist_entry = history[-lag_i]
+                            # Add was_home flag
+                            lag_row[f"{team_role}_lag_{lag_i}_was_home"] = int(hist_entry['was_home'])
+                            # Add target values
                             for target_col in target_cols:
-                                lag_row[f"{team_role}_lag_{lag_i}_{target_col}"] = hist_entry[target_col]
+                                lag_row[f"{team_role}_lag_{lag_i}_{target_col}"] = hist_entry['stats'][target_col]
                         else:
                             # Use previous season's average if available
                             if prev_season_averages and team_name in prev_season_averages:
+                                lag_row[f"{team_role}_lag_{lag_i}_was_home"] = 0.5  # Average of home/away
                                 for target_col in target_cols:
                                     lag_row[f"{team_role}_lag_{lag_i}_{target_col}"] = \
                                         prev_season_averages[team_name][target_col]
                             else:
                                 # If no previous season data, use -1
+                                lag_row[f"{team_role}_lag_{lag_i}_was_home"] = -1
                                 for target_col in target_cols:
                                     lag_row[f"{team_role}_lag_{lag_i}_{target_col}"] = -1
 
@@ -835,7 +845,8 @@ class TeamLagTargetFeature:
                 for team_name in [home_team, away_team]:
                     team_history.setdefault(team_name, []).append({
                         'date': match_date,
-                        **{col: row[col] for col in target_cols}
+                        'was_home': team_name == home_team,
+                        'stats': {col: row[col] for col in target_cols}
                     })
 
         # Process spot matches
@@ -865,16 +876,21 @@ class TeamLagTargetFeature:
                 for lag_i in range(1, self.lookback + 1):
                     if len(history) >= lag_i:
                         hist_entry = history[-lag_i]
+                        # Add was_home flag
+                        lag_row[f"{team_role}_lag_{lag_i}_was_home"] = int(hist_entry['was_home'])
+                        # Add target values
                         for target_col in target_cols:
-                            lag_row[f"{team_role}_lag_{lag_i}_{target_col}"] = hist_entry[target_col]
+                            lag_row[f"{team_role}_lag_{lag_i}_{target_col}"] = hist_entry['stats'][target_col]
                     else:
                         # Use previous season's average if available
                         if prev_season_key and team_name in season_averages[prev_season_key]:
+                            lag_row[f"{team_role}_lag_{lag_i}_was_home"] = 0.5  # Average of home/away
                             for target_col in target_cols:
                                 lag_row[f"{team_role}_lag_{lag_i}_{target_col}"] = \
                                     season_averages[prev_season_key][team_name][target_col]
                         else:
                             # If no previous season data, use -1
+                            lag_row[f"{team_role}_lag_{lag_i}_was_home"] = -1
                             for target_col in target_cols:
                                 lag_row[f"{team_role}_lag_{lag_i}_{target_col}"] = -1
 
