@@ -20,7 +20,7 @@ assert CURRENT_SEASON in ALL_SEASONS, f"Current season {CURRENT_SEASON} is not i
 COMPETITIONS = ('premier_league',)# 'la_liga')
 
 INPUT_CSV_PATHS = {
-    'premier_league': 'data/inputs/2025-26-02.csv',
+    'premier_league': 'data/inputs/2025-26-03.csv',
 }
 
 OUTPUT_CSV_PATH = 'data/outputs/'

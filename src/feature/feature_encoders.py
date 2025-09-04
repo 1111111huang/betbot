@@ -821,6 +821,7 @@ class TeamLagTargetFeature:
 
         # Calculate averages for each season
         for season_key in sorted_keys:
+            print(f"Processing season: {season_key}")
             merged = season_dfs[season_key].merge(
                 target_dfs[season_key] if isinstance(target_dfs, dict) else target_dfs[sorted_keys.index(season_key)],
                 on=[self.date_col, self.home_col, self.away_col],
